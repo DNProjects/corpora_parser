@@ -1,0 +1,717 @@
+L439322 +++$+++ u7019 +++$+++ m469 +++$+++ ELIZABETH +++$+++ What's Peggy Sue going to do at your lodge meeting?
+L439309 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ I've been trying to drag it out of her for years.  You know, dreams are fascinating business. 'Specially where you see the future.
+L439308 +++$+++ u7019 +++$+++ m469 +++$+++ ELIZABETH +++$+++ I'm not telling.
+L439307 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ What's it going to be, Elizabeth? Seventy—five? Eighty?
+L439300 +++$+++ u7019 +++$+++ m469 +++$+++ ELIZABETH +++$+++ I've already got some in. I was thinking of making a pie for dinner tonight.  How would you like that?
+L439299 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ Quite a bit more rain than usual this year. I hope it doesn't spoil the rhubarb.
+L439298 +++$+++ u7019 +++$+++ m469 +++$+++ ELIZABETH +++$+++ Peggy Sue!
+L439297 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ Hello, Lilla!
+L439342 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ It wouldn't be a lodge without hats.
+L439341 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Do you have to wear that hat?
+L439333 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ The last one was six hundred years ago. It's about time for another one.
+L439332 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I hope so. At least I got to see you and Grandma.  Has it ever worked before?
+L439331 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ I may be an old fool, but I think we can help you.
+L439330 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ Stag movies. Smokers.
+L439329 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What does Grandma think you do at your meetings?
+L439327 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Good—bye, Grandma.
+L439326 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ Let's go.
+L439321 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ I'd take better care of my teeth.
+L439320 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Grandpa, if you had a chance to do it all again, what would you do?
+L439319 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ It's your grandma's strudel that's kept this family together.
+L439318 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ That never changes.  You know, when you and Grandma are gone, the family's gone. I never see the cousins anymore.
+L439317 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ It's gonna rain again. Every time I wash the car, it rains.
+L439312 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I remember that book!  Grandpa, Grandma, I want to tell you something.
+L439311 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ Well, I like to speculate. This book I'm reading right now, a woman in Colorado says she lived in Ireland a hundred and fifty years ago. Her name was Bridey Murphy- and she gives names and dates and where she lived. She was hypnotized. Big bestseller.
+L439310 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Do you believe in all of that?
+L438434 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I don't know. Reunions do funny things to people.
+L438433 +++$+++ u7015 +++$+++ m469 +++$+++ BETH +++$+++ Why are you so nervous? What is the matter with you today?
+L438432 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I feel ridiculous. Maybe I should go home and change.
+L438431 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Not from the guy with the lowest prices in town.
+L438430 +++$+++ u7015 +++$+++ m469 +++$+++ BETH +++$+++ Mom, lots of people are separated and divorced.
+L438429 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Borrow?! This was my dress.  Maybe it's a mistake. What if I'm the only one? I don't even want to go. Everybody's just going to say...  Hi.. Where's Crazy Charlie?
+L438428 +++$+++ u7015 +++$+++ m469 +++$+++ BETH +++$+++ Hey, you're a hip chick. You look like you stepped right out of Life magazine. Any time you want to borrow it again, just ask.
+L438427 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Then we'd both have a miserable time. What do you think?
+L438426 +++$+++ u7015 +++$+++ m469 +++$+++ BETH +++$+++ Come on Mom. Give him a break. He's missing the reunion because of you. You know he wants to go.
+L438425 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ But I want you and Scott to understand.  Do you think he loves Janet? Maybe he's smashed too many fortune cookies.
+L438413 +++$+++ u7015 +++$+++ m469 +++$+++ BETH +++$+++ It looks great. Don't change the subject. You know how busy Saturdays are. And I can't do the icing. I always mess up the roses. You're not being very responsible.
+L438412 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ How do you like my hair?
+L438411 +++$+++ u7015 +++$+++ m469 +++$+++ BETH +++$+++ r was worried about you  You didn't even call. You're always on my case if I don't call..
+L438410 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ This is my old friend Carol.. I told you about her.
+L438409 +++$+++ u7015 +++$+++ m469 +++$+++ BETH +++$+++ Where were you? You said you'd be back at twelve.
+L439263 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Look, Carol, maybe Walter's done you a big favor. You always said you wanted to get out of town. Go for it. And be happy, goddamnit, I'm rooting for you.
+L439262 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ What a I going to do for the rest of my life? I don't have a boyfriend anymore.
+L439261 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Welcome to the singles' scene.
+L439260 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ After Charlie told Walter that he broke up with you because he wanted to play the field, Walter decided he should do the same thing.
+L439259 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What happened?
+L439258 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ It's that jerk Walter.
+L439257 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What's the matter?
+L439093 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Aren't we a little old for that?
+L439092 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Okay. But let's have a girls night soon. Maybe a pajama party.
+L439084 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ That loud—mouthed little bitch~
+L439083 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ I bet Dolores told Charlie.
+L439080 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Come on. What's with you and Michael?
+L439079 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You're kidding...? Carol, you have beautiful hair.
+L439078 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Just what you underlined.
+L439077 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Did you memorize the whole book or only the good parts?
+L439071 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ On what?
+L439070 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ All right. What's the scoop?
+L438880 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ He does?
+L438879 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Yeah. You're so lucky. He really loves you, too. He's always telling Walter how wonderful you are.
+L438878 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ He is kind of cute, isn't he?
+L438713 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ That's because you' re not a total moron like they are.
+L438712 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I don't get it.
+L438577 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Yes. Let's stay in touch.
+L438576 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ I'll call you Later.
+L438575 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ That's okay. I'm sure I'll remember the way.
+L438574 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ We're going to take you home.
+L438573 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Maddy, what did you do to your hair?
+L438572 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Were taking you back to the nurse.
+L438571 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Where is it?
+L438553 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Go on. You can do it.
+L438552 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I can't. It's all too much.
+L438551 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ They're waiting. Come on.
+L438525 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Well, besides Charlie, of course.
+L438524 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ The only one?
+L438515 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Who knows. Remember...  Whatever Walter wants...
+L438514 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Your first boyfriend. What do you think? Any sparks left?
+L438513 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Hi, Peggy. God, that Walter Getz	can still dance.
+L438475 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Wouldn't we all.
+L438474 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Oh, it's not so bad. I have two wonderful kids, my own business.  Still, knowing what I know now, if I had the chance to do it all over again, I'd sure do things a lot differently.
+L438473 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ After you got knocked up, my mother didn't want me to talk to you. She thought it was contagious.
+L438472 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ It's not the place. I don't buy that.  Trapped in the same town forever. The price she would pay for her teenage lust.
+L438471 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ You should have left here years ago, like I did.
+L438470 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ So he started having affairs, and you got depressed.
+L438469 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ We did for a long time. We just got married too young, and ended up blaming each other for missing out on things.
+L438468 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ You just have to remember... men are like houses and trade upwards... I thought you had a pretty good marriage.
+L438467 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I don't know how you do it. I've never even dated anybody but Charlie.
+L438466 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Welcome to the singles scene.
+L438408 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ You're probably the only one who could carry it off.
+L438407 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ 1 just did it for the reunion. I thought it would be fun.
+L438405 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Peggy Sue!
+L438404 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Carol!
+L439091 +++$+++ u7020 +++$+++ m469 +++$+++ MADDY +++$+++ Yeah. I've gotta go. Arthur's picking me up soon.
+L439090 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Don't be silly. It's Saturday. Date night!
+L439086 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ You better watch out for her. She's after Charlie.
+L439085 +++$+++ u7020 +++$+++ m469 +++$+++ MADDY +++$+++ Peggy Sue!
+L439076 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ ) Oh, Maddy, grow up. It says in LOVE WITHOUT FEAR that "the tongue kiss as a means of genital stimulation is widely practiced and has much to commend it". Page eighty—six.
+L439075 +++$+++ u7020 +++$+++ m469 +++$+++ MADDY +++$+++ That's disgusting!
+L439074 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ I hear she does more than talk with her mouth.
+L438875 +++$+++ u7020 +++$+++ m469 +++$+++ MADDY +++$+++ Maybe they'll be the next Dion and the Belmonts.
+L438874 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Charlie really has a great voice.
+L438860 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Why do guys do such stupid things?
+L438859 +++$+++ u7020 +++$+++ m469 +++$+++ MADDY +++$+++ Can you believe I want to marry that dork.
+L438519 +++$+++ u7020 +++$+++ m469 +++$+++ MADDY +++$+++ Michael Fitzsimmons! Is he here?
+L438518 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Lucky lady. Hi.
+L439412 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Listen, I don't expect all the troubles between us can just vanish away. But I would do what I can...
+L439411 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Don't try to charm me, Charlie Bodell.
+L439410 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I loved you since the day I met you, and I haven't stopped.
+L439409 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Then hold me.
+L439408 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I'll never give up.
+L439407 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You were terrific.  And I kept trying to push you away but you wouldn't give up.
+L439406 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Oh, God, Dion.
+L439405 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Charlie, I had a strange experience.  I went back to high school. And I spent a lot of time with you.  And you and Walter and Leon were singing "I Wonder Why".
+L439404 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I'll just set it right here.
+L439403 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ It couldn't be me.  I hardly knew him.
+L439400 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ That's over. I got tired of translating everything. She thought the Big Hopper was a hamburger.
+L439399 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What about Janet?
+L439398 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I wanted to apologize. I can't live without you.
+L439397 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Charlie, I thought I knew everything about you.
+L439396 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ But happy. Very happy, Peggy Sue.
+L439395 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You look awful, like you haven't slept in days. And so old.
+L439394 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I thought you were...for a while.
+L439393 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Charlie? Was I dead?
+L439392 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ . Peggy Sue, I love you, and I need you Peggy Sue...
+L439388 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'm trying.
+L439387 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Come back to me.
+L439386 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'll love you, too, Charlie. I'll love you for twenty years.
+L439385 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ But I love you. I'll love you forever.
+L439384 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I've got to go now.
+L439383 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Peggy! Where're you going? Come back!
+L439382 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ What the hell is that?
+L439381 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Do you think anybody in the Fifties ever made love on a bed?
+L439380 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I think we should get out of here. It's going to rain.
+L439379 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I know.
+L439378 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I love you.
+L439374 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ It opens, too. Look inside.
+L439373 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Oh, Charlie.
+L439371 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Of course.
+L439370 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Will you take me back to my grandparents?
+L439368 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I might be crazy, but I'm not crazy enough to marry you twice. There's a lot of things I can't change. I can't even think about them. I tried. But I couldn't even help Rosalie.  I don't want to be bitter. I'm a naturally optimistic person. But you took advantage of that.
+L439367 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ You're crazy! You're really out of your mind!
+L439366 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You betrayed me, Charlie. You were never there for me or the children. And now you come and tell me, "Peggy, you're scared." Of course I'm scared. If you knew what I knew you'd be scared shitless.
+L439365 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ What?
+L439364 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What do you mean you and my father decided? Who the hell are you to plan my life? Let's get married and live happily ever after. Bullshit. I got knocked up. I had to marry you. I never had a choice.
+L439362 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ How could you possibly know what I've been going through?
+L439361 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Look. I wanna tell you. I forgive you for everything. I know what you've been going through. You're just scared. I was scared, too, but I'm not anymore.
+L439360 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Right here. Now sit down.
+L439359 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Let me got! Where are you taking me?
+L439357 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ You're going to listen to me.
+L439356 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Don't be ridiculous! They're just a bunch of harmless old men. My grandfather was in there.
+L439355 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I was trying to save you. They were going to vaporize you.
+L439354 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What the hell did you do that for? What are you doing here?
+L439293 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Okay. Listen, I cancelled the tickets for Fabian. I thought it would be better for your birthday to eat at a nice restaurant, Chez Tres.
+L439292 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Forget it, it'll never work.
+L439255 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ That's all I wanted to hear. 'Cause I'm never going to give up on us. It's easy to fall apart in a crisis. It's easy to be selfish and say goodbye and good luck. But this is more than love. This is a mental decision. Just wait till tomorrow, when you see your birthday present. Then you'll understand.
+L439254 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ It means I care about you and what happens to you.
+L439253 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Does this mean you like me again?
+L439252 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ If you took the trouble to write it, then sure, I'll take a look at it. But I'm beginning to think that maybe there's more to life than music. I wonder if people would still like me if I stopped being Mr. Excitement?
+L439251 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Just take a look at it. 
+L439250 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Fat chance. You know, Lee Wilkins came to hear me last night. He told me to forget it. You told me to forget it. My parents tell me to forget it.
+L439249 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Not exactly, but with your great voice, it'll be a huge hit. Honest.
+L439248 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ You're kidding. You wrote a song? Is it about a guilty girl and a trusting guy... she wants to hurt him, and he wonders why?
+L439247 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Stop being defensive. I want to help you. I wrote a song for you.
+L439246 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ That's real big of you.
+L439245 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'd forgotten how much music meant to you.
+L439244 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Hey. I guess there's a lot of things we don't know about each other.
+L439243 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What were You doing there? You never told me you were singing with an R and B group.
+L439242 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Not terrific enough. What were you doing in that part of town? Who were you with?
+L439241 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I was at Lena's last night. You were terrific.
+L439240 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ How'd you know about that?
+L439239 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Well, how about a walk, Charlie Bell..
+L439238 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Sorry, the Blue Thunder's out of commission for a while.
+L439237 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Oh. I guess I always liked Rusty better.  Could you give me a ride to school?
+L439236 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Rusty's dead. That's Ajax
+L439235 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I wanted to talk to you, and I have one last thing to take care of at school. Then I'm going to...  Good dog, Rusty. Good dog.
+L439234 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ What're you doing here?
+L439129 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ You don't know zip! You think I'm going to end up selling appliances like my father? Chasing women around the store. I've got to give it a shot. Why are you trying to kill the two things that mean the most to me? Until yesterday you loved me and you loved us.  ) What the hell has changed? For two years I've done nothing but love you. I'll show you, I'm going to be just like Fabian!
+L439128 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'm trying to save you years of frustration... waiting for a big break... no. Waiting for that big disappointment so you could blame it all on me.
+L439127 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ What! What about the group and my singing career? What about me?
+L439126 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Everything. I have a good head for business, I should be franchising the bakery. And I want you to give me your word that whatever happens, you'll go to college. And finish.
+L439125 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ But what has to be different?
+L439124 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ That's just it. You can always get to me. There's this window in my heart and every time I leave it open, you climb in. Unless I close it now, nothing's ever going to be different!
+L439123 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ What about everything I said to you this afternoon...
+L439122 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I just can't trust you anymore.
+L439121 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ What are you talking about? Who's Janet?
+L439120 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ That won't make any difference. We just can't live together. And you had the nerve to drive up with that bimbo Janet.
+L439119 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I will be happy if I have you. I love you.
+L439118 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Charlie,. I've been trying to postpone this. But what's the point? It's over.  I don't want to hurt you. This is very hard for me. I'm doing this for both of us. I really want you to be happy.
+L439117 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Look, I've got the hair, got the eyes, got the teeth, I got the car. I'm the lead singer, I'm the man.
+L439116 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ And why do you always refer to yourself in the third person, like Napoleon? How come it always turns into an argument with you?
+L439115 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ You're going to blow it, Peggy Sue. Nobody treats Charlie Bodell like this.
+L439114 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You know I never could stand your sarcasm.
+L439113 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Then it's true, dammit! I had a miserable time tonight 'cause of you. When the Monotones did "Book of Love —— Chapter Four you break up, won't you give it just one more chance..." I'm thinking Did we break up? 'Cause if we did, I don't even know about it!. I thought we cleared all that up yesterday. Did that Maynard G. Beatnik give you what you wanted?
+L439112 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I bumped into him after you dropped me off Last night. I didn't feel like going home, so we went for a ride.
+L439111 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I want to know what's going on. Dolores told me that you and that scuzzball Michael Fitzsimmons...
+L439110 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Let's go down to the basement.
+L439109 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What are you doing here?
+L439108 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I have to talk to you..
+L439107 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Charlie. I just had the strangest dream.
+L439040 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Don't be cruel to a heart that's true.
+L439039 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What am I going to do with you?
+L439038 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Because nothing else matters. That's the great thing about love. Every time we argue, every time something goes wrong, and I know that I'm not perfect either, things just work out better in the end. Cause you're my baby and I love you.
+L439037 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Why?
+L439036 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Yeah, I know. Girls mature faster than guys. But last night, I was the one who put on the brakes. And you know why?
+L439035 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ But I'm not. I'm a grown woman with a lifetime of emotional experiences you couldn't possibly understand.
+L439034 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Forget it. I've been thinking. Girls must go through that stuff too. Sometimes when I look at you I feel like an animal. Maybe my dad's right. Teenagers are nuts.
+L439033 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Charlie. About last nights..
+L439032 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Nothing.. Selling is selling.
+L439031 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What do you know about classical music?
+L438915 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Save it.
+L438914 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'm sorry Charlie.
+L438913 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ You're damn right! Jesus! Peggy! You sure know how to spoil a mood.
+L438912 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ This is a mistake. We better forget it.
+L438910 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ You mean my wang? Listen, it's running real late.
+L438909 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You know. Your love machine... the throbbing thrill hammer... your thing!
+L438908 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Who?
+L438907 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I probably meant it when I said it.  Doesn't Lucky Chuckie want to come out?
+L438906 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ But you're the one who wanted to wait till we got married. And you were right. We should wait.
+L438905 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ A lot's happened since last weekend.
+L438904 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ What?! You mean sex?! Intercourse?  You want to have intercourse! Last weekend you said... What time is it?
+L438903 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Charlie, let's make love.
+L438902 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ You know I do.  I even wrote you into my will.
+L438901 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You really love me, don't you?
+L438900 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Your eyes look like silver pools of moonlight.  And the tide rushes in.
+L438899 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Mmm. This is nice.  I always loved the way you kiss.  I missed you.
+L438896 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Yeah I know.  But I don't have to flatter you.  It just feels right. You're the perfect girl for me.  As in is, was and always will be.  I'm glad dancing was invented.  You know the first dances were rituals. Like fertility rites.
+L438895 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You're pretty charming when you want to be.
+L438894 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ There isn't a girl in school that can hold a candle to you..
+L438892 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Come on, let's dance.
+L438891 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Hey! Who needs physics when we've got chemistry?
+L438890 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ He's trying.
+L438889 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Is he gonna help you with that physics stuff?
+L438888 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Charlie, what do you think of Richard Norvik?
+L438841 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Seriously. What's it like to be eighteen?
+L438840 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I'm fine Peggy Sue. And how are you? Are we talking on the phone? Are we pen pals?
+L438839 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Charlie, how are you?
+L438838 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Is this slow enough for you?
+L438837 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Right. I promised my mother.
+L438836 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Hey! What's the fun of being a teenager if you can't dress weird? And we're going to have fun tonight, right?
+L438835 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ It's really Fifties. You sort of clash with the world.
+L438834 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Great, isn't it?
+L438833 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Where did you get that sweater?
+L438743 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Good.
+L438742 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Yeah. Like that.
+L438741 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Rejected, worthless, miserable.
+L438740 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ In the abstract maybe. Get a grip on yourself! But when I imagine you going out with other guys, I feel... ah...
+L438739 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I thought it had a lot of merit.
+L438738 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I noticed you were giving me the silent treatment at lunch. I guess I deserved it. I've been thinking about my three year plan and I think it's unworkable. I must have been delirious.
+L438737 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Thanks.
+L438736 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Looking good out there.
+L438683 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Would I?!! Why I oughta...
+L438682 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Would you?
+L438681 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Want me to drive you home later?
+L438679 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ They'll learn to live with it.
+L438678 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Well, we got the prom coming up, all these parties. We shouldn't upset our parents?
+L438677 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Why wait?
+L438676 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ It's not going to be forever. I figure three years is long enough. I can see it the music pans out.  And right after graduation we should start seeing other people. Kind of comparison shop before we settle down and get married. Know what I mean?
+L438675 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I can understand that.. But please don't start crying again.
+L438674 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Maybe I blocked it out.
+L438673 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ How could you forget? We talk about seeing other people and you forget?
+L438672 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Refresh my memory.
+L438671 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ You know. About what we said on Tuesday. It makes a lot of sense.
+L438670 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Oh yeah?
+L438669 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Not that I'm glad you were sick, but I had a chance to do some thinking last night.
+L438668 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I call this the staccato. 
+L438667 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You drive like a maniac!
+L438666 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Hey, I can take a hint. You look great today.
+L438665 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Not now, Charlie. I've got a headache. Get used to the word. Roll it around your tongue for a years.
+L438663 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Pretty strange.
+L438662 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ How do you feel?
+L438558 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ No. You are the undead. You will live forever if you give me your Twinkie.  Come on, let's have it. You hate them anyway.
+L438557 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Charlie! Am I dead?
+L438556 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I vant to suck your blood. I also vant to suck your Twinkie.
+L438392 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I'm not going.
+L438391 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Are you taking Janet to the reunion tonight?
+L438390 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I'll think of a way to sell, them.  One day.
+L438389 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I know. Put Scott through college.
+L438388 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ You don't want them? They're going to make a big comeback any minute. Mark my words, these lamps are going to...
+L438387 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I don't buy them anymore. You were the only one who drank them.
+L438386 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ You got a Tab?
+L438384 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Jesus, Peggy. Take it easy. I'm not used to that stuff. You always did the bills. Blame the damn post office.
+L438383 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Well, today's Saturday and it's still not here.
+L438382 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ I mailed it to you on Wednesday.
+L438381 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'm still waiting for the mortgage check.
+L438380 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Come off it, Peggy. And what do you mean your house? This is my house. I paid for it, I'm still paying for it.
+L438379 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ There's something pathetic parked in front of my house.
+L438369 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ And nothing will ever change that.
+L438368 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Yeah. Come on Charlie, turn it off.
+L438367 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ But you love me don't you?
+L438366 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I can't. I'm too embarrassed.
+L438365 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Come on Peggy. Say what we rehearsed.
+L438364 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ ...to record how much we love each other. Sitting beside me is the cutest majorette in the history of the world. And she would Like to say something.
+L438363 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Charlie...
+L438362 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ We're here on the sofa bed...
+L438361 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Don't say that...
+L438360 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ And we're here on the couch...
+L438832 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Of course.
+L438831 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Show her a good time, but for God's sake restrain yourself.
+L438830 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ What would that be, sir?
+L438829 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ We think this party might cheer her up. Just make sure you know what's expected of you.
+L438821 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Yes, sir. Trust is a two—way street. In the past two years I've been pleased to note that you and Mrs. Kelcher have, uh, fulfilled your sacred trust of being good parents to the, uh, woman I plan to take off your hands.
+L438820 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Charles, in spite of your adolescent infatuation with music, we've always regarded you a a fine young man. We've trusted you with our daughter.
+L438819 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Yes, sir. But that's what I like about her. She's not like all the other girls at school.
+L438817 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ She seems confused, irresponsible, overemotional. My wife says that's the way girls act sometimes.
+L438816 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Yes, sir.
+L438813 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Fine, thanks. Come on in. I want to talk to you.
+L438812 +++$+++ u7017 +++$+++ m469 +++$+++ CHARLIE +++$+++ Hello, sir. How are things at the hat store?
+L438811 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Hello, Charlie.
+L439273 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Have a nice day.
+L439272 +++$+++ u7018 +++$+++ m469 +++$+++ DOLORES +++$+++ Take a long walk on a short pier.
+L439271 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I beg your pardon?
+L439270 +++$+++ u7018 +++$+++ m469 +++$+++ DOLORES +++$+++ Oh! You did that on purpose! I hate you. Go gargle with razor blades!
+L439269 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Sorry. These fountain pens are so tricky.
+L438886 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Touchy, touchy!
+L438885 +++$+++ u7018 +++$+++ m469 +++$+++ DOLORES +++$+++ Are you for real?
+L438884 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Dolores, can't you be a little kinder to people? You don't even know the boy. If you weren't so neurotic and insecure, maybe you'd shut up for a while and show some compassion.
+L438883 +++$+++ u7018 +++$+++ m469 +++$+++ DOLORES +++$+++ God, Peggy, you're so unformed you're practically fetal. You're just taking pity on him 'cause he has no friends.
+L438882 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ First of all, Richard is not a creep. He happens to be an exceptional person. If any of you gave him half a chance, you'd find that out.
+L438881 +++$+++ u7018 +++$+++ m469 +++$+++ DOLORES +++$+++ Carol and I saw you with that creep, Richard, today.
+L438689 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Test?
+L438688 +++$+++ u7018 +++$+++ m469 +++$+++ DOLORES +++$+++ Did you study for the test?
+L438939 +++$+++ u7018 +++$+++ m469 +++$+++ DOLORES +++$+++ First a nerd and then a weirdo. What a bunch of nose pickers. I'll tell Charlie.
+L438938 +++$+++ u7028 +++$+++ m469 +++$+++ TERRY +++$+++ That commie beatnik? What's she doing with him? Wait'll I tell Charlie.
+L438937 +++$+++ u7018 +++$+++ m469 +++$+++ DOLORES +++$+++ There's Peggy with Michael Fitzsimmons.
+L438936 +++$+++ u7028 +++$+++ m469 +++$+++ TERRY +++$+++ What, why?
+L438935 +++$+++ u7018 +++$+++ m469 +++$+++ DOLORES +++$+++ Terry! Slow down.
+L438934 +++$+++ u7028 +++$+++ m469 +++$+++ TERRY +++$+++ Okay.
+L438933 +++$+++ u7018 +++$+++ m469 +++$+++ DOLORES +++$+++ Terry, slow down.
+L438898 +++$+++ u7028 +++$+++ m469 +++$+++ TERRY +++$+++ What if we're witnessing the end of touch dancing?
+L438897 +++$+++ u7018 +++$+++ m469 +++$+++ DOLORES +++$+++ Hey Terry, what is that?  Did Peggy make it up?  I've never seen that on Bandstand.
+L439325 +++$+++ u7019 +++$+++ m469 +++$+++ ELIZABETH +++$+++ He won't tell me, but I've got my suspicions. And I don't want any of that. Don't keep her out late.
+L439324 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ It was my idea, Grandma. I always wondered what went on at those lodge meetings.
+L439316 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ My children make me happy. I miss them so much.  Beth. Scott and Beth.  I'm going to name my daughter after you.
+L439315 +++$+++ u7019 +++$+++ m469 +++$+++ ELIZABETH +++$+++ Right now you're just browsing through time. Choose the things you'll be proud of. The things that Last.
+L439314 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ But I'm remembering the future.
+L439313 +++$+++ u7019 +++$+++ m469 +++$+++ ELIZABETH +++$+++ If you believe it, darling, then I believe. Being young can be just as confusing as being old. The things that happened to me fifty years ago are more on my mind than what happened yesterday.
+L439306 +++$+++ u7019 +++$+++ m469 +++$+++ ELIZABETH +++$+++ I'm not afraid. I know exactly when I'm going to die.
+L439305 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I wish she hadn't.
+L439304 +++$+++ u7019 +++$+++ m469 +++$+++ ELIZABETH +++$+++ You know, Peggy Sue, your mother said you had a dream that I died.
+L439302 +++$+++ u7019 +++$+++ m469 +++$+++ ELIZABETH +++$+++ That's a day's work. But if that's what you want, maybe we can do it tomorrow for your birthday.
+L439301 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Fine.  ) Grandma, would you teach me how to make strudel?
+L439089 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'm not going to marry him. I just went out with him once.  I know! Why don't we go to the movies tonight. Just us girls. It'll be fun.
+L439088 +++$+++ u7020 +++$+++ m469 +++$+++ MADDY +++$+++ But I always thought that you would marry Charlie, Carol would marry Walter, and I would marry Arthur. We'd all live on the same street and take our kids to the park together and have barbecues every Sunday. It'll spoil everything if you and Charlie break up. That Michael doesn't look like the barbecue type.
+L439087 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Cool it kids. He's free to see other girls, if he wants.
+L439082 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ He's very interesting. For all his pretending to be a tough guy, he's really got the soul of a poet.
+L439081 +++$+++ u7020 +++$+++ m469 +++$+++ MADDY +++$+++ Yeah. He's so cool and mysterious.
+L439073 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ She's unbelievable. Who needs satellites when we've got Dolores's mouth?
+L439072 +++$+++ u7020 +++$+++ m469 +++$+++ MADDY +++$+++ How come we're your best friends and we had to find out about you and Michael Fitzsimmons from Dolores?
+L438877 +++$+++ u7020 +++$+++ m469 +++$+++ MADDY +++$+++ Come on, where's your enthusiasm?
+L438876 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Don't get your hopes up.
+L438442 +++$+++ u7020 +++$+++ m469 +++$+++ MADDY +++$+++ It must run in the family.
+L438441 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Beth's boyfriend is playing in the band.
+L438438 +++$+++ u7020 +++$+++ m469 +++$+++ MADDY +++$+++ I wish I had the nerve. And the figure.
+L438437 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ It was Beth's idea.
+L439222 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ My father. He's not just the ultimate square. He's a total crook.
+L439221 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What?
+L439220 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ I can dig you being uptight about Rita and Utah. That's cool. But I've got to warn you about something.
+L439219 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ Can we split now?
+L439218 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I thought I knew everything about him.
+L439217 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ Peggy Sue's still stuck on treble without a cause.
+L439216 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Ssh. He's great.
+L439213 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ What a treat.
+L439212 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ It's Charlie!
+L439211 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ I can dig that. Bittersweet perfection. Dogs of lust on leashes of memory... yeah.
+L439210 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Yes. We had a glorious night together. One day you'll remember and write about it.
+L439209 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ You think so?
+L439208 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ That's a terrific line. You're going to be a wonderful writer.
+L439207 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ But we had heat baby. Passion! Fire! We owe it to ourselves to fuse together.  At least one more time.
+L439206 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Michael, you and I are light years apart. You should go, but not with me.
+L439205 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ But what about the other night? We were like two stars in the same constellation.
+L439203 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I hate chickens.
+L439202 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ Why not? Polygamy's legal in Utah.
+L439201 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I can't do that.
+L439200 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ Rita. I met her last summer. She's cool. You'll really dig her. She's got this great little cabin in the hills, just outside of Provo where she raises chickens. I'll write and the two of you can take care of the chickens to support us.
+L439199 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Utah? I thought you'd be going to New York or Paris. What's in Utah?
+L439198 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ Now listen, this is the plan. As soon as school is finished we go to Utah and...
+L439197 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ For everyone.
+L439196 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ Five more weeks of school. And ten minutes past graduation I'm gone.  To freedom.
+L439194 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I shouldn't have put you through that. It must have been agony. Let's do something.
+L439193 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ That was quite an evening. Bourgeois, phony, decadent, stupid.
+L438955 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ Okay. Here's a new one. It's called Tenderness.  I couldn't sleep so I thought I'd scream Betrayed by a kiss, sucking pods of bitterness. In the madhouse of Dr. Dread Razor shreds of rat puke fall On my bare arms  I'm sorry. I guess I was trying to impress you. 
+L438954 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'd love to.
+L438953 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ No, I just made that up. Do you want to hear one?
+L438952 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Is that one of your poems?
+L438951 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ A ray of oneness piercing the solitude. Falling bodies in the ecstasy of flesh. You'll be a chapter in my memoirs of desire.
+L438949 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I already did that. I want to be a dancer, I want to dance.
+L438948 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ Hey what's with you? I thought you were cool. You rode my bike. You blew some pot.  What's your scene Miss Majorette? You gonna marry Mr. Blue Impala and graze around with all the other sheep for the rest of your life?
+L438947 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ They care about you. They're just a different generation.
+L438946 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ The only thing my father digs is cold, green money. All my mother cares about is her standing at the country club.
+L438945 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Don't you get along with your parents?
+L438944 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ Maximum intensity. Yeah. I can't wait to get out of here. I'm gonna write. I'm gonna check out of this bourgeois motel. Push myself away from the dinner table and say 'No more Jell—O for me, Mom.'
+L438943 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What are you shooting for?
+L438942 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ The world is fantastic. It's the ultimate absurd circus. I am shot from a cannon into the energy.
+L438941 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Yeah. I'm surprised. It's really old...  Travels well though.  You know, the world looks a lot better from up here.
+L438940 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ This is great reefer.
+L438932 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Hey, man, I'm a hip chick.
+L438931 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ I thought chicks like you traveled in packs.
+L438930 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Coffee and a donut.
+L438929 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ What're you doing here anyway?
+L438928 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ The young man leaned back in his chair. No bulls would die today.
+L438927 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ A writer's life is his work. Jack Kerouac doesn't have to kill a bull to have something to write about. He's out there feeling, burning... grooving on life!
+L438926 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Maybe you're confusing his life with his work.
+L438925 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ He's a fisherman! The most overrated writer of the century. I mean, he's the perfect American author — fat, violent, drunk...
+L438924 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You don't?
+L438923 +++$+++ u7021 +++$+++ m469 +++$+++ MICHAEL +++$+++ Gilfond's okay, except he thinks Hemingway's great Literature.
+L438922 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I was impressed with what you said in English class today.
+L439232 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Look young lady, I grew up through the depression. I fought in the second World War. Six days a week I get up and deal with the public, the bank and the bill collectors. And on the seventh day, when God rests, I don't have to listen to my daughter calling me a fool!
+L439231 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Oh, you're both so naive.
+L439226 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Didn't call, them pantyhose, though. What was it, Evelyn?
+L439225 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Oh no!
+L439224 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ It's the darndest thing. Ed knew what they were immediately. As a matter of fact, he said he's got a product like that in development right now.
+L439223 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ How did it go with the pantyhose?
+L439106 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Wrong, Dad. Your idea.
+L439105 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ You mean to tell me that you invited this Mr. Fitzsimmons over to talk about investing his money in your cockamamie idea?
+L439102 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You need a partner. There's a friend of mine at school whose father makes seat covers for cars, Mr. Fitzsimmons. I've invited him and his family over for dinner tomorrow night.
+L439101 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ That's all well and good, but we don't have the money to manufacture them.
+L439096 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ This is your great invention?  Would you wear those things?
+L439095 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Ta da! Pantyhose! The death of the garter belt! Of course, once they're manufactured they'll look better than this. What do you think?
+L439059 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Richard Nixon's going to be President. Nixon wears hats.
+L439058 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ He'll win.
+L439057 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Kennedy's a Catholic. He'll never win.
+L439056 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ But when John F. Kennedy's elected President, men'1l stop wearing hats.
+L439055 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ That's very thoughtful, honey. It's just a slump. Things will pick up.
+L439054 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Yes.
+L439053 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ I, that what all that nonsense was about this morning? You're worried about my business?
+L439052 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ The hat business is in trouble.
+L439051 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ This morning was good.
+L439050 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Quiet today?
+L439049 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ It's hard to believe you're going to be eighteen.  Want an eskimo pie? Or a creamsicle? I'd come home from the store and there's little you running up to me. I'd give you a dime and you'd promise never to grow up.
+L439048 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I wanted to apologize for this morning.
+L439047 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Good, you got your money out of that greedy bank.
+L439046 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I closed my Christmas club.
+L439044 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Open it.
+L439043 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ For me?
+L439042 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Doing some shopping?
+L439041 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Hi, Dad.
+L438980 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Evelyn, take her to her room!
+L438979 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Listen Dad, please. Buy IBM, buy Polaroid, buy Apple Computer. No, no. Not yet. Buy Xerox!
+L438978 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ I've heard just about enough of this lunacy! Go to your room!
+L438977 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Oh boy, that's another thing that's going to change. Who's going to think for us? Our husbands? You know, you treat Mom like a maid. It's not entirely your fault. Those were the attitudes in the fifties, and that's the way you raised me. But give Nancy a break, encourage her to go to art school.
+L438976 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ That's your problems The more women think, the more trouble they get into.
+L438975 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I think they're going to deregulate it.
+L438974 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Do you know how ridiculous you sound? First of all, it's illegal for U.S. citizens to buy gold. And in the second place, the price of gold is regulated by the government.
+L438973 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I want to help with the family finances. I want you to buy some stocks. And gold. By 1980 gold is going to be worth eight hundred dollars an ounce. Then you sell.
+L438972 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ All right. But this better be good.
+L438971 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Calm down. Just listen for a minute.. Please.
+L438970 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Yes but I was a boy. And I still had hell to pay.
+L438969 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Dad.. it's not a big deal. Didn't you ever stay out all night when you were young?
+L438968 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Thank God for that.
+L438967 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ At my age? Don't be silly.
+L438966 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Peggy, let me ask you something.  You're not... expecting are you?
+L438965 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ It's not Charlie. It's me.
+L438964 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Damn that Charlie I
+L438647 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I think I'm way ahead of them.
+L438646 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ If all the kids jumped off a bridge, would you do that too?
+L438643 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Mom, is there any coffee left?
+L438642 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ You're so young, this is not the time to start acquiring bad habits.
+L438641 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ That would be impossible.
+L438640 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Thank you.. I accept your apology with the hope that what went on yesterday will never happen again.
+L438626 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Evelyn, put her to bed.
+L438625 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Dad, I never knew you had a sense of humor.
+L438622 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Grounded? Ha! The story of my life. I don't wanna go to my room. I wanna import Japanese cars. I wanna go to Liverpool and discover the Beatles.
+L438621 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ I don't see the humor in this. Go to your room immediately. You're grounded.
+L438620 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Just a little. I've had a tough day.
+L438619 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Young lady, you're drunk!
+L439230 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Mr. Fitzsimmons is a very prominent man.
+L439229 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Peggy Sue, watch your mouth.
+L439068 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ We'll make it, we'll be fine.
+L439067 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Jack, I was just trying to help.
+L439066 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ I want everybody to hear because I don't have anything to be ashamed of.
+L439065 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Does everybody have to hear?
+L439063 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Please don't shout.
+L439062 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ I don't need your charity. I don't need your grandmother's jewelry or your parents money -—how could you do that?
+L438631 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ You have four seasons, you have four slumps.
+L438630 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ Don't worry, it's just a seasonal slump.
+L438629 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ A new car. We can't afford a new car.
+L438624 +++$+++ u7022 +++$+++ m469 +++$+++ MR. KELCHER +++$+++ This is not giving blood. This is drunk.
+L438623 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Jack, take it easy. She gave blood at school today. Maybe she's just a little light—headed.
+L439228 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ He's a liar! He has no such thing! It's my own fault. I should have had it patented first. He's a crook, damnit.
+L439227 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Sheerotards. Catchy name, isn't it? Like leotards.
+L439180 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Yeah, I know Peggy Sue gets married. Case closed. Period. Mom, if you could live your life over again, would you do the same thing? Get married and settle down after high school?
+L439179 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ What? When did it happen? Your dad and I always expected you two to get married.
+L439178 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You know Mom, it's okay to have male friends. Besides, it's over with me and Charlie.
+L439177 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ What does Charlie think about that?
+L439176 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ No, just a friend of mine. I don't think he Likes Jell—O.
+L439173 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Mom, how about a machine that's like your blender, only it slices vegetables, kneads dough, chops meat and even make fresh pasta?
+L439172 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ You know, dear, I think the pantyhose is a wonderful idea, but the next time you come up with something, please don't stay out all night. Just tell us. We'll believe you.
+L439104 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ We've got to move fast. This is an idea whose time has come.
+L439103 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Isn't that awfully forward?
+L439098 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Instead of a girdle. And light as a feather.
+L439097 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Would they go over my girdle or under?
+L438982 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Way to go, Mom!
+L438981 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ I'm not the maid!
+L438963 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I went for a drive. Up in the hills.
+L438962 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Where have you been?
+L438827 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ You accepted an invitation, Maddy's one of your best friends, and I baked the Rice Krispie squares.
+L438826 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I don't feel very festive.
+L438825 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Maddy's party.
+L438824 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ For what?
+L438823 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Charlie's downstairs. Why aren't you ready?
+L438810 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Peggy, do you know what a penis is?  Stay away from it.
+L438809 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What do you mean?
+L438808 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Is Charlie pressuring you to do things you don't think you should be doing?
+L438807 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'm confused about a lot of things right now. Charlie's only one of them.
+L438806 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ That's a good girl... I hate to see you so upset.  Tell me, sweetheart. Are you having problems with Charlie? You mentioned something this morning.
+L438805 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'm sorry, Mom. I'll call Grandma back and apologize.
+L438804 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Yes, he's fine, too. You saw them at Easter.
+L438803 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ She did? I love her so much, and I haven't seen her in such a long time. And Grandpa Barney. Is he all, right?
+L438802 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Well, she is getting on, but she's fine. I told her you weren't feeling well yesterday. She called to find out how you are.
+L438801 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I had a dream that Grandma died.
+L438800 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ What happened to you?
+L438798 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ It's Grandma. I can't talk to her now.  I'm sorry, Grandma.
+L438797 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Peggy! What's the matter? Who is it?
+L438796 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Sure, Mom.  Hello.
+L438795 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Would you get that, dear?
+L438794 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ It was great to see everybody again. But it's so boring and regimented. Most of what they teach is useless. The worst thing was lunch.
+L438793 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ It was nobody. Ah... he's a poll, taker. I'm thinking of voting Democrat this year. But don't mention it to your father. How was school today?
+L438792 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Who was that man?
+L438661 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ The house payments.
+L438660 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ What about?
+L438659 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Sort of.
+L438658 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ What's the matter? Did you two have a fight?.
+L438657 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Oh yeah. Charlie. How am I going to handle him?
+L438645 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Oh.	Ah...recently. All the kids drink it.
+L438644 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ When did you start drinking coffee?
+L438639 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'm still here, aren't I? I may as well enjoy myself. I'm going to go to school today.  Dad, I want to apologize for yesterday. The car is a classic. Use it in the best of health.
+L438638 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ You're looking pretty chipper this morning.
+L438637 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Oh. I forgot.
+L438636 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ What happened to your hair? You have such a pretty face. Why are you always trying to cover it up?
+L438628 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Oh Mom, I forgot you were ever so young.
+L438627 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ My little baby. Don't try to grow up so fast.
+L438590 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'm home now.
+L438589 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Of course, dear. You're home now.
+L438588 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Chanel Number Five. That always reminds me of home.
+L438587 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Mom!
+L438586 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ Why don't you go lie down for a while.
+L438585 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'm excused.
+L438584 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ How do you feel?
+L438583 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I have a note.
+L438582 +++$+++ u7023 +++$+++ m469 +++$+++ MRS. KELCHER +++$+++ The nurse called and said you'd be coming home.
+L438581 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Mom!
+L439061 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Of course, he'll love it. You're a terrific artist.
+L439060 +++$+++ u7024 +++$+++ m469 +++$+++ NANCY +++$+++ You think this'll cheer Dad up?
+L438654 +++$+++ u7024 +++$+++ m469 +++$+++ NANCY +++$+++ Can I tell Diane that Peggy Sue got drunk or is that a deep family secret?  Well?
+L438653 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Mom, sit down for a minute. This is so nice, all of us being together again like this.
+L438650 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You know, you two are wonderful parents. I'm really going to try to behave myself.
+L438649 +++$+++ u7024 +++$+++ m469 +++$+++ NANCY +++$+++ And the butter.
+L438605 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ They're bad for you. They cause...red lips. 
+L438604 +++$+++ u7024 +++$+++ m469 +++$+++ NANCY +++$+++ Why not? They're my favorite.
+L438603 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Don't eat the red ones.
+L438602 +++$+++ u7024 +++$+++ m469 +++$+++ NANCY +++$+++ Look at Kenny Rossi. Isn't he dreamy? I wish he'd break up with Arlene. She thinks she's so great.
+L438601 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ It's unbelievable. The man never ages.
+L438600 +++$+++ u7024 +++$+++ m469 +++$+++ NANCY +++$+++ Okay, what do you want? What dumb favor do you want me to do?
+L438599 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Let's do something together.. Do you want to play Monopoly? Or Careers... Clue... Snakes and Ladders?
+L438598 +++$+++ u7024 +++$+++ m469 +++$+++ NANCY +++$+++ Teenagers are weird. And you're the weirdest.
+L438597 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'm sorry about that. I really want us to be closer. I have enough unresolved relationships in my... life.
+L438596 +++$+++ u7024 +++$+++ m469 +++$+++ NANCY +++$+++ Come on! Mom said you were sick. You're never happy to see me.
+L438595 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'm just happy to see you.
+L438594 +++$+++ u7024 +++$+++ m469 +++$+++ NANCY +++$+++ What are you doing?
+L439283 +++$+++ u7027 +++$+++ m469 +++$+++ ROSALIE +++$+++ You're sick. You should go to the nurse. I'm going to tell Miss Dennis.
+L439282 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Rosalie, please, listen to me! You have to stop.
+L439281 +++$+++ u7027 +++$+++ m469 +++$+++ ROSALIE +++$+++ Not to me they don't. I'm going to win the State, then the. Nationals, and then I'm going to the Olympics.
+L439280 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ But accidents can happen.
+L439279 +++$+++ u7027 +++$+++ m469 +++$+++ ROSALIE +++$+++ I spend three hours a day practicing. I have trainers, I know what I'm doing.
+L439278 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I know you are, but you have to stop. I couldn't tell you before, I didn't know if I should. But you have to stop before you hurt yourself.
+L439277 +++$+++ u7027 +++$+++ m469 +++$+++ ROSALIE +++$+++ Don't be silly, I'm the best in the county.
+L439276 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I think you should give up diving. It's dangerous.
+L439275 +++$+++ u7027 +++$+++ m469 +++$+++ ROSALIE +++$+++ What's up?
+L438485 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You have an incredible memory.
+L438484 +++$+++ u7027 +++$+++ m469 +++$+++ ROSALIE +++$+++ I remember when you got that locket, too. You were so excited I think you showed it to the whole school.
+L438483 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Rosalie Testa!
+L438482 +++$+++ u7027 +++$+++ m469 +++$+++ ROSALIE +++$+++ I remember that dress.
+L439429 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You can't. You're going to be Valedictorian.
+L439428 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Wait! I'll go with you!
+L439427 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ No! No! No! Peggy Sue got married! Case closed. I don't want to marry anybody. Goodbye Richard.
+L439426 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Okay. Why don't we do something visionary. Change your destiny, Peggy Sue. Change your destiny and marry me.
+L439425 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Yeah, yeah. I'm taking a big gamble. I've loved him for a long, long time.
+L439424 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Did you break up with Charlie?
+L439423 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Vision? I'm a walking anachronism! I've upset my parents. I miss my kids. I could be trapped here forever! And poor Charlie...I got pregnant on my 18th birthday and we had to get married. Tomorrow's my birthday! I've got to get out of here now.
+L439422 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ So are you. You've got a vision.
+L439421 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You were meant to  You're one of those fortunate people that good things happen to.
+L439420 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Goodbye? Where're you going? What about our partnership? I'm making real progress with the microchip.
+L439419 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I came to say goodbye.
+L439287 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You were meant to. You're one of those fortunate people that good things happen to. I have to get out of here.
+L439286 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Not true.  I think I'm making real progress on the microchip.
+L439285 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ It's all, gone wrong, nothing's working out.
+L439284 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ What's the matter?
+L439171 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Oh, go feel up your hamsters! I hear rodents put out.
+L439170 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Hey! Do you have any idea how much those beakers cost? I usually charge for hypnosis.
+L439169 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ God dammit! How'm I gonna got out of here?
+L439168 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ I think it has something to do with your birthday. You were rambling. I didn't understand the rest.
+L439167 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ That's just perfect isn't it? Did it work? Did you find out why I came back?
+L439166 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Me? You went crazy! You started taking your clothes off. I was putting them back on for you.
+L439165 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Richard! You should be ashamed of yourself.
+L439164 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ One... two... three.  You are now awake.
+L439163 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I couldn't help it —— I loved him.
+L439162 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ No! Yes! I'll be right out, Dad.  Oh shit! Peggy, I'm going to snap you out of it.
+L439160 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Yes, every day.  Maybe I shouldn't have worn that dress? I told Beth it was a bad idea. That's why they made me Queen.
+L439159 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Will you take of f your blouse?
+L439158 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ No. The Pill will be for birth control. But girls do like sex. Maybe not the first time.
+L439157 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ You mean you'll give a girl a pill and she'll want to have sex?
+L439156 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ No. The Pill will change all that. Then he wouldn't have blamed me. We were just too young.
+L439155 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ In the future, will you have to marry a girl before you have sex with her?
+L439154 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ We were lying in the sand. It was my eighteenth birthday... We were so awkward... I would have married him anyway...
+L439153 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Silicon is from sand.
+L439152 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I think it's called silicon. Charlie told me that.
+L439151 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ What will they be made of?
+L439150 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Ah..... they're very tiny... they look like a fingernail made out of an erector set...
+L439149 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Oh boy. Peggy, what are microchips?
+L439148 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Peggy Sue Kelcher.  Or, Peggy Bodell.  I'm not sure.
+L439147 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ You are completely relaxed. When I count to three, you will open your eyes. One... two... three.  We'll start with something easy. What is your name?
+L439146 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ No offense, but you're pretty out of it now.
+L439145 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Look, I'm desperate. I'll try anything. But what if you can't snap me out of it?
+L439144 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Everything. This is perfect. The subconscious mind remembers all. You can give me more information on microchips and then pinpoint what happened at the reunion. Maybe that'll give us a clue on how to get you back.
+L439143 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What do you know about hypnosis?
+L439142 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Suggestion! Hypnotic suggestion! Why didn't I think o~ that before?
+L439141 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Like what?
+L439140 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Look, the best scientific mind in this country is working on your case. May I make a suggestion?
+L439139 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ For God's sake, forget the money! I'm going crazy! I'm a walking anachronism. I'm a puddle of deja I'm worried about my kids, Scott must be scared to death, I think my daughter's doing drugs again. I can't have any fun here, I don't have that innocence any more. I can't keep all this in anymore. I feel Like I'm going to explode.
+L439138 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Cheer up. Now you can give some other guy a shot. Make it up to him later and buy him a yacht.
+L439137 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ It was an unfair fight. He didn't have a chance. I'm taking a real gamble. I loved him for a long, long time.
+L439136 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ That's terrific. You did it. You really changed the course of your destiny.
+L439135 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Yep. It's going to be a law.  I broke up with Charlie last night.
+L439134 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ That's what you were talking about yesterday? Everybody does that in the future?
+L439133 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Jogging. I was running, now I'm jogging.
+L439132 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ What are you doing?
+L439131 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Hi, Richard.
+L439020 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ High tech. I like the sound of that.
+L439019 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ The wave of the future! I've decided on our first fortune! I'll see you later. You just think high tech.
+L439018 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ What are you talking about?
+L439017 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Richard! They don't have any! They never heard of them! Isn't that wonderful?
+L439015 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Oh.	And huge portable radios. Everything else gets small, but for some reason, portable radios get enormous.
+L439014 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ All right. These are the choices: microwave ovens, pocket calculators, Walkmans, digital watches and miniature TV's.
+L439013 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You don't have to use pig Latin! Nobody could possibly know what we're talking about.
+L439010 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Not for you. Okay, there's lots more.
+L439009 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Are you talking ~about exercise? Like gym?
+L439008 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ There are major fortunes to be made here. Leisure time and life—styles.
+L439007 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Come on. You can't be serious.
+L439006 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Ah. This is a biggie. Forget sneakers. Running shoes, jogging shoes, tennis shoes. Fifty to two hundred dollars a pair.
+L439000 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ When do we start?
+L438999 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ You're taking advantage of a minor.
+L438996 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Sixty—forty.
+L438995 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Look it's very simple. You tell me everything that hasn't been invented yet, and I'll invent it. We'll be partners. Fifty—fifty.
+L438994 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Wbat're you talking about?
+L438993 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Good. You're discreet. I like that in a partner.
+L438992 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Give me some credit, will you?
+L438991 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ I'm curious, but I don't want to know. Jeez, I hope you haven't been telling people what's going to happen to them.
+L438990 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ How come you never ask me any important questions? Don't you wonder if there's going to be a nuclear war? Or a cure for cancer? What about your family? What about people?
+L438989 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ No offense, but for a person who says she's lived an extra lifetime, you certainly are thick. Money is power.. Money makes people respect you...
+L438988 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Richard, take it easy.
+L438987 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ I'm talking about invention, no investment. I know what people think of me. Mr. Spasmatician. Dick the Square Root. I'll show them. You said I was going to be a millionaire. And you're gonna help!
+L438986 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I tried to tell them, but they wouldn't listen to me.
+L438985 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ But you have a vision. Don't you want to help your parents?
+L438984 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'm just not the type. Besides, I want to get out of here.
+L438983 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ The way I see it, you have an unparalleled opportunity to become the richest woman in the world.
+L438790 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ What if you're not here tomorrow?
+L438789 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I'm trying. I'll see you tomorrow. 
+L438788 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ All right, I'll work on it, I'll, do some research. But in the meantime, don't get crazy.
+L438787 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I told you, I've already lived my life. I don't know how or why I'm here, but you have to help me get back. I want to get back to my real life!
+L438786 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ You're a molecule in chaos, a discontinuent aberration. Maybe you've just got powers of precognition. Well, maybe you're just out of whack.
+L438783 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What if it's beyond science? What it it's God?
+L438782 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Okay, you're not dead, but according to every law of science what you say happened to you is impossible.
+L438779 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Confucious says, The way out is through the door. There's a truck. There's your door.
+L438778 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What're you doing?
+L438777 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ There's one way to find out.
+L438776 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Am I dead or not?
+L438775 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ You're giving me the creeps.
+L438774 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Come on, Richard, I'm serious.
+L438773 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ You look pretty good for a corpse.
+L438772 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ That's why I was getting a divorce..  What I really think is that I had a heart attack at the reunion and died.
+L438771 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ I'd be very careful if I were you. You don' t want to fall into the clutches of some madman with plans to manipulate your brain.
+L438770 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I don't know.
+L438769 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ But when did you leave? Are you here until then? Were you there until now? What direction are you going in? Are you a moving point on an infinite line extending into the past? Can anyone do it?
+L438768 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Holy Toledo! That's six years ahead of schedule!
+L438767 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Because I'm telling you the truth. I know what's going to happen. There's going to be test tube babies and heart transplants. And an American named Neil Armstrong is going to walk on the moon. On July 20, 1969.
+L438766 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ How, did you know about my grandfather?
+L438765 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You have a blind grandfather. One day you're going to invent a machine that reads books for blind people. I read about it. You're going to be famous. You're going to invent a lot of things.
+L438762 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ You probably are crazy. Wait a minute. Is this some kind of joke? I know what you all, think of me.
+L438761 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ This is serious. Nobody can know. Ah, I've returned from the future. I traveled back here 25 years.
+L438760 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Okay. I promise.
+L438759 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Listen, you've gotta keep this a secret. You can't tell a soul. Promise?
+L438758 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Absolutely. People, dogs, elephants.
+L438757 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ So you think time travel is possible? For people?
+L438756 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ You can till it with whatever you want. From illusions to memory, from experience to innocence, from happiness to the entire universes
+L438755 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What's inside?
+L438754 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Well, I think time is like a burrito. Sometimes it just folds over on itself and one part touches the other.
+L438753 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I	know what a burrito is.
+L438752 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ That's my own theory based on a Mexican food called the burrito. I had it once when my parents took me to Disneyland.
+L438751 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What's that?
+L438750 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ And then, there's Richard's Burrito.
+L438749 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Well... in a Newtonian framework, the possibilities were limited, but with the advent of relativity theory, the idea of absolute time can no longer be reasonably affirmed.
+L438748 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Sort of.
+L438747 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Are you doing some kind of science project?
+L438746 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I want to ask you a question.  Do you think...time travel is possible?
+L438745 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ I'm writing a book on kite construction. What did you want to talk about?
+L438744 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What a great kite.
+L438729 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ All right. I'll be in the physics lab. Make it four—thirty. I have a rocket club meeting.
+L438728 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ It's not that. Can we meet after school? Please?
+L438727 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ I'm not doing any tutoring this year. I'm too busy.
+L438726 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I have to talk to you. It's very important.
+L438723 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ It really wasn't that difficult.
+L438722 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Congratulations on the math contest, Richard.
+L438538 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You know, I never told anybody this, but I always had a feeling that when you die, before you go to heaven, you get a chance to fly around high school for a while.
+L438537 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ I guess part of us never really leaves high school.
+L438536 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You're a sweet man, Richard.
+L438535 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Dancing with you.
+L438534 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What was?
+L438533 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ You were always friendly to me. I appreciated that.  You know, this used to be a fantasy of mine.
+L438532 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Well, you showed them. You're rich and famous and successful. And you have a beautiful wife.
+L438531 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ The only time people like Dolores used to pay any attention to me was to laugh at me or insult me. That guy, Doug Snell, who shook my hand when we walked in, he used to call me a four—eyed worm.
+L438457 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Gee. I'm sorry to hear that.
+L438456 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ He's not here. We're getting divorced.
+L438455 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Where's Charlie? I was in town about a year ago and caught one of his commercials. Really made me laugh.
+L438454 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Hello. Nice to meet you. Please call me Peggy. I'm Peggy Bodell now.
+L438451 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I just did it for tonight. I don't normally dress like this.
+L438450 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ You look exactly the same.
+L438449 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I was once. Richard!? Richard Norvik? I didn't recognize you.
+L438448 +++$+++ u7026 +++$+++ m469 +++$+++ RICHARD +++$+++ Are you Peggy Sue Kelcher?

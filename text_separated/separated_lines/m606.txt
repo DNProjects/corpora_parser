@@ -1,0 +1,508 @@
+L655069 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ How you doing, Artie?
+L654862 +++$+++ u8906 +++$+++ m606 +++$+++ ART +++$+++ The Van Ryan family created Blue Bay. They built the school... Sandra Van Ryan calls up the board and says kiss my ass, they say, left, right, or in the middle.  You're gonna need some help on this one, Sam.  You're gonna need a lawyer, and he'd better be a good one.
+L654861 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ That's great.  I'll just tell my creditors I'm not a rapist.  No problem... Shit.  I can't believe the board's going to act without even hearing my side of it.
+L654860 +++$+++ u8906 +++$+++ m606 +++$+++ ART +++$+++ All I can tell you Sam, is hang in there.  They clear you of this mess, you get reinstated, with back pay...
+L654859 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ This is insane.
+L654858 +++$+++ u8906 +++$+++ m606 +++$+++ ART +++$+++ Sam... I...  Sandra Van Ryan's been on the horn with every member of the school board all day long.  She's pushing for suspension...
+L654857 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ ... is accusing me of rape.  Jimmy told me.  Apparently I'm the last to know...
+L654856 +++$+++ u8906 +++$+++ m606 +++$+++ ART +++$+++ Kelly Van Ryan...
+L654855 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Talk to me Artie.
+L654690 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ I have the feeling, they got it down already.  They're a step ahead of us, Artie.
+L654689 +++$+++ u8906 +++$+++ m606 +++$+++ ART +++$+++ So, did you set 'em all straight on the ugly facts of life?
+L655226 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ I'd like that.
+L655225 +++$+++ u8907 +++$+++ m606 +++$+++ BARBARA +++$+++ I love Antigua.  Maybe I'll come visit you.
+L655224 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ I was thinking, Antigua, maybe.
+L655223 +++$+++ u8907 +++$+++ m606 +++$+++ BARBARA +++$+++ And where might that be?
+L655222 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Hey, I've got it, I may as well spend it, right?  I've always wanted to live where I could dive for my dinner.
+L655219 +++$+++ u8907 +++$+++ m606 +++$+++ BARBARA +++$+++ Thanks.
+L655218 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ You look pretty.
+L654747 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Senior class fund-raising gig.  I told 'em they could hose down the Jeep.  Hey, come on.  It's for a good cause.
+L654746 +++$+++ u8907 +++$+++ m606 +++$+++ BARBARA +++$+++ She's going to wash your Jeep?
+L654745 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Kelly.
+L654744 +++$+++ u8907 +++$+++ m606 +++$+++ BARBARA +++$+++ Is that Sandra Van Ryan's kid?
+L654737 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Eat a power bar.
+L654736 +++$+++ u8907 +++$+++ m606 +++$+++ BARBARA +++$+++ Not that I'm going to be much good after last night...
+L655305 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Second you get something on those teeth, I want it
+L655304 +++$+++ u8908 +++$+++ m606 +++$+++ DAVE +++$+++ Could be hers.  Types match.  Could be a lot of other people's too...
+L655303 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ What about the blood?
+L655302 +++$+++ u8908 +++$+++ m606 +++$+++ DAVE +++$+++ Ray.  Stop calling.  I told you the dental records will take time...
+L655301 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ The teeth doin' any talkin'?
+L655300 +++$+++ u8908 +++$+++ m606 +++$+++ DAVE +++$+++ Merritt, Forensics.
+L655289 +++$+++ u8908 +++$+++ m606 +++$+++ DAVE +++$+++ We can get blood type right away. Dental records will take longer.  You want DNA, that can take weeks.
+L655288 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ How soon can we get something?
+L655432 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ I'm fine.  Nice TV.
+L655431 +++$+++ u8915 +++$+++ m606 +++$+++ RUBY +++$+++ You okay?
+L655429 +++$+++ u8915 +++$+++ m606 +++$+++ RUBY +++$+++ And the other girl, Kelly.  Suzie's niece.
+L655428 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ So Suzie and Sandra Van Ryan were half- sisters.
+L655427 +++$+++ u8915 +++$+++ m606 +++$+++ RUBY +++$+++ Raised her like she was, but no, Walter's my only child.  He was a good boy, till the army took him.
+L655426 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Suzie.  Then you're not her grandmother...
+L655425 +++$+++ u8915 +++$+++ m606 +++$+++ RUBY +++$+++ She had it, before she drank herself to death.  Wasn't exactly a love child...
+L655424 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ And the child...
+L655423 +++$+++ u8915 +++$+++ m606 +++$+++ RUBY +++$+++ Wasn't enough Van Ryan had to destroy the people who invested here.  He got to be old, he and his rich cronies would come down here, hunt and whore, act like assholes.  One trip he showed up with this young girl he'd picked up somewhere, gotten her pregnant then dumped her in the swamp.  That came with her.
+L655387 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Was there ever any kind of investigation...
+L655386 +++$+++ u8915 +++$+++ m606 +++$+++ RUBY +++$+++ No.  Not after that night.  I don't know what happened.  Maybe he caught her with some john... All I know is, the next morning the girl was gone and there was a dead boy... Indian kid named Davy.  Used to live down the road there in a wrecked car. Him and Suzie were at the Glades that night.  It was right after that, Ray got Suzie busted and sent her away.  That's what there is to say about Ray Duquette.
+L655385 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ She still work there?
+L655384 +++$+++ u8915 +++$+++ m606 +++$+++ RUBY +++$+++ Got sort of hung up on her, from what hear.
+L655383 +++$+++ u8915 +++$+++ m606 +++$+++ RUBY +++$+++ He used to come around here.  He had a thing going with one of the girls over at the Glades.
+L655382 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Actually, I was wondering if I might ask you about Ray Duquette.
+L655381 +++$+++ u8915 +++$+++ m606 +++$+++ RUBY +++$+++ About Suzie?
+L655380 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ I was wondering if I could ask you a few questions.
+L655379 +++$+++ u8915 +++$+++ m606 +++$+++ RUBY +++$+++ You come all the way out here to watch Walter?
+L655378 +++$+++ u8915 +++$+++ m606 +++$+++ RUBY +++$+++ Then I guess Walter can kiss that arm of his goodbye.  He don't use it for no good deeds anyway.
+L655377 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ What if something distracts it and it snaps anyway?
+L655376 +++$+++ u8915 +++$+++ m606 +++$+++ RUBY +++$+++ Gator can't see what's in front of it for shit.  They see out the sides.  That one don't even know Walter's arm's in his mouth.
+L654834 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ I know one thing he said.  It was when... when he took himself out and was standing up.  He said, "Don't worry, I didn't come." I can't forget that.  He said, "No little girl can ever make me come."
+L654833 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Try, Kelly.
+L654832 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Not at first.  He was still inside but he wasn't moving or anything...  He said we had this secret.  And that now he'd be able to help me... because we were close... Something like that.  I don't know.  It's hard to remember, exactly.
+L654831 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ You mean he withdrew...
+L654830 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ He kept saying, "Let it happen, let it happen."  Then he just stopped.
+L654829 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Then what?
+L654828 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ I... he had my wrists pinned behind me. I remember my hands were cold.'
+L654827 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Did you try to fight him?
+L654826 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ He was large?
+L654825 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ No.  I've done it a couple of times, I mean with guys I dated.  But this hurt... like, he was built... you know...
+L654824 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ That's okay, Kelly.  You're doing fine.  But I have to ask you something here. When you say it hurt.  Was this the first time a man was inside you?
+L654823 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Yes.  I said stop.  I screamed.  I mean that's how it sounded in my head.  He hurt me...
+L654822 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Was there penetration?  Did he put himself inside you?
+L654821 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ He said something like, "Do you want it dirty7" or something.  I tried to turn away, but he pushed me to the floor.
+L654820 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ I understand.
+L654819 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ They were in me.  Both places... you know.
+L654818 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Take your time.
+L654817 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ The next thing... his hand was in my shorts... you know, from behind.  His fingers... his fingers...
+L654813 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ I know you do.
+L654812 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ I just want to get it over with.  My mom's making me do this. I just want to forget it.
+L654811 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ How are you, Kelly? Would you like to take a break for a minute?
+L655332 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Suzie?
+L655331 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Kelly's file.  Read it.  You're going to find an angry, sexually confused girl who's made threats on her mother's life and a female lover she'd never identify.
+L655327 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ You could tell me where you were last night.
+L655326 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ I don't know what to say...
+L655325 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Ray thinks she was murdered.
+L655324 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Maybe she used another name.
+L655323 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ She didn't cone home last night.  We found her car at the bus terminal, but nothing to suggest she bought a ticket.
+L655322 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ How long?
+L655321 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Suzie Toller is missing.
+L655320 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Isn't that against the law, peeking into windows?
+L654920 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ There's a strip mall not half a mile from my house.  There's phones there.  I cruised the place, but I didn't see her. I figured she was probably there but that she was angry and didn't want to be found.  I don't know... Maybe I should have called.  But it's not like Kelly can't take care of herself.  I figured we'd just take it up on Monday, in the office.
+L654919 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Weren't you a little worried about her...?
+L654918 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ No.
+L654917 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Did you call anyone?  Did you call her house to see if she got home?  Did you call the Masons?
+L654914 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Again.  I think we covered this.  I told her I was going to call a cab.
+L654913 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ And when you turned her toward the door, where did you expect her to go, without a car?
+L654694 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ I'd like that.
+L654693 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ If old pictures interest you, come back some time, there's quite a collection down in the pagoda.  I'll see you get a proper tour.
+L655342 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ It's Homicide's job now, Ray, let 'em do it.  I'll tell you something else, there's more to this story than you know, Ray... If Suzie is dead, I think Hunter may be on the right track...
+L655341 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ The blood type on the rocks matches Suzie's.
+L655340 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ He's leaving the country.  And I don't give a shit.
+L655339 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Where's Lombardo?
+L655338 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ I'm tired, Ray.  I'm going home.
+L655299 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ If I'm wrong about those teeth -- it's a promise.
+L655298 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ And if the teeth aren't Suzie's?  You'll give this up?
+L655297 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Stick with me on this Gloria.  I need you...
+L655296 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ What if I'm right, Gloria?  What if I'm right and Hunter's wrong?  What do you do if you see a bad thing coming?
+L655295 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Ray, you heard him...
+L655294 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Will you do me one favor?
+L655291 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ We don't know that, Ray...
+L655290 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Poor dumb Suzie, she never had a chance.
+L655286 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ You don't think Sam could've put it there?
+L655285 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Her grandmother said she'd been threatening to run away.  And I found the car at the Miami bus terminal.
+L655284 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ The swamp, most likely... Lombardo's a swamp rat, knows the body will never be found there.  But he's made a mistake.
+L655283 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Where's the body?
+L655282 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Those are Suzie Toller's teeth.
+L655281 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Two kids could've gotten into a fight, lost a couple of teeth.
+L655262 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Just check out the car.
+L655261 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ If you want company...
+L655260 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ You have someplace to be?
+L655259 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ I'm gonna take you back to the office. Will you put out a call on Suzie's car for me?
+L655258 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Ray.  We don't know anything yet.  She could be anywhere...
+L655257 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ It's starting, Gloria.  This is how it begins...
+L655217 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ I mean something bad, Gloria, something bad you saw coning, and you didn't do anything, and then it happened.  I did that once.  I don't want to do it again.
+L655216 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ We all have...
+L655215 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Were you ever in a situation where you could see a thing coming and you didn't do what you could to stop it?
+L655214 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ You could say that.
+L655213 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Guess I kind of lost it there.
+L655206 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ What?  You wouldn't go after some guy you thought raped your daughter?  Cone on.  She bought the same story we did...
+L655205 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Which she might have saved, if she hadn't set out to destroy the man's life.
+L655126 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ I net a guy in a bar.
+L655125 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Where'd you come up with this stuff, anyway?
+L655124 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ You got it.  The rich got richer.  While the saps like Lombardo went belly-up in the swamp.
+L655123 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Eliminate the competition.
+L655122 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ I flat don't like the guy, Glory.  He's dirty.  And I'll tell you something else.  You want to know how old man Lombardo lost his money?  He was fucked out of it by old man Van Ryan, on a little item known as the Salt Creek Land Deal.  It was after the war.  Van Ryan set up a corporation to develop swamp land, got investors like Lombardo to put up money, then turned around and got the state to declare the area an ecological preserve, on the sly, of course, but everyone knew it was him.  The freeway went to the coast, right where Van Ryan wanted it.
+L655121 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ This one's got you working overtime, hasn't it?
+L655120 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Her father didn't leave her squat.  The kid's got money in trust from her grandfather, but she can't touch that till her mother dies and Sandra seems to have the idea that Kelly ought to learn the value of a buck.
+L655119 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ So what about the girls?  Suzie's poor, but why would Kelly have to steal from her own mother?  Surely her father...
+L655117 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ The job looks okay to us.  But look at it from his point of view.  The man's surrounded by wealth and privilege.  But for him... it's just a reminder of what should have been his.
+L655116 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Why?  You ask me, Lombardo had it pretty good already, nice job in a beautiful setting, popular, an active social life.  He's gonna put this all on the line for some dicey play like what you're describing...
+L655115 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ They chumped us, Gloria, right from the start.
+L655114 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Unless you're setting up Sandra Van Ryan for the big payday.
+L655113 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Unless what?
+L655112 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ I thought of that.  Then I said, come on, you're Lombardo.  Your reputation is getting trashed.  You want to stop the bleeding.  You don't want to sit in jail for three months.  Unless...
+L655111 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Maybe Lombardo's attorney was saving the affair for the trial.
+L655110 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Think back, before the suit was filed, before the trial.  Lombardo had an affair with Sandra, right?  So why not tell us about the affair?  I mean it could be a hell of a motive for Kelly to fabricate her charge in the first place.
+L655107 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Lombardo's settlement?
+L655106 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ You saw the news today?
+L654954 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ It's a shithole.  But she was dirty, what was I gonna do?
+L654953 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ That's what they called it when I was in Juvenile.  It's a pretty dismal place.
+L654952 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ You mean Camp Sixty-Nine.
+L654951 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ This is where she lives.  She wants to talk.  Beats the shit out of me why she would call me at all.  I busted her once for possession.  she wound up doing about six months at Camp Nine.
+L654950 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ The skinny brunette.
+L654949 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ You remember that little girl walked out of our talk at Blue Bay?
+L654947 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Yeah, well, Van Ryan got his.  I don't imagine he gives a shit now.
+L654946 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ You can go up to one of those trees and peel the bark.  You know what you get? More bark.  And more bark.  There's no core.  Tree's not good tar anything but sucking up water.  And now they can't get rid of them.  They've tried poisons. Nothing works.  They don't die.
+L654942 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ All I'm saying is, we let Sandra Van Ryan push us too hard, we're going to wind up looking stupid.
+L654941 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ You're telling me you believe the guy?
+L654940 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ We failed to mention the mower guy's a drunk, that he was after more beer and never really saw Kelly go into the house, so he can't say how long she was in there.  Same with the kids.  They saw her running down the street, but that's it.  With no physical evidence, what do we have?  Her word against his.
+L654936 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Still doesn't explain why he couldn't catch up with her.  I mean how long does it take to put on a shirt?
+L654935 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Same as him.  They saw her come.  They saw her go.  They saw him follow.
+L654851 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Hunter's making it our job because Sandra Van Ryan's got a bug up his ass. You know that as well as I do.  We're gonna trash this guy's life and I keep asking myself if it's really necessary.
+L654850 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ It's our job, Gloria.
+L654845 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ All I'm saying is, I think we should go slow here.
+L654844 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ That would make it about the time of her old man's suicide.  You don't think that could explain some erratic behavior?
+L654692 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Back to the land of grownups.
+L654691 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ I've got that two o'clock in town.
+L655003 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ He said, "No little bitch can ever make me come."
+L655002 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ What was that?
+L655001 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ He did say something.
+L654999 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ No.  He stopped by himself.  Okay? That's all.  Let me go.
+L654998 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ At that point were you able to fight him off?
+L654987 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ I guess.
+L654986 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Did he come in with you?
+L654985 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Yes.
+L654984 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ So you were alone.
+L654983 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ No.
+L654982 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ And when he arrived at your house, was anyone there?
+L654981 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Yeah.
+L654980 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ He dropped Jimmy off first?
+L654979 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ About a year ago.
+L654978 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ We need to tape the interview, Suzie. No one will see it but us.  Now when was this, that Mr. Lombardo gave you the ride?
+L654977 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ You didn't tell me you were gonna put me on the fucking news.
+L654974 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ Why is that?
+L654973 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Yeah, maybe, a little.
+L654972 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ That bothers you?
+L654848 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ I don't care.  You heard that girl's statement.  I think he's dirty.  Get me a case.
+L654847 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ You know what that will mean for Lombardo.
+L654846 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ I want a full-scale investigation.
+L654843 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ I worked Juvenile in Dade County for three years.  We had a missing persons on Kelly Van Ryan for two weeks... Maybe a year ago... The family kept it out of the papers.
+L654842 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ Where's this coming from?
+L654841 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ That doesn't make him a child rapist.  There's something else.  This girl's had some problems.  Wrecked a couple of her mom's cars.  Ran away...
+L654838 +++$+++ u8909 +++$+++ m606 +++$+++ GLORIA +++$+++ I think she's acting.  I think she set it up to be alone with him because she wanted him to come on to her.  I think maybe she's upset that he didn't...
+L654837 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ Why?
+L655362 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ Suzie Toller's.  And that's the only thing saving your sorry ass.
+L655361 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ The teeth, were they...
+L655359 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ She looked shaky, but lucid.  I thought, I would just go with her, stand at the door...  I think I looked away.  A split second. Then, bingo.  Just like that.  She puts a knee into my groin.  There was this coffee table between us and the wall.  She got one foot on that thing and launched herself at the gun case.  Thing had a glass door.  I could hear it breaking.  I didn't go down, but she slowed me up, just enough.  Before I could get to her, she'd turned on me with this small caliber handgun.  I yelled at her to put it down.  She got off a shot.  I took it in the shoulder.  I... I had no choice. I returned fire.  Two rounds, I think. In the chest.
+L655358 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ You didn't cuff her?
+L655357 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ I told her I was coming with her.  She nodded, like she understood.  We stood up together.
+L655356 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Bit, scratched.  But I had her pinned. She calmed down.  I was going to cuff her... She said she thought she was going to be sick.  She asked to use the bathroom.
+L655355 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ She bit you?
+L655353 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ I told Kelly Van Ryan she was under arrest for conspiracy and murder.  I did her rights.
+L655352 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ Just tell us what happened.
+L655351 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ I fucked up.  I lost control of the situation, the one thing they train you for... God, what did I do?
+L655293 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ Get off this Ray, now.  If there is any evidence here, it's for Homicide.  You get an ID, you call me.
+L655292 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Kelly's next, Gloria.
+L655209 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ You think this is just about money, about us looking foolish?  Question him. You're gonna find a stone cold manipulative psychopath.  And those girls are going to wind up dead...
+L655208 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ Oh, Ray... no...
+L655204 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ I don't believe I'm hearing this.  A month ago you were pulling these two apart at the courthouse.  They were acting.  They were all acting, from the beginning.  And we bought it, hook, line and sinker... And now they're home free with six million of Sandra Van Ryan's money.
+L655203 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ Ray.  The conversation on this tape is totally unintelligible.  What we have here, is you on the Van Ryan property, without a proper warrant, shooting a porn flick...
+L655202 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ You heard Kelly say "Sam."  That was Lombardo on the phone.  And you saw the girls...
+L655201 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ Are you crazy, Ray?
+L654934 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ And what do they say?
+L654933 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ We've got three.  Guy mowing his yard, couple of kids playing hoops.
+L654932 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ What about witnesses?
+L654931 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Not that stuff about her running away, him trying to find her.  That's bullshit.
+L654840 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ The line I get on this guy, is that he's done half the women in Blue Bay.
+L654839 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Or maybe she thought that was what she wanted and she got a little more than she bargained for...
+L655037 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ Your Honor... Please...
+L655036 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ He was my friend at first.  Then I got busted... he didn't even stick up for me.  I had to go away to that hellhole. It's like, you're his favorite, then who cares?  You wanna know something?  When Kelly said we should do this, I thought cool, all these big shots screwing me over, like that cop, Duquette.  Now they're gonna get screwed.
+L655026 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ I'm sorry?
+L655025 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ This wasn't my idea.
+L655024 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ Ms. Toller.  I'm asking you now, under oath, did Samuel Lonbardo rape you?
+L655023 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ I said he did.
+L655022 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ Ms. Toller?
+L655020 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Because... it was the biggest I've ever seen.  And I've seen a lot on their way through Jack's Fish Camp.
+L655019 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ I'm sorry... you said it hurt?  Why?
+L655018 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ He pushed into me... I couldn't stop him... it hurt.
+L654997 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Okay!  He did.  He pushed me to the floor and he did it to me.  Now, can I go home?
+L654996 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ Suzie!  Did this man rape you?
+L654995 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Shit, what difference does it make... Nobody's gonna believe me anyway...
+L654994 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ What did you do then?
+L654991 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ I wanna go home now.
+L654990 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ And then what... he touched you?  Did you maybe flirt a little...
+L654989 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Yeah... okay... he did
+L654988 +++$+++ u8910 +++$+++ m606 +++$+++ HUNTER +++$+++ You guess?  Did he or didn't he?
+L654711 +++$+++ u8911 +++$+++ m606 +++$+++ JIMMY +++$+++ Yeah.  But I got my bike.
+L654710 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ A ride.  You want one?
+L654709 +++$+++ u8911 +++$+++ m606 +++$+++ JIMMY +++$+++ What?
+L654708 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ What about you, Jimbo, you need a ride?
+L654700 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Hey, you're working for it.  Least you're supposed to be.
+L654699 +++$+++ u8911 +++$+++ m606 +++$+++ JIMMY +++$+++ You know, I want to thank you for getting me into this class...  No way was my old man going to spring for the fees...
+L654674 +++$+++ u8911 +++$+++ m606 +++$+++ JIMMY +++$+++ Hey, man, at least in study hail I could meditate.
+L654673 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Thank you, Jimmy.
+L654672 +++$+++ u8911 +++$+++ m606 +++$+++ JIMMY +++$+++ No!
+L654671 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Come on.  Beats study hall, doesn't it?
+L655277 +++$+++ u8911 +++$+++ m606 +++$+++ JIMMY +++$+++ Yeah, but...
+L655276 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Way I hear it, he was pretty tight with the kids, one of the guys...
+L655275 +++$+++ u8911 +++$+++ m606 +++$+++ JIMMY +++$+++ No.  But I mean... just the idea that Mr. Lombardo would...
+L655274 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ I say something funny?
+L655273 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Lombardo ever come out here?
+L655272 +++$+++ u8911 +++$+++ m606 +++$+++ JIMMY +++$+++ Yeah, sometimes.  Lots of the kids hang out here.  You really think something bad happened to Suzie?
+L655271 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ You and Suzie used to come out here together?
+L655270 +++$+++ u8911 +++$+++ m606 +++$+++ JIMMY +++$+++ It's those rocks, up there.
+L655235 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Shit.
+L655234 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ I wanna live at the beach someday.
+L655233 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ I think we just need to get wasted.
+L655232 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ I thought we were goin' to a movie.
+L655231 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Nothing.
+L655230 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ What are you looking at?
+L655229 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ What brain?
+L655228 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Anybody ever tell you that stuff will rot your brain?
+L655195 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Are you retarded, or just brain dead from whiffin' fumes out there in the swamp...
+L655194 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ You are.
+L655193 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Oh, for Christ's sake.
+L655192 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ You're gonna fuck me over, aren't you?
+L655174 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ You can trust me.
+L655173 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ I'm scared, that's what.  I'm scared there's no one to trust.
+L655172 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ I can't believe you called Sam.  What's the matter with you?
+L655145 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Man, I wanna smoke a joint.
+L655144 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Yeah, I've got family and they've got clout and now you have me.  Right?  And Sam.  Believe me, Suzie, this dickhead's not going to send you anywhere.  He's gonna try and rattle your cage, and that's it.  Stay strong and he can't do shit.
+L655143 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Yeah, but he can't push you around like he can me.  You've got family and they've got clout.  With we it's different... with me...
+L655142 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Will you calm down.  Duquette's gonna come to you just like he did to me. You're gonna have to be ready for him.
+L655253 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ I'm not on your property!
+L655252 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Get off my property.
+L655138 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Police -- God -- get a life.
+L655137 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Am I right, did Sam sell you on the idea right up front, of whacking Suzie? That's murder, Kelly.
+L655136 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ I've been a cop for a while, Kelly.  It's hard enough for one person to keep a secret, let alone three.  And then there's the love angle.  I mean do you and Sam really want that little pill-head around, now that you have the money?
+L655135 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ You're out of your mind.
+L655134 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ The thing about it is, threesomes so rarely work out.
+L655133 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ You all gonna go down to the Caribbean together?
+L655132 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Excuse me?
+L655130 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ About what?  How to improve your breast stroke?
+L655129 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Curiosity, I guess.
+L655128 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Is there some reason why you're here?
+L655269 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ A friend of mine bought a boat.
+L655268 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ Where, the mall?
+L655267 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Don't bother.  I'm taking a trip.
+L655266 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ I'm here to congratulate my friends and their children.  I'm leaving again tonight.
+L655265 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ You didn't have to fly back -- from -- wherever, for me...
+L654802 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Yes.  God, Mom...
+L654801 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ He... Sam Lombardo?
+L654800 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ I was raped.  By Sam Lombardo.
+L654799 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ What?
+L654794 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ He didn't have to kill himself, Kelly. He could have gone out and gotten a job. Christ, he could've found another rich woman... He never had a problem tucking my friends when we were married.
+L654793 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ No you don't.
+L654792 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ Jesus.  Well, I do too, sometimes...
+L654791 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ I miss Dad.
+L654790 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ Kelly.  What is it?
+L654788 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ No thanks to you.
+L654787 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ I would hardly say you look like trash.
+L654786 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ My friends buy me clothes, so I don't look like trash.
+L654785 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ You notice my new jumper?
+L654784 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ Okay, what's the matter?
+L654783 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ Whichever one I want.
+L654782 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Which one of your "bodyguards" is that?
+L654720 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ Sam!  Hi!
+L654719 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Hi, Mon.
+L654718 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ Is that Sam Lombardo?
+L655455 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Um-huh.  And guess what else?  I have toys.
+L655454 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ You think that's wise?
+L655453 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ I'm running away.
+L655441 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ No little girl can ever make me come.
+L655440 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ I love you.  Now give me the line.
+L655439 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Say you love me.
+L655438 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ That's not your line.
+L655437 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ That never seemed to worry you at the Glades.
+L655319 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Okay.  I love you too.
+L655318 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ So if they're tapping your phone, we're dead.  Stay in the guest house.  Skip the graduation parties.  You'll never see Duquette.  Okay?  I love you.
+L655317 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ But what if they find out... God, they'd put you in the gas chamber...
+L655316 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Kelly... Relax.  Take one of your mom's valium or something.  In another week you get on the plane.  It's over.  We're rich.
+L655315 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ I don't know.  I want to see you...
+L655314 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ And you believe her?
+L655313 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ I don't know... I think it was something else... Suzie says the bust was bullshit...
+L655312 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Yeah, he got her busted for possession...
+L655311 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ I can't help it.  He gives me the creeps... I mean why was Suzie so scared of him?  She's not that way.  I think he did something...
+L655310 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Duquette.  Forget him...
+L655309 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ I'm really serious.  That cop, he keeps watching me.
+L655308 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ God, I've been calling you.
+L655307 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Hello.
+L655306 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Hello?
+L655248 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ There was no way.  That cop would've gotten her to tell him... everything. She was weak and dumb...
+L655247 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ I'm sorry, Kelly.  I'm sorry it had to happen like this.  She was losing it...
+L655186 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Okay.  I want you to hear this too. We've got to be cool.  All of us. People think I'm rich, for Christ's sake.   I'm doing what rich guys do.  I'm spending my money.  It's more suspicious if I sit around doing nothing.  Now don't let this cop fuck with your minds.
+L655185 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ I'm here.
+L655181 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Then do it.  I need you on this Kelly. Do it tonight.  We'll figure something out... Okay?
+L655180 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ You know what it takes.
+L655179 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ No!  Christ.  Listen, Kelly, I'm counting on you.  You calm her down. I mean do whatever you have to, whatever it takes...
+L655178 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Why can't you come...
+L655177 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Shit.  I was afraid of that.  She left this garbled message on my machine.  Can you calm her down?
+L655176 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Yes.
+L655175 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Kelly.  Is Suzie there?
+L655105 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Stick?
+L655104 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ We have to stick with the plan.
+L655103 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Do it to ourselves?
+L655102 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ The only way we're gonna blow this now, is if we do it ourselves...
+L655100 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Hey, come on... We've got to have at least one victory party.
+L655099 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ From now on, if we're seen together, it's got to be accidental.  I thought that was understood...
+L655095 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Of course I'm crazy.  Ask my mom.
+L655094 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ God, you scared the shit out of me.  You must be crazy coming here.
+L655089 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ About six and a half million dollars.
+L655088 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ How much?
+L655086 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ So you got my mom's money.
+L655085 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Jesus Christ, what are you doing?
+L655074 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Look, Kelly... I'm sorry... I know what you've been through... I should've seen something like this coning.
+L655073 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Drop dead... You know where my mom is trying to get the money to pay you off? She's trying to break my trust.  How do you like that?  I can't touch it until she's dead and she won't give me a dime and now she's trying to break it to pay you...
+L655072 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Kelly...
+L654754 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Mr. Lombardo.  We're running kind of late.  How about if Nicole goes on to the Mansons?  You could give me a ride when you find the ticket.
+L654753 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ All right.  I'll have to look for it.
+L654752 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Rules are rules, Mr. Lombardo.
+L654751 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Jeez, that thing... Can't you...
+L654750 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Aren't  you forgetting something?  Your coupon.  We gotta have it.
+L654749 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ So, where you off to now?
+L654743 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ In back of the garage.
+L654742 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Where's the hose?  We can set up.
+L654740 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ No I didn't.  Check out the Jeep.  It's nice and dirty for you.  But you might want to wait a minute. The Mercedes is leaving.
+L654739 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Look, he forgot.  I knew it.
+L654717 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ I won't.
+L654716 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Don't forget the car wash.
+L654706 +++$+++ u8912 +++$+++ m606 +++$+++ KELLY +++$+++ Deal.  You know, I just looked out front.  My ride wasn't there.  You suppose you could give me one?
+L654705 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Okay, try me on Sunday.  I'm going out to the Everglades on Saturday.  You guys can wash the mud off.
+L655046 +++$+++ u8913 +++$+++ m606 +++$+++ KEN +++$+++ Just like that?  These people ruined your life, bro.
+L655045 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Just like that?
+L655044 +++$+++ u8913 +++$+++ m606 +++$+++ KEN +++$+++ You'll get over it. We've got a knockdown, airtight, motherfucker of a lawsuit against Sandra Van Ryan.
+L655043 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ I was just thinking about where I'm gonna stay.  I lost the house.  It's like waking up from a goddamn nightmare.
+L655042 +++$+++ u8913 +++$+++ m606 +++$+++ KEN +++$+++ Come on, let loose!
+L654899 +++$+++ u8913 +++$+++ m606 +++$+++ KEN +++$+++ Fair enough.  Let's go make a statement.
+L654898 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ I just want my life back...
+L654897 +++$+++ u8913 +++$+++ m606 +++$+++ KEN +++$+++ Good.  So what we're going to do is march right to Hunter's doorstep.  We're going to insist they take a statement. We're going to tell them to charge your ass or get off your back.  They're walking a fine line here. Defamation of character, malicious prosecution...
+L654896 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ There's nothing for them to get.
+L654895 +++$+++ u8913 +++$+++ m606 +++$+++ KEN +++$+++ Sound nice?  It's a fucking drug rehab farm.  It's where Kelly Van Ryan went when her morn fished her out of the swamp.  Meanwhile, you get educator of the year I mean there's no way they can put this thing in front of a jury.  Shit, they haven't even taken your statement yet.  Reason?  They're still shoveling dirt and my guess is, they're coming up empty.  Now tell me I'm right.
+L654894 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Nellie Gail Ranch...
+L654893 +++$+++ u8913 +++$+++ m606 +++$+++ KEN +++$+++ For you to be getting this kind of heat, for what they have on you... It doesn't add up.  Sandra Van Ryan's got 'em running scared.  And I'll tell you something else, you rush, you get careless.
+L654892 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ What's that supposed to mean?
+L654891 +++$+++ u8913 +++$+++ m606 +++$+++ KEN +++$+++ You're not in bad shape, really.  I know you think you are, but you're not.  Let me tell you why.  Sandra Van Ryan.
+L654890 +++$+++ u8913 +++$+++ m606 +++$+++ KEN +++$+++ Not in here.  Chiropractor comes in here for lunch sometimes.
+L654889 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Can't you take that stupid thing off?
+L654888 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ I know how deep her pockets are, Ken.  I thought I might be able to save my fucking house with an equity loan. Guess who's on the board of directors at the bank?
+L654887 +++$+++ u8913 +++$+++ m606 +++$+++ KEN +++$+++ Lady has some deep pockets.  That's all I'm saying.
+L654886 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Forget it.
+L654885 +++$+++ u8913 +++$+++ m606 +++$+++ KEN +++$+++ You can tie whoever did it to Sandra Van Ryan...
+L654884 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Good thinking.
+L654868 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Ken.  I'm in some trouble.  I need an attorney and you're the only one I know. So I figured I'd start here.
+L654867 +++$+++ u8913 +++$+++ m606 +++$+++ KEN +++$+++ But check this...
+L655350 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Suzie Toller is dead.  You don't want Kelly to be next, then take my advice. Stay out of my way.
+L655349 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ You can't...
+L655348 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ I'm placing your daughter under arrest.
+L655347 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ Where she lives.  In the guest house. Now will you tell me what this is about?
+L655346 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Where is she?
+L655345 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Detective Duquette, Ms. Van Ryan.  Let me in.  Now.
+L655344 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ Who is it?
+L654805 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ That's right.
+L654804 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ You're saying that Kelly was raped by Sam Lombardo.
+L655406 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Hey, Ray.  Guess whose name is on the numbered bank account besides yours and Sam's?
+L655405 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Sam, for godsake.
+L655402 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Shoulda, coulda, woulda...  Get him in the water.
+L655401 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ You... I should've killed you myself. should never have left it up to him...
+L655168 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ That's right.  That was his name.
+L655167 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Davy.
+L655164 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Shut up.
+L655163 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Don't you see what this means?  You really think Sam and Kelly are gonna give you a third of the money?  You, the pill-head with the rap sheet?
+L655162 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Get away from me.
+L655159 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Suzie, Suzie... This is me, Ray, you're talking to.  We both know you don't have shit, never have had shit, never will have shit...
+L655158 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ I don't mean who you're thinking.  I have other friends...
+L655157 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Is that what you think?  You have friends?  Is that what they told you?
+L655156 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ I don't have to listen to this.  And you can't shove me around.  I have friends now...
+L655155 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ You, Kelly, Sam.
+L655154 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Is this supposed to mean something to me?  What triangle?
+L655153 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Every triangle I've ever seen never lasts.  Somebody's got to go.
+L655152 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ About what?
+L655151 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Well, you're half right.  Best thing you could do for yourself right now would be to talk to me.
+L655150 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ That's cop bullshit.
+L655149 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Yeah, they're bad for your health.  I'm tryin' to look out for you...
+L655148 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ You got something against cigarettes?
+L655147 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ You ought to watch it with that shit, Suzie.  You get busted again, you go back in a two-tine loser.
+L654971 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Then he'll be back at Blue Balls?
+L654970 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ It doesn't look like it.
+L654969 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Will they?
+L654968 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ No.
+L654966 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ So Suzie, you called us, remember?
+L654965 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ It's Celine.  He's okay.  He had a pretty good line on what cheap fucks people are.
+L654963 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ I did.  At Blue Balls.
+L654962 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Meet my partner, Gloria Perez.
+L655397 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Come off it, man... It was an accident.
+L655396 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ That how you planned it?  You take cut Suzie, get me to hang it on Kelly, then dump me in the ocean...
+L655395 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Jesus, man... You okay?
+L655394 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Yeah, or get me drowned.
+L655393 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Come on, man.  I'll make a sailor out of you yet.
+L655392 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ I thought this was supposed to be a vacation.  Why didn't you buy a nice big power boat?
+L655391 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Yes, we call it a winch.  And these are shrouds, and these are stays.
+L655390 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ You mean this thing?
+L655373 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Kelly was supposed to be framed, not killed.  What I'm telling you is, I don't like surprises.
+L655372 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Did you become squeamish about these things before or after you bludgeoned little Suzie Toller to death with a wine bottle?  Jesus, man. It couldn't have worked out better. They're convinced Kelly whacked Suzie. I can't talk 'em out of it.  We should be celebrating.  This thing worked out just like you said, only better.
+L655371 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Well, shit, you're the cop, they don't teach you to disarm people, shoot them in the leg or something?  You weren't supposed to kill her for Christ's sake.
+L655370 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Hey, what did you want me to do, die?
+L655369 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ The bitch shot me, is what happened.
+L655368 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Yeah, well, you fixed that.  What the hell happened, anyway?
+L654925 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Sit down, Lombardo.
+L654924 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Fuck you.  This is bullshit.  I'm outta here.
+L654923 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ With a thirty-five inch bustline in a wet T-shirt with no bra...
+L654922 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ It is and I don't.  Ordinarily...  But, I mean... there's this kid standing in front of you crying...
+L654921 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ But you do admit to touching her, to putting your arm around her.  Isn't that against the rules?
+L654916 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ That's right.
+L654915 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ But she ran away.
+L654912 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Yes.  Mainly to turn her toward the door.  I told her we would talk on Monday, in the office.
+L654911 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ And she began to cry.  And you put an arm around her.
+L654910 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ I could, but it's confidential.  Look, the point is, we didn't talk.  I told her this was not an appropriate time or place.
+L654909 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ But you can't tell us what she wanted to talk about.
+L654908 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Yes.
+L654907 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ And she wanted to talk.
+L654906 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Yes.
+L654905 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ In cutoffs, a wet T-shirt.
+L654904 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Like I said, I hadn't really expected to use it.  Anyway, I'm going through a drawer.  I hear a car.  I look out the window.  I see Nicole driving away.  I leave my room, and there's Kelly.
+L654903 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ The one you bought at school.
+L654902 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ I had to go look for this coupon.
+L654901 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Story's the same, Detective...
+L654900 +++$+++ u8914 +++$+++ m606 +++$+++ RAY +++$+++ Why don't you tell us one more time, how Kelly came to be with you, alone in your house.
+L655452 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ I think there's some things you do, you don't want to see yourself doing them.
+L655451 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Walter.  He's been aimin' that Brownie through knotholes for years.  I saw these, I knew he'd finally struck gold.  I can't decide which came out better, that little straw Kelly's got up her nose, or that vibrator you've got up her ass.  What do you think, Mr. Lombardo?
+L655450 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ How...
+L655449 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Well, I'd need the famous Lombardo charm, not that you'd have to do anything you haven't done already.
+L655448 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ We?
+L655447 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ I've seen you out there in your old air boat, thinking about what might have been, old man Van Ryan hadn't fucked you out of it.  What if I told you I had a way we could get a big piece of it back?
+L655444 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Trust me, the guy's dirty.  He'll like it.  Especially the part about offing me.  Now get out of here.  Go make yourself a new friend.
+L655443 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Yeah, real funny.  You're wrong about this, I could get busted on the spot.
+L655442 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Seems to like some of the same places you do.  Funny you never met.
+L655420 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Fuck the winch.  I wanna drive.
+L655419 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ What's wrong?
+L655415 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ That was the same thing Ray said.
+L655414 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ What?
+L655413 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ But then it is better this way, don't you think?  No loose ends.
+L655412 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ But then you knew what he was like all along... Maybe his killing Kelly was a thing you had counted on...
+L655411 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ The guy was history when he killed Kelly.  You knew that.
+L655410 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ That was about as grim as it gets.
+L655242 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ No, no.  Look, I probably should have told you a little more, about the part I intended to play.  We'll go through it all again tonight.
+L655241 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Are you mad at me?
+L655240 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ I was worried about you, Suzie.  I decided we should all get together, one more time, before we split up.
+L655191 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Good.  Just keep telling yourselves that, the only people who can fuck this up is us.
+L655190 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Yeah, right.
+L655188 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Shut up.  Don't fall apart.  The only people who can blow this is us. Remember?
+L655187 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ But I..
+L655184 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Put Kelly on too.
+L655183 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ Sam...
+L655097 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Jesus.  Two million one hundred thirty-three thousand three hundred thirty-three and change.
+L655096 +++$+++ u8918 +++$+++ m606 +++$+++ SUZIE +++$+++ How much is about six and a half million divided by three?
+L654778 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Goodbye, Sandra.
+L654777 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ Grab a clue, Sam.  You're a hired hand around here.  Enjoy it while it lasts.
+L654775 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ So maybe I'm a one-woman man.
+L654774 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ Look.  I know you're seeing Barbara Baxter.  So what?
+L654772 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ To tell you the truth, I haven't seen her since Friday.
+L654771 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Didn't you see her this morning?
+L654770 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ Shit. Here we go again.
+L654769 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ No.
+L654768 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ Listen, Kelly skipped school.  Have you talked to her?
+L654767 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Sandy... What's up?
+L654730 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Swamp's where it's at, Sandy.  Gives you a look into the muck we all crawled out of.  You ought to try it some time.
+L654729 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ What?  Running over alligators with that silly swamp jalopy when you could be sailing a real boat...
+L654728 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Sorry, Sandy.  I've got plans.
+L654727 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ I'll bet.  Look, Sam.  Why don't you come by this weekend.  We'll take the boat out...
+L654726 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ I can't, Sandy.  I've got to run.
+L654724 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Can't.  Got a passenger.
+L654723 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ Why don't you come in, have a drink?
+L654722 +++$+++ u8916 +++$+++ m606 +++$+++ SAM +++$+++ Hi, Sandy.
+L654721 +++$+++ u8917 +++$+++ m606 +++$+++ SANDRA +++$+++ What?  You're going to drive off without even saying hi?

@@ -1,0 +1,362 @@
+L624537 +++$+++ u8593 +++$+++ m583 +++$+++ BEING +++$+++ My pain?
+L624536 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ I couldn't help but notice you pain.
+L624528 +++$+++ u8593 +++$+++ m583 +++$+++ BEING +++$+++ Bring it closer so that I might join with it. Do it, or watch these puny things die horribly.
+L624527 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ The ship....
+L624526 +++$+++ u8593 +++$+++ m583 +++$+++ BEING +++$+++ Bring me the ship or I will destroy you!
+L624525 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ No, no, it's not possible.
+L624517 +++$+++ u8593 +++$+++ m583 +++$+++ BEING +++$+++ He doubts me.
+L624516 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Why? Why have you done this to my friend?
+L624512 +++$+++ u8593 +++$+++ m583 +++$+++ BEING +++$+++ You doubt me?
+L624511 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ He has his doubts...
+L624500 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ It will be your chariot!
+L624499 +++$+++ u8593 +++$+++ m583 +++$+++ BEING +++$+++ Then I shall make use of this starship.
+L624498 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ It could. Yes.
+L624497 +++$+++ u8593 +++$+++ m583 +++$+++ BEING +++$+++ This starship, could it carry my wisdom beyond the Barrier?
+L624496 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ With a starship!
+L624495 +++$+++ u8593 +++$+++ m583 +++$+++ BEING +++$+++ And how did you breach the Barrier?
+L624494 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ We sought only your infinite wisdom.
+L624493 +++$+++ u8593 +++$+++ m583 +++$+++ BEING +++$+++ Magnificent. You are the first to find me.
+L624492 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ It was not. The Barrier stood between us - but we breached it.
+L624491 +++$+++ u8593 +++$+++ m583 +++$+++ BEING +++$+++ It is I.  The journey you undertook to reach me could not have been an easy one.
+L624490 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Qual se tu?
+L623994 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ Don't worry, fellas. Your secret's` safe with me. I'll send the shuttlecraft to pick you up.
+L623993 +++$+++ u8594 +++$+++ m583 +++$+++ CHEKOV +++$+++ Sulu! Look! The sun's come out! It's a miracle!
+L623992 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ My visual says sunny skies and seventy degrees.
+L623989 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ Is there a problem, gentlemen?
+L623988 +++$+++ u8594 +++$+++ m583 +++$+++ CHEKOV +++$+++ Don't tell them you're lost. You'll never live it down.
+L623987 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ Return to prearranged coordinates for pickup.
+L623986 +++$+++ u8594 +++$+++ m583 +++$+++ CHEKOV +++$+++ Rescued at last.
+L623985 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ Bad news, gentlemen. Shore leave's been cancelled.
+L624541 +++$+++ u8594 +++$+++ m583 +++$+++ CHEKOV +++$+++ But, Captain, we're firing directly on your position.
+L624540 +++$+++ u8603 +++$+++ m583 +++$+++ SULU +++$+++ In firing position. Torpedo armed.
+L624325 +++$+++ u8603 +++$+++ m583 +++$+++ SULU +++$+++ Estimating destination in 6.7 hours, present speed.
+L624324 +++$+++ u8594 +++$+++ m583 +++$+++ CHEKOV +++$+++ Following new course. Warp seven.
+L624309 +++$+++ u8603 +++$+++ m583 +++$+++ SULU +++$+++ Pavel.
+L624308 +++$+++ u8594 +++$+++ m583 +++$+++ CHEKOV +++$+++ New course? You have no authority.  What's going on here?
+L624307 +++$+++ u8603 +++$+++ m583 +++$+++ SULU +++$+++ Plotting our new course.
+L624306 +++$+++ u8594 +++$+++ m583 +++$+++ CHEKOV +++$+++ Sulu, what are you doing?
+L623991 +++$+++ u8594 +++$+++ m583 +++$+++ CHEKOV +++$+++ And we can't see a thing. Request you direct us to the coordinates.
+L623990 +++$+++ u8603 +++$+++ m583 +++$+++ SULU +++$+++ Um... yes. We've been caught in a blizzard!
+L623982 +++$+++ u8603 +++$+++ m583 +++$+++ SULU +++$+++ All right, we're lost.  But we're making good time.
+L623981 +++$+++ u8594 +++$+++ m583 +++$+++ CHEKOV +++$+++ Admit it. We're lost.
+L624246 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ I don't have a clue.
+L624245 +++$+++ u8594 +++$+++ m583 +++$+++ CHEKOV +++$+++ What's Emergency Landing Plan B?
+L624226 +++$+++ u8594 +++$+++ m583 +++$+++ CHEKOV +++$+++ DO it. Go to Red Alert.
+L624225 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ But the shuttle-
+L624224 +++$+++ u8594 +++$+++ m583 +++$+++ CHEKOV +++$+++ Raise shields.
+L624223 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ Mr. Chekov, I've lost the Bird of Prey. She must have cloaked.
+L624219 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ Closing.
+L624218 +++$+++ u8594 +++$+++ m583 +++$+++ CHEKOV +++$+++ Position, Bird of Prey?
+L624217 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ Shuttle en route.
+L624193 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Do you realize what you've done? It wasn't bloodshed I wanted.
+L624192 +++$+++ u8595 +++$+++ m583 +++$+++ CHEKOV'S IMAGE +++$+++ I instruct you to surrender. You are under attack by Federation forces.
+L624191 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ What's going on?
+L624171 +++$+++ u8595 +++$+++ m583 +++$+++ CHEKOV'S IMAGE +++$+++ We will be happy to beam down. But first we must have certain assurances.
+L624170 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Then it's fortunate that I have you and your starship to protect me. In the meantime, Captain Chekov, I instruct you and your First Officer to beam down to my coordinates.
+L624169 +++$+++ u8595 +++$+++ m583 +++$+++ CHEKOV'S IMAGE +++$+++ You are a master of understatement. They are likely to destroy the planet.
+L624166 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Your threats amuse me, Captain Chekov. What consequences did you have in mind?
+L624165 +++$+++ u8595 +++$+++ m583 +++$+++ CHEKOV'S IMAGE +++$+++ This is Captain Pavel Chekov speaking. You are in violation of Neutral Zone Treaty. I advise you to release your hostages at once or suffer the consequences.
+L624164 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ A Federation starship.
+L624163 +++$+++ u8595 +++$+++ m583 +++$+++ CHEKOV'S IMAGE +++$+++ This is the Starship Enterprise.
+L624097 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Understood. Kirk out.
+L624096 +++$+++ u8596 +++$+++ m583 +++$+++ COMMANDERS IMAGE +++$+++ No, but you can bet they will.
+L624095 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Have the Klingons responded?
+L624094 +++$+++ u8596 +++$+++ m583 +++$+++ COMMANDERS IMAGE +++$+++ Your orders are to proceed to Nimbus III, assess the situation and avoid a confrontation if possible. Above all, however, get those hostages back safely.
+L624093 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Oh, please.
+L624092 +++$+++ u8596 +++$+++ m583 +++$+++ COMMANDERS IMAGE +++$+++ Other ships, yes. But no experienced commanders. Captain, I need Jim Kirk.
+L624091 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ With all due respect, the Enterprise is a disaster. There must be other ships in the quadrant.
+L624090 +++$+++ u8596 +++$+++ m583 +++$+++ COMMANDERS IMAGE +++$+++ The Klingon, the Romulan, the Federation consuls. Now I know Enterprise is not exactly up to specs...
+L624089 +++$+++ u8596 +++$+++ m583 +++$+++ COMMANDERS IMAGE +++$+++ The same. From what we can make out, a terrorist force has captured the only settlement. And they've taken hostages.
+L624088 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ On "The Planet Of Galactic Peace?"
+L624087 +++$+++ u8596 +++$+++ m583 +++$+++ COMMANDERS IMAGE +++$+++ I apologize for canceling shore leave, but look, we have a dangerous situation out on Nimbus III.
+L624086 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ You caught me on my way to the shower.
+L624085 +++$+++ u8596 +++$+++ m583 +++$+++ COMMANDERS IMAGE +++$+++ Jim...? Well, we're dressing informally, aren't we?
+L624084 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Bob?
+L624083 +++$+++ u8596 +++$+++ m583 +++$+++ COMMANDERS IMAGE +++$+++ Enterprise, this is Starfleet Operations. Come in.
+L624082 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Can we have it quiet?
+L623924 +++$+++ u8600 +++$+++ m583 +++$+++ RIDER +++$+++ Have faith, my friend. There are more of us than you know.
+L623923 +++$+++ u8597 +++$+++ m583 +++$+++ J'ONN +++$+++ But how?
+L623922 +++$+++ u8600 +++$+++ m583 +++$+++ RIDER +++$+++ Perhaps I have a way to bring one here.
+L623921 +++$+++ u8597 +++$+++ m583 +++$+++ J'ONN +++$+++ A starship? There are no starships on Nimbus III.
+L623920 +++$+++ u8600 +++$+++ m583 +++$+++ RIDER +++$+++ What you seek. What all men have sought since time began - ultimate knowledge. But to find it we'll need a starship.
+L623919 +++$+++ u8597 +++$+++ m583 +++$+++ J'ONN +++$+++ What is it you seek?
+L623918 +++$+++ u8600 +++$+++ m583 +++$+++ RIDER +++$+++ Join my quest.
+L623917 +++$+++ u8597 +++$+++ m583 +++$+++ J'ONN +++$+++ I feel as if a weight has been lifted from my heart. How can I repay you for this miracle?
+L623916 +++$+++ u8600 +++$+++ m583 +++$+++ RIDER +++$+++ The power was within you.
+L623915 +++$+++ u8597 +++$+++ m583 +++$+++ J'ONN +++$+++ Where did you get this power?
+L623913 +++$+++ u8600 +++$+++ m583 +++$+++ RIDER +++$+++ Let us explore it together.
+L623912 +++$+++ u8597 +++$+++ m583 +++$+++ J'ONN +++$+++ What do you know of my pain?
+L623911 +++$+++ u8600 +++$+++ m583 +++$+++ RIDER +++$+++ Your pain runs deep.
+L623910 +++$+++ u8597 +++$+++ m583 +++$+++ J'ONN +++$+++ It's all I have.
+L623909 +++$+++ u8600 +++$+++ m583 +++$+++ RIDER +++$+++ Besides, I can't believe you'd kill me for a field of empty holes.
+L624553 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Beam up Spock and Dr. McCoy. Now!
+L624552 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ She's got partial power, sir. I might be able to take two of you.
+L624359 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Mr. Scott, you're amazing.
+L624358 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ Head down that tunnel to the hydro vent and turn right. Then left at the blowscreen. You can't miss it.
+L624357 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Mr. Scott, get the transporter working. If we contact a rescue ship we'll need it.  Which way to the turbo shaft?
+L624353 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ If we could send a distress signal...
+L624352 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ Captain, we can't trust anyone now.
+L624154 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Then we'll have to get them out the old fashioned way.
+L624153 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ Scotty here, Captain. Transporter is still inoperative. Even if we could lock onto the hostages, we couldn't beam them up.
+L624104 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ I hope it won't come to that, Mr. Scott.
+L624103 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ Don't you worry, Captain. We'll beat those Klingon devils even if I have to get out and push.
+L624068 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ Aye, Captain  How many times do I have to tell you? The right tool for the right job...
+L624067 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Very well, Mr. Scott. Carry on.
+L624066 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ I think you gave me too much time, Captain.
+L624065 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ You told me you could have the ship operational  in two weeks. I gave you three. What Happened?
+L624258 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Go, Sulu.
+L624257 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ Bird of Prey bearing one zero five mark two.
+L624152 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Transporter room. Status.
+L624151 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ Paradise City, can you boost your power? We're barely receiving transmission.
+L624150 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Respond with static. Let them think we're having difficulty. Which wouldn't be far from the truth.
+L624149 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ Captain, we're receiving transmission from Paradise City. They're demanding to know our intentions.
+L624148 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Standard orbit, Mr. Sulu.
+L624119 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Put it on the screen.
+L624118 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ Captain, we're receiving the hostage information you requested.
+L624076 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Put it on the veiwscreen, would You please?
+L624075 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ Captain, Starfleet transmission on line.
+L624056 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ ER... You forgot to take it with you.
+L624055 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Why didn't you beep my communicator?
+L624054 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ Mr. Scott apologizes for having to send the shuttlecraft. The transporter beam is non-operational. Captain, we've received important orders from Starlet Command.
+L624592 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Yes. I lost a brother once. I was lucky. I got him back.
+L624591 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I was thinking of Sybok. I've lost a brother.
+L624590 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Maybe he's not out there, Bones. Maybe he's right here... in the human heart  Spock?
+L624579 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Not possible. You were never alone.
+L624578 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Spock, I thought I was going to die.
+L624577 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Welcome aboard, Captain.
+L624576 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Spock?
+L624432 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I believe we are witnessing my birth.
+L624431 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ What is this?
+L624430 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ It's all right, Captain.  Proceed.
+L624429 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Spock... don't.
+L624383 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Mark two. Request emergency assistance. Acknowledge.
+L624382 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ ...mark two.
+L624379 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ To anyone within the sound of my voice: This is Captain James T. Kirk of the Federation Starship Enterprise. If you read me, acknowledge. Acknowledge.
+L624378 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ The emergency channel, open.
+L624377 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Spock.
+L624373 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Fire the rockets!
+L624372 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ If I activate them now, Captain, we will be propelled upward at an unbelievable rate.
+L624371 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Spock... the booster rockets.
+L624370 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ It must be all those marsh melons.
+L624369 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ It would appear we are too heavy.
+L624366 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Uh-uh.
+L624365 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Hmmm?
+L624364 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I believe I have found a faster way.
+L624355 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ The only problem is, it's up there. We're down here.
+L624354 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ There is an emergency sending apparatus in the forward observation room.
+L624348 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ "c."... "k."
+L624347 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ New word. "b".. "a"... um...
+L624346 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ "a"... "n"...uh, "d"... end of word.
+L624345 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ A "t."
+L624344 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ You're right. I'm a little out of practice.  Uh....that's an "s."
+L624341 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ That's a little vague, Spock -
+L624340 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I am here, Captain.
+L624339 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Spock! My only concern is getting the ship back. When that's done and Sybok is in here then you can debate Sha Ka Ree until you're green in the face. Until then, you're either with me or you're not.
+L624338 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Sybok possessed the keenest intellect I have ever known.
+L624337 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ But the center of the galaxy can't be reached. No ship has ever gone into the Great Barrier. No probe has ever returned.
+L624336 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ There Sha Ka Ree is fabled to exist.
+L624332 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ That he's found it. Sha Ka Ree. The reason Sybok left Vulcan.
+L624331 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Is what possible?
+L624330 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Is it possible?
+L624323 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ He did have pointed ears.
+L624322 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ This, er, person... didn't by any chance have pointed ears and an unerring capacity for getting his shipmates into trouble, did he?
+L624321 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ The designers tested it using the most intelligent and resourceful person they could find. He failed to escape.
+L624320 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ How do you know?
+L624319 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ This is a new brig, Captain. It is escape-proof.
+L624318 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ There's got to be a way out of this place.
+L624302 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ He's sorry, See, he's sorry. Everything... that makes everything all right. He's sorry, everything's...
+L624301 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I was not disposed to discuss... matters of a personal nature. For that, I'm sorry.
+L624300 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Why didn't you tell me this before?
+L624299 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Exactly. That is correct. Sybok's mother was a Vulcan princess. Upon her death, Sybok and I were raised as brothers.
+L624298 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ I gotta sit down.
+L624297 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I have a half brother.
+L624296 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ There, you see? See?
+L624295 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Technically, you are correct. I do not have a brother.
+L624294 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ You did too. Sybok couldn't possibly be your brother because I happen to know for a fact that you don't have a brother.
+L624293 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I did not.
+L624292 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ You mean he's your brother brother?  You made that up!
+L624291 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ No, no, no, Captain. You do not understand. Sybok also in a son of Sarek.
+L624290 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Look, the man may be a fellow Vulcan, but that doesn't...
+L624289 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ You ordered me to kill my brother.
+L624288 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ I ordered you to defend this ship.
+L624287 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ If I had pulled the trigger, Sybok would be dead.
+L624286 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ You stay out of this!  Why, Spock? Why? I.. All you had to do was pull the trigger.
+L624285 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ If you think it would help.
+L624284 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Forgive you? I ought to knock you on your goddamn ass!
+L624283 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Worse. I have betrayed you. I do not expect you to forgive me.
+L624282 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ What you have done is betray every man on this ship.
+L624281 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Captain, what have I done -
+L624280 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Damnit, Spock. God damnit!
+L624239 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Let me do something.
+L624238 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ You must allow us to act.
+L624235 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ An eternity during which we'll be vulnerable to Klingon attack. Korrd-you tell him.
+L624234 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Exactly 15.5 seconds.
+L624181 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Yes, Captain.
+L624180 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Be one with the horse.
+L624179 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Yes, Captain?
+L624178 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Spock.
+L624173 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ We don't have 1.2 hours.
+L624172 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ At footspeed I estimate the journey to Paradise City at 1.2 hours.
+L624160 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Mr. Sulu. Execute.
+L624159 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ To land any closer would risk detection.
+L624158 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ That puts us pretty far away from Paradise City.
+L624157 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Their equipment is primitive but effective. I recommend we land at Coordinate 8563.
+L624156 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Damn.  Let's go.
+L624155 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Klingon vessel now entering quadrant. Bird of Prey. Estimating 1.9 hours until her weapons come to bear.
+L624141 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Fascinating.
+L624140 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ When he encouraged others to follow him, he was banished from Vulcan, never to return.
+L624139 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ He believed the key to self-knowledge was emotion, not logic.
+L624138 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Why?
+L624137 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ He rejected his logical upbringing and embraced the animal passions of our ancestors.
+L624136 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ The knowledge and experience he sought were forbidden by Vulcan belief.
+L624135 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ What do you mean?
+L624134 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ There was a young student, exceptionally gifted, possessing of great intelligence. It was assumed that one day he would take his place amongst the great scholars of Vulcan. But he was a revolutionary.
+L624133 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Who is it he reminds you of?
+L624132 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I do not often think of the past.
+L624131 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ He reminds me of someone I knew in my youth.
+L624130 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ But he does seem familiar?
+L624129 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I cannot be certain.
+L624128 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Spock, what is it? Do you know this Vulcan?
+L624127 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Perhaps I have, Captain. Perhaps I have.
+L624126 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ What is it? You look like you've seen a ghost.
+L624123 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ General Korrd's military strategies were required learning when I was a cadet at the Academy. When they put me out to pasture, I hope I fare better than Korrd.
+L624122 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ The same. He's apparently fallen out of favor with the Klingon High Command.
+L624121 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Not General Korrd.
+L624072 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Yes.
+L624071 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ I could use a shower.
+L624040 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Goodnight, Doctor.
+L624039 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Goodnight, Spock.
+L624038 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Goodnight, Bones.
+L624037 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Yes, Captain.
+L624036 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Go to sleep, Spock.
+L624035 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Life is not a dream.
+L624034 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Yes, Spock?
+L624033 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Jim.
+L624032 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Spock, we're on leave. You can call me Jim.
+L624031 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Captain?
+L624027 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I was trying to comprehend the meaning of the words.
+L624026 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Come on, Spock. Why didn't you jump in?
+L624025 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ The lyrics are - are very simple. It's, er, "Row, row, row your boat, gently down the stream. Merrily, merrily, merrily, merrily, life is but a dream.." The Doctor and I will start it off, and then when we give you the signal, you jump in.  Doctor, if you please.
+L624024 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ That song did not come up in my research, Captain.
+L624023 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ "Row, row, row your boat..." I love "Row..."  Do - do you know "Row, Row, Row, Row, Row Your Boat?"
+L624021 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Are we leaving, Captain?
+L624020 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ "Pack Up Your Troubles."
+L624019 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ That's great. I haven't sung around a campfire since I was a boy in Iowa. What are we going to sing? What... Bones, what are we going to sing?
+L624018 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Oh. I believe we are required to engage in a ritual known as the singalong.
+L624015 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I am preparing to toast a marsh melon.
+L624014 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ What are you doing?
+L624012 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ I've always known... I'll die alone.
+L624011 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I don't understand.
+L624010 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Oh, no. It isn't that. I knew I wouldn't die because the two of you were with me.
+L623941 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Perhaps "because it is there" is not sufficient reason for climbing a mountain.
+L623940 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Oh, God
+L623939 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Spock, I appreciate your concern, but if you don't stop distracting me, I'm liable to be one...
+L623938 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Concentration is vital. You must be one with the rock.
+L623937 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I believe Dr McCoy is not in the best of moods.
+L623936 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ On the contrary. Gravity is foremost on my mind. Look, I'm trying to make an ascent here. Why don't you go pester Dr McCoy for a while?
+L623935 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I do not think you realize the gravity of your situation.
+L623934 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ MM.?
+L623933 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Ah, Captain?
+L623932 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Because it's there.
+L623931 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ And that is?
+L623930 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ I'm not trying to break any records. I'm doing this because I enjoy it. Not to mention the most important reason for climbing a mountain...
+L623929 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I regret to inform you that the record for free-climbing El Captain is in no danger of being broken.
+L623928 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I'm flattered. Twelve hundred points of interest in Yosemite and you pick me.
+L623927 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Spock - What are you doing in this neck of the woods?
+L624531 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Spock...
+L624530 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Kirk to Enterprise. Listen carefully...
+L624529 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ What have I done?
+L624475 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Because you, too, must know.
+L624474 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ What makes you think I won't turn us around?
+L624473 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ No conditions.
+L624472 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ No special conditions?
+L624471 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ The ship needs its Captain.
+L624470 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ About the ship...
+L624456 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Am I? We'll see.
+L624455 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ You are mad!
+L624454 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Given to me by God.  He waits for us on the other side.
+L624453 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Your vision?
+L624452 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ But if we do, will that convince you that my vision was true?
+L624451 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Wait!  You know we'll never make it through the Great Barrier.
+L624438 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ No. I refuse.
+L624437 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Now learn something about yourself.
+L624436 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ No... I didn't.
+L624435 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ I've done nothing. This is who they are. Didn't you know that?
+L624434 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Spock...  What have you done to my friends?
+L624405 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ I don't control minds. I free them.
+L624404 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ The only realty I see is that I'm a prisoner on my own ship. What is this power you have to control the minds of my crew?
+L624403 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Sha Ka Ree. "The Scource." "Heaven." "Eden." call it "Qui'Tu." To the Romulans, it's "Vorta Vor." The Andorian word is.. unpronounceable. Still, every culture shares he common dream of a place from which creation sprang. For us, that place will soon be a reality.
+L624392 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ I'm afraid of nothing.
+L624391 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ What you fear is the unknown. The people of your planet once believed their world was flat. Columbus proved it was round. They said the sound barrier could never be broken. It was broken. They said warp speed could not be achieved. The Great Barrier is the ultimate expression of this universal fear. It's an extension of personal fear.  Captain Kirk, I so much want your understanding. I want your respect. Are you afraid to hear me out?
+L624390 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ You can't expect us to stand by while you take the ship into the Great Barrier.
+L624389 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ I trust your message was received?
+L624267 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ I'll take you to the bridge.
+L624266 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ We must change our course at once.
+L624250 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ In order to lower and raise the shields as quickly as possible, we're going to forego the tractor beam and fly her in manually.
+L624249 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ What are you doing?
+L624233 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ Sybok, listen to me. In order for this craft to enter the landing bay, Enterprise must lower the shields and activate the tractor beam. To get us inside and re-raise the shields will take-
+L624232 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ No! No reply. Remain on course.
+L624214 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ But I thought Captain Chekov..  I see. Very clever, Captain.  Spock, it would appear that you've been given a second chance to join me. What do you say?
+L624213 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ James T. Kirk, Captain of the Enterprise.
+L624212 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Who are you?
+L624211 +++$+++ u8598 +++$+++ m583 +++$+++ KIRK +++$+++ You staged all this to get your hands on my ship?
+L624210 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ I must have your starship.
+L624387 +++$+++ u8606 +++$+++ m583 +++$+++ VIXIS +++$+++ 
+L624386 +++$+++ u8599 +++$+++ m583 +++$+++ KLAA +++$+++ 
+L624261 +++$+++ u8606 +++$+++ m583 +++$+++ VIXIS +++$+++ 
+L624260 +++$+++ u8599 +++$+++ m583 +++$+++ KLAA +++$+++ 
+L624110 +++$+++ u8606 +++$+++ m583 +++$+++ VIXIS +++$+++ 
+L624109 +++$+++ u8599 +++$+++ m583 +++$+++ KLAA +++$+++ 
+L624108 +++$+++ u8606 +++$+++ m583 +++$+++ VIXIS +++$+++ 
+L624053 +++$+++ u8599 +++$+++ m583 +++$+++ KLAA +++$+++   
+L624052 +++$+++ u8606 +++$+++ m583 +++$+++ VIXIS +++$+++ 
+L624051 +++$+++ u8599 +++$+++ m583 +++$+++ KLAA +++$+++ 
+L624050 +++$+++ u8606 +++$+++ m583 +++$+++ VIXIS +++$+++ 
+L624049 +++$+++ u8606 +++$+++ m583 +++$+++ VIXIS +++$+++ 
+L624048 +++$+++ u8599 +++$+++ m583 +++$+++ KLAA +++$+++ 
+L624045 +++$+++ u8599 +++$+++ m583 +++$+++ KLAA +++$+++ 
+L624044 +++$+++ u8606 +++$+++ m583 +++$+++ VIXIS +++$+++ 
+L624043 +++$+++ u8599 +++$+++ m583 +++$+++ KLAA +++$+++ 
+L624042 +++$+++ u8606 +++$+++ m583 +++$+++ VIXIS +++$+++ 
+L624402 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ Maybe you could wait until I'm a wee bit stronger I don't think I could take it in my present condition.  Or yours.
+L624401 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ No, no, no. Scotty - Scotty... There's so much I want to tell you.
+L624399 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ No. Sybok has simply put us in touch with feelings we've always been afraid to express.
+L624398 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ He's not?
+L624397 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ Scotty, dear, he' not a madman.
+L624396 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ Uhura, I had the strangest dream. I dreamt that a madman had taken over the Enterprise.
+L624395 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ Easy, easy,  easy, Scotty. Easy. You're back with us.
+L623979 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ Starfleet, are you aware of our currant status?
+L623978 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ They can't be serious. The ship's in pieces and we've less than a skeleton aboard.
+L623969 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ I had a feeling you would say something like that. So I brought us dinner.
+L623968 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ Oh, I cannot leave her now when she needs me the most.
+L623967 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ And I thought we were supposed to be going together.
+L623966 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ Uhura, I thought you were on leave.
+L623965 +++$+++ u8605 +++$+++ m583 +++$+++ UHURA +++$+++ I know you'll whip her into shape, Scotty. You always do.
+L623964 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ "Let's see what she's got," said the Captain. And then we found out, didn't we?
+L623963 +++$+++ u8601 +++$+++ m583 +++$+++ SCOTTY +++$+++ Borgus Frat.
+L624535 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ No. You must save yourselves. Forgive me, brother. Forgive me.
+L624534 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Sybok, we must find a way...
+L624533 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ This is my doing. This is my arrogance... my vanity...
+L624532 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Sybok.
+L624523 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ I don't understand..  Reveal yourself to me!
+L624522 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Sybok - this is not the God of Sha Ka Ree - or any other God!
+L624449 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Sybok, you are my brother, but you do not know me. I am not the outcast boy you left behind those many years ago. Since that time I have found myself and my place. I know who I am. And I cannot go with you.
+L624448 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ I don't understand...
+L624447 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I belong here.
+L624446 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Why not?
+L624445 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I cannot go with you.
+L624444 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Spock?
+L624428 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Do you?
+L624427 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ I know you better than that.
+L624426 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I hide no pain.
+L624425 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Each man's pain is unique.
+L624275 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ You know I'm right.
+L624274 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ No. I will not.
+L624273 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Put him in the brig with Captain Kirk.  Spock, you will accompany me to the bridge?
+L624270 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ No. You must kill me.
+L624269 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ Sybok, you must surrender.
+L624216 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Of course. Of course. Then I'll take the ship without your help.
+L624215 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ I am a Starfleet Officer.
+L624209 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ I'm sorry, Spock. I can't surrender now. I'm not through violating Neutral Zone Treaty. In fact, I'm just getting started. And now for my next violation I intend to steal something. Something very big.
+L624208 +++$+++ u8602 +++$+++ m583 +++$+++ SPOCK +++$+++ It was not my intention to amuse you. These are serious charges. However, if you surrender now-
+L624207 +++$+++ u8604 +++$+++ m583 +++$+++ SYBOK +++$+++ Spock, you've developed a sense of humor after all.

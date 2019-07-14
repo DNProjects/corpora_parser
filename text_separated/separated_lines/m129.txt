@@ -1,0 +1,560 @@
+L367017 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ Creasy...  I'd have liked to have known you under different circumstances.
+L367013 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I'm not... easy.
+L367012 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ You have no interest in making things easy, do you?
+L367011 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Liar. Just tell me who the bank card belongs to. Name and address.
+L367010 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ No, but I have to admit I thought about it.
+L367009 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ My deal is with Rosanna. I knew you guys were up to something. Are you two fucking?
+L367008 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ I want to arrest you for murder! I want to shake your hand and reload your gun! I want to kill my pride and give you my blessing.
+L367007 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Then I hope the one who gets me has got lots of kids. What do you want?
+L367006 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ You walk out and deal justice. You're what I wish I could be.  The policemen who kills you, his family will have all they want.
+L367005 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ So you are going to talk me to death.
+L367004 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ My country needs justice. Proper justice. Gunning men down in the street only feeds the violence. They need to be brought to trial. Dealt with properly. Then people will respect the law. When they see it works.
+L367003 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Are you going to arrest me or talk me to death?
+L367002 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ It galls me to watch you. You can do as much in days as I can in years. Men like the 'The Dreamer' are protected. Out of everyone's grasp it seems, but yours.
+L367001 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ It's not worth it. Be with them instead.
+L367000 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ My family lives in Miami. Because of the death threats.
+L366998 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ He was one of the original founders of 'Le Hermanidad' in the days when it represented good not evil.
+L366997 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I don't know shit about you.
+L366996 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ The same thing as you. Except, my reach isn't as long as yours. My father was a policemen, did you know that?
+L366995 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ What do you want?
+L366994 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ The last few days may represent the best police work of my life.
+L366993 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ Sit, Creasy. Everything that happens from now on does so with my permission.  Really. You won't find a better carne asada in all of Mexico.
+L366992 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ It's what you and Rosanna named me. Right?
+L366991 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ Hombre en fuego. Man On Fire. That's what the papers have named you.
+L366740 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ All these photos you just saw were of policemen. Sadly they're protected. La Hermanidad. The brotherhood.
+L366739 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Show me mugshots of Mexican policemen. Maybe then we'll get somewhere.
+L366738 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ No. It would be convenient, but no.
+L366737 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Am I a suspect?
+L366736 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ You have a rather checkered past. Mr. Creasy. Your Interpol file is six pages long.
+L366735 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ No.
+L366734 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ Believe it or not, you're safe here. The Judicial police will kill you. If they can.  This page?
+L366733 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ What am I doing here?
+L366230 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [It's a permit to carry a gun in Columbia. The gun you're about to find in that suitcase.]
+L366229 +++$+++ u1985 +++$+++ m129 +++$+++ CUSTOMS +++$+++ [Senor?]
+L366227 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [I have a friend there.]
+L366226 +++$+++ u1985 +++$+++ m129 +++$+++ CUSTOMS +++$+++ [Why?]
+L366225 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [I'm on to Juarez.]
+L366224 +++$+++ u1985 +++$+++ m129 +++$+++ CUSTOMS +++$+++ [Where are you staying in Mexico?]
+L366223 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [South America.]
+L366222 +++$+++ u1985 +++$+++ m129 +++$+++ CUSTOMS +++$+++ [Where are you coming from?]
+L366982 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Where?
+L366981 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ Deal.
+L366980 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I show, you give me the information?
+L366979 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ I traced the PIN. I have an address for you. But I need to see you.
+L366965 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ You don't, I'll call you. Oh! I have a tape recording that I am sure will interest you.
+L366964 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ How do I contact you? We still don't have the ATM info.
+L366963 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Another favor... get me banking info on Jordan Kalfus. U.S. deposits or withdrawals. Thanks. Oh, get me the same on Samuel Ramos.
+L366883 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Give me the address.
+L366882 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ He lives in a Judicial Compound. He travels by motorcade. He has better protection than George Bush. Even more importantly he is part of La Hermanidad. His reach is far and wide.
+L366881 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Where does he live?
+L366880 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ He's an old fashioned patrone with the worst reputation. He's high on my hit list.
+L366879 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ What do you know about the cop? Tazinari. The one who made the ransom drop with Samuel Ramos?
+L366878 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I'll call you tomorrow.
+L366877 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ Where do I find you?
+L366875 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ I have connections.
+L366874 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I need something. Do you have banking connections?
+L366784 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Let's see how the relationship develops. I'll call you in the AM. Thanks.
+L366783 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ So what do I get in return?
+L366782 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I need the name and address of the owner of a Toyota Corolla, license number ME31704... We didn't get the last digit so I need the ten possible matches.
+L366781 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ So where do we begin?
+L366780 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Maybe I can help your situation and you mine.
+L366752 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ It's a little late.
+L366751 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ It's Santa Muerte. Death worship. The religion of La Hermanidad. There's a curse on you.
+L366749 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ We're interested in the same thing. I'm writing a story.
+L366748 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I guess that makes you the smart one.
+L366747 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ A lot of people are looking for you.
+L367032 +++$+++ u1994 +++$+++ m129 +++$+++ REINA +++$+++ [Aurillio Rosas Sanchez.]
+L367031 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [What is his name?]
+L367030 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [So you're married to him? And this looks remarkably like his brother.]
+L367029 +++$+++ u1994 +++$+++ m129 +++$+++ REINA +++$+++ [Daniel Rosas Sanchez.]
+L367028 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Daniel what?]
+L367027 +++$+++ u1994 +++$+++ m129 +++$+++ REINA +++$+++ [Daniel.]
+L367026 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [What is his name?]
+L367025 +++$+++ u1994 +++$+++ m129 +++$+++ REINA +++$+++ [We page him and he calls back on this cell phone.]
+L367024 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [How do you contact 'the Boss'?]
+L367023 +++$+++ u1994 +++$+++ m129 +++$+++ REINA +++$+++ [Si.]
+L367022 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Reina Rosas.]
+L366856 +++$+++ u1987 +++$+++ m129 +++$+++ GUARDIAN TWO +++$+++ [Head of the anti-kidnapping division.]
+L366855 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Who's Tazinari?]
+L366854 +++$+++ u1987 +++$+++ m129 +++$+++ GUARDIAN TWO +++$+++ [The ransom money. At the drop. He said Tazinari, one of the policemen had taken it. He was crazy.]
+L366853 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [What money?]
+L366851 +++$+++ u1987 +++$+++ m129 +++$+++ GUARDIAN TWO +++$+++ [We don't know! We never see his face! We have to wait in the other room. He was screaming to the girl that...]
+L366850 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Who's the boss?]
+L366849 +++$+++ u1987 +++$+++ m129 +++$+++ GUARDIAN TWO +++$+++ [The boss did or his brother.]
+L366848 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Don't lie to me.]
+L366847 +++$+++ u1987 +++$+++ m129 +++$+++ GUARDIAN TWO +++$+++ [No!]
+L366846 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Who killed her? You?]
+L366845 +++$+++ u1987 +++$+++ m129 +++$+++ GUARDIAN TWO +++$+++ [Four-seven-four-seven.]
+L366844 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [The number you use at the bank machine.]
+L366843 +++$+++ u1987 +++$+++ m129 +++$+++ GUARDIAN TWO +++$+++ [The what?]
+L366842 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [What's the PIN number?]
+L366841 +++$+++ u1987 +++$+++ m129 +++$+++ GUARDIAN TWO +++$+++ [We have an ATM bank card. We draw out 300 dollars every two weeks.]
+L366840 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Who pays you?]
+L366839 +++$+++ u1987 +++$+++ m129 +++$+++ GUARDIAN TWO +++$+++ [Everything on the cellphone. We wait for calls. We have no number to call.]
+L366838 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [How does it work?]
+L366386 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Romans, chapter 12, verse 21.]
+L366385 +++$+++ u1997 +++$+++ m129 +++$+++ SISTER ANNA +++$+++ [The bible says, "Be not overcome of evil, but overcome evil with good."]
+L366384 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Not for a long time, sister.]
+L366383 +++$+++ u1997 +++$+++ m129 +++$+++ SISTER ANNA +++$+++ [Do you ever see the hand of God in what you do?]
+L366382 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [So am I, Sister.]
+L366381 +++$+++ u1997 +++$+++ m129 +++$+++ SISTER ANNA +++$+++ [No offense, but I'm sorry that your profession needs to exist.]
+L366380 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Yeah, I've got to get used to the routes. I -- It won't happen again.]
+L366379 +++$+++ u1997 +++$+++ m129 +++$+++ SISTER ANNA +++$+++ [She's late, Mr. Creasy.]
+L366831 +++$+++ u1989 +++$+++ m129 +++$+++ JORGE +++$+++ [One-one-three Arco Iris. Third floor.]
+L366830 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [In the next hour, where do I find your partner?]
+L366829 +++$+++ u1989 +++$+++ m129 +++$+++ JORGE +++$+++ [He has a tattoo covering two-thirds of his back. He is part of the Brotherhood.]
+L366828 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [How do I recognize him.]
+L366827 +++$+++ u1989 +++$+++ m129 +++$+++ JORGE +++$+++ [I see him sometimes at the handball court in Chapultepec on a Saturday afternoon.]
+L366826 +++$+++ u1989 +++$+++ m129 +++$+++ JORGE +++$+++ I don't know, but I know his face.
+L366825 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Who's he?
+L366824 +++$+++ u1989 +++$+++ m129 +++$+++ JORGE +++$+++ [The one who transferred Pinta to their car.]
+L366823 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Who's he?]
+L366822 +++$+++ u1989 +++$+++ m129 +++$+++ JORGE +++$+++ [He called me on the cell phone to set a time and location for the switch.]
+L366821 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Me, too. Tell me about the guardians.]
+L366820 +++$+++ u1989 +++$+++ m129 +++$+++ JORGE +++$+++ [I'm professional. I just do my job.]
+L366819 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [I believe you.]
+L366818 +++$+++ u1989 +++$+++ m129 +++$+++ JORGE +++$+++ [I don't know, I swear.]
+L366817 +++$+++ u1989 +++$+++ m129 +++$+++ JORGE +++$+++ [I don't know. No one knows.]
+L366816 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Where do I find him?]
+L366815 +++$+++ u1989 +++$+++ m129 +++$+++ JORGE +++$+++ [The cops call him 'The Dreamer'.]
+L366814 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Who ordered it?]
+L366813 +++$+++ u1989 +++$+++ m129 +++$+++ JORGE +++$+++ [I don't know! We work in parts. A voice calls in a kidnapping. We deliver the target to the guardians. We don't even know them. They might transfer to other guardians. The negotiators and the bosses don't even see the target. They just make the deal!]
+L366811 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Ordered by who?]
+L366810 +++$+++ u1989 +++$+++ m129 +++$+++ JORGE +++$+++ [I don't know. We were just given instructions to take her.]
+L366809 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [The Ramos kidnapping. How did it work?]
+L366806 +++$+++ u1989 +++$+++ m129 +++$+++ JORGE +++$+++ [I am the President of La Hermanidad.]
+L366805 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Who are you?]
+L366804 +++$+++ u1989 +++$+++ m129 +++$+++ JORGE +++$+++ [Do you know who I am?]
+L366797 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [You are Jorge Ramirez.]
+L366796 +++$+++ u1989 +++$+++ m129 +++$+++ JORGE +++$+++ [Do you know who I am?]
+L366795 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Drive.]
+L367058 +++$+++ u1986 +++$+++ m129 +++$+++ DANIEL +++$+++ [I'm a businessman. A dead girl is worth nothing. She is alive.]
+L367057 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [You're a liar. Pinta's dead.]
+L367056 +++$+++ u1986 +++$+++ m129 +++$+++ DANIEL +++$+++ [The girl's. Pinta's.]
+L367054 +++$+++ u1986 +++$+++ m129 +++$+++ DANIEL +++$+++ [Her life for your life.]
+L367053 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [What do you mean?]
+L367052 +++$+++ u1986 +++$+++ m129 +++$+++ DANIEL +++$+++ [Listen! I will give you a life for a life.]
+L367051 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Yeah.  Yes.]
+L367047 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Your brother wants to talk to you.]
+L367046 +++$+++ u1986 +++$+++ m129 +++$+++ DANIEL +++$+++ [This is not possible. But in that house I have money. If I tell you where --]
+L367045 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [I want you.]
+L367044 +++$+++ u1986 +++$+++ m129 +++$+++ DANIEL +++$+++ [The most important thing in life is family. And there you are. You have my family. What do you want?]
+L367041 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [I told you, non-negotiable.]
+L367040 +++$+++ u1986 +++$+++ m129 +++$+++ DANIEL +++$+++ [Two million U.S.... Three million U.S.?]
+L367039 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [It's non-negotiable.]
+L367038 +++$+++ u1986 +++$+++ m129 +++$+++ DANIEL +++$+++ [How much do you want?]
+L367037 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [I want you.]
+L367036 +++$+++ u1986 +++$+++ m129 +++$+++ DANIEL +++$+++ [Mr. Creasy. What do you want?]
+L367035 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Hello Daniel. I've got your family and I want to negotiate.]
+L366962 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [That's what everybody keeps saying.]
+L366961 +++$+++ u1998 +++$+++ m129 +++$+++ TAZINARI +++$+++ [That's all I know! Please. I'm sorry for the girl. But it was business! I'm a professional.]
+L366960 +++$+++ u1998 +++$+++ m129 +++$+++ TAZINARI +++$+++ [His lawyer. Jordan Kalfus.]
+L366959 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Who gave the bags to Ramos?]
+L366958 +++$+++ u1998 +++$+++ m129 +++$+++ TAZINARI +++$+++ [No. Whoever took the rest took it before the exchange.]
+L366957 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Maybe your men stole from you.]
+L366956 +++$+++ u1998 +++$+++ m129 +++$+++ TAZINARI +++$+++ [Two and a half! The rest was paper! Strips of paper!]
+L366955 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Don't lie to me!]
+L366954 +++$+++ u1998 +++$+++ m129 +++$+++ TAZINARI +++$+++ [Two and a half. That's how much there was.]
+L366953 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [The ransom was ten.]
+L366952 +++$+++ u1998 +++$+++ m129 +++$+++ TAZINARI +++$+++ [There was no ten million dollars.]
+L366951 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [O.K. So tell me more.]
+L366950 +++$+++ u1998 +++$+++ m129 +++$+++ TAZINARI +++$+++ [Yes. Many times.]
+L366948 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [You stole the drop.]
+L366947 +++$+++ u1998 +++$+++ m129 +++$+++ TAZINARI +++$+++ [And I had my men ready.]
+L366946 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [And?]
+L366945 +++$+++ u1998 +++$+++ m129 +++$+++ TAZINARI +++$+++ [That he used policemen. That you killed them, it made it a police matter. The Ramos family couldn't refuse our involvement.]
+L366944 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [Lucky how?]
+L366943 +++$+++ u1998 +++$+++ m129 +++$+++ TAZINARI +++$+++ [I don't know him. I saw the opportunity and got lucky.]
+L366942 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [It's all up to you, commandante. Tell me about you and 'The Dreamer'.]
+L366941 +++$+++ u1998 +++$+++ m129 +++$+++ TAZINARI +++$+++ [Please, don't...]
+L366938 +++$+++ u1998 +++$+++ m129 +++$+++ TAZINARI +++$+++ [Correct!]
+L366937 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ [And one of the founding members of La Hermanidad.]
+L366936 +++$+++ u1998 +++$+++ m129 +++$+++ TAZINARI +++$+++ [Do you know who I am? I am the commandante of the Judicial anti- kidnapping division.]
+L366300 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ No. And no one is to know of your drinking problem. That includes my wife.
+L366299 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I'll probably kill them. Is that likely?
+L366298 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ And what if amateurs try it?
+L366297 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ My coordination. Reaction time. If top professionals try to kidnap your daughter, the service will be on par with the pay.
+L366296 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ How does it affect you?
+L366295 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I drink.
+L366294 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ Your resume is impressive. Nine years in the Army. Extensive counter terrorism work. I shouldn't be able to afford you in my current state. What's the catch?
+L366292 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ It's loaded.
+L366291 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ Is it loaded?
+L366290 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ Have you used this type before?
+L366289 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Nine millimeter. A Sig Sauer 226.
+L366288 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ What is it?
+L366287 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ Show me, please.
+L366286 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Yes.
+L366285 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ Were you provided with a gun?
+L366779 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Different door. Not far from here.
+L366778 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Cut the stock here. The barrel here. Make sure you file it smooth.  Rocket launchers?
+L366776 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ I know it's old fashioned, but it's reliable. Like us.
+L366775 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I'll take the .45 and the Webley .32.
+L366772 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ I won't kill again. Hunt people. I gave that up. Anything else? It's yours.
+L366771 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Yes or no?
+L366770 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Fuck. Look at you; you won't last a day the shape you're in. Unless you stop bleeding you should have your spleen removed.
+L366744 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ I'll get you up to the border. Friend of mine'll take you in to San Diego. Drop you right at the hospital.
+L366743 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Stomach's gone. But... okay.
+L366697 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Two days gone. They're negotiating a ransom.
+L366696 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Pinta...
+L366695 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ You got three of the fuckers. All dead.
+L366598 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ I said the plan was right here.
+L366597 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Then one day, he calls and says, 'I'm in love and I'm moving to Mexico.' I said what happened to the plan?
+L366447 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Sorry I woke you, Ray.
+L366446 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Creasy?
+L366444 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Maybe...
+L366443 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ I've heard of it. Never happened to me though. Maybe the firing pin's off.
+L366442 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I mean nothing. The hammer came down and nothing happened. Dimple on the primer.
+L366441 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ You mean a misfire?
+L366395 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ You got tossed. Don't trust the cops, especially the Judicials.  Oh you know that?
+L366394 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ There's still ink on my fingers from last week.
+L366282 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Take a job, Creasy. Breathe some air. Then decide if you want to... stick around or not.
+L366281 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Oh, now you think I can be trusted.
+L366280 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Samuel Ramos. Owns one of the plants in Juarez. The Jap car industry is in the toilet. He's trying to persuade Ford to partner with him. I think he's in trouble. He asked me if I knew anyone he could trust.
+L366279 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ A bodyguard... Who's the guy?
+L366278 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Bullshit. I've known you fifteen years. You don't visit.
+L366277 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I came to visit you.
+L366276 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ What are you doing here?
+L366275 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ So you'll be the silent type. People will appreciate that.
+L366274 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ A bodyguard has to be close to someone all the time. Willing to talk. I'm not good at that.
+L366273 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ It's not exactly a scam, Crease. Even at half speed you're pretty damn good.
+L366272 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ You do your best. They won't be paying you enough to perform miracles.
+L366271 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ And what if, just say, there was a kidnap attempt?
+L366270 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Well, you'd have to keep it under control.
+L366269 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ You're crazy. People would hire a has-been, Ray? A drunk?
+L366268 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Your Spanish is good enough. You certainly look the part.
+L366258 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Everything happens once if you live long enough.
+L366257 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ You did something on impulse?
+L366256 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Got no plans, Rayburn, Nothing on. Just wanted to see you, how you were. Came by on impulse.
+L366255 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ How long you staying, Crease?
+L366254 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Not for eight months. I was in Columbia looking around, but, nothing seemed interesting.
+L366253 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ You been working?
+L366252 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ And a level five shithole is better than a level six. Your logic's inescapable.
+L366251 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Oh, like you haven't been in worse places.
+L366250 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Yeah, right...
+L366249 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Fuck, I love Mexico. I live like a king down here.
+L366248 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ But don't you stay in El Paso?
+L366247 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Japanese are here in a big way. Cheap labor. Factory space. But they feel a lot safer living over the border in El Paso. I ferry 'em back and forth. They think I'm John-fucking- Wayne.
+L366246 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ So how's business?
+L366245 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Don't give me that bullshit.
+L366244 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Nothing wrong.
+L366243 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ So what's wrong?
+L366242 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ This is Mexico, they do everything backwards.
+L366241 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ It doesn't make sense to x-ray your bags coming off the plane.
+L366240 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Everything happens once if you live long enough.
+L366239 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Listen it was a calculated risk. I've done it a million times and never got caught.
+L366238 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ You got a secondary search and you had a gun.
+L366236 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I'm in a Customs holding tank in Mexico City International. Bring a bunch of cash... about 5K. I'm going to need it.
+L366235 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ What do you mean, I'm here?
+L366234 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I'm here.
+L366233 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Creasy??? Where the fuck are you?
+L366232 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ When did Mexican Customs start getting smart?
+L366651 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ You'll be back in the water in twenty- four hours.
+L366650 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ You got that right.
+L366649 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Like St. Jude. A hopeless case that has a complete block about 'C' Minor. But remember, "Whoever resists authority will bring judgement upon themselves." New Testament, Romans 13.
+L366648 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Dyslexic?
+L366647 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Continue to play in the wrong key, like you're dyslexic.
+L366645 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ I could do it. Remember the day you wanted the pencil? I know why. And I saw that car again. I wrote the license number in my notebook. Except I missed the last number.
+L366644 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Be a swimmer.
+L366643 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ I'm going to keep people safe someday. Just like you.
+L366642 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Then be trained.
+L366641 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ There's no such thing as tough, Creasy. Just trained and untrained.
+L366640 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Don't be a baby. You're tougher than that.
+L366639 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ You should break all my fingers, Creasy, then tape them back together. I won't be able to play the piano, but I could still swim.
+L366638 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ That's strange. Frank was a no-show. Not like him to miss a ride.
+L366637 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Frank. Frankie.
+L366636 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Pinta, we've got to go. Travel sucks at this time.
+L366617 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Yeah. Because at one time, I didn't think enough.
+L366616 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ You think too much?
+L366615 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Now that's a question. I don't know about your Mom. For me, the problem isn't in the glass. The problem's in between my ears.
+L366614 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ My mom drinks, too... Why do people drink, Creasy?
+L366613 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Still not a question.
+L366612 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ I know because I go in your room and check the bottles.
+L366611 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ That's not a question.
+L366610 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ You don't drink like you used to.
+L366609 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Could I stop you?
+L366608 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Could I ask you a question?
+L366590 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ I'm a prisoner in them. Until the gunshot sets me free.
+L366589 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ The blocks.
+L366584 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Why today? And why'd she have to go with him?
+L366583 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Your father has business.
+L366582 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ What's so important in Los Angeles?
+L366578 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ There's no such thing as tough. You're either trained or untrained.
+L366577 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ I'm tough, Creasy. I'm tough as you.
+L366576 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ You welcome the sound. The sound is what lets you go. The sound is what frees you. You are a prisoner in those blocks until you hear the sound.
+L366575 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ The gunshot holds no fear.
+L366574 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ The gunshot holds no fear. Say it.
+L366571 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Are you afraid of me?
+L366570 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I know you're not.
+L366569 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ I'm not afraid you, Creasy.
+L366566 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ It's no wonder you're late. Why didn't she just come with you?
+L366565 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I dropped her at home.
+L366564 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Where's my mother?
+L366563 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ You were never late before, I was worried.
+L366562 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I'm sorry.
+L366561 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ You're late.
+L366554 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Yeah. Two or three.
+L366553 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Did you used to?
+L366552 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ No.
+L366551 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Do you have a girlfriend, Creasy?
+L366550 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I guess that really does make me a hard case.
+L366549 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Good things happen, too, Creasy.  Like meeting me.
+L366548 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Where you're from isn't so much about geography; it's about events. Where you're from is what happened to you.
+L366547 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Yes.
+L366546 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Remember you asked me what state I was from?
+L366543 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Don't worry. You will.
+L366542 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ I don't understand.
+L366541 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ You don't flinch when a gun goes off; you react. You go. Don't listen for the sound; don't anticipate it. Concentrate on the sound itself.
+L366538 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ No, that was in Columbia.
+L366537 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ What did you do in Asia? Is that where you met the man with cigarettes?
+L366536 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I had to do my homework on them when I worked there. Also I enjoy history.
+L366535 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ So how come you know so much about those countries?
+L366532 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ [Yeah. Can you imagine my mother multiplied by a thousand?]
+L366531 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ You feel sorry for the husband?
+L366530 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ It must be difficult having lots of wives.
+L366529 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ In the West, it's one wife for one husband, but different cultures have different rules.
+L366528 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ But the Emperor of China had 1000 of them! How can that be?
+L366527 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Well, it's a sort of wife.
+L366526 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ It was in a book at school. Concubine.
+L366525 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Why do you ask?
+L366522 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ You need to practice.
+L366521 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Doesn't matter. I always finish second.
+L366520 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ In a week you should be fine.
+L366519 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ It's not too bad. Will it take a long time before it's better? Our big swim meet is in three weeks. Interschools. I was going to swim in the one hundred meter freestyle.
+L366518 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ How's the ankle? Can you put your weight on it?
+L366517 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Yes.
+L366516 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Did you sleep alright?
+L366509 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I don't talk to them much. Does he have a name?
+L366508 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ I'm too old for him. Don't tell my friends.
+L366507 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Do you always sleep with him?
+L366506 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ White lie. I didn't have a family. But I did have two kids. They're adults now.
+L366505 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ The night you arrived, Mom asked you if you had a family and you lied, didn't you?
+L366498 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ My ankle.
+L366497 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I don't think they're broken. Anywhere else?
+L366496 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Everywhere!
+L366495 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Where?
+L366494 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ It hurts.
+L366488 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ They can stay for two weeks. I don't care.
+L366487 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ They'll be back in a week.
+L366481 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Yes. Actually, he was driving me crazy.
+L366480 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ It's better to be free, right?
+L366479 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Well, I let him go.
+L366478 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ How do you think he got out?
+L366477 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ No.
+L366476 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Maybe. Did you hear him?
+L366475 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Do you think he'll come back?
+L366474 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Calling for Emilio's macaw. I thought I heard him.
+L366473 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ What are you doing?
+L366471 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Once I get in the water but not starting off. By the time I catch up, it's too late.
+L366470 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ You're fast.
+L366449 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ I go to school, don't I?
+L366448 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Pinta, do you have a pencil?
+L366414 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ I'm not crying.
+L366413 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ And don't start crying.
+L366408 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Oh...
+L366407 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Being unhappy is a state of mind. I never thought about it.
+L366406 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ So you were unhappy?
+L366405 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ It wasn't a school like yours and there was no Sister Anna.
+L366404 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Hmmm?
+L366403 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ But why not?
+L366402 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ No.
+L366401 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Not at all?
+L366400 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ No.
+L366399 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Did you like school, Creasy?
+L366397 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ That's right.
+L366396 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ We're taking a different way home.
+L366372 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Pretty impressive. Maybe I need to up my fee or get a larger gun.
+L366371 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ There were 24 kidnappings in Mexico City in the last six days. Four a day. What do you think about that, Mr. Creasy?
+L366370 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Time will tell.
+L366369 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Being black, is that a positive or negative for a bodyguard in Mexico?
+L366368 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I'm a bargain.
+L366367 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Someone gave him more money than we could.
+L366366 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Let me guess, you wouldn't stop talking?
+L366365 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Are you going to quit? My last bodyguard quit.
+L366364 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Places where the road bends, places away from buildings, places where the traffic thins out. But you don't have to understand. I do. So no talking.
+L366363 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Potential? I don't understand.
+L366362 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I'm looking for potential.
+L366361 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Why not?
+L366360 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ No.
+L366359 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ You can drive and talk at the same time, can't you?
+L366358 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ No.
+L366355 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ I know. But which state?
+L366354 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ The United States.
+L366353 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Where are you from, Creasy?
+L366338 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Creasy...
+L366337 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Creasy. Just call me Creasy.
+L366336 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ In between you can take Mom shopping and to lunch. Does that sound alright, Mr. Creasy?
+L366334 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ My last bodyguard. He drove me to school in the morning and picked me up in the afternoon.
+L366333 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Who's Emilio?
+L366332 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ That's 'Bird.' Emilio forgot to take him with when he left.
+L366329 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Frank only responds to commands in German. He was trained in Frankfurt. My Dad loves the idea of having a dog around, but hates the fact he lives inside.
+L366328 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Ein Klines Bisschen. [A tiny bit.]
+L366327 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Frank doesn't take to most people. Do you speak German?
+L366326 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ If they like me.
+L366325 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Do you like dogs, Mr. Creasy?
+L367069 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Stay here. If you do something stupid, we won't get her back.
+L367068 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Creasy... Wait.
+L367067 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Then don't come.
+L367066 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ You're lying. I don't believe you.
+L367065 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I want you to get into your car now and meet me on the south end of the footbridge between Reforma and the freeway junction. In 45 minutes.
+L367064 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ I don't believe you.
+L366971 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ An autosequestra. Kalfus arranged for Pinta to be taken to a safehouse. I'm sure he thought she'd sit there for three days eating pizza and watching TV. It didn't work out that way. Everything got fucked up when I killed the cops and Tazinari saw an opportunity.
+L366970 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Planned what?
+L366969 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ They planned it, Samuel and Kalfus.
+L366758 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Because...  I was already dead.
+L366757 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Why are you here? Why didn't you die?
+L366466 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ If something happened, my reaction would be to fight to protect her. I have skills in that respect. Pinta would benefit by the fact that... I'm a soldier.
+L366465 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Jordan!
+L366452 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ The traffic takes some getting used to.
+L366451 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Sorry.
+L366435 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Please, it's Lisa... I'll be coming with you tomorrow. I have lunch with friends.
+L366434 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ It is serious, Mrs. Ramos.
+L366433 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ It makes it all seem so serious.
+L366431 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ No, you're right. You were hired to protect her, that's enough. I'm confident you'll do that.
+L366430 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Look. Maybe this isn't going to work. Maybe you should ask your husband to hire someone... more sociable.
+L366429 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ You're paying me to protect her, not amuse her. Right?
+L366428 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ You should know they're tenacious when they want something. And Pinta wants to be friends.
+L366427 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ No.
+L366426 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Yes, she told me. Do you have children, Mr. Creasy?
+L366425 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ We'll be okay once she realizes I'm not a new toy.
+L366424 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ How are you getting along with Pinta?
+L366423 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ It insults Maria. Slip it to the dog if you have to... Do you mind if I talk to you for a moment?
+L366422 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ The food's fine. Sometimes I don't eat.
+L366421 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Is the food alright? Maria tells me that you didn't eat.
+L366420 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ I'm fine.
+L366419 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Mr. Creasy, I wanted to make sure you have everything you need.
+L366310 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ Never.
+L366309 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ You've done much of this work before?
+L366304 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ So are you.
+L366303 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ You're American.
+L366302 +++$+++ u1983 +++$+++ m129 +++$+++ CREASY +++$+++ It's war. The weakest suffer the most.
+L366301 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ The world of our children. How dare they?
+L366871 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ Camila. Camila Valencias.
+L366870 +++$+++ u1984 +++$+++ m129 +++$+++ CREASY'S VOICE +++$+++ What was her name?
+L366869 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ Last night. Do you know something?
+L366868 +++$+++ u1984 +++$+++ m129 +++$+++ CREASY'S VOICE +++$+++ Los Arcos. Was a little girl kidnapped recently? About twelve maybe?
+L366867 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ Where are you?
+L366866 +++$+++ u1984 +++$+++ m129 +++$+++ CREASY'S VOICE +++$+++ It's Creasy.
+L366865 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ Rosanna Guerrero.
+L366221 +++$+++ u1988 +++$+++ m129 +++$+++ JORDAN +++$+++ She understands men.
+L366220 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ For an American she understands this country very well.
+L366219 +++$+++ u1988 +++$+++ m129 +++$+++ JORDAN +++$+++ Her beauty fucks with your mind.
+L366218 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ And Lisa will be able to save face. We won't be the only family without a bodyguard.
+L366217 +++$+++ u1988 +++$+++ m129 +++$+++ JORDAN +++$+++ For a few months. Hire someone cheap. You have to have a bodyguard to keep the insurance. Then fire him for incompetence. The important thing is Lisa's daughter will return to school.
+L366216 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ For a year?
+L366215 +++$+++ u1988 +++$+++ m129 +++$+++ JORDAN +++$+++ You need a bodyguard of some description. It's a dangerous world we live in. But you will get what you pay for. He doesn't need to be Superman, does he? Can you go fifteen grand?
+L366214 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ I know! I just had to let one go because I couldn't afford him!
+L366213 +++$+++ u1988 +++$+++ m129 +++$+++ JORDAN +++$+++ I know you need to please Lisa. An ass like that is hard to find. Good bodyguards are even harder.
+L366212 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ I have a policy, AIG. It covers me and my family and when it runs out in sixty days, without a bodyguard, I will not be able to renew it.
+L366211 +++$+++ u1988 +++$+++ m129 +++$+++ JORDAN +++$+++ All my clients have kidnap and ransom insurance.
+L366210 +++$+++ u1988 +++$+++ m129 +++$+++ JORDAN +++$+++ Yeah? And if she was ugly?
+L366209 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ Of course I care about Pinta. She'll be as beautiful as her mother one day.
+L366201 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ Do you know what she told me last night?
+L366200 +++$+++ u1988 +++$+++ m129 +++$+++ JORDAN +++$+++ If she pisses you off, you get another one.
+L366199 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ And now every mother with money in Mexico City wants bigger and better bodyguards. My own wife included.
+L366198 +++$+++ u1988 +++$+++ m129 +++$+++ JORDAN +++$+++ The family paid the ransom and he was returned two days later.  His father still hasn't gotten up the nerve to ask him if they fucked him up the ass.
+L366707 +++$+++ u1999 +++$+++ m129 +++$+++ VOICE +++$+++ [OK. You will arrive at Columbus Circle and Reforma Avenue at 3AM. You will drive around the square two times. Samuel will remove his shirt and hold it out the window to I.D. the car.]
+L366706 +++$+++ u1988 +++$+++ m129 +++$+++ JORDAN +++$+++ [He has a heart condition. Angina. He responds badly to stress.]
+L366705 +++$+++ u1999 +++$+++ m129 +++$+++ VOICE +++$+++ [No. Why?]
+L366704 +++$+++ u1988 +++$+++ m129 +++$+++ JORDAN +++$+++ [I need a driver to drive Samuel, the father.]
+L366703 +++$+++ u1999 +++$+++ m129 +++$+++ VOICE +++$+++ [The car will not be powerful and have no trunk.]
+L366702 +++$+++ u1988 +++$+++ m129 +++$+++ JORDAN +++$+++ [The money, 10 million U.S. will be divided into two 15 gallon black canvas bags each containing five million which will be checked at the bank by the K&R agent. Then driven to the house in an armored car where it will be transferred to the delivery car.]
+L366701 +++$+++ u1999 +++$+++ m129 +++$+++ VOICE +++$+++ [OK, repeat the drop instructions.]
+L366700 +++$+++ u1988 +++$+++ m129 +++$+++ JORDAN +++$+++ [Yes.]
+L366699 +++$+++ u1999 +++$+++ m129 +++$+++ VOICE +++$+++ [You have the money.]
+L366485 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ You're going to miss Mexican Halloween. The Day of the Dead.
+L366484 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ I'll call you from Detroit, baby.
+L366454 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Don't forget your towel.
+L366453 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Bye, Mom.
+L366346 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Well, think about going to sleep. Good night, baby.
+L366345 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ I think he's been sick. He's alright now, but I think he's been very, very sick.
+L366343 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ He's like a great big bear.  'Creasy bear'...
+L366342 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ You do?
+L366341 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ I like him, Mom.
+L366318 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ This is Mr. Creasy.
+L366317 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Yes, mom?
+L366266 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ We'll see. And thank your father in the morning. A man always needs to be thanked.
+L366265 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ Could he speak English? Emilio couldn't speak English.
+L366264 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Samuel is going to hire a new bodyguard. It may take a few days, but you're going back.
+L366263 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ When?
+L366262 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Good news. You're going back to school.
+L366261 +++$+++ u1992 +++$+++ m129 +++$+++ PINTA +++$+++ I'm trying, mom.
+L366260 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ You should be sleeping, baby.
+L366631 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ I wasn't thinking of Pinta.
+L366630 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ She's young. She'll get over it.
+L366629 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ It will be a hard break.
+L366626 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ He has to go.
+L366625 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ I've just been so busy, Lisa.
+L366624 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ It's not.
+L366623 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ That's ridiculous.
+L366622 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Pinta likes him too much.  She thinks of him as a father.
+L366621 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ Why? You were so pleased with him.
+L366620 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Creasy.
+L366619 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ What? Who?
+L366618 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ He has to go, Samuel.
+L366352 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ Pinta loves school. She'd like Count Dracula is he took her back there.
+L366351 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Creasy. Pinta likes him.
+L366350 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ Hmm?
+L366349 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ She likes him.
+L366323 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ You realize that you've brought a killer into the house.
+L366322 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ I think it's fantastic.
+L366321 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ I think it's nice he's American.
+L366312 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Do you have any family, Mr. Creasy?
+L366311 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ He has experience in related work. A great deal of it.
+L366306 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Lisa Martin Ramos, Mr. Creasy.
+L366305 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ My wife, Mr. Creasy.
+L366208 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Samuel, it is not something we should skimp on. A bodyguard's presence in the car or outside the school was at least some form of deterrent. Now he's gone, I feel totally exposed.
+L366207 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ These people are professionals. They don't waste their time taking children whose fathers are virtually bankrupt.
+L366206 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ Our child's safety is at stake.
+L366205 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ Our daughter.
+L366204 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ I'm only asking for one thing. And it's not an extravagance. It's not even for me; it's for our daughter.
+L366203 +++$+++ u1996 +++$+++ m129 +++$+++ SAMUEL +++$+++ And bankruptcy. Where will that put me in the social strata?
+L366202 +++$+++ u1990 +++$+++ m129 +++$+++ LISA +++$+++ A man's worth can be judged by what he has or what he owes. Only the amount matters.
+L366986 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ [He's the man, 'the Boss?' My guys got into the house on the pretext of giving cholera shots. We had to inject the whole Barrio. We bugged the house and stole the picture of him.]
+L366985 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ [Who's that?]
+L366926 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ [I should start going for your tits first.]
+L366925 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ [And as long as we're talking information, there's something else as well.]
+L366923 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ [A beautiful circle.]
+L366922 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ [You only give information so you can fuck me.]
+L366921 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ [You only fuck me to get information.]
+L366920 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ [I think he's... magnificent.]
+L366919 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ [No. Not by the rules of polite society at least.]
+L366918 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ [When you talked to him, did he look sane?]
+L366917 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ [And left three more dead men.]
+L366916 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ [Is it true? Creasy saved the little girl that was kidnapped yesterday.]
+L366794 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ [It's a moral issue. On one hand you're cleaning up the bad guys, but in another way we are feeding the problem that produces bad guys.]
+L366793 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ [Then what do you have to lose?]
+L366792 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ [Creasy is not a policeman. My sense is he could be very valuable to us.]
+L366791 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ [I know this. Your point?]
+L366788 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ [We did voice analysis of the last five high profile kidnappings, including the little girl. The same man 'The Dreamer'. Listen to this.]
+L366787 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ [Because he's outside. Because he's not tied to the same system we are.]
+L366786 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ [He sounded strong to me. Stronger than we are.]
+L366785 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ [He'll die of his wounds; bleed to death before he can do anything.]
+L366675 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ [That's good. Really good. He shot and killed two judicial cops and a kidnapper died in the attack. They're saying he's responsible.]
+L366674 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ [Is that good or bad?]
+L366673 +++$+++ u1995 +++$+++ m129 +++$+++ ROSANNA +++$+++ [A bodyguard was shot trying to protect a 9 year old. The bodyguard's American. Not only that he's black.]
+L366914 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ A man can be an artist in anything. Stone, paint, words. Food. Anything if his soul is true to it. Creasy's art is death. And he's about to paint his masterpiece.
+L366913 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ And they took that away.
+L366912 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Light. At the end of a long, dark tunnel. Somehow, she showed him it was alright to live again.
+L366911 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ What was she to Creasy then?
+L366910 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Pinta Martin Ramos is just a number to you. Tragic, a public outcry, but a number. One more dead.
+L366909 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ I plan to. I'll even help him if I can. He's going to lead me to the 'The Dreamer'. Someone I want very badly. But I'd like to understand him. Give me that.
+L366908 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ He'll deliver more justice in a weekend, than ten years of your courts and tribunals. So stay out of his way.
+L366907 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ This is my jurisdiction. I want these men as much as Creasy does.
+L366906 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ None of your business. Or mine for that matter. I got nothing more to say.
+L366905 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ What happened to him? What happened to Creasy?
+L366904 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ The kind that gets divorced, but still stay friends.
+L366903 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ You and Creasy both. A two man army according to Interpol. Panama. Lebanon with the Druze. Desert Storm. Where you were contracted by the U.S. Army to hunt down elite Iraqi military commanders.  You two were a married couple.
+L366902 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ I can take care of myself.
+L366901 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ Yes. But if I traced Creasy to you, others will do it as well. Their facilities are as good as my own, if not better.
+L366900 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ That's what friends do.
+L366899 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ You helped him get this job.
+L366898 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ Two tourists who never went home.
+L366897 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ I read the file. You and Creasy have been seen quite a bit together.
+L366896 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ You just said it. He's my friend. Nothing else to say.
+L366895 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ Tell me about your friend Creasy.
+L366894 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ I already ate.
+L366893 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ Pollo Pibil. Chicken and chorizo sausage. Hmmmh. They marinate it in lemon and orange juice. It's a stew really.
+L366693 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ So am I.
+L366692 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ He was doing his job, protecting the girl. If police were involved, you figure it out. I'm here for him.
+L366691 +++$+++ u1991 +++$+++ m129 +++$+++ MANZANO +++$+++ I'm sure he isn't. Though he's certainly adept at killing.
+L366690 +++$+++ u1993 +++$+++ m129 +++$+++ RAYBURN +++$+++ He's not a cop killer.

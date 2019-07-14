@@ -1,0 +1,862 @@
+L129751 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ An honest living.
+L129750 +++$+++ u4468 +++$+++ m296 +++$+++ BARNEY +++$+++ 'Course you do, Jake.
+L129749 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I don't know how that got in the paper as a matter of fact – it surprised me it was so quick. I make an honest living.
+L129746 +++$+++ u4468 +++$+++ m296 +++$+++ BARNEY +++$+++ Jake, for Christ's sake.
+L129745 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Look, pal. I make an honest living. People don't come to me unless they're miserable and I help 'em out of a bad situation. I don't kick them out of their homes like you jerks who work in the bank.
+L129744 +++$+++ u4468 +++$+++ m296 +++$+++ BARNEY +++$+++ Take it easy, Jake.
+L129743 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Barney, who is this bimbo? He a regular customer?
+L129733 +++$+++ u4468 +++$+++ m296 +++$+++ BARNEY +++$+++ Heat's murder.
+L129732 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Look at that.
+L130274 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ The print's pretty fine. I forgot my glasses. I'd like to be able to read across.
+L130273 +++$+++ u4469 +++$+++ m296 +++$+++ CLERK +++$+++ A ruler?
+L130272 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Well, then, how about a ruler?
+L130271 +++$+++ u4469 +++$+++ m296 +++$+++ CLERK +++$+++ Sir, this is not a lending library, it's the Hall of Records.
+L130270 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Can I check one of these volumes out?
+L130269 +++$+++ u4469 +++$+++ m296 +++$+++ CLERK +++$+++ If that's what it says.
+L130268 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ But that means that most of the valley's been sold in the last few months.
+L130267 +++$+++ u4469 +++$+++ m296 +++$+++ CLERK +++$+++ That's right.
+L130266 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Then these are all new owners?
+L130265 +++$+++ u4469 +++$+++ m296 +++$+++ CLERK +++$+++ Land sales out of escrow are always recorded within the week.
+L130264 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ How come all these new names are pasted into the plat book?
+L130261 +++$+++ u4469 +++$+++ m296 +++$+++ CLERK +++$+++ Row twenty-three, section C.
+L130260 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I'll settle for L.A. County.
+L130730 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Who do you blame for that? Her?
+L130729 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ The future, Mr. Gittes. The future. Now where's the girl?... I want the only daughter I have left... as you found out, Evelyn was lost to me a long time ago.
+L130728 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Then why are you doing it? How much better can you eat? What can you buy that you can't already afford?
+L130727 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Oh, my, yes.
+L130726 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I want to know what you're worth. Over ten million?
+L130725 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ I have no idea. How much do you want?
+L130724 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ How much are you worth?
+L130723 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Just incorporate the Valley into the city so the water goes to L.A. after all. It's very simple.
+L130722 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ How do you do that?
+L130721 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ That's all taken care of. You see, Mr. Gittes. Either you bring the water to L.A. or you bring L.A. to the water.
+L130720 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ There's going to be some irate citizens when they find out they're paying for water they're not getting.
+L130719 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ No, Mr. Gittes. That's what I am doing with the Valley. The bond issue passes Tuesday. There'll be ten million to build an aqueduct and reservoir. I'm doing it.
+L130718 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ And that's what you were going to do in the Valley?
+L130717 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ That's where life begins... marshes, sloughs, tide-pools... he was fascinated by them...  you know when we first came out here he figured that if you dumped water onto desert sand it would percolate down into the bedrock and stay there, instead of evaporating the way it does in most reservoirs. You'd lose only twenty percent instead of seventy or eighty. He made this city.
+L130716 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Haven't the faintest idea.
+L130715 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Hollie was always fond of tide-pools. You know what he used to say about them?
+L130714 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ ...the coroner's report showed Mulwray had salt water in his lungs.
+L130712 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ That you killed Hollis Mulwray.
+L130711 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ What does this mean?
+L130710 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Yes... I think I can manage...
+L130709 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ An obituary column... can you read in this light?
+L130708 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ What is it?
+L130707 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I'd like you to look at something, Mr. Cross.
+L130705 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ With her mother.
+L130704 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Where is she?
+L130703 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ She's fine.
+L130702 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Is she all right?
+L130701 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I've got her.
+L130700 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Well, you don't look any the worse for wear, Mr. Gittes, I must say... where's the girl?...
+L130257 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ We'll be in touch, Mr. Cross.
+L130256 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Avocado groves?
+L130255 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I'll look into it as soon as I check out some avocado groves.
+L130254 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Just find the girl.
+L130253 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Okay. My secretary'll send you a letter of agreement. Tell me are you worried about that girl, or what Evelyn might do to her?
+L130252 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ I've still got a few teeth in my head, Mr. Gittes, and a few friends in town.
+L130251 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ How did you find out?
+L130250 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Well... she's an extremely jealous person. I didn't want her to find out about the girl.
+L130249 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ If you want to hire me, I still have to know what you and Mulwray were arguing about.
+L130248 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Hollis Mulwray made this city and he made me a fortune... We were a lot closer than Evelyn realized.
+L130247 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I didn't realize you and Hollis were so fond of each other.
+L130246 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Just find the girl, Mr. Gittes. I think she is frightened and I happen to know Hollis was fond of her. I'd like to help her if I can.
+L130245 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What about her?
+L130244 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ My daughter.
+L130243 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I've got the photographs in my office. If they'll help you remember. What was the argument about?
+L130242 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Well, It was about five days ago. You were outside the Pig 'n Whistle and you had one hell of an argument.
+L130241 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ At my age, you tend to lose track...
+L130240 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah. Do you remember the last time you talked to Mulwray?
+L130239 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Sheriff's gold posse... bunch of damn fools who pay $5,000 apiece to the sheriff's reelection. I let 'em practice up out here.
+L130238 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ When was the last time?
+L130237 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ No.
+L130236 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You didn't see Mulwray much, did you?
+L130235 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ If Mulwray was murdered, she was probably one of the last people to see him.
+L130234 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Maybe.
+L130233 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Wouldn't it be useful to talk to her?
+L130232 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ No. She's probably scared to death.
+L130231 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Doesn't that strike you as odd?
+L130230 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah.
+L130229 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Yes. She's disappeared, hasn't she?
+L130228 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You mean the little chippie he was with at the El Macando?
+L130227 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Yes, his girlfriend.
+L130226 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ His girlfriend?
+L130225 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ 'Course I'm respectable. I'm old. Politicians, ugly buildings and whores all get respectable if they last long enough. I'll double whatever your fees are and I'll pay you ten thousand dollars if you can find Hollis' girlfriend.
+L130224 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Mainly that you're rich and too respectable to want your name in the papers.
+L130223 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ ...Exactly what do you know about me, Mr. Gittes?
+L130222 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Was he right?
+L130221 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ It's what the D.A. used to tell me about Chinatown.
+L130220 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Why is that funny?
+L130219 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ You may think you know what you're dealing with, but believe me, you don't.
+L130218 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What for?
+L130217 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Mr. Gittes!  You're dealing with a disturbed woman who's lost her husband. I don't want her taken advantage of. Sit down.
+L130216 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ If you want an answer to that question I can always put one of my men on the job. Good afternoon, Mr. Cross.
+L130215 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Are you sleeping with her? Come, come, Mr. Gittes. You don't have to think about that to remember, do you?
+L130214 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ My usual fee, plus a bonus if I come up with any results.
+L130213 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ It disturbs me, Mr. Gittes. It makes me think you're taking my daughter for a ride. Financially speaking, of course. How much are you charging her?
+L130212 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Too bad?
+L130211 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ That's too bad.
+L130210 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ None.
+L130209 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Of course, but you've got no reason to think he's bungled the case?
+L130208 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Far as it goes. Of course he has to swim in the same water we all do.
+L130207 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Honest?
+L130206 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Very.
+L130205 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Would you call him a capable man?
+L130204 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ We worked in Chinatown together.
+L130203 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Where from?
+L130202 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Oh yes.
+L130201 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Do you know him?
+L130200 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Lou Escobar – he's a Lieutenant.
+L130199 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Who's the investigating officer?
+L130198 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ They're calling it an accident.
+L130197 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ Tell me. What do the police say?
+L130196 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Fine, as long as you don't serve chicken that way.
+L130194 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I think I gave it to her.
+L130193 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ How did she get that idea?
+L130192 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ No. She happens to think the last one was murdered.
+L130191 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ But I'm surprised you're still working for her, unless she's suddenly come up with another husband.
+L130190 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Probably.
+L130189 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ It's why you attract a client like my daughter.
+L130188 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ It doesn't hurt.
+L130187 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ If you were a bank president that would be one thing, but in your business it's admirable. And it's good advertising.
+L130186 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Thanks.
+L130185 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ You know, you've got a nasty reputation, Mr. Gittes. I like that.
+L130183 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ What?  Oh, damn near yes. Unless the animal's sick or something.  And the steam rising off it like that in the morning. That's life, Mr. Gittes. Life.
+L130182 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Always?
+L130179 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yes, sir, that's what it looks like. I'll give you that.
+L130178 +++$+++ u4470 +++$+++ m296 +++$+++ CROSS +++$+++ I said horseshit.  Horseshit.
+L130177 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Sir?
+L130570 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Just bring your checkbook.
+L130569 +++$+++ u4471 +++$+++ m296 +++$+++ CROSS' VOICE +++$+++ What are you talking about?
+L130568 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Either that or she'll be in jail.
+L130567 +++$+++ u4471 +++$+++ m296 +++$+++ CROSS' VOICE +++$+++ Two hours... tell me, will Evelyn be there as well?
+L130566 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ At your daughter's house. How soon can you get here?
+L130565 +++$+++ u4471 +++$+++ m296 +++$+++ CROSS' VOICE +++$+++ Of course I do. Where are you?
+L130564 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Do you remember the figures we discussed?
+L130563 +++$+++ u4471 +++$+++ m296 +++$+++ CROSS' VOICE +++$+++ You've got her? Where?
+L130562 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Have you got your checkbook handy, Mr. Cross? I've got the girl.
+L130561 +++$+++ u4471 +++$+++ m296 +++$+++ CROSS' VOICE +++$+++ Hello.
+L130698 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Curly, you know how long I been in business.
+L130697 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ You sure this is okay?
+L130696 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Tell Mrs. Mulwray to wait for half an hour after you get there. Then if I don't show, take her down to the boat.
+L130695 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ Okay, you got yourself a boat.
+L130694 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I'll throw that in too.
+L130693 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ Plus what I owe you?
+L130692 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I might be able to squeeze an extra seventy-five bucks out of it for you. Maybe an even hundred.
+L130691 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ I don't know...
+L130690 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Forget it. How would you like to pay me off by taking a couple of passengers to Ensenada... you'd have to leave tonight.
+L130689 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ Oh, gee, Mr. Gittes we're going out tomorrow. I know you been real good about it but my cousin Auggie's sick.
+L130688 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ How much do you owe me, Curly?
+L130684 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Tell her later.
+L130683 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ I'll just tell my wife.
+L130682 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Right now, Curly. It can't wait.
+L130681 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ Sure, as soon as we eat.
+L130680 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Could you drive me somewhere?
+L130679 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ Off the alley.
+L130678 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Where's that?
+L130677 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ In the garage.
+L130676 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Curly, where's your car?
+L130675 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ Sure thing.
+L130672 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ How about a glass of wine? Honey, this is...
+L130671 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ No thanks.
+L130670 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ Just sitting down to supper, Jake. Care to join us?
+L130669 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Call me Jake. How is everything?
+L130668 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ Gee, this is a surprise, Mr. Gittes.
+L129667 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Call me Jake. Careful driving home, Curly.
+L129666 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ Thanks, Mr. Gittes.
+L129665 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What kind of guy do you think I am?
+L129663 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Forget it. I only mention it to illustrate a point...
+L129662 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ I'll pay the rest next trip. We only caught sixty ton of skipjack around San Benedict. We hit a chubasco, they don't pay you for skipjack the way they do for tuna or albacore.
+L129661 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You bet your ass you don't. You can't even pay me off.
+L129660 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ ...No...
+L129658 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ Not for your wife. That's the unwritten law.
+L129657 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Oh they don't?
+L129656 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ They don't kill a guy for that.
+L129653 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ I think I'll kill her.
+L129652 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What's that, Curly?
+L129651 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ Thanks. You know something, Jake?
+L129650 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Thanks, Curly. Call me Jake.
+L129649 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ You know, you're okay, Mr. Gittes. I know it's your job, but you're okay.
+L129648 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You're absolutely right, I wouldn't give her another thought.
+L129647 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ Ain't worth thinking about.
+L129646 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What can I tell you, Kid? You're right. When you're right, you're right, and you're right.
+L129645 +++$+++ u4472 +++$+++ m296 +++$+++ CURLY +++$+++ She's just no good.
+L129986 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Sue the shit out of 'em.
+L129985 +++$+++ u4473 +++$+++ m296 +++$+++ DUFFY +++$+++ Then what'll you do?
+L129782 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah, yeah. If she'd come in here saying she was Shirley Temple you'd say okay to that, too.
+L129781 +++$+++ u4473 +++$+++ m296 +++$+++ DUFFY +++$+++ I said okay, Jake.
+L129780 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ That's a filthy habit.
+L129779 +++$+++ u4473 +++$+++ m296 +++$+++ DUFFY +++$+++ Okay.
+L129778 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ There's seven ashtrays in this room, Duffy.
+L129760 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Shut up, Duffy, you're always in a hurry and his friend says why not do what the Chinese do? So he says what do they do? His friend says the Chinese they screw for a while. Just listen a second, Duffy...
+L129759 +++$+++ u4473 +++$+++ m296 +++$+++ DUFFY +++$+++ Jake, listen.
+L129758 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ So there's this fella who's tired of screwing his wife.
+L130375 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ But what?
+L130374 +++$+++ u4474 +++$+++ m296 +++$+++ EMMA +++$+++ Give us things. Not just some old flag like this, but –-
+L130373 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ How do they do that?
+L130372 +++$+++ u4474 +++$+++ m296 +++$+++ EMMA +++$+++ No. The albacore. It's a fish. My grandson's a member and they take very nice care of us.
+L130371 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ The apple core?
+L130370 +++$+++ u4474 +++$+++ m296 +++$+++ EMMA +++$+++ The apple core club.
+L130369 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Where did you get this material?
+L130368 +++$+++ u4474 +++$+++ m296 +++$+++ EMMA +++$+++ Thank you...
+L130367 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ That's just lovely.
+L130366 +++$+++ u4474 +++$+++ m296 +++$+++ EMMA +++$+++ Not anymore. Oh, some time ago, my late husband owned a good deal of beach property in Long Beach, but we lost it.
+L130365 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Well you own a lot of land.
+L130364 +++$+++ u4474 +++$+++ m296 +++$+++ EMMA +++$+++ I'm not.
+L130363 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Did you know that you're a very wealthy woman?
+L130362 +++$+++ u4474 +++$+++ m296 +++$+++ EMMA +++$+++ Why?
+L130361 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I've been wanting to meet you.
+L130360 +++$+++ u4474 +++$+++ m296 +++$+++ EMMA +++$+++ Yes.
+L130764 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Jake, you're very disturbed. You're crazy. That's her father.
+L130763 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Get him away from her. He's responsible for everything. Get him away from her!
+L130762 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ An accident?
+L130761 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Take it easy, take it easy, it was an accident.
+L130760 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Who is he, get his name? I'll kill him.
+L130755 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Gittes, stay outta this.
+L130754 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Lou, she will kill you. Let her go for now. You don't know.
+L130753 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ I'm sorry, Mrs. Mulwray.
+L130752 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Let her go. She didn't kill anybody.
+L130751 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Mrs. Mulwray, it's a very serious offense pointing that at an officer of the law. It's a felony.
+L130750 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Oh, Christ. Escobar, you don't know what's going on. Let her go. I'll explain it later.
+L130749 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Mrs. Mulwray, you don't want to run around like that.
+L130665 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Gee, thanks, Lou.
+L130664 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Give you three minutes.
+L130663 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I guess not.
+L130662 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ You never learn, do you, Gittes?
+L130660 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Do me a favor, will you, Lou?
+L130659 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Well, let's go.
+L130658 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah.
+L130657 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ That's it?
+L130656 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Tell us about it on the way to Pedro.
+L130655 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Gee, Lou, I'm doing the best I can.
+L130654 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ If she's not there, you're going downtown, and you're staying there til she shows up.
+L130653 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What for?
+L130652 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ No, Gittes, you'll show us.
+L130651 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ She lives in Pedro. I'll write it down for you.
+L130650 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ What's the maid's address?
+L130649 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Her maid's house. I think she knows something's up.
+L130648 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Where?
+L130647 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Matter of fact I do.
+L130646 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ I don't suppose you got any idea Where she went?
+L130544 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Shut up.  Go on.
+L130543 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I know what he says.
+L130538 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ They only dump the water at night.
+L130537 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Too late for what?
+L130536 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ It's too late.
+L130534 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ C'mon I'll show you.
+L130533 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ What are you talking about?
+L130532 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ He found out somebody was dumping water there. That's what they were trying to cover up by moving him.
+L130531 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ And why's that?
+L130530 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Mulwray was murdered and moved because somebody didn't want his body found in the ocean.
+L130529 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Why do you think Mulwray's body was moved you dimwit? Evelyn Mulwray knocked off her husband in the ocean and thought it would look like more of an accident if she hauled him up to the Oak Pass Reservoir?
+L130528 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ I want those photographs, Gittes. We're talking about accessory after the fact, conspiracy, and extortion. Minimum.
+L130527 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Well, I hope she wasn't too much of a disappointment to you, Lou.
+L130526 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Yeah, I once knew a whore who for enough money would piss in a customer's face, but she'd never shit on his chest. That's where she drew the line.
+L130525 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I don't think I need a day or two. You're even dumber than you think I think you are. Not only that, I'd never extort a nickel out of my worst enemy, that's where I draw the line, Escobar.
+L130524 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Absolutely.
+L130523 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You accusing me of extortion?
+L130522 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ You were following him night and day. You saw who killed him. You even took pictures of it. It was Evelyn Mulwray. She's been paying you off like a slot machine ever since her husband died.
+L130521 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ C'mon, you think you're dealing with a bunch of assholes? Mulwray had salt water in his goddam lungs! Now how did he get that... in a fresh water reservoir?
+L130520 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I heard it was an accident.
+L130519 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Yeah. Somebody wanted to shake down Mulwray, she hired you, and that's how you happen to know Mulwray was murdered.
+L130518 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah?
+L130517 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ This broad hired you, Gittes, not Evelyn Mulwray.
+L130516 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What pictures?
+L130515 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ I want the rest of the pictures.
+L130514 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I don't think about it one way or the other. But if you want, give me a day or two, and I'll get back to you. Now I'd like to go home.
+L130513 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ You really think I'm stupid, don't you, Gittes?
+L130511 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ How did she...  ...happen to have them?
+L130510 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah, I took 'em. So what?
+L130506 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Just to be on the safe side, we had Loach here give you a ring.
+L130505 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Is it? I forget. I don't call myself that often.
+L130504 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Isn't that your number?
+L130503 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Let me show you something.
+L130502 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I don't.
+L130501 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ How do you happen to know her?
+L130500 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Didn't you call?
+L130499 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ What are you doing here?
+L129938 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ When I do, you'll hear about it.
+L129937 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Oh yeah? Can you think of something to charge me with?
+L129936 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ No, he drowned a cousin of mine with about five hundred other people. But they weren't very important, just a bunch of dumb Mexicans living by a dam. Now beat it, Gittes, you don't come out of this smelling like a rose, you know.
+L129933 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You mean that's what you're going to call it.
+L129932 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ No. It was an accident.
+L129931 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ No?
+L129930 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ I don't want it anymore.
+L129918 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ No.
+L129917 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Or her name?
+L129916 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ No.
+L129915 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ You wouldn't happen to know the present whereabouts of the young woman.
+L129892 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ You're welcome to try. There he is.
+L129891 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I'd like to talk to him.
+L129890 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Oh yes.
+L129889 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Hollis Mulwray. You seen him?
+L129888 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Who?
+L129887 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Looking for someone.
+L129886 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Uh-huh. So what are you doing here?
+L129885 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Congratulations.
+L129884 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Since I made Lieutenant.
+L129883 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Since when?
+L129882 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ You're behind the times, Jake. They've got steam irons now.  And I'm out of Chinatown.
+L129879 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Well, sometimes it takes a while for a man to find himself and I guess you have.
+L129878 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I get by.
+L129877 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ You've done well by yourself.
+L129876 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Well, to tell you the truth, I lied a little.
+L129875 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ How'd you get past the guards?
+L129874 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Thanks, Lou.
+L129871 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Yeah, they are.
+L129870 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Summer colds are the worst.
+L129869 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ I have a cold I can't seem to shake but other than that, I'm fine.
+L129868 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ How are you, Lou?
+L129867 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Hello, Jake.
+L129920 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ I don't think so, Mrs. Mulwray. Of course you have my deepest sympathy and if we need anymore information, we'll be in touch.
+L129919 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Will you need me for anything else, Lieutenant?
+L129911 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Well yes.
+L129910 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Mr. Gittes.
+L129909 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ A private investigator?
+L129908 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ But I thought you'd hired a private investigator.
+L129907 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Yes.
+L129906 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ A complete surprise?
+L129905 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ He... we did... he wouldn't tell me her name.  We quarreled over her... of course. It came as a complete surprise to me.
+L129904 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ You and your husband never discussed her?
+L129903 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Certainly not!
+L129902 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Do you know where she might be?
+L129901 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ No.
+L129900 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Mrs. Mulwray, do you happen to know the name of the young woman in question?
+L129899 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ No.
+L129898 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ But there is no possibility he would have taken his own life?
+L129897 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ ...Well, it didn't make him happy...
+L129895 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ Obviously the fall must have knocked him out.
+L129894 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Of course.
+L129893 +++$+++ u4475 +++$+++ m296 +++$+++ ESCOBAR +++$+++ It looks like he was washed the entire length of the runoff channel. Could he swim?
+L130742 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Sure, but I'd like to handle it.
+L130741 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I'm all right.
+L130740 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Let me handle that.
+L130634 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ He didn't wear bifocals.
+L130633 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ How do you know?
+L130631 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Okay...
+L130630 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ On his day off. Get the exact address.
+L130629 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ With us.
+L130628 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ ...where does Kyo live?
+L130627 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Where can we go?
+L130626 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I'll take care of it.
+L130625 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I have to go home and get my things.
+L130624 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ That's worse... Just get out of here. Walk out, leave everything.
+L130623 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ How about a plane?
+L130622 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You can't go by train. Escobar'll be looking for you everywhere.
+L130621 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Back to Mexico.
+L130620 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah... where are you taking her now?
+L130618 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ ...so that's why you hate him...
+L130617 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Hollis came and took... care of me... after she was born... he said... he took care of her... I couldn't see her... I wanted to but I couldn't... I just want to see her once in a while... take care of her... that's all...  but I don't want her to know... I don't want her to know...
+L130616 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ To Mexico...
+L130615 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ ...he had a breakdown... the dam broke... my mother died... he became a little boy... I was fifteen... he'd ask me what to eat for breakfast, what clothes to wear!... It happened... then I ran away...
+L130612 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ She's my sister and my daughter!
+L130611 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I said I want the truth.
+L130607 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ She's my sister.
+L130606 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I said the truth!
+L130605 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ She's my daughter.
+L130604 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Katherine?... Katherine who?
+L130603 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Katherine.
+L130602 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ That's good. Now what's her name?
+L130600 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Who is she? And don't give me that crap about it being your sister. You don't have a sister.
+L130599 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ ...no...
+L130598 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Stop it!  I'll make it easy. You were jealous, you fought, he fell, hit his head. It was an accident, but his girl is a witness. You've had to pay her off. You don't have the stomach to harm her, but you've got the money to shut her up. Yes or no?
+L130597 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I don't know what you're talking about. This is the most insane... the craziest thing I ever...
+L130596 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ There's no time for you to be shocked by the truth, Mrs. Mulwray. The coroner's report proves he was killed in salt water. Just take my word for it. Now I want to know how it happened and why. I want to know before Escobar gets here because I want to hang onto my license.
+L130595 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ What are you saying?
+L130594 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yes positively. That's where he was drowned...
+L130593 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I don't know. I mean yes, probably.
+L130592 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I found these in your backyard... in your fish pond. They belonged to your husband, didn't they?... didn't they?
+L130591 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ What the hell is this all about?
+L130590 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Don't worry. I can recommend a couple. They're expensive but you can afford it.
+L130589 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ No...
+L130588 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You know any good criminal lawyers?
+L130587 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ What did you do that for?
+L130586 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You're going to miss your train!  Lou, meet me at 1412 Adelaide. It's above Santa Monica Canyon... yeah, soon as you can.
+L130585 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ What are you doing? What's wrong? I told you we've got a 4:30.
+L130584 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ J. J. Gittes for Lieutenant Escobar
+L130583 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Yes, we've got a 4:30 train to catch. Why?
+L130582 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Going somewhere?
+L130581 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ ...she's having a bath now... why do you want to see her?
+L130580 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I want to see her.
+L130579 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Upstairs. Why?
+L130578 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Where's the girl?
+L130577 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Did you have lunch? Kyo will fix you something.
+L130576 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Sure.
+L130575 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Did you get some sleep?
+L130487 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ ...That's not what I meant.
+L130486 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Don't worry. I'm not telling anybody about this.
+L130485 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Aren't you coming back with me?
+L130484 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I took your husband's Buick...  I'll return it tomorrow.
+L130482 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Because of Hollis? Because she was seeing your husband? Was that it? Jesus Christ, say something. Was that it?
+L130481 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I can't...
+L130478 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I will if you don't.
+L130477 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ You won't go to the police if I tell you?
+L130476 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Just tell me the truth. I'm not the police. I don't care what you've done. I'm not going to hurt you, but one way or another I'm going to know.
+L130475 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ You're insane.
+L130474 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Like she knows about Hollis' death. Like she knows more than you want her to tell.
+L130473 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ What does it look like?
+L130472 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ That's not what it looks like, Mrs. Mulwray.
+L130471 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Yes.
+L130470 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You mean she just found out?
+L130469 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Hollis' death. I tried to keep it from her, I didn't want her upset before I could make plans for her to leave.
+L130468 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What about?
+L130467 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ She's too upset.
+L130465 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Then let's go talk to her.
+L130464 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I am not!
+L130463 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You know what I mean. You're keeping her there against her will.
+L130462 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ She's not tied up!
+L130461 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ C'mon, Mrs. Mulwray. You've got your husband's girlfriend tied up in there!
+L130460 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ The police?
+L130459 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ It's either that or you drive to the police yourself.
+L130458 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ You bastard.
+L130457 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Okay, give me the keys.
+L130456 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ It's possible. Please don't ask me any more questions now. Just wait, wait for me. I'll be back. I need you here.
+L130455 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Including the death of your husband?
+L130454 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ It's possible.
+L130453 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ That's what your father said. You're telling me he's in back of this whole thing?
+L130452 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ You may think you know what's going on, but you don't.
+L130451 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Give me an example.
+L130450 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I want you to listen to me. My father is a very dangerous man. You don't know how dangerous. You don't know how crazy.
+L130449 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Mulwray's girlfriend, for one thing. He wanted to know where she was.
+L130448 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Do? To who?
+L130447 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ That you were jealous, and he was worried about what you might do.
+L130446 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ What did he say?  What did he say?
+L130445 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ There hasn't been a lot of time.
+L130444 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ You didn't tell me.
+L130443 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ This morning.
+L130442 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ You saw my fa... father? When?
+L130441 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I saw him.
+L130440 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ He owns it. You know?
+L130439 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I know.
+L130438 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ It has to do with my father.
+L130437 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ The Albacore Club.
+L130436 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Please!... Trust me this much...  I'll be back. Look, there is something I should tell you. The fishing club that old lady mentioned, the pieces off the flag.
+L130435 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Where are you going?
+L130434 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Please don't be angry... believe me, it's got nothing to do with you.
+L130433 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ And I want to know where.
+L130432 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Just... I have to.
+L130431 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Where?
+L130428 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ ...Yes, sort of a birthmark...
+L130427 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ ...A flaw...
+L130426 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Oh that... It's a flaw in the iris...
+L130425 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ There's something black in the green part of your eye.
+L130424 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ What about it?
+L130423 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Your eye.
+L130422 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ What's wrong?
+L130420 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Could you do anything about it?
+L130419 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I thought I was keeping someone from being hurt and actually I ended up making sure they were hurt.
+L130418 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ ...No. Why was it.
+L130417 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You can't always tell what's going on there.
+L130416 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Hold still. Why?
+L130415 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Bothers everybody who works there, but to me... It was...
+L130414 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ So why does it bother you to talk about it... Chinatown...
+L130413 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah.
+L130412 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Boy oh boy, you're a mess.
+L130407 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ They do in Chinatown.
+L130406 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ The District Attorney gives his men advice like that?
+L130405 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ As little as possible.
+L130404 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Doing what?
+L130403 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Working for the District Attorney.
+L130402 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ What were you doing there?
+L130401 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ It was in Chinatown.
+L130400 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Just. I don't know why. I'm asking.
+L130399 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Why?
+L130398 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ When was the last time?
+L130397 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Actually this hasn't happened to me in some time.
+L130396 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Well, I'm only judging on the basis of one afternoon and an evening, but if that's how you go about your work, I'd say you're lucky to get through a whole day.
+L130395 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What's that, Mrs. Mulwray?
+L130394 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Tell me something. Does this usually happen to you, Mr. Gittes?
+L130393 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I guess not to you, Mrs. Mulwray. Frankly you really saved my a... my neck tonight.
+L130392 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ No question from you is innocent, Mr. Gittes.
+L130391 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Easy, it's an innocent question.
+L130390 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I gave everybody the night off.
+L130389 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What do you mean, 'why?' Nobody's here, that's all.
+L130388 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Why?
+L130387 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Maid's night off?
+L130383 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Get in the car.
+L130382 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I'll stay.
+L130356 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ They may not know it but they are.
+L130355 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ They can't be.
+L130354 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You're looking at the owners of a 50,000 acre empire.
+L130330 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Two weeks ago he bought those 25,000 acres. That's unusual.
+L130329 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Is that unusual?
+L130328 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ There was a memorial service at the Mar Vista Inn today for Jasper Lamar Crabb. He died three weeks ago.
+L130327 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ What? What is it?
+L130326 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ We got it. We got it, baby.
+L130325 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ It's why he was killed. Jasper Lamar Crabb. Jasper Lamar Crabb.
+L130324 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ And Hollis knew about it?
+L130323 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah. They've been blowing these farmers out of here and buying their land for peanuts. Have any idea what this land'll be worth with a steady water supply? About thirty million more than they paid.
+L130322 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ No, I think I'd remember.
+L130321 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Know him?
+L130320 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Jasper Lamar Crabb?
+L130319 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ In the last three months, Robert Knox has bought 7,000 acres, Emma Dill 12,000 acres, Clarence Speer 5,000 acres, and Jasper Lamar Crabb 25,000 acres.
+L130318 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ No.
+L130317 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Everything you can see, everything around us. I was at the Hall of Records today.  That bother you?
+L130316 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ The Valley?
+L130315 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ The one your husband opposed. They're conning L.A. into building it, only the water won't go to L.A. It'll go here.
+L130314 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ What dam?
+L130313 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ That dam is a con job.
+L130150 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Before this I turned on the faucet, it came out hot and cold, I didn't think there was a thing to it.
+L130149 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ What are you thinking?
+L130147 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What about you? Do you and your father get along?
+L130146 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Of course I'm sure.
+L130145 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You sure shout that?
+L130144 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ For talking him into building it, he never forgave my father... They haven't spoken to this day.
+L130143 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Never forgave him for what?
+L130142 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Yes. He never forgave him for it.
+L130141 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Oh, yeah?
+L130140 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Not exactly. Well, I mean, yes. Yes and no.  Hollis felt the public should own the water but I don't think my father felt that way.  Actually, it was over the Van der Lip. The dam that broke.
+L130139 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Then it was over the water department.
+L130138 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Not over me. Why would they have a falling out over me?
+L130137 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Over the water department, or over you?
+L130136 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ No!... Yes, a little. You see Hollis and my fa... my father had a falling out...
+L130135 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Is there something upsetting about my asking about your father?
+L130134 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Oh.
+L130133 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You've got one going, Mrs. Mulwray.
+L130132 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ So you married your father's business partner?
+L130131 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Yes, of course. It was quite a while after. I was just out of grade school when they did that.
+L130130 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Your father is Julian Cross, isn't he?
+L130128 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I'll pay your salary plus five thousand dollars if you find out what happened to Hollis and who is involved.
+L130127 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Money. How they plan to make it by emptying the reservoirs, that I don't know.
+L130126 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Whoever's behind my husband's death, why have they gone to all this trouble?
+L130076 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ What for? There's nothing more to say.  Get my car, please.
+L130075 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Wait a minute, sonny.  I think you better come with me.
+L130074 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Oh, no. I've got my own car. The creamcolored Packard.
+L130068 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Another satisfied client's wife.
+L130067 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Another satisfied client?
+L130062 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ More like other people putting their business in my nose.
+L130061 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Maybe putting your nose in other people's business?
+L130060 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Been meaning to talk to you about that.
+L130059 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ How did it happen?
+L130056 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I don't believe you.
+L130055 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ No, not for that one.
+L130054 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ You seem to have had a reason for every other question.
+L130053 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ No. I'm just a snoop.
+L130052 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ You must've had a reason to ask me that.
+L130051 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ No reason.
+L130050 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Yes... why?
+L130049 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ That your maiden name?
+L130048 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ K... Cross.
+L130046 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I don't see anyone for very long, Mr. Gittes.  It's difficult for me. Now I think you know all you need to about me. I didn't want publicity. I didn't want to go into any of this, then or now. Is this all?
+L130045 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ For very long?
+L130044 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You were seeing someone, too.
+L130043 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I mean I can't tell you.
+L130042 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You mean you don't know where you were?
+L130041 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I can't tell you.
+L130040 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Where you were when your husband died.
+L130039 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Is there anything else you want to know?
+L130038 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Well I wouldn't run home and tell him whenever I went to bed with someone, if that's what you mean.
+L130037 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Did he know?
+L130036 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Mr. Gittes.
+L130035 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Did you have affairs?
+L130034 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I don't like the word 'cheat.'
+L130032 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ She's cheating on him.
+L130031 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Unless what?
+L130030 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Look, I do matrimonial work, It's my metiay.  When a wife tells me she's happy her husband is cheating on her it runs contrary to my experience.
+L130029 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Why?
+L130028 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You'll have to explain that, Mrs. Mulwray.
+L130027 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I was grateful.
+L130026 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ And you weren't the slightest bit upset about it?
+L130025 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ He told you?
+L130024 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ My husband.
+L130023 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ How did you find out?
+L130022 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Well, I suppose I am... actually I knew about the affair.
+L130020 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ But he wasn't killed.
+L130019 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ If your husband was killed it was.  This can look like you paid me off to withhold evidence.
+L130018 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ It wasn't much of a lie.
+L130017 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Sorry. Look, you sue me, your husband dies, you drop the lawsuit like a hot potato, and all of it quicker than wind from a duck's ass. Excuse me. Then you ask me to lie to the police.
+L130016 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Mr. Gittes...  Don't tell me how I feel.
+L130015 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I think so. Something besides your husband's death was bothering you. You were upset but not that upset.
+L130014 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I have?
+L130013 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Stop it. The money's fine. It's generous but you've shortchanged me on the story.
+L130012 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Well, how much would you like?
+L130011 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Mrs. Mulwray, I'm afraid that's not good enough.
+L130010 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Yes. As I said, I was very grateful.
+L130009 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I got your check in the mall.
+L129927 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ A check?
+L129926 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Thank you for going along with me. I just didn't want to explain anything... I'll send you a check.
+L129925 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Oh... thank you.
+L129924 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You left your keys in the ignition.
+L129923 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ ...Just a minute...
+L129922 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Mrs. Mulwray?... Mrs. Mulwray.
+L129859 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Please call first.
+L129858 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I'll stop by.
+L129857 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ No, Just riding bareback, that's all. Anyway, you might try the Oak Pass or Stone Canyon Reservoirs. Sometimes at lunch Hollis takes walks around them. Otherwise he'll be home by 6:30.
+L129856 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Looks like you went quite a distance.
+L129855 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ No. I went riding rather early.
+L129854 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Look at it this way. Now this phony broad, excuse the language, says she's you, she's hired me. Whoever put her up to it, didn't have anything against me. They were out to get your husband. Now if I see him, I can help him.  Did you talk this morning?
+L129853 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ It's very personal. It couldn't be more personal. Is this a business or an obsession with you?
+L129852 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Nothing personal, Mrs. Mulwray, I just --
+L129851 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Suppose they did. How does it concern you?
+L129850 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Well, that little girlfriend, she was attractive in a cheap sort of way of course.  She's disappeared. Maybe they disappeared together somewhere.
+L129849 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ You may if you can, Mr. Gittes.
+L129848 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ May I speak frankly, Mrs. Mulwray?
+L129847 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ What do you mean?
+L129846 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You see, somebody went to a lot of trouble here, and I want to find out, lawsuit or no lawsuit. I'm not the one who's supposed to be caught with my pants down... so I'd like to see your husband. Unless that's a problem.
+L129845 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Well, I've been accused of many things, Mrs. Mulwray, but never that.
+L129844 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Why?... What on earth for?  Look, Hollis seems to think you're an innocent man.
+L129843 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I should talk this over with your husband.
+L129842 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I don't want to drop it.
+L129841 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Yes, Mr. Gittes?
+L129840 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Mrs. Mulwray?
+L129839 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ So let's just drop the whole thing. Sugar?  Lemon?
+L129838 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ I said I'll drop it.
+L129837 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What?
+L129836 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Mr. Gittes, you've talked me into it. I'll drop the lawsuit.
+L129835 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I'm just trying to make a living, and I don't want to become a local Joke.
+L129834 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Anyway... I... the point is, Mrs. Mulwray.  I'm not in business to be loved, but I am in business, and believe me, whoever set up your husband, set me up. L.A.'s a small town, people talk.
+L129833 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ That's not his apartment.
+L129832 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Actually he's not. And he's moved from his apartment at the El Macando.
+L129831 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ My husband's at the office.
+L129830 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah. Fine, thank you.
+L129829 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Iced tea.
+L129828 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What are you having?
+L129827 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Would you like something to drink?
+L129773 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Now wait a minute, Mrs. Mulwray...
+L129772 +++$+++ u4476 +++$+++ m296 +++$+++ EVELYN +++$+++ Yes, that Mulwray, Mr. Gittes. And since you agree with me we've never met, you must also agree that I haven't hired you to do anything. Certainly not spy on my husband. I see you like publicity, Mr. Gittes. Well, you're going to get it.
+L129771 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Not that Mulwray?
+L129789 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Get me the Times. Whitey Mehrholtz.  And how about that snotty broad?  What does she think, she's perfect? Coming in waving her lawyers and her money at me – so goddam smug. She's no better than anybody else in this town.
+L129788 +++$+++ u4486 +++$+++ m296 +++$+++ SOPHIE +++$+++ Yes, Mr. Gittes.
+L129787 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Sophie.
+L129757 +++$+++ u4486 +++$+++ m296 +++$+++ SOPHIE +++$+++ Yes, Mr. Gittes.
+L129756 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Sophie.
+L129755 +++$+++ u4486 +++$+++ m296 +++$+++ SOPHIE +++$+++ But, Mr. Gittes.
+L129754 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Sophie, go to the little girl's room for a minute.
+L129706 +++$+++ u4486 +++$+++ m296 +++$+++ SOPHIE +++$+++ He's in the dark room.
+L129705 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Walsh here?
+L130642 +++$+++ u4491 +++$+++ m296 +++$+++ WALSH'S VOICE +++$+++ Jesus, that's in Chinatown, ain't it?
+L130641 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Sophie... is Walsh there?... yeah, listen, pal, Escobar's going to try and book me in about five minutes... relax, I'll tell you. Wait in the office for two hours. If you don't hear from me, you and Duffy meet me at 1712 Alameda.
+L129714 +++$+++ u4491 +++$+++ m296 +++$+++ WALSH'S VOICE +++$+++ It's on your desk. Say, you hear the one about the guy who goes to the North Pole with Admiral Byrd looking for penguins?
+L129713 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Oh yeah? You pick up the watch?
+L129712 +++$+++ u4491 +++$+++ m296 +++$+++ WALSH'S VOICE +++$+++ I think I got something.
+L129711 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Listen, we can't string this broad out indefinitely we got to come up with something.
+L129710 +++$+++ u4491 +++$+++ m296 +++$+++ WALSH'S VOICE +++$+++ What'd you expect? That's his job.
+L129709 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Jesus Christ, this guy's really got water on the brain.
+L129708 +++$+++ u4491 +++$+++ m296 +++$+++ WALSH'S VOICE +++$+++ Three reservoirs. Men's room of a Richfield gas station on Flower, and the Pig 'n Whistle.
+L129707 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Where'd he go yesterday?
+L130006 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ 'Those people?' Miss Sessions.
+L130005 +++$+++ u4478 +++$+++ m296 +++$+++ IDA'S VOICE +++$+++ You'll find one of those people.
+L130004 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ The obituary column?
+L130003 +++$+++ u4478 +++$+++ m296 +++$+++ IDA'S VOICE +++$+++ No, Mr. Gittes. Just look in the obituary column of today's Times...
+L130002 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ ...Why don't you give me your address and we can talk this over?
+L130001 +++$+++ u4478 +++$+++ m296 +++$+++ IDA'S VOICE +++$+++ Oh no.
+L130000 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I understand... if you could tell me who employed you, Miss Sessions. That could help us both.
+L129999 +++$+++ u4478 +++$+++ m296 +++$+++ IDA'S VOICE +++$+++ Well I never expected anything to happen like what happened to Mr. Mulwray, the point is if it ever comes out I want somebody to know I didn't know what would happen.
+L129998 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Shut the fuck up!  ...Yes I remember nothing, Miss Sessions, just going over a detail or two with my associates... you were saying?
+L129997 +++$+++ u4478 +++$+++ m296 +++$+++ IDA'S VOICE +++$+++ I was the one who pretended to be Mrs. Mulwray, remember?
+L129996 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ When did you come in?
+L129995 +++$+++ u4478 +++$+++ m296 +++$+++ IDA'S VOICE +++$+++ Well, I'm a working girl, Mr. Gittes. I didn't come in to see you on my own.
+L129994 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Isn't everybody? What can I do for you, Miss Sessions?
+L129993 +++$+++ u4478 +++$+++ m296 +++$+++ IDA'S VOICE +++$+++ Oh yes we have... are you alone, Mr. Gittes?
+L129992 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Hello, Miss Sessions. I don't believe we've had the pleasure.
+L129991 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Okay.
+L129990 +++$+++ u4487 +++$+++ m296 +++$+++ SOPHIE'S VOICE +++$+++ Miss Ida Sessions again. She says you know her.
+L129981 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Don't know her. Take a number.
+L129980 +++$+++ u4487 +++$+++ m296 +++$+++ SOPHIE'S VOICE +++$+++ Ida Sessions.
+L129979 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Who?
+L129978 +++$+++ u4487 +++$+++ m296 +++$+++ SOPHIE'S VOICE +++$+++ A Miss Sessions calling.
+L129977 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah, Sophie.
+L130352 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ We understand, c'mon, sweetheart.
+L130351 +++$+++ u4482 +++$+++ m296 +++$+++ PALMER +++$+++ Just, if you will, confine yourself to the main building. It's nearly bedtime.
+L130350 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Would you mind if we took a stroll on our own?
+L130349 +++$+++ u4482 +++$+++ m296 +++$+++ PALMER +++$+++ I don't think so. Be happy to show you.
+L130348 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I wonder, is it too late for us to have a look around?
+L130347 +++$+++ u4482 +++$+++ m296 +++$+++ PALMER +++$+++ Oh, good.
+L130346 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ That's exactly what we wanted to hear.
+L130345 +++$+++ u4482 +++$+++ m296 +++$+++ PALMER +++$+++ We don't reveal the names of our guests as a matter of policy. I know you'd appreciate that if your father came to live with us.
+L130344 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Just to be certain, I wonder if you could show us a list of your patients?
+L130343 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Don't be sorry, neither does Dad. Wanted to make sure though, didn't we, honey?
+L130342 +++$+++ u4482 +++$+++ m296 +++$+++ PALMER +++$+++ I'm sorry. We don't.
+L130341 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Do you accept anyone of the Jewish persuasion?
+L130340 +++$+++ u4482 +++$+++ m296 +++$+++ PALMER +++$+++ Of course.
+L130339 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ There's just one question.
+L130338 +++$+++ u4482 +++$+++ m296 +++$+++ PALMER +++$+++ Perhaps if we could meet your father.
+L130337 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Naturally, I want the best for him, money is no object.
+L130334 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Nothing to do with Dad. It's me, actually.
+L130333 +++$+++ u4482 +++$+++ m296 +++$+++ PALMER +++$+++ Oh my goodness.
+L130123 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I don't want to nail you. I just want to know who put you up to it. I'll give you a few days to think it over.  Call me. I can help. Who knows? Maybe we can lay the whole thing off on a few big shots and you can stay head of the department for the next twenty years.
+L130122 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ Yes...
+L130121 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Hard working, have a wife and kids...
+L130120 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ Yes...
+L130119 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You're a married man, am I right?
+L130118 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ Mr. Gittes, my field men are out and I can't give you an exact location...
+L130117 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ That's like saying they're in Arizona.
+L130116 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ I said, the northwest valley.
+L130115 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah, a little runoff. Where are those orchards?
+L130114 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ Wait. Please sit down, Mr. Gittes. We're... well, we're not anxious for this to get around, but we have been diverting a little water to irrigate avocado and walnut groves in the northwest valley. As you know, the farmers there have no legal right to our water, and since the drought we've had to cut them off. The city comes first, naturally.  But, well, we've been trying to help some of them out, keep them from going under. Naturally when you divert water you get a little runoff.
+L130113 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Well, Whitey Mehrholtz over at the Times will. Dumping thousands of gallons of water down the toilet in the middle of a drought.  That's news.
+L130112 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ Mr. Gittes! That's an outrageous accusation.  I don't know what you're talking about.
+L130111 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Well, look at it this way, Mr. Yelburton.  Mulwray didn't want to build a dam and he had a reputation that was hard to get around, so. you decided to ruin it. Then he found out that you were dumping water every night. Then he was drowned.
+L130110 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ Mr. Gittes, you're not making a bit of sense.
+L130109 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Neither do I, actually. But you hired me or you hired that chippie to hire me.
+L130108 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ I don't understand.
+L130107 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I never was.
+L130106 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ Only when you breathe... don't tell me you're still working for Mrs. Mulwray?
+L130105 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Only when I breathe.
+L130104 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ You ought to be more careful. That must really smart.
+L130103 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I cut myself shaving.
+L130102 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ Oh yes. Hollis was the best department head the city's ever had. My goodness, what happened to your nose?
+L130101 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah, must be especially tough to take over under these circumstances.
+L130100 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ Mr. Gittes, sorry to keep you waiting. These staff meetings, they just go on and on.
+L129819 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ Hope so. He's working for us.
+L129818 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Relax, Mulvihill, glad to see you.  Do you know Claude Mulvihill here?
+L129814 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ Help yourself.
+L129813 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Mind if I take one of your cards? In case I want to get in touch with you again.
+L129812 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Well, tell him I'll be back.
+L129811 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ I'm sorry, I --
+L129810 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You don't happen to know where Mr. Mulwray's having lunch?
+L129809 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Maybe he takes it very seriously.
+L129808 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ He never even kids about it.
+L129807 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ And Mulwray isn't?
+L129806 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ After all, you work with a man for a certain length of time, you come to know him, his habits, his values, and so forth. Well either he's the kind who chases after women or he isn't.
+L129804 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ I wonder if you'd care to wait in my office?
+L129803 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ J.J. Gittes. And it's not a departmental matter.
+L129802 +++$+++ u4492 +++$+++ m296 +++$+++ YELBURTON +++$+++ Can I help you?  Russ Yelburton, Deputy Chief in the Department.
+L129770 +++$+++ u4493 +++$+++ m296 +++$+++ YOUNG WOMAN +++$+++ That's what I thought. You see, I'm Mrs. Evelyn Mulwray. You know, Mr. Mulwray's wife.
+L129769 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Never.
+L129768 +++$+++ u4493 +++$+++ m296 +++$+++ YOUNG WOMAN +++$+++ Never?
+L129767 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Well, no.
+L129766 +++$+++ u4493 +++$+++ m296 +++$+++ YOUNG WOMAN +++$+++ Have we ever met?
+L129765 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Well... I think I... I would've remembered.
+L129764 +++$+++ u4493 +++$+++ m296 +++$+++ YOUNG WOMAN +++$+++ Do you know me?
+L129763 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yes?
+L129762 +++$+++ u4493 +++$+++ m296 +++$+++ YOUNG WOMAN +++$+++ Mr. Gittes?
+L129969 +++$+++ u4488 +++$+++ m296 +++$+++ THE BOY +++$+++ Comes in different parts of the river. Every night a different part.
+L129968 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ When it comes? What'd you tell him?
+L129967 +++$+++ u4488 +++$+++ m296 +++$+++ THE BOY +++$+++ When it comes.
+L129966 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What about the water?
+L129965 +++$+++ u4488 +++$+++ m296 +++$+++ THE BOY +++$+++ The water.
+L129963 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Didn't you talk to a man here... few days ago... wore glasses... he...
+L129962 +++$+++ u4488 +++$+++ m296 +++$+++ THE BOY +++$+++ Si.
+L129961 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Speak English?... Habla Ingles?
+L129957 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah, well he ain't gonna drown in a damp riverbed either, I don't care how soused he was. That's like drowning in a teaspoon.
+L129956 +++$+++ u4479 +++$+++ m296 +++$+++ MORTY +++$+++ It's not completely dry.
+L129955 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ It's bone dry, Morty.
+L129954 +++$+++ u4479 +++$+++ m296 +++$+++ MORTY +++$+++ Yeah, under Hollenbeck Bridge, what's wrong with that?
+L129953 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ The L.A. River?
+L129952 +++$+++ u4479 +++$+++ m296 +++$+++ MORTY +++$+++ Yeah, got dead drunk, passed out in the bottom of the riverbed.
+L129951 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Come again?
+L129950 +++$+++ u4479 +++$+++ m296 +++$+++ MORTY +++$+++ Drowned, too.
+L129949 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah.
+L129944 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ So how are you, Morty?
+L129943 +++$+++ u4479 +++$+++ m296 +++$+++ MORTY +++$+++ That's a long fall.
+L129942 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah. Banged up pretty bad.
+L129941 +++$+++ u4479 +++$+++ m296 +++$+++ MORTY +++$+++ Yeah? Ain't that something? Middle of a drought, the water commissioner drowns. Only in L.A.
+L129940 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Nothin', Morty, it's my lunch hour, I thought I'd drop by and see who died lately.
+L129939 +++$+++ u4479 +++$+++ m296 +++$+++ MORTY +++$+++ Jake, what're you doin' here?
+L130496 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Well, tell you what, pal. If Ida wants to see me she can call me at my office.
+L130495 +++$+++ u4489 +++$+++ m296 +++$+++ VOICE ON PHONE +++$+++ Sure you do.
+L130494 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah?... I do?
+L130492 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Who?
+L130491 +++$+++ u4489 +++$+++ m296 +++$+++ VOICE ON PHONE +++$+++ Ida Sessions wants to see you.
+L130490 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah.
+L130489 +++$+++ u4489 +++$+++ m296 +++$+++ VOICE ON PHONE +++$+++ Gittes?... Gittes?
+L129694 +++$+++ u4480 +++$+++ m296 +++$+++ MRS. MULWRAY +++$+++ Money doesn't matter to me, Mr. Gittes.
+L129693 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ This type of investigation can be hard on your pocketbook, Mrs. Mulwray. It takes time.
+L129690 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Water and Power?
+L129689 +++$+++ u4480 +++$+++ m296 +++$+++ MRS. MULWRAY +++$+++ Hollis. Hollis Mulwray.
+L129688 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ All right, what's your husband's first name?
+L129687 +++$+++ u4480 +++$+++ m296 +++$+++ MRS. MULWRAY +++$+++ But I have to know.
+L129686 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I'm sure he loves you, too. You know the expression, let sleeping dogs lie? You're better off not knowing.
+L129685 +++$+++ u4480 +++$+++ m296 +++$+++ MRS. MULWRAY +++$+++ But...
+L129684 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Then go home and forget about it.
+L129683 +++$+++ u4480 +++$+++ m296 +++$+++ MRS. MULWRAY +++$+++ ...Yes of course.
+L129682 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Mrs. Mulwray, do you love your husband?
+L129680 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Now, what makes you certain he is involved with someone?
+L129679 +++$+++ u4480 +++$+++ m296 +++$+++ MRS. MULWRAY +++$+++ Of course not.
+L129678 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I'm afraid not, Mrs. Mulwray. These men are my operatives and at some point they're going to assist me. I can't do everything myself.
+L129677 +++$+++ u4480 +++$+++ m296 +++$+++ MRS. MULWRAY +++$+++ Can't we talk about this alone, Mr. Gittes?
+L129676 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I am sorry.
+L129675 +++$+++ u4480 +++$+++ m296 +++$+++ MRS. MULWRAY +++$+++ I'm afraid so.
+L129674 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ No, really?
+L129672 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Now, Mrs. Mulwray, what seems to be the problem?
+L129671 +++$+++ u4480 +++$+++ m296 +++$+++ MRS. MULWRAY +++$+++ Mr. Gittes...
+L129670 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ How do you do, Mrs. Mulwray?
+L130286 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah, I'll do that.
+L130285 +++$+++ u4484 +++$+++ m296 +++$+++ RAINMAKER +++$+++ Lot of turnover these days. Better tell them to get in touch with me if they want to hang onto their land.
+L130284 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah.
+L130283 +++$+++ u4484 +++$+++ m296 +++$+++ RAINMAKER +++$+++ Never heard of 'em... new owners?
+L130282 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ That's swell. But how about here?  Ever worked for Robert Knox, Emma Dill, Clarence Speer, Marian Parsons, or Jasper Lamar Crabb?
+L130281 +++$+++ u4484 +++$+++ m296 +++$+++ RAINMAKER +++$+++ City of La Habra Heights filled an 800,000 gallon reservoir with sixteen inches of rain in two days.
+L130280 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah.  Do you have any references?
+L130279 +++$+++ u4484 +++$+++ m296 +++$+++ RAINMAKER +++$+++ No problem with me on the Job.
+L130098 +++$+++ u4485 +++$+++ m296 +++$+++ SECRETARY +++$+++ Yes. Yes, they were partners.
+L130097 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ They were partners.
+L130096 +++$+++ u4485 +++$+++ m296 +++$+++ SECRETARY +++$+++ Along with Mr. Mulwray.
+L130095 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Mulwray? I thought you said Cross owned the department.
+L130094 +++$+++ u4485 +++$+++ m296 +++$+++ SECRETARY +++$+++ Mr. Mulwray felt the public should own the display. The water. If you'll just read the display.
+L130093 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ How did they get it away from him?
+L130092 +++$+++ u4485 +++$+++ m296 +++$+++ SECRETARY +++$+++ Yes.
+L130091 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ He owned the entire water supply for the city?
+L130090 +++$+++ u4485 +++$+++ m296 +++$+++ SECRETARY +++$+++ Yes.
+L130089 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ He owned the water department?
+L130088 +++$+++ u4485 +++$+++ m296 +++$+++ SECRETARY +++$+++ He owned it.
+L130087 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ He did or he didn't?
+L130086 +++$+++ u4485 +++$+++ m296 +++$+++ SECRETARY +++$+++ Yes. No.
+L130085 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Julian Cross worked for the water department?
+L130083 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I take a long lunch. All day sometimes.
+L130082 +++$+++ u4485 +++$+++ m296 +++$+++ SECRETARY +++$+++ He's liable to be tied up indefinitely.
+L130081 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Well I'm on my lunch hour. I'll wait.
+L130080 +++$+++ u4485 +++$+++ m296 +++$+++ SECRETARY +++$+++ Mr. Yelburton will be busy for some time.
+L129801 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Fifteen minutes ago. Why don't I go in and wait?
+L129800 +++$+++ u4485 +++$+++ m296 +++$+++ SECRETARY +++$+++ He was expecting you?
+L129799 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Gee whiz.  And I'm late.
+L129798 +++$+++ u4485 +++$+++ m296 +++$+++ SECRETARY +++$+++ Since lunch.
+L129797 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ It's personal. Has he been out long?
+L129796 +++$+++ u4485 +++$+++ m296 +++$+++ SECRETARY +++$+++ May I ask what this is regarding?
+L129795 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Gittes.
+L129794 +++$+++ u4485 +++$+++ m296 +++$+++ SECRETARY +++$+++ He's not in, Mr.?
+L129793 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Mr. Mulwray, please.
+L130748 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Gimme your keys. Watch this old fart, will you?  Take Duffy's car. Curly's boat's in Pedro, near the Starkist cannery. It's the Evening Star. He'll be waiting. I'll take care of this.
+L130747 +++$+++ u4490 +++$+++ m296 +++$+++ WALSH +++$+++ Jake, it's Chinatown. They're all over the place. You oughta know better.
+L130746 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Duffy, go over and sit on Mulvihill.  Jesus Christ, I didn't tell you to bring the police department with you.
+L129989 +++$+++ u4490 +++$+++ m296 +++$+++ WALSH +++$+++ Sue people like that they're liable to be having dinner with the Judge who's trying the suit.
+L129988 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Yeah. What's wrong with you guys? Think ahead. We find 'em, sue 'em. We'll make a killing.  We'll have dinner at Chasen's twice a week, we'll be pissing on ice the rest of our lives.
+L129987 +++$+++ u4490 +++$+++ m296 +++$+++ WALSH +++$+++ Yeah?
+L129984 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I don't want Mulvihill.  I want the big boys that are making the payoffs.
+L129983 +++$+++ u4490 +++$+++ m296 +++$+++ WALSH +++$+++ Think you can nail Mulvihill? They'll claim you were trespassing.
+L129792 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ They're all a bunch of phonies.
+L129791 +++$+++ u4490 +++$+++ m296 +++$+++ WALSH +++$+++ So he says you sent them?
+L129786 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ When I find out who that phony bitch was.
+L129785 +++$+++ u4490 +++$+++ m296 +++$+++ WALSH +++$+++ No, no. She said not to call, her husband might answer.
+L129784 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ All she needed for that was the phone book!
+L129783 +++$+++ u4490 +++$+++ m296 +++$+++ WALSH +++$+++ Look, Jake. She gave us Mulwray's real phone number and address.
+L129725 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Let me explain something to you, Walsh. This business requires a certain finesse.
+L129724 +++$+++ u4490 +++$+++ m296 +++$+++ WALSH +++$+++ Look, you tell me to take pictures, I take pictures.
+L129723 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Jesus Christ, Walsh. That's what you spent your day doing?
+L129722 +++$+++ u4490 +++$+++ m296 +++$+++ WALSH +++$+++ Yeah.
+L129721 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Apple core?
+L129720 +++$+++ u4490 +++$+++ m296 +++$+++ WALSH +++$+++ I don't know. The traffic was pretty loud. I only heard one thing – apple core.
+L129719 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What about?
+L129718 +++$+++ u4490 +++$+++ m296 +++$+++ WALSH +++$+++ They got into a terrific argument outside the Pig 'n Whistle.
+L129717 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ This?
+L129742 +++$+++ u4481 +++$+++ m296 +++$+++ OTHER CUSTOMER +++$+++ No, you have a press agent do it.
+L129741 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Neither do I.
+L129740 +++$+++ u4481 +++$+++ m296 +++$+++ OTHER CUSTOMER +++$+++ We don't publish a record in the paper, I can tell you that.
+L129739 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Tell me, how many people a week do you foreclose on?
+L129738 +++$+++ u4481 +++$+++ m296 +++$+++ OTHER CUSTOMER +++$+++ Mortgage Department, First National Bank.
+L129737 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Oh? What do you do to make ends meet?
+L129736 +++$+++ u4481 +++$+++ m296 +++$+++ OTHER CUSTOMER +++$+++ Nothing. You got a hell of a way to make a living.
+L129735 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ What's that, pal?
+L130175 +++$+++ u4483 +++$+++ m296 +++$+++ PILOT +++$+++ Cross was looking for her all over the country. Offered rewards, everything. Felt real sorry for him, with all his money.
+L130174 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You don't say?
+L130173 +++$+++ u4483 +++$+++ m296 +++$+++ PILOT +++$+++ She ran off to Mexico. Rumor was she was knocked up and didn't even know who the father was. Went there to get rid of it.
+L130172 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ We missed the best of it, didn't we, pal?
+L130171 +++$+++ u4483 +++$+++ m296 +++$+++ PILOT +++$+++ Oh, you know. She was sixteen or seventeen.
+L130170 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Why'd she run away?
+L130169 +++$+++ u4483 +++$+++ m296 +++$+++ PILOT +++$+++ That's for sure.
+L130168 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Well, you never know, do you?
+L130167 +++$+++ u4483 +++$+++ m296 +++$+++ PILOT +++$+++ Course, she settled down nicely.
+L130166 +++$+++ u4483 +++$+++ m296 +++$+++ PILOT +++$+++ Oh yeah, it was a big thing at the time. Julian Cross' daughter. God almighty. She was a wild little thing.
+L130165 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ She ran away?
+L130164 +++$+++ u4483 +++$+++ m296 +++$+++ PILOT +++$+++ No, he's only got one, I remember her age, I read it in the newspapers when she ran away.
+L130163 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ You must be thinking of a different daughter.
+L130162 +++$+++ u4483 +++$+++ m296 +++$+++ PILOT +++$+++ She must be about thirty-three, thirty- four.
+L130161 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ She ain't exactly long in the tooth now.
+L130160 +++$+++ u4483 +++$+++ m296 +++$+++ PILOT +++$+++ That right?... She used to be some looker.
+L130159 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I'm working for his daughter.
+L130158 +++$+++ u4483 +++$+++ m296 +++$+++ PILOT +++$+++ Is the Pope Catholic? Who are you, mister?... I ask because he doesn't see a whole lot of people.
+L130157 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ I'm going to see a man called Julian Cross. Ever heard of him?
+L130156 +++$+++ u4483 +++$+++ m296 +++$+++ PILOT +++$+++ Lots of fellas do. Tell the little woman they're going on a fishing trip, then shack up with some little twist on the island... she pretty?
+L130155 +++$+++ u4483 +++$+++ m296 +++$+++ PILOT +++$+++ But that's what you told your wife.
+L130154 +++$+++ u4477 +++$+++ m296 +++$+++ GITTES +++$+++ Not exactly.

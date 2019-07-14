@@ -1,0 +1,748 @@
+L315943 +++$+++ u1602 +++$+++ m106 +++$+++ "DOCTOR" +++$+++ Dream on!
+L315931 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ No! The army did this to me! They've done something to my brain.  Jezzie! I want my boys! Sarah! I'm not dead! I want my family!
+L315930 +++$+++ u1602 +++$+++ m106 +++$+++ "DOCTOR" +++$+++ It's all been a dream.
+L315929 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ No! That was years ago! I've lived years since then.
+L315928 +++$+++ u1602 +++$+++ m106 +++$+++ "DOCTOR" +++$+++ Remember?
+L315927 +++$+++ u1602 +++$+++ m106 +++$+++ "DOCTOR" +++$+++ There is no out of here. You've been killed. Don't you remember?
+L315926 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Let me out of here!
+L315925 +++$+++ u1602 +++$+++ m106 +++$+++ "DOCTOR" +++$+++ What isn't happening?
+L315924 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I don't know. I don't know.  This isn't happening.
+L315923 +++$+++ u1602 +++$+++ m106 +++$+++ "DOCTOR" +++$+++ Then what are you doing here?
+L315922 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'm alive.
+L315921 +++$+++ u1602 +++$+++ m106 +++$+++ "DOCTOR" +++$+++ What are you then?
+L315920 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Dead? No. I just hurt my back. I'm not dead.
+L315919 +++$+++ u1602 +++$+++ m106 +++$+++ "DOCTOR" +++$+++ Home?  This is your home. You're dead.
+L315918 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Take me home.
+L315917 +++$+++ u1602 +++$+++ m106 +++$+++ "DOCTOR" +++$+++ Where do you want to go?
+L315916 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Get me out of here.
+L315545 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Like Della.
+L315544 +++$+++ u1603 +++$+++ m106 +++$+++ DELLA +++$+++ Well, how do I look?
+L315543 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Just to see you. That's all.
+L315542 +++$+++ u1603 +++$+++ m106 +++$+++ DELLA +++$+++ What do you want?
+L315541 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I see.
+L315540 +++$+++ u1603 +++$+++ m106 +++$+++ DELLA +++$+++ You want to see me? Well, here I am.
+L315539 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Della?
+L315538 +++$+++ u1603 +++$+++ m106 +++$+++ DELLA +++$+++ Hiya Jake. That was some dance.
+L315505 +++$+++ u1603 +++$+++ m106 +++$+++ DELLA +++$+++ It's fun.
+L315504 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ No, thanks.
+L315503 +++$+++ u1603 +++$+++ m106 +++$+++ DELLA +++$+++ Go on Jake. She reads 'em like a book.
+L316155 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ No, don't. But thanks.
+L316154 +++$+++ u1604 +++$+++ m106 +++$+++ DOORMAN +++$+++ Do you want some help? I can call upstairs.
+L316153 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'm okay.
+L316152 +++$+++ u1604 +++$+++ m106 +++$+++ DOORMAN +++$+++ Are you all right?
+L316151 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Hello, Sam.
+L316150 +++$+++ u1604 +++$+++ m106 +++$+++ DOORMAN +++$+++ Dr. Singer. It's been a long time.
+L315799 +++$+++ u1613 +++$+++ m106 +++$+++ JERRY +++$+++ Me, too.
+L315798 +++$+++ u1605 +++$+++ m106 +++$+++ DOUG +++$+++ Too late. I've tried. I think you're right, Jake. I'm game.
+L315777 +++$+++ u1605 +++$+++ m106 +++$+++ DOUG +++$+++ You know, I've been to three shrinks and a hypnotist. Nothing penetrates that night. Nothing.
+L315776 +++$+++ u1613 +++$+++ m106 +++$+++ JERRY +++$+++ Grass never did that to me.
+L315773 +++$+++ u1605 +++$+++ m106 +++$+++ DOUG +++$+++ Yeah, ever since that ...
+L315772 +++$+++ u1613 +++$+++ m106 +++$+++ JERRY +++$+++ Something weird is going on here. What is it about us? Even in Nam it was always weird. Are we all crazy or something?
+L315750 +++$+++ u1605 +++$+++ m106 +++$+++ DOUG +++$+++ Hey, you're talkin' about Paul. Who'd want to hurt him?
+L315749 +++$+++ u1613 +++$+++ m106 +++$+++ JERRY +++$+++ How do you know?
+L315748 +++$+++ u1605 +++$+++ m106 +++$+++ DOUG +++$+++ By who? Why? Paul didn't have an enemy in the world.
+L316336 +++$+++ u1606 +++$+++ m106 +++$+++ ELI +++$+++ LET GO!
+L316335 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What do you want from me?
+L316334 +++$+++ u1606 +++$+++ m106 +++$+++ ELI +++$+++ Daddy. Let go.
+L316333 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Stop!!!!
+L316332 +++$+++ u1606 +++$+++ m106 +++$+++ ELI +++$+++ You're hurting me!
+L316331 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Oh God!
+L316330 +++$+++ u1606 +++$+++ m106 +++$+++ ELI +++$+++ Daddy!
+L315514 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Just my luck.
+L315513 +++$+++ u1607 +++$+++ m106 +++$+++ ELSA +++$+++ It's not funny. According to this ... you're already dead.
+L315512 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Oh, terrific.
+L315511 +++$+++ u1607 +++$+++ m106 +++$+++ ELSA +++$+++ Short? It's ended.
+L315510 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ It's short, huh?
+L315509 +++$+++ u1607 +++$+++ m106 +++$+++ ELSA +++$+++ You know, you got a strange line here.
+L315508 +++$+++ u1607 +++$+++ m106 +++$+++ ELSA +++$+++ You see this line here? It's your life line. Here's where you were born. And this is where you got married. You're a married man, huh? Oh oh. Nope. Divorce. See this split.
+L315507 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I could have told you that.
+L315506 +++$+++ u1607 +++$+++ m106 +++$+++ ELSA +++$+++ You have an unusual hand.
+L315861 +++$+++ u1608 +++$+++ m106 +++$+++ FRANK +++$+++ Don't bother to call again, okay?
+L315860 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Hey, wait!
+L315859 +++$+++ u1608 +++$+++ m106 +++$+++ FRANK +++$+++ I'm hanging up.
+L315858 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What the hell? What kind of mumbo jumbo ... ?
+L315857 +++$+++ u1608 +++$+++ m106 +++$+++ FRANK +++$+++ Listen, Jake. I gotta go.
+L315856 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Goddamn it. What kind of bullshit is that?
+L315855 +++$+++ u1608 +++$+++ m106 +++$+++ FRANK +++$+++ Maybe the demons are real.
+L315854 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What are you talking about?
+L315853 +++$+++ u1608 +++$+++ m106 +++$+++ FRANK +++$+++ Maybe there's a larger truth.
+L315852 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What do you mean?
+L315851 +++$+++ u1608 +++$+++ m106 +++$+++ FRANK +++$+++ Maybe it's not the army, Jake.
+L315850 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Shit! You know it's not half the case if I go it alone. We're all suffering the same symptoms, Frank. The army is to blame. They've done something to us. How can you not want to know?
+L315849 +++$+++ u1608 +++$+++ m106 +++$+++ FRANK +++$+++ They're not interested, Jake.
+L315848 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Jesus Christ! Who's been talking to you?  What's going on? How can you just turn away?  What about the others?
+L315847 +++$+++ u1608 +++$+++ m106 +++$+++ FRANK +++$+++ There's nothing to expose.
+L315846 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Things happen? What the fuck are you talking about? They did something to us, Frank. We have to expose this.
+L315845 +++$+++ u1608 +++$+++ m106 +++$+++ FRANK +++$+++ I don't know if I can. It's just that war is war. Things happen.
+L315844 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Well, try, huh.
+L315843 +++$+++ u1608 +++$+++ m106 +++$+++ FRANK +++$+++ It's hard to explain.
+L315842 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What does that mean, Frank? I don't get it. Why?
+L315841 +++$+++ u1608 +++$+++ m106 +++$+++ FRANK +++$+++ That's right. We did.
+L315840 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Listen, I just got a strange call from Geary. He said the guys backed down. What's he talking about?
+L315839 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Frank. It's Jake. Jacob SInger.
+L315838 +++$+++ u1608 +++$+++ m106 +++$+++ FRANK +++$+++ Hello.
+L315752 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ He was upset. He thought people were following him.
+L315751 +++$+++ u1608 +++$+++ m106 +++$+++ FRANK +++$+++ What did he talk about when you guys went out? Did he say anything?
+L315644 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Don't go?  I'm not going anywhere. I'm right here, Gabe.  Come on, go back to sleep. You can still get a couple of hours.
+L315643 +++$+++ u1609 +++$+++ m106 +++$+++ GABE +++$+++ Don't go.
+L315642 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Now what?
+L315641 +++$+++ u1609 +++$+++ m106 +++$+++ GABE +++$+++ Wait ... Daddy.
+L315630 +++$+++ u1609 +++$+++ m106 +++$+++ GABE +++$+++ Mom, it's ...
+L315629 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Tell your mother.
+L315628 +++$+++ u1609 +++$+++ m106 +++$+++ GABE +++$+++ It's cold.
+L315627 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ It was the window.
+L315626 +++$+++ u1609 +++$+++ m106 +++$+++ GABE +++$+++ There was a bang.
+L315625 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Gabe?  What are you doing ... ?
+L315624 +++$+++ u1609 +++$+++ m106 +++$+++ GABE +++$+++ Daddy, what was that noise?
+L315880 +++$+++ u1610 +++$+++ m106 +++$+++ GEARY +++$+++ I don't have to do any such thing. I'm eating my lunch, okay?
+L315879 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ War games? Thailand? That's not true! How can you believe that? Can't you see what they're doing? It's all a lie. We were in Da Nang, for God's sake. You've got to believe me.
+L315878 +++$+++ u1610 +++$+++ m106 +++$+++ GEARY +++$+++ It means that you and your buddies are whacko, that you were discharged on psychological grounds after some war games in Thailand.
+L315877 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What the hell is that supposed to mean?
+L315876 +++$+++ u1610 +++$+++ m106 +++$+++ GEARY +++$+++ I talked to the Army's Bureau of Records. You've never even been to Viet Nam.
+L315875 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Used you?
+L315874 +++$+++ u1610 +++$+++ m106 +++$+++ GEARY +++$+++ I'll tell you what's gotten into me. I don't know you from Adam, right? You come to my office with this bizarro story and demand I look into it. Okay. I said I'd check it out and I did. Now I don't know what kind of fool you take me for, but you have used and abused me, and I don't like it.
+L315873 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Something's going on here. You're not telling me something. What the hell's gotten into you?
+L315872 +++$+++ u1610 +++$+++ m106 +++$+++ GEARY +++$+++ You mind? I'm eating, huh?
+L315870 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ A doctor? And what's he gonna do, tell me I'm crazy? They've fucked with my head. I've got to prove it. You've got to do something.
+L315869 +++$+++ u1610 +++$+++ m106 +++$+++ GEARY +++$+++ You need ... a doctor.
+L315868 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Listen, will you listen? They're trying to get me. They're comin' out of the walls. The army's done something to me. I need you.
+L315866 +++$+++ u1610 +++$+++ m106 +++$+++ GEARY +++$+++ Nobody's been talking to nobody. You don't have a case, you hear me? It's pure and simple. Now leave me alone. Okay?
+L315865 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Who's been talking to you? The army? Have they been talking to you, huh?
+L315816 +++$+++ u1610 +++$+++ m106 +++$+++ GEARY +++$+++ Ah! Well then, they're going to have to pay for that, aren't they?
+L315815 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'm too messed up to teach.
+L315814 +++$+++ u1610 +++$+++ m106 +++$+++ GEARY +++$+++ Then why aren't you teaching? Why aren't you in a university?
+L315813 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I am.
+L315812 +++$+++ u1610 +++$+++ m106 +++$+++ GEARY +++$+++ Ah! I thought you were a mailman.
+L315811 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Doctor.  Ph.D.
+L315805 +++$+++ u1610 +++$+++ m106 +++$+++ GEARY +++$+++ Oh yeah? What am I - Perry Mason here?
+L315804 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Exactly. And we need someone to cut through it. We hear you're the man.
+L315803 +++$+++ u1610 +++$+++ m106 +++$+++ GEARY +++$+++ The army. The army. What is it with you guys? We're not talking about a trip to the library here. This is the United States Government for God's sake. This is red tape coming out of your ass. You know what I mean?
+L315802 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ This isn't injustice, Mr. Geary. The army did something to us and we've got to find out what.
+L315801 +++$+++ u1610 +++$+++ m106 +++$+++ GEARY +++$+++ I'm sorry, Mr. Singer, but do you have any idea how many people come to me with the injustices of the world? It'd break your heart.
+L315758 +++$+++ u1611 +++$+++ m106 +++$+++ GEORGE +++$+++ What else did he say, Jake?
+L315757 +++$+++ u1623 +++$+++ m106 +++$+++ ROD +++$+++ What'd he say that for? What made him say that? Strange, huh? Strange.
+L315747 +++$+++ u1623 +++$+++ m106 +++$+++ ROD +++$+++ That was set. I'm tellin' you.
+L315746 +++$+++ u1611 +++$+++ m106 +++$+++ GEORGE +++$+++ But the paper ...
+L315745 +++$+++ u1623 +++$+++ m106 +++$+++ ROD +++$+++ Cars don't explode that way. Any simpleton knows that.
+L315744 +++$+++ u1611 +++$+++ m106 +++$+++ GEORGE +++$+++ Why do you say that?
+L315743 +++$+++ u1623 +++$+++ m106 +++$+++ ROD +++$+++ Bullshit. Someone's covering somethin'. That was no accident.
+L315788 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I think something's fucking connect- ed. I mean, a car tried to run me over the other day. Doug too, right? We've got six guys here going fucking crazy.
+L315787 +++$+++ u1611 +++$+++ m106 +++$+++ GEORGE +++$+++ You think they're connected?
+L315764 +++$+++ u1611 +++$+++ m106 +++$+++ GEORGE +++$+++ Excuse me a minute. I'll be right back.
+L315763 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ No. Not really ...
+L315762 +++$+++ u1611 +++$+++ m106 +++$+++ GEORGE +++$+++ He say what they looked like?
+L315761 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ A couple of weeks, I think.
+L315760 +++$+++ u1611 +++$+++ m106 +++$+++ GEORGE +++$+++ How long had that been going on?
+L315759 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ He was scared. He saw these creatures coming out of the woodwork. They were tryin' to get him, he said.
+L315756 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ He told me he was going to Hell.
+L315755 +++$+++ u1611 +++$+++ m106 +++$+++ GEORGE +++$+++ What do you mean, demons?
+L315797 +++$+++ u1623 +++$+++ m106 +++$+++ ROD +++$+++ I say you should get a shrink.
+L315796 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ We should get ourselves a lawyer.
+L315795 +++$+++ u1623 +++$+++ m106 +++$+++ ROD +++$+++ Not my head, buddy. Not me. I'm gettin' a headache just listenin' to you.
+L315794 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Maybe that's the only way to get through. Besides, six heads'll be better than one.
+L315793 +++$+++ u1623 +++$+++ m106 +++$+++ ROD +++$+++ Come on, Professor. The army's not gonna give you any answers. You'll be buttin' your head against a stone wall.
+L315790 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Okay, not you Rod. But the rest of us are flipping out for some goddamn reason. They're tryin' to kill us. Fuck it man, we need to find out what's going on.
+L315789 +++$+++ u1623 +++$+++ m106 +++$+++ ROD +++$+++ Not me, buddy.
+L315784 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ An explosion, just like Paul's.
+L315783 +++$+++ u1623 +++$+++ m106 +++$+++ ROD +++$+++ Dr. Carlson's dead?
+L315780 +++$+++ u1623 +++$+++ m106 +++$+++ ROD +++$+++ Shit!
+L315779 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ ... I've seen them, too.
+L315778 +++$+++ u1623 +++$+++ m106 +++$+++ ROD +++$+++ It's not worth goin' over again and again. Whatever happened, happened. It's over.
+L315991 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Not tonight, Louis. No more rest.
+L315990 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ Jake, you need to rest.
+L315989 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'm walking, aren't I?
+L315988 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ What are you talking about? You can barely stand.
+L315987 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ There's something I've gotta take care of, Louis.
+L315986 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ What are you doing?
+L315984 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ You can do it. Come on. Easy. Just give it a try.
+L315983 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What? By myself?
+L315982 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ Perfect. We got it.  Okay. Let's just give it a little try. See if you can stand.
+L315978 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ You ever read Meister Eckart?  How did you ever get your Doctorate without reading Eckart?  Good. Okay, let's turn over gently. Right side.
+L315977 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I've seen it. It's all pain.
+L315976 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ Well, I'll see what I can do about it.
+L315975 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I was in Hell. I've been there. It's horrible. I don't want to die, Louis.
+L315974 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ From a slipped disc? That'd be a first.
+L315973 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Am I dead, Louis?  Am I dead?
+L315972 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ Half an hour from now and you'll be walking out of here all by yourself. Mark my words.  Well, you've done it to yourself this time, haven't you?
+L315442 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ I know.
+L315441 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Louis, you're a life saver.
+L315440 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ Yeah. You. Every time I see you. No more Errol Flynn, okay? Your back won't take it. You tell your girl friend to calm down if she knows what's good for you.
+L315439 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I don't know. I've been having them recently.  You know, you look like an angel, Louis, an overgrown cherub. Anyone ever tell you that?
+L315438 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ What?
+L315437 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I had this weird flash just then.
+L315436 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ I had to get in there. A deep adjustment. Rest a moment and let it set a bit.
+L315435 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ God almighty. What did you do to me?
+L315433 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ Wiggle your toes.
+L315432 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I can't relax.
+L315431 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ If it was any other brain but yours, I might agree. Relax, this is going to be strong.
+L315430 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What can I tell you, Louis? After Nam I didn't want to think anymore. I decided my brain was too small an organ to comprehend this chaos.
+L315429 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ Her problem is that you spent eight years getting a PhD and then went to work for the post office.
+L315428 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What? She threw me out, remember. She wanted some professor to carry her far away from Brooklyn. Only we didn't make it. She can't forgive me that she still lives in the same house she grew up in.
+L315427 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ You should go back to her.
+L315426 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ She hates me, Louis.
+L315425 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ Right. She doesn't stop talking about you. You're always on her mind. That's love, Jake.
+L315424 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Loves me!? She hasn't said a kind word about me in years!
+L315423 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ She didn't. That's about all she said. Put your hand up. Good. I think she still loves you. Take a breath and let it out.
+L315422 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I thought you said she didn't say much.
+L315421 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ She said you were a son of a bitch and she regrets the day she set eyes on you.
+L315420 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ She told you that?  Did she tell you about the $2,000 I'm still paying for the orthodontist? I'll bet she didn't mention that.
+L315419 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ She says she can't get them new coats because you haven't sent the alimony for three months.
+L315418 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ She talk about the boys?
+L315417 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ Ah, good. Now turn to your left.
+L315416 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ Not much. She's like you that way. Two clams. No wonder your marriage didn't last. Put your hand under your head. Take a breath and then let it out.
+L315415 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Sarah.
+L315414 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ Who?
+L315413 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I was absent the day they taught that in school. What did she say?
+L315412 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ Turn on your right side.  How about the other "right?"  I don't understand you philosphers. You've got the whole world figured out but you can't remember the difference between right and left.
+L315411 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What did she have to say?
+L315410 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ A bit.
+L315409 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Her knee acting up?
+L315408 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ I saw Sarah the other day.
+L315407 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What can I tell you?
+L315406 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ I know you. How come you're so tense today?
+L315405 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ How do you know?
+L315404 +++$+++ u1616 +++$+++ m106 +++$+++ LOUIS +++$+++ Come on, Jake. That didn't hurt.
+L316235 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ I'venever understood you, you know that? You were by far the best pupil I've ever had, bar none. Intellectu- ally, you were the most original, the most imaginative. Who knows, maybe you've been "elected" to see demons. Maybe you're in touch with ... some- thing. Nothing would surprise me about you Jacob. Nothing.
+L316234 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Hell, you think I am?
+L316233 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ Look. I don't pretend to know what's going on inside your head. For all I know it's pathological and they should be pumping Valium into your veins by the quart. But if you're not willing to accept the help of sci- ence; and believe me, I admire you for that: then you'll have to do bat- tle on your own. What can I say? It's a lonely pilgrimage through our times even for the strongest souls. But to be pursued by ... demons no less ... There are no guides, Jacob.  You wanna know what I'd do if I sud- denly started seeing demons? I'd hail the first taxi that came along, shoot over to Bellvue and beg them for shock treatment. I'm no saint.
+L316232 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ But I see them.
+L316231 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ Jacob, I don't believe in demons, not in the empirical sense. I don't be- lieve in devils fighting for our souls. I don't believe in enternal damnation. I don't believe in other- worldly creatures tormenting us. We don't need them. We do a good enough job on ourselves.
+L316230 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'm afraid, Prof. Nothing makes sense.  Please help me.
+L316229 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ Demons? I don't know what to tell you. It sounds like a spiritual mat- ter to me. The problem, Jacob, is that you have no context for it. You're a renegade Existentialist suf- fering demons a hundred years after Freud. How the hell am I supposed to make it fit?
+L316228 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I need your insight, your intuition.
+L316227 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ I don't know what to say.
+L316226 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Yes.  I don't want them. I'm not looking for analysis or drugs. It's too easy to dismiss as some kind of psychosis.  It's more than that. I can feel it. I need you Prof. You're the only one I can talk to.
+L316225 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ Have you considered a doctor? A psy- chiatrist?
+L316224 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Christ, I know how it sounds.
+L316223 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I see them, Prof. Everywhere. They're invading my life.
+L316222 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ I know very little about demons, Ja- cob, fleshy ones anyway. I know them as literary figures, biblical ones ... Dante, Milton ... but Jacob,  this is the 20th Century. We don't see demons now.
+L316221 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Yes.
+L316220 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ See them?  What do you mean? Physically?
+L316219 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ No.  I see them.
+L316218 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ Demons, Jacob? Why demons? Are you writing ... ?
+L316217 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I've got a problem, Prof. More Augus- tine than Kierkegaard, if you know what I mean.  I need to know about ... demons.
+L316216 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ Well, try not to get burned. You have a great mind, Jacob. Don't let anyone tempt you away from it.
+L316215 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I doubt it's my mind that interests her. I tell you Prof, she's a fiery lady.
+L316214 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ Jacob, if it was any other brain but yours, I might agree.  Tell me, does your lady friend know what a brilliant thinker, what a sub- lime intellect she's living with?
+L316213 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Oh, that goes way back. They had a hiring freeze, one of those last min- ute things. Bad timing for me though. Middle of the war. The draft.  I'll tell you Prof, after Viet Nam ... I didn't want to think anymore. I decided my brain was just too small an organ to comprehend this chaos.
+L316212 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ Last I heard you were offered a posi- tion in the West somewhere. Tuscon was it?
+L316211 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Oh, you'd be surprised. They just don't have their doctorates, that's all.
+L316210 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ Hmm. I don't suppose there are too many philosophers in the post office?
+L316209 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'm with another woman now. We're both with the post office, Midtown, 34th Street branch.
+L316208 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ Ah!
+L316207 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I haven't seen her in months.
+L316206 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ And how is your wife? Sarah, no?
+L316205 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ Likewise.
+L316204 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ It's good to see you.
+L316203 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ Ah. Neither snow nor sleet, nor dark of night ... I always admired that.
+L316202 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ The postal service. I'm a mailman.
+L316201 +++$+++ u1625 +++$+++ m106 +++$+++ STERN +++$+++ Are you in the service?
+L315483 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Goddamn it! I don't want a social worker. Carlson knows me.
+L315482 +++$+++ u1621 +++$+++ m106 +++$+++ RECEPTIONIST +++$+++ If this is an emergency we have a staff of psychiatric social workers. There's about an hour's wait. I'll be glad to take your name. Why don't you just fill out this form?
+L315481 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ That's ridiculous. I've been coming here for years. Listen to me. I'm going out of my fucking mind here. I need to see him.
+L315480 +++$+++ u1621 +++$+++ m106 +++$+++ RECEPTIONIST +++$+++ You want me to spell it out? There's nothing here.
+L315479 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Whataya mean, no record?
+L315478 +++$+++ u1621 +++$+++ m106 +++$+++ RECEPTIONIST +++$+++ I'm sorry but there's no record of a Jacob Singer in our files.
+L315477 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Jacob Singer.
+L315476 +++$+++ u1621 +++$+++ m106 +++$+++ RECEPTIONIST +++$+++ What's your name?
+L315475 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Damn it. I was in the veteran's out- patient program. He knows me.
+L315474 +++$+++ u1621 +++$+++ m106 +++$+++ RECEPTIONIST +++$+++ Our doctors are seen by appointment only.
+L315473 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Look, I need to see him. I know where his room is. Just give me a pass. I won't be long. Ten minutes.
+L315472 +++$+++ u1621 +++$+++ m106 +++$+++ RECEPTIONIST +++$+++ Not according to my charts. Do you have an appointment?
+L315471 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ New? He's been here for years.
+L315470 +++$+++ u1621 +++$+++ m106 +++$+++ RECEPTIONIST +++$+++ Carlson? Is he new here?
+L315469 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'd like to speak to Dr. Carlson, please.
+L315946 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Save me!
+L315945 +++$+++ u1624 +++$+++ m106 +++$+++ SARAH +++$+++ Jacob, what can I do?
+L315939 +++$+++ u1624 +++$+++ m106 +++$+++ SARAH +++$+++ No. Of course you're not. You've just hurt your back. That's all. You're going to be fine. It'll just take some time.
+L315938 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'm not dead. I am not dead.
+L315623 +++$+++ u1624 +++$+++ m106 +++$+++ SARAH +++$+++ I thought you said it was a nightmare?
+L315622 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ She had these real beefy thighs. Delicious.
+L315621 +++$+++ u1624 +++$+++ m106 +++$+++ SARAH +++$+++ Go to sleep.
+L315620 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ She was good in bed, though.
+L315619 +++$+++ u1624 +++$+++ m106 +++$+++ SARAH +++$+++ Guilty thoughts. See what happens when you cheat on me, even in your mind?
+L315618 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Jezebel, from the post office. You remember, you met her that time at the Christmas party. I was living with her. God, it was a nightmare. There were all these demons and I was on fire. Only I was burning from ice.
+L315617 +++$+++ u1624 +++$+++ m106 +++$+++ SARAH +++$+++ I don't want to know.
+L315616 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What a dream I was having. I was living with another woman ... You know who it was?
+L315615 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ This is healthy? I'll probably die of pneumonia tomorrow and this is healthy.
+L315614 +++$+++ u1624 +++$+++ m106 +++$+++ SARAH +++$+++ It's not healthy with it closed.
+L315613 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Of course not. You have all the blankets. It must be ten degrees in here. I'm telling you, Sarah, if you want to sleep with fresh air, you sleep on the fire escape. From now on that window is closed.
+L315612 +++$+++ u1624 +++$+++ m106 +++$+++ SARAH +++$+++ I'm not cold.
+L315611 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ It's freezing.
+L315610 +++$+++ u1624 +++$+++ m106 +++$+++ SARAH +++$+++ What was that?
+L315909 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Goddamn it. I want Louis.
+L315908 +++$+++ u1622 +++$+++ m106 +++$+++ RESIDENT +++$+++ I don't have to ask if you can feel that.
+L315907 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ No. Don't move me.
+L315906 +++$+++ u1622 +++$+++ m106 +++$+++ RESIDENT +++$+++ I'm going to have to move you a bit, just to check for injuries. This may hurt a little.
+L315901 +++$+++ u1622 +++$+++ m106 +++$+++ RESIDENT +++$+++ We better get an orthopedic man in here. Is Dr. Davis on call?
+L315900 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I don't know. Santa Claus. I had my son's picture in it. Gabe's picture. It's the only one I had.
+L315899 +++$+++ u1622 +++$+++ m106 +++$+++ RESIDENT +++$+++ Who did?
+L315898 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ They stole it.
+L315894 +++$+++ u1622 +++$+++ m106 +++$+++ RESIDENT +++$+++ Your back? Did you fall?
+L315893 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ My back. I can't move. I need my chiropractor.
+L316327 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ You know who I am.
+L316326 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ TELL ME, DAMN YOU!
+L316325 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ How many times have you asked me that? How many times?
+L316324 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ WHO ARE YOU?
+L316322 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ I loved your chemist, Jake. The height of fantasy. And your vision of paradise.  A most romantic creation. You're quite a dreamer, Jake. Only it's time to wake up.
+L316321 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Goddamn you!
+L316320 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ What's wrong, Jake?  Forget to take your antidote?
+L316319 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Oh God!
+L316318 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Your capacity for self-delusion is remarkable, Dr. Singer.
+L316317 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ This isn't happening.
+L316315 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Wake up! Stop playing with yourself. It's finished.
+L316314 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Where have they gone?
+L316313 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ It's over, Jake. It's all over.
+L316312 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ No! What's going on? Where's my family?
+L316311 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Sit down!
+L316310 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Where are they?
+L316309 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Sit down, Jake.
+L316308 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Where's Sarah? Where are the boys?
+L316300 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Don't play games with me. There's nothing more to say.
+L316299 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Do what? I haven't done a thing.
+L316298 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Stop it, Jez. Don't do that.
+L316297 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ I always liked the West, west of Il- linois anyway. But you gotta give me time to pack.
+L316296 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Don't be funny.
+L316295 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Where's West? New Jersey?
+L316294 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ West.
+L316293 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Oh?  Where you going?
+L316292 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I picked up my ticket.  I'm leaving in the morning, Jez.
+L316291 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Oh yeah? What was happenin' there?
+L316290 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Mid-town mostly.
+L316289 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ I'm not bugging you. Come and lie down. I'll give you a massage.  Where'd you go today?
+L316288 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Then don't bug me.
+L316287 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ You can have anything you want.
+L316286 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Shit! Can't I just have a bad day?
+L316285 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Look at yourself. You look like you've seen a ghost.
+L316284 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Goddamn it. Why do you say that?
+L316283 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ You look terrible. What happened?  Jake ... is it the antidote?
+L316282 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'm tired.
+L316281 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Jake, what is it?
+L316280 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'm not upset.
+L316279 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ You look upset.
+L316278 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'm okay. I just don't want to lis- ten.
+L316277 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ What'd you do that for? It's an in- teresting story. All these people are still disappearing. Right off the street.  Hey, what's wrong? Are you all right?
+L316272 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ You son-of-a-bitch. Who do you think you are? I don't deserve this. Who takes care of you day and night? Who cleans the floor and washes your goddamn underwear? Well, I've had it. You flip out on your own, you ungrateful bastard. I'm done holding your hand. I don't want anything to do with you, you hear? Nothing!
+L316271 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Well leave then. Go to Hell.
+L316270 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ You're out of your fucking mind. I'm not gonna stand around here gettin' interrogated by you.
+L316269 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ You know goddamn well what I mean.
+L316268 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ What do you want me to say? My mother's tummy?
+L316267 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ That doesn't mean shit. Where do you come from, huh? And I don't mean Indiana.
+L316266 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ You've lived with me for two years.
+L316265 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I don't know you.
+L316264 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Cause you know goddamn well who I am.
+L316263 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Why won't you answer me?
+L316256 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Hold me, Jezzie. Hold me.
+L316255 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ It's going to be all right, Jake. It's going to be all right. Don't be afraid. I've got you now.
+L316251 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ With wings.  You transport me, you know that? You carry me away.
+L316250 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ So tell me ... am I still an angel?
+L316179 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ YOU KNOW WHO I AM.
+L316178 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ TELL ME, DAMN YOU!
+L316177 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ How many times have you asked me that? How many times?
+L316176 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ WHO ARE YOU?
+L316172 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ You have quite a mind, Jake. I loved your friends. That chemist - the Ladder. What an imagination you have!
+L316171 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Who are you? What are you doing to me?
+L316170 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ What's wrong, Jake?  Forget to take your antidote?
+L316169 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Your capacity for self-delusion is remarkable, Dr. Singer.
+L316168 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What's going on?
+L316167 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Wake up. Stop playing with yourself. It's finished.
+L316166 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Where have they gone?
+L316165 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ It's over, Jake. It's all over.
+L316164 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ No! What's going on? Where's my family?
+L316163 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Sit down.
+L316162 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Where are they?
+L316161 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Sit down, Jake.
+L316160 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What're you ... ? Where's Sarah? Where are the boys?
+L316132 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Oh yeah?  Try leavin' without me.
+L316131 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I love you when you're angry.
+L316130 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Reasonable? Reasonable? Jake ... You're gettin' me angry.
+L316129 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ No. I'm a marked man, Jez. I'm the only one left. I don't want to expose you to that. It's not right for you or me. Be reasonable.
+L316128 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Please.
+L316127 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I promise.
+L316126 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Bullshit!
+L316125 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ No. Things are too hot. Later. I'll send for you.
+L316124 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ I can waitress. I'm good.
+L316123 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ It's not practical, Jez. It'll be hard enough alone.
+L316122 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ I want to go with you, Jake. Wherever you go.
+L316121 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Stick with me, kid.
+L316120 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ This is one of my dreams, Jake. Ever since I was a little girl. I never thought it would happen.
+L316117 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ It's so hard to believe.
+L316116 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I tell you, it was so wonderful. I felt like a little boy. I saw Paradise, Jezzie.
+L316115 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ It's amazing, you know, that a drug could change things like that, destroy a life and then give it back. It's hard to believe that the world could be so hellish on day and like heaven the next.
+L316114 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ What's gotten into you?
+L316113 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Me neither.
+L316112 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ God, I can't keep up with all your changes.
+L316111 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Yep. Finally. I love you, Jez.
+L316110 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Are you out of your mind?
+L316109 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'm gonna make love to you. That's what I'm gonna do.
+L316108 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ What are you doing here? Are you all right? How do you expect to pay for this?  Everyone's looking for you, Jake. I dodged people all over the place, reporters, police. I don't know what you're gonna do.
+L316033 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ How do you know he's telling the truth?
+L316032 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I have no idea.  I was right. There were experiments. I knew it. I knew it. My God.
+L316031 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ How?
+L316030 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ A chemist. Part of a chemical warfare unit out of Saigon. He said he knows me and that I'll know him when I see him.
+L316029 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Who was that?
+L316027 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Hello ... No. He's not here. I haven't seen him all night ... I don't know when ... What? Tell him what?  Vietnam? ... What experiments?
+L316026 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'm not here. You haven't seen me.
+L316025 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ It might be for me.
+L316024 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Don't!
+L316023 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I can do anything I want.
+L316022 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Why are you doing this to me? You can't just go away like that.
+L316021 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ You wanna know? Turn on the T.V. Watch the fucking news!
+L316020 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ I want to know. You tell me!
+L316019 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Stay away from me, Jez.
+L316018 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Where were you, Jake? Where've you been? Why haven't you called?
+L316017 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Let go!
+L316016 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Who else were you expecting?
+L316015 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Jezzie?
+L316014 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ It's just me.
+L315837 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Baby, I'm sorry. I feel terrible. I'd stay and talk but I'm so late. Look, don't be upset. We'll talk when I get home. See you around midnight.  Bye. And don't brood. Watch T.V. or something.
+L315836 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I don't believe this.
+L315835 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ I don't know. That's all he said. He wasn't very friendly. Oh, yeah. He said your buddies backed down. They chickened out, he said.
+L315834 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What's he talking about?
+L315833 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ He said you didn't have one.
+L315832 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What? What do you mean?
+L315831 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ He didn't give me a chance.  Look, honey, don't get upset, but he's not taking your case.
+L315830 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Why didn't you call me?
+L315829 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ While you were in the shower.
+L315828 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ He did? When?
+L315827 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ I put a frozen dinner in the oven, a Manhandler. It'll be ready at a quarter of. I threw a little salad together. It's in the fridge. I also bought some apple juice, Red Cheek. Don't drink it all. Oh, and Jake, your lawyer called.
+L315826 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ In a way. At least now I have some idea of what was happening. If we can only get them to admit ... to explain what they did ... I don't know. Maybe it'd clear things up in my head. I'll tell you something, Jez, honestly ... I thought they were real.
+L315825 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ How come? The army?
+L315824 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ You know what? I feel ... exorcised ... like the demons are gone.
+L315823 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Remember that.
+L315822 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Underneath all the bullshit, just love.
+L315821 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ I know.
+L315820 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I love you, Jez.
+L315819 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ We're all angels, you know ...  ... and devils. It's just what you choose to see.
+L315818 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ With wings. You transport me, you know that? You carry me away.
+L315817 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ So tell me ... am I still an angel?
+L315664 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ You are the most unbelievable woman I have ever met. One second you're a screaming banshee and the next you're Florence Nightingale. Who are you? That's what I want to know. Will the real Jezzie Pipkin please stand up.
+L315663 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Look, I'm horny. Keep it in mind.  Love me a little?
+L315660 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What?
+L315659 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ You know, you really ought to get out today. You can't just sit around like this all the time. It's not healthy. It's not good for your mind. Go take a walk, or somethin'. Go to a movie. Christ, who's gonna know? You think I care? I don't give a shit. Go. Enjoy yourself. One of us should be having a good time.  Hello! Anybody home?  Anybody in there?
+L315658 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ You're right here, Jake. You just rest.  The doctor said you had a virus. That's what they say when they don't know what it is. You can't do anything for a week. He says you gotta recuperate.  Now you just lie here. Mrs. Sandelman made you some chicken soup. It'll warm you up.
+L315657 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Are we in Brooklyn?
+L315656 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ You're here. Home. The doctor said you're lucky your brains didn't boil.  What a night, Jake. It was crazy. You kept sayin' "Sarah, close the window," over and over. And talkin' to your kids. Even the dead one. Weird. You know you melted 200 pounds of ice in 8 hours. Amazing, huh?
+L315655 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Am I home?
+L315654 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Jake.  You're gonna be all right, Jake. You're gonna be fine.
+L315596 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Here. I'll do it.
+L315595 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Help me! Help me!
+L315585 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Hey, I'm not dressed.
+L315584 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Sam, Tony, come in here.
+L315583 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Jezzie! My feet are throbbing!
+L315582 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Lie down!
+L315581 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Don't gimme that.
+L315580 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ What kind of man are you?
+L315579 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I can't do it.
+L315577 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ You're red hot, damn it. Get in there. I've got to get more ice.
+L315576 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Look at me. I'm ice cold.
+L315575 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ That's your decision.
+L315574 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ You're out of your mind. I'm not getting in there. I'd rather die.
+L315573 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Goddamn it. Get in here. I can't stand around waiting.
+L315572 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Coming here?
+L315571 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ He's coming right over.
+L315570 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ That you'd die on the way to the hospital. Now get into that tub.
+L315569 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What'd the doctor say?
+L315568 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Get your clothes off!
+L315567 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What are you talking about? I'm freezing.
+L315566 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Get your clothes off.
+L315565 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What the hell are you doin'?
+L315564 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ The numbers stop at 107.
+L315563 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ How high is that?
+L315562 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ It's gone to the top.
+L315561 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What does it say?
+L315560 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ I don't believe this. I'm calling the doctor.
+L315559 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What's it say? A hundred and two?
+L315550 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ If I could stop it, I'd stop it.
+L315549 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Can't you stop it?
+L315537 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Hey, I'm here.
+L315536 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Show me Della!
+L315535 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Why? What for?
+L315534 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Where's Della? Bring her here?
+L315533 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ What do you mean? Where do you think?
+L315532 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Where?
+L315531 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ We're at Della's.
+L315530 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Where are we?
+L315529 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Oh, come on. It's early.
+L315528 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I wanna leave. Get me out of here.
+L315527 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ You okay?
+L315461 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Come on. What were they, Jake?
+L315460 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ They weren't human!
+L315459 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Kids on a joy ride. Happens all the time.
+L315458 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Those guys tried to kill me tonight. They were aiming right at me.
+L315457 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Demons, Jake? Come on. They're winos and bag ladies. Low life. That's all they are. The streets are crawling with 'em. Don't make em into somethin' they're not.  It's the pressure, honey. That's all it is.
+L315456 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ They're like demons, Jez.
+L315455 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ New York is filled with creatures. Everywhere. And lots of stations are closed.
+L315454 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What does that have to do with anything? Does it explain the barricaded subway stations? Does it explain those Godforsaken creatures?
+L315453 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ It's still there, Jake.  Even if you never say a word about it. You can't spend two years in Vietnam ...
+L315451 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ It has nothin' to do with talkin'.
+L315450 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ When was the last time I said a word?
+L315449 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ 'Cause she's always on your mind.
+L315448 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Why do you bring her up?
+L315447 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Maybe it's all the pressure, Jake. The money. Things like that. Or your wife.
+L315402 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ I enjoy crushing into you.
+L315401 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'll be glad to avoid the crush.
+L315400 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Well, I'll miss riding home with you. I was looking forward to it.
+L315399 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Now? What about the boss? He's not gonna like it.
+L315398 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I don't know. One of these days, I'm gonna see Louis. My back's killing me.
+L315397 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ What's wrong?
+L315396 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'm going home.
+L315395 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ How's it going?
+L315394 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Jake!
+L315374 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Just gettin' rid of the garbage.
+L315373 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Ready?
+L315370 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I just want to look ...
+L315369 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ I don't like things that make you cry.
+L315368 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Wait. Don't.
+L315366 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Gabe.
+L315365 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Is that the one who died?
+L315363 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Well, you didn't marry her.
+L315362 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Not to me.
+L315361 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ She looked good then.
+L315360 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Look at her face. A real bitch.
+L315359 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What do you mean you can see?
+L315358 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Why you left.
+L315357 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What?
+L315356 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ That's Sarah?  I can see what you mean.
+L315355 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Here. Look. This is me and Sarah when I was still at City College.
+L315354 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Lemme see.
+L315353 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Look at these, will ya? I don't believe it. Jesus, these are fantastic. Look, here's my Dad ... And here's my brother, when we were down in Florida.
+L315352 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Pictures. Your wife was gonna toss 'em so "what's his name" brought 'em over on his way to school.
+L315351 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What's in here?
+L315350 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Jake, you are never out of your head!
+L315349 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I must have been out of my head.
+L315348 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ The best.
+L315347 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ And look what I got.
+L315346 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ A good lay.
+L315345 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Yeah, but for what?
+L315344 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ You sold your soul, remember? That's what you told me.
+L315343 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ You're a real heathen, you know that, Jezzie? Jesus, how did I ever get involved with such a ninny?
+L315342 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ I don't let anybody call me that.
+L315341 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ And where do you think Jezebel comes from?
+L315340 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Well, personally, I never went for church names.
+L315339 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ They're Biblical. They were prophets.
+L315338 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ They're weird names.
+L315337 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Eli. Why can't you remember their names?
+L315336 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ No. The little one.
+L315335 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Who? Jed?
+L315334 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Your kid dropped it off.
+L315333 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Thanks.  What's that?
+L315332 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Maybe you left 'em in the bathroom.
+L315331 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Jezzie, I can't see.
+L315330 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Did you look around the headboard?
+L315329 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I don't know.
+L315328 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Where'd you leave 'em?
+L315327 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ No. Have you seen my glasses?
+L315326 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ You up?
+L315324 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Don't ask.
+L315323 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ What happened to you?
+L315322 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Roberts didn't show up. What could I say? Besides, it's double time.
+L315321 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ It is tomorrow. Four A.M. How come you're so late?
+L315320 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Oh God, Jezzie, ask me tomorrow.
+L315319 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ The room!
+L315318 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What do you mean?
+L315317 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ What do you think?
+L315316 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Thanks.
+L315315 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ That help?
+L315314 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Where to?
+L315313 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ I moved the couch. That's all.
+L315312 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ If I knew I wouldn't have to ask. What did you do? I was happy the way it was.
+L315311 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Where are you?
+L315310 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Where is the lamp?
+L315309 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Gee, thanks a lot.
+L315308 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I didn't want to wake you.
+L315307 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Why didn't you turn on the light?
+L315306 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What the hell did you do, move all the furniture?
+L315305 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Jake, is that you?
+L316107 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Save the words ... Just send back my credit card.
+L316106 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I don't know what to say.
+L316105 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ What? You want the Plaza? Don't be foolish. Here. Take this, too.  This is my place on Prince Street. It's got my phone, everything. Call if you need me ... but you won't. Everything's gonna work out. You just get outta town as fast as you can. The New York police can be effective when they want to be.
+L316104 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ No. I couldn't.
+L316103 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Here. I've got every credit card ever printed. Take this. Stay here till you can arrange to get away. It's on me.
+L316101 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ I'm sure. You've got nothing but troubles waitin' for you here.
+L316100 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I would have stayed there if I could.
+L316099 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Glorious. I'm not surprised. I fed you enough of that stuff to send a horse to heaven. I'm just glad you came back.
+L316098 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Mike, it was real. It was glorious.
+L316097 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Well that's good to know.
+L316096 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ It was paradise, Michael. You showed it to me. You were there.
+L316095 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Better living through chemistry, that's my motto.
+L316094 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I don't believe this. It's a miracle, Michael. A miracle.
+L316093 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ And no more demons. I told you they'd be gone.
+L316087 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What's happening? Help me.
+L316086 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Just relax.
+L316085 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I can't move.
+L316084 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Pleasant dreams.
+L316083 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I think I'm falling asleep.
+L316082 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ It's strong stuff.
+L316081 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ One drop?
+L316080 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ "Yea though I walk through the valley of the shadow of death I shall fear no evil," but no one ever said I wouldn't be shittin' in my pants every step of the way, huh?  Stick out your tongue.  That'a boy. Now why don't you just lie down and relax.
+L316079 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I don't know.
+L316078 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Don't worry. Take it. It'll free your head. Come on.
+L316077 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What is it?
+L316076 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ I'd hoped I'd never have to. Just open your mouth and stick out your tongue.
+L316075 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Never?
+L316074 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ I came up with the formula back in Nam but I never got a chance to use it.
+L316073 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Hey, I'm not the problem. You've got bigger problems than me.
+L316072 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ How do I know this isn't just some kind of, you know, seduction or something?
+L316071 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Sometimes. When it's convenient.
+L316070 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ You come here often?
+L316069 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Because I can get rid of the demons. I can block the Ladder. I have an antidote. We can kill them off, chemically speaking. They'll all disappear. It's chemistry, my friend. I know. I created it. Come with me. I can help.
+L316068 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ So why tell me now?
+L316067 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ The truth can kill, my friend. Five hundred men died out there. This isn't a story they'd ever want out. When Paul's car blew up I realized the scope of the thing. I knew they meant business.
+L316066 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ If you knew, why didn't you say anything?
+L316065 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ I always suspected the effects might come back. That's why I had to follow you. I had a hell of a time getting hold of your records.
+L316061 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Who then?
+L316060 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Yeah. But not with the Cong.
+L316059 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ But there was an attack. I can still see them coming. There was a fight, wasn't there?
+L316058 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ A couple of days later. It was fierce. You guys never saw it.
+L316057 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ None of us can remember that night. I get flashes of it but they don't make sense. We saw shrinks for years. But nothing they did could ever touch it. What happened? Was there ever an offensive?
+L316055 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ A couple days later they decided to use the Ladder, on one test battalion. Yours. Just in an infintessimal dose in the food supply, to prove its effectiveness in the field. They were sure your unit would have the highest kill ratio in the whole goddamn offensive. And you did, too. But not the way they tnought.
+L316054 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Like it was yesterday.
+L316053 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Anyway, this big offensive was coming up. Everyone knew it; Time Magazine, Huntley-Brinkley. And the brass was scared 'cause they knew we couldn't win. Morale was down. It was gettin' ugly in the States. Hell, you remember.
+L316051 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ That's what they called it. A fast trip right down the ladder.  Right to the primal fear, the base anger. I'm tellin' you, it was powerful stuff. But I don't need to tell you. You know.
+L316050 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ The Ladder?
+L316049 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Right. They were worried. They figured you guys were too soft. They wanted something to stir you up, tap into your anger, you know? And we did it. The most powerful thing I ever saw. Even a bad trip, and I had my share, never compared to the fury of the Ladder.
+L316048 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Yeah, sure. We were losing the war.
+L316047 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ No shit. They had me by the balls. Next thing I know I'm in Saigon ... in a secret lab synthesizing mind- altering drugs. Not the street stuff mind you. They had us isolating special properties. The dark side, you know? They wanted a drug that increased aggressive tendencies.
+L316046 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Shows how much you knew.
+L316045 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Next thing I know I'm on Rikers Island. Ever been there?  Suddenly they take me from my cell to the visitors room with those bank teller windows, you know. Four army colonels, medals up their asses, are standing on the other side. They tell me if I'll come to Vietnam for two years, no action, mind you, just work in a lab, they'll drop all the charges and wipe the record clean. Well, I'd only been in jail for thirteen hours and I already knew that Nam couldn't be any worse.
+L316044 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Long time ago.
+L316043 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ So first I'm arrested, right? Best LSD I ever made, right down the drain. I figure this is it, twenty years in the joint, if I'm lucky. That was '68.
+L316041 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Observation, mainly. Clinical study. You were one of the survivors.
+L316040 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I don't get it. Who are you? Why have you been following me?
+L316039 +++$+++ u1617 +++$+++ m106 +++$+++ MICHAEL +++$+++ Surprised, huh? I told you you'd know me. I've been tracking you for a long time. I just wish I'd spoken to you before tonight.
+L315386 +++$+++ u1627 +++$+++ m106 +++$+++ WOMAN +++$+++ If you're lucky.
+L315385 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ No. I'll take the other one.  Right. Well it's good to have you back. See you tomorrow, probably.
+L315384 +++$+++ u1627 +++$+++ m106 +++$+++ WOMAN +++$+++ Tan? What tan? It faded on the airplane. I'd try to get my money back, but who do you ask?  Two hundred dollars a night, for what?
+L315383 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ You got a nice tan, though.
+L315382 +++$+++ u1627 +++$+++ m106 +++$+++ WOMAN +++$+++ Hot. Where do I sign?
+L315381 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ How was Palm Springs?
+L315380 +++$+++ u1627 +++$+++ m106 +++$+++ WOMAN +++$+++ That's what I'd like to know. If you see him on the street somewhere, tell him he's fired.
+L315379 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Where's Wong?
+L315378 +++$+++ u1627 +++$+++ m106 +++$+++ WOMAN +++$+++ I know. That's why I'm asking.
+L315377 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ They're awfully heavy.
+L315376 +++$+++ u1627 +++$+++ m106 +++$+++ WOMAN +++$+++ How 'bout over there?  No wait. Do me a favor. Bring 'em to the back room.
+L315298 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Yeah, you and everyone else.
+L315297 +++$+++ u1627 +++$+++ m106 +++$+++ WOMAN +++$+++ I no from around here.
+L315296 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Excuse me, do you know if we've passed Nostrand Avenue yet?  Excuse me.  Look, I'm asking a simple question. Have we hit Nostrand Avenue? I fell asleep.
+L316241 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Help me!
+L316240 +++$+++ u1626 +++$+++ m106 +++$+++ VOICE +++$+++ Push 'em back.
+L316239 +++$+++ u1626 +++$+++ m106 +++$+++ VOICE +++$+++ That's some gash. His guts keep spilling out.
+L316238 +++$+++ u1626 +++$+++ m106 +++$+++ VOICE +++$+++ He'll never make it.
+L316237 +++$+++ u1626 +++$+++ m106 +++$+++ VOICE +++$+++ Total delirium.
+L316236 +++$+++ u1626 +++$+++ m106 +++$+++ VOICE +++$+++ He's burning up.
+L316139 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What?!
+L316138 +++$+++ u1626 +++$+++ m106 +++$+++ VOICE +++$+++ Dream on!
+L316009 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What is wrong with you?
+L316008 +++$+++ u1626 +++$+++ m106 +++$+++ VOICE +++$+++ Clear the area. This is an order!
+L316001 +++$+++ u1626 +++$+++ m106 +++$+++ VOICE +++$+++ We're not going to hurt you.
+L316000 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ You come near me and I'll blow us all up.
+L315999 +++$+++ u1626 +++$+++ m106 +++$+++ VOICE +++$+++ Please come quietly.
+L315998 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ For what? For seeking the truth?
+L315997 +++$+++ u1626 +++$+++ m106 +++$+++ VOICE +++$+++ Throw that torch away, young man. Give yourself up. You're under arrest.
+L315523 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Help me!
+L315522 +++$+++ u1626 +++$+++ m106 +++$+++ VOICE +++$+++ Push 'em back.
+L315521 +++$+++ u1626 +++$+++ m106 +++$+++ VOICE +++$+++ That's some gash. His guts keep spilling out.
+L315520 +++$+++ u1626 +++$+++ m106 +++$+++ VOICE +++$+++ Total delirium.
+L315519 +++$+++ u1626 +++$+++ m106 +++$+++ VOICE +++$+++ He's burning up.
+L315958 +++$+++ u1619 +++$+++ m106 +++$+++ NURSE +++$+++ Of course it is. What else could it be?
+L315957 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ This is not a dream! This is my life.
+L315956 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Last night! They were as real as you are!
+L315955 +++$+++ u1619 +++$+++ m106 +++$+++ NURSE +++$+++ I'm sorry.
+L315954 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ That's a lie. My family was here.
+L315953 +++$+++ u1619 +++$+++ m106 +++$+++ NURSE +++$+++ No. No. You haven't had any visitors.
+L315952 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Where's Sarah? Where did she go?  She was here ...
+L315951 +++$+++ u1619 +++$+++ m106 +++$+++ NURSE +++$+++ You look awake to me. Here.  Drink some of this.
+L315950 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'm awake?
+L315949 +++$+++ u1619 +++$+++ m106 +++$+++ NURSE +++$+++ Lennox Hospital.
+L315948 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Where am I?
+L315947 +++$+++ u1619 +++$+++ m106 +++$+++ NURSE +++$+++ Well, don't we look better this morning? That was a hard night, wasn't it?
+L315905 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Louis Schwartz. Nostrand Avenue.
+L315904 +++$+++ u1619 +++$+++ m106 +++$+++ NURSE +++$+++ We're doing everything we can.
+L315903 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Call my chiropractor.
+L315902 +++$+++ u1619 +++$+++ m106 +++$+++ NURSE +++$+++ I'll page him.
+L315732 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Are you kidding? We've put up more of her cousins. You wouldn't believe how they breed down there.
+L315731 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ What about your girlfriend? You don't think she'll mind?
+L315730 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ You come home with me.
+L315729 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ I'm afraid to go by myself anymore. I keep thinkin' one of 'em's gonna come up behind me. Somethin's wrong when a guy can't even take a leak by himself. I've seen 'em take people right off the street. I used to go home a different way every night. Now I can't even go home.
+L315728 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ They're monsters, Jake. We're both seein' 'em. There's gotta be a connection. Something.
+L315727 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I don't know. I don't know.
+L315726 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ She said I haven't been the same since then. Since that night. There's still this big hole in my brain. It's so dark in there, Jake. And these creatures. It's like they're crawling out of my brain. What happened that night? Why won't they tell us?
+L315725 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ The army?
+L315724 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ They keep telling me I'm already dead, that they're gonna tear me apart, piece by piece, and throw me into the fire.  I carry these everywhere but they don't help. Nothing helps. Everyone thinks I'm crazy. My mother filed a report with the army.
+L315723 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What is it Paul? What's happening to me?
+L315722 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ Oh God. I know. I know.
+L315721 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Me, too. I had no idea. It's like I was coming apart at the seams.
+L315720 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ God almighty. I thought I was the only one.
+L315719 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Everywhere, like a plague.
+L315718 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ You've seen them?
+L315717 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I've seen them too ... the demons!
+L315716 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ What do you mean?
+L315715 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Don't do anything.  Paul, I know what you're talking about.
+L315714 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ I don't know what to do.
+L315713 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ It's okay, Paul. It's okay.
+L315711 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ They're waitin' for me, that's why.
+L315710 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Why not?
+L315709 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ I don't know who they are, or what they are. But they're gonna get me and I'm scared, Jake. I'm so scared I can't do anything. I can't go to my sisters. I can't even go home.
+L315708 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Who, Paul? What exactly ... ?
+L315707 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ Sorry. Sometimes I think I'm just gonna jump outta my skin. They're just drivin' me wild.
+L315706 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ They've been followin' me. They're comin' outta the walls. I don't trust anyone. I'm not even sure I trust you. But I gotta talk to someone. I'm gonna fly outta my fuckin' mind.
+L315705 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Who is?
+L315704 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ That's as straight as I can put it. And don't tell me that I'm crazy 'cause I know I'm not. I'm goin' to Hell. They're comin' after me.
+L315701 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ Yeah.
+L315700 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ You in trouble?
+L315699 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ I don't know.
+L315698 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What's goin' on Paul?
+L315697 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ Pull the mirror down on the sun visor.  Just watch 'em.
+L315696 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ That black car?
+L315695 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ Let's get a couple drinks, okay?  Hey, take a look behind us. Do you think that car is followin' us?
+L315694 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ What's wrong?
+L315693 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ I'm not sure where I can talk anymore.
+L315692 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ You can't talk in Brownsville?
+L315691 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ I just need to talk.
+L315690 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Why the hell we drivin' here?
+L315689 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ You and everybody else. God I hate this area. Makes me nervous.
+L315688 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Nope.
+L315687 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ Still married, Jake?
+L315686 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ You tellin' me? How many times can you die, huh?
+L315685 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ It's not worth it. You'll never win.
+L315684 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ No joke. Fuckin' army! That goddamn war. I'm still fightin' it.
+L315683 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ It's almost like a conspiracy, huh?
+L315682 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ Count 'em on one hand.
+L315681 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ You're lucky. How many vets you know are even employed?
+L315680 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ I work in a bakery.
+L315679 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Jesus, man, you look terrific. You must have put on twenty pounds.
+L315678 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ I need to see you.
+L315677 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Shit, Paul. I'd love to see you. But I'm kind of laid up here. I've been sick.
+L315676 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ I need to see you, Jake.
+L315675 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Me neither. Nothing too exciting. So tell me, to what do I owe the honor?
+L315674 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ Nothin' much.
+L315673 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Jesus Christ. How've you been? What's happening in your life?
+L315672 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ A long time.
+L315671 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Paul! You son-of-a-bitch, how the hell are you? I haven't seen you in what, five, six, years?
+L315670 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Paul Gruneger! Well I'll be goddamned!
+L315669 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ Paul Gruneger!
+L315668 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Speaking.
+L315667 +++$+++ u1620 +++$+++ m106 +++$+++ PAUL +++$+++ Jacob Singer?
+L315666 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Hello.
+L315497 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ No. No. It's okay. I'm okay.
+L315496 +++$+++ u1615 +++$+++ m106 +++$+++ LEADER +++$+++ Do you want me to get someone?
+L315495 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Blew up? What do you mean it blew up?
+L315494 +++$+++ u1615 +++$+++ m106 +++$+++ LEADER +++$+++ No one knows. They say it blew up.
+L315493 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ How did it happen?
+L315492 +++$+++ u1615 +++$+++ m106 +++$+++ LEADER +++$+++ Last month, before Thanksgiving.
+L315491 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Jesus, Jesus! ... When?
+L315490 +++$+++ u1615 +++$+++ m106 +++$+++ LEADER +++$+++ A car accident.
+L315489 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ Died?
+L315488 +++$+++ u1615 +++$+++ m106 +++$+++ LEADER +++$+++ I'm so sorry. Obviously you haven't ... Dr. Carlson died.
+L315487 +++$+++ u1612 +++$+++ m106 +++$+++ JACOB +++$+++ I'm looking for Dr. Carlson. Isn't this his office?
+L315486 +++$+++ u1615 +++$+++ m106 +++$+++ LEADER +++$+++ Can I help you?
+L315607 +++$+++ u1618 +++$+++ m106 +++$+++ MRS. CARMICHAEL +++$+++ Okay. My husband's got two more bags. He's coming. They're heavy.
+L315606 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ He's melting it as fast as we dump it in.
+L315605 +++$+++ u1618 +++$+++ m106 +++$+++ MRS. CARMICHAEL +++$+++ On top of him?
+L315604 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Pour it in.
+L315603 +++$+++ u1618 +++$+++ m106 +++$+++ MRS. CARMICHAEL +++$+++ I don't blame him. What should I do with the ice?
+L315602 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ He doesn't like it.
+L315601 +++$+++ u1618 +++$+++ m106 +++$+++ MRS. CARMICHAEL +++$+++ Is he all right?
+L315600 +++$+++ u1614 +++$+++ m106 +++$+++ JEZZIE +++$+++ Bring it in.
+L315599 +++$+++ u1618 +++$+++ m106 +++$+++ MRS. CARMICHAEL +++$+++ I have some ice from the machine.

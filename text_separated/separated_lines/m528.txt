@@ -1,0 +1,1039 @@
+L526895 +++$+++ u7804 +++$+++ m528 +++$+++ ARTHUR +++$+++ Open it, Captain!
+L526894 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ ... Your civil rights have been overridden!
+L526892 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Please, Dr. Levine.
+L526891 +++$+++ u7804 +++$+++ m528 +++$+++ ARTHUR +++$+++ Let me out, Captain.  Open the door!
+L526890 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Calm down, Dr. Levine.
+L526889 +++$+++ u7804 +++$+++ m528 +++$+++ ARTHUR +++$+++ Captain, open the hatch door, please ... the hatch door, Captain.  Open it, please.
+L527286 +++$+++ u7808 +++$+++ m528 +++$+++ FLETCHER +++$+++ I can't...
+L527285 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Fletcher!  Now!
+L527284 +++$+++ u7808 +++$+++ m528 +++$+++ FLETCHER +++$+++ I can't see...
+L527283 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Get out of there!
+L527282 +++$+++ u7808 +++$+++ m528 +++$+++ FLETCHER +++$+++ It's burning...
+L527281 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Fletcher, get away from there...
+L527277 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Fletcher, I want you back here.
+L527276 +++$+++ u7808 +++$+++ m528 +++$+++ FLETCHER +++$+++ They're warm.  I can feel the heat on my legs.
+L527273 +++$+++ u7808 +++$+++ m528 +++$+++ FLETCHER +++$+++ They're like pink snow, sir.  Sticky.
+L527272 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Fletcher?  What are you doing out there?
+L527585 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Pull it, damn it!
+L527584 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Norman, please!  Don't!
+L527583 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Now!
+L527582 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Don't do it!
+L527580 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Norman, don't do it!
+L527579 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Do it, Norman, it's the only choice we have.  This thing is gonna crush us.
+L527578 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Don't pull it, Norman.  It'll start a <u>fire</u> we can't stop.  Norman?
+L527575 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Do you see it?
+L527574 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Don't do it, Norman!
+L527564 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ It's either that or we grow gills.
+L527563 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ That's our reserve air.
+L527562 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Increase positive pressure!
+L527559 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ He's right beneath us.
+L527558 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What was that?
+L527557 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Why can't I -- ?  What the hell is going on here?
+L527556 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Where is it?
+L527552 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What are you saying -- we can't stop what's out there?
+L527551 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Thirty yards.
+L527550 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Sure.  Each time it started fires inside the habitat.
+L527549 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ But you've tested it?
+L527548 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Forty yards.
+L527547 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ It sends 200 volts throughout the cylinder surface.  But we've never used it underwater before.
+L527546 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ High Voltage?
+L527545 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ We're a habitat.  Not a castle.  The only defense we have is High Voltage.
+L527544 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What do we use for defense?
+L527543 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Fifty yards and closing.
+L527542 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What if it attacks?
+L527541 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ A squid?  The size of a whale?  I don't think so.  Target acquired.  Sixty yards.
+L527537 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What was that?
+L527536 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Direction's east coming!
+L527530 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Shut up, Beth.  I don't want to hear it.
+L527529 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Nice work, Captain sir.
+L527491 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ You're a fucking biochemist, aren't you?  Can't you tell us something.
+L527490 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I'm not sure.  I've never seen anything like it.
+L527289 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Nobody move!
+L527288 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ But she's --
+L527287 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Nobody move.
+L527249 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Forgive me.  I've never read the Navy manual.  I wonder what it says about bathroom and shower procedures.
+L527248 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ There are procedures, Beth, that I want followed.  My procedures.  And considering what's going on, I want you to follow them very closely.
+L527247 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Yeah.  I heard you.
+L527246 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Back at the door -- I asked you to back away.
+L527224 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Two and a half days?
+L527223 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ They told me about sixty hours.
+L527222 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ How long will that be?
+L527221 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ The surface ships will be back. After the storm clears.
+L527198 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Edmunds, do you have a 20 on Norman?
+L527197 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Norman!
+L527191 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What are you -- his mother?  Get Norman, I want everyone ready to go.  Edmunds, the subs?
+L527190 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I am not leaving without him.  Do you hear me?  We come down as a team, we leave as a team.
+L527110 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Yeasts?  Thank you, Beth, but I don't think we're gonna open it up and find a loaf of bread.
+L527109 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Not everything.  Even on earth.  Take ... yeasts.
+L527007 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ How about I just press the button?
+L527006 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Alright, Beth, do that thing you did before.
+L526999 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Any of you get ahead of me -- walk this far up?
+L526998 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What is it?
+L526997 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Hold on --
+L526988 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Would you wait a minute?
+L526987 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ I said back away.
+L526986 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Wait a minute --
+L526985 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Back away then.
+L526984 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ There's heat coming the door.
+L526854 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Basic English?  There's no way this spacecraft was constructed on our planet.
+L526853 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ In basic English, what does all this mean?
+L526845 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Of what we're able to measure, roughly twenty-six hundred feet.
+L526844 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ How big is this spacecraft?
+L527577 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Pull it.
+L527576 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I see it.
+L527571 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ You see the lever on the green box? Upper right hand corner?
+L527570 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Yes, sir.  I'm here.
+L527555 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Ted, go into the control room. Listen for my instructions.
+L527554 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Jerry?  Please.  Stop this.
+L527553 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What the hell?  It shut us down.
+L527539 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Jerry?
+L527538 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Going active.
+L527527 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ No.  I think we should shut down the communication lines inside the habitat.  He might be listening now.
+L527526 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Maybe so.  But I think we need to ask Jerry about it.
+L527525 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Bullshit.  What's out there isn't alien.  It's an animal.
+L527524 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Yes, I do.  Whatever's out there, I think is his response to us refusing to talk to him earlier.
+L527523 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ You think he killed Edmunds?
+L527520 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ But sir, I think it's imperative.  I think the messages, the animals we've seen, what killed Edmunds, the reading you got earlier -- I think they're all related.
+L527519 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ I don't want you talking to Jerry.
+L527488 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ At least our obituaries will be accurate.  That's reassuring.
+L527487 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ If something should happen to us, the Navy will at least have partial records of what happened.
+L527486 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What for?
+L527454 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Edmunds?  Can you copy?
+L527453 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ ... it raises a very serious question: <u>What happens if Jerry</u> <u>gets mad</u>?
+L527452 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Damn it, Edmunds?
+L527451 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Because if Jerry is powerful and also emotional...
+L527450 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Edmunds?
+L527422 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I think we should be careful. Consider his emotional response.
+L527421 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ You don't think weapons are important?
+L527420 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ That's smart.  Let's talk about guns and violence.
+L527419 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Great, okay.  Ask him about his weapons.
+L527379 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What am I -- a dog, now?
+L527378 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ The message doesn't show a lack of intelligence.  It's smart.  It's approaching us in a simple way.  Like you would a dog.  Holding out your hand, letting it sniff, get used to you.
+L527377 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ He translated it wrong.  "My name is Jerry"?  It's like "See Spot run."
+L527338 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ -- without a cautionary word to anyone.  You know, Ted said something to me earlier.  I think he's right.  He said, "When you got a guy who -- if he wasn't here -- he'd be standing in the unemployment line, you gotta question if you got the right guy."
+L527337 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ -- I didn't know it would come to this --
+L527336 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ -- and then brought her down here --
+L527335 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Wait a second --
+L527334 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ You knowingly recommended a woman with suicidal tendencies for a government operation --
+L527333 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ At the time, I don't know, I thought putting her on the list -- it might help her career -- catch her a break.
+L527332 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ So you knew this when you wrote your report?
+L527331 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ '81, I think.  She tried again five years ago.  I thought you should know.
+L527330 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ When was this?
+L527329 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ She put a razor to her wrists a day later.
+L527328 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ She should've known better.
+L527327 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ A while back, Beth and I -- we worked at the same university.  She was assisting a chemist there -- I forget his name -- doing research, experiments.  She was also living with him.  Yeah, I know.  And when she finished her work, he kicked her out, broke off the relationship, and published five papers -- all her work -- without any thank you or acknowledgement.
+L527326 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ I think I do.
+L527325 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You don't want to know.
+L527324 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ How drastic?
+L527323 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I'm not paranoid.  I know Beth.  She can be drastic.
+L527182 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ No "buts".  If he wants to be left, we'll leave him.  Hello?  Yes, the subs -- I want a report...  Hello...  Yes, a report. Gimme... shit.
+L527181 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ But sir --
+L527180 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ I told you people, nobody goes anywhere unless I say.
+L527179 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You can't just leave Harry down here, sir.
+L527161 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ He's here somewhere.  Find him.  The sub's on it's way.  Go!  C'mon!
+L527160 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ He's missing.  He's gone.  He left.
+L527159 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What do you mean, he's missing?
+L527158 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Harry's missing.
+L527152 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Just worry about yourself.
+L527151 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ All I'm saying is, someone should keep an eye on him.
+L527150 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Look, the ships are clearing out. They're taking us topside in a matter of minutes.  Someone can check him out there, if it's that imprtant.
+L527149 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I'm telling you, Harry's lost it. He's saying there's a deathwish out for each of us.
+L527148 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Don't get hysterical, Norman.
+L527108 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Everything can be killed.
+L527107 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I don't know.  That's the point.
+L527106 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ You mean, what's in that thing is immortal?
+L527105 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Or maybe, it can't <u>be</u> killed.
+L527104 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Like "Thou shall not kill"?
+L527095 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ If it is alien, maybe we shouldn't try to open it at all.
+L527094 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What?
+L527093 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Maybe we shouldn't.
+L527076 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ I don't know.  But it's something alien.
+L527075 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Picked up something?  What is it?
+L526977 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Take a look.
+L526976 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What is it, Norman?
+L526921 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ It's a corrosive gas.  On earth, it makes a half-eaten apple turn brown and puts the ugly, iron rust on an Oldsmobile.  At a pressure this low, oxygen becomes toxic.  Breathe it down here, and it'll do to your dick what it does to the Oldsmobile.
+L526920 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What's wrong with oxygen?
+L526919 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ They pressurize us with helium.
+L526843 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ But sir, I don't understand.  This report -- these recommendations... they're for an encounter with extra- terrestrial life.
+L526842 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Your report's become our bible down here, Dr. Johnson.  We've been carrying out each of your recommendations -- one by one -- to the smallest detail.
+L526841 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ ULF report?  Nobody's mentioned that in years.  You mean someone actually read it?
+L526840 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ The one you recommended.  In the ULF report you wrote for the Bush administration.
+L526839 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What team?
+L526838 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ We think it might.  That's why we brought you here.  We've assembled your team -- they're waiting for us now.
+L526837 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ It doesn't make any sense.
+L526836 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Off the record, I don't mind telling you, this thing scares the shit out of me.
+L526835 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ I'm afraid it is Dr. Johnson... because it's sitting on the bottom of our ocean floor.
+L526834 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ It's impossible.
+L526833 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Extraordinary, isn't it?
+L526832 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ -- there's got to be some mistake here -- a four hundred year old military spacecraft?  There's no such thing... our space program isn't even forty years old.
+L526831 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Maybe older --
+L526830 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Hold on --
+L526829 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ -- dating the crash at least that old.
+L526828 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ -- Wait a second --
+L526827 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Coral grows at a rate of two and a half centimeters a year --
+L526826 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Geologists?
+L526825 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ See this?  Coral.  Geologists measured the coral growth on top of the craft to be over five meters thick.
+L526823 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ As best we can estimate, it crashed four hundred years ago.
+L526822 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Not really, no.  Something of the military crashes in the ocean -- it explains why there was nothing on the news, why you've kept everything a secret...  When did it crash?
+L526821 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Something like that.  That doesn't surprise you?
+L526820 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What is it?  A military spacecraft? Like a shuttle or satellite?
+L526817 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What do you need me for?
+L526816 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What?
+L526815 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Then why am I here?
+L526814 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Survivors?  No, I wouldn't think so.
+L526813 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ A thousand?  An airplane crashes into a thousand feet of water -- I don't want to sound pessimistic here, but I assume there are no survivors.
+L526812 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ A thousand feet.
+L526811 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ How deep is he?
+L526809 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ They didn't tell me anything.
+L526808 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ A cyclone's on it's way in.  I thought they would have told you on the phone.
+L526807 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Storm?  What storm?
+L526806 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ We're moving fast considering the storm.
+L526805 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Well, we don't have all the facts yet.
+L526804 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ From what?  What's with all the security?
+L526803 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Good.  Security's been our biggest worry.  Now that you're here we can shut this thing down tight.
+L526802 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Press?  No, I haven't.
+L526801 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ You talk to any reporters?  Any press?
+L526798 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Nothing else.
+L526797 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Anything else?
+L526796 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ The usual.  Plane crash.  Survivers unknown.  Routine stuff really.
+L526795 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What have you been told so far?
+L526794 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What team?
+L526793 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Come with me.  The team's already waiting.
+L526792 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ The Pentagon?  I didn't know I had friends in Washington.
+L526791 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Don't thank me, Dr. Johnson.  You weren't my choice.  The Pentagon made me take you.
+L526790 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Well, thanks for the opportuninty here -- my wife appreciates it.
+L526789 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Captain.  Right, forgive me.
+L526788 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Captain.
+L526787 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Thank you, Colonel.
+L527381 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ In a minute, sir.
+L527380 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Edmunds, get in here.  I need you for this.
+L527212 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ If the subs aren't here yet, sir --
+L527211 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Norman, get out of there now! Norman?
+L527207 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ Sir!  Sir, the door -- it's opening.
+L527206 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ They've left, keep watching!
+L527205 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ Sir, if the subs haven't left by now...
+L527201 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ In the ship, sir.
+L527200 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Well, where the fuck is he?
+L527199 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ Yes, sir.
+L527193 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What the hell is going on here?
+L527192 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ Nothing, sir.
+L527187 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Fuck him.  What?  Hello?
+L527186 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ Nothing, sir.
+L527185 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Any sign of Harry?
+L527184 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ They're coming.
+L527183 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ I'm getting no sub reading, sir.
+L527178 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Send them, damn it!  I know, but I'm not gonna be held responsible --
+L527177 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ Subs are still at surface, sir.
+L527173 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ Harry?  Can you copy?
+L527172 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Get him out of there.  I thought I told you people --
+L527143 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ Nothing.  I don't know.  Everything was normal.  No changes at all.
+L527142 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What caused it?
+L526936 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Well, shit -- find something, do something... make something up --
+L526935 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ We don't have anything else to try, Sir.
+L526934 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Thank you, I can see that.  Try something else.
+L526933 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ It's not sucking, sir.
+L526929 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ Working on it now, sir.
+L526928 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Can you open that panel?
+L527443 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ If the technology of that sphere is advanced enough -- the way it functions is gonna appear to us like magic.
+L527442 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ She wired this system.
+L527441 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ She's not gonna know.
+L527440 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Edmunds?  Get in here.  I want to know exactly how this is being transmitted.
+L527416 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ What -- you want me to retype it?
+L527415 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ With an "o".  Harold with an "o".
+L527414 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ I'm in charge.
+L527413 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ He's saying, "Take me to your leader." He wants to know who's in charge.
+L527412 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What?
+L527408 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ She's not gonna know, sir.
+L527407 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Not now, Beth.  Please.  I want to know who we're talking to before we start talking.  Where's Edmunds?
+L527400 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ He understands me fine.
+L527399 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Are you enjoying yourself, Harry, because I don't know what the hell you're doing.
+L527397 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ It's not ignorant.
+L527396 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Ignorant.  The thing's ignorant.
+L527375 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ How do you mean, strange?
+L527374 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ I have to tell you.  It's strange.
+L527373 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What's the message?
+L527372 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ ... spiralling out of the center, you see: "G" is one, "B" is two, "H" is three, and so on... when I got the message.
+L527341 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ We're all very proud of you, Harry, but what the hell is it?
+L527340 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ It's a single sequence repeated over and over.
+L527169 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Please watch your closest monitor...
+L527168 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Who is that?  Where's that coming from?
+L527167 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Ladies and Gentlemen...
+L527166 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Gimme a report, I want --
+L527117 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Just tell me worst case.  Worst case of what we might find?
+L527116 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Let's say whoever made this thing is a thousand years ahead of us, just like we are to, say, medieval Europe.  Suppose you went back to medieval Europe with a TV set.  There wouldn't be any place to plug it in.
+L527115 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ You don't know that.
+L527114 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ It could.  But the odds of it being any use to us are against it.
+L527113 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Or it could contain some great benefit to us, some astonishing new idea or technology to help mankind.
+L527101 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ It's nonsense.  There's enough difference between our own species to prove that.
+L527100 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ So?  What's the problem?
+L527097 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ The what?
+L527096 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Man is man, all he knows is man, and all he can think of is what he knows.  The anthropomorphic problem. Good, Norman.
+L527092 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Ted seems to have some ideas.
+L527091 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ So how do we get it open?
+L527089 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ A break for what?
+L527088 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ To conceal a small break in the surface of the sphere.
+L527087 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What?
+L527086 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ No.  They don't represent a message. They aren't decorative at all.  They have another purpose entirely.
+L527074 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ So do we.  And it seems to have picked up something on it's travels.
+L527073 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ We know how this craft got here. Where it's been.
+L527072 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Yes, Harry.
+L527071 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Ted?  Captain?
+L526983 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Then how can it be chipped?
+L526982 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ I did.
+L526981 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ I thought you said there wasn't any damage done in the crash?
+L526980 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ I don't know how it can be chipped, but it's chipped.
+L526979 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Chipped?  The door?  How can it be chipped?
+L526978 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ It's chipped.
+L526851 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ I'm not saying anything, Harry, I'm just stating the facts.  The outer metal is made of a titanium alloy, built into an epoxy- resin honeycomb.  The necessary technology to bond this type of metal has never been invented.
+L526850 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Right.  So you're saying it survived a high speed impact with water without a scratch?
+L526849 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ To the craft?  None.  Not a scratch.
+L526848 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ How much damage?
+L527485 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ In the dome hanger.  All our tapes are transferred to the sub.  It's on a 12 hour timer.  If someone doesn't reset the "delay" button, the sub ascends to the surface with the tapes.
+L527484 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ What sub?
+L527483 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Resetting the sub.
+L527482 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ What was Edmunds doing outside?
+L527481 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Well, until we know exactly what it is, nobody goes outside, understood?
+L527467 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Too big?
+L527466 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ It won't register.  It's too big to image.
+L527465 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ What?
+L527464 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ The sensors are picking up something outside.
+L527463 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ What is that?
+L527447 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Don't make stuff up, these emotional theories, just so you can feel important here.
+L527446 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Edmunds?
+L527392 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Give him a chance.  He's speaking our language, not the other way around.
+L527391 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ It's not talking, it's mimicking.
+L527384 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ I am not gonna explain in some damn report that one person died in a deepsat expedition so we could meet an alien named Jerry.
+L527383 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Captain, I personally feel we should ask much more substantive questions --
+L527382 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ I want a name.  A real name.  This thing's full name, rank and serial number.
+L527349 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ What's inside the sphere.
+L527348 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ From the sphere?
+L527275 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Get out of there.  I don't want anyone going anywhere outside, understood?
+L527274 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ She says jellyfish are a delicacy. You know, I never knew that.
+L527219 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Internal power.
+L527218 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ To what?
+L527217 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ They switched us over.
+L527164 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ We're on the bottom of the fucking ocean -- he can't just walk outside!
+L527163 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Sir, about leaving --
+L527162 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ How can he be missing?
+L527157 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Ted, shut up.  Are you packed?  Ready to go?  I want everyone packed.  Now!
+L527156 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Did you hear me, sir, because --
+L527154 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What?  No, I know they're civilians...
+L527153 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Can I stay, sir?  I'm willing to risk it.  I am.  After what we just witnessed.
+L527083 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Maybe it's a message of some sort, you know?  See this red here.
+L527082 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ But what does it do?  This... sphere.
+L527052 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Maybe we didn't want to come back.
+L527051 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What would we be working on in the future that would make us want to come back?
+L527050 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Time travel.  I always thought it was one of those myths... like Santa's reindeer.
+L527041 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Considered what?  That it's American? How would you think it's American?
+L527040 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ We had considered it.
+L527013 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What do you make of this?
+L527012 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ What's wrong?
+L526996 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ A foot and a half thick?  That'd withstand a helluva lot of radiation.
+L526995 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Radiation shield, you think?
+L526994 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Some sort of lead or something.
+L526993 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What is it?
+L526992 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Look at this.
+L526990 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ What are you going to do -- shoot her?
+L526989 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Ted, get her away from the door.
+L526939 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ What if we go out there, you know -- wedge a crowbar in the door and pry the thing open.
+L526938 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ What <u>about</u> a crowbar?
+L526932 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Duly noted, Ted.  Edmunds, try using suction.
+L526931 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ I'd also like it noted --
+L526927 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ Nobody goes inside, until we know <u>what's</u> inside.
+L526926 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Captain, you know, I really appreciate you hauling us a thousand feet below sea level so we can watch this historical event on television.
+L526847 +++$+++ u7805 +++$+++ m528 +++$+++ BARNES +++$+++ The wing dimension alone is larger that any aircraft we've seen.
+L526846 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ A half a mile long?
+L528072 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Down below, Harry said we would all have to die.  Since there was no evidence on that spacecraft that anybody knew time travel through a black hole was possible -- and we all knew -- then we would all have to die before we could tell anyone. Death was the only logical explanation.  But sitting here, we still know.  So how is that possible?  Unless we make ourselves forget.
+L528071 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ How's that?
+L528070 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Yes.  And I think we already know it will.
+L528069 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Would it work?
+L527993 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Get away --
+L527992 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth --
+L527991 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Get away from me!
+L527990 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Hear what?
+L527989 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You hear that?
+L527988 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What?
+L527987 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What is that?  What are you doing?
+L527983 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Let's get out of here, Beth.  Let's go home.
+L527982 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Top shelf, is it?
+L527981 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ C'mon --
+L527980 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Oh, sure.  Here.  Anything else, Beth can get you?  Some more chicken, perhaps.  Let Beth check the fridge.
+L527979 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth -- gimme the gun.
+L527978 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Don't tell me about me.  I already know too much.
+L527977 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I --
+L527976 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Oh please, don't shrink me, Norman. Not now.
+L527975 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I know.  You're too strong, Beth.
+L527974 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You can't stop it, Norman.  You can't fight me.
+L527972 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Leave me alone, Norman.
+L527971 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth?
+L527957 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ It's you, Norman.  Your fear of drowning.  You have to face it.
+L527956 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Stop it!
+L527954 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ From you, Norman.  From your mind. You're doing it.
+L527953 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Then where's it coming from?
+L527952 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Stop what?  Don't blame me.  It's not me.
+L527951 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth, stop it!
+L527950 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Don't you know?
+L527949 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Where is it coming from, Beth?
+L527948 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You're frightened, aren't you, Norman?
+L527947 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth!
+L527945 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I'm not fucking with you, Norman. You've fucked yourself.
+L527944 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Don't fuck with me, Beth.
+L527943 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Of course you're going to deny it. You want to blame someone else.  You want to blame Beth.  Because you hate Beth.
+L527938 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Get away from the door, Beth.
+L527937 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ This is what I'm talking about, Norman.  Don't you see?  It's in you. This vindictiveness.  This rage.
+L527932 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You think I care?  You think I care if I die?  Would I put explosives around the habitat -- set on vibration sensors -- that can trigger automatically, if I cared about myself?  Would I? I've tried twice before, Norman, why wouldn't I try a third time?  I'm not thinking about myself -- No, Norman, I'm thinking about you.  Your safety. Protecting you from your own self.
+L527931 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ It's not safe for you to be either.
+L527930 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ It's your choice.  Because it's not safe for you to be awake.  To be walking around.  To be thinking about things.
+L527928 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ It's either this... or I kill you.
+L527927 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Don't, Beth.  Please.
+L527926 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You think I'd belive you?  Believe anything you might say now?  After you lied to me about telling Barnes about my past.  About my problems.  My problems.  Not yours.  Not his.  Mine.
+L527925 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth --
+L527924 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Promise what, Norman?  Tell me!
+L527923 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I promise --
+L527922 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ But I have to, Norman.
+L527921 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Don't, Beth.
+L527920 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ "It's not me, Beth.  It's not me.  It can't be.  I'm not doing anything." Just like Harry said before I stabbed him with the needle.
+L527919 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ It's not me, Beth.  I swear.  It can't be.
+L527918 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I'm not scaring you, am I Norman?  I hope I'm not frightening you.  The last thing I want to do is frighten you.  You feel okay, don't you?
+L527917 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ When you were in that sub -- and that squid was attacking you -- are you sure it was the squid that was attacking?  Do you know?  "I can't get Beth on the radio.  I'm in this tiny sub on the bottom of the fucking ocean.  All alone.  Surrounded by all this water." Was it really the squid that was attacking you, Norman -- or was it something else -- one of your fears?  You never really saw what it was, did you?
+L527916 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Shut up, Beth --
+L527915 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ No, it isn't.  Your name is Norman. But your younger brother -- what was his name?  The one who was stung when you were younger.  The one that died. The one you couldn't save.  What was his name?  "Mommy, we're going out to the ocean -- to go swimming." "But I don't want to go swimming, Norman.  I'm scared." "C'mon, <u>Harry</u>, it'll be fine, it'll be fun."  You heartless fuck.  That's why you're so scared of the water, isn't it?
+L527914 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth, the message said Harry.  "My name is Harry".  My name isn't Harry.
+L527913 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Is it?
+L527912 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ That's bullshit.
+L527911 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You remember before you picked him up -- when you looked up at the sphere, you remember that -- when the sphere opened?  That's right.  But you can't remember going inside, can you?  No, of course not.  Harry couldn't either, could he?  "Like everything's on the tip of my tongue", he said.
+L527910 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Yes.
+L527909 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You don't remember you did.  But I'm sure you remember running like some fucking hero to get Harry, don't you?  You remember that.
+L527908 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I never went in that sphere.
+L527907 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Am I?  Or am I making so much sense that you're going insane?
+L527906 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You're insane.
+L527905 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Did I?  Or was that you?  When you were hiding in the bathroom -- all conspiratorially like you were -- you became frightened, didn't you?  Terrified.  Like you were with the snake earlier -- and suddenly you have snakes slithering all over the floor.  You did that, Norman.
+L527904 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You manifested that, Beth.
+L527903 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ One lonely, terrifying sea snake.
+L527902 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ That's when you went in the sphere.
+L527901 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ And the snakes?  You want to know about the snakes?  You saw one outside earlier, didn't you?  When you thought I had deserted you -- you were terrified.
+L527900 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ But --
+L527899 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Am I lying?  Are you sure?  Are you absolutely sure I'm lying?  Then explain to me about the jellyfish.  Earlier.  Why did we see jellyfish?  Harry doesn't fear jellyfish.  You do.  They're your fear, aren't they?
+L527898 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You're lying --
+L527897 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ C'mon -- what?
+L527896 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth you're losing it.  C'mon.
+L527895 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Yes, someone did.  But it wasn't me, Norman.  It was you.  You manifested the snakes.
+L527894 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Someone did.
+L527893 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You think I manifested the snakes?
+L527892 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Then why, Beth?  Why go in?  Why put out explosives?  Why manifest the snakes?
+L527891 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ No, he can't.
+L527890 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ He can't manifest.
+L527889 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ No, he isn't.
+L527888 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Against what?  Harry's unconscious. He's not a threat.
+L527887 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Same reason I put explosives around the habitat.  For defense.  For the power.  To protect myself.
+L527886 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Why did you go in the sphere, Beth?
+L527885 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What's the phrase -- "keeping up with the Joneses"?
+L527884 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Did you?
+L527883 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ If I was, then I would've had to have gone in the sphere, wouldn't I?
+L527882 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Are you manifesting them?
+L527881 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Don't you?
+L527880 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Do you fear them?
+L527879 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You tell me.
+L527878 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What are they doing down here?  In the bathroom?  Suddenly appearing.
+L527877 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Am I afraid of them?  Not during the day.  Sea snakes are diurnal.  When the sun's out, they don't bite. Fortunately for you, I had on my watch.  This is quite good.
+L527876 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You know what I mean.
+L527875 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Snakes?  What do you mean, exactly?
+L527874 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ How do you feel about snakes?
+L527873 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I did do that, didn't I?
+L527872 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You put explosives around the habitat, I can't imagine what you'd put in a drink.
+L527871 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You don't think I put something in it, do you?
+L527870 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You think I'd really drink that?
+L527869 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ It's getting cold.
+L527868 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Are you?
+L527867 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I'm feeling better.
+L527866 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What's wrong, Norman?
+L527862 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Oh yes, my watch.  I almost forgot.
+L527861 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Your watch.
+L527860 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What was that?  I couldn't hear you.
+L527840 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ How's Harry?
+L527839 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ The grooves around the door -- they've shifted.  And the pattern -- the fluids -- they look darker now.
+L527838 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What do you mean, different?
+L527837 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ The sphere looks different.
+L527836 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ In the sub.  Resetting the timer. Why?
+L527835 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Where are you?
+L527834 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What is it, Norman?
+L527829 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You're not sorry.  You're scared.  You're a psychologist, Norman.  You pride yourself on knowing when someone's lying to you, not telling you the truth.  And now you're scared ... because you're not sure you can tell anymore.
+L527828 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Not believing you.
+L527827 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ For what?
+L527826 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I'm sorry.
+L527815 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Only lab rats.  Here.
+L527814 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Thirty years ago.  In residency.  I passed out.  You?
+L527813 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You ever given an injection before.
+L527812 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Look, it's either him or us, Norman. Another attack, and we go down with this place.
+L527811 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You want to kill him?
+L527810 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ To be on the safe side.  I mean --
+L527809 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth --
+L527808 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ It's an idea.
+L527806 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What if it takes 20 minutes, Norman? What if it takes an hour?  And he can fight it off?  We can't afford that.
+L527805 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Doesn't say.
+L527804 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ How fast does it take effect?
+L527803 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What?  Wait -- isn't that dangerous?
+L527802 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I'll just boost the doses.
+L527801 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Three to six hours.
+L527800 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ How long does it last?
+L527799 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ "20 cc's of parasolutrine in combination with 6 cc's of paracin given IV produces deep sleep suitable for emergency surgical procedures... no cardiac side effects ... REM activity is surpressed... "
+L527797 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ "... used as an anesthetic if given in combination with paracin trichloride... "
+L527796 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ It's like a sleeping pill?
+L527795 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Causes sleep.
+L527794 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What's that?
+L527793 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ It's a soporific.
+L527792 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ P-a-r-a-s-o...
+L527791 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ How do you spell it?
+L527790 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Parasolutrine?
+L527789 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Antibiotic.
+L527788 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Damn it!  Chloramphenicol?
+L527787 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Antihistamine.  For bites.
+L527786 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Riordan?
+L527785 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ "... and may also cause bizarre halucinations".
+L527784 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Bingo.
+L527783 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Tranquilizer.  Causes drowsiness.
+L527782 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Tarazine?
+L527781 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Nothing about drowsiness.
+L527780 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Does it cause drowsiness?  That's all we need.  To get him unconscious -- put him under.
+L527779 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ A synthetic opium analogue.
+L527778 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Sintag.
+L527777 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Ulcers.
+L527776 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Valdomet.
+L527775 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ It's for motion sickness.
+L527774 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Ephedrine hydrochloride.
+L527773 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Something for burns.
+L527772 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Diphenyl parlene.
+L527744 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Why would Harry go back to using a code?
+L527743 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Looks like some sort of code.
+L527742 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Must be.  And if it is -- it's a part of him not even he can control.
+L527741 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ And that's the part of Harry that's being manifested.
+L527740 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ No.  I mean, we've always believed we can think anything we want without consequences.  You ever read the Bible?  It talks about our sinful nature, you know?  I mean, we can think, and believe, and desire whatever we want, but there's a part of us -- a shadow side, as Jung called it -- that can't be controlled.  It's evil. It's inside us.  It's what we are.
+L527739 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ His dream?  You can't control your dreams.  And you can't control your fears, can you?
+L527738 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ He must not realize he is.  Like the Navy crewman -- Harry was sleeping then.  He must've manifested his dream.
+L527737 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ But why is he doing it?
+L527736 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ It's his fear.  The squid.  He's manifesting his fears.  Making them real.
+L527735 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Which I told Barnes was attacking --
+L527734 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I don't know, Beth.  I'm not the fucking alien that built the thing. But it can.  When Harry came out of the sphere, he mumbled something about page 87.  How he would never read that far -- he was too scared to.  Then you found the book, remember in your lab.  Then in the cafeteria -- and page 87 talks about a giant squid...
+L527733 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ How can the sphere do that?
+L527732 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I don't know.
+L527731 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ But how?
+L527730 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ He acquired some sort of power.  A power to manifest things.
+L527729 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You think, in the sphere --
+L527728 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ When did the messages start?  The animals outside start showing up? After Harry came out of the sphere.
+L527727 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What do you mean, a part of Harry?
+L527726 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Remember when we first spoke to Jerry, Barnes kept asking for Jerry's real name?  But Harry never would?  He didn't because he was afraid the screen would say "Harry", instead of Jerry.  We weren't talking to an alien intelligence when we talked to Jerry, we were talking to Harry... or a part of Harry.
+L527724 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What?
+L527723 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ He translated it wrong.
+L527722 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Created.  Brought to life.  I don't know.  But at the end, Jerry said, "Stop calling me Jerry".  And --
+L527721 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Manifested?
+L527720 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ After the attack, a Navy guy woke me up -- I don't know -- I thought he was an illusion.  But I checked the tape, and Jerry said he manifested him.
+L527717 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ "... according to calculations of some naturalists, one of these animals, only six feet long, would have tentacles 27 feet long.  That would make a formidable monster."
+L527716 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Squids?
+L527715 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ "Our fisherman frequently see some that are more than four feet long. Some skeletons of squids...
+L527714 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Page 87.  "I could never read that far."
+L527713 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What?
+L527712 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Page 87.
+L527709 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Damn it, Norman!  He's lying.  Don't you get it?  There is something seriously fucked up going on here -- and he's causing it.  Why can't you believe me?
+L527708 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I don't know, Beth.  I wasn't there.
+L527707 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You think it's me?  You think I'm saying there was a conversation when there wasn't?
+L527706 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ This being after you so carefully fixed my suit.
+L527705 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Damn it, Norman.  I swear.  I had a whole conversation with the man when he woke up.
+L527704 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ All I know is I opened that refridgerator --
+L527703 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You don't believe me.
+L527702 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You think?
+L527701 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ No, it wasn't.  I swear none of this was here.  None of it.  You think he hid it?  Earlier.  He must've hid it.
+L527700 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Did you look?  It was on the top shelf.
+L527699 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ None of this was here before.
+L527698 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ 1-800-Deepsea delivery.  I hear they're good.
+L527697 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Wait a second --
+L527696 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ We must've had it delivered then.
+L527695 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ That wasn't in there before.
+L527694 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ It's a pretty common place to look for food when you don't think you have any.
+L527693 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ The refridgerator.
+L527692 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ The refridgerator.
+L527691 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Fixing it?  But I fixed --  Where'd you get all that?
+L527690 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Fixing it.
+L527689 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What's Harry doing with your suit in there?
+L527688 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I think so, Beth.  Yes.
+L527687 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You get it straightened out?
+L527676 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ He what?
+L527675 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Deserts you?  Harry said he'd take over for me.
+L527674 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Yeah, well, I get that way when I'm facing death and someone deserts me.
+L527673 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Getting food.  We were out of food. what's wrong?  You sound mad.
+L527672 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What are you doing in the ship?  Beth?
+L527671 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ ... what do you mean?  I'm in the ship.
+L527649 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Still clear.
+L527648 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Still clear?
+L527647 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You can't.  Counter's at 10 minutes. You don't have time.
+L527646 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ My air isn't... I'm coming back.
+L527645 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Yes, Norman.  I did.  You're just nervous.
+L527644 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You fixed this suit?  Beth?
+L527643 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What's the matter?
+L527642 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Still clear.
+L527641 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I can't see anything.  How does it look?  Still clear?
+L527640 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ The sub's a 100 feet in front of you.  You see it?
+L527637 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You press a button, Norman.  It's not brain surgery.  Here, go ahead.  You only have 15 minutes to reset it.  Go on, Norman...
+L527636 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ But I don't know how --
+L527635 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You don't trust me?
+L527634 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You fixed my suit?
+L527633 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I fixed your suit.
+L527632 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I would.  But my suit --
+L527631 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I don't trust Harry to do it.
+L527630 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ In case you die, too?
+L527629 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You should know how it works.  Just in case.
+L527628 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Why should I go?
+L527627 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Maybe you should go.  To the sub.
+L527626 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Get the helium out of our bloodstream.  We go to the surface now, we'd pop like a soda bottle.
+L527625 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Four days?
+L527624 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ We can't.  The storm.  The waves would toss us around worse than we got down here.  And we have four days of decompression when we get up top.
+L527623 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Wake him, then.  Let's go.  Get outta --
+L527622 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You, me and Harry.  He's asleep.
+L527621 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You, me and Harry?
+L527620 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ It's also our only way out of here! It holds three people.  And there's only three of us left now.
+L527619 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ It's not worth the risk.
+L527618 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Don't bother me, Norman.
+L527617 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Forget the sub.
+L527616 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I have to reset the sub.
+L527615 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Where are you going in such a hurry?
+L527517 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ No, I should stay calm.  Like you say.  Right, Norman?  Stay calm.
+L527516 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth --
+L527515 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Yeah, okay.  Sure, Norman.
+L527514 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth, I didn't.  Hold it together. Alright?
+L527513 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You bastard.
+L527512 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Don't do this.
+L527511 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You did, didn't you?
+L527510 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth --
+L527509 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You told him about me?
+L527508 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What?
+L527507 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You said something to him, didn't you?
+L527506 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ It's done, alright?  It's over!  And there's not a damn thing we can do about it now, okay?
+L527505 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Don't tell me to calm down!
+L527504 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Calm down, Beth.  Alright?
+L527503 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ He's not just a Navy captain -- he works for the fucking Pentagon.
+L527502 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You went through Edmunds' things?
+L527501 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ In Edmunds' things.
+L527500 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Where did you get this?
+L527499 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ "Although advised of risks, all personnel elect to remain down for duration of storm to continue investigation of alien sphere and associated spacecraft.  Signed, Barnes, USN."
+L527498 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Fuck you, Norman!  It's right here...
+L527497 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You're jumping to conclusions, Beth. Don't get worked up --
+L527496 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ So who was Barnes talking to at the last minute?  Nobody.
+L527495 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ So what?
+L527494 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Yeah, he <u>told</u> you.  Think.  What was Barnes doing before they cut that cable loose?  He was on the phone. Except that cable is a thousand feet long, Norman.  They would've broken off communication with us four, five minutes before they cleared out.
+L527493 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ C'mon, Beth.  Don't make this personal.  He told me himself they were taking us back.
+L527492 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ ... He lied to us.  He left us down here.
+L527470 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Eggs.
+L527469 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What are they?
+L527468 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Norman.
+L527462 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What could have done this?
+L527461 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ She was crushed.  Feel her skin -- it's like sandpaper.
+L527460 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I can't feel her bones.  She's like a sponge.
+L527320 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth.
+L527319 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I didn't do anything wrong.  I didn't mean...
+L527318 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth --
+L527317 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Nobody said... Norman...  What?  Why are you looking at me like that?
+L527316 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth.
+L527315 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What?...  Wait.  Don't... why are you --
+L527314 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ They are or they aren't.  Which is it?
+L527313 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I mean, I'm not... I wasn't absolutely sure if... they --
+L527312 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth --
+L527311 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What?  Why...
+L527310 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ And you didn't tell anyone?
+L527309 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Yeah, why?
+L527308 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You knew about the squid not being normal.  Before Fletcher went out there?
+L527307 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What?
+L527306 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Wait a minute.
+L527305 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ They have six tentacles.  A new species.  And the squid too.  They had no stomach.
+L527304 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What do you mean -- not normal?
+L527303 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Normally, I'd say no.  Everything's quiet now -- no ships, no divers, no electricity.  Makes sense.  But what's curious is -- these aren't normal jellyfish.
+L527302 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Me?  Well, I was wrapped in seaweed. It itched for a while, but I survived.  Beth, do you find it... curious that we're seeing all this life down here.  Nothing, and then these enormous flocks of squid.  Then jellyfish?
+L527301 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What about you?  What happened to you?
+L527300 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Yeah, it was awful.
+L527299 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ My gosh, Norman.
+L527298 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ ... when I was six, my younger brother and I -- we went swimming in the Pacific.  At my mother's beach house.  We both felt stinging, and when we came out of the water, he was wearing jellyfish head to toe. Killed him.
+L527297 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ No, thank you.  I hate jellyfish.
+L527296 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ A bad one.  It was the only book in there.  Norman, come here, look at this.
+L527295 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ We have a library?
+L527294 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ The library.
+L527293 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Where'd this come from?
+L527119 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Disrupt our brain waves, interfere with our ability to think.
+L527118 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ It could breathe in air and exhale cyanide gas.
+L527058 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Get this thing off me.
+L527057 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Norman!
+L527028 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Good theory, Ted.
+L527027 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ 400 years ago?  I'm sure Christopher Columbus would've loved these accomodations.
+L526957 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Such a gentlemen when you're scared shitless.
+L526956 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ No.  Go ahead.  Really.  Ladies first.
+L526955 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ You're next, Norman.
+L526954 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Yeah.  Drowning.
+L526953 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Isn't there a psychological term for that, Dr. Johnson?
+L526876 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What -- are you threatening me?
+L526875 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Just keep your mouth shut, alright? This could mean everything to our careers, you know that?  Don't jeopardize this.
+L526874 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ The timing has never seemed quite right.
+L526873 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Well, let's pray that's the only mistake you made.  Have you said anything to Barnes about this?
+L526872 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ It never occurred to me.
+L526871 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Well, you must have realized the chances an encounter like this would happen here.  In the ocean.  70 percent of the earth's surface is water, Norman.  That's first grade geography.
+L526870 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ We can't go down there.  We're not prepared.  That deep?  That takes years of training, Beth.  We're just scientists.  Lab scietists.  We wear ties and lab coats to work -- not oxygen tanks.
+L526869 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What do you expect?  For them to bring it up here?
+L526868 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Underwater?
+L526867 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ To the spacecraft.  To investigate.
+L526866 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Wait -- down where?
+L526865 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Because when we get down there --
+L526864 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ C'mon, Beth -- that report's like the blind leading the blind.
+L526863 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Do yourself a favor, Norman.  Are you listening?  Don't tell anyone what you just told me.
+L526862 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I spent a week reading Sagan and watching re-runs of the Twilight Zone.  Seriously.  I was just trying to pay the mortgage on my house -- I had no idea --
+L526861 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ That's quite a secret.
+L526860 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ It's bullshit.  The report's a joke.
+L526859 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I've read it twice, Norman.  It's brilliant.
+L526858 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ That ULF report everybody's patting me on the back about?
+L526857 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I love secrets.
+L526856 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth, look, can I trust you with a little secret?
+L527406 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Who says it's a he?
+L527405 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ He doesn't wait for an answer.
+L527195 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ By the bunks.
+L527194 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Norman?  Where's Norman?
+L527030 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I'm a woman.  I don't theorize.  I only deal with facts.
+L527029 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Well, what's your theory?
+L527018 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ It doesn't make any sense.
+L527017 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I don't get it.
+L527002 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Well, they're not mine.
+L527001 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Well, think.  Because there's footprints here that aren't mine.
+L527000 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ No.  I don't think so.
+L526900 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What's that -- mistake number two, Norman?
+L526899 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Pussy.
+L528063 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Won't make any difference.  The tapes document everything.
+L528062 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ We can refuse to talk.
+L528061 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ They're going to want answers and they're going to keep asking until they get them.
+L527766 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Yes you are...
+L527765 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ No I'm not.  I'm not star--
+L527764 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ You're staring at me.
+L527763 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Like what?  I'm not --
+L527762 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Why are you looking at me like that?
+L527761 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Another attack?
+L527760 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Our habitat, I mean.  This place can't handle another attack.
+L527759 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Just in time for what?
+L527758 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What?
+L527757 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ In time for what?
+L527756 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Just in time, too.
+L527749 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Yeah, I don't know how you could make that confusion.
+L527748 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ I'm sorry.  Slip of the tongue.
+L527747 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ That's a hell of a mistake to make, Beth.
+L527746 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Jerry.  Right.  I said Jerry, didn't I?
+L527681 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Harry?  That's bullshit.  We stood right there --
+L527680 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ We never even had a conversation, Norman.
+L527679 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Yes you did.  Norman, I wouldn't leave you out there.  You know that.
+L527678 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ I never said that.
+L527677 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ When he woke up, he said we were out of food.  He told me to get some from the ship.
+L527103 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Cannibalism, to be extreme.  And now we're talking about a new life form. Their values and ethics may be incomprehensible.
+L527102 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Take politics, our views on abortion, the death penalty...
+L527054 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ A light switch.  A button opened that door -- the craft runs on some sort of power.
+L527053 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ What are you looking for?
+L527037 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ It's an American spacecraft.
+L527036 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ Then what is it?
+L527005 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ You'd have to ask them.
+L527004 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ It's empty.  Why would someone build a ship like this?
+L526943 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ For whoever's in that thing.
+L526942 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ For who?  The fish?
+L526941 +++$+++ u7806 +++$+++ m528 +++$+++ BETH +++$+++ All that banging and pounding.  I don't know.  We should think about making a good first impression.
+L526940 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Pry the thing open?  What are we -- neanderthals?
+L527263 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ Harry thinks it's some sort of discharge from our own system, but I've seen it discharge before -- and it didn't look anything like this.
+L527262 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Is it coming from our own computer?
+L527261 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ No idea.  We have no surface support. It transmitted too fast to be coming from underwater.
+L527260 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Where's it coming from?
+L527259 +++$+++ u7807 +++$+++ m528 +++$+++ EDMUNDS +++$+++ Minutes ago.  Harry's trying to decode it in his room now.
+L527258 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ When did it come across?
+L528068 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ It would erase all our knowledge of it.  All of our power.
+L528067 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ You mean forget?
+L528066 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ The power allows us to manifest our fears, right?  What if we feared the power to go away?
+L528065 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ We all kill ourselves?  Bad joke.  Sorry, Beth.
+L528064 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ There is one possibility.
+L528055 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ No.  I don't.  But I always said to myself, when I die, I want to die laughing.
+L528054 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Good.  Thank you.  Now that I have it on.  Why are you laughing?  You don't even know what that means.
+L528053 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ How's that working out, by the way?
+L528049 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ It's not fast enough, Norman. There's a helluva lot of explosive down there.
+L528048 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Nine hundred feet to surface.
+L528047 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Less than a minute, we're never gonna make it.
+L528043 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Wait!
+L528042 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Well, press something!
+L528041 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ No idea.
+L528040 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ You know how to work this thing?
+L528038 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ I'm trying.  There.
+L528037 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Get her out of the seat, I need room to sit.  Harry?
+L528036 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You got her?
+L528035 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Her legs are in the way.
+L528034 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Just pull her -- down like inside -- Harry, work with me here!
+L528033 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Gimme a second --
+L528032 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I'm trying to keep balance with --
+L528031 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ C'mon, Norman!
+L528024 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Shut up and catch.
+L528023 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Three fifty-six, three fifty-five, three --
+L528022 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I heard!  I heard!
+L528021 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Hurry, Norman.  Four minutes.
+L528020 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Hold on.
+L528018 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Are you trying, damn it?  Just --
+L528017 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Missed.
+L528016 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I'm trying.  Shit.  Here -- catch her.
+L528015 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Push her, c'mon.
+L528014 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Hold on.
+L528013 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ I can't reach her.
+L528007 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ How far away's the sub?
+L528006 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Two and a half minutes.  Once we're in the sub.
+L528005 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ How much time you figure to get to the surface?
+L528004 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Shut up and open the door.
+L528003 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ We're never gonna make it.
+L528002 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Help me lift her.
+L528001 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Fine.
+L527996 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ I could hit her a little harder. More toward the cranium.
+L527995 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I don't think so.
+L527994 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Did I kill her?
+L527823 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Stop what?  What are you -- ?
+L527822 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ It's the squid!  Stop it!
+L527821 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You know what it is, Harry.
+L527820 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ What is it?
+L527771 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Is that why the two of you went through my dufflebag?
+L527770 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ That's right.
+L527769 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ The three of us.
+L527768 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ We just figured, you know, the three of us -- we need to... work together through this.
+L527754 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Don't have to.  Watch.  It'll do it for you.
+L527753 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ How do we decode it?
+L527752 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Navy transmission.  They're sent from Wisconsin.
+L527751 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Wisconsin?
+L527750 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Wisconsin's your answer.
+L527686 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ She's lying, Norman.  Just like she lied about fixing your suit.
+L527685 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ But why would she -- ?
+L527684 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ I was just in the cafeteria, there's plenty of food in there.  Take a look for yourself.
+L527683 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You didn't say that about the food?
+L527682 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ She's cracking, Norman.
+L527670 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ I thought she was with you.
+L527669 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth left?
+L527668 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Her suit's gone.
+L527667 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ She was supposed to be watching the sensor for me.
+L527666 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ When I woke up, nobody was here.
+L527665 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What do you mean?  She's not here?
+L527664 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ What happened to her?
+L527663 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Thank you.  My suit -- Beth said she fixed it --
+L527661 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ You're clear.  You see the airlock?
+L527660 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I can't breathe...  Am I... clear?
+L527659 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Norman, where are you?
+L527658 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Harry?
+L527657 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ ... you there?  Norman?
+L527271 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ I don't remember much.  It's like my memory is on the tip of my tongue -- but I can't taste any of it.  Funny, my senses are much keener though. Purer.  Hearing, seeing, smelling. Like, I can smell your sheets, Norman.  You tried to wash it out earlier, But I can still smell the urine.  Don't worry, I'm not going to tell the others.  It's normal, really, isn't it?  In a crisis.  The stress. The panic.
+L527270 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You don't remember that?
+L527269 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Did I?
+L527268 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You said something to me, before -- about how we were all going to die.
+L527267 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Don't do this.  Don't psychoanalyze me.  I hate squid.  Period.  Just like you hate jellyfish.
+L527266 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Have you looked outside?  Jellyfish. Everywhere.  I hate jellyfish.  Harry, what happened in the cafeteria?
+L527265 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ There's some sort of pattern here. It'll take a minute.
+L527264 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Getting anywhere with those?
+L527255 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ What are they?
+L527254 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ These aren't half bad, Fletcher.  You might have a second career coming.
+L527243 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ That far in what, Harry?
+L527242 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ I could never read that far.  I never wanted to.
+L527241 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Page 87 of what, Harry?
+L527240 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ What happens on page 87?  Have you ever read page 87?
+L527239 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What is it, Harry?
+L527238 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Norman?
+L527237 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Then explain it to me.
+L527236 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ You don't understand about the sphere.
+L527235 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Tell me about the door.  Do you remember how you opened the door to the sphere?... Harry?
+L527234 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ You were all supposed to leave.  You weren't supposed to stay down here.
+L527233 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You remember opening the door?
+L527232 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ What are you still doing here?
+L527231 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Harry, can you tell me about the sphere?
+L527230 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ It's like...
+L527229 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What noise?
+L527228 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ What is that?  That noise?
+L527141 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Curious, isn't it?  What's inside? Before I die, I'd sure like to open it and see.
+L527140 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ It's what's in that sphere, isn't it, Harry?  Whatever you think is in that thing -- you think it's going to kill you.
+L527139 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Then what, Norman?
+L527138 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ No.  I didn't say that.
+L527137 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ You mean, you think I'm cracking?
+L527136 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Look -- we're under a lot of pressure, we're tired, you're not thinking straight.
+L527135 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Am I?
+L527134 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I can't.  If I had a minute to think, maybe, but I know you're wrong.
+L527133 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Gimme another explanation.
+L527132 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I can't believe that, Harry.
+L527131 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Meaning we're never gonna get to the surface alive... to tell anyone.
+L527130 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Meaning we're never gonna get the chance to tell anyone.
+L527129 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ So, <u>we know</u>.  We know it went through a black hole.  We saw it.  Norman -- when we'd get to the surface, we'd tell someone about the black hole, wouldn't we?  It'd go in some report like some big discovery.  So in fifty years when they build that ship, they'd make precautions for a black hole.  <u>But they didn't</u>.  The called it an Unknown Entry Event.
+L527128 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ So what?
+L527127 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ On that flight recorder, they called the black hole an "Unknown Entry Event." They didn't know what a black hole was.  Fifty years from now, men are going to build that ship in a very tentative, experimental way, with no knowledge that time travel through a black hole is possible.
+L527126 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I don't follow you.
+L527125 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ A sign that the builders knew time travel through a black hole was possible.
+L527124 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Not a clue.
+L527123 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ I'm completely serious.  There is something very important missing from that spacecraft.  You know what that is?
+L527122 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Don't be so optomistic, Harry.
+L527112 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Good point.  I don't know what you're talking about, but good point.
+L527111 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ And we're just talking about three- dimensional creatures.  What if it's five or six or seven-dimensional?  So dimensional that we couldn't even see it to kill it.
+L527099 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Everything ever written about extra- terrestial life imagines that life is essentially human.  If it doesn't look human, it's a reptile or a big insect or something, having human values, human understanding.
+L527098 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I mentioned it in my report.  Didn't you read the report?
+L527081 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Our present.
+L527080 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ But on the way home, they miss their turn, go too far, into the past.
+L527079 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ This spacecraft was designed to pick things up.  They see things they want -- these claws go out and bring it in.  They come across this.  This... <u>sphere</u>.  Find it interesting, curious.  They draw it inside to take back home.
+L527078 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Which one?  Let me get the list out.
+L527077 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ This answers one of our questions.
+L527070 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Time travel.  A black hole.
+L527069 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ To what?
+L527068 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Our answer.
+L527061 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Whatever I can do to help.
+L527060 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Nice work, Norman.
+L526964 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Look, would you --
+L526963 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ C'mon, Norman.
+L526961 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Wait a second, I --
+L526960 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ C'mon.
+L526959 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ No, why don't --
+L526958 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Go ahead.  Ladies first.
+L526910 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I'm fine.
+L526909 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ You sound defensive.
+L526908 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I'm not being defensive.
+L526907 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Don't be defensive.
+L526906 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Fine.  I'm fine.
+L526905 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ You holding up alright?
+L526904 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What?
+L526903 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ How are you feeling, Norman?
+L527445 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ It's like showing Leonardo da Vinci a laptop computer.  He'd run screaming "witchcraft".  And you couldn't explain it to him, either. Modems, microchips, particle physics.
+L527444 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Don't gimme that psychology bullshit, Norman.  Psychology isn't a science, it's superstition.  It's a bunch of soft, subjective theories without any hard data to back it up. With an intellect like this, emotions don't mean shit.
+L527394 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Thank you.
+L527393 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Good idea, Ted.
+L527388 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ "We are friends".
+L527387 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ What'd you say?
+L527370 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Codes are for <u>hiding</u> information.  So it's making a mistake.  It's making a code without intending to.  I figured it's probably substituting numbers for letters...  Then I began to wonder what an alien intelligence would make of our keyboard.  And since we're getting spirals, I imagined the keyboard as a spiral.  So I translated it...
+L527369 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ See?  No code.  What'd I say?
+L527368 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ ... I asked myself, why would the sphere be using a code?  If you're trying to communicate, why use a code?
+L527351 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Yeah, I'll work on it, too.
+L527350 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ If it is a message, it's probably a substitution code.  I'll work on it.
+L527347 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ It's not a discharge.  Right, Edmunds?  You said before, right?  So it's gotta be a message.
+L527346 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Well, if it's a discharge --
+L527253 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Impotent?  I'm not impotent.
+L527252 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Salt's good for you, Ted.  Helps you from getting impotent.
+L527251 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Hey, go easy on the salt, will ya? We're not a bunch of icy streets here.
+L527085 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Look closely.  That isn't writing. Those are grooves.
+L527084 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Looks like a design, some writing, maybe.  Maybe it was sent to meet the spacecraft with a message.
+L527049 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Not where.  When.  400 years ago.  From our future.
+L527048 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Arrived?  From where?
+L527047 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ It didn't fly here.  It <u>arrived</u> here.
+L527046 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Please.  It must have flown here --
+L527045 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Meaning it didn't land in the water.
+L527044 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Meaning?
+L527043 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ We take a weeny little wedge, bang on it a couple of times, and bust off a chunk of the metal.  Yet any spacecraft -- even at a low velocity, say 200 miles an hour -- crashes into the water -- it's gonna be like hitting concrete, it would crumple like paper.  But there isn't a dent to be seen anywhere.  Not even a scratch.
+L527039 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ It's been obvious from the start, hasn't it, Captain?  That's why all the secrecy, why no one was told about it?
+L527038 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ An American spacecraft?  Half a mile long?  And buried 400 years?  Yeah, good theory, Harry.
+L527035 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Save your breath.  It's not an alien spacecraft.
+L527034 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ If it is an alien spacecraft --
+L527033 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Do you?
+L527032 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Gimme a minute here... I think I've got it.
+L527031 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ All the facts you need are right in front of you.
+L527026 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Unless, this alien spacecraft was -- you know -- somehow presenting itself to Americans in a way that would make us feel comfortable.
+L527025 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Think about it.
+L527024 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Why would this ship carry instructions in English?
+L527023 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Is it?
+L527022 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ But it's impossible.
+L527021 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ A spacecraft half a mile long -- with 500 tonnes of coral on top of it?  Someone went to a lot of trouble.  Try again.
+L527020 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Is it some sort of joke?  Like one of those hoaxes?
+L527019 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ You don't think it does?  I think it's rather obvious.
+L527016 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ That's right.
+L527015 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ English?
+L526971 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Shutup, Ted.  You didn't notice shit. Keep hammering.
+L526970 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Alot like.  You know, I noticed it before, but I didn't...
+L526968 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Gimme some room here, will you?  Back off.  Gimme some space.
+L526967 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Easy Ted, we're not mining gold.
+L526952 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ You're not afraid of the water, are you, Norman?
+L526951 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ It's just like swimming, Norman... You know how to swim, don't you?
+L526917 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Just one of Norman's many secrets.
+L526916 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ What is it, Harry?
+L526915 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ She told me what you said, Norman.
+L526914 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ Norman thinks we shouldn't be going down.  Thinks it's a mistake.
+L526913 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ What does Norman already know?
+L526912 +++$+++ u7809 +++$+++ m528 +++$+++ HARRY +++$+++ To who?  Arthur?  Nothing.  Nothing that Norman doesn't already know.
+L526911 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ What'd you say to him?
+L527608 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ About the time paradox.  How we were all going to die -- that there was no way we would make it out of here alive --
+L527607 +++$+++ u7810 +++$+++ m528 +++$+++ NAVY SEAMAN +++$+++ What was that, sir?
+L527606 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ That whole time -- I couldn't stop thinking of what Harry was saying earlier...
+L527605 +++$+++ u7810 +++$+++ m528 +++$+++ NAVY SEAMAN +++$+++ They're in the sub, sir.  Waiting.
+L527604 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Beth and Harry?
+L527603 +++$+++ u7810 +++$+++ m528 +++$+++ NAVY SEAMAN +++$+++ The others, sir?
+L527602 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ How are the others?
+L527601 +++$+++ u7810 +++$+++ m528 +++$+++ NAVY SEAMAN +++$+++ They're topside.  We're ready to take you home, sir.
+L527600 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ The ships?
+L527599 +++$+++ u7810 +++$+++ m528 +++$+++ NAVY SEAMAN +++$+++ It's over, sir, The storm has cleared.
+L527598 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Does this mean what I think it means?
+L527597 +++$+++ u7810 +++$+++ m528 +++$+++ NAVY SEAMAN +++$+++ Norman Johnson.
+L526783 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Told me what?
+L526782 +++$+++ u7812 +++$+++ m528 +++$+++ OFFICER +++$+++ You mean they haven't told you yet?
+L526781 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What report?
+L526780 +++$+++ u7812 +++$+++ m528 +++$+++ OFFICER +++$+++ By the way sir, I've read your report.  I think it's brilliant.
+L526779 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Really?
+L526778 +++$+++ u7812 +++$+++ m528 +++$+++ OFFICER +++$+++ Barnes.  He's very eager to meet you. Been calling us every half hour to see if you're arrived.
+L526777 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Captain who?
+L526776 +++$+++ u7812 +++$+++ m528 +++$+++ OFFICER +++$+++ Captain Barnes wants to see you right away, sir.
+L526775 +++$+++ u7812 +++$+++ m528 +++$+++ OFFICER +++$+++ This way, sir.
+L526774 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ No, they didn't say --
+L526773 +++$+++ u7812 +++$+++ m528 +++$+++ OFFICER +++$+++ No other equipment?  Scientific instruments?
+L526772 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Just that.  Careful, it's heavy.
+L526771 +++$+++ u7812 +++$+++ m528 +++$+++ OFFICER +++$+++ Any other bags, Dr. Johnson?
+L526770 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What the hell would a geologist be doing at a plane crash?
+L526769 +++$+++ u7813 +++$+++ m528 +++$+++ PILOT +++$+++ Strange, isn't it?  In the middle of the ocean no less.
+L526768 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Geologists?  At a plane crash?
+L526767 +++$+++ u7813 +++$+++ m528 +++$+++ PILOT +++$+++ Physicists, mathematicians, geologists, you name it.
+L526766 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Who's everyone?
+L526765 +++$+++ u7813 +++$+++ m528 +++$+++ PILOT +++$+++ Must be another Johnson then.  Been flying so many scientists out here -- can't keep everyone straight.
+L526764 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Know what?
+L526763 +++$+++ u7813 +++$+++ m528 +++$+++ PILOT +++$+++ You mean you don't know?
+L526762 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What report?
+L526761 +++$+++ u7813 +++$+++ m528 +++$+++ PILOT +++$+++ Huh?
+L526760 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What report?
+L526759 +++$+++ u7813 +++$+++ m528 +++$+++ PILOT +++$+++ Well, everybody's been talking about that report you wrote.
+L526758 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You've heard of me?
+L526757 +++$+++ u7813 +++$+++ m528 +++$+++ PILOT +++$+++ Oh, so you're that Dr. Johnson.
+L526756 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I'm in psychology.  Was.  Still am really, just been a while.  I treat aircrash survivors.
+L527522 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Of course he did.  He's been isloated for 400 years.  He wants someone to talk to.  Look, you put a human being in isolation for four days, they can become neurotic, sometimes psychotic.  We're talking about 400 years here.  An alien that shows emotional responses.  I think we need to address him, before he reacts further.
+L527521 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Jerry isn't hostile, Norman.  He said earlier -- we were his friends --
+L527479 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I'm not sure.
+L527478 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ You think Jerry has something to do with what killed Edmunds?  With what's out there?
+L527475 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Not that I know of.  Why?
+L527474 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Has Harry spoken with Jerry?
+L527473 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Barnes didn't know.  Couldn't get a reading.
+L527472 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What was it?
+L527449 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Why's that?
+L527448 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Frankly, Ted, I'd be much happier if Jerry was just a cold, emotionless intellect.
+L527424 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ When he uses a phrase like "I am Happy", I think we should think twice about what we ask him.
+L527423 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ You want to put him on your couch, Norman.  Grill him about his childhood?
+L527402 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Unless it's an act.
+L527401 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Well, he's polite.
+L527367 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Sure, why not.  Give him the trophy. That pretentious son of a bitch.  You heard him, Norman.  All that "someone went to a lot of trouble, try again" bullshit.  And "impotent".  Where does he get off saying I'm impotent?  He's a fucking self-righteous, little prick.
+L527366 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Well, how about we wait and see what Harry comes up with?
+L527365 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Inside the sphere.  Look, that's the vertical torso, three legs, two arms.  There's no head, so I'm guessing the creature's head is located within the torso itself, you know?
+L527364 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ The creature?
+L527363 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Don't you see it?  It's a picture of the creature.
+L527362 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ This is like nursery school.
+L527361 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Try this one.
+L527360 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Please, Ted.
+L527359 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Squint harder.
+L527358 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I don't see anything.
+L527357 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Take a look.  I rearranged the numbers.  Put 'em up to the light.  Go ahead.  Squint at it.
+L527356 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You mean a picture?
+L527355 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ It's not some fucking substitution code, it's a direct visual representation.
+L527354 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Like what?
+L527353 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ He's manic, Norman.  You know that? This reliance on Harry is misplaced. You hear me?  Totally misplaced.  He's overlooking things.  Obvious things.
+L527011 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Still, make a note I recognized that.
+L527010 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Earth doesn't have a patent on buttons, Ted.
+L527009 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ Strange, isn't it?  You know -- how it would have a button.
+L526973 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ You're a 53 year old shrink, what are you gonna do?
+L526972 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You want me to try?
+L526902 +++$+++ u7814 +++$+++ m528 +++$+++ TED +++$+++ He's a pussy.
+L526901 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ He wasn't feeling well.
+L526754 +++$+++ u7815 +++$+++ m528 +++$+++ WIFE +++$+++ They never used to send a Navy car.
+L526753 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ I don't know.
+L526752 +++$+++ u7815 +++$+++ m528 +++$+++ WIFE +++$+++ Was it a military crash?
+L526751 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ What?
+L526750 +++$+++ u7815 +++$+++ m528 +++$+++ WIFE +++$+++ There's a U.S.  Navy car outside, Norman.
+L526749 +++$+++ u7815 +++$+++ m528 +++$+++ WIFE +++$+++ How are you getting to the airport? You need money for the bus?
+L526748 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Keep watching the news.  Are you watching the news?
+L526747 +++$+++ u7815 +++$+++ m528 +++$+++ WIFE +++$+++ Four years of unemployment would look too good on a resume.
+L526746 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Four.  Four years --
+L526745 +++$+++ u7815 +++$+++ m528 +++$+++ WIFE +++$+++ Well, I can't imagine five years of unemployment --
+L526744 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ Don't be so supportive, honey.
+L526743 +++$+++ u7815 +++$+++ m528 +++$+++ WIFE +++$+++ In the closet.  I don't understand, Norman -- why would they call you?
+L526742 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ He didn't say much at all.  Honey --
+L526741 +++$+++ u7815 +++$+++ m528 +++$+++ WIFE +++$+++ There's nothing on the news about a crash.  Did he say what airline?
+L526740 +++$+++ u7811 +++$+++ m528 +++$+++ NORMAN +++$+++ You seen my suitcase?
+L526739 +++$+++ u7815 +++$+++ m528 +++$+++ WIFE +++$+++ What kind of a crash was it?

@@ -1,0 +1,861 @@
+L310943 +++$+++ u1542 +++$+++ m103 +++$+++ LOVINGTON +++$+++ No. He's been trailed twenty-four hours a day since this thing started. He can't even get a phone call we don't know about.
+L310942 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ It's not enough!  Are you certain she's not with King Westley?
+L310941 +++$+++ u1542 +++$+++ m103 +++$+++ LOVINGTON +++$+++ I've put extra men on, all along the way.
+L310940 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ What I'm asking isn't impossible. My daughter is somewhere between here and Miami. I want her found!
+L310939 +++$+++ u1542 +++$+++ m103 +++$+++ LOVINGTON +++$+++ We can't do the impossible, Mr. Andrews.
+L311437 +++$+++ u1544 +++$+++ m103 +++$+++ MARY +++$+++ Yes sir. If you'll excuse me, sir—she sent me for a drink.  Andrews stands a moment thoughtfully and then starts up the stairs, following which the scene dissolves to the UPSTAIRS CORRIDOR in front of Ellie's door. Andrews enters and knocks several times. Receiving no response, he gingerly opens the door.
+L311436 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Yes. I know. Still in the dumps, huh?
+L311435 +++$+++ u1544 +++$+++ m103 +++$+++ MARY +++$+++ Oh, no, sir. No different than—
+L311434 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ What's the matter? Anything wrong?
+L311433 +++$+++ u1544 +++$+++ m103 +++$+++ MARY +++$+++ Why—uh—she's all right, sir.
+L311432 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ How is she?
+L311431 +++$+++ u1544 +++$+++ m103 +++$+++ MARY +++$+++ Yes, sir?
+L311430 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Oh—Mary—
+L311554 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yes!  But don't hold that against me. I'm a little screwy myself.
+L311553 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ I asked you a question. Do you love her?
+L311552 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ A normal human being couldn't live under the same roof with her, without going nuts.  She's my idea of nothing!
+L311551 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Do you love her?
+L311550 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ If you had half the brains you're supposed to have, you'd have done it yourself—long ago.
+L311549 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ She grabbed herself a perfect running mate. King Westley! The pill of the century!  What she needs is a guy that'd take a sock at her every day—whether it's coming to her or not.
+L311548 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ That's an evasion.
+L311547 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ A guy that'd fall in love with your daughter should have his head examined.
+L311546 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Here you are.  Do you mind if I ask you something frankly?  Do you love my daughter?
+L311544 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah—with all the trimmings. Now, how about the check. Do I get it?
+L311543 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ You were taken for a buggy ride?
+L311542 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Listen, did anybody ever make a sucker out of you? This is a matter of principle. Something you probably wouldn't understand.  When somebody takes me for a buggy ride I don't like the idea of having to pay for the privilege.
+L311541 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ The average man would go after the reward. All you seem to—
+L311540 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ We'll go into that some other time.
+L311539 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ You're a peculiar chap.
+L311538 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ All I want is thirty-nine sixty. If you'll give me a check I'll get out of this place. It gives me the jitters.
+L311537 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ I'm afraid I'm a little confused. You see, I assumed you were coming here for—
+L311536 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Who said anything about a reward!
+L311535 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ The reward.
+L311534 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What ten thousand?
+L311533 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Let me get this straight. You want this thirty-nine sixty in addition to the ten thousand dollars?
+L311532 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What's the matter? Isn't it cheap enough? A trip like that would cost you a thousand dollars!
+L311531 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Yes, I know—but—
+L311530 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Why not? I'm not charging you for the time I wasted.
+L311529 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ And this is what you want—thirty- nine dollars and sixty cents?
+L311528 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I sold some drawers and socks, too; I'm throwing those in.
+L311527 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ If I didn't I wouldn't be here!  I've got it all itemized. 
+L311526 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ don't know. I'd have to see on what you base your claim. I presume you feel you're justified in—
+L311525 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Oh, she does, huh? Isn't that sweet of her! You don't , I suppose.
+L311524 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Please understand me. When I say she didn't tell me anything about it, I mean not until a little while ago. She thinks you're entitled to anything you can get.
+L311523 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ That's typical of your daughter. Takes those things for granted.  Why does she think I lugged her all the way from Miami—  for the love of it?
+L311522 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ I was surprised to get your note. My daughter hadn't told me anything about you. About your helping her.
+L311521 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Come in. Sit down.
+L311520 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah.
+L311519 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Mr. Warne?
+L311514 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ No—no. What the deuce do I want to—
+L311513 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ You needn't see anybody. You can come directly to my study. I'd appreciate it very much if—
+L311512 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah, but I don't like the idea of walking in on your jamboree . . . Just between you and me—those things give me a stiff pain.
+L311378 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ "I found a million dollar baby—"
+L311377 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Can't you get them to go any faster?  This dissolves to a deserted ROAD, Peter at the wheel of his car. His high spirits find expression in his efforts to sing.
+L311503 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Well, if it isn't the groom himself! You're just in time, King.
+L311502 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ I'll be going.  Ellie swallows her drink and starts pouring herself another, as King enters.
+L311498 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Certainly!  Pay him off. He's entitled to it. He did an excellent job. Kept me thoroughly entertained. It's worth every penny he gets.
+L311497 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ I suppose so.
+L311496 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Are you going to see him?
+L311495 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ I'm sorry you read it.
+L311494 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Looks like that was his only interest in me. The reward.
+L311493 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Oh, please, Dad—
+L311492 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Why, no . . . Don't be silly.
+L311491 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You haven't heard from him, have you, Dad?
+L311490 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Oh, no—no.
+L311489 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Why? Do you know him? 
+L311488 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Peter Warne! 
+L311487 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Yes. Peter Warne.
+L311486 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Is that his name?
+L311485 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Yes, I guess I have.  I don't want to hurt anybody any more. I want to get away from all this front page publicity. It suddenly strikes me as being cheap and loathsome. I can't walk out on King now. It'll make us all look so ridiculous.  Besides, what difference does it make?  I'll never see Peter again.
+L311482 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ It doesn't matter.  I don't want to stir up any more trouble. I've been doing it all my life. I've been such a burden to you—made your life so miserable—and mine, too. I'm tired, Dad. Tired of running around in circles. He's right, that's what I've been doing ever since I can remember.
+L311481 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ But that's silly, child. Seeing how you feel, why—
+L311480 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ No, I'll go through with it.
+L311479 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Well, under the circumstances, don't you think we ought to call this thing off?
+L311478 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ It's no use, Dad. I practically threw myself at him. 
+L311477 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ I'd like to have a talk with him.
+L311476 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I don't know.
+L311475 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Well, what are we going to do about it? Where is he?
+L311474 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ He's marvelous!
+L311473 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Fine man to fall in love with.
+L311472 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ He blames you for everything that's wrong about me. Thinks you raised me stupidly.
+L311471 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Well!
+L311470 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ He doesn't think so much of you either.
+L311469 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Ridiculous!
+L311468 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ He despises everything I stand for. He thinks I'm spoiled and pampered, and selfish, and thoroughly insincere.
+L311467 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Oh, come now—
+L311466 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ It'll do no good.  He despises me.
+L311465 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Well, if it's as serious as all that—we'll move heaven and earth to—
+L311464 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I don't know very much about him.  Except that I love him.
+L311463 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Who is he?
+L311462 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ No.
+L311461 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Now, don't tell me you fell in love with a bus driver!
+L311460 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ On the road.
+L311459 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ I haven't seen you cry since you were a baby. This must be serious.  Where'd you meet him?
+L311454 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Sorry, Dad. I wouldn't hurt you for the world. You know that.
+L311453 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ If you have, it isn't too late. You know how I feel about him. But I want to make you happy. You gave me such a scare—I—when I couldn't find you.  You know, the old pump isn't what it used to be.
+L311452 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Oh, no.
+L311451 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ You've been acting so strangely since you returned. I'm—I'm worried. I haven't bothered to ask you any questions—I—  Isn't all this what you wanted?  You haven't changed your mind about King, have you?
+L311450 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Nothing. 
+L311449 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ What's the matter, Ellie? What's wrong?
+L311446 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Yes. Personally, I think it's silly, too.
+L311445 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Oh, yes. I heard.
+L311444 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Landing on the lawn in an autogyro.
+L311443 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Stunt?
+L311442 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Well, everything's set. Creating quite a furor, too. Great stunt King's going to pull.
+L311441 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Sorry. Must have been day-dreaming. 
+L311440 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ I knocked several times.
+L311439 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Oh, hello, Dad.
+L311438 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Ellie—
+L310503 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Ah! Coconut layer cake. Nice and gooey, too. Just the way I like it.
+L310502 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I'll shout to my heart's content! I'll scream if I want to.
+L310501 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Please don't shout.
+L310500 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I won't thank you! I'll never thank you!
+L310499 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ A time will come when you'll thank me for this.
+L310494 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You've been telling me what not to do since I was old enough to remember.  I'm sick of it!
+L310493 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ He's no good, Ellie, and you know it. You married him only because I told you not to.
+L310492 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Your whole life is devoted to just one thing. To accumulate more money. At least there's romance in what he's doing.
+L310491 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Why not?  Look what he's doing for aviation. It takes courage to do what he does. And character! At least he's accomplished something worthwhile. I suppose you'd like to have me marry a business man. Well, I hate business men—particularly if you're a shining example.
+L310490 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ You're going to finance him, I suppose.
+L310489 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ He's one of the best fliers in the country. Right now he's planning a trip to Japan.
+L310488 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Never mind—I'll get it myself.  Gigolo? Why, you took the word right out of my mouth. Thanks.
+L310487 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You talk as if he were a gigolo—or something.
+L310486 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ That was enough. Do you mind handing me the ketchup?
+L310485 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You only met him once .
+L310484 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Nothing much. I just think he's a fake, that's all.
+L310483 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What've you got against King Westley?
+L310482 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ I'll do it if it takes every penny I've got. I'll do it if I have to bribe that musical comedy Justice of the Peace! I'll do it—if I have to prove that you were dragged in, staggering drunk. You probably were.  Mmm—mmm. This filet mignon is divine!
+L310481 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You'll never do it! You can't do it!
+L310480 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ I'll get it annulled.
+L310479 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What do you expect to accomplish by all this? I'm already married!
+L310478 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ In that event, we won't need so many supplies.
+L310477 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You'll have a corpse on your hands! That what You'll have. I won't eat a thing while I'm on this boat.
+L310476 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ We leave Miami in an hour. Soon's we get some supplies aboard.
+L310475 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ South America!
+L310474 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ South America.
+L310473 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Where are you taking me?
+L310471 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I hope you're not comparing yourself to Napoleon. He was a strategist. Your idea of strategy is to use a lead pipe.
+L310470 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Please. I can't fight on an empty stomach. Remember what Napoleon said.
+L310469 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You can't tempt me.  Do you hear? I won't eat!
+L310468 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ If Gandhi had a chef like Paul, it would change the whole political situation in India.
+L310467 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Smart, aren't you! So subtle.
+L310460 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Not so far as I'm concerned, you're not.  Yes?
+L310459 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You're wasting your time. I'm already married to him.
+L310458 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Because marrying that fool King Westley is—
+L310457 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Yes. I know.  Because I'm your daughter and you love me. Because you don't want me to make any mistakes. Because—
+L310456 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ You ought to know why. Because—
+L310455 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I won't stand for it! I won't stand for your running my life! Why do you insist on it!
+L310454 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Come on, Ellie. Stop being silly. You know I'm going to have my way.
+L310453 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ All right! Put me in chains! Do anything you want!  But I'm not going to eat a thing until you let me off this boat!
+L310452 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ I might.
+L310451 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Why don't you put me in chains?
+L310450 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Know what my next move is? No more cigarettes.
+L310449 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I don't want to eat!  And there's one more thing I don't want! Definitely! That's to see you.
+L310448 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ What's this about not eating?
+L311229 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Of course I mean it! I don't care whom she's married to—  —as long as I can get her back. 
+L311228 +++$+++ u1553 +++$+++ m103 +++$+++ WESTLEY +++$+++ If you really mean it, I will.
+L311227 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ All right. That's why I sent for you.  There's a room full of reporters out there. I want you to make a statement—that you've had a talk with me—that we've reached an understanding—that if Ellen comes home, I won't interfere with your marriage. Will you do that?
+L311226 +++$+++ u1553 +++$+++ m103 +++$+++ WESTLEY +++$+++ Why should she? After all—
+L311225 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Yes. I know. Well, you can help now. I issued a statement yesterday that I've withdrawn my objections. Begging her to come home. I haven't heard from her. Apparently she doesn't trust me.
+L311224 +++$+++ u1553 +++$+++ m103 +++$+++ WESTLEY +++$+++ might have been able to help if it weren't for you. I've been watched so closely, I—
+L310513 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Holy Smoke! I forgot all about that.  Send a wireless at once, "Lovington Detective Agency. Daughter escaped again. Watch all roads—all transports and railroad stations in Miami. Have your New York office keep tabs on King Westley. Intercept all messages. Want her back at all costs!"
+L310512 +++$+++ u1532 +++$+++ m103 +++$+++ CAPTAIN +++$+++ What about that diamond wrist watch she had on—she can raise some money on that?
+L310511 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Terrible! Nothing terrible about her. She's great! Marvelous youngster! Got a mind of her own. Knows just what she wants.  She's not going to get it though. She won't get very far. Has no money.
+L310510 +++$+++ u1532 +++$+++ m103 +++$+++ CAPTAIN +++$+++ What a hell cat. No controlling these modern girls.  They're terrible!
+L310506 +++$+++ u1532 +++$+++ m103 +++$+++ CAPTAIN +++$+++ Lower the boats!
+L310505 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ It's my daughter! Go after her.
+L310442 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Absurd!  All this fuss over a snip of a girl.  I'm going down to see her myself.
+L310441 +++$+++ u1532 +++$+++ m103 +++$+++ CAPTAIN +++$+++ It's not quite that simple.  I've dealt with prisoners in my time, but this one—
+L310440 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Why didn't you jam it down her throat?
+L310439 +++$+++ u1532 +++$+++ m103 +++$+++ CAPTAIN +++$+++ Yessir. She refuses them all.
+L310438 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Been sending her meals in regularly?
+L310437 +++$+++ u1532 +++$+++ m103 +++$+++ CAPTAIN +++$+++ She hasn't had a thing yesterday—or today.
+L310436 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ On a hunger strike, huh?  When'd she eat last?
+L311582 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ I haven't the slightest idea.
+L311581 +++$+++ u1541 +++$+++ m103 +++$+++ KING +++$+++ What happened?
+L311428 +++$+++ u1541 +++$+++ m103 +++$+++ KING +++$+++ Yes, of course.
+L311427 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ We've done that already.
+L311426 +++$+++ u1541 +++$+++ m103 +++$+++ KING +++$+++ Oh, no. She'll be crazy about it. Well, see you later. I'm going out on the lawn and arrange for landing space.  Goodbye. 
+L311425 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Personally, I think it's stupid!  But go ahead. Have a good time. As long as Ellie doesn't object.
+L311424 +++$+++ u1541 +++$+++ m103 +++$+++ KING +++$+++ Why, it'll make all the front pages. A spectacular thing like that—
+L311423 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ You thought that up all by yourself, huh?
+L311421 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Fine. I'll see you at the reception.
+L311420 +++$+++ u1541 +++$+++ m103 +++$+++ KING +++$+++ Yes, sir.
+L311419 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Try. Do me a favor. Try. It's your only chance. And hers, too. Do that for me—and maybe we'll be friends—  Maybe.  Do we understand each other?
+L311416 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Sock her!
+L311415 +++$+++ u1541 +++$+++ m103 +++$+++ KING +++$+++ What would you like to have me do?
+L311414 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ No?  Say, listen—I've devoted a whole lifetime trying to tame that wildcat. Toughest job I ever tackled. Ever hear of J.P. Clarkson? Biggest man in the country, isn't he? Well, I tamed him . Got him eating out of the palm of my hand. I've browbeaten financiers, statesmen, foreign ministers—some of the most powerful people in the world—but I've never been able to do a thing with her. She's been too much for me. I'm glad you think it's easy.  Now listen—if you'll do what I tell you, perhaps I might develop a little respect for you. You never can tell.
+L311413 +++$+++ u1541 +++$+++ m103 +++$+++ KING +++$+++ Ellie? Oh, she's no responsibility.
+L311407 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Someday perhaps, you might even take charge.
+L311406 +++$+++ u1541 +++$+++ m103 +++$+++ KING +++$+++ You talk as if—
+L311405 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Naturally.  You're going to become a partner in a big institution. It's one of the largest in the world.
+L311404 +++$+++ u1541 +++$+++ m103 +++$+++ KING +++$+++ Why; naturally, I—
+L311223 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ You've got a good thing and you're hanging on to it, huh?  All right, You win. I'll just have to get used to you. I admit I'm licked. But only because I'm worried. I've had detectives all over the country searching for her. I've seen thousands of photographs. Fortune tellers, nuts, every crank in the country has written me.  Haven't slept one night this week. If I don't find her, I'll go crazy.
+L311222 +++$+++ u1541 +++$+++ m103 +++$+++ KING +++$+++ You've made that quite evident—with all your threats of annulment.  Well, it hasn't bothered me for a minute. Ellie and I got married because we love each other. And she's proving it; as far as I'm concerned there's going to be no annulment.
+L311221 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ I haven't changed my mind, Westley, I want you to understand that! I don't like you! I never have!  I never will! That's clear enough, isn't it?
+L311587 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ "What's holding up the annulment, you slow poke? The Walls of Jericho are toppling."  Send him a telegram right away. Just say: "Let 'em topple."
+L311586 +++$+++ u1551 +++$+++ m103 +++$+++ SECRETARY +++$+++ There's another wire from Peter, sir. They're in Glen Falls, Michigan.
+L311585 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Ooooooh.  Hello my would-be ex-son-in-law. I've sent you a check for a hundred thousand. Yes. That's the smartest thing you ever did, Westley, not to contest that annulment. That's satisfactory, isn't it? Yeah. Well, it ought to be. Oh I'm not complaining. It was dirt cheap.  Don't fall out of any windows.
+L311584 +++$+++ u1551 +++$+++ m103 +++$+++ SECRETARY +++$+++ But it's King Westley on the phone.
+L311583 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Don't want to talk to—don't want to talk to anybody. Don't want to see anybody.
+L310787 +++$+++ u1551 +++$+++ m103 +++$+++ SECRETARY +++$+++ They're the finest detective agency in the country, sir.
+L310786 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Amateurs!
+L310785 +++$+++ u1551 +++$+++ m103 +++$+++ SECRETARY +++$+++ They're practically all the same, sir. 
+L310784 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ What do they say?
+L310783 +++$+++ u1551 +++$+++ m103 +++$+++ SECRETARY +++$+++ Yessir.  There's a report here from every State along the East coast. Want to hear them?
+L310782 +++$+++ u1530 +++$+++ m103 +++$+++ ANDREWS +++$+++ Any others?
+L310781 +++$+++ u1551 +++$+++ m103 +++$+++ SECRETARY +++$+++ Here's another wire, sir. This one's from Charleston.  "Checking every northbound train. Also assigned twenty operatives to watch main highways. No success yet. Will continue to do everything possible." Signed: Lovington Detective Agency, Charleston.
+L310979 +++$+++ u1531 +++$+++ m103 +++$+++ BOY +++$+++ Thanks.
+L310978 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Me? Forget it, son.  I got millions.
+L310972 +++$+++ u1531 +++$+++ m103 +++$+++ BOY +++$+++ I was gonna do it, but Ma wouldn't let me. She was ashamed, I guess.
+L310971 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Going without food is bad business, son. Why didn't you ask somebody?
+L310970 +++$+++ u1531 +++$+++ m103 +++$+++ BOY +++$+++ Ma spent it all for the tickets. She didn't know it was gonna be so much.  We shouldn'a come, I guess, but Ma said there's a job waitin' for her in New York—and if we didn't go, she might lose it.
+L310969 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What happened to your money?
+L310968 +++$+++ u1531 +++$+++ m103 +++$+++ BOY +++$+++ We ain't ate nothin' since yestidday.
+L310698 +++$+++ u1531 +++$+++ m103 +++$+++ BOY +++$+++ But the lady says—
+L310697 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Never mind, son. She doesn't want it. 
+L311201 +++$+++ u1533 +++$+++ m103 +++$+++ DANKER +++$+++ "Young people in love Are very seldom hungry. People in love Are very seldom hungry . . ."
+L311200 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ No.
+L311199 +++$+++ u1533 +++$+++ m103 +++$+++ DANKER +++$+++ Oh, I see, young people in love are never hungry.
+L311198 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ No, thanks. We're not hungry.
+L311195 +++$+++ u1533 +++$+++ m103 +++$+++ DANKER +++$+++ . . . turn."
+L311194 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ All right, let it go.
+L311193 +++$+++ u1533 +++$+++ m103 +++$+++ DANKER +++$+++ Tonsil? Me? No! Me burn a tonsil?  "My tonsils won't burn— As life's corners I . . .
+L311192 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Hey, hey, aren't you afraid you'll burn out a tonsil?
+L310983 +++$+++ u1534 +++$+++ m103 +++$+++ DRIVER +++$+++ Phone for help?  We're right in the middle of nowhere. There isn't a town within ten miles of here.
+L310982 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Holy Smokes! You'll never get out yourself! Better phone for some help.
+L310981 +++$+++ u1534 +++$+++ m103 +++$+++ DRIVER +++$+++ That storm sure made a mess outa these roads.
+L310582 +++$+++ u1534 +++$+++ m103 +++$+++ DRIVER +++$+++ Maybe they do—and maybe they don't.
+L310581 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ These seats accommodate two passengers, don't they?
+L310580 +++$+++ u1534 +++$+++ m103 +++$+++ DRIVER +++$+++ Yeah?
+L310579 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Driver!
+L310571 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You win!
+L310570 +++$+++ u1534 +++$+++ m103 +++$+++ DRIVER +++$+++ Oh, yeah?
+L310569 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Now, that's a brilliant answer. Why didn't I think of it? Our conversation could have been over long ago.
+L310568 +++$+++ u1534 +++$+++ m103 +++$+++ DRIVER +++$+++ Oh, yeah?
+L310567 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Look here, partner. You may not like my nose. But I do. It's a good nose. The only one I've got. I always keep it out in the open where anybody can take a sock at it. If you decide to do it, make sure you don't miss.
+L310566 +++$+++ u1534 +++$+++ m103 +++$+++ DRIVER +++$+++ Fresh guy, huh! What you need is a good sock on the nose.
+L310565 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ It's okay with me. I'm not arguing.
+L310564 +++$+++ u1534 +++$+++ m103 +++$+++ DRIVER +++$+++ What're you gonna do about the papers? Somebody's gotta pick 'em up.
+L310563 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Oh, I wouldn't kid you . On the level, it actually happened. Nobody bought a paper that day. They followed me all over town and read the news from the seat of my pants.
+L310562 +++$+++ u1534 +++$+++ m103 +++$+++ DRIVER +++$+++ Hey, whadda you tryin' to do—kid me?
+L310561 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ That's a long story, my friend. You see, I don't like sitting on newspapers. I did once and all the headlines came off on my white pants.
+L310560 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Oh—the papers—
+L310559 +++$+++ u1534 +++$+++ m103 +++$+++ DRIVER +++$+++ The papers! The papers! Whadda you mean throwin' 'em out!
+L310558 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Huh?
+L310557 +++$+++ u1534 +++$+++ m103 +++$+++ DRIVER +++$+++ What do you think you're doing!
+L310554 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Just between you and me, I never intended taking it off.
+L310553 +++$+++ u1534 +++$+++ m103 +++$+++ DRIVER +++$+++ Okay! Okay! Keep your shirt on, young feller. 
+L310552 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ If you'll be good enough to remove those newspapers I'll have a seat.
+L310551 +++$+++ u1534 +++$+++ m103 +++$+++ DRIVER +++$+++ Whadda you want!
+L311561 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I would. But I've got a weak stomach.
+L311560 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Why don't you stay and watch the fun? You'll enjoy it immensely.
+L311559 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Same to you.
+L311558 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Congratulations.
+L311557 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You bet I did.
+L311556 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I hope you got your money.
+L311277 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I don't care. I love you. Nothing else matters. We can run away. Everything'll take care of itself.  Please, Peter. You can't go out of my life now. I couldn't live without you.  Oh, Peter—
+L311276 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You're forgetting you're married.
+L311275 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I love you.
+L311274 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Better go back to your bed.
+L311269 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Maybe.  Sure—sure, I've thought about it. Who hasn't? If I ever met the right sort of a girl, I'd—  Yeah, but where you going to find her—somebody that's real—somebody that's alive? They don't come that way any more.
+L311268 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Yes. Haven't you thought about it at all? Seems to me you could make some girl wonderfully happy.
+L311267 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Me?
+L311266 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Haven't you ever wanted to fall in love?
+L311258 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Why not?
+L311257 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Nope.
+L311256 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Thank you.  Am I going to see you in New York?
+L311252 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah, swell.
+L311251 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Yes. You'll have a great story, won't you?
+L311241 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Okay.  Cottage Number Three.
+L311240 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I couldn't arrive in New York at three in the morning. Everybody's in bed.
+L311239 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I'm glad you think so. If you ask me, it's foolish. I told you there's no sense in our staying here tonight. We could make New York in less than three hours.
+L311238 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ That's swell!
+L311237 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Talked him out of it. He thinks we're going to stay a week. I'll have to think of something before morning.
+L311236 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What about money?
+L311235 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah. He finally agreed to let us have a room.
+L311234 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Any luck?
+L311219 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Darling!
+L311218 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You don't have to eat the carrots.  Just passed a pond with some ducks in it.
+L311216 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ A black eye. 
+L311215 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What'd you give him for the car?
+L311214 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Just a road thief. Picks people up and runs off with their stuff. What a racket! 
+L311213 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What happened?
+L311212 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Come on! come on! 
+L311211 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Oh, you've been hurt! There's a cut on—
+L311210 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Come on—get in.
+L311209 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Oh, Peter! What happened? Are you all right?
+L311206 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ If you do, I'll break your neck.
+L311205 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Never!  I'm going in and ask him—
+L311204 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Eat a carrot.
+L311203 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Why not? I'm hungry.
+L311202 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What were you going to do? Gold dig him for a meal?[13]
+L311189 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ We don't need forty cars.
+L311188 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Why didn't you take all your clothes off? You could have stopped forty cars.
+L311187 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I proved once and for all that the limb is mightier than the thumb.
+L311186 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What for?
+L311185 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You might give me a little credit.
+L311184 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Mind your own business.
+L311183 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What're you going to do?
+L311182 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You're such a smart aleck! Nobody can do anything but you. I'll show you how to stop a car—and I won't use my thumb.
+L311181 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You! Don't make me laugh.
+L311180 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Yes. But look at all the fun you had.  Mind if I try?
+L311179 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I guess maybe I won't write that book after all.
+L311178 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ When you get up to a hundred, wake me up.
+L311177 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Something must have gone wrong. I guess I'll try number two.
+L311175 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Now watch me. I'm going to use Number One. Keep your eye on that thumb, baby, and see what happens.
+L311174 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Here comes a car!
+L311173 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Hm? Yeah, but it's no good if you haven't got a long face with it.
+L311172 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Amazing.
+L311171 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Oh, that's nothing. Now take number three, for instance. That's a pip. It's the pathetic one. When you're broke—and hungry—and everything looks black. It's a long movement like this—  —with a follow through.
+L311170 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You figured that all out yourself, huh?
+L311169 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Number two is a wider movement—a smile goes with that one—like this.  That means you got a couple of brand new stories about the farmer's daughter.[12]
+L311168 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Clever.
+L311167 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ But the thumb always works. Different ways to do it, though. Depends on how you feel. For instance, number one is a short, jerky movement—  That shows independence. You don't care if they stop or not. 'Cause you got some money in your pocket, see?
+L311164 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Well, it is simple. It's all in the thumb, see? A lot of people do it—
+L311163 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Oh, no!
+L311162 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You think it's simple, huh?
+L311161 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ There's no end to your accomplishments.
+L311160 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Expert! Going to write a book on it. Called the "Hitch-Hikers Hail."
+L311159 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You're an expert, I suppose.
+L311158 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Oh, they'll stop, all right. It's a matter of knowing how to hail them.
+L311157 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What if nobody stops for us?
+L311156 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I wish you wouldn't talk too much. We let a car get away. 
+L311155 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I hate the horrid stuff.
+L311154 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You don't think I'm going around panhandling for you.  Best thing in the world for you—carrots. Had a tough time getting them. If that farmer ever caught me—goodnight!
+L311153 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ No!!  It's a wonder you couldn't get me something I can eat.
+L311152 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Uh-huh. Want one?
+L311151 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Raw?
+L311150 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Carrots.
+L311149 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Needn't rub it in.  What're you eating?
+L311148 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ There it is. Better swallow it. We're not going to have any breakfast.
+L311147 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Hay—in my teeth.
+L311146 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ No. But I've got a penknife. 
+L311145 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ If it's just the same to you, we'll sit right here till they come.  Got a toothpick?
+L311142 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Well, you've given me a very good example of the hiking—
+L311141 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Hitch-hiking.
+L311140 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What'd you say we're supposed to be doing?
+L311139 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah. I was just wondering what makes dames like you so dizzy.
+L311138 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Really?
+L311137 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ By a strange coincidence, I was thinking of you.
+L311136 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What are you thinking about?
+L311134 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Doesn't sound very exciting.
+L311133 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I am. I only work when I have to. Two years ago I got a notion and went to China. There was a war going on. Swell! After a while it got stale. I went down to Tahiti. Just lay on the beach for six months. What could be sweeter?
+L311130 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Try me.
+L311129 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Nothing.  Nothing you'd give two cents for.
+L311128 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What?
+L311127 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Sure.
+L311120 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Holy Jumping Catfish! You can drive a guy crazy.
+L311119 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ was so scared—that it scared—
+L311118 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ But what!
+L311117 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ was—but—
+L311116 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Thought you were hungry!
+L311115 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I don't want it now.
+L311114 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Here. Eat your head off.
+L311113 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ know—but—
+L311112 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I wasn't gone more than a minute. Just went out to find you something to eat.
+L311111 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Oh, Peter! I was so scared.
+L311110 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What's got into you?
+L311109 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Oh, Peter— 
+L311108 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What's the matter?
+L311104 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ All right! Don't take them off. Do whatever you please. But shut up about it.
+L311103 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What!
+L311102 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Well, take them off.
+L311101 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I'll get my clothes all wrinkled.
+L311099 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Holy Smokes! Why did I ever get mixed up with you!
+L311098 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I can't forget it. I'm still hungry.
+L311097 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ All right. You win. Let's forget it.
+L311096 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Not if you're more hungry than scared.
+L311095 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ If you're scared it scares the hunger out of you.
+L311089 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What?
+L311088 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Peter—
+L311087 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I don't know about you, but I'm going to give a fairly good imitation of it.
+L311086 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ We're not going to sleep out here, are we?
+L311085 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ This looks like the best spot.
+L311080 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Show me a good "piggy-back" rider and I'll show you somebody that's human. Take Abraham Lincoln, for instance—a natural "piggy-backer."  Where do you get off with your stuffed-shirt family?  Why, your father knew so much about "piggy-back" riding that he—
+L311079 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You're prejudiced.
+L311078 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Not a one.
+L311077 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ And rich people have none of those qualifications, I suppose.
+L311076 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ To be a "piggy-backer" it takes complete relaxation—a warm heart—and a loving nature.
+L311075 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ That's silly.
+L311074 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I don't think there's a "piggy- back" rider in your whole family. I never knew a rich man yet who was a good "piggy-back" rider.
+L311073 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ My uncle—Mother's brother—had four children . . . and I've seen them ride "piggy-back."
+L311072 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Your father didn't know beans about "piggy-back" riding.
+L311071 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Yes.
+L311070 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ And he carried you like this, I suppose.
+L311069 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ remember distinctly Father taking me for a "piggy-back" ride—
+L311068 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You're crazy.
+L311067 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Of course it is.
+L311066 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ This isn't "piggy-back."
+L311065 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Sorry.  It's the first time I've ridden "piggy-back" in years.
+L311064 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I wish you'd stop being playful.
+L311063 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Okay. Hang on to these.
+L311062 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ No.
+L311061 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Aren't you afraid of me?
+L311060 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I'm following you.
+L311059 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah.
+L311058 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ To New York?
+L311057 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Must be some strange power Westley has over you women.  How do you expect to get there?
+L311056 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Never! I'll get to New York if I have to starve all the way.
+L311055 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I didn't give him anything . You were the big-hearted gal. How about wiring your father now?
+L311054 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You didn't give that boy all your money?
+L311053 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Not a sou. I had some before the fainting scene.
+L311052 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Why, haven't you—?
+L311051 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ It takes money to buy food.
+L311050 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What do you mean—starvation?
+L311049 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Okay with me, if you can stand the starvation diet.
+L311048 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Not as long as I'm alive.
+L311047 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ First town we hit in the morning, you better wire your father.
+L311046 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I don't trust that chatterbox.
+L311045 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I was never built for these moonlight strolls.  Why did we have to leave the bus?
+L311044 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What's the matter?
+L311043 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Yes, I noticed he was getting a little fat lately.  Ouch!
+L311042 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ At the rate he started, he's probably passed two state lines by this time. The exercise is good for him.
+L311041 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Poor old Shapeley. You shouldn't have frightened him like that.
+L310955 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Yes.
+L310954 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Don't be silly. Nothing you can do. Must be tough on an old woman—a trip like this.
+L310953 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I better go over and see her.
+L310930 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Then I'll fire you. I'll do all the parts myself.
+L310929 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I refuse to resign!
+L310928 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ If you don't like it, you can resign from the company.
+L310927 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You always want to run everything.
+L310926 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I did! It was my idea, wasn't it?
+L310925 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Oh, you are! Who made you the manager?
+L310924 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ No mushy stuff. I'm running this troupe.
+L310923 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ How about Cinderella—or a real hot love story?
+L310922 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ After that "The Three Musketeers."  I'd make a great D'Artagnan.
+L310921 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Next week "East Lynne."
+L310920 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ We could start a two-person stock company. If things get tough—we can play some small town auditoriums. We'll call this one "The Great Deception."[8]
+L310919 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You weren't so bad yourself.
+L310918 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Say, you were pretty good. Jumping in like that. Got a brain, haven't you?
+L310909 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Peter Warne, you've gone far enough. I won't stand being insulted like this another minute.
+L310908 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Aw, nuts! You're just like your old man!  Once a plumber always a plumber! There isn't an ounce of brains in your whole family!
+L310907 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Yeah, and gotten yourself arrested!
+L310906 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I'm sorry I didn't take another sock at him.
+L310905 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Well, you were!
+L310904 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Oh, so now I was drunk!
+L310901 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ He didn't make a pass at me! I told you a million times!
+L310900 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You don't have to lose your temper!  That's what you told me the last time too. Every time I step in to protect you. At the Elk's dance[7] when that big Swede made a pass at you—
+L310899 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Well, you don't have to lose your temper!
+L310898 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ There you go again! How many times did I tell you to stop butting in when I have an argument?
+L310897 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Don't get excited, Peter. They just asked a civil question.
+L310879 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What are you talking about?
+L310878 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah. I got a letter from Aunt Betty. She says if we don't stop over at Wilkes-Barre she'll never forgive us.
+L310874 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Don't look at me. I didn't marry King Westley.
+L310873 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ That's Father at work, What'll I do?  Peter, what'll I do?
+L310872 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Detectives!
+L310869 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I'd change places with a plumber's daughter any day.
+L310868 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Just goes to show you. Twenty millions and you don't know how to dunk.
+L310867 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Thanks, professor.
+L310866 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Of course you shouldn't. You don't know how to do it. Dunking's an art. Don't let it soak so long. A dip and plop, into your mouth. If you let it soak so long, it'll get soft and fall off. It's all a matter of timing. I ought to write a book about it.
+L310865 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Aw, now, don't you start telling me I shouldn't dunk.
+L310864 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Say, where did you learn to dunk, in finishing school?
+L310863 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Um-hm. We rode around all afternoon. Father was frantic. By 6 o'clock he was having all the rivers dragged. 
+L310862 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Oh. Is that how you met him?
+L310861 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ King—King Westley was in it.
+L310860 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Santa Claus?
+L310859 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ It has its moments. It got to be a sort of game to try to outwit father's detectives. I—I did it once; actually went shopping without a body-guard. It was swell. I felt absolutely immoral. But it didn't last long. They caught up with me in a department store. I was so mad I ran out the back way and jumped into the first car I saw. Guess who was in it?
+L310858 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ One consolation; you can never be lonesome.
+L310857 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Thanks. Nurses, governesses, chaperones, even body-guards. Oh, it's been a lot of fun.
+L310856 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Um. You're doing all right.
+L310855 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ It's a wonder I'm not panic stricken.
+L310854 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah?
+L310853 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Yes, you do. You think I'm a fool and a spoiled brat. Perhaps I am, although I don't see how I can be. People who are spoiled are accustomed to having their own way. I never have. On the contrary, I've always been told what to do and how to do it and where and with whom. Would you believe it? This is the first time I've ever been alone with a man!
+L310852 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ No. No. It's too good a story.
+L310851 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Thanks.  You think this whole business is silly, don't you? I mean running away and everything.
+L310850 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Just shows you how wrong a guy can be. Doughnut?
+L310849 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ He apologized for last night.  Said he didn't know we were married.
+L310848 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I thought maybe—uh—"believe you me" told you a couple of snappy stories.
+L310847 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Must be the Spring.
+L310846 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What makes you so disgustingly cheerful this morning?
+L310845 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Why, you don't have to apologize, Mr. Warne. You'll never know how much I appreciate all this.
+L310844 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I'd have gotten you some cream but it meant buying a whole pint.
+L310843 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Nope. No complaints.
+L310842 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Egg. One egg—doughnuts—black coffee. That's your ration till lunch. Any complaints?
+L310841 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Thank you.  My, my! Scrambled eggs.
+L310840 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I know a couple of truck drivers I'd like to have you meet sometime.  Come on, sit down.
+L310839 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Well, I hope you're not going to dictate whom I can talk to.
+L310838 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ If you didn't waste so much time on that wise-cracking drummer—we'd have been through with breakfast by this time.
+L310837 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Why, Peter! Don't you want to hear about our lovely friends?
+L310836 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Hurry up and get dressed.
+L310835 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Very outspoken, too. Said I looked funny. Wasn't that cute?
+L310832 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I met some very interesting women at the showers. We got to chatting about this and that. You know how time files.
+L310831 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ High time you got back.
+L310821 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I'll find it myself.
+L310820 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Your hair's cute like that. You should never comb it.
+L310819 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Where is the shower?
+L310818 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Hey—you're little, aren't you?
+L310817 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Where'd you say the showers—and things—were? 
+L310815 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Here—take mine.
+L310814 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Like this. I have no robe.
+L310813 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Like what?
+L310812 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I can't go out like this.
+L310811 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Certainly, outside. All the best homes have 'em outside.
+L310810 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Outside!
+L310809 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You'll find the showers—and things—right back of the second cottage. 
+L310804 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Listen, Brat—I'm going to count to ten. If you're not out of bed by then I'm going to yank you out myself.
+L310803 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Why, you sweet thing, you. Where'd you get it pressed? 
+L310802 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Come on! Hurry up! Breakfast'll be ready in no time.
+L310801 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What is it?  Why, it's a toothbrush! Thanks.  You—you had it pressed.
+L310800 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Here—
+L310768 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ The pleasure is all mine.
+L310767 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Pleased to meet you, Mr. Warne ...
+L310766 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Don't let it bother you. You're giving it back to me in the morning.
+L310765 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Peter Warne? I don't like it.
+L310764 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah. I got a name. Peter Warne.
+L310763 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You've got a name, haven't you?
+L310762 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Who, me?  Why, I'm the whippoorwill that cries in the night. I'm the soft morning breeze that caresses your lovely face.
+L310761 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Who are you?
+L310756 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Not at all. 
+L310755 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Do you mind putting out the light?
+L310750 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Smart aleck!
+L310749 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I have an idiosyncrasy all my own. You'll notice my coat came first—then the tie—then the shirt—now, according to Hoyle,[5] the pants should come next. But that's where I'm different.  go for the shoes first. After that I—
+L310746 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ All right, don't join the Israelites. Perhaps you're interested in how a man undresses.  Funny thing about that. Quite a study in psychology. No two men do it alike. 
+L310745 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You're not really serious about this, are you?
+L310744 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Do you mind joining the Israelites?
+L310743 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Oh, this?—I like privacy when I retire. I'm very delicate in that respect. Prying eyes annoy me.  Behold the walls of Jericho![4] Maybe not as thick as the ones that Joshua blew down with his trumpet, but a lot safer. You see, I have no trumpet.  Now just to show you my heart's in the right place, I'll give you my best pair of pajamas.
+L310742 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ That, I suppose, makes everything—uh—quite all right.
+L310741 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Oh, yeah? It's all right with me. Go on out in the storm, but I'm going to follow you, see?  Yeah. And if you get tough I'll just have to turn you over to your old man right now. Savvy?  Now that's my whole plot in a nutshell. A simple story for simple people. Now if you behave yourself, I'll see that you get to King Westley; if not, I'll just have to spill the beans to papa. Now which of these beds do you prefer? This one? All right.
+L310740 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Well, thank you. Thank you very much, but— you've been very kind. 
+L310739 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ This?  Oh, that's a matter of simple mathematics. These cabins cost two bucks a night and I'm very sorry to inform you, wifey dear, but the family purse won't stand for our having separate establishments. 
+L310738 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Now isn't that just too cute? There's a brain behind that face of yours, isn't there? You've got everything nicely figured out, for yourself, including this.
+L310737 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Chalk up one for your side. Now listen, you want to get to King Westley, don't you?  All right, I'm here to help you. What I want is your story, exclusive. A day-to- day account. All about your mad flight to happiness. I need that story. Just between you and me I've got to have it.
+L310733 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah. Yeah, not bad. How's your's?
+L310732 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Your ego is colossal.
+L310731 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I kind of half expected you to thank me.
+L310730 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Oh, you did? What am I expected to do—leap for joy?
+L310729 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Oh, I forgot to tell you. I registered as Mr. and Mrs. 
+L310728 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I just had the unpleasant sensation of hearing you referred to as my husband.
+L310727 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah. Yeah, it's a gift. 
+L310726 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Darn clever, these Armenians.
+L310721 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah. Come on—we're stopping here for the night.
+L310720 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Are you talking to me!
+L310719 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Hey, Brat—!  The VIEW moves to the rear door of the bus. Ellie stands on the bottom step.
+L310706 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Shut up!
+L310705 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Now, just a minute—you can't—
+L310704 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You're on a budget from now on.
+L310703 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ That's none of your business.
+L310702 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ A dollar sixty! . . . You had four dollars last night! How do you expect to get to New York at the rate you're going?
+L310701 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You have your nerve!  Here, boy—!
+L310700 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Beat it! 
+L310699 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Of course I do. What do you mean—
+L310694 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ No. It'd be useless. Father'd get the wire before they would.
+L310693 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What'd you do? Wire one of your friends for money?
+L310692 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Here, boy!
+L310690 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Forget it. I didn't do it for you. His voice got on my nerves.
+L310689 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ If you promise not to snap my head off, I'd like to thank you.
+L310658 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Never mind. You know I had you pegged right from the start, you're the spoiled brat of a rich father. The only way you can get anything is to buy it. Now you're in a jam and all you can think of is your money. It never fails, does it? Ever hear of the word "Humility"? No, you wouldn't. I guess it never occurred to you to just say, "Please mister, I'm in trouble. Will you help me?" No; that'd bring you down off your high horse for a minute. Let me tell you something; maybe it'd take a load off your mind. You don't have to worry about me. I'm not interested in your money or your problems. You, King Westley, your father, you're all a lot of hooey to me.
+L310657 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Listen, if you'll promise not to do it, I'll pay you. I'll pay you as much as he will. You won't gain anything by giving me away as long as I'm willing to make it worth your while. I've got to get to New York without being stopped. It's terribly important to me. I'd pay now, only the only thing I had when I jumped off the yacht was my wrist watch and I had to pawn that to get these clothes. I'll give you my address and you can get in touch with me the minute you get to New York.
+L310656 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I never thought of that.
+L310655 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ If you play your cards right, you might get some money out of it. 
+L310654 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What for?
+L310653 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You're not going to notify my father, are you?
+L310652 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ That's right. You didn't.
+L310651 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I didn't ask for your advice. 
+L310650 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Take my advice—grab the first bus back to Miami. That guy's a phony.
+L310649 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Quit kidding!  It's all over the front pages, You know, I've always been curious about the kind of a girl that would marry King Westley.
+L310648 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You must have me confused with—
+L310647 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You'll never get away with it, Miss Andrews. Your father'll stop you before you get half way to New York.
+L310646 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Will you please tell me what you're raving about!
+L310645 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Just a spoiled brat of a rich man. You and Westley'll make an ideal team.
+L310644 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What are you talking about?
+L310643 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You'll never get away with it, Miss Andrews. 
+L310642 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Oh, thank you. Must have fallen out of my pocket.
+L310641 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I found it on the seat.
+L310640 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ My ticket?
+L310639 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You're doing a pretty sloppy job of it.  Here's your ticket.
+L310638 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Don't tell me you did it on my account!  hope you're not getting any idea that what happened last night is—  You needn't concern yourself about me, young man. I can take care of myself.
+L310636 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What are you excited about? You missed the bus, too.
+L310635 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What's the matter? Wouldn't the old meanies wait for you?  Say, how old are you anyway? Don't you know these busses work on a schedule? You need a guardian.
+L310631 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Seems to me I've already thanked you for that.  What time is the next bus to New York?
+L310630 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Remember me? I'm the fellow you slept on last night.
+L310617 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ No, thank you.  Thank you so much.
+L310616 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I hated to wake you up.  How about some breakfast?
+L310615 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ That was foolish of me. Why didn't you shove me away?
+L310614 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yes.
+L310613 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Oh, thank you.  We're in Jacksonville, aren't we?
+L310608 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Why, you ungrateful brat!
+L310607 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ See here, can you understand English! I don't want it reported!  Please stay out of my affairs!  I want to be left alone.  A CLOSE-UP of PETER shows him glaring after her.
+L310606 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Why, that's ridiculous! They're responsible for everything that—
+L310605 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I don't want it reported!
+L310604 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Don't be a fool. You lost your bag. The company'll make good. What's your name?
+L310603 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ No. I'd rather you didn't.
+L310602 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I'll report it to the driver. About your bag, I mean.
+L310601 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Why, no—I—  Yes . . . I guess I will.
+L310600 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You can wire home for some money when we get to Jacksonville.
+L310599 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ No, I've got that, all right. But my money. All I have here is four dollars. I've got to get to New York with it.
+L310598 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Don't tell me your ticket was in it?
+L310597 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What am I going to do now?
+L310596 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ That cadaverous-looking yegg who sat in front of us, just up and took it. Boy, how that baby can run!
+L310595 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ What happened?
+L310594 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah. I knew you'd catch on eventually.
+L310593 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Oh, my heavens! It's gone!
+L310592 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Well—of all the—well—  Maybe you'll be interested to know your bag's gone.
+L310591 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I don't know what you're raving about, young man. And, furthermore, I'm not interested.
+L310587 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Yes. Tell that man to drive slowly.
+L310586 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Are you talking to me?
+L310585 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Tell that man not to drive so fast. 
+L310575 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Driver!
+L310574 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Now, listen. I'm in a very ugly mood. I put up a stiff battle for that seat. So if it's just the same to you—  scram.
+L310573 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I beg your pardon!
+L311262 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Won't I ever see you again?
+L311261 +++$+++ u1549 +++$+++ m103 +++$+++ PETER'S VOICE +++$+++ Not interested. 
+L311260 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ No harm in your coming to see us.
+L311254 +++$+++ u1549 +++$+++ m103 +++$+++ PETER'S VOICE +++$+++ Yep! The Walls of Jericho. 
+L311253 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Is that the Walls of Jericho going up?
+L311132 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ You sound like a hobo.
+L311131 +++$+++ u1549 +++$+++ m103 +++$+++ PETER'S VOICE +++$+++ I just want to be let alone, that's all. Life's swell if you don't try too hard. Most people want to get a strangle-hold on it. They're not living. They're just feverish.  If they didn't get themselves all balled up with a lot of manufactured values, they'd find what they want. Peace and calm. When you get right down to it, what's all the shootin' for, will you tell me? After all, you can only eat three meals a day, only sleep in one bed—  Right now, that hay feels pretty good to you, doesn't it? Sure it does. 'Cause you were tired—and it's the only thing around.
+L311126 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Do you know?
+L311125 +++$+++ u1549 +++$+++ m103 +++$+++ PETER'S VOICE +++$+++ Comical part of it is, it isn't what you want at all. In a couple of weeks you'll be looking for the nearest exit . . .  People like you spend all your life on a merry-go-round. I guess that's what makes you so dizzy.  You're always chasing after something. At least you think you are. Truth is, you're just running away.  From yourself, mostly. 'Cause you're miserable. You hate yourself. The world's full of people like you. Don't know what they want.
+L311094 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Well, I am.
+L311093 +++$+++ u1549 +++$+++ m103 +++$+++ PETER'S VOICE +++$+++ You can't be hungry and scared at the same time.
+L311092 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ No, it isn't. I'm hungry and—and scared.
+L310885 +++$+++ u1549 +++$+++ m103 +++$+++ PETER'S VOICE +++$+++ Who—me?  Want to see me?
+L310884 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ There's a man here to see you, Sweetheart.
+L310876 +++$+++ u1549 +++$+++ m103 +++$+++ PETER'S VOICE +++$+++ Come here, you little fool!
+L310875 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Maybe I could jump out of the window.  Do you think they'd see me?
+L310808 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I'm out! I'm out!
+L310807 +++$+++ u1549 +++$+++ m103 +++$+++ PETER'S VOICE +++$+++ —six—seven—eight—nine—
+L310806 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Why, you bully. I believe you would.
+L310805 +++$+++ u1549 +++$+++ m103 +++$+++ PETER'S VOICE +++$+++ ONE—TWO—THREE—FOUR—FIVE
+L310773 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Goodnight, Mr. Warne. 
+L310772 +++$+++ u1549 +++$+++ m103 +++$+++ PETER'S VOICE +++$+++ I'll bet you're in an awful hurry to get back to New York, aren't you?
+L310736 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ A headline? You're not a newspaper man, are you?
+L310735 +++$+++ u1549 +++$+++ m103 +++$+++ PETER'S VOICE +++$+++ Hey, wait a minute!  Let's get something straightened out right now. If you've any peculiar ideas that I'm interested in you, forget it. You're just a headline to me.
+L310734 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Compared to you, my friend, Shapeley's an amateur.  Whatever gave you an idea you can get away with this! You're positively the most conceited—
+L311509 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ I heard about your stunt. That's swell, King. Just think of it—the groom lands on the lawn with a plane. It's a perfect beginning for the life we're going to lead. It sets just the right tempo.  Come on, King. You're lagging. 
+L311508 +++$+++ u1541 +++$+++ m103 +++$+++ KING +++$+++ Whatever you say, darling.
+L311507 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ It's up to you now. I want our life to be full of excitement, King. We'll never let up, will we? Never a dull moment. We'll get on a merry-go-round and never get off. Promise you'll never let me get off? It's the only way to live, isn't it? No time to think. We don't want to stop to think, do we? Just want to keep going.
+L311506 +++$+++ u1541 +++$+++ m103 +++$+++ KING +++$+++ You bet we did.
+L311505 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Happy? Why shouldn't I be happy? I'm getting the handsomest man in captivity.  Here you are, King. Let's drink.  Let's drink to us .  We finally made it, didn't we?
+L311504 +++$+++ u1541 +++$+++ m103 +++$+++ KING +++$+++ How are you, Ellie?  Are you happy?
+L310634 +++$+++ u1540 +++$+++ m103 +++$+++ GUARD +++$+++ Sorry, Miss.
+L310633 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Eight o'clock! Why, that's twelve hours!
+L310632 +++$+++ u1540 +++$+++ m103 +++$+++ GUARD +++$+++ Eight o'clock tonight.
+L310628 +++$+++ u1540 +++$+++ m103 +++$+++ GUARD +++$+++ Sorry, Miss. It's gone.  Ellie's face clouds. The crowds surge about her. She looks around thoughtfully. Suddenly her eyes open in surprise at something she sees, and the VIEW then moves over to Peter, who sits on his suitcase, looking toward Ellie.
+L310627 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Why, that's ridiculous! I was on that bus—I told them to wait!
+L310626 +++$+++ u1540 +++$+++ m103 +++$+++ GUARD +++$+++ Left twenty minutes ago.
+L310625 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Where's the bus to New York?
+L310522 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Thank you.
+L310521 +++$+++ u1545 +++$+++ m103 +++$+++ OLD LADY +++$+++ In about fifteen minutes.
+L310520 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ When does the bus leave?
+L310519 +++$+++ u1545 +++$+++ m103 +++$+++ OLD LADY +++$+++ Oh, thank you. Thank you.
+L310518 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Oh, thank you. Thank you very much.  Here.
+L310517 +++$+++ u1545 +++$+++ m103 +++$+++ OLD LADY +++$+++ Here's your ticket, ma'am.
+L311357 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ You ain't gonna stick me for no phone calls. You can go down to the Sheriff's office.
+L311356 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Can I use your telephone? I want to talk to New York.
+L311350 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ Ain't gonna wait a minute.
+L311349 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ But can't you wait until morning—
+L311348 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ Serves you right. Oughta be careful who you take up with on the road. You can't go plyin' your trade in my camp.
+L311347 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Why, you can't put me out in the middle of the—
+L311341 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ Yeah? What makes you think so! He took his suitcase and everything.  Kinda surprised, huh? It's just like I told you, Zeke. They ain't married a'tall . . .
+L311340 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Why, he'll be back.
+L311339 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ No, he ain't! And the car's gone, too.
+L311338 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Isn't he here?
+L311337 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ Yes—if he is your husband.
+L311336 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Husband?
+L311335 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ What's the matter?  Where's your husband, young lady—
+L310830 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Okay. I was just trying to make conversation.
+L310829 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Get out!
+L310828 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Sorry—I didn't mean to—
+L310827 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ If you don't get out of here, I'll slap that fresh mouth of yours.
+L310826 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Hey, what's this? Wearing Papa's things? Now that's cute. That's what I call real lovey-dovey. Yessir.
+L310679 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Believe you me, you bore me to distraction.
+L310678 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ But I don't go in for that kinda stuff—much. I like to pick my fillies. Take you, for instance. You're my type. No kiddin' sister. I could go for you in a big way. "Fun-on-the-side Shapeley" they call me, and the accent is on the fun, believe you me. 
+L310673 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ That's pretty good . . . Well, shut my big nasty mouth!
+L310672 +++$+++ u1535 +++$+++ m103 +++$+++ ELLIE +++$+++ Seems to me you're doing excellently without any assistance. 
+L310671 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ You made no mistake sitting next to me.  Just between us, the kinda muggs you meet on a hop like this ain't nothing to write home to the wife about. You gotta be awful careful who you hit up with, is what I always say, and you can't be too particular, neither. Once when I was comin' through North Carolina, I got to gabbin' with a good-lookin' mama. One of those young ones, you know, and plenty classy, too. Kinda struck my fancy. You know how it is. Well, sir, you could'a knocked me over with a Mack truck. I was just warming up when she's yanked offa the bus. Who do you think she was? Huh? Might as well give up. The girl bandit! The one the papers been writin' about.  Yessir, you coulda knocked me over with a Mack truck.  What's the matter, sister? You ain't sayin' much.
+L311091 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Just your imagination.
+L311090 +++$+++ u1536 +++$+++ m103 +++$+++ ELLIE'S VOICE +++$+++ I'm hungry.
+L310799 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Eight o'clock.
+L310798 +++$+++ u1536 +++$+++ m103 +++$+++ ELLIE'S VOICE +++$+++ What time is it?
+L310797 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Hey—you not up yet? Come on—come on!
+L310771 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You've had a pretty tough break at that. Twice a Missus and still unkissed.
+L310770 +++$+++ u1536 +++$+++ m103 +++$+++ ELLIE'S VOICE +++$+++ Yes?
+L310769 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I've been thinking about you.
+L310760 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What's that?
+L310759 +++$+++ u1536 +++$+++ m103 +++$+++ ELLIE'S VOICE +++$+++ Oh, by the way—what's your name?
+L310758 +++$+++ u1536 +++$+++ m103 +++$+++ ELLIE'S VOICE +++$+++ Oh, excuse me. 
+L310757 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Do you mind taking those things off the Walls of Jericho?  It's tough enough as it is.
+L310780 +++$+++ u1550 +++$+++ m103 +++$+++ SECOND PILOT +++$+++ How'd you like to be married to a wild cat like that?
+L310779 +++$+++ u1537 +++$+++ m103 +++$+++ FIRST PILOT +++$+++ The dame's too smart for him.
+L310778 +++$+++ u1550 +++$+++ m103 +++$+++ SECOND PILOT +++$+++ Yeah!
+L310777 +++$+++ u1537 +++$+++ m103 +++$+++ FIRST PILOT +++$+++ I said, the old man's screwy!
+L310776 +++$+++ u1550 +++$+++ m103 +++$+++ SECOND PILOT +++$+++ What's 'at?
+L310775 +++$+++ u1537 +++$+++ m103 +++$+++ FIRST PILOT +++$+++ The old man's screwy!
+L310718 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Thanks.
+L310717 +++$+++ u1538 +++$+++ m103 +++$+++ FIRST POLICEMAN +++$+++ That's it. Dyke's Auto Camp.
+L310716 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah.
+L310715 +++$+++ u1538 +++$+++ m103 +++$+++ FIRST POLICEMAN +++$+++ Up yonder. See the lights?
+L310714 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah? Where?
+L310713 +++$+++ u1538 +++$+++ m103 +++$+++ FIRST POLICEMAN +++$+++ Any of your passengers want a place to sleep—there's an auto camp up yonder a piece.
+L310710 +++$+++ u1538 +++$+++ m103 +++$+++ FIRST POLICEMAN +++$+++ Bridge washed out—around Dawson.
+L310709 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What's up?
+L310937 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Don't accept any more.
+L310936 +++$+++ u1551 +++$+++ m103 +++$+++ SECRETARY +++$+++ Yes.
+L310935 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Collect?
+L310934 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Throw it in the basket.  What's it say?  "Have I got a story! It's getting hotter and hotter. Hope you're the same."
+L310933 +++$+++ u1551 +++$+++ m103 +++$+++ SECRETARY +++$+++ Here's another wire from Peter Warne.
+L310539 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ What!  Say, listen you!  When you get back to New York, take my advice and stay f-a-r away from this office—unless you don't care what happens to that funny map of yours. 
+L310538 +++$+++ u1551 +++$+++ m103 +++$+++ SECRETARY +++$+++ Did you know he reversed the charges on that call?
+L310537 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Huh?
+L310536 +++$+++ u1551 +++$+++ m103 +++$+++ SECRETARY +++$+++ Mr. Gordon—
+L311401 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Thanks, Joe.
+L311400 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ When you sober up—come in and see me.
+L311399 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah, where am I?
+L311398 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Great!  But that's the way things go. You think you got a swell yarn—then something comes along—messes up the finish—and there you are.
+L311397 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Wouldn't have made a bad story, would it?
+L311396 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Yeah. Sure. Had me going for a while.
+L311395 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Hello, Joe. Sorry. Just a little gag of mine. Thought I'd have some fun with you.
+L311364 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Oh, boy! What a yarn! What a yarn!  Get me Hank on the phone. Gotta hold up the morning edition.
+L311363 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ 'Bye, Agnes. You're beautiful. All women are beautiful!  Gordon is immediately electrified into action.
+L311360 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Okay, pete. 
+L311359 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Thanks, Pal. You saved my life.
+L311327 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Listen, Pal—you've got to get this money for me. Now. Minutes count. She's waiting for me in an auto camp outside of Philadelphia. I've got to get right back. You see, she doesn't know I'm gone.  A guy can't propose to a girl without a cent in the world, can he?
+L311326 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Well, I'll be—
+L311325 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I met her on a bus coming from Miami. Been with her every minute.  I'm in love with her, Joe.
+L311324 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ For heaven's sake, Joe—stop being an editor for just a minute.  We've been friends for a long time, haven't we? You ought to know when I'm serious. This is on the level.
+L311323 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Now I know you're drunk.  I'm going home. Don't annoy me any more.
+L311322 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah.
+L311321 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ You!
+L311320 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I am, Joe.
+L311319 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Who's the guy she's gonna marry?
+L311318 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Sure. I wouldn't blame you, either.
+L311317 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ I'd put you there myself.
+L311316 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Wait a minute, Joe. Use your bean. I couldn't afford to hand you a phoney yarn, like that. I'd be crazy. There isn't a newspaper in the country'd give me a job after that! I could go to jail!
+L311315 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ I wouldn't trust you as far as I could throw that desk.
+L311314 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ It's all right here. Give me the thousand and it's yours.
+L311313 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Who's she gonna marry?
+L311312 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Well, I got it, Joe.
+L311311 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ If it's on the level.
+L311310 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Would an exclusive story like that be worth a thousand bucks to you?
+L311309 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ You're drunk.
+L311308 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ That she's going to marry somebody else.
+L311307 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Huh?
+L311306 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Never mind . . . Listen—suppose I should tell you that Ellen Andrews is going to have her marriage annulled.
+L311305 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ What!
+L311304 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ To tear down the Walls of Jericho.
+L311303 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ What's the thousand bucks for?
+L311302 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Don't get sore, Joe. This is something you got to do for me. I need a thousand dollars—and I need it quick. I'm in a jam.
+L311301 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ A thousand dollars!  Get out of this office before I throw you out bodily.
+L311300 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ That's it.  I got it all written up. Ready to go. All I want is a thousand dollars.
+L311299 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ You mean about the Andrews' kid?
+L311298 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Okay, Joe. Listen—you know I've always liked you. Anytime I could do you a great turn—anytime I ran into a story that looked good—I always came running to you, didn't I? Well, I got one now. Those wires I sent you were on the level. It's the biggest scoop of the year. I'm giving it to you, Joe.
+L311297 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Don't "Joe" me.
+L311296 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Joe, listen—
+L311295 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Get out!
+L311294 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Wait a minute, Gordon—I—
+L311293 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Get out of here!
+L310535 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ When you get through with that, I'll have a beard down to my ankles. 
+L310534 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ That's okay by me! 'Cause as far as I'm concerned, I'm through with newspapers! See? I'm through with stupidity! I'll never write another newspaper story, for you or anybody else, if I have to starve.  Yeah? What about my novel! When I get through with that—
+L310533 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Free verse, huh?  What the dickens was free about it? It cost this paper a gob of dough. Well, I'm here to tell you, it's not gonna cost us any more.
+L310532 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ That was free verse, you gashouse palooka!
+L310531 +++$+++ u1539 +++$+++ m103 +++$+++ GORDON +++$+++ Say, listen, you wouldn't know a story if it reached up and kicked you in the pants.  Yeah?  Sure, sure, I got your copy. Why didn't you tell me you were going to write it in Greek? I'd start a new department.
+L311287 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Well, you got one now. —Come on, fill 'er up.
+L311286 +++$+++ u1543 +++$+++ m103 +++$+++ MAN +++$+++ I ain't got a hat.
+L311285 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What?
+L311284 +++$+++ u1543 +++$+++ m103 +++$+++ MAN +++$+++ ain't got a hat—
+L311283 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Listen, man—I'll tell you what I'll do. When I come back in the morning, I'll buy it back from you and give you ten dollars profit? What do you say?
+L311282 +++$+++ u1543 +++$+++ m103 +++$+++ MAN +++$+++ Yeah, but I got a bag. My wife gave me one for Christmas.
+L311281 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ All I'm asking is enough gas to get me to New York. The bag's worth twenty-five dollars.
+L311599 +++$+++ u1543 +++$+++ m103 +++$+++ MAN +++$+++ I dunno.
+L311598 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ But what in the world do they want a trumpet for?
+L311597 +++$+++ u1543 +++$+++ m103 +++$+++ MAN +++$+++ Yeah. You know, one of those toy things. They sent me to the store to get it.
+L311596 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ A trumpet?
+L311595 +++$+++ u1543 +++$+++ m103 +++$+++ MAN +++$+++ Blamed if I know. I just brung 'em a trumpet.
+L311594 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ What do you reckon that's for?
+L311593 +++$+++ u1543 +++$+++ m103 +++$+++ MAN +++$+++ Yeah?
+L311592 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ They made me get 'em a rope and a blanket, on a night like this.
+L311591 +++$+++ u1543 +++$+++ m103 +++$+++ MAN +++$+++ They're married all right. I just seen the license.
+L311590 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ If you ask me, I don't believe they're married.
+L311589 +++$+++ u1543 +++$+++ m103 +++$+++ MAN +++$+++ Yeah.
+L311588 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ Funny couple, ain't they?
+L310667 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Collect.
+L310666 +++$+++ u1546 +++$+++ m103 +++$+++ OPERATOR +++$+++ Collect?
+L310665 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Send it collect.
+L310664 +++$+++ u1546 +++$+++ m103 +++$+++ OPERATOR +++$+++ "Tub of mush. Well try and get it. What I said about never writing another line for you still goes. Are you burning? Peter Warne." Well, that will be $2.60.
+L310663 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Mush. Mush.
+L310662 +++$+++ u1546 +++$+++ m103 +++$+++ OPERATOR +++$+++ "How would you like to have the story, you big tub of—of—"
+L310661 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Go on. Go on send the telegram.
+L310660 +++$+++ u1546 +++$+++ m103 +++$+++ OPERATOR +++$+++ I'm just fine thanks, and how are you?  To "Joe Gordon, care of New York Mail, New York. Am I laughing. The biggest scoop of the year just dropped in my lap. I know where Ellen Andrews is—"  No, do you really?
+L310659 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You send telegrams here?
+L311355 +++$+++ u1547 +++$+++ m103 +++$+++ OWNER +++$+++ Yes, Ma.
+L311354 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ Zeke.  Git!
+L311353 +++$+++ u1547 +++$+++ m103 +++$+++ OWNER +++$+++ Yeah.
+L311352 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ Better start gettin' into your clothes.
+L311351 +++$+++ u1547 +++$+++ m103 +++$+++ OWNER +++$+++ Not a minute!
+L311346 +++$+++ u1547 +++$+++ m103 +++$+++ OWNER +++$+++ Yeah, you'll have to git .
+L311345 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ Then—you'll have to git !
+L311334 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ Oh!!
+L311333 +++$+++ u1547 +++$+++ m103 +++$+++ OWNER +++$+++ Looks like it, don't it?  Here's the woman, ma.
+L311332 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ See that. They're gone!
+L311331 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ That feller last night, that's who! He was gonna stay a week, huh? Well, he's skipped. Took the car with him, too. We wouldn't have known a thing about it until morning if I hadn't took that magnesia.  Come on, get up, don't lay there. Let's do something about it.
+L311330 +++$+++ u1547 +++$+++ m103 +++$+++ OWNER +++$+++ Who?
+L311329 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ I told you! I told you, you couldn't trust him! He's gone!
+L311248 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ I don't trust him.
+L311247 +++$+++ u1547 +++$+++ m103 +++$+++ OWNER +++$+++ Worst comes to the worst, we got his car for security.
+L311246 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ Mebbe.
+L311245 +++$+++ u1547 +++$+++ m103 +++$+++ OWNER +++$+++ Said he was gonna stay a week.
+L311244 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ Yeah. They're all upright till they walk out on you.
+L311243 +++$+++ u1547 +++$+++ m103 +++$+++ OWNER +++$+++ He looked like an upright young feller to me, Ma.
+L311242 +++$+++ u1554 +++$+++ m103 +++$+++ WIFE +++$+++ There you go—trustin' people again. How many times did I tell you—
+L311040 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Sure. Anything you say.
+L311039 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Come on, scram! And stay away from that bus.
+L311038 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Oh, thanks, thanks, Mister. I always knew you guys were kind-hearted.
+L311037 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Okay. Just remember that. Now beat it.
+L311036 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Gee! That musta been terrible.  I guess he had it coming to him though. But don't you worry about me. I don't talk. I never talk. Take my word for it. Gee, I wouldn't want anything to happen to my kids.
+L311035 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Nice guy. Just like you. But he made a big mistake, one day. Got kind of talkative. Know what happened? His kid was found in the bottom of the river. A rock tied around its neck. Poor Bugs! He couldn't take it. Blew his brains out.
+L311034 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ No.
+L311033 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ If you don't—Ever hear of Bugs Dooley?
+L311032 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Sure—sure—I'll keep my trap shut. you can depend on me, Mister.
+L311031 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You'll keep your trap shut, all right.
+L311030 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Oh, gee, Mister—you wouldn't—you ain't thinkin' about—
+L311029 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You love them, don't you?
+L311028 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Yeah. Just babies.
+L311027 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Got a couple of kids, huh?
+L311026 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Orange, New Jersey.
+L311025 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Where do you live?
+L311022 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ You can trust me, Mister. I'll keep my mouth shut.
+L311021 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah ?—How do I know?  I gotta good mind to plug you.  I shouldn't take any chances on you.
+L311020 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ I won't say anything. Honest, I won't.
+L311019 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Sh-sh-sh—! Soft pedal, you mug!—before I— What're you trying to do? Tell the whole world about it!  Now listen, you're in this thing—and you're staying in! Get me? You know too much.
+L311018 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ But I'm a married man. I got a couple of kids. I can't get mixed up with—
+L311017 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What's the matter with you! Gettin' yellow?
+L311016 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Say, look! I didn't know it was anything like this, see—and—
+L311015 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What else, stupid! You don't think we're after that penny-ante reward, do you?  Ten thousand bucks? Chicken feed! We're holding her for a million smackers.
+L311014 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ You're not kidnapping her, are you?
+L311013 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah—the "big boy"—the Boss of the outfit.
+L311010 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ That's all right. I got a couple of machine guns in my suitcase. I'll let you have one of them.
+L311009 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Why—no—
+L311008 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ A gat! A gat!  Got any fireworks on you?
+L311007 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Huh?
+L311006 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Do you pack a gat?[11] A CLOSE VIEW of the TWO shows the smile dying on Shapeley's face. He looks up quickly.
+L311005 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Say listen, when you're talkin' to old man Shapeley, you're talking to—
+L311004 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I can use a smart guy like you.
+L311003 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ You're not making any mistake, believe you me.
+L311002 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Lucky thing, my running into you. Just the man I need.
+L311001 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ You're a pretty shrewd baby.  We better get away from this gang. Talk this thing over privately.
+L311000 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Five G's—or I crab the works.
+L310999 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What's on your mind?
+L310998 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Cause I'm a guy that don't believe in hoggin' it, see?  A bird that figures that way winds up behind the eight ball,[10] is what I always say.
+L310997 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Why?
+L310996 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ I'd go fifty-fifty with you .
+L310995 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ What?
+L310994 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ It's a lotta dough. If I was to run across that dame, you know what I'd do?
+L310993 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah—wouldn't it?
+L310992 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Take that story there, for instance. Be kinda sweet if we could collect that ten thousand smackers.
+L310991 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ That's right.
+L310990 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ If you wanna get anywhere nowadays, you gotta keep in touch with all the news, is what I always say.
+L310989 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Thanks. 
+L310988 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Travelin' like this, you kinda lose track of what's goin' on in the world.
+L310986 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Say, Buddy–
+L310985 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Looks like we're going to be stuck for a long time. 
+L310984 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ What's up?
+L310688 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Oh, excuse me.  I was just tryin'—you know—to make things pleasant.
+L310687 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Yeah. Come on—come on!
+L310686 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Wife?
+L310685 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ I'd like to sit with my—uh—wife—if you don't mind. 
+L310684 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ What's the idea?
+L310683 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ There's a seat over there for you.
+L310682 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Huh?
+L310681 +++$+++ u1548 +++$+++ m103 +++$+++ PETER +++$+++ Hey, you!
+L310680 +++$+++ u1552 +++$+++ m103 +++$+++ SHAPELEY +++$+++ Well, you're two up on me now. 

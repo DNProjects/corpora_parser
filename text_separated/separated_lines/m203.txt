@@ -1,0 +1,535 @@
+L593444 +++$+++ u3094 +++$+++ m203 +++$+++ BONASERA +++$+++ Yes, I understand I'm listening.
+L593443 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ This is Tom Hagen; I'm calling for Don Corleone, at his request.
+L593425 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Yes. 
+L593424 +++$+++ u3094 +++$+++ m203 +++$+++ BONASERA +++$+++ The Don himself is coming to me tonight?
+L593423 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Good.  He never doubted you.
+L593422 +++$+++ u3094 +++$+++ m203 +++$+++ BONASERA +++$+++ Anything...Anything the Godfather wishes.
+L593421 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ You owe the Don a service.  In one hour, not before, perhaps later, he will be at your funeral parlor to ask for your help.  Be there to greet him.  If you have any objections speak now, and I'll inform him.
+L593420 +++$+++ u3094 +++$+++ m203 +++$+++ BONASERA +++$+++ Yes, I understand.  I'm listening.
+L593432 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ I want you to use all your powers, all your skill, as you love me.  I do not want his mother to see him as he is.
+L593431 +++$+++ u3094 +++$+++ m203 +++$+++ BONASERA +++$+++ What do you wish me to do?
+L592864 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Some day, and that day may never come, I would like to call upon you to do me a service in return.
+L592863 +++$+++ u3094 +++$+++ m203 +++$+++ BONASERA +++$+++ Godfather.
+L592862 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Good.  From me you'll get Justice.
+L592861 +++$+++ u3094 +++$+++ m203 +++$+++ BONASERA +++$+++ Be my friend.
+L592860 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Then take the justice from the judge, the bitter with the sweet, Bonasera.  But if you come to me with your friendship, your loyalty, then your enemies become my enemies, and then, believe me, they would fear you...
+L592859 +++$+++ u3094 +++$+++ m203 +++$+++ BONASERA +++$+++ America has been good to me...
+L592858 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ You never think to protect yourself with real friends.  You think it's enough to be an American.  All right, the Police protects you, there are Courts of Law, so you don't need a friend like me. But now you come to me and say Don Corleone, you must give me justice. And you don't ask in respect or friendship.  And you don't think to call me Godfather; instead you come to my house on the day my daughter is to be married and you ask me to do murder...for money.
+L592857 +++$+++ u3094 +++$+++ m203 +++$+++ BONASERA +++$+++ Then make them suffer as she suffers.  How much shall I pay you.
+L592856 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ But your daughter is still alive.
+L592855 +++$+++ u3094 +++$+++ m203 +++$+++ BONASERA +++$+++ An eye for an eye!
+L592854 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ The Court gave you justice.
+L592853 +++$+++ u3094 +++$+++ m203 +++$+++ BONASERA +++$+++ I ask for Justice.
+L592852 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ No.  You ask for too much.
+L592851 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ And what is that Bonasera?
+L592850 +++$+++ u3094 +++$+++ m203 +++$+++ BONASERA +++$+++ What do you want of me?  I'll give you anything you want, but do what I ask!
+L592849 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Bonasera, we know each other for years, but this is the first time you come to me for help.  I don't remember the last time you invited me to your house for coffee...even though our wives are friends.
+L593724 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Good, good.  Leave now; there's a car waiting to take you to the airport.
+L593723 +++$+++ u3095 +++$+++ m203 +++$+++ CARLO +++$+++ Barzini.
+L593722 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Don't be frightened.  Do you think I'd make my sister a widow?  Do you think I'd make your children fatherless?  After all, I'm Godfather to your son.  No, your punishment is that you're out of the family business.  I'm putting you on a plane to Vegas--and I want you to stay there.  I'll send Connie an allowance, that's all. But don't keep saying you're innocent; it insults my intelligence and makes me angry.  Who approached you, Tattaglia or Barzini?
+L593721 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Barzini is dead.  So is Philip Tattaglia, so are Strachi, Cuneo and Moe Greene...I want to square all the family accounts tonight. So don't tell me you're innocent; admit what you did.
+L593720 +++$+++ u3095 +++$+++ m203 +++$+++ CARLO +++$+++ I swear I'm innocent.  I swear on the head of my children, I'm innocent.  Mike, don't do this to me, please Mike, don't do this to me!
+L593719 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ You fingered Sonny for the Barzini people.  That little farce you played out with my sister.  Did Barzini kid you that would fool a Corleone?
+L593718 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ You have to answer for Santino.
+L593717 +++$+++ u3095 +++$+++ m203 +++$+++ CARLO +++$+++ Godfather!
+L593704 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Go back to your house and wait for me...
+L593703 +++$+++ u3095 +++$+++ m203 +++$+++ CARLO +++$+++ Jesus, Connie...Sure, Mike...
+L593638 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I'll come to you when I need you.
+L593637 +++$+++ u3095 +++$+++ m203 +++$+++ CARLO +++$+++ Understood.  I just wish I was doing more to help out.
+L593408 +++$+++ u3097 +++$+++ m203 +++$+++ CONNIE +++$+++ Like hell I will.
+L593407 +++$+++ u3095 +++$+++ m203 +++$+++ CARLO +++$+++ You filthy guinea spoiled brat. Clean it up or I'll kick your head in.
+L593406 +++$+++ u3097 +++$+++ m203 +++$+++ CONNIE +++$+++ BA FA GOULE YOU!
+L593405 +++$+++ u3095 +++$+++ m203 +++$+++ CARLO +++$+++ Ba Fa Goulle.
+L593404 +++$+++ u3097 +++$+++ m203 +++$+++ CONNIE +++$+++ Eat it, it's on the table.
+L593403 +++$+++ u3095 +++$+++ m203 +++$+++ CARLO +++$+++ I'm not hungry yet.
+L593402 +++$+++ u3097 +++$+++ m203 +++$+++ CONNIE +++$+++ The food is on the table.
+L593401 +++$+++ u3095 +++$+++ m203 +++$+++ CARLO +++$+++ OK, OK.  You gonna make me something to eat at least?
+L593400 +++$+++ u3097 +++$+++ m203 +++$+++ CONNIE +++$+++ You're staying home.  You're not going out.
+L593398 +++$+++ u3097 +++$+++ m203 +++$+++ CONNIE +++$+++ Your girl friend.  She says she can't make it tonight.  You lousy bastard you have the nerve to give your whores my telephone number. I'll kill you, you bastard!
+L593397 +++$+++ u3095 +++$+++ m203 +++$+++ CARLO +++$+++ What was that?
+L593381 +++$+++ u3095 +++$+++ m203 +++$+++ CARLO +++$+++ Shut up.
+L593380 +++$+++ u3097 +++$+++ m203 +++$+++ CONNIE +++$+++ What's the matter, Carlo?
+L593327 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ We gotta move...
+L593326 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ You're on, kid...I'll square it with Mom your not seeing her before you left.  And I'll get a message to your girl friend when I think the time is right.
+L593325 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ The gun will be there.
+L593324 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ I want somebody very good, very safe to plant that gun.  I don't want my brother coming out of that toilet with just his dick in his hand.
+L593235 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ OK, but be careful.
+L593234 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ Sollozzo knows Mike's a civilian.
+L593229 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ You won't see Paulie anymore.  He's sick for good this winter.
+L593228 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ You take care of Paulie?
+L593185 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Okay, now you can move your men into the Mall, replace Tessio's people.  Mike, tomorrow you take a couple of Clemenza's people and go to Luca's apartment and wait for him to show.  That crazy bastard might be going after Sollozzo right now if he's heard the news.
+L593184 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ Understood.
+L593183 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Clemenza.  You take care of Paulie. I don't ever want to see him again. Understood?
+L593099 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ No, just you and Paulie.
+L593098 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ That's all?  Don't you want me to send some people over here?
+L593097 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Go get Paulie, I don't care how sick he is.  Pick him up yourself, and bring him to my father's house.
+L593096 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ Maybe three, four times.  I always asked Freddie if he wanted another bodyguard, but he said no.  Things have been so smooth the last ten years...
+L593095 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ How many times did he stay home the last couple of months?
+L593094 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ Paulie's been a little sick all winter...he was home.
+L593093 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Where the hell was Paulie, why wasn't he with the Don?
+L593092 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ The word is out in the streets that he's dead.
+L593091 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Yeah.
+L593090 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ You heard about your father?
+L593628 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Maybe less...
+L593627 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ Then in a six month time we're on our own; is that it?
+L593626 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ He's going to be our lawyer in Vegas.  Nobody goes to him with any other business as of now, this minute.  No reflection on Tom; that's the way I want it.  Besides, if I ever need any advice, who's a better Consigliere than my father.
+L593620 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ No, I don't want to give Barzini an excuse to start fighting.
+L593619 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ We gotta fight sometime.  Let us at least recruit our regimes to full strength.
+L593312 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ Probably all the other families will line up against us.  But, it's alright.  These things have to happen once every ten years or so...gets rid of the bad blood. You gotta stop 'em at the beginning. Like they shoulda stopped Hitler at Munich, they shoulda never let him get away with that, they were just asking for big trouble...
+L593311 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ How bad will it be?
+L593310 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ Mostly it gives witnesses an excuse to change their identification when we make them see the light.  Then you take a long vacation and we catch the hell.
+L593209 +++$+++ u3109 +++$+++ m203 +++$+++ PAULIE +++$+++ Holy cow, I don't gotta know nothing.
+L593208 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ Maybe, or you gotta know now.
+L593207 +++$+++ u3109 +++$+++ m203 +++$+++ PAULIE +++$+++ You think we'll go for that last place?
+L593202 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ OK, go to Arthur Avenue; I'm suppose to call when I found somethin'.
+L593201 +++$+++ u3109 +++$+++ m203 +++$+++ PAULIE +++$+++ Good for ten men...
+L593199 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ Drive while you thinking; I wanna get to the City this month!
+L593198 +++$+++ u3109 +++$+++ m203 +++$+++ PAULIE +++$+++ I'll think about it.
+L593182 +++$+++ u3109 +++$+++ m203 +++$+++ PAULIE +++$+++ Sure.
+L593181 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ Outside.
+L593176 +++$+++ u3109 +++$+++ m203 +++$+++ PAULIE +++$+++ The guy at the gate's outside...says there's a package...
+L593175 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ I tol' you to stay put, Paulie...
+L592872 +++$+++ u3096 +++$+++ m203 +++$+++ CLEMENZA +++$+++ What are you, a dance judge?  Go do your job; take a walk around the neighborhood... see everything is okay.
+L592871 +++$+++ u3109 +++$+++ m203 +++$+++ PAULIE +++$+++ You look terrif on the floor!
+L593025 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ The Tattaglias will guarantee your investment also.
+L593024 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ No.
+L593023 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ Are you worried about security for your million?
+L593022 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ No...how a man makes his living is none of my business.  But this proposition of yours is too risky. All the people in my family lived well the last ten years, I won't risk that out of greed.
+L593019 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ If you think two million dollars in cash is just finance, I congratulate you Don Corleone.
+L593018 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ So.  I receive 30 per cent just for finance and legal protection.  No worries about operations, is that what you tell me?
+L593017 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ My compliments.  I'll take care of them from my share.
+L593016 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ And what is the percentage of the Tattaglia family?
+L593015 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ Thirty per cent.  In the first year your share would be four million dollars; then it would go up.
+L593014 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ What percentages for my family?
+L593013 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ I need two million dollars in cash...more important, I need a friend who has people in high places; a friend who can guarantee that if one of my employees be arrested, they would get only light sentences.  Be my friend.
+L593012 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Why do you come to me?  Why do I deserve your generosity?
+L593011 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ My business is heroin, I have poppy fields, laboratories in Narseilles and Sicily, ready to go into production.  My importing methods are as safe as these things can be, about five per cent loss.  The risk is nothing, the profits enormous.
+L592971 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ I'll make him an offer he can't refuse.
+L592970 +++$+++ u3103 +++$+++ m203 +++$+++ JOHNNY +++$+++ It's too late.  All the contracts have been signed, they're almost ready to shoot.
+L592969 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ You look terrible.  I want you to eat well, to rest.  And spend time with your family.  And then, at the end of the month, this big shot will give you the part you want.
+L592968 +++$+++ u3103 +++$+++ m203 +++$+++ JOHNNY +++$+++ Sure.
+L592967 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ You take care of your family?
+L592966 +++$+++ u3103 +++$+++ m203 +++$+++ JOHNNY +++$+++ He owns the studio.  Just a month ago he bought the movie rights to this book, a best seller.  And the main character is a guy just like me.  I wouldn't even have to act, just be myself.
+L592965 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ All right, Hollywood...Now tell me about this Hollywood Pezzonovanta who won't let you work.
+L592957 +++$+++ u3103 +++$+++ m203 +++$+++ JOHNNY +++$+++ I'm not rich anymore, Godfather, and...my career, I'm almost washed up...
+L592956 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Can I do something for you still? You're not too rich, or too famous that I can't help you?
+L592955 +++$+++ u3103 +++$+++ m203 +++$+++ JOHNNY +++$+++ I kept trying to call you after my divorce and Tom always said you were busy.  When I got the Wedding invitation I knew you weren't sore at me anymore, Godfather.
+L593651 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Maybe I can help.
+L593650 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Tom, I never thought you were a bad Consigliere, I thought Santino a bad Don, rest in peace.  He had a good heart but he wasn't the right man to head the family when I had my misfortune.  Michael has all my confidence, as you do.  For reasons which you can't know, you must have no part in what will happen.
+L593461 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Tattaglia is a pimp.  He could never have outfought Santino.  But I wasn't sure until this day.  No, it was Barzini all along.
+L593460 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ He was the one behind Sollozzo?
+L593459 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Barzini.
+L593458 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ You mean Tattaglia.
+L593457 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Mention it, don't insist.  Barzini is a man who will know that without being told.
+L593456 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ When I meet with Tattaglia's people; should I insist that all his drug middle-men be clean?
+L593439 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Now you've had your drink.
+L593438 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Yes.
+L593437 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ But you needed a drink first.
+L593436 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ I didn't tell Mama anything.  I was about to come up and wake you and tell you.  Just now.
+L593435 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ My wife was weeping before she fell asleep, outside my window I saw my caporegimes to the house, and it is midnight.  So, Consigliere of mine, I think you should tell your Don what everyone knows.
+L593030 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ It's from Johnny.  It was announced this morning.  He's going to play the lead in the new Woltz Brothers film.
+L593029 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ What is this nonsense?
+L592976 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ I've called the hospital; they've notified Consiglere Genco's family to come and wait.  He won't last out the night.
+L592975 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ No, give him a living.  But never let him know the family's business. What else, Tom?
+L592974 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ They'll cut the cake in a few minutes...leave right after that. Your new son-in-law, do we give him something important?
+L592973 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ When does my daughter leave with her bridegroom?
+L592949 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ It's been two years.  He's probably in trouble again.
+L592948 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ No.  Let the people enjoy him.  You see?  He is a good godson.
+L592947 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Should I bring him in.
+L592946 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ It is Johnny.  He came all the way from California to be at the wedding.
+L592944 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ On a day like this.  Consiglero, do you also have in your notes the the Turk made his living from Prostitution before the war, like the Tattaglias do now.  Write that down before you forget it.  The Turk will wait.
+L592943 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ This morning.
+L592942 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ When did he call?
+L592941 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Two terms; one in Italy, one in the United States.  He's known to the Government as a top narcotics man. That could be a plus for us; he could never get immunity to testify.
+L592940 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ And with prison record.
+L592939 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ He's his own boss, and very competent.
+L592937 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ The Senator called--apologized for not coming personally, but said you'd understand.  Also, some of the Judges...they've all sent gifts. And another call from Virgil Sollozzo.
+L592936 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ I'm sure it's the most generous gift today.
+L592890 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ You understand him better than anyone.
+L592889 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Is it necessary?
+L593663 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Good.
+L593662 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Yes.
+L593661 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Your wife and children...you're happy with them?
+L593659 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ He will get in touch with you through someone you absolutely trust.  That person will arrange a meeting, guarantee your safety...
+L593658 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ How?
+L593657 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Barzini will move against you first.
+L593656 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ There are men in this world who demand to be killed.  They argue in gambling games; they jump out of their cars in a rage if someone so much as scratches their fender. These people wander through the streets calling out "Kill me, kill me."  Luca Brasi was like that. And since he wasn't scared of death, and in fact, looked for it...I made him my weapon.  Because I was the only person in the world that he truly hoped would not kill him.  I think you have done the same with this man.
+L593655 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I'll need him.
+L593654 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ I see you have your Luca Brasi.
+L593644 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ How did you find out?
+L593643 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ I told you that it wouldn't escape his eye.
+L593553 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ What else do you believe in?
+L593552 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ A man has to choose what he will be. I believe that.
+L593551 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ You are like me, we refuse to be fools, to be puppets dancing on a string pulled by other men.  I hoped the time for guns and killing and massacres was over.  That was my misfortune.  That was your misfortune.  I was hunted on the streets of Corleone when I was twelve years old because of who my father was.  I had no choice.
+L593550 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Then why have I become a man like you?
+L593549 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Yes, but sons who would be professors, scientists, musicians...and grandchildren who could be, who knows, a Governor, a President even, nothing's impossible here in America.
+L593548 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ You wanted me to be your son.
+L593547 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ No, I wanted other things for you.
+L593546 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I could accept everything that's happened; I could accept it, but that I never had a choice.  From the time I was born, you had laid this all out for me.
+L593545 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Accept what's happened, Michael.
+L593544 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I want children, I want a family. But I don't know when.
+L593543 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ I understand, Michael.  But you must make a family, you know.
+L593542 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ No.
+L593541 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Have you thought about a wife?  A family?
+L592991 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Good.  When you are finished, come and talk to me.  I have hopes for you.
+L592990 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I'm going to finish school.
+L592989 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ And now, what do you choose to do?
+L592988 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I fought for my country.  It was my choice.
+L592987 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ What miracles you do for strangers.
+L592986 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ For killing a man.
+L592985 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ And this?
+L592984 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ For bravery.
+L592983 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ What was this for?
+L592982 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Tom said he'd take care of it.
+L592981 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Will your girl friend get back to the city all right?
+L592881 +++$+++ u3107 +++$+++ m203 +++$+++ NAZORINE +++$+++ An Act of Congress!
+L592880 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Tom, what we need is an Act of Congress to allow Enzo to become a citizen.
+L592879 +++$+++ u3107 +++$+++ m203 +++$+++ NAZORINE +++$+++ Godfather, you understand everything.
+L592878 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ You want him to stay in this country.
+L592877 +++$+++ u3107 +++$+++ m203 +++$+++ NAZORINE +++$+++ Now that the war is over, Enzo, this boy is being repatriated to Italy.  And you see, Godfather...  He...my daughter...they...
+L592876 +++$+++ u3098 +++$+++ m203 +++$+++ DON CORLEONE +++$+++ Nazorine, my friend, tell me what I can do.
+L592875 +++$+++ u3107 +++$+++ m203 +++$+++ NAZORINE +++$+++ ...a fine boy from Sicily, captured by the American Army, and sent to New Jersey as a prisoner of war...
+L593527 +++$+++ u3099 +++$+++ m203 +++$+++ DON TOMMASSINO +++$+++ Bad news from America.  Your brother, Santino.  He has been killed.
+L593526 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ What is it?
+L593525 +++$+++ u3099 +++$+++ m203 +++$+++ DON TOMMASSINO +++$+++ Even so, I don't think it is safe here anymore.  I've made plans to move you to a villa near Siracuse. You must go right away.
+L593524 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Is that why there are more men on the walls?
+L593523 +++$+++ u3099 +++$+++ m203 +++$+++ DON TOMMASSINO +++$+++ The younger men have no respect. Things are changing; I don't know what will happen.  Michael, because of the wedding, people now know your name.
+L593522 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Things went badly in Palermo?
+L593474 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ No...I would like to walk to Corleone.
+L593473 +++$+++ u3099 +++$+++ m203 +++$+++ DON TOMMASSINO +++$+++ That is your birthright...but Michael, use this car.
+L593472 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Don Tommassino...I should see this place.
+L593471 +++$+++ u3099 +++$+++ m203 +++$+++ DON TOMMASSINO +++$+++ Long ago.  Now there is nothing: the men killed each other in family vendettas...the others escaped to America.
+L593470 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I was told that my Grandfather was murdered on its main street; and his murderers came to kill my father there when he was twelve years old.
+L593469 +++$+++ u3099 +++$+++ m203 +++$+++ DON TOMMASSINO +++$+++ There is nothing there.  Not anymore.
+L593468 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Corleone.
+L593467 +++$+++ u3099 +++$+++ m203 +++$+++ DON TOMMASSINO +++$+++ Where are you going?
+L593466 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I know.
+L593465 +++$+++ u3099 +++$+++ m203 +++$+++ DON TOMMASSINO +++$+++ You must understand that your Father's enemies have friends in Palermo.
+L593464 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Calo and Fabrizzio are with me; nothing will happen.
+L593463 +++$+++ u3099 +++$+++ m203 +++$+++ DON TOMMASSINO +++$+++ Michael, why must you do this.  We have been lucky so far, all these months you've been here we've kept your name a secret.  It is from love for your father that I've asked you never to more than an hour from the Villa.
+L593462 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Don Tommassino.
+L593530 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ No, she's going home to her family. She'll join me in a few weeks...
+L593529 +++$+++ u3100 +++$+++ m203 +++$+++ FABRIZZIO +++$+++ Calo is having a cup of coffee in the kitchen.  Is your wife coming with you?
+L593528 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Get the car.  I'll be leaving in ten minutes.  Where's Calo?
+L593487 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Shhhhh.
+L593486 +++$+++ u3100 +++$+++ m203 +++$+++ FABRIZZIO +++$+++ Hey, beautiful girls!
+L593482 +++$+++ u3100 +++$+++ m203 +++$+++ FABRIZZIO +++$+++ Take me to America!  You need a good lupara in America?  You take me, I'll be the best man you got.  "Oh say, can you seeee...By da star early light..."
+L593481 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Yes.
+L593480 +++$+++ u3100 +++$+++ m203 +++$+++ FABRIZZIO +++$+++ Hey America!  Is she as rich as they say?
+L593479 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Only the son of a Pezzonovanta.
+L593478 +++$+++ u3100 +++$+++ m203 +++$+++ FABRIZZIO +++$+++ We hear.  We were told you were a Pezzonovanta...big shot.
+L593477 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ How do you know I come from America?
+L593476 +++$+++ u3100 +++$+++ m203 +++$+++ FABRIZZIO +++$+++ You tell us about America.
+L593515 +++$+++ u3114 +++$+++ m203 +++$+++ VITELLI +++$+++ Come Sunday morning:  My name is Vitelli and my house is up there on the hill, above the village.
+L593514 +++$+++ u3100 +++$+++ m203 +++$+++ FABRIZZIO +++$+++ It's the real Thunderbolt, then.
+L593499 +++$+++ u3100 +++$+++ m203 +++$+++ FABRIZZIO +++$+++ And hair.  Black and curly, like a doll.  And such a mouth.
+L593498 +++$+++ u3114 +++$+++ m203 +++$+++ VITELLI +++$+++ Beautiful all over, eh?
+L593497 +++$+++ u3100 +++$+++ m203 +++$+++ FABRIZZIO +++$+++ This was a beauty.  Right, Calo?
+L593496 +++$+++ u3114 +++$+++ m203 +++$+++ VITELLI +++$+++ I know about what you mean!
+L593495 +++$+++ u3100 +++$+++ m203 +++$+++ FABRIZZIO +++$+++ This one could seduce the devil.  A body! and eyes as big and black as olives.
+L593494 +++$+++ u3114 +++$+++ m203 +++$+++ VITELLI +++$+++ You had better bring a few bottles home with you, my friend; you'll need help sleeping tonight. 
+L593599 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ The Don has semi-retired.  I'm running the Family business now. So anything you have to say, say it to me.
+L593598 +++$+++ u3101 +++$+++ m203 +++$+++ FREDO +++$+++ Tom, you're the Consigliere; you can talk to the Don and advise him.
+L593575 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I'll make him an offer he can't refuse.
+L593574 +++$+++ u3101 +++$+++ m203 +++$+++ FREDO +++$+++ Mike, you sure about Moe selling. He never mentioned it to me and he loves the business.
+L593572 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Get rid of them...
+L593571 +++$+++ u3101 +++$+++ m203 +++$+++ FREDO +++$+++ Mike!
+L593570 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Give them some money and send them home.
+L593569 +++$+++ u3101 +++$+++ m203 +++$+++ FREDO +++$+++ That's for you to find out.
+L593568 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Who are those girls?
+L593567 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Come here a minute, Fredo.
+L593566 +++$+++ u3101 +++$+++ m203 +++$+++ FREDO +++$+++ Mike!  The party starting!
+L593565 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ No.
+L593564 +++$+++ u3101 +++$+++ m203 +++$+++ FREDO +++$+++ Ever seen anything like that before?
+L593561 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ You look good, too.
+L593560 +++$+++ u3101 +++$+++ m203 +++$+++ FREDO +++$+++ You look wonderful, kid; really wonderful.  That doctor did some job on your face.
+L593559 +++$+++ u3101 +++$+++ m203 +++$+++ FREDO +++$+++ He had business at the hotel, but he'll drop in for dinner.
+L593558 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Why didn't Moe Green meet us at the airport?
+L593393 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Well it's war!  We might not be in this shape if we had a real war- time Consiglere, a Sicilian.  Pop had Genco, who do I have?  Hey Tom, hey...hey.  It's Sunday, we're gonna have dinner.  Don't be sore.
+L593392 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Yes.  That's true, you're getting a hell of a reputation.
+L593391 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ No more stalemate Tom, we got the soldiers, we'll match them gun for gun if that's how they want it. They know me for what I am, Tom-- and they're scared of me.
+L593390 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ You start operating, the five families will start their raids again.  We're at a stalemate Sonny, your war is costing us a lot of money.
+L593389 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ We'll let the old man take it easy for a couple of weeks.  I want to get things going good before he gets better.  What's the matter with you?
+L593384 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ We put out a lot of material through our contacts in the Newspapers...about McCluskey's being tied up with Sollozzo in the Drug Rackets...things are starting to loosen up.
+L593383 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Pop, they hit us and we hit them back.
+L593331 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Can you do it Mike?
+L593330 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Jesus, I don't know...
+L593321 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ No.  Our informer in McCluskey's precinct.  Tonight at 8:00 he signed out for Louis' Restaurant in the Bronx.  Anyone know it.
+L593320 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ One of Tattaglia's people?
+L593299 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ McCluskey can't stay with the Turk forever.  We'll wait.
+L593298 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ I found out about this Captain McCluskey who broke Mike's jaw. He's definitely on Sollozzo's payroll, and for big money. McCluskey's agreed to be the Turk's bodyguard.  What you have to understand is that while Sollozzo is guarded like this, he's invulnerable.  Nobody has ever gunned down a New York Police Captain.  Never.  It would be disastrous.  All the five families would come after you Sonny; the Corleone family would be outcasts; even the old man's political protection would run for cover.  So just...take that into consideration.
+L593297 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ No no, no more advice on how to patch it up Tom.  You just help me win.  Understood?
+L593296 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Yes, even the shooting of your father was business, not personal...
+L593295 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ And when they shot me father...
+L593294 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Come ON Sonny, your father wouldn't want to hear this.  This is not a personal thing, this is Business.
+L593293 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Then THEY hand me Sollozzo.
+L593292 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ The other families won't sit still for all out war.
+L593291 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ No, no Consiglere.  Not this time. No more meetings, no more discussions, no more Sollozzo tricks.  Give them one message: I WANT SOLLOZZO.  If not, it's all out war.  We go to the mattresses and we put all the button men out on the street.
+L593290 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ We should hear what they have to say.
+L593289 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Part of the deal: Bruno cancels out what they did to my father.
+L593288 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ What about that Tattaglias?  What will they do about Bruno?
+L593287 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Sure, he wants us to send Mike to meet him to hear his proposition. The promise is the deal will be so good we can't refuse.
+L593286 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Was there a definite proposal?
+L593187 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ OK forget it, just stay on the phone.
+L593186 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Maybe Mike shouldn't get mixed up in this so directly.  You know the old man doesn't want that.
+L593173 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ OK, we sit tight until the old man can give us the lead.  But Tom, I want you to stay inside the Mall. You too, Mike, no chances.  Tessio, you hold your people in reserve, but have them nosing around the city.  The hospital is yours; I want it tight, fool-proof, 24 hours a day.
+L593172 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ We're all tired...
+L593171 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Oh Christ Tom, I didn't mean it that way.
+L593170 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ I was as good a son to him as you or Mike.
+L593169 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ That's easy to say; it's not your father.
+L593168 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Without your father's political contacts and personal influence, the Corleone family loses half its strength.  Without your father, the other New York families might wind up supporting Sollozzo, and the Tattaglias just to make sure there isn't a long destructive war.  The old days are over, this is 1946; nobody wants bloodshed anymore.  If your father dies...make the deal, Sonny.
+L593167 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Tom, you're the Consigliere, what do we do if the old man dies?
+L593165 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Luca never sleeps over with a broad. He always goes home when he's through.  Mike, keep ringing Luca's number.
+L593164 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ No, and I've been calling all night. Maybe he's shacked up.
+L593163 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Has anyone been able to get in touch with him?
+L593162 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ If Luca sold out we're in real trouble.
+L593161 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ What about Luca?  Sollozzo didn't seem worried about Luca.  That worries me.
+L593159 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ The cops have it locked in and I got my people there visiting Pop all the time.  What about the hit list.
+L593158 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Is the hospital covered?
+L592963 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Okay.  One minute.
+L592962 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ The old man wants you; Johnny's here...he's got a problem.
+L593376 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Mama, no.
+L593375 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Will you give this letter to Michael.
+L593371 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ If I accept that letter and you told a Court of Law I accepted it, they would interpret it as my having knowledge of his whereabouts. Just wait Kay, he'll contact you.
+L593370 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Will you give this to him.
+L593368 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Listen Tom, I let my cab go; can I come in to call another one?
+L593367 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ An accident.  No one was hurt.
+L593366 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ What was that?
+L593365 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Nobody knows where he is.  We know he's all right, but that's all.
+L593364 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ I've tried calling and writing.  I want to reach Michael.
+L593363 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Kay, we weren't expecting you.  You should call...
+L593125 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ Good...then you can go...  I don't like violence.  I'm a businessman, and blood is a big expense.
+L593124 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ I'll try...It's what the Don would want us to do.
+L593123 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ I'll worry about Luca.  You take care of Sonny and the other two kids.
+L593122 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Even Sonny won't be able to call off Luca Brasi.
+L593121 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ The Don was slipping; in the old days I could never have gotten to him.  Now he's dead, nothing can bring him back.  Talk to Sonny, talk to the Caporegimes, Clemenza and Tessio...it's good business.
+L593119 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Sonny will come after you with everything he's got.
+L593118 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ Sonny was hot for my deal, right? You know it's the smart thing to do, too.  I want you to talk Sonny into it.
+L593010 +++$+++ u3116 +++$+++ m203 +++$+++ WOLTZ +++$+++ Okay my Kraut-Mick friend, Johnny will never get that part because I hate that pinko punk and I'm going to run him out of the Movies.  And I'll tell you why.  He ruined one of Woltz Brothers' most valuable proteges.  For five years I had this girl under training; singing lessons!  Acting lessons!  Dancing lessons!  We spent hundreds of thousands of dollars--I was going to make her a star.  I'll be even more frank, just to show you that I'm not a hard-hearted man, that it wasn't all dollars and cents.  That girl was beautiful and young and innocent and she was the greatest piece of ass I've ever ad and I've had them all over the world.  Then Johnny comes along with that olive oil voice and guinea charm and she runs off.  She threw it all away to make me look ridiculous.  A MAN IN MY POSITION CANNOT AFFORD TO BE MADE TO LOOK RIDICULOUS!
+L593009 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ I'm German-Irish.
+L593008 +++$+++ u3116 +++$+++ m203 +++$+++ WOLTZ +++$+++ You smooth son of a bitch, let me lay it on the line for you, and your boss.  Johnny Fontane never gets that movie.  I don't care how many Dago, Guinea, wop Greaseball Goombahs come out of the woodwork!
+L593007 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ He never asks a second favor when he has been refused the first. Understood?
+L593006 +++$+++ u3116 +++$+++ m203 +++$+++ WOLTZ +++$+++ Okay, but just tell him this is one favor I can't give.  But he should try me again on anything else.
+L593005 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Mr. Corleone is Johnny's Godfather. That is very close, a very sacred religious relationship.
+L593684 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ A week from tonight.  In Brooklyn on Tessio's ground, where I'll be safe.
+L593683 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Have you agreed on a meeting?
+L593682 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I know now.  I'll make them call me Don.
+L593681 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ How will they come at you?
+L593680 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Not all...I needed another four months and I would have had them all.  I guess you've figured it all out?
+L593679 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Did he give you his politicians?
+L593678 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Christ, Tom; I needed more time with him.  I really needed him.
+L593649 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ OK, but then I agree with Tessio. You're going about it all wrong; you're making the move out of weakness... Barzini's a wolf, and if he tears you apart, the other families won't come running to help the Corleones...
+L593648 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ You're not a wartime Consigliere. Things may get tough with the move we're trying.
+L593647 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Mike, why am I out?
+L593646 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Not so perfectly if you noticed.
+L593645 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Bookkeepers know everything. Rocco's men are all a little too good for the jobs they're supposed to be doing.  They get a little more money than the job's worth.  Lampone's a good man; he's operating perfectly.
+L593642 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ I'm not talking about that.  I'm talking about Rocco Lampone building a secret regime.  Why does Neri report directly to you, rather than through me or a caporegime?
+L593641 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Tom, we're going to be legitimate all the way, and you're the legal man.  What could be more important than that.
+L593640 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Mike, why are you cutting me out of the action?
+L593303 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Let's say now that we have to kill McCluskey.  We'll clear that up through our Newspaper contacts later.
+L593302 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ What about McCluskey?
+L593049 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Right.
+L593048 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ No.  I guess I'll see you Christmas. Everyone's going to be out at Long Beach, right?
+L593047 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Sure.  Anything I can do for you.
+L592929 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Thanks Tom.
+L592928 +++$+++ u3102 +++$+++ m203 +++$+++ HAGEN +++$+++ Hello Kay.  Your father's inside, doing some business.  He's been asking for you.
+L593747 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Is it true?
+L593746 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ All right, this one time I'll let you ask about my affairs, one last time.
+L593745 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Tell me!
+L593744 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Don't ask me.
+L593743 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Michael, it's not true.  Please tell me.
+L593614 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Let me think about it, O.K.?
+L593613 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Will you?
+L593612 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Connie and Carlo want you to be godfather to their little boy.
+L593611 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I'm busy.
+L593610 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Why are you so cold to her and Carlo?  They live with us on the Mall now, but you never get close to them.
+L593608 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Let HER ask.
+L593607 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Your sister wants to ask you something.
+L593606 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Wake me up when you come to bed?
+L593605 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ No, you eat...don't wait up for me.
+L593604 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Don't you want dinner first?
+L593603 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ We'll go to the show tomorrow night--we can change the tickets.
+L593602 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Oh Michael.
+L593601 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I have to see my father and his people when we get back to the Mall.
+L593244 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Goodbye.
+L593243 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ When will I see you again?
+L593242 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I want you to go back to New Hampshire...think things over.
+L593241 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ When will I see you again?
+L593240 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I don't think so either.  I better go.
+L593239 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ My parents don't read the Daily News.  All right, if you think I shouldn't.  I can't believe the things the papers are printing. I'm sure most of it's not true.
+L593238 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I don't think so.  You don't want to end up on page 3 of the Daily News.
+L593237 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Can I go to the hospital with you?
+L593236 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Visiting hour ends at eight thirty. I'll just sit with him; I want to show respect.
+L593226 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ OK. 
+L593225 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Look.  I'll see you tonight, OK?
+L593224 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Please say it.
+L593223 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I can't...
+L593222 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Tell me you love me.
+L593221 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Huh?
+L593220 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Can you say it?
+L593219 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Yeah Kay, I'm here.
+L593218 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ I LOVE YOU.
+L593217 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ I love you.
+L593216 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ He'll be OK.
+L593215 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ How is your father?
+L593214 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Hello.  Kay?
+L593067 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ No, I would not like you better if you were Ingrid Bergman.
+L593066 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Michael...
+L593065 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I'm thinking about it.
+L593064 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Michael?
+L593063 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Would you like me better if I were Ingrid Bergman?
+L593062 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ No.
+L593061 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Would you like me better if I were a nun?
+L593045 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Hello...this is Long Distance.  I have a call from New Hampshire.  Mr. Michael Corleone.  One moment please.
+L593044 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Shhh, you be the long distance operator.  Here.
+L593043 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Michael, what are you doing?
+L593041 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Then we can have dinner, see a show, and spend one more night.
+L593040 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Michael.
+L593039 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ For dinner.  Unless I call and tell them we're still in New Hampshire.
+L593038 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ What time do they expect us?
+L593037 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ As long as I tell him beforehand he won't object.  He'll be hurt, but he won't object.
+L593036 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ What will your father say?
+L593034 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Just you.
+L593033 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ And what do you want for Christmas?
+L593032 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ We have something for your mother, for Sonny, we have the tie for Fredo and Tom Hagen gets the Reynolds pen...
+L592953 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ He's my father's godson; he owes him his whole career.
+L592952 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ I used to come down to New York whenever he sang at the Capitol and scream my head off.
+L592951 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Sure.
+L592950 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ I didn't know your family knew Johnny Fontane.
+L592931 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ My brother Sonny found him living in the streets when he was a kid, so my father took him in.  He's a good lawyer.
+L592930 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ If he's your brother, why does he have a different name?
+L592927 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ My brother, Tom Hagen.
+L592926 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ How do you do.
+L592925 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Tom...Tom, I'd like you to meet Kay Adams.
+L592924 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ He's coming over here!
+L592923 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I told you you wouldn't like him.
+L592922 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ I never know when you're telling me the truth.
+L592921 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ ...who out of sheer terror had swallowed the bath towel in his mouth and suffocated.
+L592920 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Michael, I love you.
+L592919 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Then Luca turned to the other man...
+L592918 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Michael, I don't want to hear anymore...
+L592917 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Then the thighs where they joined the torso.
+L592916 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Michael you're trying to scare me...
+L592915 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Then the legs at the knees...
+L592914 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Michael...
+L592913 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ My Father sent Luca Brasi after them.  He tied the two Capone men hand and foot, and stuffed small bath towels into their mouths. Then he took an ax, and chopped one man's feet off...
+L592912 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Al Capone!
+L592911 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Once upon a time, about fifteen years ago some people wanted to take over my father's olive oil business.  They had Al Capone send some men in from Chicago to kill my father, and they almost did.
+L592910 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Then eat your spaghetti and I'll tell you a Luca Brasi story.
+L592909 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ You know I love spaghetti.
+L592908 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ You like spaghetti?
+L592907 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Yes.  Tell me.
+L592906 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ You really want to know?
+L592905 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Who is he?
+L592904 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ No.  His name is Luca Brasi.  You wouldn't like him.
+L592898 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Because they know that no Sicilian will refuse a request on his daughter's wedding day.
+L592897 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Why do they bother him on a day like this?
+L592896 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ They're going to talk to my father, which means they're going to ask him for something, which means they better get it right.
+L592895 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ They're talking to themselves.
+L592894 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ They're waiting to see my father.
+L592893 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ Michael, what are those men doing?
+L592892 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I told you I had a lot of relatives.
+L592891 +++$+++ u3104 +++$+++ m203 +++$+++ KAY +++$+++ I've never seen anything like it.
+L593259 +++$+++ u3108 +++$+++ m203 +++$+++ NURSE +++$+++ We don't have to disconnect them, we can wheel the stand with the bed.
+L593258 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ You've read about my father in the papers.  You've seen that no one's here to guard him.  Now I've just gotten word that men are coming to this hospital to kill him.  Believe me and help me.
+L593257 +++$+++ u3108 +++$+++ m203 +++$+++ NURSE +++$+++ Absolutely not!  We have to get permission from the Doctor.
+L593256 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ You and I are going to move my father right now...to another room on another floor...Can you disconnect those tubes so we can wheel the bed out?
+L593255 +++$+++ u3108 +++$+++ m203 +++$+++ NURSE +++$+++ You cannot stay here...I'm sorry.
+L593251 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ You just stand here one minute...
+L593250 +++$+++ u3108 +++$+++ m203 +++$+++ NURSE +++$+++ Oh your father just had too many visitors.  It interfered with the hospital service.  The police came and made them all leave just ten minutes ago.  But don't worry.  I look in on him.
+L593249 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I'm Michael Corleone--this is my father.  What happened to the detectives who were guarding him?
+L593329 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Probably a year...
+L593328 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ O.K.  How long do you think before I can come back?
+L593316 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Sollozzo and McCluskey are going to pick you up in an hour and a half on Times Square, under the big Camels sign.
+L593315 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ A million times.
+L593314 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ What are you, inspecting the barracks?  You ready?  Did Clemenza tell you be sure to drop the gun right away?
+L593313 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Why don't you stop living like a bum and get this place cleaned up.
+L593305 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ They want me to go to the conference with Sollozzo.  Set up the meeting for two days from now.  Sonny, get our informers to find out where the meeting will be held. Insist it has to be a public place: a bar or restaurant at the height of the dinner hour.  So I'll feel safe.  They'll check me when I meet them so I won't be able to carry a weapon; but Clemenza, figure out a way to have one planted there for me.  Then I'll kill them both.
+L593304 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Go on Mike.
+L593301 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ The kid's right.
+L593300 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ We can't wait.  No matter what Sollozzo say about a deal, he's figuring out how to kill Pop.  You have to get Sollozzo now.
+L593285 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ The Turk wants to talk!  The nerve of that son of a bitch!  After he craps out last night he wants a meet.
+L593284 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Cut it out.
+L593283 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Mikey, you look beautiful!
+L593254 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I won't panic.
+L593253 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ All right, get him in a different room; lock the door from the inside. I'll have some men there inside of fifteen minutes.  Sit tight, and don't panic.
+L593252 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Sonny...Sonny--Jesus Christ, I'm down at the hospital.  I came down late.  There's no one here.  None of Tessio's people--no detectives, no one.  The old man is completely unprotected.
+L593233 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I don't need them, Sonny.  I'm just going to see Pop in the hospital. Also, I got other things.
+L593232 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Send some bodyguards.
+L593231 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ To the city.
+L593230 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Where are you going?
+L593156 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Is it like they say?  Is he that good?
+L593155 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Christ, if I could only contact Luca.
+L593154 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ All right, Sonny.  All right.
+L593153 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ I know I'm not the man he was.  But I'll tell you this and he'll tell you too.  When it comes to real action, I can operate as good as anybody short range.
+L593152 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ That's not how Pop would have played it.
+L593151 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Sollozzo is a dead man, I don't care what it costs.  I don't care if we have to fight all the five families in New York.  The Tattaglia family's going to eat dirt.  I don't care if we all go down together.
+L593150 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Then wait, Sonny.  Talk to Pop.
+L593149 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Until the old man tells me different.
+L593148 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Is it going to be all-out war, like last time?
+L593147 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ On the three days Paulie was sick this month, he got calls from a payphone across from the old man's building.  We got people in the phone company.  Thank God it was Paulie...we'll need Clemenza bad.
+L593146 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ How can you be sure?
+L593145 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ You're right, kid, Clemenza is okay. It was Paulie.
+L593144 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Clemenza?  No, I don't believe it.
+L593143 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ One of them fingered the old man.
+L593142 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ What?
+L593141 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ All right, Mikey...who do we have to hit, Clemenza or Paulie?
+L593140 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Theresa.
+L593139 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Jesus Christ, he's my father, Sonny.
+L593138 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Oh no you can't, the old man'd be sore as hell if I let you get mixed up in this.
+L593137 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I can help you out...
+L593136 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Good.  She's been through it before. Me too.  You were too young to know about it.  You better wait outside; there're some things you shouldn't hear.
+L593135 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ How's Mom?
+L593134 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ I was worried when we couldn't get in touch with you in that hick town.
+L593348 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Is it all right if I go to the bathroom?
+L593347 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ What is it?
+L593346 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ What guarantees can I give you?  I am the hunted one.  I've missed my chance.  You think too highly of me, my friend...I am not so clever...all I want if a truce...
+L593345 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Most important...I want a sure guarantee that no more attempts will be made on my father's life.
+L593339 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ Maybe.
+L593338 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ We're going to New Jersey?
+L593335 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ He won't be; I swear to you be my children he won't be.  Just keep an open mind when we talk.  I hope you're not a hothead like your brother, Sonny.  It's impossible to talk business with him.
+L593334 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I want to settle things tonight.  I want my father left alone.
+L593333 +++$+++ u3111 +++$+++ m203 +++$+++ SOLLOZZO +++$+++ I'm glad you came, Mike.  I hope we can straighten everything out.  All this is terrible, it's not the way I wanted things to happen at all. It should never have happened.
+L593698 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I do wish to be baptized.
+L593697 +++$+++ u3110 +++$+++ m203 +++$+++ PRIEST +++$+++ Do you wish to be baptized?
+L593696 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I do renounce them.
+L593695 +++$+++ u3110 +++$+++ m203 +++$+++ PRIEST +++$+++ And all his works?
+L593694 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I do renounce him.
+L593693 +++$+++ u3110 +++$+++ m203 +++$+++ PRIEST +++$+++ Do you renounce Satan.
+L593687 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Yes, I promise.
+L593686 +++$+++ u3110 +++$+++ m203 +++$+++ PRIEST +++$+++ Do you pledge to guide and protect this child if he is left fatherless? Do you promise to shield him against the wickedness of the world?
+L593677 +++$+++ u3113 +++$+++ m203 +++$+++ TESSIO +++$+++ I can arrange security.
+L593676 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ He talked to you?
+L593675 +++$+++ u3113 +++$+++ m203 +++$+++ TESSIO +++$+++ Barzini wants to arrange a meeting. Says we can straighten any of our problems out.
+L593631 +++$+++ u3113 +++$+++ m203 +++$+++ TESSIO +++$+++ Forgive me, Godfather, let our years of friendship be my excuse. How can you hope for success there without your strength here to back you up?  The two  go hand in hand. And with you gone from here the Barzini and the Tattaglias will be too strong for us.
+L593630 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ No.  I want things very calm for another six months.
+L593629 +++$+++ u3113 +++$+++ m203 +++$+++ TESSIO +++$+++ Let us fill up our Regimes.
+L593618 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Be patient.
+L593617 +++$+++ u3113 +++$+++ m203 +++$+++ TESSIO +++$+++ I'm not asking you for help, Mike. Just take off the handcuffs.
+L593616 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Just be patient.
+L593615 +++$+++ u3113 +++$+++ m203 +++$+++ TESSIO +++$+++ Barzini's people chisel my territory and we do nothing about it.  Pretty soon there won't be one place in Brooklyn I can hang my hat.
+L593597 +++$+++ u3106 +++$+++ m203 +++$+++ MOE +++$+++ You son of a bitch, you think you can brush me off like that?  I made my bones when you were going out with cheerleaders.
+L593596 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ I have to go back to New York tomorrow.  Think of your price.
+L593595 +++$+++ u3106 +++$+++ m203 +++$+++ MOE +++$+++ Hell, he was banging cocktail waitresses two at a time.  Players couldn't get a drink.
+L593594 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ You straightened my brother out?
+L593591 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Is that why you thought you could slap Freddie around in public?
+L593590 +++$+++ u3106 +++$+++ m203 +++$+++ MOE +++$+++ The Corleone family don't have that kind of muscle anymore.  The Godfather is sick.  You're getting chased out of New York by Barzini and the other families, and you think you can find easier pickings here.  I've talked to Barzini; I can make a deal with him and keep my hotel!
+L593589 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ You took Freddie in because the Corleone family bankrolled your casino.  You and the Corleone family are evened out.  This is for business; name your price.
+L593588 +++$+++ u3106 +++$+++ m203 +++$+++ MOE +++$+++ You goddamn dagos.  I do you a favor and take Freddie in when you're having a bad time, and then you try to push me out.
+L593587 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ You're unlucky.
+L593586 +++$+++ u3106 +++$+++ m203 +++$+++ MOE +++$+++ You think I scam?
+L593585 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Your casino loses money.  Maybe we can do better.
+L593584 +++$+++ u3106 +++$+++ m203 +++$+++ MOE +++$+++ The Corleone family wants to buy me out.  I buy you out.  You don't buy me out.
+L593583 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ The hotel, the casino.  The Corleone family wants to buy you out.
+L593582 +++$+++ u3106 +++$+++ m203 +++$+++ MOE +++$+++ Buy me out?...
+L593581 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Is my credit good enough to buy you out?
+L593580 +++$+++ u3106 +++$+++ m203 +++$+++ MOE +++$+++ The chef cooked for you special; the dancers will kick your tongue out and you credit is good!  Draw chips for all these people so they can play on the house.
+L593579 +++$+++ u3105 +++$+++ m203 +++$+++ MICHAEL +++$+++ Thanks.
+L593578 +++$+++ u3106 +++$+++ m203 +++$+++ MOE +++$+++ Mike, good to see you.  Got everything you want?
+L593083 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Find out anything you can...you got a Grand coming. 
+L593082 +++$+++ u3115 +++$+++ m203 +++$+++ VOICE +++$+++ I think so, but I can't get close enough.  There's a lot of blood. I'll try to find out more.
+L593081 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Is he alive?
+L593080 +++$+++ u3115 +++$+++ m203 +++$+++ VOICE +++$+++ Right.  Don't say my name, just listen.  Somebody shot your father outside his place fifteen minutes ago.
+L593079 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ I think so.  Detective squad?
+L593078 +++$+++ u3115 +++$+++ m203 +++$+++ VOICE +++$+++ Do you recognize my voice?
+L593077 +++$+++ u3112 +++$+++ m203 +++$+++ SONNY +++$+++ Yeah.

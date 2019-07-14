@@ -1,0 +1,471 @@
+L442426 +++$+++ u2465 +++$+++ m159 +++$+++ ANAMARIA +++$+++ Aye, aye, sir!
+L442425 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ AnaMaria, trim the mainsail!
+L442088 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ They'll be anchored on the lee side.  Haul your wind, and keep to the weather of the island --
+L442087 +++$+++ u2465 +++$+++ m159 +++$+++ ANAMARIA +++$+++ How does he do that?
+L442020 +++$+++ u2465 +++$+++ m159 +++$+++ ANAMARIA +++$+++ I will.
+L442019 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ You'll get it back.  Or one better.
+L442018 +++$+++ u2465 +++$+++ m159 +++$+++ ANAMARIA +++$+++ That boat is my livelihood!
+L442017 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Safe!  At Port Royal.  With the Royal Navy.
+L442016 +++$+++ u2465 +++$+++ m159 +++$+++ ANAMARIA +++$+++ My dory.  The Jolly Mon.  Where is it?
+L442014 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ AnaMaria!  Have you seen Gibbs?  I need to put together --
+L442013 +++$+++ u2465 +++$+++ m159 +++$+++ ANAMARIA +++$+++ You stole my boat.
+L442403 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ He didn't waste it.
+L442402 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Hah.  Ten years you carried that pistol, and you end up wasting your shot.
+L442214 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Quite, boy, or you'll lose your tongue.  Those as know me know I wouldn't cross my word, and bring down bad luck on the ship.  I agreed to set them free.  I didn't when ... nor where.
+L442213 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ No!  You gave your word!
+L442208 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Eh?  You have my word, then -- on the Good Book, I do swear, and the Lord spare my worthless soul.
+L442207 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ You must swear by the Holy Bible.
+L442204 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ And Jack.  And the crew.  Free and unharmed.  If you agree ... then ... I will remain with you.
+L442203 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ We got that part.  Anything else?
+L442202 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Elizabeth goes free!
+L442201 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Enough of that!  Name your terms.
+L442194 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ You can't.  I can.
+L442193 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ You've got one shot -- and we can't die.
+L442192 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ She.  Goes.  Free.
+L442191 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ What's in your head, boy?
+L442400 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Or you could surrender.
+L442399 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ So what now, Jack Sparrow?  Are we to be two immortals, locked in epic battle until the trumpets of Judgement Day?
+L442394 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Remarkable how often those two traits coincide.
+L442393 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Just so you know, Jack -- I don't think you're that clever.  I think you're a fool.  A mortal fool.
+L442375 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Aye, for us there is.
+L442374 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ There's ... another exit?
+L442372 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Men!  Are you up for it?
+L442371 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Now, you can take care of the Dauntless, right?
+L442369 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Aye.  See, after you're done with the Royal Navy, you'll have a bit of a problem: the H.M.S. Dauntless. There you'll be, with two lovely ships on your hands, and what to do?  Of course you'll decide you deserve the bigger one, and who's to argue?  The Dauntless a first- rate ship-of-line, and with it, you can rule the seas.  But if you're Captain of the Dauntless, who's left for the Black Pearl?
+L442368 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ That so?
+L442367 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ The situation has changed.
+L442366 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ I can't help wondering, Jack, why you're being so helpful and all? Last time you did that, it didn't end well for you.
+L442365 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Like after you've killed ... Every ... Last ... One ... of Norrington's men.
+L442363 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ What're you suggesting?
+L442362 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ You've no hope of surviving Norrington's attack ... that is, if you're mortal.
+L442357 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Because, right about now, the H.M.S. Dauntless is lying in wait in the harbor.
+L442356 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Why don't I want to do this?
+L442355 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ All right then.
+L442354 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ No, I really think I do.
+L442226 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ That's fair.
+L442225 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ You can go to your grave not knowing.
+L442224 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ So how did you get off that island, anyway?
+L442219 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ The last time you do this, you left me a pistol, with one shot.
+L442218 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ You'd best take a swim, Jack.
+L442217 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Someone needs to cut these bonds, then.
+L442216 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Now, Jack.  That reef is less than a league distant.  It's a square deal all around, and you can't hope for better.
+L442215 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ It's pure evil to make a Captain walk the plank of his own ship, twice in one lifetime.  No good can come of it.
+L442164 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Bosun!  Set up Mr. Sparrow's quarters, nice and fine ... in the brig.  Meaning no disrespect, of course.
+L442163 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ I'll watch my back.
+L442162 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ That fool woman took it.  You be careful around her, Jack -- she's pretty enough, she'll steal your heart -- but pure evil inside.
+L442161 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ What -- you don't have the medallion?
+L442159 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ You're playing this as close to the edge as any man, I'll give you that.  We might just have to sign articles, you and I.  Jack, you're a pirate at heart, that's certain.
+L442158 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ See, that's where we're different. I trust you ... to do what it takes to get what you want.
+L442157 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Jack, I don't trust you, and that's a fact.  Never trust a smiling man, you can lay to that.
+L442155 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Track you down and --
+L442154 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Let's say I tell you the wrong person.  What would you do?
+L442153 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ You're setting me up for a double cross, you with the ship, and me with nothing more than your word!
+L442152 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Wait as long as you like.
+L442151 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Blast you!  I'll throw you in prison.
+L442150 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ You left me on a desert island -- what worse can you do?
+L442149 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ I'll torture it out of you.
+L442148 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ You see, I've got this honest streak in me -- in its own way, a sort of curse.  Oh, and there's the fact that you have no choice.
+L442146 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ I'm supposed to ... trust you?
+L442145 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ That's right.
+L442144 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ That's your offer?  You, sailing away nice and pretty with the Black Pearl, and all I have is a name?
+L442143 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ You give me the Pearl.  Then I tell you who you need.
+L442142 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ The Pearl?  Oh, that's fine.  And just how do you expect this to work?
+L442141 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Simple.  I have something you won't more than anything.  The way to free you from the curse of the treasure.  You have something I want -- more than anything.
+L442140 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Allow me the humor of listening to your terms.
+L442137 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ No you won't.
+L442136 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Say the name, or I slit your throat.
+L442135 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ I know whose blood you need, to end the curse.
+L442361 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ No.  But him I believe.  He us genuinely angry.
+L442360 +++$+++ u2474 +++$+++ m159 +++$+++ PINTEL +++$+++ Do you believe him?
+L442339 +++$+++ u2474 +++$+++ m159 +++$+++ PINTEL +++$+++ I guess there is a reason to fret.
+L442338 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Turner blood doesn't flow pure in his veins.  Best play it safe, and spill it all.
+L442337 +++$+++ u2474 +++$+++ m159 +++$+++ PINTEL +++$+++ No reason to fret.  It's just a prick of the finger and a few drops of blood.
+L442221 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ By the powers, you're right!  Where's Jack's pistol?  Who's got it?  Bring it forward!
+L442220 +++$+++ u2474 +++$+++ m159 +++$+++ PINTEL +++$+++ That's proper, sir, according to the code.
+L442200 +++$+++ u2474 +++$+++ m159 +++$+++ PINTEL +++$+++ And he's got Old Bill's courage. A curse on him, and you!
+L442199 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Looks like your back to having nothing to offer.
+L442139 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Now.  No, don't kill him.
+L442138 +++$+++ u2474 +++$+++ m159 +++$+++ PINTEL +++$+++ Now?
+L442206 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Will -- you can't trust him.
+L442205 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Agreed.  You have my word, as a gentleman of fortune --
+L442090 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Aye.  And not a bit of it any use to us, only hoarded.  But it will drive us no longer.
+L442089 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ The curse drove you to gather this?
+L441974 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ It's a piece of the treasure of Isla de Muerta.
+L441973 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ It's a pirate medallion.
+L441972 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Do you not know what this is, then?
+L441971 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Would that I could.
+L441970 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Then why aren't you eating?
+L441969 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Oh, there would be no sense in killing you, Miss Turner.
+L441964 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Now, none of that.  Please dig in.
+L441963 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Dare I ask the fate of it previous owner?
+L441962 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Maid or not, it fits you.
+L441862 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ It's you who invoked the parlay! Believe me, Miss, you'd best hand it over, now ... or these be the last friendly words you'll hear!
+L441861 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Can I trust you?
+L441860 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ No, no, nothing like that.  Very well.  You hand that over, we'll put your town to our rudder and ne'er return.
+L441859 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Of course.  I didn't steal it, if that's what you mean.
+L441858 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ And how does a maid come to own a trinket such as that?  A family heirloom, perhaps?
+L441857 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Thank you, sir.
+L441856 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ You've got sand, for a maid.
+L441855 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Elizabeth --  Turner.  I'm a maid in the governor's household. 
+L441854 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ You have a name, missy?
+L441851 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ Did you, now?
+L441850 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Because it's what you're searching for.  You've been searching for it for years.  I recognize this ship. I saw it eight years ago, when we made the crossing from England.
+L441849 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ My holds are bursting with swag. That bit of shine matters to me ... Why?
+L441848 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ I'll drop it!
+L441847 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Very well.
+L441846 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ I am disinclined to acquiesce to your request.  Means 'No.'
+L441845 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ I want you to leave.  And never come back.
+L441844 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ There was a lot of long words in there, miss, and we're not but humble pirates.  What is it you want?
+L441843 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Captain Barbossa ... I have come to negotiate the cessation of hostilities against Port Royal.
+L441842 +++$+++ u2466 +++$+++ m159 +++$+++ BARBOSSA +++$+++ My apologies, miss.  As you were saying, before you were so rudely interrupted?
+L442309 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Well, I am not going to stay hidden in some cabin, or I suppose it's going to be heaving bosoms and bare for the remainder of the voyage!
+L442308 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ That would hardly be proper.
+L442307 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Then I can wear men's clothing.
+L442306 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ You may seclude yourself in my cabin.  I'm afraid we do not have any ladies' clothing aboard.
+L442304 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ I know where your heart truly lies.
+L442303 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ What?
+L442302 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Elizabeth, I hereby withdraw my proposal.
+L442299 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Not as a condition -- a request.
+L442298 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ I am to understand that you will accept my marriage proposal on the condition I rescue Mr. Turner?
+L442297 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Commodore, I beg you -- please do this ... for me.  As a wedding gift.
+L442294 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Commodore, please!
+L442293 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Your father is frantic with worry. Our mission was to rescue you and return home.  That is what we shall do.  Mr. Turner's fate is regrettable.  But so was his decision to engage in piracy.
+L442292 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ No.  The pirates have taken Will --
+L442289 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ He can locate Isla de Muerta -- but I doubt he'll be willing to help us from the brig.
+L442288 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ You're speaking up for him again?
+L442287 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Commodore, you can't do that!
+L442286 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Elizabeth, I'm relieved you're safe.  Clap him in irons.  And behind his back this time.
+L441758 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Yes, I'm all right, I'm fine!  Go capture him.
+L441757 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ On his heels!  Gillette, bring a squad down from the fort!  Elizabeth, are you --
+L441744 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ One good deed is not enough to redeem a man of a lifetime of wickedness.
+L441743 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Commodore, I must protest.  Pirate or not, this man saved my life.
+L441712 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ I'm a bit nervous, myself --
+L441711 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ I can't breathe.
+L441710 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ I apologize if I seem forward -- but I must speak my mind.  This promotion confirms that I have accomplished the goals I set for myself in my career.  But it also casts into sharp relief that which I have not achieved.  The thing all men most require: a marriage to a fine woman.  You have become a fine woman, Elizabeth.
+L441623 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Very good.
+L441622 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ His name is Will Turner -- that's all I found out.
+L441621 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Did he speak?
+L441607 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Fetch a hook -- haul him out of there!
+L441606 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Boy overboard!
+L441605 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Man overboard!
+L441597 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Think again, Miss Swann. Vile and dissolute creatures, the lot of them. I intend to see to it that any man who sails under a pirate flag, or wears a pirate brand, gets what he deserves: a short drop and a sudden stop.
+L441596 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ I think it would be rather exciting to meet a pirate.
+L441650 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ About the day we met. Do you remember?
+L441649 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ Elizabeth, this is hardly appropriate --
+L441638 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Women in London must have learned to not breathe.
+L441637 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ I'm told that dress is the very latest fashion in London.
+L441636 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Difficult ... to say.
+L441634 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ Or, rather, Commodore Norrington ... a fine gentleman, don't you think?  He fancies you, you know.
+L441633 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ I knew it.
+L441632 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ Captain Norrington's promotion ceremony.
+L441631 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Ceremony?
+L441630 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ Although ... I did think you could wear it to the ceremony today.
+L441629 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ Is an occasion necessary for a father to dote upon his daughter with gifts?
+L441628 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ It's -- beautiful. May I inquire as to the occasion?
+L441625 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Yes -- yes.
+L441624 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ Elizabeth? Is everything all right? Are you decent?
+L441602 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Yes, father.
+L441601 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ And that's what concerns me. Elizabeth, we will be landing in Port Royal soon, and beginning our new lives. Wouldn't it be wonderful if we comport ourselves as befits our class and station?
+L441600 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Actually, I find it all fascinating.
+L441960 +++$+++ u2474 +++$+++ m159 +++$+++ PINTEL +++$+++ He said you say that!  He also said if that be the case, you'll be dining with the crew, and you'll be naked.
+L441959 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Tell the captain that I am disinclined to acquiesce to his request.
+L441958 +++$+++ u2474 +++$+++ m159 +++$+++ PINTEL +++$+++ You'll be dining with the Captain, and he requests you wear this.
+L441819 +++$+++ u2474 +++$+++ m159 +++$+++ PINTEL +++$+++ It would appear, so do you.
+L441818 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ If an adversary demands parlay, you can do them no harm until the parlay is complete.
+L441817 +++$+++ u2474 +++$+++ m159 +++$+++ PINTEL +++$+++ I know the code.
+L441816 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Parlay!  I invoke the right of parlay!  According to the Code of the Brethern, set down by the pirates Morgan and Bartholomew, you must take me to your Captain!
+L441815 +++$+++ u2474 +++$+++ m159 +++$+++ PINTEL +++$+++ What?
+L442413 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ -- but that was not a proper kiss.
+L442412 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ It doesn't!
+L442411 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Elizabeth, I think it doesn't matter that we are of a different class --
+L442410 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ There.  And don't you dare tell me that wasn't a proper kiss!
+L442172 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ I guess you can never truly know someone else's heart.
+L442171 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ I can't believe he would make such a sacrifice for us.
+L442170 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ -- then we never would have met.
+L442169 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ If I had known --
+L442168 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ To keep it away from them?  No pirate would sail to London, for fear of Execution Dock.
+L442167 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Why would my father send this to me?
+L442123 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Truthfully -- you were a bit late.
+L442122 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ I'm glad we got here in time.
+L441653 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ At least once more, Miss Swann. As always.
+L441652 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Will, how many times must I ask you to call me 'Elizabeth'?
+L441651 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ I could never forget it, Miss Swann.
+L442324 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ What's your plan?
+L442323 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ I have a plan.  If it succeeds, then any battle will be decidedly brief ... and one-sided.
+L442322 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ These men will be facing an enemy that seemingly cannot be killed.
+L442321 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Exactly.
+L442320 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ He might delay the rescue ... and that would be too late.
+L442319 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Nor did you, I noticed.
+L442318 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ You didn't tell Commodore Norrington everything.
+L442283 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Exactly.
+L442282 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ You -- you burned up the island, for a one-time chance at being spotted?
+L442281 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ That signal is over a thousand feet high, which means it can be seen for two hundred leagues in every direction.  The entire Royal Navy is out to sea looking for me -- do you think there is even a chance they could miss it?
+L442280 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ One, because it is a vile drink that turns even the most respectable men into scoundrels. Two --
+L442279 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Why?
+L442278 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Yes, the rum is gone.
+L442277 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ What are you doing?  You've burned our food, the shade -- the rum!
+L442276 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ To the Black Pearl.
+L442275 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ To freedom.
+L442274 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ We've got a few bottles left ... and we've yet to tap the kegs.
+L442273 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Mr. Sparrow!  I'm not sure I've had enough rum to allow that kind of talk.
+L442272 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Ah, well ... the company is better than last time.  And the scenery has definitely improved.
+L442271 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Jack, it must be so terrible for you, to be trapped here on this island, all over again.
+L442269 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ You'll be positively the most fearsome pirates to sail the Spanish Main.
+L442268 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ When I get the Black Pearl back, I'm going to teach it to the whole crew, and we'll sing it all the time!
+L442262 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ More to drink!
+L442261 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Well, perhaps ... with a bit more to drink, I might ...
+L442260 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Now I must hear this song.  An authentic pirate song.  Have at it.
+L442259 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ That was before I met one, of course.
+L442258 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Oh, no ... it's silly.  Back in England we didn't know a thing about pirates, really.  They seemed so romantic and daring --
+L442257 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ I know a lot of songs about pirates, but none I'd teach a child.  Let's hear it.
+L442256 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Nothing ... it's nothing.  Just ... I'm reminded of a song I learned as a child.  A song about pirates.
+L442255 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ What?  What was that?  Something funny, Miss Swann? Share, please.
+L442254 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Drink up me hearties, yo ho ...
+L442251 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Not when you can drink instead, at least.
+L442250 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Don't be thinking I'm happy about this, Elizabeth.  But I see no use in wailing and gnashing my teeth over that which I can do nothing about.
+L442249 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ You're right.  Here's luck to you, Will Turner.
+L442248 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ A month?  Will doesn't have a month!  We've got to do something to help him!
+L442247 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ You should look at our contretemps this way: we've got shade trees, thank the Lord.  We've got some food on the trees, thank the Lord again.  And we've got rum, praise the Lord.  We can stay alive a month, maybe more.  Keep a weather eye open for passing ships, and our chances are fair.
+L442246 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Welcome to the Caribbean, love.
+L442245 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ So that's it?  That's the secret grand adventure of the infamous Jack Sparrow?  You spent three days on the beach drinking rum?
+L442244 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Last time, I was here a grand total of three days.  Last time, the rumrunners who used this island as a cache came by, and I bartered passage off.  But from the looks of this, they've been out of business, and so that won't be happening again.  We probably have your friend Norrington to thank for that.
+L442243 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ But ... you did it before!  Last time --
+L442242 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ It won't.  It won't, and so we won't.
+L442241 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ What?  What's wrong?  How will this help us get off the island?
+L442239 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Don't be thinking I'm not already working on it.
+L442238 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Captain Sparrow!  We have to get off this island -- immediately!
+L442235 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ The trees are taller.
+L442234 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Has it changed since the last time you were here?
+L442126 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ No.  This won't work.  I'll stay behind, and fight them. You go on.
+L442125 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Come on!
+L442118 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ No, I'm -- rescuing you.
+L442117 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ You're in league with Barbossa!
+L442116 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Me!
+L442115 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ You?!
+L441755 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ I saved your life; now you've saved mine.  We're square.
+L441754 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ You are despicable.
+L441752 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Miss Swann, if you'll be so kind?
+L441751 +++$+++ u2467 +++$+++ m159 +++$+++ ELIZABETH +++$+++ Miss Swann.
+L442078 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Ah, that's a dark and unpleasant tale, best left untold.
+L442077 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ How did you get off the island?
+L442059 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ We're catching up!
+L442058 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ What's in your head to put you in such a fine mood?
+L442057 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ She can hold a bit longer.
+L442056 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ We'd best drop canvas, sir!
+L442044 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ That he is.
+L442043 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ Kid's a bit of a stick, isn't he?
+L442040 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ And you've got that, have you?
+L442039 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Not if the fool has something Barbossa wants.  Something he needs.
+L442038 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ A fool's errand.
+L442037 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Aye, and that's why I know where it's going to be, and that's why I know what Barbossa is up to.  All I need is a crew.
+L442036 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ Jack, it's a fool's errand: You've heard the tales they tell about the Pearl.
+L442035 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ I'm going after the Black Pearl. I know where it's going to be, and I'm going to take it.
+L442034 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ Say again?
+L442032 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Now where, I wonder, would they have gotten that idea?
+L442031 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ Oh, there's a hard tale, Jack. Most of the decent pirates in town won't sail with you -- seem to think you're a jinx.
+L442030 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ First -- have you found me a crew?
+L442029 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ Make it last, then.  Now, what's the nature of this venture of yours?
+L442025 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ Aye, that'll about do it.
+L442024 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Well, fortunately, I know how to counter it.  The man who did the waking buys the man who was sleeping a drink, and the man who was sleeping it drinks it while listening to a proposition.
+L442023 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ Curse you for breathing, you slack- jawed idiot.  Mother's love, Jack, you know better than to wake a man when he's sleeping.  It's bad luck!
+L442188 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ Will -- it'll go worse for us -- for Elizabeth, especially -- if we fight.
+L442187 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ We can at least fight -- we might be able to kill a few--
+L442186 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ That we are.
+L442185 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ We're not going to just surrender!
+L442184 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ It's a signal.  If we resist, it won't just be death.  There'll be torture as well.
+L442074 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ How did he get off the island?
+L442073 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ Jack gave hisself up for the sake of his loyal crew.  He was marooned on an island, left there to die.
+L442072 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ Ah -- he's learned, then.  Plays things more close to the vest. See, Jack was a cartographer, back in Old England.  Somehow he came by the money to commission the Pearl. Hired himself a crew, promised each man an equal share.  So, they're forty days out, and the First Mate says, everything's an equal share, that should mean the location of the island, too.  So Jack gave up the bearings.  That night, there was a mutiny.
+L442071 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ What?  He never told me that.
+L442070 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ I'll tell lee.  Now, Jack Sparrow has an honest streak in him, and that's where the whole problem starts.  This was when he was Captain of the Black Pearl --
+L442069 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Really?  So ... what's the story on the pistol?
+L442068 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ Now, lad, just because it don't point north don't mean it don't work.  That compass gives bearings to the Isla de Muerta, wherever it may lay.
+L442067 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ How do we expect to find an island no one can find -- with a compass that doesn't work?
+L442027 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ I know.  That was for the smell.
+L442026 +++$+++ u2468 +++$+++ m159 +++$+++ GIBBS +++$+++ Blast it, I'm already awake!
+L442422 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ I don't think that will be necessary.
+L442421 +++$+++ u2469 +++$+++ m159 +++$+++ GILLETTE +++$+++ Sir!  Shall I break out the cannons?
+L442384 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Wait for my order -- what the blazes is that?
+L442383 +++$+++ u2469 +++$+++ m159 +++$+++ GILLETTE +++$+++ All the men in place, sir.  Ready to fire.
+L441952 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Better to see it at the bottom of the sea than in the hands of a pirate.
+L441951 +++$+++ u2469 +++$+++ m159 +++$+++ GILLETTE +++$+++ Hands!  Come about!  Jackets off the cannons!  We are to fire on our own ship?
+L441950 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ We need only to come about, to put them in range of the long nines.
+L441949 +++$+++ u2469 +++$+++ m159 +++$+++ GILLETTE +++$+++ The wind is quarter from astern ... by the time we're underway, we'll never catch them.
+L441948 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Raise the sails.
+L441927 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ As likely as not.  Will, short up the anchor, we've got ourselves a ship!
+L441926 +++$+++ u2469 +++$+++ m159 +++$+++ GILLETTE +++$+++ Agreed.  You have the momentary advantage, sir.  But I will see you smile from the yard arm, sir.
+L441925 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Fine by me.  We brought you a nice little boat, so you can all get back to shore, safe and sound.
+L441924 +++$+++ u2469 +++$+++ m159 +++$+++ GILLETTE +++$+++ Sir, I'll not see any of my men killed or wounded in this foolish enterprise.
+L441923 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ We'll see about that.
+L441922 +++$+++ u2469 +++$+++ m159 +++$+++ GILLETTE +++$+++ You understand this ship cannot be crewed by only two men.  You'll never make it out of the bay.
+L441921 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Dead serious.
+L441702 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ I said, no lies.
+L441701 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ None?  Very well.  You rumbled me. I confess: I intend to commandeer one of these ships, pick up a crew in Tortuga, and go on the account, do a little honest pirating.
+L441698 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Smith.
+L441697 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ What's your name?
+L441676 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ That so?  I've heard of one, supposed to be fast, neigh uncatchable ... the Black Pearl?
+L441675 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ Oh, the Dauntless is the power in these waters, true enough -- but there's no ship that can match the Interceptor for speed.
+L441674 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ That's a fine goal, I'm sure ... But it seems to me a ship like that --  -- makes this one here just a wee superflous.
+L441668 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ This must be some important boat.
+L441667 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ No ... somone has to make sure this dock stays off-limits to civilians.
+L441666 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Some sort of to-do up at the fort, eh?  You two weren't invited?
+L441665 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Sorry, I didn't know.
+L441664 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ This dock is off-limits to civilians.
+L442336 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ I'll slip in, talk them into to come out, and you'll be free to blow holy high heaven the whole lot of them.
+L442335 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ I'll be at the wheel myself.
+L442334 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ That chart I drew up'll get you past the reefs.  If you're steersman's good enough, that is.
+L442333 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ I knew you'd listen to reason!
+L442332 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Nothing I wouldn't be please to be rid of.
+L442331 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ They left me stranded.  Twice. What have you got to lose?
+L442330 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ You would do that?
+L442329 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Funny, I was thinking along those lines.  How about you let me go in alone, and while you're setting up an ambush, I'll trick the pirates out to you.
+L442328 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ I don't like the situation, Mister Sparrow.  The island is riddled with caves.  I will not put my men at a disadvantage.
+L442296 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ By remembering that I serve others, not only myself.
+L442295 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Norrington, think about it ... the Black Pearl, its captain and crew ... the last pirate threat in the Caribbean.  How can you pass that up?
+L442291 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ We are bound for Port Royal, not Isla de Muerta.
+L442290 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ We had time to get to know each other.
+L441746 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Indeed.
+L441745 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ But it seems to be enough to condemn him.
+L441741 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Ah, but you have heard of me.
+L441740 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Taking stock: you've got a pistol with only one shot, a compass that doesn't point north ... and no ship.  You are without a doubt the worst pirate I have ever heard of.
+L441733 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Captain Jack Sparrow.  If you please.
+L441732 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Well, well... Jack Sparrow, isn't it?
+L442405 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ The worst.  On the other hand, maybe I'm a man who can't pass up a chance for revenge against the black-hearted bastard who stole my ship and left me to die in the middle of the ocean -- twice! -- and who knows how to get what he wants.  Now that's a great pirate.
+L442404 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Well, you're the worst pirate I've ever heard of.  You're a man who can be trusted, who can be counted on, and who can't betray his friends.  What kind of pirate is that?
+L442359 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ -- and its guns and crew will cut you and your men to pieces the moment you step outside these caves.
+L442358 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Jack!
+L442348 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ It's the right way.
+L442347 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Are you certain this is the right way?
+L442346 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Don't talk.  These caves magnify sound.  Just follow me.
+L442345 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Jack!
+L442344 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Do you have any idea where you're going?
+L442197 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ My name is Will Turner, the son of Bootstrap Bill Turner.  His blood runs in my veins.  You need my blood.  And on my word I will pull this trigger, and sink all the way down to Davy Jones' Locker!
+L442196 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Will -- don't do anything stupid! Don't say anything stupid --
+L442131 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ I'm sure.  When you've led the kind of life that I have, there are debts that must be paid.  Maybe I can balance the scales a little.
+L442130 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Are you sure?  Jack -- this is not something you have to do.
+L442129 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Go to the opposite end of the island, and signal the ship.  I'll keep 'em busy.
+L442128 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ I'll lead them away.
+L442127 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ No.
+L442121 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ This way!
+L442120 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Miss Swann!  We're here to rescue you!  It's going badly!
+L442094 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ On whether the stories are all true.  If they are, that's a waterfall that spills over at high tide, with a short drop to an underground lagoon.  If not --
+L442093 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ On what?
+L442092 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Depends.
+L442091 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ What's that?
+L442082 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Barbossa.
+L442081 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ But I survived.  And I still have that single shot.  It's meant for one man.  My mutinous first mate--
+L442080 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ The pistol.  When a pirate is marooned, Will, he's given a pistol with a single shot.  No good for hunting, or surviving, really.  But after three weeks of starvation and thrist -- the option of that pistol begins to look good.
+L442079 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Wait -- what about the pistol?
+L442054 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ These are the only ones worth having.  And we're going to need them --
+L442053 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Shut up, before you lose them all!
+L442012 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Don't worry.  I've already got a Quartermaster -- there!
+L442011 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Just do it quickly.
+L442009 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Oh -- did I forget to mention that?
+L442008 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Tortuga?
+L442005 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Then that's not much incentive for me to fight fair, is it?
+L442004 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ You didn't beat me.  You ignored the rule of engagement.  In a fair fight, I'd kill you.
+L442003 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Put it away, Will.  It's not worth getting beat again.
+L442002 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ My father -- was not -- a pirate!
+L442001 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Sure -- because he could always go pirating.
+L442000 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ My father did not think of my mother -- his family -- as a burden.
+L441999 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ You think your father is the only man who ever lived the Glasgow life, telling folk one thing, and then going off to do another? There's quite a few who come here, hoping to amass enough swag to ease the burdens of respectable life. And they're all 'merchant marines.'
+L441998 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ He was a merchant marine!  He was a respectable man who obeyed the law, and followed the rules--
+L441997 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Figured you wouldn't want to hear it.
+L441996 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ It's not true my father was a pirate.
+L441995 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ I swear, you look just like him.
+L441994 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ That's not true.
+L441993 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Good man.  Good pirate.  And clever -- I never met anyone with as clever a mind and hands as him. When you were puzzling out that cell door, it was like seeing his twin.
+L441992 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ 'Bootstrap?'
+L441991 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ I knew him.  Probably one of the few he knew him as William Turner. Most everyone just called him Bill, or 'Bootstrap' Bill.
+L441989 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ My father.  William Turner?
+L441988 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Is that so?
+L441987 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ I worked passage from England as a cabin boy.  After my mother passed, I came out here ... looking for my father.
+L441986 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ For a man whose made an industry of avoiding boats, you're a quick study.
+L441919 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Aye!  Avast!
+L441918 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Everybody stay calm.  We're taking over the ship!
+L441917 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Remarkable how often those two traits coincide.
+L441916 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ This is either crazy, or brilliant.
+L441915 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ So's breaking a man out of jail. Face it, Will: you may say you'll never be a pirate, but you're off to a rip-roaring start.  My advice -- smile and enjoy it.
+L441914 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ It's still against the law.
+L441913 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Commandeer.  We're going to commandeer a ship.  Nautical term.
+L441912 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ We're going to steal a ship?  That ship?
+L441910 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ No worries there.  She's far more likely to rot out from under us.
+L441909 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ I haven't set foot off dry land since I was twelve, when the ship I was on exploded.  It's been a sound policy.
+L441908 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Come aboard.
+L441905 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Good.
+L441904 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ I'd die for her.
+L441903 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ My business, Will.  As for your business -- one question, or there's no use going.  This girl -- what does she mean to you?  How far are you willing to go to save her?
+L441902 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Why are brothering with that?
+L441901 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ We need to go!
+L441900 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Not without my effects.
+L441898 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Agreed!
+L441897 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Agreed.
+L441893 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ I helped build these cells.  Those are hook-and-ring hinges.  The proper application of strength, the door'll lift free.  Just calls for the right lever and fulcrum ...
+L441892 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ How?  The key's run off.
+L441891 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ I can get you out of here.
+L441890 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ So it is that you found a girl. Well, if you're intending to brave all and hasten to her rescue and so win fair lady's heart, you'll have to do it alone.  I see no profit in it for me.
+L441889 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Never.  They took Miss Swann.
+L441888 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ And you want to turn pirate yourself?
+L441887 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Because you're a pirate.
+L441886 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Why ask me?
+L441885 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ The ship's real enough.  So its anchorage must be a real place. Where is it?
+L441884 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Surely you've heard the stories? The Black Pearl sails from the dreaded Isla de Mureta ... an island that cannot be found -- except by those who already know where it is.
+L441883 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Where does it make berth?
+L441882 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Somewhat.
+L441881 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ Are you familiar with that ship? The Black Pearl?
+L441783 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ No.  I can not just step aside and let you escape.
+L441782 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Move!
+L441781 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ No.
+L441780 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Move away.
+L441779 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Pirate.
+L441778 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ You cheated.
+L441776 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ You need to find yourself a girl.  Or maybe the reason you practice three hours a day is you've found one -- but can't get her?
+L441775 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ I do.  And I practice with them. At least three hours a day.
+L441774 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Who makes all these?
+L441769 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Only a little.
+L441768 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ You threatened Miss Swann.
+L441767 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Do you think this is wise, boy? Crossing blades with a pirate?
+L441766 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ Ah.  Then it would be a shame to put a black mark on your record.  So if you'll excuse me ...
+L441765 +++$+++ u2476 +++$+++ m159 +++$+++ WILL +++$+++ I've made a point of avoiding familiarity with pirates.
+L441764 +++$+++ u2470 +++$+++ m159 +++$+++ JACK +++$+++ You look familiar ... Have I ever threatened you before?
+L441874 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ Still --
+L441873 +++$+++ u2471 +++$+++ m159 +++$+++ MULLROY +++$+++ Mentioned it, is more what he did.
+L441872 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ That Jack Sparrow ... he talked about the Black Pearl.
+L441706 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ If he were telling truth he wouldn't have told us.
+L441705 +++$+++ u2471 +++$+++ m159 +++$+++ MULLROY +++$+++ He may be.
+L441704 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ He's not telling the truth.
+L441703 +++$+++ u2471 +++$+++ m159 +++$+++ MULLROY +++$+++ I think he's telling the truth.
+L441700 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ And no lies!
+L441699 +++$+++ u2471 +++$+++ m159 +++$+++ MULLROY +++$+++ What's your business in Port Royal, 'Mr. Smith'?
+L441693 +++$+++ u2471 +++$+++ m159 +++$+++ MULLROY +++$+++ Like I said, there's no real ship as can match -- Hey!
+L441692 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ ... no.
+L441691 +++$+++ u2471 +++$+++ m159 +++$+++ MULLROY +++$+++ Oh, and no ship that's not crewed by the damned and captained by a man so evil that hell itself spat him back out could possibly have black sails and therefore couldn't possibly be any ship other than the Black Pearl.  Is that what you're saying?
+L441690 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ But I've seen a ship with black sails.
+L441689 +++$+++ u2471 +++$+++ m159 +++$+++ MULLROY +++$+++ No.
+L441688 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ ... No.
+L441687 +++$+++ u2471 +++$+++ m159 +++$+++ MULLROY +++$+++ You've seen a ship with black sails that's crewed by the damned and captained by a man so evil that hell itself spat him back out?
+L441686 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ Yes, I have.
+L441685 +++$+++ u2471 +++$+++ m159 +++$+++ MULLROY +++$+++ You haven't seen it.
+L441684 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ Yes.
+L441683 +++$+++ u2471 +++$+++ m159 +++$+++ MULLROY +++$+++ You've seen the Black Pearl?
+L441682 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ Yes.
+L441681 +++$+++ u2471 +++$+++ m159 +++$+++ MULLROY +++$+++ You've seen it?
+L441680 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ Yes it is.  I've seen it.
+L441679 +++$+++ u2471 +++$+++ m159 +++$+++ MULLROY +++$+++ No, it's not.
+L441678 +++$+++ u2472 +++$+++ m159 +++$+++ MURTOGG +++$+++ The Black Pearl is a real ship.
+L441677 +++$+++ u2471 +++$+++ m159 +++$+++ MULLROY +++$+++ There's no *real* ship as can match the Interceptor.
+L441938 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ Dammit, man, it appears someone is stealing your ship!
+L441937 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Please.
+L441936 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ But --
+L441935 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ A moment.
+L441934 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ Commodore --
+L441796 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ Bleak.  Very bleak.
+L441795 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ Well, she had a very taxing day... Ghastly weather tonight.
+L441794 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ No.  She hasn't.
+L441793 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ Has my daughter given you an answer yet?
+L441612 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ An explosion in the powder magazine. Merchant vessels run heavily armed.
+L441611 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ What happened here?
+L441609 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ Where did he come from?
+L441608 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ He's still breathing.
+L441599 +++$+++ u2473 +++$+++ m159 +++$+++ NORRINGTON +++$+++ My apologies, Governor.
+L441598 +++$+++ u2475 +++$+++ m159 +++$+++ SWANN +++$+++ Captain Norrington... I appreciate your fervor, but I am concerned about the effect this subject will have on my daughter.

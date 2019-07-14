@@ -1,0 +1,675 @@
+L484347 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ No, no he's not.
+L484346 +++$+++ u7430 +++$+++ m503 +++$+++ AGENT +++$+++ Because he's guilty.
+L484345 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ How can you, how can you say that?
+L484344 +++$+++ u7430 +++$+++ m503 +++$+++ AGENT +++$+++ Don't let your father's business infect your life.
+L484343 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ You're trying to get me to say something, that's why you're telling me all of this.
+L484342 +++$+++ u7430 +++$+++ m503 +++$+++ AGENT +++$+++ Well, take a look around the house.  Is everything nice, but not too nice?  Are there lots of, uh, rugs, pieces of art, stereo equipment, uh, furniture, a lot of things bought with cash?  Does he give a lot of gifts?  Do the major items in your house cover around the nine thousand-dollar range?
+L484341 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ What's the profile?
+L484340 +++$+++ u7430 +++$+++ m503 +++$+++ AGENT +++$+++ Look, why don't you check it out for yourself?  See if your father fits the profile.
+L484339 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Pardon me?
+L484338 +++$+++ u7430 +++$+++ m503 +++$+++ AGENT +++$+++ We believe that your father operates in a large pool of cash that comes from phoney billings, phoney patients.  We've been investigating him for five years.  We believe that when they die, he takes their money.
+L484337 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I'm supposed to be leaving on a fellowship that I worked for my entire life.  I don't even care.  I met this boy over the summer, and I, I can't see him because of this, I can't talk to him, I can't talk to my father about... I wore these clothes, I thought, I thought that if I looked right and if I acted right then someone would talk to me.  But I look awful and I feel awful, could you, could you please talk to me?  Be a little decent.
+L484183 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Taking care of people isn't a growth enterprise, Mr Sims.  I hope you write that down in your report, I'd like your bosses to read it.
+L484182 +++$+++ u7431 +++$+++ m503 +++$+++ AGENT SIMS +++$+++ Why would you stay so long with an operation that is so clearly not a growth enterprise?
+L484181 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ That's right.
+L484180 +++$+++ u7431 +++$+++ m503 +++$+++ AGENT SIMS +++$+++ Hmmm.  Your income, Mr Court, hasn't changed substantially in seventeen years.
+L484179 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ What family?  We never heard from them.  I sold her house for them, made them money.
+L484178 +++$+++ u7431 +++$+++ m503 +++$+++ AGENT SIMS +++$+++ The, uh, Cynthia Branson estate was worth how much?  Because her family...
+L484054 +++$+++ u7431 +++$+++ m503 +++$+++ AGENT SIMS +++$+++ And your former wife.
+L484053 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ This evening is over.
+L484052 +++$+++ u7431 +++$+++ m503 +++$+++ AGENT SIMS +++$+++ Mr Court, be aware that we will be contacting a number of your business associates...
+L484051 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Just come down to my place of business, for god's sake.  I have people here.
+L484050 +++$+++ u7431 +++$+++ m503 +++$+++ AGENT SIMS +++$+++ So you refuse to answer my questions?
+L484049 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Speak with my lawyer.
+L484048 +++$+++ u7431 +++$+++ m503 +++$+++ AGENT SIMS +++$+++ Understanding the following rights...
+L484047 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Jesus.  What, I live in a palace, right?  I have guests here.
+L484333 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Yeah, I don't want it.  Um, thank you very much.  You're very kind.
+L484332 +++$+++ u7432 +++$+++ m503 +++$+++ ASSISTANT +++$+++ You're sure?
+L484331 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Keep it.
+L484330 +++$+++ u7432 +++$+++ m503 +++$+++ ASSISTANT +++$+++ Okay, thanks.
+L484329 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Oh yeah, let me give you another card.
+L484328 +++$+++ u7432 +++$+++ m503 +++$+++ ASSISTANT +++$+++ I'm sorry, but they turned down your card.
+L484327 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Listen, I don't know your name, but what are you doing for lunch?
+L484326 +++$+++ u7432 +++$+++ m503 +++$+++ ASSISTANT +++$+++ Thanks, I like yours too.
+L484324 +++$+++ u7432 +++$+++ m503 +++$+++ ASSISTANT +++$+++ Excellent.
+L484323 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ I'll take the whole set.
+L484322 +++$+++ u7432 +++$+++ m503 +++$+++ ASSISTANT +++$+++ Good for her.
+L484321 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Yeah, she won a fellowship.
+L484320 +++$+++ u7432 +++$+++ m503 +++$+++ ASSISTANT +++$+++ For going to school?
+L484319 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ No, I'm not married.  It's for my daughter.
+L484318 +++$+++ u7432 +++$+++ m503 +++$+++ ASSISTANT +++$+++ Is it a gift for your wife?  Are you getting a set together? 
+L484317 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Hi.
+L484266 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I'll be home soon.
+L484265 +++$+++ u7433 +++$+++ m503 +++$+++ CONSTANCE +++$+++ Lloyd, honey, just come home, okay?
+L484264 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Hello Constance.  It's me, Lloyd... nothing, I'm just driving around... she broke up with me... what do I do?  Can't she come back?  How can I get her back?... I can't think, talk to me... I fucked up... I feel like crying... she gave me a pen.  I gave her my heart and she gave me a pen.
+L483748 +++$+++ u7433 +++$+++ m503 +++$+++ CONSTANCE +++$+++ Forget it, forget it, it's mine, it's mine!
+L483747 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ No, no, don't go in there.
+L483710 +++$+++ u7433 +++$+++ m503 +++$+++ CONSTANCE +++$+++ I just washed this shirt, didn't I?
+L483709 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I'll be in my office.
+L483708 +++$+++ u7433 +++$+++ m503 +++$+++ CONSTANCE +++$+++ He's a mess!
+L483707 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ You're tough, J-man.
+L483688 +++$+++ u7433 +++$+++ m503 +++$+++ CONSTANCE +++$+++ I still am.
+L483687 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah.
+L483686 +++$+++ u7433 +++$+++ m503 +++$+++ CONSTANCE +++$+++ I was hilarious once, wasn't I?
+L483685 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Look, I'm really sorry that Mom and Dad made you take me in. Really.  If it's such a big deal, I'll go.  But remember this, it used to be fun.  It used to be warped, twisted and hilarious, and I mean that in the best possible way, I mean it as a compliment. I mean, I'm sorry T-I-M left you.  But I am not T-I-M.
+L483684 +++$+++ u7433 +++$+++ m503 +++$+++ CONSTANCE +++$+++ Gee, it's easy.
+L483683 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Jesus Christ.  I get in a good mood.  How hard is it just to decide to be in a good mood, and then be in a good mood?
+L483682 +++$+++ u7433 +++$+++ m503 +++$+++ CONSTANCE +++$+++ Why can't you be his uncle and not his playmate?
+L483677 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Good thing there's not a red line on you, J-man. YEAH!
+L483676 +++$+++ u7433 +++$+++ m503 +++$+++ CONSTANCE +++$+++ Because it's loud enough so the neighbors don't complain, that's how come I know.
+L483675 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ How do you know how to draw the red line anyway?
+L483674 +++$+++ u7433 +++$+++ m503 +++$+++ CONSTANCE +++$+++ Why do you eat that stuff?  There's no food in your food.  Not too loud, the red line's there for a reason.
+L483671 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Hey, bad throat, huh J-man?
+L483670 +++$+++ u7433 +++$+++ m503 +++$+++ CONSTANCE +++$+++ I hope you understand.
+L483669 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ It's no problem.  I called Mom and Dad in Germany; it's like they were there.
+L483668 +++$+++ u7433 +++$+++ m503 +++$+++ CONSTANCE +++$+++ I'm sorry. Sam had to do a new crown, we had [?], and Jason had a sore throat.  Your big graduation, and no one was there.
+L483667 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Hey, sis.
+L483666 +++$+++ u7433 +++$+++ m503 +++$+++ CONSTANCE +++$+++ Lloyd?
+L484309 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ If she wants me, she can come to me.
+L484308 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ The world is full of guys.  Be a man.  Don't be a guy.
+L484307 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I am.
+L484306 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ No, you're not a guy.
+L484301 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Lloyd, you have to understand her family is being ripped apart. Like you and she were ripped apart.  Like Joe and I were ripped apart.
+L484300 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I draw the line at seven un-returned phone calls.
+L484173 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Read it.
+L484172 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ What does it say?
+L484171 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I already did.
+L484170 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Lloyd, send her flowers, write her a letter.  Something.
+L484169 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Alright.
+L484161 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ You've got to do something special.  You've got to make a statement.
+L484160 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ So, what's your point?
+L484159 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Lloyd, listen to me.  EVERYTHING has changed.  You've had sex. No matter what you might think, nothing will ever be the same between you two.  You might be sixty.  You might be walking down the street, and you'll talk to her about something, whatever. But what you'll really be thinking is 'We had sex'.
+L484158 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Alright, alright, alright, calm down, alright, calm down. Nothing's different.
+L484154 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I admit nothing.
+L484153 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Did you sleep with her?
+L483925 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ See you.  Bye.  Bye Diane.
+L483924 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ See you tomorrow.
+L483923 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Yes.
+L483922 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Hang in there, man.
+L483921 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ You are such a great person Lloyd.  I'm a good person, but you are a great person.
+L483663 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Okay, I got it.
+L483662 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Wait for me for when I get round to the front. 
+L483661 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Please? COREY Alright. Alright, Okay, here.
+L483660 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ That's just so embarrassing.
+L483659 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Please?
+L483658 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ C'mon Lloyd.
+L483657 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ C'mon, just do it.
+L483656 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Lloyd.
+L483655 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Do me a favor; take a picture of me with her.
+L483654 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Lloyd, give it up.
+L483653 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Look at those eyes.
+L483627 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Brains stay with brains.  The bomb could go off and their mutant genes would form the same cliques.
+L483626 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Sounds great to me, I'm going to call her, that's what's cool about her.
+L483623 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Diane Court doesn't go out with guys like you.  She's a brain.
+L483622 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I'm gonna call her.
+L483621 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Then what's love?
+L483617 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Going out as friends.
+L483616 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ What's a scam?
+L483615 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ That's not even a scam.
+L483614 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yes I did- I sat across from her in a mall.  We ate together.  We ate, that's eating, sharing an important physical event.
+L483613 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ But you never had a first date.
+L483612 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ The movies are a good second date, you know, as a date?
+L483611 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ That's unlikely.
+L484175 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ I dream about it.
+L484174 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ "Dear Diane, I'll always be there for you, all the love in my heart, Lloyd."  I've never gotten a letter like this, have you?
+L484168 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ I've forgotten what I was going to say... okay, okay, I remember. Let him do what he wants.
+L484167 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ What?  I'm sorry, talk.
+L484166 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ You know I just sit here listening, and you never let me talk.
+L484165 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ And above all, just because this happened gives you no right whatsoever...
+L484164 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ Wait a minute.
+L484163 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ You've got to show her respect, you've got to show her that you're not like Joe...
+L484162 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ Wait a minute.
+L484157 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ You're an inspiration Lloyd; you should go on the seven hundred club or something.
+L484156 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Look at his face, he did the deed.
+L484155 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ Lloyd, it's us.
+L483989 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ He's got that nervous talking thing.  I told him not to speak.
+L483988 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ I told him to be himself.
+L483984 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Meaning that she made the second date a family audition, which is the kiss of death for Lloyd.
+L483983 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ Meaning?
+L483982 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Lloyd is doomed.
+L483629 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ I'm sorry.  It's just you're a really nice guy, and we don't want to see you get hurt.
+L483628 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ I wouldn't get my hopes up Lloyd.
+L483625 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Diane Court does not realise how good-looking she is.
+L483624 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ Trapped in the body of a gameshow hostess.
+L483608 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Well, where Mr Carroll uses the word 'love', I look for a new word.
+L483607 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ He wants to leave things on a good note.
+L483606 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Did you see what Mr Carroll wrote in my yearbook?  Well, he ridiculed me all year long, and then he writes, "You're a real live-wire, Love Mr Carroll."  Y'know, it's all so phoney.
+L483605 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ Come on, it's graduation.
+L483604 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ I don't feel anything.
+L483991 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ If you were Diane Court, would you honestly fall for Lloyd?
+L483990 +++$+++ u7447 +++$+++ m503 +++$+++ REBECCA +++$+++ Hey, I know this is a strange thing to say, but maybe Diane Court really likes Lloyd.
+L483987 +++$+++ u7447 +++$+++ m503 +++$+++ REBECCA +++$+++ What is wrong with this girl?
+L483986 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ It's too much pressure, it's not his crowd.
+L483985 +++$+++ u7447 +++$+++ m503 +++$+++ REBECCA +++$+++ Why?
+L483843 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ Well, you don't have to be so dramatic about it.
+L483842 +++$+++ u7447 +++$+++ m503 +++$+++ REBECCA +++$+++ I just saw Joe.  He's here.
+L483841 +++$+++ u7434 +++$+++ m503 +++$+++ COREY +++$+++ I wrote sixty-three songs this year.  They're all about Joe, and I'm going to play every single one of them tonight.
+L484405 +++$+++ u7435 +++$+++ m503 +++$+++ COURT'S ATTORNEY +++$+++ Alright.
+L484404 +++$+++ u7448 +++$+++ m503 +++$+++ U.S. ATTORNEY +++$+++ I'll put this past my boss
+L484403 +++$+++ u7435 +++$+++ m503 +++$+++ COURT'S ATTORNEY +++$+++ Confirm this with my office and my client.
+L484402 +++$+++ u7448 +++$+++ m503 +++$+++ U.S. ATTORNEY +++$+++ I can put that together.
+L484401 +++$+++ u7435 +++$+++ m503 +++$+++ COURT'S ATTORNEY +++$+++ He'd like to start serving immediately.
+L484400 +++$+++ u7448 +++$+++ m503 +++$+++ U.S. ATTORNEY +++$+++ And I want to turn the home over to the state.
+L484399 +++$+++ u7435 +++$+++ m503 +++$+++ COURT'S ATTORNEY +++$+++ I can accept that.
+L484398 +++$+++ u7448 +++$+++ m503 +++$+++ U.S. ATTORNEY +++$+++ One hundred and twenty-five thousand and nine months.
+L484397 +++$+++ u7435 +++$+++ m503 +++$+++ COURT'S ATTORNEY +++$+++ One hundred thousand dollar fine and three months?
+L484396 +++$+++ u7448 +++$+++ m503 +++$+++ U.S. ATTORNEY +++$+++ I can't give you that.  This guy's been ripping off grandma and grandpa for seventeen years.  He's been getting it from every end.  I'd love to hear his story.
+L484305 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ 'Cause I'm a guy, I have pride.
+L484304 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ Lloyd, why do you have to be like this?
+L484303 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I'm not going back there.  I don't even know who you're talking about.
+L484302 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ Visit her at the home.
+L484299 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ Look, why don't you just call Diane again?
+L484298 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ That was a mistake.  The rain on my car is a baptism.  The new me.  Iceman, power Lloyd.  My assault on the world begins now. Believe in myself, answer to no one... You probably got it all figured out, Corey.  If you start out depressed, everything's kind of a pleasant surprise.
+L483610 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I'm going to take out Diane Court again.
+L483609 +++$+++ u7436 +++$+++ m503 +++$+++ DC +++$+++ Lloyd, she's being difficult.
+L484429 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I don't know what to say to you, except goodbye.
+L484428 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Hi.
+L484427 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Hello.
+L484377 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ You're right.
+L484376 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Don't say that, it's not good for you.  You're...
+L484375 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I'm so ashamed dad.
+L484374 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Take it easy how mad you make me, I'm the only dad you've got.
+L484373 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ No, I will.  I don't want to leave something out because I know I can say anything to you.  You're a liar, and a thief.
+L484372 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ That's right, work it out.
+L484371 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ No.  I told you everything, you lied to me.  I would have done anything for you.
+L484370 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Why are you being so hateful to me?  Is this because of Lloyd?
+L484369 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I trusted you.  I stood up in court five years ago and I picked you.
+L484368 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Alright, alright.  Go ahead.  When I'm old, give me someone like me, but go ahead.
+L484367 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ You let me believe you.  You knew you were guilty, and you let me become a part of it.  God, how... how could you...
+L484366 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ I made their lives better.
+L484365 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ No, but you stole from them.
+L484364 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ No, you don't know what it is.  It's not for me.  This money's for you, for when you come back from England with honors to set you up, so you don't have to depend on anybody again.  Diane, I take better care of these people than their families do.  I care for them, I give them flowers, I feed them, I wipe their mouths...
+L484363 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yes, I...
+L484362 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ You think you know what this money is?
+L484361 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ You stole from them, you lied to me.  How do you think that's supposed to make me feel?
+L484360 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Honey, about what?
+L484359 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ What am I supposed to think?
+L484358 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Honey, it's not what you think.
+L484357 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ But I found the money.
+L484356 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ I swear to god.
+L484355 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Swear to god.
+L484354 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Honey!
+L484353 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Swear to god, I need to know the truth.
+L484352 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Sweetheart, no.  Don't be ridiculous.
+L484351 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Dad, did you do it?  Did you take that money?
+L484350 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ What happened to you?
+L484335 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Just finishing up in here.
+L484334 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Dad, are you okay in there?
+L484314 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Well then don't pick it up. You know what's best.
+L484313 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ If I pick it up, we'll only get back together.
+L484203 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Dad, I love him.
+L484202 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ 'I like him'?  Diane, I'm talking about being honest with people, being decent...
+L484201 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Dad, in a million years, I would never give him a pen.  What's wrong with having some fun?  I like him.
+L484200 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Diane, I'm not asking you to sever all relations with the boy. Give him a present, here, let him know you still care.  Give him this pen.
+L484199 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Dad, you and I have talked about this.  Lloyd and I have talked about this.  Believe me, this is well-covered territory.
+L484198 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Diane, you owe it to yourself to get on that plane with no attachments, no strings, because after you get over there, things are going to change.  People change.
+L484197 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Unbelievable.  This is a nightmare.
+L484196 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Well listen to me.  Now, I know you like him, I know he's nothing like those frat kids you can't stand, but honey, after the excitement wears off, then what, huh?  What are you going to talk about?  What do you have in common?  You're going to be part of an international think-tank, and he's going to be kicking punching bags.
+L484195 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I like him a lot.
+L484194 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Do you love him?
+L484193 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Dad, why are you acting this way?  Is this because of the other morning?
+L484192 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Diane!  Alright, let's stop this right now.  Let's not put our energy into something ridiculous.  This isn't even smart thinking.
+L484191 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ You're not listening to me.
+L484190 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Bon voyage.
+L484189 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ It doesn't feel right to me.  I, I don't even have the right luggage yet.
+L484188 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ You're going.
+L484187 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ But listen, if I had a friend in the same position, I would tell her to delay a year.
+L484186 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ You're going.
+L484185 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Dad, maybe I shouldn't go with all that's happening to you.
+L484152 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Dad, no.  But I didn't want any problems, so I decided not to sleep with him.
+L484151 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Did he ever get rough with you?
+L484149 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Sit down.
+L484148 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Dad, yes.  And I'm scared to death of what you must think of me right now.
+L484147 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Lloyd?
+L484146 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I know that.
+L484145 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Do you wanna make things easier on me?  Now tell me where you were because this is, this is bullshit.  You can say anything to me, I hope you still know that.
+L484144 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I'm fine.
+L484143 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ You've always called before, always.  Now I'm not asking what you did, I just want to know that you're alright.
+L484142 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Dad, I'm so sorry.  I know this is a bad time.
+L484141 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ You bet you should have called.  You still live at home.  Don't make me call the police at three-thirty in the morning, don't make me call hospitals.
+L484140 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I was irresponsible, I should have called.
+L484139 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ You should be.
+L484138 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Dad, I'm sorry.
+L484137 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Morning.
+L484030 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Which they did, and every once in a while on a commercial, you can hear me scream.
+L484029 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Oh yeah.  There was, uh, somebody on the plane worked in a recording studio, and, uh, we got this telephone call, this guy is making a sound effects record, and he'd gotten our address and he wanted to know if he could come over and record her scream.
+L484026 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ So anyway, these two federal marshals meet the plane, and they take our address, and they ask us never to fly with 'Friendly Skies' again.
+L484025 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Okay, I give up.
+L484024 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Which they did.  Let me finish.
+L484023 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ And then you got up and you told them to turn the plane around.
+L484022 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ So anyway, they closed the doors, and she starts to scream.  I've never in my life heard anyone scream quite like that.
+L484019 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Crash paranoia.
+L484018 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I knew how planes flew, but I was still a little nervous.
+L484017 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Well, let me start it.  I'm flying down to Los Angeles on business, and I decide to take her on her first aeroplane.
+L484014 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Now why can't I tell the story?
+L484013 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Dad.
+L484012 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ She's not the world's greatest flyer, let me tell you.  When she was eight years old, she...
+L483981 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Goodnight.
+L483980 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Goodnight.
+L483979 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Well, I don't think he's really been embarrassed by it.
+L483978 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Lloyd was such a gentleman.  He was funny and nervous and strange, and I met people that I never would have met before, then I blew it.  I called him basic.  Can you believe I did that?
+L483977 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Wait a minute.  How was Lloyd?
+L483976 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Dad, I'm so glad I went.  Goodnight.
+L483975 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Morning honey.
+L483745 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ No, listen to me.  You're the best in the country, don't you understand?  It's like a pyramid.  It starts out with everybody, and it narrows through your life and through everything, and all the hoopla and the competition narrows it down to one brilliant person who is so special that they celebrate you on two continents.  And it's you.  So tell me something, where's the flaw in that?  There is no flaw.
+L483744 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Don't do this to me. You're too good at making me nervous.
+L483743 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ We'll worry about that later.  Now come on, tell me that you're special.
+L483742 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ God, I'll have to go on a plane.
+L483741 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ You're going to take a big step, a big leap, and before you do, I just want one thing from you, miss.  You stand up straight and admit you're special.
+L483740 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I won?
+L483739 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ You won it.  You're going to study at the finest institute at England, the toughest fellowship in the country, and you won.
+L483738 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Are you kidding?  You're not kidding?  You're not kidding!
+L483737 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ No, no, just listen.  You won the Wreath  fellowship.
+L483736 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Tell me, is it bad news?
+L483735 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ I just had a phone call.
+L483734 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ What?
+L483704 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ I love you too honey.
+L483703 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I love you dad.
+L483702 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ I'm sorry.
+L483701 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Stop it, stop it, stop it.
+L483700 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Diane, in a million years, you could never be a... priss.  It's all working out for you honey, don't you see?  It's all working out, just like we planned.  All the years of summer school, all the vacations you gave up, it's all working out just the way we planned...
+L483699 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Everybody thinks I'm a priss.
+L483698 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ No, wait a minute.  Everybody thinks you're what?
+L483697 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I was standing up there and looking at all the people, and I felt like they didn't know me.  I mean, maybe I shouldn't have taken all those courses out of school, because everybody thinks I... forget it.
+L483696 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ They really applauded you today honey.
+L483695 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Oh god, I don't need all these presents.  I don't know any kid who got a car, I mean...
+L483694 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Now this is the only thing your mother ever gave me that I kept. Now it's yours.  Go ahead, open it.
+L483693 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ God, that's... this is ridiculous.
+L483692 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Well, since I'm not only your father, I'm also your friend; I had to get you two presents.
+L483691 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ What are you doing?
+L483690 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Okay, I promise I will.  Just come here a minute, I want to show you something.
+L483689 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Dad, you have to teach me to suture this weekend.
+L483647 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Well, it's almost over.  We've gone to school together for three years, and we've been through a lot.  But with that training out of High School gone, what's going to happen to us?  We all know what the answers are.  We want to be happy, go to college, own a car, maybe raise a family.  But what if that doesn't happen?  I have, I have to be honest though, I have all the hope and ambition in the world.  But when I think about the future, the truth is, I am really...scared.
+L483646 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Ha!
+L483640 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Okay.
+L483639 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Alright, no more, I'm going to save it.
+L483638 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Oh no, no, it's... it's wonderful.   It's... no, don't worry about it.  You're very funny.  Go back, that's great!
+L483637 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I didn't think anyone would get it.
+L483636 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Oh yeah!
+L483635 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ You like it?
+L483634 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Ha!  Go back!  What a great line!
+L483633 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Having taken a few courses at the university this year, I have glimpsed our future, and all I can say is... go back.
+L483632 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Why?  It's fine.  It's nice.
+L483631 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Well, it's almost over.  We've gone to school together for three years... I might cut that part out.
+L484064 +++$+++ u7446 +++$+++ m503 +++$+++ MRS COURT +++$+++ Okay.  Oh, here's Ray.  Just talk to him because when you don't, your mouth turns down.
+L484063 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ You will?
+L484062 +++$+++ u7446 +++$+++ m503 +++$+++ MRS COURT +++$+++ Alright.
+L484061 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ If they ask you questions, and they probably will ask you questions, would you please say something nice about him mum? Help him?
+L484060 +++$+++ u7446 +++$+++ m503 +++$+++ MRS COURT +++$+++ If we could just talk about boys everything would be so much easier.  You know, your room is always ready for you, you can always come home if... alright, what do you want me to do?
+L484059 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I just wonder what could be more important than what's going on with dad.
+L484058 +++$+++ u7446 +++$+++ m503 +++$+++ MRS COURT +++$+++ You know, I don't even know if you've got a young man in your life?
+L484057 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ This is me telling you about me.
+L484056 +++$+++ u7446 +++$+++ m503 +++$+++ MRS COURT +++$+++ Diane, I do have a history with this man, and it's not the greatest.  I see you so seldom, I'd really rather know about you.
+L484055 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Mom, please?
+L484447 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I know.
+L484446 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ No.  You just described every great success story.  Alright, it's alright.
+L484445 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Nobody thought we'd do this.  Nobody really thinks it's going to work, do they?
+L484444 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ How's it going?
+L484443 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Not right now, thanks.
+L484442 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Alright, personalised flight care from Corey.  Books, cassettes, magazines, anything?
+L484441 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Okay.
+L484440 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Right, I'm just going to keep talking until that ding happens, which is going to be soon.
+L484439 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Good to know.
+L484438 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ So when you hear the smoking sign go 'ding', you know everything's going to be okay.
+L484437 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Okay.
+L484436 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Alright, high level air safety tips.  If anything happens, it'll usually be in the first five minutes of the flight, right?
+L484435 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Okay.
+L484434 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Okay, good, this is all very noble.
+L484433 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I'm fine.
+L484392 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I love you.  Please, I love you.
+L484391 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ One more time would be nice.
+L484390 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I love you.  How many more times do I have to say it?
+L484389 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ What?
+L484388 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I love you.
+L484387 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Hurt me again?  Not a chance, don't worry about it.
+L484386 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Everything else means nothing to me.  If I hurt you again, I'll die.
+L484385 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ You do?
+L484384 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ My father's guilty.  He lied to me, he lied to everybody.  I just left home... I need you.
+L484383 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ What do you want?
+L484382 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I'm sorry.
+L484381 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ What do you want?
+L484262 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Oh shit.
+L484261 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Then don't do it.
+L484260 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Don't be mean, this is hard for me too.
+L484259 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ What is that?  What are you doing with your hands?  Talk to me, you're talking like that girl Sheila.
+L484258 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Lloyd, I love you, okay?
+L484257 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ What, I'm sorry I said that.  Forget I said it, it's what I thought I meant, but forget it.
+L484256 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ You have Corey and DC.  I have my dad.
+L484255 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ You told your dad?
+L484254 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Just my dad.
+L484253 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Did you tell anybody?
+L484252 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ No, that's fine.  She'll tell everybody, but that's fine.
+L484251 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ She figured it out.  I'm sorry if that upsets you.
+L484250 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Why, did you tell Corey what happened?
+L484249 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Did you talk to Corey?
+L484248 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ No.
+L484247 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Is this because of your dad?
+L484246 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ No I didn't.
+L484245 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ You shared it with a dick.
+L484244 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Lloyd, we shared the most intimate thing two people can share.
+L484243 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah you do.
+L484242 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ No, I don't, I don't.
+L484241 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I feel like a dick.  You must think I'm a dick.
+L484240 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I think that we should stop going out on dates.
+L484239 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Well, if we're friends, why can't we see each other?
+L484238 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ No.  We decided that we're friends.  I mean, I know it's a terrible word...
+L484237 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ It sounded like you did.
+L484236 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ No, no.
+L484235 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ 'Cause I'm worried, did you just break up with me?
+L484234 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ We decided...
+L484233 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Okay, what did we just decide?
+L484232 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah, uh-huh.
+L484231 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Okay.  It's good knowing this.
+L484230 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ We'll see.
+L484229 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Okay, how much time do you need?  I mean, you know, I mean you'll be leaving in a little while, so that's answered some questions. 
+L484228 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah.
+L484227 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ You need to study?
+L484226 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Well, I need to study, and...
+L484225 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ What's wrong?
+L484224 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I think that we should spend some time apart.
+L484223 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Say what?
+L484222 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ How can I look at you and say this?
+L484221 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ What?  This is a good level, isn't it?
+L484220 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I know.  Lloyd, let's not start putting things on this level.
+L484219 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I was just going to tell you that I love you.  I said it.
+L484218 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I don't know what you're going to say, but I think that...
+L484217 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ How do you know what I'm going to say?
+L484216 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ No, we don't have to say it.
+L484215 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I've never sent a letter like that, you know?  I mean, I felt like I wanted to tell you something, but I didn't put it in the letter, and I didn't say it, but I want to say it now, I'm not sure if I should say it, you know, 'cause people always say it and don't mean it, but I think that I mean it, so, um, I just wanted to tell you...
+L484214 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ It was wonderful.
+L484213 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Why didn't you tell me?
+L484212 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Uh-huh.  It was wonderful.
+L484211 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ It did?
+L484210 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Your letter came yesterday.
+L484209 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Check your mail tomorrow.  I sent you a letter, a letter.
+L484136 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Here are some blankets.  This is a good song, this is a really good song.
+L484135 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I don't know.  I'm happy.
+L484134 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Then why are you shaking?
+L484133 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I don't think I am.
+L484132 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ You're cold.
+L484131 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I don't think so.
+L484130 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ You're shaking.
+L484129 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ No.
+L484128 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yes.  Are you shaking?
+L484127 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Are you comfortable?
+L484126 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah.
+L484125 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Let's get outta here.  You want to?
+L484123 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Well no, it's not noble, but it's a good aid to your lesson.
+L484122 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ This is so noble.
+L484121 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Now, go into second.  Little more gas... Yeah!  You can get  this whole problem.  Now, maybe you downshift to first?
+L484120 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah.
+L484119 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Little more gas.  Ease it up.  Hold on- minor setback.  Now you feel confident, right?
+L484118 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Oh.  I was putting the...
+L484117 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah, a little bit.  Listen, this is important.  When you feel it start to give, put the clutch in.
+L484116 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Am I wrecking my car?
+L484115 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Okay, this is important...
+L484114 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Right.
+L484113 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ If you'll just maybe ease it into second.
+L484112 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah?
+L484111 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah.  Now, when you feel like you're confident,...
+L484110 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I'm doing alright.
+L484109 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ You know how it'll come out and feel... y'know... little more, little more... Yeah, yeah, that's right.  Go round just at first, keep it in first, just feel it.
+L484108 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah.
+L484107 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah, just keep going first, keep going around.  Get the feel of it, feel the clutch, when you put it in a little?
+L484106 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Friends with potential.
+L484105 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah.  With potential.
+L484104 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Be friends?
+L484103 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Don't worry about it.  We're just having coffee.  We'll be anti- social.
+L484102 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I just can't have any social life right now.
+L484101 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ No.
+L484100 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I just don't want it to get too heavy.  I feel really overloaded. I have this theory of convergence, that good things always happen with bad things.  But I know you have to deal with them at the same time, but I just, I mean I don't know why they have to happen at the same time, I mean, I don't know why, I just wish I could work out... Am I just babbling?  Do you know what I mean?
+L484099 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ It's okay, everybody does that.
+L484086 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Well... just meet her.
+L484085 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ What did you say?
+L484084 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yes.
+L484083 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Wait, wait.  You told her about me?
+L484082 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ She's amazing.  She's ninety-three, she's a writer, and I told her about you.
+L484081 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Okay.
+L484080 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ You have to meet Bess.
+L484079 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I'll see you there.  Bye.
+L484078 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Okay, bye.
+L484077 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Okay, bye, I will.
+L484076 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Stop by later.
+L484075 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Really?  Um... I... well... you're really turning me around here,
+L484074 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I think that's ageism, and that's, that's being prejudiced against people because they're old.  Maybe their mouths don't work as well as yours.
+L484073 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Well, except for one thing.  I used to work at a smorgasbord, and, and the old people would flock there, and, and they loved to eat.  And they just jammed their mouths, you know?  The used to eat with their mouths open, and you know, it's just too much for me.  You get to be thinking about how short life is, and how maybe, maybe has no meaning because you wake up and you're frying burgers
+L484072 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Come on.
+L484071 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Me?  Sure I do.
+L484070 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I know you think my job is strange.  You don't like old people, do you?
+L484069 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Won't you see me later?
+L484068 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I usually have a break after the dinner service, if you want to stop by.
+L484067 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ After work?
+L484021 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I had a checklist in mind.  I thought that if babies were on the plane, the plane couldn't crash.  But all the babies were crying, and I thought they knew something I didn't.
+L484020 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Oh.
+L484005 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Mmmm.
+L484004 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ You think so?
+L484003 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I think you should wear that.
+L484002 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah?
+L484001 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Nice one.
+L484000 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah, I've had it forever.  I used to have this thing with marking the words that I looked up.
+L483999 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Boy, this is a mother dictionary.
+L483996 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Or, or I could always wear this one.
+L483995 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah.
+L483973 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Then call me later.
+L483972 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Today is tomorrow.
+L483971 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Then call me tomorrow.
+L483970 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Sixteen weeks is a long time.
+L483969 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I only have something like sixteen weeks.
+L483968 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ So am I. I want to see you again.  I want to see you as much as I can before you leave.  I said it.
+L483967 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ No, I'm serious.
+L483966 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Job?  Being a great date.
+L483965 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ So what's your job this summer?
+L483964 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Basic.  Hmmm.
+L483963 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ You're a great date.  I've never really gone out with someone as basic as you.
+L483962 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ What?
+L483961 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ You know what?
+L483960 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Twisted?
+L483959 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Thanks.  But either way it still feels...
+L483958 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Watch out for that glass.
+L483957 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Well, my parents split up when I was thirteen, and... god, I actually had to... I went into court and I had to choose between the two of them.  So I chose my dad.  It just felt safer that way, you know?
+L483956 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Sure I do.
+L483955 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah, but that's an old story, you don't want to hear it.
+L483954 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ It's just you and your dad, right?
+L483953 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah.  I'm so glad we did this.
+L483952 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ That's cool then.
+L483951 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah, but I feel like I fit in for the first time, you know? Like I just held them far away from me, and they did the same to me.
+L483950 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ They knew of you.  Now they know you.
+L483949 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Nobody knew me before tonight.
+L483948 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Mine say stuff like "Lloyd, see you around maybe"
+L483947 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Alright, this is some of the things they wrote me; "Glad I finally met you", "You always seemed nice", "Wish I could have known you more"...
+L483944 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Bye.
+L483943 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Have a good sleep.
+L483929 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I hereby surrender my duties as keymaster, give me a beer.
+L483928 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Thank-you.
+L483901 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ It's the worst job since keymaster.
+L483900 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ He does this every year?
+L483898 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah.
+L483897 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ So we can finally talk?
+L483819 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ No.
+L483818 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ So it's an honor?
+L483817 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah, I have to judge who can drive home and who can't. I have to keep their keys.
+L483816 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Keymaster?
+L483805 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ No.
+L483804 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Oh.  Um, would it be terrible if I wanted to go home early?
+L483803 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ They're Bavarian Death style  pretzels.
+L483802 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ What are these?
+L483801 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah
+L483800 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Would you hold this for me?
+L483799 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Whoa.
+L483788 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Goodbye.
+L483787 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Goodbye.
+L483786 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Eight. Eight O' clock.
+L483785 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Eight.
+L483784 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Alright.  This is really great.  Alright, we're going out. It's a date.  It's a scam.  Whatever, whatever, alright, I'll pick you up at what, eight O' clock?
+L483783 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ You will?  Excellent, alright, this is great.  You will, really?
+L483782 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I'll go.
+L483781 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Pardon me?
+L483780 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ I'll go.
+L483779 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ No tips.  I won't give you any tips of any kind.
+L483778 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Well...
+L483777 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Y'know, you're not in England yet, you know that of course, and by the way, I want to just tell you that I lived in England for a few months,
+L483776 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Actually, I think that I...
+L483775 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Look Diane, I'm sorry, but I can't allow you to leave the country without going to Valhere's graduation party.  This gentleman, he's twenty-two, and he comes out of hiding once a year for this occasion, and he dresses up as the Lakeside rooster, and he,
+L483774 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Hmmm....
+L483773 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ What about tonight then, are you going to that party at Valhere's?
+L483772 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Well, not monumentally.
+L483771 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ So you're monumentally busy?
+L483770 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Saturday, I have some things to do around the house.
+L483769 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Are you busy on Saturday?
+L483768 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah, I have to help my father.
+L483767 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Are you busy on Friday?
+L483766 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yes.  Things are pretty hectic right now, but thanks.
+L483765 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Busy?
+L483764 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Oh, thanks, but I'm busy.
+L483763 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Okay, um, so it's Lloyd and... uh... uh... let's go out.  Do you wanna go out?
+L483762 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ No, I read it on the message.
+L483761 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah, yeah, yeah.  You remember?
+L483760 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yes, we sat together at Bell's Square.
+L483759 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Quick question - do you know who I am?
+L483758 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah.
+L483757 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah.
+L483756 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah.  What a day.
+L483755 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Whoah, what a day, huh?
+L483754 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Thank you very much.
+L483753 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah.  I just wanted to congratulate you on your scholarship to England, and I wanted to tell you that I thought your speech was really incredible.
+L483752 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Yeah?
+L483751 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah.  I read about your fellowship in the paper, and I'm very glad you called me back.
+L483750 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Hi.  You called me?
+L483749 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ No noise, no sound, no movement, nothing!  Hello, Diane?
+L483644 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Look at those eyes.
+L483643 +++$+++ u7437 +++$+++ m503 +++$+++ DIANE +++$+++ Thank-you.  The real world.
+L484294 +++$+++ u7443 +++$+++ m503 +++$+++ MARK +++$+++ You've gotta get her out of your head, man.
+L484293 +++$+++ u7438 +++$+++ m503 +++$+++ GUY 2 +++$+++ You're freaking out here man.
+L484286 +++$+++ u7438 +++$+++ m503 +++$+++ GUY 2 +++$+++ Man, you're bringing me down!
+L484285 +++$+++ u7443 +++$+++ m503 +++$+++ MARK +++$+++ Hey man, I was in love once.  I got hurt really bad.  I never wanna go through that again.
+L484284 +++$+++ u7438 +++$+++ m503 +++$+++ GUY 2 +++$+++ Man, you never had a chance with a girl like that.
+L484283 +++$+++ u7443 +++$+++ m503 +++$+++ MARK +++$+++ It's your castle, man.
+L484271 +++$+++ u7443 +++$+++ m503 +++$+++ MARK +++$+++ Your only mistake is that you didn't dump her first.  Diane Court is a showpony.  You need a stallion, my friend.  Walk with us and you walk tall.
+L484270 +++$+++ u7438 +++$+++ m503 +++$+++ GUY 2 +++$+++ Man, all you gotta do is find a girl who looks just like her, nail her, and then dump her man, get her off your mind.
+L483791 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Work that jab, work that hook, work that jab, okay, take a break, take a break.
+L483790 +++$+++ u7439 +++$+++ m503 +++$+++ JASON +++$+++ PAIN!
+L483681 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Hook up the jab, hook up the jab.
+L483680 +++$+++ u7439 +++$+++ m503 +++$+++ JASON +++$+++ No my brother, you have to go buy your own.
+L483679 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ He's back.  Hey my brother, can I borrow a copy of your 'Hey Soul Classics'?
+L483678 +++$+++ u7439 +++$+++ m503 +++$+++ JASON +++$+++ YEAH!
+L483673 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah, you gotta go 'YEAH', strength.  Poor little man.
+L483672 +++$+++ u7439 +++$+++ m503 +++$+++ JASON +++$+++ Yeah.
+L484426 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Just knowing a person like that exists, knowing that for a minute that she felt that and wrote 'I still can't help loving you'. That's gotta be a good thing, right?  That's gotta be a good thing.
+L484425 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Just her name.
+L484424 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ It does, it does if it's the version signed 'I still can't help loving you'.  Read that.
+L484423 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ She can't still be angry at this, it's gotta get better.
+L484422 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I know this part, keep reading.
+L484421 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ "You can't know the horrible disappointment I feel..."
+L484419 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ I'm incarcerated, Lloyd!  I don't deserve to lose my daughter over this.  I don't deserve to have you as my go-between.  And I can't for the life of me figure out how she could choose to champion in mediocrity the way she flirts around you.
+L484418 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I'm the distraction that's going to England with her sir.  Are you alright sir?  Are you okay?
+L484417 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ You're not a permanent part of her life.  You're a distraction.
+L484416 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I know.  But then I reconsidered.  'Cause I figured out what I really wanna do with my life, what I want to do for a living is I wanna be with your daughter.  I'm good at it.
+L484415 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Very talented.
+L484414 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I know
+L484413 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ She's very successful.
+L484412 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I know.
+L484411 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Well Lloyd, I admire you for not hitching a ride.  You know, my daughter's a lot different to you.
+L484410 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Am I going?  Am I going to England?  I've thought about this quite a bit, and I've realised what I probably should do is just carve out a goal for my future and find out what I wanna do with my life, do all the stuff that I've been avoiding in a big way. I mean, Diane and I can wait for each other, right?  What's she gonna... she's gonna run off with some English guy?  There's no way.
+L484409 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Are you?
+L484408 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ That's one of the things I wanted to talk to you about sir.
+L484407 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Are you going to England with her Lloyd?
+L484406 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ She wouldn't get out of the car.  I brought her all the way here, she said she was going to come here, and she wouldn't get out of the car.  But I thought that is was important, that she come to see you, because I know that if you go somewhere and you don't deal with your family stuff, then you're just gonna, she's gonna, um...
+L484312 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I just wanted to say that I've thought about everything, and I've decided something.  I'm going to give you another chance.  Maybe no one's listening, or maybe your father's listening.  Mr Court, if you're listening to this, hello, how are you?
+L484311 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Go ahead, pick it up if you want.
+L484310 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Hi, Lloyd.  This is my eighth and final call...
+L484043 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ You mean like career?  Uh, I don't know.  I've, I've thought about this quite a bit sir, and I'd have to say considering what's waiting out there for me, I don't want to sell anything, buy anything or process anything as a career.  I don't want to sell anything bought or processed, or buy anything sold or processed, or... process anything sold, bought or processed, or repair anything sold, bought or processed, you know, as a career I don't want to do that.  So, uh, my father's in the army, he wants me to join, but I can't work for that corporation, so what I've been doing lately is kickboxing, which is really a, uh, new sport, but I think it's got a good future.  As far as career longevity goes, I don't really know, because, you know, you can't really tell.  Your training sticks  as a fighter, you know, but it's no good, you know, you have to be great, but I can't really tell if I'm great until I've had a couple of pro fights. But I haven't been knocked out yet.  I don't know, I can't figure it all out tonight sir, I'm going to hang with your daughter.
+L484042 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ No, really.
+L484041 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I'm totally and completely serious.
+L484040 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Seriously, Lloyd.
+L484039 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Spend as much time as possible with Diane before she leaves.
+L484038 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Yeah Lloyd.  What are your plans for the future?
+L484034 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Well, we pay for the [?].  That guy didn't want to part with it, a little matter of nine thousand dollars.
+L484033 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ How do you pay for one of those?
+L484032 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Thanks Lloyd.
+L483798 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Yeah.  Honey?
+L483797 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ How ya doing?  Is she around?
+L483796 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Fine Lloyd.
+L483795 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Hello.  Heard about that graduation present.  Really quite a car. Look, I know you're busy, you don't' have to retain me, but you can trust me.  I'll tell you a couple of things about myself, I'm nineteen, been overseas for a couple of semesters, but now I'm back.  I'm an athlete, so I rarely drink.  Kickboxing.  You heard of kickboxing, sport of the future?  Don 'The Dragon' Wilson, Lenny [?] merciless, one of the champions of the sport?  I can see by your face, no.  My point is, you can relax because your daughter will be safe with me for the next seven to eight hours.
+L483794 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Hello Lloyd.
+L483793 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Hi.  Lloyd Dobler, sir.  Pleasure to meet you.
+L483731 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Jim Court... no, this is her father.  I'll take...
+L483730 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Okay.  Good afternoon.  Goodbye.
+L483729 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Yeah, she is.  Good luck.
+L483728 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ She's really pretty great, isn't she?
+L483727 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ What?
+L483726 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Okay. She's really pretty great, isn't she?
+L483725 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Okay, I'll give here the message.
+L483724 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Oh.  Okay then... Lloyd Dobler, 555-1342.
+L483723 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Why don't I just get your phone number, that's usually how it works.
+L483722 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Uh, no, not really, no actually, basically, you don't know me. I'm a friend of your daughters; well I sat with her yesterday at the mall.
+L483721 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ The truck?
+L483720 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ No.
+L483719 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ The guy with the Datsun?
+L483718 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ No.
+L483717 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Is this the guy with the Mustang?
+L483716 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Uh... okay... um...
+L483715 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Sorry, Diane isn't here at the moment.
+L483714 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Hello.  May I please speak with Diane please?
+L483713 +++$+++ u7440 +++$+++ m503 +++$+++ JIM +++$+++ Jim Court?
+L484297 +++$+++ u7441 +++$+++ m503 +++$+++ JOE +++$+++ Dude, I can't do it!
+L484296 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Diane Court.
+L484280 +++$+++ u7441 +++$+++ m503 +++$+++ JOE +++$+++ Your car?
+L484279 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ My car.
+L483890 +++$+++ u7441 +++$+++ m503 +++$+++ JOE +++$+++ Dude, why do you think I keep her tapes?  They're going to be valuable some day.
+L483889 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Stop freaking with her head man.  Just stop playing with her mind, you know?  She's a human being.  She's a person.  She's very talented, you know.
+L483888 +++$+++ u7441 +++$+++ m503 +++$+++ JOE +++$+++ So what's up?
+L483887 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Joe.  Joe.  She's written sixty-five songs.  They're all about you.  They're all about pain.
+L483867 +++$+++ u7445 +++$+++ m503 +++$+++ MISS EVANS +++$+++ Hang tough, Lloyd.
+L483866 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ How many people really know what they want though?  I mean, a lot of them think that they have to know, right? But inside, they don't really know, so, I don't know.  But I know that I don't know.
+L483865 +++$+++ u7445 +++$+++ m503 +++$+++ MISS EVANS +++$+++ Lloyd, everybody in that party put something down on their record except you.
+L483862 +++$+++ u7445 +++$+++ m503 +++$+++ MISS EVANS +++$+++ We'll just make an appointment for you at Seattle Junior College.
+L483861 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ My dad's a lieutenant colonel in the army, he wants me to join, he wants to pull some strings.  I mean, there's no possible way.
+L483860 +++$+++ u7445 +++$+++ m503 +++$+++ MISS EVANS +++$+++ Don't make this like a counsel, Lloyd. I got statistics I can show you, I got graphs I can show you.  That's all the stuff I can show you, it all says the same thing.  You have to decide on a career.
+L483856 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ What?
+L483855 +++$+++ u7445 +++$+++ m503 +++$+++ MISS EVANS +++$+++ Lloyd.
+L483854 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ No way.
+L483853 +++$+++ u7445 +++$+++ m503 +++$+++ MISS EVANS +++$+++ You missed every one of your career counselling sessions.  Call me obsessive, compulsive, but let's do this right now.
+L483852 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ How ya doin' Miss Evans?
+L483851 +++$+++ u7445 +++$+++ m503 +++$+++ MISS EVANS +++$+++ Lloyd.  Lloyd Dobler, I've got you.
+L483938 +++$+++ u7444 +++$+++ m503 +++$+++ MIKE +++$+++ I don't really know where we are.
+L483937 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ How you doin', brother?
+L483936 +++$+++ u7444 +++$+++ m503 +++$+++ MIKE +++$+++ Ooop, excuse me.
+L483840 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Alright.  Key?
+L483839 +++$+++ u7444 +++$+++ m503 +++$+++ MIKE +++$+++ This is great, this gives me hope.  Thanks.
+L483838 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I'm Lloyd Dobler.
+L483837 +++$+++ u7444 +++$+++ m503 +++$+++ MIKE +++$+++ Yeah, but how come it worked?  I mean like, what are you?
+L483836 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I called her up.
+L483835 +++$+++ u7444 +++$+++ m503 +++$+++ MIKE +++$+++ Yeah, hey, oh god.  Listen, I wanted to... I don't know you very well, you know, but I wanted to ask you, how did you get Diane Court to go out with you?
+L483834 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah.
+L483833 +++$+++ u7444 +++$+++ m503 +++$+++ MIKE +++$+++ Mike Cameron.  This is one fresh jam, huh?
+L483832 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ What?
+L483831 +++$+++ u7444 +++$+++ m503 +++$+++ MIKE +++$+++ Mike Cameron, how you doing?
+L483830 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Hey.
+L483829 +++$+++ u7444 +++$+++ m503 +++$+++ MIKE +++$+++ Oh boy.
+L483931 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I am happy to say that this bag is officially empty.
+L483930 +++$+++ u7449 +++$+++ m503 +++$+++ VALHERE +++$+++ Certainly.
+L483911 +++$+++ u7449 +++$+++ m503 +++$+++ VALHERE +++$+++ Diane, everybody loves that you showed up.
+L483910 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Maybe we'll come by tomorrow, help you clear up or something.
+L483909 +++$+++ u7449 +++$+++ m503 +++$+++ VALHERE +++$+++ I don't know.  Good on you man.  Alright Lloyd.
+L483908 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I don't know.
+L483907 +++$+++ u7449 +++$+++ m503 +++$+++ VALHERE +++$+++ You know, every year I throw this party, every year nobody helps me clear up.  Why am I yelling?
+L483815 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I was just going to kind of move around.
+L483814 +++$+++ u7449 +++$+++ m503 +++$+++ VALHERE +++$+++ Thanks a lot Lloyd.
+L483813 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I was gonna...
+L483812 +++$+++ u7449 +++$+++ m503 +++$+++ VALHERE +++$+++ A very responsible young man you're out with tonight.
+L483811 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Oh, I was just going to...
+L483810 +++$+++ u7449 +++$+++ m503 +++$+++ VALHERE +++$+++ Wow, man.  Well.  Listen man, I need you to be the keymaster.
+L483809 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ You know Diane Court?
+L483808 +++$+++ u7449 +++$+++ m503 +++$+++ VALHERE +++$+++ It's gotta stay purple.  All night.  Hey Lloyd, how ya doin'?
+L484274 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I got a question.  If you guys know so much about women, how come you're here at like the Gas 'n' sip on a Saturday night completely alone, drinking beers, no women anywhere?
+L484273 +++$+++ u7443 +++$+++ m503 +++$+++ MARK +++$+++ Later for you, Luke.
+L483920 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Yeah, alright.
+L483919 +++$+++ u7443 +++$+++ m503 +++$+++ MARK +++$+++ We're full on bonded.
+L483918 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Alright, I love you too. Go to sleep.
+L483917 +++$+++ u7443 +++$+++ m503 +++$+++ MARK +++$+++ I love you man.
+L483916 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ You must chill!  You must chill!  I have hidden your keys. CHILL!
+L483915 +++$+++ u7443 +++$+++ m503 +++$+++ MARK +++$+++ Give me my firebird keys!
+L483828 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ I love you too.
+L483827 +++$+++ u7443 +++$+++ m503 +++$+++ MARK +++$+++ I love you man
+L483821 +++$+++ u7442 +++$+++ m503 +++$+++ LLOYD +++$+++ Alright!
+L483820 +++$+++ u7443 +++$+++ m503 +++$+++ MARK +++$+++ We finally graduated, big dude guy!

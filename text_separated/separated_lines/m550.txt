@@ -1,0 +1,606 @@
+L572582 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ No.  This is my lawyer, Samuel Sutherland.  I thought you two should meet.
+L572581 +++$+++ u8101 +++$+++ m550 +++$+++ ALAN BAER +++$+++ Are you finished?
+L572352 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You could.  But, if I leave without your signature, this agreement begins to disintegrate; benefits shrink, options narrow, compensations shrivel.
+L572351 +++$+++ u8101 +++$+++ m550 +++$+++ ALAN BAER +++$+++ I could fight you on this.
+L572348 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Remember Daniel Grant?  Do they say, "without Daniel Grant, there is no Baer/Grant Publishing?"  He's gone sailing, Alan.  He's out there enjoying his golden years, probably wondering where you are.
+L572347 +++$+++ u8101 +++$+++ m550 +++$+++ ALAN BAER +++$+++ There is no Baer/Grant Publishing without Alan Baer.
+L572346 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I'll be done in a minute.  You misspoke before.  You're not "stepping down."  I'm taking you out at the knees.  The whole point is to prove that you're not deciding anything anymore.  I'm firing you. Action's taken.  Confidence restored. Stock goes up.  I sell my shares.
+L572345 +++$+++ u8101 +++$+++ m550 +++$+++ ALAN BAER +++$+++ Now, look...
+L572344 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ It is so very inappropriate for you to mention my father.  Or, did you think this, between us, was friendship?  Just because you went fishing with my father, I should sit on my hands while you throw my money away?
+L572343 +++$+++ u8101 +++$+++ m550 +++$+++ ALAN BAER +++$+++ Your father was a friend.  Goddamn it... I watched you grow up.  How do you end up treating me like this?
+L572342 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What?
+L572341 +++$+++ u8101 +++$+++ m550 +++$+++ ALAN BAER +++$+++ You intractable son-of-a-bitch.  If your father could see you now...
+L572340 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You're talking tomorrow.  Today is what counts.
+L572339 +++$+++ u8101 +++$+++ m550 +++$+++ ALAN BAER +++$+++ Because it's fair.  Give me next quarter.  If you still feel this way, vote your shares...
+L572338 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ It probably will.  In fact, I'd go so far as to say it almost certainly will, in time.  Why should I settle for that?
+L572337 +++$+++ u8101 +++$+++ m550 +++$+++ ALAN BAER +++$+++ The stock will turn.
+L572336 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ My stock's falling.  Isn't yours? Those pennies are costing me millions.
+L572335 +++$+++ u8101 +++$+++ m550 +++$+++ ALAN BAER +++$+++ Will you really hold me to it over <u>pennies</u>?
+L572334 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ But, the expectation was ten.  And, in this case, expectation is everything.
+L572333 +++$+++ u8101 +++$+++ m550 +++$+++ ALAN BAER +++$+++ Our E.P.S. was one fifty last quarter.  We're up eight cents per share.
+L572332 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Admittedly...
+L572331 +++$+++ u8101 +++$+++ m550 +++$+++ ALAN BAER +++$+++ Projections were far too optimistic.
+L572330 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You promised you'd meet projections, Alan.  A dollar sixty per share you said.  So, I don't think this is so surprising a visit.
+L572289 +++$+++ u8102 +++$+++ m550 +++$+++ BUSINESSMAN 2 +++$+++ "Whereas once I was blind, now I can see."  Night, Nick.  Best of luck.
+L572288 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I, uh... haven't been to Sunday school in years...
+L572287 +++$+++ u8102 +++$+++ m550 +++$+++ BUSINESSMAN 2 +++$+++ You want to know what it is?  What it's all about?  John.  Chapter nine.  Verse twenty-five.
+L572286 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I've heard good things about their London branch.  You have to admit, it sounds like some fantasy, role-playing nonsense.
+L572285 +++$+++ u8102 +++$+++ m550 +++$+++ BUSINESSMAN 2 +++$+++ Hm?  No, about a year ago.  I was working out of Los Angeles.
+L572284 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Did you play recently?
+L572277 +++$+++ u8102 +++$+++ m550 +++$+++ BUSINESSMAN 2 +++$+++ Did you?  Kudos.
+L572276 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I only mention it because I took the test this afternoon, down on Montgomery Street.
+L572372 +++$+++ u8111 +++$+++ m550 +++$+++ MAITRE D' +++$+++ I'll be right with you.
+L572371 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Fine, Dennis.  Soon as I get my money for this week.
+L572370 +++$+++ u8111 +++$+++ m550 +++$+++ MAITRE D' +++$+++ Clean out your locker.
+L572369 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I apologized, I offered to help.
+L572368 +++$+++ u8111 +++$+++ m550 +++$+++ MAITRE D' +++$+++ You don't talk to me like that.
+L572367 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Then, you kiss his ass.
+L572366 +++$+++ u8111 +++$+++ m550 +++$+++ MAITRE D' +++$+++ Christine!   Mister Van Orton is a valued customer...
+L573063 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Always.
+L573062 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Underwear?
+L573061 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ No.
+L573060 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Boyfriend?
+L573059 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Yes.
+L573058 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Single?
+L573057 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Julliard, yeah.
+L573056 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Studied acting, I assume?
+L573055 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ One brother, one sister.
+L573054 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Big family... small?
+L573053 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Originally, Connecticut.
+L573052 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Like... where are you from?
+L573051 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Like what... my favorite color... ?
+L573050 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I realize.  Maybe you could... tell me a little about yourself.
+L573049 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Is this something you're interested in?  I'm not really that person I was.
+L573048 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What about dinner sometime, when you get back?  Would that be... ?
+L573047 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ There's another gig starting in Saudi Arabia.  I'm just a walk-on this time though.  Bit-part.
+L573046 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Where are you going in such a hurry?
+L573045 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I have to get to the airport...
+L573044 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Claire.  Pleased to meet you.
+L573043 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Claire.
+L573042 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I didn't know what else to call you.
+L573041 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ That's my fault.  I get too worked up at these.  I'm very method.  You do know... that's not my name.
+L573040 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Hi.  Didn't get a chance to say goodbye.
+L572997 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ No!
+L572996 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I have to show you...
+L572995 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Don't move, you bitch... !
+L572994 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Please, Nicholas, let me show you...
+L572993 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Stop it!
+L572992 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Open that door, you'll see.  Your brother's there... Conrad.  He's there.  It's your birthday party...
+L572991 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ No...
+L572990 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ It is.  It's what you hired us for. Nobody touched your money.  Nobody stole anything.  They're waiting on the other side of that door with champagne... all your friends... it's a celebration...
+L572989 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ That's not true...
+L572988 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Think about it!  They followed you every step of the way.  There was always a safety net.  The taxi, there was a diver.  At my house, the window was rigged... they shot at us with blanks...
+L572987 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ You're wrong.  You're about to make the biggest mistake of your life. Put that gun down.
+L572986 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ No!  You take another step, I'll shoot!  They're trying to kill me...
+L572985 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Let me show you...
+L572984 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Shut up!
+L572983 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Nicholas...
+L572982 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Stop talking...
+L572981 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Okay... okay...  I put it down.  Now open that door. Mister Fisher's right on the other side of that door.  He's an actor...
+L572980 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Stop talking to them!
+L572979 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What did you <u>really see</u>?  This whole time... special effects, squibs, like in the movies.  Please, you've got to believe me...  He's got a gun, with real bullets!
+L572978 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I saw them kill him!
+L572977 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ No, now wait... think about it.  What did you see... ?
+L572976 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Bullshit.  They killed him. Feingold, Fisher, whoever... they shot him...
+L572975 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Listen very carefully, I'm telling the truth... this is the game.  This was all the game.
+L572974 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Fuck you.
+L572973 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Nicholas, this is fake.  It's all part of the game...
+L572972 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What are you doing?
+L572971 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ He's got a gun.  Everyone, he's got a <u>real</u> gun up here!  Real situation!  ... damn it...
+L572970 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Just... wait.  Just wait!  Okay... please, I'm not kidding anymore...
+L572969 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Guess you missed it.
+L572968 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ We searched the house.
+L572967 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ It's mine...
+L572966 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Where'd you get that gun?
+L572965 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What the fuck are you... ?
+L572964 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ That gun.  That... that's not automatic.  The guard had an automatic...
+L572963 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ ... what... ?
+L572962 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Where'd you get that... ?
+L572959 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ They will!  You tell them if they don't come now, I will shoot you!
+L572958 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ They won't...
+L572957 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Call them, tell them to get the boss up here.  Tell them I'll kill you...
+L572956 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ It could have been any asshole with a couple hundred million in the bank.
+L572955 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You call them...
+L572954 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ It wasn't you.  It wasn't personal...
+L572953 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Who's responsible?!
+L572952 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ How deluded can you be?  There's no <u>why</u>...
+L572951 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You tell me... I want to know who's behind this.  Who did this to me... how, why... ?
+L572950 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What do you think you're doing?
+L572948 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Get us out!
+L572947 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Nicholas...
+L572946 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Get us out of here...
+L572942 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Nicholas, okay... you're not about to shoot anyone...
+L572941 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I'm back from the dead.
+L572940 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What are you <u>doing</u> here?
+L572814 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ It's out of your hands.
+L572813 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What... what do you mean?
+L572812 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Mm... I wouldn't worry about it.
+L572806 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What do you mean?  I checked them myself.  I made the calls...
+L572805 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Who is it?
+L572804 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What do we do?
+L572803 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Who is it?
+L572801 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Whatever kind of nickel-and-dime shit you did before, this is more than just me.  Your friends raided pension plans, and payrolls... they took just over six-hundred million.  You ruined people's lives.
+L572800 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I don't know.  A lot.
+L572799 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Scams, con games.  How many?
+L572798 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What?
+L572797 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ How many times have you done this? I'm interested.
+L572796 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ All I mean is... someone like you...
+L572795 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ It might be best if we didn't talk.
+L572794 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ It's just money.  You should be glad you're alive.
+L572793 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Who the fuck cares?
+L572792 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ My name's not Christine.  It's not my real...
+L572791 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I didn't say anything.
+L572790 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What did you say?
+L572783 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ They don't care about you anymore. Alive or dead is the same, as long as they bury you deep enough.
+L572782 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Overseas operator?  Please dial Allgemeine Bank, Zurich.
+L572781 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Why else would they be willing to put you under... ?
+L572774 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What are you talking about... ?
+L572773 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ They did the same to him as they did to you.
+L572772 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ How?  How could they have gotten anything?
+L572771 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ It wasn't his fault.  He thought it was his only way back.  They fleeced him real good.
+L572770 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Yeah?  I was your waitress on your birthday.  Connie told you about C.R.S. that day, remember?  I was already playing my part, <u>before</u> you started the game.
+L572769 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ That's a lie...
+L572768 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I know things... like who you can trust.  Like that your brother was in on it from the beginning.
+L572767 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Then, what good are you?
+L572766 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I don't know, nobody does.  I'm an employee.
+L572765 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Who are "they?"
+L572763 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ No cops.  I've got a warrant out. Mail fraud.  They'll take me in, but you won't be able to prove anything else.
+L572762 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You can talk while I drive us to the police.
+L572760 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ You don't have a choice.  No one else is going to tell you what's going on.
+L572759 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Get out of my car!
+L572758 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I could've handed you to them.  They find me now, I'm dead...
+L572757 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Get out.
+L572756 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What are you doing... ?
+L572753 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ God, wake up, it's a con!
+L572752 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What is this!?
+L572746 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Nicholas...
+L572745 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ No!  I'm sick of this...
+L572743 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Not here!  They can see.
+L572742 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Wha... ?
+L572741 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ They're watching.
+L572740 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I don't...
+L572739 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Take the picture out of the frame and show it to me.
+L572738 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What's wrong?
+L572737 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Take the picture out.
+L572736 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Yeah.  First Communion.  Aren't I a little angel?
+L572735 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You?
+L572734 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Want anything to drink?
+L572732 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Let me go get some clothes on. We'll talk, okay?  Be right back.
+L572731 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I'm tired.  I'm sorry, I should go. I've been enough of a nuisance.
+L572730 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Sure.  You alright?  Is this still that contest you're in...
+L572729 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Do you mind if I sit?
+L572728 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I thought...
+L572727 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Okay.
+L572726 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Well... the red bra.
+L572725 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I think I would remember.  What makes you think it's me?
+L572724 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ It was left in my hotel room, well, not really mine.  You're saying it's not you?
+L572723 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Where'd you get this?
+L572722 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Is this you?
+L572721 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What is it?
+L572719 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Come here...
+L572718 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Didn't think I'd ever see you again.
+L572717 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ It's okay, dad.
+L572716 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Can we talk?
+L572715 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What are you doing here?
+L572533 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ They said five hundred.  I said six. They said the man in the gray flannel suit.  I think I said, you mean the attractive guy in the gray flannel suit?
+L572532 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Seriously?  What did they say?
+L572531 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I have a confession to make.  Someone gave me six-hundred dollars to spill drinks on you, as a practical joke.
+L572530 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Keep it.
+L572529 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Give me an address so I can send your shirt back.
+L572528 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Goodnight, Christy.  It was nice meeting you.
+L572527 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Right.  Call me Christy.
+L572526 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ The maitre d' called you Christine.
+L572525 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I don't think I've ever spent this much time with someone who didn't even ask my name.
+L572524 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Goodnight.
+L572523 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Don't.  It was a shitty job anyway. I overreacted.
+L572522 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I know the owner of Campton Place.  I could talk to him in the morning.
+L572519 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I don't spend much time looking out the window.  I'll call you a taxi.
+L572518 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ If this was my office, I wouldn't keep that closed.
+L572517 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ A fresh shirt...
+L572516 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Hm?  Oh, yes.
+L572515 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Nice.
+L572514 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Investment banking.  Moving money from place to place.
+L572513 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What exactly do you do?
+L572508 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ That tall, bright building.  Near there.
+L572507 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Where are we going?
+L572500 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I think not.
+L572499 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ We hang down here and drop.  The garbage'll break our fall.
+L572498 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Why... ?
+L572497 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ That's classic.
+L572496 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Nicholas Van Orton?  What are you, a czar?
+L572495 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Nicholas.  Nicholas Van Orton.
+L572494 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Never did catch your name.
+L572491 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ ... two hundred dollars a toe.
+L572490 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ That one did.
+L572489 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Your <u>shoes</u> cost a thousand dollars?
+L572488 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ There goes a thousand dollars.
+L572482 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Me?  You're the one who... !  Shit!
+L572481 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You're the one who started running.
+L572480 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ You're a grown man.  I'm not responsible for you.
+L572479 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You deserted me.
+L572472 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Yes... well...
+L572471 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ They'll love that.
+L572470 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Don't panic.  When security gets here, we simply explain what happened...
+L572468 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Consumer Recreation Services.  It's their building.  They...
+L572467 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What's C.R.S.?
+L572466 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ This is C.R.S.
+L572465 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ It's not like anyone could actually open it.
+L572464 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I'll wait.
+L572461 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ My hero.  Let's go.
+L572460 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ There's a ladder here.
+L572459 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Oh.  FIne.
+L572458 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I'm not wearing underwear.  Okay? There, I said it.  Satisfied.
+L572457 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Please...
+L572456 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ No.
+L572455 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ It's much easier this way.  Come on, step up...
+L572454 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ You pull me up.
+L572453 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ This isn't an attempt to be gallant. If I don't lift you, how are you going to get there?
+L572452 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ You first.
+L572451 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I'll give you a boost.
+L572450 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Are you suggesting we wait till someone finds us?
+L572449 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ "... wait for help."  Wait for help. I'm not opening a door that specifically warns me not to.
+L572448 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ If there was one.
+L572447 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Read what it says: "Warning, do <u>not</u> attempt to open.  If elevator stops, use emergency... "
+L572446 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Why not?
+L572445 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Don't even think about it.
+L572441 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Never mind.
+L572440 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Long story.  I found this key in the mouth of a wooden Harlequin.
+L572438 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ How thoughtful.  The gift of inconvenience.
+L572437 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ It was a gift... from my brother.
+L572436 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Where'd you all go?  Motherfucking frat boys.  You better hide.  Is your life so pathetic that this is something you're willing to pay for?
+L572435 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ How do you know that's the way?
+L572434 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Home.
+L572433 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Where are you going?
+L572432 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ See you around.
+L572430 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I don't understand why they're getting you involved.
+L572429 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ There's got to be a flashlight.
+L572428 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ You should be.
+L572427 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I'm sorry, about this...
+L572426 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ You mean, the guy who turned blue and <u>wet</u> himself... ?
+L572425 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ The lights went out, one hundred people all ran away...
+L572424 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What are you talking about?
+L572423 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ It's run by a company... they play elaborate pranks.  Things like this. I'm really only now finding out myself.
+L572422 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ A game?
+L572421 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I was trying to tell you... it's a game.
+L572420 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What... is... happening... ?
+L572419 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You've got to be kidding.
+L572418 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Hold on...  They want your driver's license number.
+L572417 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Let's talk to whoever can get this over with...
+L572414 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Ten minutes ago, I'm looking forward to a quiet dinner.  I get a note...
+L572413 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What <u>is</u> your problem?
+L572412 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ This is nuts.
+L572400 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ He's turning blue!
+L572399 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Alright... okay...
+L572398 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ He's pissing his pants.  Is that real enough for you?  Call 911!
+L572397 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ This can't be real...
+L572396 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Don't just stand there, get help!
+L572395 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Oh, God... !
+L572394 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I don't think he's breathing.
+L572393 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Do you know what to do?
+L572392 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I don't know... he fell.
+L572391 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What's with him?
+L572386 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Don't explain.  Fuck off.  Goodbye.
+L572385 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Excuse me, I need to explain...
+L572384 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What's going on?  I'm going on my second job this month, and now I'm going on unemployment.
+L572383 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I want to know what's going on.  Are you part of this?
+L572382 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ What are you babbling about, psycho?
+L572381 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I'm not sure how this works.  Do you have something for me... ?  I got this note...
+L572380 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ Oh, no... you.
+L572379 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Pardon me... Miss... ?
+L572364 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I said I was sorry...
+L572363 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Terrific.  I now have a hundred dollar dry cleaning bill.
+L572362 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ It was an accident.
+L572361 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Don't help me, just get more napkins. And soda water.
+L572360 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ A bad month.  You did the exact same thing to me last week.
+L572359 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I apologize, sir, I'm having a bad day...
+L572358 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Please, don't do that...
+L572357 +++$+++ u8103 +++$+++ m550 +++$+++ CHRISTINE +++$+++ I'm so sorry.
+L573038 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Did she?
+L573037 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Yeah, yeah.  She called a cab. Said something about catching a plane.
+L573036 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Where's Christine?  The waitress.
+L573035 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Oh, God yes please.  Thanks, man. I'll take you up on that.
+L573034 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Split it?
+L573033 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Yeah.
+L573032 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Really?
+L573031 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ This... ?  Oh, this is just... this is the bill.
+L573030 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What?
+L573019 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Baby, they were all over the house with metal detectors.  They switched your gun with a look-alike, rigged barrel, loaded with blanks.  Pop-gun.
+L573018 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You know... how'd you manage the gun? I mean...
+L572664 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Stop it!
+L572663 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ I'm sorry, Christ, I'm sorry!  How many more times do I have to say I'm sorry before you forgive me... ?
+L572662 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Stop this.  It's not true...
+L572661 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Because you hate me.  Because you had to be here, when mom died.  Because you had to do it alone.  Well, don't you think if I'd known... I'd've been here too.  I'd have been here...
+L572660 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Listen to yourself.   Why would I do anything like what you're describing?
+L572659 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ You're behind this, aren't you?  You and your sick friends.  Well, make it stop!
+L572658 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ No, it doesn't!  Those keys were put there.  I didn't even know...
+L572657 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ No!  You're one of them.  Of course, it makes perfect sense!
+L572656 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What?  Connie...
+L572655 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ You're part of it...
+L572654 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ How did those... ?
+L572652 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ No.  Do you?  Can't be too hard, can it?  I don't think we should be here out in the open like this.
+L572651 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Do you know how to change a tire?
+L572650 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Really?
+L572649 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ The phone's dead.
+L572648 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Okay... okay.
+L572647 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ We're going to figure this out.  Get a grip on yourself.
+L572646 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ How do you know?
+L572645 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ It's a flat tire.  That's all.
+L572644 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ It's them.  They did this.
+L572642 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ You think I know?  I paid them <u>more</u> to make it stop.
+L572641 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Calm down.  Why would they keep playing after you paid?
+L572640 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Everything.  I'm a goddamn human-pinata...
+L572639 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What have they been doing to you?
+L572638 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ It doesn't stop, Nick.  I paid the bill, I gave 'em their money, but it all started again.  They won't leave me alone...
+L572637 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Slow down, take a breath...
+L572636 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ They fuck you and they fuck you and they fuck you.  And then, just when you think it's done, that's when the <u>real</u> fucking begins.
+L572635 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ How do you mean, exactly?
+L572634 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ You dodged a bullet.
+L572633 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Yeah, almost...
+L572632 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ C.R.S.  Who do you think?  Jesus H., thank your lucky charms.  To think what I almost got you into.
+L572631 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Who?
+L572630 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ They're methodical.  They're nothing if they're not that.
+L572629 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What are you doing?
+L572628 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Shhhhhhh.  Wait... wait...
+L572627 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What's this all about, Connie?
+L572626 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Just drive, man.  It's fucking nuts!
+L572625 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Tell me where we're going.
+L572192 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ I know...
+L572191 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Okay, okay... okay?  I just... you know I hate surprises.
+L572190 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Do it for YOU.
+L572189 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I'm going to call.
+L572188 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ It doesn't matter...
+L572187 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I'll call them, okay?
+L572186 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ I thought you'd like this.  Best thing I ever did.  If you don't want to do it, DON'T...
+L572182 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Why would you say that?
+L572181 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Are you still on mediction?
+L572180 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ But, will you?
+L572179 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I said I would...
+L572178 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Will you?
+L572177 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Okay.
+L572176 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Tell me you'll call.
+L572173 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Call them.  Trust me.
+L572172 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Like a stroke?
+L572171 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ It's a profound life experience.
+L572170 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ This isn't an escort service?
+L572169 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ You've heard of it.  You've seen other people having it.  They're an entertainment service, but more than that.
+L572168 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Fun?
+L572167 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ They make your life fun.  Their only guarantee is you will not be bored.
+L572166 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Why?
+L572165 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Trust me.  Call that number.
+L572164 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ "Consumer Recrreation Services." What, do they make golf clubs?
+L572163 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Call that number.
+L572161 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You shouldn't have.
+L572160 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ For you.
+L572159 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ I don't need anything from you.  I was laying on a beach somewhere in Spain, naked, and, it hit me -- Nickie's birthday.  So, here I am, four layovers, twenty-seven hours flying and one donkey ride later. Not necessarily in that order.
+L572158 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Really?
+L572157 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ No.
+L572156 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You need anything?
+L572155 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Yeah.
+L572154 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Connie... what brings you here?  Is everything alright?
+L572153 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Nowhere in particular.  Don't you keep track of my whereabouts anymore?
+L572152 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I redecorated.  What about you?
+L572151 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Too bad, I liked her.  So, you're all alone in the House of Pain?
+L572150 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Divorced.  Remarried to some pediatrician or gynecologist, or pediatric gynaecologist, in Sausalito.
+L572149 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Elizabeth?
+L572148 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Never better.
+L572147 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ How long's it been?  Since mom died... four years?  How are you?
+L572146 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ About me?
+L572145 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ So do you.  And to think I was worried...
+L572144 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You look good.
+L572143 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Which grad-school?
+L572142 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Not after I'm done with it.  Actually, I've been here.  In grad-school I bought crystal-meth from the maitre d'.
+L572141 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ They'll be wanting it back.
+L572140 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ They gave me a free jacket at the door.
+L572139 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ That's why it's a classic.  Come on, man... how 'bout a hug... ?
+L572138 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ "Seymour Butts."  I never get tired of that one.
+L572137 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Happy Birthday, man.
+L572136 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Conrad, what a surprise.  Gesundheit.
+L572135 +++$+++ u8104 +++$+++ m550 +++$+++ CONRAD +++$+++ Hey there, Nickie.
+L572841 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Yes, very lucky.
+L572840 +++$+++ u8105 +++$+++ m550 +++$+++ COUNSELOR +++$+++ How much is it?  A few thousand, at least.  A Rolex like that... lucky for you they missed it.
+L572839 +++$+++ u8105 +++$+++ m550 +++$+++ COUNSELOR +++$+++ And, they didn't take that watch?
+L572838 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Yes.
+L572837 +++$+++ u8105 +++$+++ m550 +++$+++ COUNSELOR +++$+++ We'll help with the police, if you want to bother.  As far as money goes... can I make a suggestion?  You say you were mugged?
+L572836 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I don't speak Spanish.  All I need is to get back... just enough for that.
+L572835 +++$+++ u8105 +++$+++ m550 +++$+++ COUNSELOR +++$+++ Have you gone to the police?
+L572834 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Yes.
+L572833 +++$+++ u8105 +++$+++ m550 +++$+++ COUNSELOR +++$+++ Robbed?
+L572832 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What happened was, I'm on vacation, alone... I was robbed, at gunpoint. They hit me and ran.  Two men, a few blocks away.  They took my wallet, money... all of it.  So...
+L572831 +++$+++ u8105 +++$+++ m550 +++$+++ COUNSELOR +++$+++ It always is.
+L572830 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Well, where to begin.  It's complicated...
+L572829 +++$+++ u8105 +++$+++ m550 +++$+++ COUNSELOR +++$+++ No money, no identification or passport.  You are in a fix.  What did happen to you?
+L573026 +++$+++ u8106 +++$+++ m550 +++$+++ ELIZABETH +++$+++ I know.
+L573025 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I'll call.  I really will.
+L573024 +++$+++ u8106 +++$+++ m550 +++$+++ ELIZABETH +++$+++ Happy Birthday, Nicholas.
+L573023 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You're going?  Well, thanks again.  Good to see you, Rachel...  Thanks for coming, Mel.  I'll get your car back.  Right now it's, uh... at the zoo.  Sorry.
+L573022 +++$+++ u8106 +++$+++ m550 +++$+++ ELIZABETH +++$+++ We have to head out... just wanted to say goodbye.
+L572888 +++$+++ u8106 +++$+++ m550 +++$+++ ELIZABETH +++$+++ I hope.
+L572887 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I'll explain someday.
+L572886 +++$+++ u8106 +++$+++ m550 +++$+++ ELIZABETH +++$+++ Yes.
+L572885 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ It's just a t.v.  He's just an actor.
+L572879 +++$+++ u8106 +++$+++ m550 +++$+++ ELIZABETH +++$+++ Of course, Nick...
+L572878 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ It would mean a lot to me... if you and I could be friends.  If I could have you back in my life... in some small way.  It would be important.
+L572877 +++$+++ u8106 +++$+++ m550 +++$+++ ELIZABETH +++$+++ There's nothing to forgive.
+L572876 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ The last few days, um... I've been thinking... had a lot of spare time.  I want to tell you... I'm starting to understand why you left me.  I've been resenting you for it, maybe, but ... I want to apologize, for all of it.  For shutting you out, for not being there.  I...  Anyway, I hope you can forgive me.
+L572868 +++$+++ u8106 +++$+++ m550 +++$+++ ELIZABETH +++$+++ Of course you can have it if you need it.  Can I get you something to eat?
+L572867 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I know, look at me, well...  What happened?  I don't know.  I don't even really know.  I have some things to try to take care of... I need the car a little while.
+L572866 +++$+++ u8106 +++$+++ m550 +++$+++ ELIZABETH +++$+++ What happened to you, Nick?  I mean, look at yourself...
+L572865 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I need your car, Elizabeth.
+L572938 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ Like, this way... sort of...
+L572937 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Guess!
+L572936 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ It was a different floor then...
+L572935 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Where'd you pick up your checks?
+L572934 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ I told you, they hired me over the phone.  I never met anyone.
+L572933 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Where?
+L572928 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Shut up.  Cuff him to the rail.
+L572927 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ You don't need me...
+L572922 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I don't want money.  I'm pulling back the curtain.  I'm here to meet the wizard.
+L572921 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ What are you gonna do anyway?  You won't get your money back.
+L572920 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Drive in.
+L572917 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ What whistle?  There's no fucking whistle.  This is fucking dangerous.
+L572916 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Tell them the cops are after you... tell them you've got to talk to someone, I'm threatening to blow the whistle.
+L572915 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ No, I can't.  I'm sorry and all, but...
+L572914 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ They know you... you worked for them. You can get me in.
+L572913 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ They own the whole building.  They just move from floor to floor.
+L572912 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ How do I find them?  Their offices are empty.
+L572911 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ Goddamnit, why do they do that?
+L572910 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ Nobody knows, pal.  Nobody gets the big picture...  Jason, Tommy, cut it out!
+L572909 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I'm tired of dealing with peons.  I need to get to whoever's in charge.
+L572908 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ Look, it was just a job.  Nothing personal, ya know?  I play my part, improvise a little.  That's what I'm good at.
+L572907 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ Hey, everyone -- snack time!  Here... here you go...
+L572906 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Get rid of them.
+L572266 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ That's right -- you're a left-brain word fetishist.
+L572265 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You mean, <u>dis</u>satisfied.
+L572264 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ It's never happened.  We've never had an unsatisfied customer.
+L572263 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You mean, I don't like it, he doesn't pay?
+L572262 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ One guarantee.  Payment's entirely at your brother's discretion and, as a gift, dependent on your satisfaction.
+L572260 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ It's all down to this...
+L572259 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Don't worry.  It's been terrific spending the entire day with your "crack team".
+L572258 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ Sorry to keep you waiting.
+L572252 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ Cursory examination.  Turn-your-head- and-cough sort of thing.  You'll be out of here in no time.
+L572251 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Physical?
+L572250 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ An hour for those... maybe another for the physical.
+L572249 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ How long will these take?
+L572248 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ First, admit to yourself that it sounds intriguing.  Second, you don't have to decide today.  Take the silly tests, fill out the forms.  One day, the game begins.  You either love it or hate it.  Decide then.  We're like an experimental Book-of-the-Month- Club; drop out at any time with no further obligation.  That was my sales pitch.
+L572247 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Do you really expect me to participate without knowing a single thing?
+L572246 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ May I make two suggestions... ?
+L572245 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ And if nothing's lacking?
+L572244 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ We provide whatever's lacking.
+L572243 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Humor me with specifics.
+L572242 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ It's different every time.
+L572241 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What kind of vacation?
+L572240 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ Tailored specifically to each participant.  Think of it as a great vacation, except you don't go to it, it comes to you.
+L572239 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ A game?
+L572238 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ Oh... it's a game.
+L572237 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ No, I mean, what is it FOR?  What are you selling?
+L572236 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ We want a sense of your overall capabilities, limitations, turn-ons, turn-offs...
+L572235 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What's all this for?
+L572234 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ I don't write the questions.  I just review them.
+L572232 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ You need to fill out those forms. Application, psych-tests: M.M.P.I. and T.A.T.  For the financial questionnaire, don't answer anything you don't feel like.  We'll run a T.R.W....
+L572231 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ No, thank you.
+L572230 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ Your brother was a client with our London branch.  We do a sort of informal scoring.  His numbers were outstanding.  Sure you're not hungry at all... ? Tung Hoy, best in Chinatown...
+L572229 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What is?
+L572228 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ V-A-N... O-R-T-O-N...  A gift from Conrad Van Orton. Interesting...
+L572224 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ Oh, here we go...
+L572223 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I'm not quite sure how this works. My brother...
+L572222 +++$+++ u8107 +++$+++ m550 +++$+++ FEINGOLD +++$+++ Jim Feingold, V.P., E.D.A. Engineering and Data Analysis.
+L572683 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ First they try to kill me, now you?  Put your damn clothes back on.
+L572682 +++$+++ u8108 +++$+++ m550 +++$+++ GIRL +++$+++ Isn't this what you like?  They told me you had a thing for boats.
+L572681 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Don't take another step.
+L572680 +++$+++ u8108 +++$+++ m550 +++$+++ GIRL +++$+++ Don't be nervous.  They said you'd be nervous.
+L572679 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I can't tell you how <u>not</u> interested I am.
+L572678 +++$+++ u8108 +++$+++ m550 +++$+++ GIRL +++$+++ I've been so lonely.
+L572677 +++$+++ u8108 +++$+++ m550 +++$+++ GIRL +++$+++ They were my husband's.  My late husband... may he rest in peace.
+L572676 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You know, these fit... perfectly.
+L572675 +++$+++ u8108 +++$+++ m550 +++$+++ GIRL +++$+++ Let's get you dried off first.  I might have some clothes below.
+L572674 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I need the police.
+L572554 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ No, you didn't...
+L572553 +++$+++ u8109 +++$+++ m550 +++$+++ HOTEL MANAGER +++$+++ Didn't I give you two?
+L572552 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Is there a room key?
+L572551 +++$+++ u8109 +++$+++ m550 +++$+++ HOTEL MANAGER +++$+++ Hm?
+L572550 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ The key?
+L572549 +++$+++ u8109 +++$+++ m550 +++$+++ HOTEL MANAGER +++$+++ Show Mr. Van Orton to his room.
+L572547 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Have we met?
+L572546 +++$+++ u8109 +++$+++ m550 +++$+++ HOTEL MANAGER +++$+++ Ah, Mr. Van Orton.  Here you go...
+L573014 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Goodnight.  Where was she?
+L573013 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ Goodnight.  See you home.
+L572709 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ Nobody worried about your father.
+L572708 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Did you worry about him?
+L572707 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ You're not like him at all.  I don't know exactly what's going on around here lately, but don't make me start worrying about you.
+L572706 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I'm just like him.
+L572705 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ Not much, I think.
+L572704 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Sometimes I wonder how much of him there is in me.
+L572703 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ No.  What happened... no one expected it.
+L572702 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Was he morose, or...?  I mean...
+L572701 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ Your mother thought he was a good man.  He worked very hard.  What I remember most was his manner was so... slight.  It was easy to spend time in a room, and not realize he'd been there the whole time.
+L572700 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ He came to my mind recently, that's all.
+L572699 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ All the time I've known you, you've never once asked about him.
+L572698 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I'm not sure.
+L572697 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ What makes you ask?
+L572617 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ There's been a break in.  Lock this door and stay here.  Don't move a muscle.
+L572616 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ I don't know what you're talking about.  What's happened?
+L572615 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Did the alarm go off?  The house... they... you didn't see... ?
+L572614 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ Yes. What do you mean?  What's wrong?
+L572613 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Ilsa... you're alright?
+L572612 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ Mr. Van Orton... ?
+L572314 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ Goodnight then.
+L572313 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ No, thank you.  Goodnight.
+L572312 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ I've finished for the evening.  Will you be needing anything else?
+L572311 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Fine.
+L572310 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ Is everything alright?
+L572201 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ Well... send my love, if you see him again.
+L572200 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Okay.  I think he's into some sort of new personal improvement cult.
+L572199 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ You did?  How is he?
+L572197 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Thank you.  Goodnight.
+L572196 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ Dinner's in the oven.
+L572103 +++$+++ u8110 +++$+++ m550 +++$+++ ILSA +++$+++ Have a nice day.
+L572102 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Thank you.
+L572863 +++$+++ u8112 +++$+++ m550 +++$+++ MANAGER +++$+++ There was an incident a few days ago... a nervous breakdown, they said.  The police took him.  They left this address, in case anyone...
+L572862 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Look, where is he?!
+L572861 +++$+++ u8112 +++$+++ m550 +++$+++ MANAGER +++$+++ He couldn't, or refused to pay.  We extended credit...
+L572860 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ His behavior... ?
+L572859 +++$+++ u8112 +++$+++ m550 +++$+++ MANAGER +++$+++ There were complaints by other guests, and damage to his room.  We did the best we could to accommodate his behavior.
+L572858 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Where's my brother?
+L572857 +++$+++ u8112 +++$+++ m550 +++$+++ MANAGER +++$+++ It's a private matter, for you... I think you'll be more comfortable...
+L572856 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What's this about?
+L572855 +++$+++ u8112 +++$+++ m550 +++$+++ MANAGER +++$+++ Your brother.  Will you come with me?
+L572854 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Pleasure to meet you, I'd like to see my brother, thank you.
+L572853 +++$+++ u8112 +++$+++ m550 +++$+++ MANAGER +++$+++ You're here for Conrad Van Orton? I'm the hotel manager...
+L572852 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What's the trouble?
+L572129 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Cancel lunch.  Make reservations at Campton Place for me and Mr. Butts.
+L572128 +++$+++ u8113 +++$+++ m550 +++$+++ MARIA +++$+++ Pardon me?  I'm afraid I don't...
+L572127 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ "Under the Bleachers"... by Seymour Butts.
+L572126 +++$+++ u8113 +++$+++ m550 +++$+++ MARIA +++$+++ A Mister... Seymour Butts.
+L572125 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What gentleman, Maria?
+L572124 +++$+++ u8113 +++$+++ m550 +++$+++ MARIA +++$+++ A gentleman left a message requesting a lunch, but I assured him...
+L572123 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ What?
+L572122 +++$+++ u8113 +++$+++ m550 +++$+++ MARIA +++$+++ I wouldn't mention the following, except he was very insistent.  It's obviously some sort of prank...
+L572121 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I don't like her.
+L572118 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I know who she is.  Take a message.
+L572117 +++$+++ u8113 +++$+++ m550 +++$+++ MARIA +++$+++ Your ex-wife.
+L572115 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Because, if you don't know about society, you don't have the satisfaction of avoiding it.
+L572114 +++$+++ u8113 +++$+++ m550 +++$+++ MARIA +++$+++ I'll send your regrets.  Honestly, why must I even bother?
+L572113 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Let me think...  Hordes of men in tuxedos.  Everyone's droning.  Ludwell's trying to break the ice by reciting an off-color limerick...
+L572112 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ The Hinchberger wedding.
+L572111 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ No.
+L572110 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ The Fitzwilliam Botanical Garden Annual Fundraiser.
+L572109 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ No.
+L572108 +++$+++ u8113 +++$+++ m550 +++$+++ MARIA +++$+++ Invitations: the Museum Gala.
+L572568 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Nice touch.  Does the game use real bullets... ?
+L572567 +++$+++ u8115 +++$+++ m550 +++$+++ PLUMP GUY +++$+++ Hey... !
+L572566 +++$+++ u8115 +++$+++ m550 +++$+++ PLUMP GUY +++$+++ Friend... why don't you back off.
+L572565 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Is Alan Baer "the Game?"  Is that what this is?
+L572564 +++$+++ u8115 +++$+++ m550 +++$+++ PLUMP GUY +++$+++ Look... what I'm doing is none of your business...
+L572563 +++$+++ u8115 +++$+++ m550 +++$+++ PLUMP GUY +++$+++ I don't know what you're talking about.  I'm just driving...
+L572562 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Why are you following me?
+L572561 +++$+++ u8115 +++$+++ m550 +++$+++ PLUMP GUY +++$+++ What the fuck... ?!
+L573029 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ You warm my heart.
+L573028 +++$+++ u8116 +++$+++ m550 +++$+++ SUTHERLAND +++$+++ Bravo, young man.  you have to tell me what this was all about sometime.  I want you to know... when it looked there for awhile like you were going slowly insane... I was fully prepared to have you committed to the <u>finest</u> mental-health facility available.  I mean that sincerely, don't thank me.
+L572692 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Attempted murder.
+L572691 +++$+++ u8116 +++$+++ m550 +++$+++ SUTHERLAND +++$+++ Illegal surveillance, reckless endangerment...
+L572688 +++$+++ u8116 +++$+++ m550 +++$+++ SUTHERLAND +++$+++ What about the house?
+L572687 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ He hasn't called back.
+L572602 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Sam...  Thank you.
+L572601 +++$+++ u8116 +++$+++ m550 +++$+++ SUTHERLAND +++$+++ Very well.  If you tell me not to worry, I shan't.
+L572600 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ It's what they do.  It's like... being toyed with by a bunch of...  Depraved children.
+L572599 +++$+++ u8116 +++$+++ m550 +++$+++ SUTHERLAND +++$+++ You're joking.
+L572598 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Christ... I can't believe it... invisible ink?
+L572595 +++$+++ u8116 +++$+++ m550 +++$+++ SUTHERLAND +++$+++ Nothing else?
+L572594 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Just what I told you.
+L572593 +++$+++ u8116 +++$+++ m550 +++$+++ SUTHERLAND +++$+++ Sounds like they make tennis rackets. What do we know?
+L572592 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Find out about a company called C.R.S.  Consumer Recreation Services.
+L572591 +++$+++ u8116 +++$+++ m550 +++$+++ SUTHERLAND +++$+++ You know you can.
+L572590 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Someone's playing hardball.  It's complicated.  Can I ask a favor?
+L572589 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ It was a misunderstanding.
+L572588 +++$+++ u8116 +++$+++ m550 +++$+++ SUTHERLAND +++$+++ How concerned should I be?
+L572580 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ That you've involved Conrad... is unforgivable.  I am now your enemy.
+L572579 +++$+++ u8116 +++$+++ m550 +++$+++ SUTHERLAND +++$+++ Nicholas...
+L572573 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Follow me.
+L572572 +++$+++ u8116 +++$+++ m550 +++$+++ SUTHERLAND +++$+++ What's happened...
+L572328 +++$+++ u8116 +++$+++ m550 +++$+++ SUTHERLAND +++$+++ I checked it personally.
+L572327 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Don't ask.
+L572326 +++$+++ u8116 +++$+++ m550 +++$+++ SUTHERLAND +++$+++ Attractive...
+L572325 +++$+++ u8116 +++$+++ m550 +++$+++ SUTHERLAND +++$+++ Wanted to wish you luck.  Not that you'll need it.
+L572324 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ I wasn't expecting you.
+L572301 +++$+++ u8114 +++$+++ m550 +++$+++ NICHOLAS +++$+++ Nothing.  Nothing at all.
+L572300 +++$+++ u8116 +++$+++ m550 +++$+++ SUTHERLAND +++$+++ Anything wrong... ?

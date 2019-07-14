@@ -1,0 +1,356 @@
+L659185 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Guess I'm not used to so much.
+L659184 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ Eat up, Book. What's the matter with your appetite?
+L659160 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Not one this big.
+L659159 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ Didn't you hear me, Book? Pull! You never had your hands on a teat before?
+L659156 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ Good, you start tomorrow.
+L659155 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I've seen pictures.
+L659154 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ Cows. You know, cows?
+L659153 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Milking?
+L659152 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ Maybe milking.
+L659151 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Sure, I'm sorry. Hope you don't mind me plugging in to your battery. Mine's dead... How can I help? What can I do?
+L658988 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Just do it!
+L658987 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ John, why?...
+L658986 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ You don't know anything... borrowed your car. Didn't say why. And you never heard of that woman and her boy.
+L658985 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ John, I don't understand any of this.
+L658984 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Put my car in the garage and close the door.
+L658882 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ They're Amish.
+L658881 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ Who are these orphans, anyway?
+L658880 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Oh sure, Fred.
+L658879 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ That's none of your goddamn business! So keep your goddamn holier-than- thou mouth shut!  Anyway, they like Fred.
+L658878 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ You've got a man here and the kids are upstairs?
+L658877 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ Upstairs, asleep. Where'd you think?
+L658876 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Where's Timmy and Buck?
+L658875 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Sorry. It's important.
+L658874 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ How could you do this to me tonight? I told you I had company
+L659279 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Pick up the hat.
+L659278 +++$+++ u8942 +++$+++ m609 +++$+++ HOCHSTETLER +++$+++ Everything is all right, John.
+L659243 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Yes, sir.
+L659242 +++$+++ u8942 +++$+++ m609 +++$+++ HOCHSTETLER +++$+++ Nail it!
+L659237 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Pretty much.
+L659236 +++$+++ u8942 +++$+++ m609 +++$+++ HOCHSTETLER +++$+++ Your hole is healed, then?
+L659234 +++$+++ u8942 +++$+++ m609 +++$+++ HOCHSTETLER +++$+++ No matter. Come with me. We can always use a good carpenter.
+L659233 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ It's been a while.
+L659232 +++$+++ u8942 +++$+++ m609 +++$+++ HOCHSTETLER +++$+++ Eli says you're a carpenter, Book.
+L659169 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Try the house.
+L659168 +++$+++ u8942 +++$+++ m609 +++$+++ HOCHSTETLER +++$+++ I came to see Rachel Lapp.
+L659167 +++$+++ u8942 +++$+++ m609 +++$+++ HOCHSTETLER +++$+++ English, Yankee. It's the same. My name is Daniel. Daniel Hochstetler.  You look plain, Book.  Very plain.
+L659166 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I thought I was the English.
+L659165 +++$+++ u8942 +++$+++ m609 +++$+++ HOCHSTETLER +++$+++ Good morning. Book, is it? You are the Yankee they talk about?
+L659367 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Sure have, Sam.
+L659366 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ Have you got your gun on now?
+L659365 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Got to, Sam. You and I are going to a courthouse together, put some people behind bars.
+L659364 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ Are you really ever coming back?
+L659339 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I won't. Now run.  Fast as you can!
+L659338 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ Don't let them hurt you.
+L659337 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I'll be all right. You just do as I say.
+L659336 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ What are you going to do?
+L659335 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Listen to me, Sam! I want you to go across the new corn to Stoltzfus'. Run as fast as you can. And stay there!
+L659334 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ Are they going to kill you?
+L659333 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ It's them, Sam.  Now, Sam, listen to me and listen to me carefully. Listen to me as you never listened before.
+L659332 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ Is it them?
+L659247 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ What's that, Sam?
+L659246 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ ...I want to say a thing.
+L659245 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Hey, Sam...
+L659163 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ You don't say.
+L659162 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ That's Luke. He doesn't like strangers.
+L659088 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ Okay, Mr. Book.
+L659087 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Tell you what – I'm going to let you handle this one. But only if you promise not to say anything to your momma. I've got a feeling she wouldn't understand.
+L659086 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ No pistol. Ever.
+L659085 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ You ever handle a pistol like this, Samuel?
+L658818 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Black... I understand. What else,Sam?
+L658817 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ He was... like him.
+L658813 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ No... I saw the man who killed him.
+L658812 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Who'd you see, Sam? The man on the floor?
+L658811 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Who'd you see?
+L658810 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ I saw him.
+L659363 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Move! Or you die right here!
+L659362 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ It's all over, Paul.
+L659360 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Don't try me, Johnny!
+L659359 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ You're going to have to do it right here, Schaeffer.
+L659273 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I've already got something worked out.  Be seeing you.
+L659272 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Listen to me, Johnny. Come in! You're out there all alone... We're getting close... real close... Maybe if you listen to me for a minute we can work something out so you can come in –
+L659271 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ You might want to pass it along to Mac.
+L659270 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Johnny –
+L659269 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I'm fine. I'm going to live a long time. That's what I called to tell you.
+L659268 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ How bad did Mac get you? We figured pretty bad.
+L659267 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ You made a mistake, Paul. You shouldn't have taken Elton out.
+L658965 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Just us.
+L658964 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Who else knows?
+L658963 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ A hot shower... I haven't changed clothes in two days.
+L658962 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ What's your first move?
+L658961 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Maybe the Bureau. Or those bastards at Treasury. I'll take care of it.  I hate this shit, Johnny. You cut their balls off for me. I'm counting on you.
+L658960 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ More people... Gotta pick up where Zenovich left off. People from outside the department.
+L658959 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Okay, what are you going to need to clean it up
+L658958 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Just us.
+L658957 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Who else knows?
+L658956 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ If I did, I'd have kept my mouth shut...  It fits, Paul... Fifty-five gallons of P2P confiscated four years ago... Guess who was in on the collar? Mac.  He salts it away somewhere... he knows the stuff is potent, but the street chemists haven't figured out how to process it. But they do now.  And now the stuff is worth five-grand a pint and there are a lot of pints in a fifty-five gallon drum.
+L658955 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ I hope you don't have any doubts about that.
+L658954 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Last guy I would have figured. But he's part of it.
+L658849 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Well, anyway, don't get crazy.  I'll do something for Zenovich's wife.
+L658848 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ What's-her-name moved to Buffalo.
+L658847 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Tell you what... why don't you and that blonde – what's-her-name – come over for dinner Sunday. How 'bout that.
+L658846 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ When word gets out that Zenovitch was a cop, all hell will break lose. You've got 24 hours. That's all I can give you. 24 hours on your own. After that the case and the witness go back to the Homicide Department.
+L658845 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ The Amish boy saw him, Paul. I'll make it, but Set Donahue and the Homicide Department off my back or they'll blow the whole thing.
+L658844 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ That's the problem. We need results. The press is driving us crazy over this P2P thing. Calling us the 'speed capitol of the country'. You know the sort of thing. It's getting political. The Commissioner's getting very uneasy.
+L658843 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ If there isn't I've just wasted the last six months.
+L658842 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ You're still convinced there's a link to the department?
+L658841 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Maybe.
+L658840 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ You know who?
+L658839 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Maybe.
+L658838 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ So one of them got to him.
+L658837 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Zenovitch was about to deliver a list of names tonight – street chemists... the guys processing this P2P into speed.
+L658836 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ What have you got?
+L658835 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Yeah.
+L658834 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Amish.
+L658833 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Oh, he's good.
+L658832 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ How reliable is this kid?
+L659370 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Here. Whenever you want them.
+L659369 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Where's my baggy pants?
+L659368 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I want you to take this... to remember by.
+L659305 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Well in the City of Philadelphia, God needs a little help!
+L659304 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ That's God's way!
+L659303 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ That's your way, not mine.
+L659302 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ What you do is take vengeance! Which is a sin against heaven!
+L659301 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Land! Are you crazy? I'm no Amishman and I'm no farmer! I'm a cop. That's what I know and that's what I do!
+L659300 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ There is always a way! But you are such a... a Glotzkopp you cannot see! You'd rather go back to that city! To nothing! No woman! No children! No land!
+L659299 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Oh, come on, Rachel. No way.
+L659298 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I'm not so sure of anything as you are, John Book. You could live this life if you wanted to bad enough.  Just as I could live yours!
+L659297 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Aren't you? After today?
+L659296 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ You're so sure of that?
+L659295 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ No.  I was being unrealistic. Even thinking about living this life.
+L659294 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I was being foolish?
+L659293 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I know.
+L659292 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ There was a time when I would have welcomed it.
+L659291 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ There was.
+L659290 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ There was a time when I thought you might have stayed.
+L659289 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I'm leaving tonight.  I'm going to need my clothes. And my gun.
+L659288 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ You should not bother with that birdhouse.  If you're leaving tomorrow.
+L659228 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I see.  But I hope you have a lot of sugar.  Eli is ready to go to Zook's.
+L659227 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Won him over just like that.
+L659194 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Not long... A few days.
+L659193 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ When will you be going?
+L659191 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I'll drink some more of Stoltzfus' tea.
+L659190 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ But... You may not be well enough.
+L659189 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Sure.
+L659182 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I'm sorry. I'm sure it is.
+L659181 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Now hold on. There's a lot of people who think being a cop is a legitimate job.
+L659180 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Whacking is not of much use on a farm.
+L659179 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I can whack people. I'm hell at whacking.
+L659178 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ What else can you do?
+L659177 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I did some carpentry summers when I was going to school.
+L659176 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ You know carpentry?
+L659175 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ A real fireball.
+L659174 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ We had some lemonade and he left.
+L659173 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Oh?  What happened to Hochstetler?
+L659172 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Eli is a fine carpenter. Best in the district. He and his father built the big house themselves forty years ago.
+L659135 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Oh. The bullets.
+L659134 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ The... bullets?
+L659128 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ You can go with Eli. He's taking Samuel to school. But you'll have to hurry.
+L659127 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I know what he said.
+L659126 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ But Stoltzfus said...
+L659125 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I'm going this morning.
+L659124 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Well... the store at Saltzburg...  But you won't be going to Saltzburg for a while.
+L659123 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ No. I'd want a public phone.
+L659122 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Telephone? The Gunthers across the valley. They're Mennonite. They have cars and refrigerators and telephones in the houses even.
+L659121 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Where's the nearest telephone?
+L659120 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Quaint? Can't imagine why.
+L659119 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ You make fun of me. Like the tourists. Driving by all the time. Some even come into the yard. Very rude. They seem to think we are quaint.
+L659118 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Anything against zippers?
+L659117 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Vain. Proud. Such a person is Hochmutsnarr. He is not plain.
+L659116 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Hochmut?
+L659115 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Buttons are Hochmut.
+L659114 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Something wrong with buttons?
+L659113 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I should tell you these do not have buttons.  See? Hooks and eyes.
+L659112 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Yes. It's good that someone can have the use of them. Besides, in your clothes you'd stand out to strangers.
+L659111 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Your husband's?
+L659110 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Your shirt and jacket are still stained with blood. I have them soaking.You can wear these.
+L659109 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Very interesting. I'm learning a lot about manure.  What's that?
+L659108 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Enjoying your reading?
+L659095 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ It's not the gun. Don't you understand... It's you. What you stand for.  That is not for Samuel.
+L659094 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Nobody meant any harm. The boy was curious. I unloaded the gun -
+L659093 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ John Book, I would appreciate it if, during the time you are with us, you would have as little to do with Samuel as possible.
+L659060 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ You tell him. When you're able.
+L659059 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Tell him his tea stinks.
+L659056 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ But you can't.
+L659055 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Listen, thank you. Thanks for everything. But I've got to go.
+L659054 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Two days.
+L659053 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ How long have I been here?
+L659052 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ What?
+L659051 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ How long?
+L659050 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Only the elders.
+L659049 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Does anybody know I'm here?
+L659048 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Can I have something to drink?
+L659047 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ The leadership of our district... the diener. Bishop Tschantz is the one with no hair on top. They decided to come and see you for themselves. Except Stoltzfus, of course. He came the first day. I think he saved your life.
+L659046 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Who are they?
+L659008 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ But –
+L659007 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Gunshot... they'll file reports... they'll find me.
+L659006 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ But why?
+L659005 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ No, no doctor...
+L659004 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ But John... why didn't you go to a hospital?
+L658999 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ What about Samuel? Will you come back to take him to trial?
+L658998 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I can't.
+L658997 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Stay for awhile. Rest. I'll make coffee and breakfast.
+L658994 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I was wrong.
+L658993 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ You said we would be safe in Philadelphia.
+L658991 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ You couldn't wait until morning?
+L658990 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Home.
+L658989 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Where are you taking us now?
+L658949 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ You'll be safe. You don't have to worry.
+L658948 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I'm afraid. I'm afraid for Samuel. I want to go home.
+L658947 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Because – somehow – they knew I was getting close.  Look, it's narcotics... They make dope out of chemicals... they sell it on the street for millions of dollars. They'll do anything.  And they can get away with it because they're cops.
+L658946 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ But why would they murder...
+L658945 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Listen, I'm the cop that polices the police. I'm not in the business of protecting crooked cops.  I'll make an arrest when I know everybody involved.
+L658944 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Why don't you arrest that man? Are you protecting him because policeman?
+L658938 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Oh yes. She thinks you like policing because you think you're right about everything. And you're the only one who can do anything. And that when you drink a lot of beer you say things like none of the other police would know a crook from a... um... bag of elbows.
+L658937 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Oh? Anything else?
+L658936 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ She thinks you should get married and have children of your own. Instead of trying to be a father to hers. Except she thinks you're afraid of the responsibility.
+L658935 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ No.
+L658934 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Your sister said you don't have a family?
+L658932 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ What's a 'good' tired. Tired is tired.
+L658931 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ But not a good tired.
+L658929 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I would not be too sure.
+L658928 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ They kid a lot.
+L658927 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ No you're not –  You're glad, because now you've got a witness.  I heard the other police talking last night.  They don't seem to like you very much.
+L658926 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Look, I'm genuinely sorry...
+L658925 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ People who don't go into our courts when they're told to sometimes go directly into our jail.
+L658924 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ We do not go into your courts.
+L658923 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Believe me, I'm trying to get this over with as fast as I can. But Samuel will probably have to come back and testify.
+L658922 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Yes. And I also want to leave this city.
+L658921 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Whacking?
+L658920 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ The problem is I don't happen to think my son should be spending all his time with a man who carried a gun under his coat and goes around whacking people.
+L658919 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Now what's the problem?
+L658862 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ He wants to know who you are. Your name. I told him we don't need to know anything about you.
+L658861 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ What was that?
+L658859 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ It's not a joke.
+L658858 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Doesn't surprise me. I meet a lot of people like that.
+L658857 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ You don't understand, we have nothing to do with your laws!
+L658856 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Yes I do. Your son is a material witness to a homicide.
+L658855 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ You have no right to keep us here.
+L658854 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ We're looking for a suspect. We've reason to believe he's still in the area.
+L658853 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Where are you taking us?
+L658809 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ There'll be another train.  The man who was killed tonight was a policeman, Sam. It's my job to find out who did it. I want you to tell me everything you saw when you went in there.
+L658808 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Samuel. Samuel Lapp.  But what happened here is none of his affair. My sister is expecting me... our train is leaving soon.
+L658807 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I'm a police officer. I'm going to have to talk to the boy. What's his name?
+L659149 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Make that 1790.
+L659148 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ Say again?
+L659147 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Where I'm at is maybe 1890.
+L659146 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ That's more like it.  Where are you at, anyway?
+L659145 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I hear you. I'll stay in touch.
+L659144 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ You hear me?
+L659143 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ Listen, Johnny, don't do anything stupid. You couldn't get within a mile of Schaeffer right now. So stay put... Stay in touch – I'll let you know when maybe it makes sense.
+L659142 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ I'm coming.
+L659141 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ Too hot. Don't do it. Don't come in.
+L659140 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Never mind. I'm coming in to take care of business. How hot am I?
+L659139 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ Johnny! Where the hell have you been?
+L659138 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ It's me.
+L658982 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Good. Take care of that woman's name for me. And watch your ass.
+L658981 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ I hear you.
+L658980 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Yeah... I can put it all together when I get back, 'Til then, you know nothing, understand? Business as usual...
+L658979 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Listen to me – Schaeffer's part of it. Maybe at the top of it.
+L658978 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ Johnny, what the fuck?
+L658977 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Nothing. I'm not going to be around for a while. I'll call you when I can.
+L658976 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ What the hell are you talking about? What's happening.
+L658975 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Listen carefully, I wrote the Amish woman's name and address on my desk calendar, I want you to lose it for me, Now. Tonight.
+L658852 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ It won't happen again.
+L658851 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Let's just find Coalmine.  Listen, Zenovich made a mistake. You didn't let anybody down. It happens –
+L658850 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ I got there late, John.
+L658816 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Okay, Sam. Can you tell me what he looked like?
+L658815 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ I didn't even know about it.
+L658814 +++$+++ u8938 +++$+++ m609 +++$+++ BOOK +++$+++ Anybody know about this?
+L659223 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ What I know, Paul, is...  He's going to take you out...
+L659222 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Either you're a member of the club or you aren't, Elton.  Tell me what you know...
+L659220 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ He's got my number.
+L659219 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ You're the first one he'll contact.
+L659218 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ I admit I don't know where he is.
+L659217 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ You admit you're lying?
+L659216 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ Probably.
+L659215 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ You'd lie to protect him.
+L659214 +++$+++ u8939 +++$+++ m609 +++$+++ CARTER +++$+++ Wrong.
+L659213 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ You know where he is.
+L659077 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ But... if you had to guess?
+L659076 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ I don't know where he is.
+L659075 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Elaine, I don't want to have to take you in for questioning. You've got his car, you were the last to see him –
+L659074 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ Better you should get off my front porch before I get my mace!
+L659073 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Of course, Elaine. But as long as there's any question, better Johnny should come back and clear his name.
+L659072 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ He accused John of taking kickbacks. And you know – anybody who knows John – knows that's a goddamn lie!
+L659071 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Elaine, I've come to apologize for Lt. McElroy. He overstated the department's position.
+L659069 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Not yet.
+L659068 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ Did you find him?
+L658917 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ Listen, I don't know what's going on or how you got mixed up with him, but don't you let that self-righteous son of a bitch push you around, okay?
+L658916 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ You just wouldn't. It's not the Amish way.  But I think it would have done me good if I could have screamed at your brother last night.
+L658915 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ No? Why not?
+L658914 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ At home you'd never hear a woman scream at a man that way.
+L658913 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ God, Fred...
+L658912 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Fred. The way he looked when you screamed at him.
+L658911 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ What's so funny?
+L658900 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I made it a contest... the one who does best gets his cereal back first.  Children like to help... they only need to be kept after a little bit.
+L658899 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ You're not carrying a bullwhip... how'd you manage to put my kids to work?
+L658898 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Just a minute. I'll pour you some coffee.
+L658897 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ Aganishish? Yeah, that sounds like John.
+L658896 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I wanted to. you were kind to take us in last night.  Anyway, I needed something to do. I was so angry with your brother. He's so... agaanisish!
+L658895 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ You didn't have to...
+L658894 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Good morning.
+L658887 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ Oh.
+L658886 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Yes.
+L658885 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ John said you're Amish.
+L658884 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Yes, thank you very much.
+L658883 +++$+++ u8940 +++$+++ m609 +++$+++ ELAINE +++$+++ Everything okay?
+L659353 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I have to help him!
+L659352 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ No, Rachel...
+L659212 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ You shame yourself.
+L659211 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ No! They will be the judge of that! And so will I... if you shame me!
+L659210 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I will be the judge of that.
+L659209 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ You are acting like one!
+L659208 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I am not a child.
+L659207 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ Do not make light of it, Rachel. They can do it... quick! Like that! And then... then I can not sit at table with you. I can not take a thing from your hand. I... I can not go with you to meeting!  Rachel, good Rachel, you must not go too far! Dear child!
+L659206 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ That is idle talk.
+L659205 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ No sin? Maybe. Not yet. But, Rachel, it does not look...  Don't you know there has been talk? Talk about you, not him. Talk about going to the Bishop. About having you... shunned!
+L659204 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I have committed no sin.
+L659203 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ Eh? Nothing? Rachel, you bring this man to our house. With his gun of the hand. You bring fear to this house. Fear of English with guns coming after. You bring blood and whispers of more blood. Now English music... and you are dancing to English music! And you call this nothing?
+L659202 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I have done nothing against the ordnung.
+L659201 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ How can this be? How can you do such a thing? Is this plain? Is this the ordnung?
+L659188 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ Eh? Well then, maybe he can go to Zook's barn-raising, eh? See how good a carpenter.
+L659187 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Eli, John is a carpenter.  As well as being a fine policeman.
+L659026 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I know God help me, I know that, Eli.  But I tell you that if he's found here, the people who did this to him will come for Samuel.
+L659025 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ Rachel, this is a man's life, we hold it in our hands.
+L659024 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ We'll pray that he doesn't die! But if he does, then we'll find a way so no one knows!
+L659023 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ Didn't you hear Stoltzfus? What if he dies? Then the sheriff will come. They'll say we broke their laws –
+L659015 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I know.
+L659014 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ That has no place in this house.
+L659012 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ Looks dead...
+L659011 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ No...
+L659010 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ Is the English dead?
+L659002 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ His name is John Book.
+L659001 +++$+++ u8941 +++$+++ m609 +++$+++ ELI +++$+++ Who was that man?
+L659285 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Yes. Samuel! We're going.
+L659284 +++$+++ u8943 +++$+++ m609 +++$+++ LOCAL MAN +++$+++ You're Rachel Lapp, aren't you?
+L659283 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ John, lost control of himself. He... will be repentant.
+L659282 +++$+++ u8943 +++$+++ m609 +++$+++ LOCAL MAN +++$+++ We'll, them Ohio Amish sure must be different.  Our Lancaster brethren, they just don't have that kind of fight in them.
+L659281 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ He's from... Ohio... My cousin.
+L659280 +++$+++ u8943 +++$+++ m609 +++$+++ LOCAL MAN +++$+++ Never seen anything like that in all my years.
+L659327 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ All right, where is he?
+L659326 +++$+++ u8944 +++$+++ m609 +++$+++ MCELROY +++$+++ He's not in this building.
+L659318 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ They don't have any shit.
+L659317 +++$+++ u8944 +++$+++ m609 +++$+++ MCELROY +++$+++ Weird, man. No fuckin' electricity. What do you figure they plug all their shit into?
+L659082 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Lean on him.
+L659081 +++$+++ u8944 +++$+++ m609 +++$+++ MCELROY +++$+++ Tight. But I'm working on him.
+L659080 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ What about Carter?
+L659079 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ I don't think she knows.
+L659078 +++$+++ u8944 +++$+++ m609 +++$+++ MCELROY +++$+++ She say where he is?
+L659343 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Nobody's going to hurt your son...
+L659342 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ My son is out there!
+L659341 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Get back in there.
+L659331 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Find Fergie, check the barns. I'll watch these two.
+L659330 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ You might have killed him!
+L659329 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ He'll live.
+L659325 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ You have no right here!
+L659324 +++$+++ u8947 +++$+++ m609 +++$+++ SCHAEFFER +++$+++ Lady, I'm here to help you. This man is very dangerous. An armed criminal.  He's got a gun, hasn't he?
+L659323 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ No, you listen. Get out!
+L658891 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ I know. Sleep now, Liebchen.
+L658890 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ I wish dawdie was with us.
+L658889 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ They are English. They don't understand.
+L658888 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ I don't want to stay here.
+L658828 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ No... No. It is just the English way.
+L658827 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ Momma... are they angry with us.
+L658796 +++$+++ u8945 +++$+++ m609 +++$+++ RACHEL +++$+++ Of course not. We're going to Baltimore. It's much nicer in Baltimore.
+L658795 +++$+++ u8946 +++$+++ m609 +++$+++ SAMUEL +++$+++ Is this where we're going?

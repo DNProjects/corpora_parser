@@ -1,0 +1,776 @@
+L346419 +++$+++ u1780 +++$+++ m118 +++$+++ 1ST DEMON +++$+++ Fire moat... why do that?
+L346418 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Nay.  This is a private affair, no audience welcome... Better you watch the dismantling of our enemies... and, look you, see the moat is set aflame.
+L346417 +++$+++ u1780 +++$+++ m118 +++$+++ 1ST DEMON +++$+++ We come watch... we come watch...
+L346412 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ I have something far more pleasant awaiting me.
+L346411 +++$+++ u1780 +++$+++ m118 +++$+++ 1ST DEMON +++$+++ You go?  Not watch fun?
+L346408 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Anything left for smashing you may happily smash.
+L346407 +++$+++ u1780 +++$+++ m118 +++$+++ 1ST DEMON +++$+++ Then we smash 'em?
+L346406 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Fight's over before it's begun... soon the survivors will be in full retreat.
+L346385 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Precisely.  Faith has persuaded them a pygmie with a sling can kill an armed giant.
+L346384 +++$+++ u1780 +++$+++ m118 +++$+++ 1ST DEMON +++$+++ Fool's magic.
+L346381 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Faith.
+L346380 +++$+++ u1780 +++$+++ m118 +++$+++ 1ST DEMON +++$+++ Why so few?
+L346416 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ To finish last evening's delightful work.
+L346415 +++$+++ u1781 +++$+++ m118 +++$+++ 2ND DEMON +++$+++ You go to lady now?
+L346414 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ This is another victory, my friends. What began with the lash shall be concluded with a caress.
+L346413 +++$+++ u1781 +++$+++ m118 +++$+++ 2ND DEMON +++$+++ More fun win battle?
+L346410 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Indeed, the best of fun... Enjoy yourselves.
+L346409 +++$+++ u1781 +++$+++ m118 +++$+++ 2ND DEMON +++$+++ We watch... good fun...
+L346392 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ I doubt the faeries will admire their beauty... Come, this will be fun to watch.
+L346391 +++$+++ u1781 +++$+++ m118 +++$+++ 2ND DEMON +++$+++ Birdies... pretty...
+L346389 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ No.  Smashing is not required.  I have a surprise for our tiny invaders... Raise that hatch!
+L346388 +++$+++ u1781 +++$+++ m118 +++$+++ 2ND DEMON +++$+++ We go out, smash 'em now?
+L346387 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Always.
+L346386 +++$+++ u1781 +++$+++ m118 +++$+++ 2ND DEMON +++$+++ Dumb magic.  Giant smash peewee.
+L346383 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Delusion... a kind of magic which works against the magician.
+L346382 +++$+++ u1781 +++$+++ m118 +++$+++ 2ND DEMON +++$+++ What?
+L346490 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ So you shall be... Like our brothers, the hawk and the wolf, our spirits know no master... we are created in the pure image of the savage God that set our turbulent universe in motion.
+L346489 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ To be strong and free... that is all I desire.
+L346488 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Precisely, my darling.  Your animal strength, your primitive power has surfaced... you are what you desire.
+L346487 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Yes.  I feel that, too.  Weakness is what is ugly.
+L346486 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Or looked so beautiful...
+L346485 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Now I want to live forever.  I've never felt so strong or happy.
+L346484 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ And, now?
+L346483 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ It's odd... when I first found myself... changing... I was sick with loathing and disgust.  I thought I was so ugly I wanted to die...
+L346482 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Pleasure is for those who seize it! Do you think those insipid, pale- skinned mortals will ever know such rapture?
+L346481 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ And I with you... I never dreamed life held such pleasures...
+L346480 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Later, beloved... Now I wish only to be with you...
+L346479 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Might we watch, too?
+L346478 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ From the parapets most likely.  The men are amused by a battlefield entertainment of my own contriving.
+L346477 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ It sounded like it came from the courtyard.
+L346476 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ It's nothing.  My men take great delight in routing the enemy.  Don't trouble yourself, beauty.
+L346475 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ What was that?  Did you hear that?
+L346350 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Indeed I am, my dear... that makes us a pair!
+L346349 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ You're a beast!
+L346348 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ My dear Princess, the human soul is a highly elusive commodity.  I suggest you spend some hours before the glass.  Contemplate your intriguing reflection and consider whether such a creature as yourself could possibly possess something as fine and beautiful as a soul.
+L346347 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ I don't expect you'd understand.
+L346346 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Your soul...?  Why should I bother with such a paltry trifle?
+L346345 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Do as you wish with my body, you'll never possess my soul!
+L346344 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ I'm pleased you're not troubled by the prospect...
+L346343 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ I see...
+L346342 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ When you are ripe for my pleasure, I will enjoy the harvest.
+L346341 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ What will become of me then?
+L346340 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Yes?
+L346339 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ And then?
+L346338 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ A few day's nourishment will see your strength returning.
+L346337 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Oh, yes...
+L346336 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ We'll get you cleaned up, find a suitable gown... I imagine you'll enjoy a good meal?
+L346335 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ At the moment, very little.  Your company at my table...
+L346334 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ What do you want from me?
+L346333 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Sweet Princess, you begin to sound most reasonable.
+L346332 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Don't please... I'll do what you desire...
+L346331 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ I can keep a victim alive for weeks... months, if I desire it... it's an art.  They beg for death... I keep it just out of their reach.  The pain remains constant.
+L346330 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ No more... please...
+L346329 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Why should I kill you?  A simple course in etiquette... something your parents sadly overlooked.
+L346328 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Kill me... I want... so nice...
+L346327 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Your moans seem almost pleasurable, my dear... developing a taste for the lash?
+L346216 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Too bad your precious Jack can't hear you... the damsel in distress... A rescue attempt would be most amusing... We could flay sweet Jack alive as an after-dinner entertainment...
+L346215 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Jack... Oh, Jack... Help me...
+L346213 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ No.  Now is the time for discipline. Some lessons in obedience for the future Baroness.
+L346212 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Do it now!
+L346211 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ When the time's come, you won't need to jump, I'll throw you out myself!
+L346207 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ We're both of us damned, my beauty.
+L346206 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Damn you!
+L346204 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ I'd soon die.
+L346203 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ To be my bride, of course.
+L346202 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Why have you brought me here?
+L346201 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ I prefer a plump capon, but will happily serve you rats if they're to your liking.
+L346200 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Do you feed on mice and rats?
+L346199 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ I prefer to think, more like the sagacious owl.
+L346198 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Like some vile toadstool.
+L346197 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ I am a creature of darkness.  I require the shadow's solace and the black of night... Sunlight is abhorrent to me... I cover myself completely whenever I venture forth in daylight... Sunshine is my destroyer.
+L346196 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Protection?
+L346195 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ I know no more of shame than I do of fear.  I wear this mask not for concealment but protection.
+L346194 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Then why hide behind a mask?  You are ashamed!
+L346193 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ I am afraid of nothing.
+L346192 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ And you... are you not also afraid?
+L346191 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ We're all of us beasts, my dear. Only most are afraid to show it.
+L346190 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ You... you're a beast!
+L346189 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Not from me, surely...
+L346188 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ God protect me.
+L346187 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ You should glory in your animal nature.  It is your triumph!  None know that better than I!
+L346186 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ You lie!  You wish to humiliate me, as if the form I'm forced to bear were not punishment enough!
+L346185 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ On the contrary!  The puling, pallid creature you were before was truly something disgusting.  Now you are splendid... a fierce goddess... the embodiment of all that is strong and beautiful.
+L346184 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Grotesque... monstrous...
+L346183 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ You're magnificent.
+L346182 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ But I'm hideous!
+L346181 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ I like well what I see.  It pleases me.
+L346180 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ You are cruel!  Your heartless jesting worse than torture!  How can you speak of love when you see what I am!
+L346179 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ I speak of love, and you think only of the lash.
+L346178 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Your words sting more sharply than your whip.
+L346177 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ Your love.
+L346176 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ What do you want with me?
+L346175 +++$+++ u1782 +++$+++ m118 +++$+++ BARON +++$+++ My generosity is not so large as that.
+L345926 +++$+++ u1783 +++$+++ m118 +++$+++ DRAGON +++$+++ No more listening!  Your time is at an end, insignificant whelp!
+L345925 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ No, wait... please... listen...
+L345923 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Oh no... Don't you understand?
+L345922 +++$+++ u1783 +++$+++ m118 +++$+++ DRAGON +++$+++ You come stealee tleasoo?
+L345921 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I need your help.  In order to fight Blackheart, I must wear the armor of Achilles.  I --
+L345920 +++$+++ u1783 +++$+++ m118 +++$+++ DRAGON +++$+++ An' how you do it?  How you rift cuss?
+L345919 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ It's terrible.
+L345918 +++$+++ u1783 +++$+++ m118 +++$+++ DRAGON +++$+++ Flozen foleva not good.
+L345917 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Then you'll understand my quest.  An ogre named Blackheart has killed the last stag unicorn and stolen his horn.  The world outside is cursed, plunged into eternal winter.  Unless I return the alicorn, the earth will be frozen forever.
+L345916 +++$+++ u1783 +++$+++ m118 +++$+++ DRAGON +++$+++ Dlagon not like that.  Dlagon is spilit of life... spilit of stlength and goodness.
+L345915 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ You don't ravage the countryside, devouring maidens and burning the crops?
+L345914 +++$+++ u1783 +++$+++ m118 +++$+++ DRAGON +++$+++ You got no idee.  People there lookee diffelent; speakee diffelent. Nothing the same.  In my countlee I bling good luck.  Makee lain and thunder.
+L345913 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ East of Mercia?
+L345912 +++$+++ u1783 +++$+++ m118 +++$+++ DRAGON +++$+++ Country fa' fa' away.  To the East, beyond the lising sun...
+L345911 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Cathay?
+L345910 +++$+++ u1783 +++$+++ m118 +++$+++ DRAGON +++$+++ Course not.  I no flum here.  I come flum Cathay.
+L345909 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Well, er... no.  I mean, you don't look like dragons I've heard of.
+L345908 +++$+++ u1783 +++$+++ m118 +++$+++ DRAGON +++$+++ No need lie, boy.  I no hurt you. Do I look like I wanna hurt you?
+L345907 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Oh, no, never... nothing like that... never crossed my mind.
+L345906 +++$+++ u1783 +++$+++ m118 +++$+++ DRAGON +++$+++ You come stealee tleasoo?
+L345905 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I said, I mean no harm... I thought this as empty tomb.
+L345904 +++$+++ u1783 +++$+++ m118 +++$+++ DRAGON +++$+++ What?  Speakee loud!  No hear velly good.
+L345903 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I didn't know... I --
+L345902 +++$+++ u1783 +++$+++ m118 +++$+++ DRAGON +++$+++ What you do, boy?  You be velly solly, come here intellupt my sleep.
+L346236 +++$+++ u1789 +++$+++ m118 +++$+++ OGG +++$+++ There's a coil of golden thread fine as spider web yet naught can break it... and a silver key no lock can resist.
+L346235 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ We be honored, friend Ogg.
+L346234 +++$+++ u1789 +++$+++ m118 +++$+++ OGG +++$+++ Baron Couer de Noir is a blight 'gainst all nature.  We dwarves be not fighters; still we are with you in this battle.  Some of our handiwork may be of assistance.
+L346098 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Screwball you know, and many other of the wee folk.  We serve as escort for our grand champion, Jack o' the Green.
+L346097 +++$+++ u1789 +++$+++ m118 +++$+++ OGG +++$+++ Who might these friends be?
+L346096 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Twas Jimmy done that, I merely stood for the blame unfairly... but, here now, Ogg, this be no time to rehash old differences, I've friends along in need of safe haven for the night.
+L346095 +++$+++ u1789 +++$+++ m118 +++$+++ OGG +++$+++ Or was it the time you and Jimmy Squarefoot stole the golden apples I'd forged.
+L346094 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Well, bygones're bygones, I always say.
+L346093 +++$+++ u1789 +++$+++ m118 +++$+++ OGG +++$+++ Honeythorn Gump, is it?  I've not seen your ugly face since you sold me a jug of cow piss claiming it was dragon's tears.
+L346092 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Friend Ogg.  Excuse our enthusiasm, occasioned as it was by a fondness for you.
+L346625 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ You're good at riddles... Find the ring and the spell is broken.
+L346624 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'll try.
+L346623 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ You must find the ring... It completes the cycle; answers the riddle...
+L346622 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ That's it then... the ring!
+L346621 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Nay.  It was lost.  When I came up for air the pond was frozen over.
+L346620 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ And did you?
+L346619 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ She tossed her ring in the pond and bid me fetch it.  Said she'd marry me if I did.
+L346618 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Go on... go on...
+L346617 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ By the pond.  She was teasing me.
+L346616 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Where?
+L346615 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I was with the Princess.
+L346614 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Might not need a gesture quite so grand.  What were you doing the very moment the Baron's curse fell on the world?
+L346613 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'll do anything... face any challenge!
+L346612 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Tis not the wound, that's sure.  Not a scar remains... we're talking about a spell; harder to repair than sword-work.
+L346611 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ The quest's at an end and where's the good of it?  A faerie festival over a pile of bones?
+L346607 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ She lives like all the world before the Baron's curse lifted.  Now the world's reborn, yet still she sleeps...
+L346606 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ She lives... isn't that worth singing about?
+L346605 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Were the Princess Lili to join me I would sing till my lungs burst!
+L346604 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Where's your joy if you cannot sing?
+L346603 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'm not denying it's a joyous day --
+L346602 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ On a day like none other the blessed earth has ever seen... A day so fair as forty springtimes --
+L346601 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Listen to him.  Not in the mood...
+L346600 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Not in the mood, I'm afraid.
+L346599 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ I've not heard a note out of you.
+L346598 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ A good day for singing...
+L346583 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ You're on your own... like a true champion.
+L346582 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ He'll not escape me.
+L346581 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Ride like wild fire, Jack.
+L346575 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Sapphire!
+L346574 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Ever wondered why Jenny Greenteeth said you needed the fastest steed on earth?
+L346571 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I could have struck off his head just now!
+L346570 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Never show mercy!
+L346569 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ He's getting away!  He was at my mercy!
+L346562 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Hurry up!
+L346561 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Don't get too far!
+L346560 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Seems to be some sort of vaulted chamber up ahead...
+L346557 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Tis a delicate operation, lad. Requires a bit of engineering... Next!
+L346556 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Can't we move any faster?
+L346552 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Ah, but you will.  And so will the Baron, when we bring a little light to his dark hideaway.
+L346551 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Hey!  Stop it!  I can't see.
+L346550 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Patience, lad.
+L346549 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Will you explain what's going on?
+L346545 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Easier than that, Jack.  Screwball!  Fetch me down a couple of them plates.
+L346544 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Plan on carrying some away in a kettle?
+L346543 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Sunlight.
+L346542 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ What weapon?
+L346541 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Nay, lad, we're here to collect a weapon you'll need fighting the Baron.
+L346540 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Did you bring me here to sup?
+L346539 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ The kitchen be the most important room in a palace, for if the victuals ain't right, little else is likely to be so.
+L346537 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ I admire your valor, Jack.  By all means, seek him out... But first, we needs visit the kitchen.
+L346536 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'm not afraid of the dark.
+L346535 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Mean you to seek him out below?
+L346534 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Aye.  Hurry now, Gump, the key!
+L346533 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Sunlight, you say?
+L346532 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Because sunlight will kill him. Quickly now, give me the key.
+L346531 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ In the dark, lad?  Why should he do that?
+L346530 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ The Baron hides in the dark in a passage under the Castle... Quick, give me the dwarf's key... the one which opens any lock...
+L346529 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ The alicorn, lad.  Come to your senses!  Unless we find Baron Couer de Noir and bring back the horn the world is doomed.
+L346528 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I don't... understand.
+L346527 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Easily... The question is, can we save ourselves?  Be a shame to win the battle only to lose the war.
+L346526 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Can you save her?
+L346525 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Nay.  You've not reckoned with the powers of faerie medicine.
+L346524 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ The wound is mortal.
+L346523 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ She's sore hurt, Jack, tis true, but not dead yet.
+L346522 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ ... the Princess Lili... I've killed her.
+L346521 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Nonsense!  Course it matters.
+L346520 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ It doesn't matter.
+L346519 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Jack!  The courtyard's been taken... The Baron's forces are besieged in the south tower.  No sign of... Jack?  Do you hear what I'm saying? We've won, lad.
+L346465 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ It's what we'll find there worries me.
+L346464 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Aye.  We're good as inside.
+L346463 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Best get down close to the moat, lad.
+L346462 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ He'll be atop the portculis ere long.
+L346454 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Fire away!
+L346453 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Then it's Godspeed, Screwball.
+L346452 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Aye.  Before the wee pesties attacked.
+L346451 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Have the engineers corrected for alignment and trajectory?
+L346450 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ That's it!
+L346449 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ One more turn...
+L346435 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ There must be some way to get it up there.
+L346434 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Will you chance a miss?
+L346433 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ That's it!  The unbreakable line! We'll tie it to an arrow and fire it up into the timbers above the portculis... then, I'll climb up and chop down the drawbridge.
+L346432 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Faerie magic's no match for a sorcerer's power... We have Ogg's gifts, the key and the --
+L346431 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ What magic have we on our side?
+L346430 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Been telling you that all along, lad.
+L346429 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ There isn't much time!
+L346428 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ And frog don't fly and bite like tomcats.  It be magic, Jack... powerful ogre's magic.
+L346427 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Water doesn't burn...
+L346404 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Never mind.  Just do it!  Retrieve the arrows somehow.
+L346403 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ There aren't enough arrows.
+L346402 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Don't loose heart... Assemble the archers.  Have everyone not holding a shield man a bow.  Shoot the damned things as they fly.
+L346401 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Easily spoken...
+L346400 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Defend ourselves.  We've bested far worse already.
+L346399 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ A fine mess this is... horrid, nipping creatures... What do we now, Jack?
+L346375 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ We do both.  Our frontal attack a diversion whilst we drive a tunnel under...
+L346374 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Why not mine the damned walls?
+L346373 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ We'll need more siege machinery and longer scaling ladders.
+L346372 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Tells you something 'bout him what lives there...
+L346370 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Pray they don't turn out to be nightmares.
+L346369 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ On the morrow I'll be awake enough to see if dreams come true.
+L346368 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ That be so, better you pinch yourself now, Jack.
+L346363 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Aye, so long as you're not too greedy for the bait.
+L346362 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ There's more than one way to spring a trap.
+L346361 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ It feels wrong, Jack... like a trap.
+L346360 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Give in to despair and all is lost.
+L346357 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ It's your own fear troubles you... We're here, aren't we?  For all the dark magic protecting it.
+L346356 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Don't like the feel of it, Jack.
+L346352 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ The chill is worse this night.
+L346351 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Never felt so cold in all me born days...
+L346324 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ No... but what choice have we?
+L346323 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Can we trust him?
+L346305 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ But seem to have gotten lost on the way.
+L346304 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Aye.  We be on a quest to set the world aright --
+L346296 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ I know the rogue, Jack.  Tis Jimmy Squarefoot.
+L346295 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Nay.  I show no pity to imps and fiends.
+L346294 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Hold, Jack!  Don't strike!
+L346290 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Nay.  This time we strike first!
+L346289 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Wait, Jack.
+L346287 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Once you thought we'd never find the Greek's armor and look at ye now, decked out like a proper hero.
+L346286 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ We'll never find the Baron's castle.
+L346285 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Long as we don't lose heart, Jack...
+L346284 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Why not admit it, Honeythorn Gump. We've lost our way entirely.
+L346275 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Aye, lad... we've little else to go by.
+L346274 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ We'll trust in faith, Gump.
+L346273 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Never knowing when it takes a turn or changes course.
+L346272 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Heading true north.  We continue in that direction.
+L346271 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Easily said... the raven passed this way hours ago.
+L346270 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ We'll find it.
+L346269 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ We're blind now.  Oona was our eyes and ears.  How do we find the Castle Couer de Noir without her?
+L346268 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ No, thank the Lord, but she be sore envenomed by the spider's bite.
+L346267 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Is she... dead?
+L346262 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Stay on your guard, Jack.  The bug is enchanted surely.
+L346261 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Archers!  Bring down that spider! I'll deal with this other creature...
+L346256 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Willful creature, that one...
+L346255 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Wait!
+L346249 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ It bodes evil.
+L346248 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ What make ye of that, Jack?
+L346247 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ There's the way, mates.
+L346246 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ God's blessing.
+L346244 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Going grows slower... we've not made... half a mile in two hours...
+L346243 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ We'll surely be in our graves if we don't.
+L346242 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ ... this rate... we'll all be in our graves... 'fore we reach the Baron's fortress...
+L346230 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Be gentle with them, Jack.  They only march to please you.  Were this a faerie journey, we'd ride the wind on thistledown and ragwort stems.
+L346229 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Make haste!  We've a hard day's march ahead.
+L346140 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Your strong right arm's all the protection I'll need this night.
+L346139 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ God protect you, Honeythorn Gump.
+L346138 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Tis not the sword that counts, but the man what swings it.  Rest easy, Jack.
+L346137 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ We're not in a tournament, Gump.  Ah, but a sword twice tempered in the blood of living dragons...
+L346136 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Don't let this talk of heroes upset you, Jack.  Sigurd's sword is no great thing.  The Volsung killed Fafnir.  You killed Lindfarne. That's one worm apiece... I'd say you and Sigurd were neck-and-neck.
+L346134 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Stoutly spoke, lad.  These dwarves be sore grouches... Pay no heed to their spiteful grumbling.
+L346133 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I pray always to be worthy of it.
+L346116 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Gump, you're putting words in my mouth.
+L346115 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ I should hope not!
+L346112 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Very secretive, they are.  Keep their feet covered up.  Best if you don't mention it.
+L346111 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Certainly understandable.
+L346110 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Dwarves be very sensitive about their feet.
+L346109 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Shhh!  Not so loud, mayhap he'll hear ye.
+L346108 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Ogg's footprints!
+L346107 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Something the matter?
+L346106 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ My God!  Look!
+L346089 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Pure gold it is... plays a different note every time.
+L346088 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Nice piece of work.
+L346083 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Here is a bold champion's reward; to serve as a dwarf's doorstop.
+L346082 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Your imagination runs away with you, Jack... Those bones be but battlefield gleanings, like I mentioned.  A wee bit of carrion to frighten off the uninvited.
+L346081 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Better to kill than be disturbed.
+L346080 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Nay.  That's but to distract the casual visitor.  A dwarf is too busy to suffer fools gladly.
+L346079 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ And this?  Some of their handiwork?
+L346078 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Jack, Jack, it's dwarves live here. Hard-working chaps.  Hammering in the forge all the live-long day. Make the most wondrous things, they do.
+L346077 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I trust our own welcome will be more hospitable.
+L346076 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Nay, Jack, tis not what you're thinking.
+L346075 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Twould appear other travelers precede us.
+L346074 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Beyond Devil's Needle, all is unknown.
+L346073 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Good.
+L346070 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ That would be Devil's Needle.  Last landmark I know in these woods.
+L346069 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Oona tells me the raven has roosted for the night on a sharp stone spire some half a mile distance.
+L346065 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Stealing his arms?
+L346064 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Well... if the knight be already dead; what harm is there in... borrowing a thing or two?
+L346063 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ There... it seems to quit... I'll wager that war held other attractions quite apart from nursing.
+L346062 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Ofttimes, the wee folk come out to tend the wounded... staunch bleeding with cobwebs... give a parched mouth a sip of dew... cool a fevered brow...
+L346061 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ What know you of fields of war?
+L346060 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Worse than the battlefield.
+L346056 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Jack, don't!
+L346055 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ The foulest.  Mayhap I can cut them free.
+L346054 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Foul fellow, this Couer de Noir.
+L346053 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Aye.  He's enchanted the lot of them.  His reward for delivering the unicorn.
+L346052 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Blackheart?
+L346051 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ This is ogre's magic.
+L346036 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Good plan that.
+L346035 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Send Oona up above the tree tops. She be our eyes.
+L346034 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ How do we follow a raven we can't even see?
+L346022 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Sounds like the bird we want.  All right lads, follow yon raven!
+L346021 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Beware.
+L346020 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Birds speak to me all the time. What did it say?
+L346019 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'm sure.  It spoke to me.
+L346018 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Aye.  Said to follow it to the edge of night.  But is this the right bird?
+L346017 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Jenny Greenteeth said:  "Follow the raven in her flight..."
+L346016 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Whatever for?
+L346015 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ We must follow that bird.
+L346010 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Aye.  And hang his foul hide up like dirty laundry for the drying.
+L346009 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Track the demon to his lair.
+L346008 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ A true and troubling question, Gump... We'll start from where the unicorn was killed.  The Baron must have left a trail.
+L346007 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ How do you plan on finding this here castle, if ye don't mind me asking?
+L346006 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ We march on Castle Couer de Noir within the hour.
+L346005 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Fine-looking army.
+L346004 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Drop a mountain on him and we won't need our troops.
+L346003 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ I'll drop a cow on the knave!
+L346002 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ You'll need more than bird droppings for Blackheart.
+L346001 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Aye!  That too.
+L346000 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Save your mischief for the Black Baron.
+L345999 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Tricks, is it?  Why I'll trick ye! Ungrateful whelp!  I'll sour your milk and bird droppings'll fall from the sky wherever ye walk.
+L345998 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ We've no time for tricks this day, Honeythorn Gump.
+L345997 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ I'm small... and I can make myself smaller still... Small as a bee! Small as dust...!  Want to see me do it?
+L345996 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ The colt's still too small.
+L345995 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Don't see why I can't ride, too! I'm second in command, damn it!
+L345975 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Careful, lad.
+L345974 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Damn them!
+L345969 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ It would appear so.
+L345968 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Pregnant, is she?
+L345965 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Something's coming.
+L345964 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ What is it?
+L345955 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Screwball!  You dolt!  I've a mind to change you into a toad.
+L345954 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Shhhh!
+L345947 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Well then, you've got the sword and you've got the armor; all's lacking is the steed.
+L345946 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I believe this is a sword such as the archangels wield.  Surely St. Michael had so fine a blade when he drove the serpent from heaven.
+L345943 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ No false modesty, lad.  You're a proper champion.  Achilles' armor sits on you like it was forged to fit.
+L345942 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ By the grace of God.
+L345938 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Better we eat him than the other way round.
+L345937 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ There be no finer victuals than worm flesh, lad.
+L345898 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ You'll know it when you see it... tis a splendid sight, all covered with gold... Don't fear making noise.  Dragons be deaf as tree stumps.
+L345897 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ What's left of me... How do I recognize the armor of Achilles?
+L345896 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ There's the spirit, lad.  If ye run into trouble, give a yank here and we'll haul ye up.
+L345895 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ You do the praying.  I've work ahead.
+L345894 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Better pray the worm's a sound sleeper, Jack.
+L345893 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Knaves and robbers...
+L345892 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Now, Jack-lad, no one's asking ye to skewer the worm.  Even St. Michael'd have a job on his hands for all that.  But the serpent hoards a pile of booty, Achilles' armor among his treasures... if we find our way within the mound and him asleep...
+L345891 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ So I'm to be a dragon-slayer, is that it?
+L345890 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ No less a creature than the Lindfarne Worm.
+L345889 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ And who might that be?
+L345888 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ A tomb it once was, boy, and a tomb it may yet be... There's another in residence at Lindfarne now.
+L345887 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Have we turned grave-robber, then?
+L345886 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ There it be, lad.  The Lindfarne Mound.  Kings long forgotten lie there, lost in their final sleep.
+L345885 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ I know where to find it.  Taking possession be another matter.
+L345884 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Twill take more than heart.  Where do we find the armor of Achilles, for a start?
+L345883 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Bravely spoke.  You've the heart of a champion, true enough.
+L345882 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'll do what I have to do, for Princess Lili's sake!
+L345881 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Time for a champion.  Can you do more than pick acorns and rob bird's nests, Jack?
+L345880 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ If the horn be restored the curse is ended.
+L345879 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Aye.  Black Baron's mischief.
+L345878 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Did you hear?  Twas the killing of the unicorn caused it.
+L345877 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Lamentable news, Jack... but tis the fate of the living concerns us now.
+L345876 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ The princess is dead.
+L345828 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Fie on what she thinks!  You mind her claws and teeth... Cast your spell, Oona.
+L345827 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ And if she thinks me a liar?
+L345826 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Here now.  Toss her this when you've the chance.  Jenny Greenteeth can't resist the sight of herself in a glass.  She's terribly vain.  Praise her beauty and you'll lull her sweet as a babe in a cradle.
+L345825 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Don't get caught, that's what! She'll suck your bones like honey- comb.
+L345824 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ What do I do?
+L345823 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Aye.  That foul wallow be where Jenny Greenteeth dwells.  Oona... lure her out.  Play the part of a girl-child.
+L345822 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Are we here?
+L345820 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Aye.  On the morrow we go, but tonight...  ... tonight is for making merry.
+L345819 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Will you lead me to her?
+L345818 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Think there be truth only in beauty, lad?  If you've the courage to ask and take care to avoid her terrible claws, Jenny Greenteeth has the answers you seek.
+L345817 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ How is it this hag knows the truth?
+L345816 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Someone worthy of respect, lad.  She be a water spirit, lives in a bog down at sea-side.  Hideous creature to look at, even by my doubtful standards; devours little children, she does, when she can catch them.
+L345815 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Jenny Greenteeth?  Who's she?
+L345814 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ True... But it won't come easy or free.  If ye want to ask, ask Jenny Greenteeth.
+L345813 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ There must be an answer somewhere.
+L345812 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Course we care.  What good's the world locked in a season of death. Frozen up, no folks to scare out of their wits on a summer's night; no babies to tickle; no more spells to cast... Think that's an enjoyable prospect?
+L345811 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Don't you care about what's happened?
+L345810 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ If ye want more tricks, I'm your man, but for big questions ye must go elsewhere.
+L345809 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Then, what's gone wrong?  Why did it happen?
+L345808 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ That much magic I can offer ye, a small measure of entertainment at best.  Making the world a frozen hell is beyond me modest powers.
+L345806 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ If you're looking for enchantment, Jack, that I can give thee...
+L345805 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Don't you know?
+L345804 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Aye.  Honeythorn Gump'd be a powerful wizard indeed could he answer.
+L345803 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Why has this happened to the world? Why is it winter now, and dark?
+L345802 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Big question that, lad.  Why what?
+L345801 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ But... but, why?
+L345799 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ He is afraid of enchantment!  Will you listen to the fool prattle on.
+L345798 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Please don't misunderstand.  I am grateful for your hospitality and --
+L345797 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Generally known!  What general ever knew more than to lace up his boots?
+L345796 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Well... I... I don't want to be rude, but... it's generally known that --
+L345795 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Are ye afraid of me wine?  Did your momma tell ye never to take food nor drink from the Wee Folk?  Think if ye sup with the faeries you'll be enchanted?
+L345794 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ It looks... er, delicious...  Such a fine bouquet... very aromatic...
+L345793 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Elderberry wine.  No finer drink under heaven.
+L345791 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ What does she want from me?
+L345790 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Why, Jack-lad, she likes you, is all.  And what hot-blooded hero wouldn't welcome the affections of a fair nymph like Oona here...?  If your blood runs so cold, boy, you be a corpse before your time.
+L345783 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Mayhap you be the one what's lost, and she safe by the castle hearth... but, come Jack, we'll warm your bones.
+L345782 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I fear she's lost.
+L345781 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ I've laid eyes on no mortal but you this day, Jack.
+L345780 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Twas the Princess Lili gave me the answer... have you seen her, by chance?
+L345779 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ You have me word, lad.  To answer a faerie riddle deserves as much.
+L345778 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'm honored, Honeythorn Gump... but no more tricks.
+L345777 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ You be our guest, Jack.
+L345776 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Well spoke.  True to the mark.  And if it's wine you're wanting, it's wine we shall have.
+L345775 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ A riddle without an answer is but an empty cup when you're thirsty for wine.
+L345774 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Damnation!  Codfish and cockles! Gammon and trotters!  You've bested me, Jack.
+L345773 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ The flower.  Bluebells.  To hear them ringing means your life's at an end.
+L345772 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ What!
+L345771 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ It's bluebells!
+L345768 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Why, Jack, then tis your death song I'll be strumming.
+L345767 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ And if I cannot?
+L345766 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Didn't you now?  Well then, answer me this riddle and all be forgiven.
+L345765 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I meant no disrespect.
+L345764 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ You'll have a long, long rest in the tomb, me lad.
+L345763 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ No... I... I need to rest.
+L345762 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ And how is it a mortal dare dictate to the faerie folk?  Is me music not to your liking?  Mayhap the dance of death by more your pleasure.
+L345761 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Enough!
+L345758 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Dance, Jack!  The night's but begun.
+L345757 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ No!  Tis not the time!  I want no part of your frolic.
+L345754 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ To be sure.
+L345753 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Faerie ring?
+L345752 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Oh, but you will be, Jack... Think you to sleep in a faerie ring and not spend the night a-dancing?
+L345751 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'm in no mood for dancing.
+L345750 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Aye, Honeythorn Gump, come to serenade you, Jack... come to make you dance.
+L345749 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Gump, is it?
+L345748 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ So, Jack... think you be a Green Man and not know Gump.
+L346568 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Sorry.
+L346567 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Dolt!
+L346547 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ They'll do nicely.
+L346546 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ How're these?
+L346448 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Good, lad... Here, Jack, give me a hand with the windlass... There's a good fellow...
+L346447 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Nay, Sire, I'll cling to it as to life itself...
+L346446 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Start acting like you're worthy of this mission... Here.  Whatever you do, don't dare drop it.
+L346441 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Rise, Screwball, and into the basket with you.
+L346440 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Aye... my Lord...
+L346439 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ You'll do it because I am you liege and I command you to do it!
+L346438 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Someone like Floki... or Squarefoot... or --
+L346426 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ They've fired the moat!
+L346425 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Sweet slippers of Oisin!
+L346424 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Very thrifty.  Even got your arrow back.
+L346423 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Look at that shot!  Three at once! I can't miss!
+L346266 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Three cheers for our champion.
+L346265 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Well done, lad.
+L346104 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Gonna make ogre-stew!
+L346103 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ We seek to undo the curse.
+L346072 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Screwball!  Be quiet...!  We have friends live 'neath the Needle. They'll no doubt provide safe refuge for the night.
+L346071 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Ogg lives there...!  And Thurgis!
+L346048 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ These chaps'll need a woodpecker to pick their teeth.
+L346047 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ You see!  You see!
+L346040 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ No, no, no... this is different!
+L346039 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Barely living, from the looks of it.
+L345982 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Wolf-slayer, worm-sticker... give a cheer for the champion!
+L345981 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Well done, lad.  Stout heart.
+L345941 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Nay.  Jack's the dragon-slayer, ain't you, Jack.
+L345940 +++$+++ u1784 +++$+++ m118 +++$+++ GUMP +++$+++ Hush up, Screwball.  Do your own worm-sticking if you like the taste so well.
+L345939 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Keep me belly full, Jack.  Kill us another worm.
+L346655 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Ow!  Whatever it is, it hurts.
+L346654 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Oona?  Do you suppose it's a faerie?
+L346653 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Nor can I.  Damn!  It's buzzing all around me.  Ouch!  I can hear it like a fly trapped inside my ear... Says its name is Oona!
+L346652 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ I can't see a thing.
+L346651 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Everywhere!  Ow!
+L346650 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Pinching?  Where?
+L346649 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Pinching me!
+L346648 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Biting you?
+L346647 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Ouch!  Something's biting me.
+L346646 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ What's the matter?
+L346644 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ And I love you, my husband.
+L346643 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Lili... I love you!
+L346642 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ You wear your weeds as well as golden armor, Jack.  Like a true Prince... a champion!
+L346641 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ But... I am a Green Man.  I have no title, nor lands... scarce even a few vines and threads to keep the cold from my body.
+L346640 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Nay, dearest Jack... you are to be my husband.  I want none other.
+L346639 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ You're teasing still.
+L346638 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Oh no, dearest Jack... I meant every word.
+L346637 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Is what you said about the ring but another dream?
+L346636 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Seemed like weeks and weeks.  Such a terrible dream... I could never tell you...
+L346635 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I can't have been under much more than a minute.
+L346634 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Sweet Jack.  I'm so sorry you found me asleep.  Don't know what came over me.
+L346633 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Whilst you were sleeping, I fetched your ring.
+L346632 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Oh!  Green Jack!  What a dream I've had... proper nightmare.
+L346518 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ And I... love you...
+L346517 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ No!  Don't let go... you mustn't!  I love you!
+L346516 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ In the dark... where I join him...
+L346515 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ So, he's hiding in the dark...
+L346514 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ That's why he goes masked during the day...
+L346513 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Sunlight?
+L346512 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Sunlight... It destroys him.
+L346511 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ What?
+L346510 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ No... it's not you he's afraid of, it's... light...
+L346509 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ It's the Baron's damnable work!  Too cowardly to stand and fight... he used you to save himself.
+L346508 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ You've freed me, Jack...
+L346507 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ No!  I won't let it happen...
+L346505 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ They told me you were dead.
+L346504 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ I was bewitched... it's better this way...
+L346503 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I thought you were dead... I --
+L346502 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Only what's right...
+L346501 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ What have I done?
+L346500 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Jack... Forgive me...
+L346499 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Lili!  No!
+L345741 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ What if I answer yes?  Will my wish come true?
+L345740 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Do you wish it, Jack?  Wish you this our wedding band?
+L345739 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ If wishes were horses even beggars would ride.
+L345738 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Then, perchance you'll me.
+L345737 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I have no wife.
+L345736 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Be it fit for your wife, Green Jack?
+L345735 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Tis not fit for a princess.
+L345734 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Let it.  Haven't you a cozy bower we might hide in?
+L345733 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'm afraid it may storm.
+L345731 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Oh, la...
+L345730 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ My heart intends no more than that you love me as I do you.
+L345729 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Nay, Jack, I'm but wary of your intentions.
+L345728 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ My lady mocks me.
+L345727 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ If I were your bride, would the kissing ever stop...?  Do you wish to marry me, Jack?
+L345726 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ There's no happier thought under heaven.
+L345725 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ A maid must beware of flattery... Methinks you want to kiss me.
+L345724 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Tis the truth.
+L345723 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Jack... Green Jack, you mustn't flatter me so.
+L345722 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Not even the birds sing sweet as you.
+L345720 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Do you think memory can be washed away like a few spots of blood?
+L345719 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ I don't want to be reminded of what happened.
+L345718 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Its powers are strong.
+L345717 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ I don't want it on me.
+L345716 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ There are many would pay a king's ransom for a few drops of unicorn blood.
+L345715 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Good.  They'll never catch him. There's not a mount in the kingdom can outrun a unicorn.
+L345714 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Oh, yes, and the mare with him.
+L345713 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ He did run?
+L345712 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ It happened so fast.  He was hurt and ran away.
+L345711 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ How bad was the unicorn's wound?
+L345710 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ My own father...
+L345709 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ They tricked you.
+L345708 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ I didn't know... I didn't...  It was so lovely... he was in my lap like... like a baby... and... I...
+L345707 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Damned hunters.  It was a trap, and you were the bait!
+L345706 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ My father and the Baron.
+L345705 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Who?
+L345704 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ I don't know.  They've hurt the unicorn.
+L345703 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ What happened?
+L345700 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ To fetch your napkin.
+L345699 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Where are you going?
+L345698 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'm not your judge... nor have I any desire to witness the trial.
+L345697 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ I've no fear of failure.  Your implications are most unbecoming.
+L345696 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Not if you be chaste.  Tis an awesome test of virginity.
+L345695 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ He'll not flee if I show myself?
+L345694 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Tis a fair question.  If you be a virtuous maid the unicorn will lay his head in your lap.
+L345693 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Jack!
+L345692 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Are you honest?
+L345691 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Oh Jack, mightn't I touch one?  It would thrill me so.
+L345690 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ They rival the angels of paradise.
+L345689 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Such grace... and their smell; it's ambrosia.
+L345686 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ In these woods you are a commoner. Now be quiet.  True royalty approaches.
+L345685 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ I am a princess.  You have no right to order me about.
+L345684 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Shhh!
+L345683 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ How much longer?
+L345679 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Your command is my wish, Princess Lili.
+L345678 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ The napkin will keep.  I'd rather not be alone.
+L345677 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'm not its master.
+L345676 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Don't leave me now.  I fear the unicorn won't show himself without you.
+L345675 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'll go search for it.
+L345674 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ I've lost my napkin.  It was all elf-work and lace... I must have dropped it when you startled me so.
+L345673 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ What's the matter?
+L345672 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Oh, dear.
+L345671 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Be patient.
+L345670 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ What shall we do?
+L345669 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ That viper has envenomed the water. No animal will drink here now.
+L345668 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ I detest serpents.
+L345667 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Only were he a fool to boot.  See yon viper?
+L345666 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ A gentleman would offer water.
+L345665 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Stop complaining.
+L345664 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Let's rest a minute.  I'm so thirsty.
+L345663 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ All right.  I'll show you something sacred.
+L345662 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ A promise is a sacred oath.
+L345661 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Unicorn?
+L345660 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Oh, fie.  What about the unicorn?
+L345659 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Blackheart.  Aptly named.
+L345658 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ The Baron is a frightful man.  They say he's an ogre.  He wears a mask so none may see his face.
+L345657 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Sport, indeed.
+L345656 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ It's my father, gone a-hunting.  The Baron Couer de Noir is his guest and must be provided with some sport.
+L345655 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Or perchance...
+L345654 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Liar!
+L345653 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I may have said perhaps...
+L345652 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ But you did... you did!
+L345651 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Never.
+L345650 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ You promised!
+L345648 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ If you like.
+L345647 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ These for me?
+L345646 +++$+++ u1788 +++$+++ m118 +++$+++ LILI +++$+++ Oh, Jack, you are a wild man to use me so.
+L345645 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Greetings, my lady, the green wood is honored.
+L346128 +++$+++ u1789 +++$+++ m118 +++$+++ OGG +++$+++ Another hero's hand-me-down... Thurgis, note the armor; tis Greek work.
+L346127 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Sigurd's sword...
+L346114 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ His feet shall never cross my lips.
+L346113 +++$+++ u1789 +++$+++ m118 +++$+++ OGG +++$+++ Step lively now!
+L346102 +++$+++ u1789 +++$+++ m118 +++$+++ OGG +++$+++ Thought the weather terrible of late.
+L346101 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ We seek the ogre, Baron Couer de Noir.  He slew a unicorn and plunged the world into eternal winter.
+L346100 +++$+++ u1789 +++$+++ m118 +++$+++ OGG +++$+++ Grand champion, is it?  And what great cause leads you to me?
+L346099 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Honored to make your acquaintance.
+L345875 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ What a fine meal you'd make, be the rest of you sweet as your tongue.
+L345874 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ As a hummingbird returns to the fairest blossom.
+L345873 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ You'll visit again?
+L345872 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Tis not the time to speak of cheer.
+L345871 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ Don't be sad, Jack, not with me here to give you cheer.
+L345870 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ This is sad news, be it true.
+L345869 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ Far as you're concerned she's dead, believe it or not.
+L345868 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I don't believe you.
+L345867 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ Dead, dead, dead.
+L345866 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ No!
+L345865 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ She's dead!
+L345864 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Twould be to compare one star with another in the summer sky.
+L345863 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ As fair as me?
+L345862 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Exceeding fair.
+L345861 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ Is she fair, this princess?
+L345860 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Princess Lili, Godwin's daughter. She was with me when calamity struck, but after I could find no trace of her.
+L345859 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ Princess?  I know of no princess.
+L345858 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ What became of the princess?
+L345857 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ Ask away, sweet man.
+L345856 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Nay.  Tempting as your invitation be.  Tell me one thing more.
+L345855 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ Come sit beside me, sweet boy, and I'll draw you a map.
+L345854 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Not very precise directions.
+L345853 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ Follow the raven in her flight, Follow old black wing to the edge of night...
+L345852 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Where do I find the Baron's castle?
+L345851 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ You'll need the fastest steed alive, for Couer de Noir's castle rests at the very edge of the earth.  Only the sharpest sword and the golden armor of Achilles will protect you from his fury.
+L345850 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ How do I get the horn back?
+L345849 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ That would be the Baron's way. There'll be no light or life in the world until the alicorn is taken from him and he vanquished.
+L345848 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ He chopped off the horn and left the rest to rot.
+L345847 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ Couer de Noir!  A demon if the Devil ever made one.
+L345846 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Here be the death weapon; the unicorn's blood dry upon it.
+L345845 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ Why then, there thou hast.  We be lucky worse has not befallen us.
+L345844 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ A unicorn's been slain.  The last stallion in all the country.
+L345843 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Dear lad, what does winter bespeak but death?  It is a time of mourning.  This calamity is a curse. Something wondrous and beautiful has been taken from the world.
+L345842 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Aye.  And it is the trouble befallen us that brings me here.  I entreat you to tell me the cause of our surrounding sorrow, most lovely of the lovely.
+L345841 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ I like well your conceit, Jack.  Tis rare to find an honest lad in this troubled world.
+L345840 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ The sight of you makes flowers seem like dross.  All the heavenly angels must envy your grace.
+L345839 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ The moon is too round of face, methinks.
+L345838 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ The moon herself would hide behind a cloud rather than dare comparison with you...
+L345837 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ Think me fair, do you, Jack?
+L345836 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Your fair smile be thanks enough. Better I stand afar to admire your beauty complete.
+L345835 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ Come closer then, Jack, that I might give you proper thanks.
+L345834 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ They call me Green Jack, ma'am.
+L345833 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ Well spoke, boy.  You have discerning taste for one so young... Just who might you be?
+L345832 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I bring you the only treasure worthy of your loveliness... for naught else in the universe rivals the reflected glory of your beauty.
+L345831 +++$+++ u1786 +++$+++ m118 +++$+++ JENNY +++$+++ What's this now?
+L346252 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ True north...  Straight up that pass, through the net.
+L346251 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Heading north still?
+L346250 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ Is this a May Day pageant?  Are you all off on a lark...?  The raven passed this way hours ago!
+L346226 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ You beware, Jack!  You and your porridge-pot heart!
+L346225 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Be fair, Oona.
+L346224 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ I would build a wall around me with such stone, so the likes of you might never enter.
+L346223 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ And as barren of love as stone.
+L346222 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ What care I for the human heart! Such a soft, spiritless thing it is. I prefer the hearts of hawks and wolves; fierce and free and keen as steel!
+L346221 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Threats won't make me love you.  Tis not the way of the human heart.
+L346220 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ Why should I feel such pain?  Should be the other way round... I could vex you... make you dance your life away...
+L346219 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Please...
+L346218 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ You... you... you mortal you!
+L346217 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Oona... don't cry... please, you mustn't...
+L346167 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ What shape I take matters not.  Long you for another?  I'll give you your heart's desire.
+L346166 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'm promised to another!
+L346165 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ A faerie's love makes anything possible.
+L346164 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Nay, Oona, tis not possible.
+L346163 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ Pray you be sweet as your words, dear Jack.
+L346162 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Sweeter than bee pollen on a summer wind.
+L346161 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ And sweet?
+L346160 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ You are fair as the first new flower of spring...
+L346159 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ Tell me I'm fair, as you did the hag.
+L346158 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ How so?
+L346157 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ Jest with me then.
+L346156 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ That was in jest.
+L346155 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ Then why do you speak sweeter words to Jenny Greenteeth?
+L346154 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Wondrously so.
+L346153 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ And am I not fair?
+L346152 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ In every way.
+L346151 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ Do I not please you, Jack?
+L346150 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I had no thought of offending you, Oona.
+L346149 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ Fie!  Don't speak of charms.  I should charm you for being so dull- witted.
+L346148 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ And charmed, of course.
+L346147 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ Only that?
+L346146 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'd be honored.
+L346145 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ I'm partial to oaks, as are all faerie folk.  Mayn't I come visit sometime?
+L346144 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I live in an abandoned fox den neath the roots of a thousand-year-old oak.  My bed is pine boughs and rabbit skins.  There's no need of weaponry to keep the maids away.
+L346143 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ Then, tis not for chastity? Methought you kept a naked blade twixt you and any maiden chanced spend the night.
+L346142 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Never even had a sword in my hand until yesterday.
+L345992 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ No fear of that now.
+L345991 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ Such a sad world, be there no unicorns to brighten it.
+L345985 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ No need for bells, Jack.  I'll nay enchant ye.
+L345984 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Then I'd kiss you without turning my garments inside-out and sewing bells all over.
+L345983 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ Were I a mortal girl, Jack, methinks I'd be in love with you.
+L345959 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ Sorry.
+L345958 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ This is not the time for squabbling.
+L345900 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I pray God grants it me.
+L345899 +++$+++ u1790 +++$+++ m118 +++$+++ OONA +++$+++ Courage, Jack.
+L346627 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ No speeches!  What's a little swim after sticking worms and ogres?
+L346626 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Your fond wishes give me strength, dear friends.
+L346573 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ It's done... we'll never catch him.
+L346572 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Sorry, Jack.
+L346472 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Done like a champion.  Can you reach me with the line?
+L346471 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Hello, Jack.
+L346444 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Or a kite...!  We could make a kite... Let the wind do the work --
+L346443 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Haven't heard a bird sing in days...
+L346442 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Maybe there's a better idea... What about birds... get a lift from some friendly bird...
+L346085 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Bah!  You faeries have the morals of ferrets.
+L346084 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ What care the bones when the soul is free?
+L346067 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ His honor, I suppose... seeing he no longer can defend it.
+L346066 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ What can you steal from a man already lost his life?
+L346045 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Come on, Gump, let's have a look at this witchcraft.
+L346044 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Up ahead!
+L346043 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Where?
+L346038 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Of course they're alive.  All nature is living.
+L346037 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Master Jack!  Master Jack!  These woods are alive!  They're alive!
+L345990 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Small miracles better than no miracles...
+L345989 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Praise be to God.
+L345980 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ Watch behind or I'll never collect on it!
+L345979 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'm in your debt, Screwball.
+L345967 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I think she's about to foal.
+L345966 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ What's she doing?
+L345961 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ We wait.
+L345960 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ What do we do now?
+L345949 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I know where to find him... He lies out on the marsh, raven-fodder; his horn torn from his head.
+L345948 +++$+++ u1791 +++$+++ m118 +++$+++ SCREWBALL +++$+++ The fastest in the world.
+L346238 +++$+++ u1792 +++$+++ m118 +++$+++ THURGIS +++$+++ May God protect you.
+L346237 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ You're with us in battle.
+L346131 +++$+++ u1792 +++$+++ m118 +++$+++ THURGIS +++$+++ You're well equipped, I'd say. Legendary arms...
+L346130 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Achilles wore it before the gates of Troy.
+L346129 +++$+++ u1792 +++$+++ m118 +++$+++ THURGIS +++$+++ Uhm... fine work.
+L346126 +++$+++ u1792 +++$+++ m118 +++$+++ THURGIS +++$+++ Sigurd the Volsung slew Fafnir with that blade... See the line where Regin welded the break?
+L346125 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ The Avatar.  I like the sound of it.
+L346122 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I slew the Lindfarne Worm with it.
+L346121 +++$+++ u1792 +++$+++ m118 +++$+++ THURGIS +++$+++ How came you by this blade?
+L346120 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Oh, but I have.
+L346119 +++$+++ u1792 +++$+++ m118 +++$+++ THURGIS +++$+++ Each fit for a hero... My uncle fashioned a hammer for Thor.  Twas he named it Mjolnir.  Grandfather forged Excalibur... You won't ever see finer craftsmanship.
+L346367 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Don't speak to me of dreams!  I feel I've been dreaming since the unicorn was killed.
+L346366 +++$+++ u1787 +++$+++ m118 +++$+++ JIMMY +++$+++ In a dream.
+L346365 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ You've been inside?
+L346364 +++$+++ u1787 +++$+++ m118 +++$+++ JIMMY +++$+++ Plenty treasure inside... Jimmy seen it once.
+L346355 +++$+++ u1787 +++$+++ m118 +++$+++ JIMMY +++$+++ Nay.  Castle Couer de Noir is Devil's work... built with sorrow and grief...
+L346354 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ A castle's but stone and mortar --
+L346353 +++$+++ u1787 +++$+++ m118 +++$+++ JIMMY +++$+++ It be the castle... we feel the castle... it be that close...
+L346322 +++$+++ u1787 +++$+++ m118 +++$+++ JIMMY +++$+++ You follow.
+L346321 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Let that be our problem, just get us there.
+L346318 +++$+++ u1787 +++$+++ m118 +++$+++ JIMMY +++$+++ That very nice.
+L346317 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ There'll be spoils aplenty if you guide us there.  Once we breach the walls, help yourself to all you can carry.
+L346316 +++$+++ u1787 +++$+++ m118 +++$+++ JIMMY +++$+++ To Castle Couer de Noir?
+L346315 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Can you show us the way?
+L346312 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ You do know where it is?
+L346311 +++$+++ u1787 +++$+++ m118 +++$+++ JIMMY +++$+++ Castle Couer de Noir built with magic... simple as death... strong as hate...
+L346310 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Simple as that, eh?
+L346308 +++$+++ u1787 +++$+++ m118 +++$+++ JIMMY +++$+++ Jimmy Squarefoot no lost.
+L346307 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Much good we do the world, for all our noble quest...
+L346306 +++$+++ u1787 +++$+++ m118 +++$+++ JIMMY +++$+++ Lost?
+L346303 +++$+++ u1787 +++$+++ m118 +++$+++ JIMMY +++$+++ The Black Baron, you say?
+L346302 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Forgive my blood haste, Jimmy Squarefoot, but I want no more surprises from Couer de Noir.
+L346300 +++$+++ u1787 +++$+++ m118 +++$+++ JIMMY +++$+++ Yes, yes... Jimmy Squarefoot good friend to one and all...
+L346299 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ Is he a friend, then?
+L346293 +++$+++ u1785 +++$+++ m118 +++$+++ JACK +++$+++ I'm sending you back to Hell!
+L346292 +++$+++ u1787 +++$+++ m118 +++$+++ JIMMY +++$+++ No hurt Jimmy, sir... oh no, please, sir...

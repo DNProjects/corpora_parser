@@ -1,0 +1,504 @@
+L569750 +++$+++ u3128 +++$+++ m205 +++$+++ ANDY +++$+++ I can get you front and center. What do you like? I can get you Mets, Knicks, Rangers? Hell, I can get you the Mayor's box.
+L569749 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Huh?
+L569748 +++$+++ u3128 +++$+++ m205 +++$+++ ANDY +++$+++ You like ball games?
+L569746 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ They'd never get me to go back. They'd have to shoot me first.  You got anything to carry these in? 
+L569745 +++$+++ u3128 +++$+++ m205 +++$+++ ANDY +++$+++ It's hell out there all right. A real shit-eatin' war. I'll say this, though: It's bringing a lot of fantastic guns. The market's flooded. Colt automatics are all over. 
+L569744 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Yeah. I was all around. One hospital, then the next.
+L569743 +++$+++ u3128 +++$+++ m205 +++$+++ ANDY +++$+++ Vietnam? I saw it on your jacket. Where were you? Bet you got to handle a lot of weapons out there.
+L569742 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Huh?
+L569741 +++$+++ u3128 +++$+++ m205 +++$+++ ANDY +++$+++ You in Nam? Can't help but notice your jacket?
+L569740 +++$+++ u3128 +++$+++ m205 +++$+++ ANDY +++$+++ Sure, here, take this card, go to this place and give 'em the card. They'll charge you, but there won't be any hassle.
+L569739 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Is there a firing range around?
+L569738 +++$+++ u3128 +++$+++ m205 +++$+++ ANDY +++$+++ You can't carry in a cab even with a permit -- so why bother?
+L569737 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Nah, this'll be fine.
+L569736 +++$+++ u3128 +++$+++ m205 +++$+++ ANDY +++$+++ Well, you're talking big money now. I'd say at least five grand, maybe more, and it would take a while to check it out. The way things are going now $5.000 is probably low. You see, I try not to fool with the small-time crap. Too risky, too little bread. Say 6 G's, but if I get the permit it'll be as solid as the Empire State Building.
+L569735 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ How much to get a permit to carry?
+L569734 +++$+++ u3128 +++$+++ m205 +++$+++ ANDY +++$+++ The .32's $150 -- and you're really getting a good deal now -- and all together it comes to, ah, seven eighty- five for four pieces and a holster. Hell, I'll give you the holster, we'll make it seventy-five and you've got a deal -- a good one.
+L569733 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ How much for everything.
+L569732 +++$+++ u3128 +++$+++ m205 +++$+++ ANDY +++$+++ That's the Colt .25 -- a fine little gun. Don't do a lot of damage, but it's as fast as the Devil. Handy little gun, you can carry it almost anywhere. I'll throw it in for another $125.
+L569731 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I want a .32. Revolver. And a palm gun. That .22 there.
+L569730 +++$+++ u3128 +++$+++ m205 +++$+++ ANDY +++$+++ Some of these guns are like toys, but a Smith and Wesson, man, you can hit somebody over the head with it and it will still come back dead on. Nothing beats quality.  You interested in an automatic?
+L569727 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I got money.
+L569726 +++$+++ u3128 +++$+++ m205 +++$+++ ANDY +++$+++ That's an expensive gun.
+L569725 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ You got a .44 Magnum?
+L570071 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Sure.
+L570070 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Maybe I'll see you again sometime, huh?
+L570069 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Yeah.
+L570068 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Travis?
+L570067 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Thank you, Travis.
+L570066 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ No, no, please. This fare's on me. Please.
+L570064 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Oh, I got over that. It was nothing, really. The papers always blow these things up.  A little stiffness. That'll go away. I just sleep more, that's all.
+L570063 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ How are you, Travis? I read about you in the papers.
+L570062 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Well, I hope he wins.
+L570061 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Yes. It won't be long now. Seventeen days.
+L570060 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I see where Palantine got the nomination.
+L570059 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Hello, Betsy.
+L570058 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Hello, Travis.
+L569688 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Can I call you?
+L569687 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Keep it.
+L569686 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ What about the record?
+L569685 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ I'm getting a taxi.
+L569684 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ But... Betsy...
+L569683 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ It's very simple. You go your way, I'll go mine. Thanks anyway, Travis.
+L569682 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Huh?
+L569681 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ No, I don't feel so good. We're just two very different kinds of people, that's all.
+L569680 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ You mean you don't want to go to a movie?  There's plenty of movies around here.
+L569679 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ No, Travis. You're a sweet guy and all that, but I think this is it. I'm going home.
+L569678 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ ...there's plenty of movies around here. I haven't seen any of them, but I'm sure they're good.
+L569676 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ We can go to another movie if you like, I don't care. I got money. There's plenty...
+L569675 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ My God!
+L569674 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Well... mostly...
+L569673 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ I mean porno movies.
+L569672 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ This is sort of high class...
+L569671 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ You mean these are the only kind of movies you go to?
+L569670 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Well, I don't follow movies too much...
+L569669 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ These are not the kind of movies I go to.
+L569668 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ What do you mean?
+L569667 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ I'm leaving.
+L569666 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Where are you going?
+L569665 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I forgot to get the Coca-Cola.
+L569664 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ What's wrong?
+L569663 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Damn.
+L569662 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ No, these are the kind that couples go to. They're not like the other movies. All kinds of couples go. Honest. I've seen them.
+L569661 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ But this is a porno movie.
+L569660 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I bought a couple of tickets.
+L569659 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ What are you doing?
+L569658 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ No.  I thought maybe you could play it for me on your player.
+L569657 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ So you haven't heard this record yet?
+L569656 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I don't follow music much. I'd like to though.  Honest.
+L569655 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Your stereo broke? God, I could hardly stand that. I live on music.
+L569654 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Yeah, well my stereo player is broke. But I'm sure the record is OK.
+L569653 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Travis, you haven't even played the record?
+L569652 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ He'll, what else can I do with it all?
+L569651 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ You didn't have to spend your money -- ?
+L569630 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Kris Kristofferson.
+L569629 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Yeah. Yes. I don't follow music too much.
+L569628 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ The singer?
+L569627 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Oh. Who was that again?
+L569626 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I didn't mean that, Travis. Just the part about the contradiction.
+L569625 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I'm no pusher, Betsy. Honest. I never have pushed.
+L569624 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ That song by Kris Kristofferson, where it's said "Like a pusher, party truth, partly fiction, a walking contradiction". 
+L569623 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ What?
+L569622 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ You know what you remind me of?
+L569621 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ It keeps ya busy.
+L569620 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ You must be rich.
+L569619 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Sometimes 76 or 80. Sometimes I squeeze a few more hours in the morning. Eighty miles a day, a hundred miles a night.
+L569618 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ You mean you work seventy-two hours a week.
+L569617 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I work a single, which means there's no replacement -- no second man on the cab. Six to six, sometimes eight. Seventy-two hours a week.
+L569616 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ What hours do you work?
+L569615 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Well, no... not really... had some famous people in the cab.  I got this guy who makes lasers. Not regular lasers, not the big kind. Little lasers, pocket sized, small enough to clip your belt like a transistor radio, like a gun, you know. Like a ray gun. Zap.
+L569614 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ That's very romantic. Some of your fares must be interesting. See any stars, politicians, deliver any babies yet?
+L569613 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I didn't mean you. But just ordinary people. A guy I know -- Dough-Boy -- met his wife that way. They got to talking. She said she usually caught the bus so he started picking her up at the bus stop, taking her home with the flag up.
+L569612 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Well, I don't go to the Plaza every night.
+L569611 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ You'd be surprised how often you see the same people, get the same fare. People have patterns. They do more or less the same things every day. I can tell.
+L569610 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ That would have been quite a coincidence.
+L569609 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ South Bronx. The worst. I tried to ditch him, but he was already in the cab, so I had to take him. That's the law. Otherwise I would have picked you up.
+L569608 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ The DMZ?
+L569607 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ If it wasn't for a drunk I would have picked you up. He wanted to go to the DMZ.
+L569606 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ You're right! Now I remember! It was after the Western regional planners were in town and the meeting went late. The next day I was completely bushed. It was unbelievable.
+L569605 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ No. It was you. You had some manila folders and a pink bag from Saks.
+L569604 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Three in the morning? I don't think so. I have to go to bed early. I work days. It must have been somebody else.
+L569603 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Late one night. About three. At the plaza.
+L569602 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Huh?
+L569601 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I know. I could have picked you up.
+L569600 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Com'on, Travis. It's not that bad. I take lots of taxis.
+L569598 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ The full moon. One night I had three or four weirdos in a row and I looked up and, sure enough, there it was -- the full moon.
+L569597 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ The moon?
+L569596 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Oh, you see lots of freaky stuff in a cab. Especially when the moon's out.
+L569595 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ That's really something.
+L569594 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I shut the meter off, for one thing. I knew I wasn't going to get paid. Then I dropped him off at the cop shop. They took him.
+L569593 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ What did you do?
+L569592 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ He'd been shot. I didn't know that. He just crawled into the back seat, said "West 45th Street" and conked out.
+L569591 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Really?
+L569590 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Just people people, you know. Just people.  Had a dead man once.
+L569589 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ What kind of people?
+L569588 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Yeah, well...  In a cab you get to meet people. You meet lotsa people. It's good for you.
+L569587 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ After this job, I'm looking forward to being alone for a while.
+L569586 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I had a regular job for a while, days. You know, doin' this, doin' that. But I didn't have anything to do at night. I got kinda lonely, you know, just wandering around. So I decided to works nights. It ain't good to be alone, you know.
+L569585 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ So why did you decide to drive a taxi at night?
+L569584 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Oh, uptown. You know. Some joint. It ain't much.
+L569583 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Where do you live?
+L569582 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I can believe that.
+L569581 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Travis, I never ever met anybody like you before.
+L569580 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I know what you mean. I've got the same problems. I just can't get things organized. Little things, I mean. Like my room, my possessions. I should get one of those signs that says, "One of these days I'm gonna get organezizied"
+L569579 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ We've signed up 15,000 Palantine volunteers in New York so far. The organizational problems are becoming just staggering.
+L569575 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Thank you, Travis.
+L569574 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ My name is Travis.
+L569573 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Yes?
+L569572 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Oh, I appreciate that, Betsy mam. I'll be here at four o'clock exactly.  And... ah... Betsy...
+L569571 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ All right.  All right. I'm taking a break at four o'clock. If you're here then we'll go to the corner and have some coffee and pie.
+L569570 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ It's just to the corner, mam. In broad daytime. Nothing can happen. I'll be there to protect you.
+L569569 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ I don't know...
+L569568 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Well, Betsy mam, I drive by this place here in my taxi many times a day. And I watch you sitting here at this big long desk with these telephones, and I say to myself, that's a lonely girl. She needs a friend. And I'm gonna be her friend. 
+L569567 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Why?
+L569566 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ If you don't mind, mam, I'd be mighty pleased if you'd go out and have some coffee and pie with me.
+L569565 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Well, then, what is it you exactly want to do?
+L569564 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Well, Betsy mam, I drive a taxi at night.
+L569563 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Well, we're all working tonight.
+L569562 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ If you don't mind, mam, I'd rather work for you.
+L569561 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ If you talk to Tom, he'll assign you to something.
+L569560 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I'm a good worker, Betsy mam, a real good worker.
+L569559 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Well, that's not exactly what the Senator has proposed. You might not want to canvass, but there is plenty more other work we need done: Office work, filing, poster hanging.
+L569556 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Yes, mam.
+L569555 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ You want to canvass?
+L569554 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Oh, I think he's a wonderful man. Make a great, great President.
+L569553 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Charles Palantine. The man you want to volunteer to help elect president.
+L569552 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Who mam?
+L569551 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Is that so?  But what do you think of Charles Palantine?
+L569835 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ Now look more closely. Look around the eyes and chin. See? See there?
+L569834 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ No, I don't think so.  That's someone else.
+L569832 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ Just follow me.
+L569831 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ What is it? I'm busy.
+L569830 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ Betsy, come over here a moment.
+L569544 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ Show me how he did that again.
+L569543 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ No, this is young -- well, I'm never sure how old Black people are -- but, anyway, he isn't old. That's for sure.
+L569542 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ I know that guy. His hand looks like a paw. An old Black guy, the newsstand at --
+L569541 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ No, stupid. With the stubs. That's the whole point.
+L569540 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ With the other hand, right?
+L569539 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ First, he's not Italian. Second he's not a thief. I noticed the fingers when he was getting my change -- the right change. Two of his fingers are missing. Just stubs. Like they were blown away. I was putting my change in my purse when I saw him get out a cigarette. I couldn't help watching. I was dying to see how he'd light it.
+L569538 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ I don't know. Maybe they don't leave a canary. Don't be technical. What I'm saying is if this newsstand guy's Italian and his fingers are gone, maybe he's a thief.
+L569537 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Why don't they leave a pigeon instead of a canary?
+L569536 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ Don't be naive. They can't kill everybody. They have different punishments for different things. Like, if they kill a stool pigeon, they leave a canary on the body. It's symbolic.
+L569535 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ As I said, he isn't Italian. Besides, I thought they just killed them.
+L569534 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ Well, If he had been Italian, they could have been shot off. Sometimes the mob does that to teach guys a lesson, If they blow a job or something.
+L569533 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ He's Black, OK?
+L569532 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ You sure he's not Italian?
+L569531 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ No, why?
+L569530 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ Is he Italian?
+L569529 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ He happens to be missing fingers. I first noticed when --
+L569528 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ Ah, yes, the guy at the newsstand, Mr. Asbestos...
+L569527 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ No. I just wanted to see if you could light it that way. The guy at the newsstand can.
+L569526 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ I'm great. Always set my fingers on fire. If you want to see another trick. I do this thing with my nose.
+L569525 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Oh, are you all right?
+L569524 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ Ouch!
+L569523 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ This I gotta see.
+L569522 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ This is gotta be a game, right?
+L569521 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Try holding the match like this.
+L569466 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ I don't know -- but it feels like a long time.
+L569465 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ How long has he been there?
+L569464 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ That taxi driver. The one that's been sitting here.
+L569463 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ What taxi driver?
+L569462 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Why's that taxi driver across the street been staring at us?
+L569461 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ No, why?
+L569460 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Have you been noticing anything strange?
+L569459 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ Sure we could run him. You realize he's already head of his block association.
+L569458 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ That's the last. The finish. Period. Some people can learn. Some people can't. And you wonder why we never get serious --
+L569457 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ Well, if Cronkite's so great, why don't we run him instead?
+L569456 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Alright, now. You want to know why CBS has the highest ratings? You think their news is any different from NBC, ABC? It's all the same news. Same stories. Same order usually. What, you thought they had good news for people, right? You thought that's why people watched CBS? I'll tell you why people watch CBS. Cronkite. The man. You got it? Not the news, not the issues, the man. If Walter Cronkite told people to eat soap, they'd do it. We are selling cars, goddamn it.
+L569455 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ With who?
+L569454 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Maybe if you'd try thinking once in a while, you'd get somewhere.
+L569453 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ Kidding around... you know, fun.
+L569452 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Just what?
+L569451 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ No, c'mon, I'm listening. I was just...
+L569450 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Alright, forget it if you're not going to be serious,
+L569449 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ More people watch it.
+L569448 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Have you ever wondered why CBS News has the highest ratings?
+L569447 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ Well, for Christsakes, you sound like you're selling... I don't know what... cars... not issues.
+L569446 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Oh, Tom, please.
+L569445 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ Just didn't get around to it, huh?
+L569444 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ No, I didn't forget "sexy".
+L569443 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ You forgot "sexy".
+L569442 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ First push the man, then the issue. Senator Palantine is first of all a dynamic man, an intelligent, interesting, fascinating man.
+L569441 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ I think we should try to get maximum coverage for this new mandatory welfare program. Push the issues.
+L569440 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Andy usually just sends those to the national media. The local press doesn't know what to do with a position paper until UPI and AP tell them anyway.
+L569439 +++$+++ u3138 +++$+++ m205 +++$+++ TOM +++$+++ The senator's white paper is almost ready, Bets. Should we wait for that?
+L569438 +++$+++ u3129 +++$+++ m205 +++$+++ BETSY +++$+++ Tom, come here a moment.  I think this canvas report is about ready to go out. Check it out with Andy, and if he okays if, have a copy made for the campaign headquarters in every county.  And don't forget to add the new photo releases.
+L569434 +++$+++ u3130 +++$+++ m205 +++$+++ CONCESSION GIRL +++$+++ That's a dollar forty-seven.
+L569433 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ That's fine.
+L569432 +++$+++ u3130 +++$+++ m205 +++$+++ CONCESSION GIRL +++$+++ We don't have ju-jukes. We don't have Coca-Cola. We only got Royal Crown Cola.
+L569431 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ No, no, it's alright. I'll have a big Coca-Cola -- without ice -- and a large buttered popcorn, and...  ...some of them chocolate covered malted milk balls... and ju-jukes, a box. They last.
+L569430 +++$+++ u3130 +++$+++ m205 +++$+++ CONCESSION GIRL +++$+++ Ya want me to call da boss? Huh? That what you want?
+L569429 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ No, I'm serious, really...
+L569428 +++$+++ u3130 +++$+++ m205 +++$+++ CONCESSION GIRL +++$+++ Awh, come off it, Pal.
+L569427 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ What is your name? My name is Travis.
+L569785 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ And the kid says, "Yeah. She's about 19, good-lookin." McCall says, "What can I tell you?"
+L569784 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ Fuckin' One-Ball.
+L569781 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ That's the guy. Eddie calls him up and says, "Hey, what do you want me to do. I'm over here at Poly Prep. I got a girl in the back and she doesn't have the fare. She wants me to come in back and collect. What should I do?
+L569780 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ One-Ball McCall?
+L569779 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ ...he called up the Dispatcher last night. Charlie McCall, our dispatcher...
+L569520 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ Support my kids. Can you dig it?  Nice to meet ya, Travis. So long, Wizard. Say hello to Malcolm X for me. 
+L569519 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ What ya gonna do with all that money, Dough-Boy?
+L569518 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ Well, if there's this many hackies inside, there must be lots of fares outside. And I'm gonna hustle 'em.
+L569517 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ I never use mine. But it's a good thing to have. Just as a threat.
+L569516 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ For a fee.
+L569515 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ For a fee.
+L569514 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ Truck drivers bring up Harlem Specials that blow up in your hand. But this guy don't deal no shit. Just quality. If you ever need anything, I can put you in touch.
+L569513 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ The cops and company raise hell they find out.
+L569512 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ Well, you ever need one, I know a feller that kin getcha a real nice deal. Lotsa shit around.
+L569506 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Fuckin' Mau Mau land, that's what it is.
+L569505 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ You run all over town, don't you, Travis?
+L569498 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ Look who's talking?  Who else would stay up all night to catch the morning rush hour?
+L569497 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ We call him Dough-Boy cause he likes the dollars. He'll chase a buck straight into Jersey.
+L569496 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ Yeah. We went to Harvard together. 
+L569494 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ A real skunk.
+L569493 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ She stayed in the cab, what's she gonna do? But she stiffed me. A real skunk.
+L569492 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ And what happened?
+L569491 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Well, I said, "Lady, please, we're on a bridge..."
+L569490 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ You said that?
+L569489 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Sure. What do you think? She wanted to get out of the cab. I said "Look, you're in the middle of the fucking bridge..."
+L569486 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ What was I supposed to do? I was watching in the rear view. You know, just checkin' traffic.  So howsit?
+L569485 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ Yeah.
+L569484 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Threw on the emergency, jumped the seat and fucked her brains out -- What do you think!  What do I have to do? Draw you a picture?
+L569483 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ What did you do?
+L569482 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Well, she was trying to keep her skirt down, sort of, you know. But it was pretty obvious what she was doing. I mean, Christ, it was rush hour and the traffic's practically standing still.
+L569481 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ Could you see anything?
+L569480 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Yeah.
+L569479 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ No.
+L569478 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Well, whatever the fuck it is, she used it. And then the spray perfume. You know, the real sweat kind -- and, on top of that, get this, right when we're crossing the Tri-boro bridge -- she changes her pantyhose!
+L569477 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Ask Travis. He's the ladies man.
+L569476 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ Yeah, that's Blush-On. My wife uses it,
+L569473 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ The kind with a brush.
+L569472 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ Not rouge. Blush-On, they call it.
+L569471 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ First she did her make-up. You know, I hate it when they do that. I mean she does the whole works, the mascara, the eye-shadow, the lipstick, the rouge...
+L569723 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ Yeah. Hey thanks. That's real nice, Travis.
+L569722 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ 20 bucks?
+L569511 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Nah.  I suppose not.
+L569510 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ You carry a piece? You need one?
+L569509 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I have.
+L569508 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ I mean, you handle some pretty rough traffic, huh?
+L569507 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Huh?
+L569504 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ In the jungle. 122nd.
+L569503 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ Where.
+L569502 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ No, just some crazy fucker. Cut half his ear off.
+L569501 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ Stick up?
+L569488 +++$+++ u3131 +++$+++ m205 +++$+++ DOUGH-BOY +++$+++ Stick up?
+L569487 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Some fleet driver for Bell just got cut up. Just heard it on the radio.
+L570019 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ My work may take me out of New York.
+L570018 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ What do you mean?
+L570017 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I want to -- what else can I do with my money?  You may not see me again -- for a while.
+L570016 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ You don't have to.
+L570015 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I'll give you the money to go. I don't want you to take any from those guys.
+L570014 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ I sure hate to go alone...
+L570013 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I can't. Otherwise, I would.
+L570012 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Sure you don't want to come with me?
+L570011 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I think you should go home, but otherwise I think you should go. It would be great for you. You have to get away from here. The city's a sewer, you gotta get out of it.
+L570010 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Do you really think I should go to the commune?
+L570009 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Well, Iris, I look at it this way. A lot of girls come into my cab, some of them very beautiful. And I figure all day long men have been after them: trying to touch them, talk to them, ask them out. And they hate it. So I figure the best I can do for them is not bother them at all. So I don't say a thing. I pretend I'm not even there. I figure they'll understand that and appreciate me for it.
+L570008 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ You're not much with girls, are you?
+L570007 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I'm sorry, Iris. I didn't mean that.
+L570006 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ God. I know where they should have a commune for you. They should have a commune for you at Bellevue.
+L570005 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I don't know. Just should, though.  Somebody should kill 'em. Nobody'd miss 'em.
+L570004 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ How?
+L570003 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ You can't leave 'em to do the same to other girls. You should get rid of them.
+L570002 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Sport never treated me bad, honest. Never beat me up once.
+L570001 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Cops don't do nothin.
+L570000 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ What should I do? Call the cops?
+L569999 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ You just gonna leave 'em?
+L569998 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Just leave'em. There's plenty of other girls.
+L569997 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ What are you going to do about Sport and that old bastard?
+L569996 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ God, I don't know who's weirder, you or me.
+L569995 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Yeah.
+L569994 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Do I look like a narc?
+L569993 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ You a narc?
+L569992 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I can't say -- it's top secret. I'm doing something for the Army. The cab thing is just part time.
+L569991 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ What's so important?
+L569990 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I've got something important to do. I can't leave.
+L569989 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Why?
+L569988 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Besides, I've got to stay here.
+L569987 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ You a scorpion? That's it. You're a scorpion. I can tell.
+L569986 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I... I don't get along with people like that.
+L569985 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Why not?
+L569984 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Me? I could never go to a place like that.
+L569983 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Why don't you come to a commune with me?
+L569982 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I never been to a commune. I don't know. I saw pictures in a magazine, and it didn't look very clean to me.
+L569981 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Rock music died in 1970, that's what I think. Before that it was fantastic. I can tell you that. Everybody was crashing, hanging out at the Fillmore. Me and my girlfriend Ann used to go up the fire escape, you know? It was unbelievable. Rock Stars everywhere. That Airplane -- that's my group, man. All Libras. But now everybody's split or got sick or busted. I think I'll move to one of those communes in Vermont, you know? That's where all the smart ones went. I stayed here.
+L569980 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ He's worse than an animal. Jail's too good for scum like that.
+L569979 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ What makes you so high and mighty? Did you ever look at your own eyeballs in a mirror. You don't get eyes like that from...
+L569978 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ He shoots dope too.
+L569977 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ I think Cancer's make the best lovers. My whole family are air signs.
+L569976 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ He looks like a killer.
+L569975 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ I'm a Libra too. That's why we get along so well.
+L569974 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Huh?
+L569973 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ He never killed nobody. He's a Libra.
+L569972 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ That fella "Sport" looks like a killer to me.
+L569971 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Who's a killer?
+L569970 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ At least I don't walk the streets like a skunk pussy. I don't screw and fuck with killers and junkies.
+L569969 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ God, you are square.
+L569967 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Didn't you ever hear of women's lib?
+L569966 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ But you can't live like this. It's hell. Girls should live at home.
+L569965 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Why do you want me to go back to my parents? They hate me. Why do you think I split? There ain't nothin there.
+L569964 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I ain't ever been there, but it don't seem like such a bad place.
+L569963 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Pittsburgh.
+L569962 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Where?
+L569960 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Where is home?
+L569959 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ ...and after that Sport and I just started hanging out...
+L569939 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ O.K. It's a date. I'll see you here, then.
+L569938 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Well, you want to or not?
+L569937 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Well tomorrow noon there's a... I got a...
+L569936 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Sure. All right. We'll have breakfast. I get up about one o'clock. Tomorrow.
+L569935 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ No, I mean really. This is nothing for a person to do.
+L569934 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ That's not hard to do.
+L569933 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Can I see you again?
+L569932 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ I understand, mister. It means something, really.
+L569931 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Well, I tried.
+L569930 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ I was stoned. That's why they stopped me. When I'm not stoned, I got no place else to go. They just protect me from myself.
+L569929 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ But that one night?
+L569928 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ I can leave anytime I want.
+L569927 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Don't you want to go?
+L569926 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ I think so. I tried to get into your cab one night, and now you want to come and take me away.
+L569925 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Do you understand why I came here?
+L569923 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Don't you understand anything?
+L569922 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ You can do it in my mouth.
+L569921 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Fuck it! Fuck it! Fuck it! Fuck it! Fuck it! Fuck it! Fuck it!
+L569918 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Don't you want to make it?  Can't you make it?
+L569917 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Listen...
+L569916 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Oh, come off it, man.
+L569915 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Do they drug you?
+L569914 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ I musta been stoned.
+L569913 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ But you're the one that wanted to get away. You're the one that came into my cab.
+L569912 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Why should I want to get out of here? This is where I live.
+L569911 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Can't you listen to me? Don't you want to get out of here?
+L569910 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ You want to make it like this? 
+L569909 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I don't want to make it. I came here to get you out.
+L569908 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ We better make it, or Sport'll get mad. How do you want to make it?
+L569907 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ It don't matter. I'm gonna get you outta here. 
+L569906 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ I don't remember.
+L569905 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ You tried to run away in my taxi but your friend -- Sport -- wouldn't let you.
+L569904 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ No.
+L569903 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I drive a taxi. You tried to get away one night. Remember?
+L569902 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Why? Who are you?
+L569900 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ That's what you think.
+L569899 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ That's a nice name.
+L569898 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Iris.
+L569897 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ What's your real name?
+L569896 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ I don't like my real name.
+L569895 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ What's your real name?
+L569894 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ It's easy to remember. Easy Lay.
+L569893 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ That ain't much of a name.
+L569892 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ Easy.
+L569891 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ What's your name?
+L569890 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ It's your time mister. Fifteen minutes ain't long.  That cigarette burns out, your time is up.
+L569889 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Yeah. From the likes of them.
+L569888 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ A girl needs protection.
+L569887 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Why you hang around with them greasers?
+L569868 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ All right.  You see that guy over there?  His name is Sport. Go talk to him. I'll wait here.
+L569867 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Well... I guess so.
+L569866 +++$+++ u3132 +++$+++ m205 +++$+++ IRIS +++$+++ You looking for some action?
+L569865 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Hello.
+L569411 +++$+++ u3133 +++$+++ m205 +++$+++ MAN IN BUSINESS SUIT +++$+++ Well, you should know, damn it, or who else would know? Pull over right here.  Why don't you stick your goddamn head out of the goddamn window once in a while and find out about the goddamn fog!
+L569410 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ No.
+L569409 +++$+++ u3133 +++$+++ m205 +++$+++ MAN IN BUSINESS SUIT +++$+++ There isn't time for that. In other words, you don't know.
+L569408 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Have you tried the telephone?
+L569407 +++$+++ u3133 +++$+++ m205 +++$+++ MAN IN BUSINESS SUIT +++$+++ The Empire State in fog means something, don't it? Do you know, or don't you? What is your number, cabbie?
+L569406 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Then it's a good guess it's grounded.
+L569405 +++$+++ u3133 +++$+++ m205 +++$+++ MAN IN BUSINESS SUIT +++$+++ Listen -- I mean I just saw the needle of the Empire State Building. You can't see it for the fog!
+L569404 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Why should it be grounded?
+L569650 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Thank you, sir. You're a good man, sir.
+L569649 +++$+++ u3134 +++$+++ m205 +++$+++ PALANTINE +++$+++ Nice talking to you, Travis.
+L569648 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Damn straight.
+L569647 +++$+++ u3134 +++$+++ m205 +++$+++ PALANTINE +++$+++ I know what you mean, Travis, and it's not going to be easy. We're going to have to make some radical changes.
+L569646 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Well, he should clean up this city here. It's full of filth and scum. Scum and filth. It's like an open sewer. I can hardly take it. Some days I go out and smell it then I get headaches that just stay and never go away. We need a President that would clean up this whole mess. Flush it out.
+L569645 +++$+++ u3134 +++$+++ m205 +++$+++ PALANTINE +++$+++ There must be something...
+L569644 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I don't know, sir. I don't follow political issues much.
+L569643 +++$+++ u3134 +++$+++ m205 +++$+++ PALANTINE +++$+++ Travis, what single thing would you want the next President of this country to do most?
+L569641 +++$+++ u3134 +++$+++ m205 +++$+++ PALANTINE +++$+++ I'll tell you, Travis, I've learned more about this country sitting in taxi cabs than in the board room of General Motors.
+L569640 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I'm sure you'll win, sir. Everybody I know is going to vote for you.  I was going to put one of your stickers on my taxi but the company said it was against their policy.
+L569639 +++$+++ u3134 +++$+++ m205 +++$+++ PALANTINE +++$+++ Why, thank you Travis.
+L569638 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Well, I'm one of your biggest supporters. I tell everybody that comes in this cab that they should vote for you.
+L569637 +++$+++ u3134 +++$+++ m205 +++$+++ PALANTINE +++$+++ Yes I am.
+L569636 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Say, aren't you Charles Palantine, the candidate?
+L569399 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Yes, Sir.
+L569398 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ Well then check back tomorrow.
+L569397 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ No.
+L569396 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ Hell, we ain't that much fussy anyway. There's always opening on one fleet or another.  Fill out these forms and give them to the girl at the desk, and leave your phone number. You gotta phone?
+L569395 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ So I hear.
+L569394 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ We hire a lot of moonlighters here.
+L569393 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ No, I want long shifts.
+L569392 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ You moonlightin?
+L569391 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Honorable discharge. May 1971.
+L569390 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ Military record?
+L569389 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Some. Here and there.
+L569388 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ Education?
+L569387 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Twenty-six.
+L569386 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ Age?
+L569385 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Also clean.
+L569384 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ Physical? Criminal?
+L569383 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Sorry, sir. I didn't mean that.
+L569382 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ Listen, son, you gonna get smart, you can leave right now.
+L569381 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Clean. Real clean.  As clean as my conscience.
+L569380 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ How's your driving record?
+L569379 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I'll work anywhere, anytime. I know I can't be choosy.
+L569378 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ You want to work uptown nights?
+L569377 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ You kiddin? Who else would hack through South Bronx or Harlem at night?
+L569376 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ We don't need any misfits around here, son.
+L569375 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I ride around nights mostly. Subways, buses. See things. Figur'd I might as well get paid for it.
+L569374 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ So whatja do now?
+L569373 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I know. I tried that.
+L569372 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ There's porno theatres for that.
+L569371 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I can't sleep nights.
+L569370 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ So why do you want to be a taxi driver?
+L569369 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Yes.
+L569368 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ Got your license?
+L569367 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ No Sir.
+L569366 +++$+++ u3135 +++$+++ m205 +++$+++ PERSONNEL OFFICER +++$+++ No trouble with the Hack Bureau?
+L569853 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Great, hey. Thanks a lot.
+L569852 +++$+++ u3136 +++$+++ m205 +++$+++ SECRET SERVICE MAN +++$+++ Sure, Henry. I got it all. We'll send you all the stuff all right.
+L569851 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ My name is Henry Krinkle -- that's with a "K." K-R-I-N-K-L-E. I live at 13 1/2 Hopper Avenue, Fair Lawn, New Jersey. Zip code 07410.  Got that?
+L569850 +++$+++ u3136 +++$+++ m205 +++$+++ SECRET SERVICE MAN +++$+++ Sure.
+L569849 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ You would, huh?
+L569848 +++$+++ u3136 +++$+++ m205 +++$+++ SECRET SERVICE MAN +++$+++ Look, um, if you give me your name and address, we'll send you the information on how to apply.
+L569847 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ What kind of guns do you guys use? .38's?
+L569846 +++$+++ u3136 +++$+++ m205 +++$+++ SECRET SERVICE MAN +++$+++ Is that so?
+L569845 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I was in the Army too.  And I'm good with crowds.
+L569844 +++$+++ u3136 +++$+++ m205 +++$+++ SECRET SERVICE MAN +++$+++ Oh?
+L569843 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I kinda thought I might make a good one. I'm very observant.
+L569842 +++$+++ u3136 +++$+++ m205 +++$+++ SECRET SERVICE MAN +++$+++ Why?
+L569841 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Is it hard to get to be a Secret Service Man?
+L569840 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Oh, lots. I don't know where they all are now. There used to be one standing over there. 
+L569839 +++$+++ u3136 +++$+++ m205 +++$+++ SECRET SERVICE MAN +++$+++ Who?
+L569838 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I've seen a lot of suspicious-looking people around here today.
+L569837 +++$+++ u3136 +++$+++ m205 +++$+++ SECRET SERVICE MAN +++$+++ Why do you ask?
+L569836 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Are you a Secret Service Man?
+L570044 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Show it to me.
+L570043 +++$+++ u3137 +++$+++ m205 +++$+++ SPORT +++$+++ Hey, mister, I don't know what's going on here. This don't make any sense.
+L570042 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Get it.
+L570040 +++$+++ u3137 +++$+++ m205 +++$+++ SPORT +++$+++ No.  Hillbilly, you'd better get your wise ass outa here and quick, or you're gonna be in trouble.
+L570039 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Yeah, Iris. You know anybody by that name?
+L570038 +++$+++ u3137 +++$+++ m205 +++$+++ SPORT +++$+++ Wha -- ?
+L570037 +++$+++ u3137 +++$+++ m205 +++$+++ SPORT +++$+++ Iris?
+L570036 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I'm here to see Iris.
+L570035 +++$+++ u3137 +++$+++ m205 +++$+++ SPORT +++$+++ What's going on?
+L570034 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ How are things in the pimp business, hey Sport?
+L570033 +++$+++ u3137 +++$+++ m205 +++$+++ SPORT +++$+++ O.K., cowboy.
+L570032 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Hey, Sport. How are things?
+L569882 +++$+++ u3137 +++$+++ m205 +++$+++ SPORT +++$+++ Funny, you don't look hip. 
+L569881 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I'm hip.
+L569880 +++$+++ u3137 +++$+++ m205 +++$+++ SPORT +++$+++ Well, if you are, it's entrapment already.
+L569879 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I'm no cop.
+L569876 +++$+++ u3137 +++$+++ m205 +++$+++ SPORT +++$+++ Take it or leave it.
+L569875 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Shit.
+L569874 +++$+++ u3137 +++$+++ m205 +++$+++ SPORT +++$+++ I saw. $20 fifteen minutes. $30 half hour.
+L569873 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I'm no cop.  I want some action.
+L569872 +++$+++ u3137 +++$+++ m205 +++$+++ SPORT +++$+++ Anything you say, officer.
+L569871 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Your name Sport?
+L569870 +++$+++ u3137 +++$+++ m205 +++$+++ SPORT +++$+++ Here, officer, take me in. I'm clean. I didn't do it. Got a ticket once in Jersey. That's all. Honest, officer.
+L569829 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Thanks.
+L569828 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Don't worry, Killer. You'll be all right.  I seen enough to know.
+L569827 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Yeah. Sorry, Wizard.
+L569826 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ You fit in. It's lonely, it's rough at first. But you fit in. You got no choice.
+L569825 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Neither do I, I guess.
+L569824 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ What do you expect, Bertrand Russell? I've been a cabbie all my life, what do I know?  I don't even know what you're talking about.
+L569823 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ That's just about the dumbest thing I ever heard, Wizard.
+L569822 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Look, a person does a certain thing and that's all there is to it. It becomes what he is. Why fight it? What do you know? How long you been a hack, a couple months? You're like a peg and you get dropped into a slot and you got to squirm and wiggle around a while until you fit in.
+L569821 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Travis, look, I dig it. Let me explain. You choose a certain way of life. You live it. It becomes what you are. I've been a hack 27 years, the last ten at night. Still don't own my own cab. I guess that's the way I want it.  You see, that must be what I am.
+L569820 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Like do anything, you know.
+L569819 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ I know.
+L569818 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Yeah.
+L569817 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ The taxi life, you mean.
+L569816 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Sometimes it gets so I just don't know what I'm gonna do. I get some real crazy ideas, you know? Just go out and do somethin.
+L569815 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ It happens.
+L569814 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Real down.
+L569813 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Things got ya down?
+L569812 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Well, I just, you know...
+L569811 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Shoot. They don't call me the Wizard for nothing.
+L569810 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ I wanted to ask you something, on account you've been around so long.
+L569809 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Yeah?
+L569808 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Look, ah, we never talked much, you and me...
+L569807 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Yeah?
+L569806 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Wiz?
+L569795 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Slow.
+L569794 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ What's the action around?
+L569500 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Some fleet driver for Bell just got cut up. Just heard it on the radio.
+L569499 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ So howsit?
+L569475 +++$+++ u3139 +++$+++ m205 +++$+++ TRAVIS +++$+++ Hey Wizard.
+L569474 +++$+++ u3140 +++$+++ m205 +++$+++ WIZARD +++$+++ Travis.

@@ -1,0 +1,352 @@
+L613035 +++$+++ u8422 +++$+++ m572 +++$+++ BEV +++$+++ Coffee, Mike?
+L613034 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Damn.
+L613033 +++$+++ u8422 +++$+++ m572 +++$+++ BEV +++$+++ One partial from the handle matches the suspect from last night. Name's Carl Taylor. Long record of arson, assault, the works. The other print - we got nothing from our data base or the FBI or CIA... still waiting for Interpol.
+L613032 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ How's the print coming?
+L612791 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ We just got a bomb threat upstairs.
+L612790 +++$+++ u8422 +++$+++ m572 +++$+++ BEV +++$+++ Hey, that's the guy-
+L612725 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Thanks.
+L612724 +++$+++ u8422 +++$+++ m572 +++$+++ BEV +++$+++ f 2600 block of Lakefront. A limousine. But, I-
+L612723 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ -Where?
+L612722 +++$+++ u8422 +++$+++ m572 +++$+++ BEV +++$+++ There out on a call, perhaps I can help you-
+L612721 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Officer Reilly, vice.
+L612720 +++$+++ u8422 +++$+++ m572 +++$+++ BEV +++$+++ And you are...?
+L612719 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Where are they?
+L612718 +++$+++ u8422 +++$+++ m572 +++$+++ BEV +++$+++ They're not here.
+L612717 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ I'm looking for the Bomb Squad.
+L612716 +++$+++ u8422 +++$+++ m572 +++$+++ BEV +++$+++ May I help you?
+L613150 +++$+++ u8423 +++$+++ m572 +++$+++ DISPATCHER VOICE +++$+++ Hang on.
+L613149 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Just do it.
+L613148 +++$+++ u8423 +++$+++ m572 +++$+++ DISPATCHER VOICE +++$+++ Aren't you on suspension?
+L613147 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Patch me through to the Bomb Squad.
+L613146 +++$+++ u8423 +++$+++ m572 +++$+++ DISPATCHER VOICE +++$+++ Go ahead.
+L613145 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Dispatch, this is Reilly.
+L613210 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ No excuses, just do it!
+L613209 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ How the hell do you feel yellow?
+L613208 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ When in doubt, pull the yellow wire.
+L613207 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ What... ?
+L613206 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ I don't know.
+L613205 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Which one's which?
+L613204 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Okay, one of the caps turns it on, the other shuts it down.
+L613203 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Yeah, another round thing.
+L613201 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Make up your mind, trigger.
+L613200 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Too easy. There's gotta be something else in there, another cap maybe.
+L613199 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ What's wrong?
+L613198 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ That's the blasting cap - good! Okay, now grab it by the base and pull it straight up. No, Wait...
+L613197 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Something round, two wires ...
+L613195 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Stay to your left.
+L613194 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ More metal... sharp edge...
+L613193 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Don't touch that.
+L613192 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Wires... metal, cold... something soft...
+L613191 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Close your eyes, feel your fingertips. Tell me everything you feel.
+L613190 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Keep talking.
+L613189 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Okay, let's go in.
+L613188 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Nothing.
+L613187 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Good, now the other side.
+L613186 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ He has a timer going as back-up, in case we got a hold of the remote.  Okay... first, run your fingers along the edges, feel for a sensor.
+L613185 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ C'mon, talk to me! We can do it!
+L613184 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Right.
+L613183 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Talk to me. Let's assess.
+L613181 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ What do we do?
+L613180 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Off the scale.
+L613179 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Fuck factor?
+L613164 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ You got it.
+L613163 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Glass, Eighth Street, alley behind Grand Hotel. Cut him off.
+L613162 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Me, too.
+L613161 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ No, I'd slip out past the hotel district, behind Greyhound...
+L613160 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Would you?
+L613159 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Should we head for the Interstate?
+L613158 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Cuz he got the girl, now he's leaving town.
+L613157 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ How do you know?
+L613156 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Catch that alert? That's him in the U-Haul.
+L613155 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Driving in circles, waiting for-
+L613154 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Where you guys at?
+L613153 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ What's up?
+L613061 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Be right back.
+L613060 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Ex-girlfriend?
+L613025 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Congratulations, you just built your first ticker.
+L613024 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ It's working.
+L613023 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ No you're not, you just don't understand them. Here, do what I tell you.
+L613022 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ I terrible with mechanical things.
+L613020 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ I guess I didn't realize how much I needed him. He kept me straight. It's been tough every second since.
+L613019 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Your partner?
+L613018 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ I know. I was working a drug ring, deep cover. Played the part too well. When they pulled me out, I wasn't a cop anymore. My fiance had dumped me. Next thing I knew, I was out here on the street, doped up, auditioning for the morgue when this tough old vice cop found me, cleaned me up, gave me a second chance. He promised Captain Winters he'd look out for me.
+L613017 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Take a tip from the Bomb Boys, always assess, if only for a second.
+L613016 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Pittsburgh, two years ago. Partner died, no back-up, I was too gung-ho. As usual.
+L613015 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ You don't have to talk about it.
+L613014 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ What?
+L613013 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ How long were you hooked?
+L612988 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ I don't know. There's an old saying, when in doubt, cut the yellow wire.
+L612987 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Which one's which?
+L612986 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ One shuts it down, one turns arms it.
+L612985 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ So cut both.
+L612971 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ I don't know, it's strange... it's not the best career path, but when you get the bug, there's nothing you can do about it. See, when you beat one of these things... 
+L612970 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Why do you do it?
+L612969 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ We've gotta be. In this business, you don't exactly make alot of outside commitments.
+L612968 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ You guys seem pretty tight.
+L612962 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Well... it's more than we had ten minutes ago.
+L612961 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Right.
+L612960 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ What not bad. You've got a series of bombs, devices, that may or may not be connected, set by one or many nutjobs, who may or may not be linked.
+L612959 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Not bad for Bomb squad, eh?
+L612954 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ `Til we get a better lead.
+L612953 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ How long are we going to stay?
+L612933 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Industrial wood oil. Separately, any one of these things could lead in several directions, but together ...
+L612932 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Nitro-cellulose. What is that, some kind of explosive?
+L612929 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Bingo!
+L612928 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Look, it's a longshot...
+L612927 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Then, it's gotta be here somewhere ...
+L612926 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Yep.
+L612925 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ This is where the van was parked.
+L612924 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ No, ninety-ninety percent of them are full of baloney. They're into the power trip, not the damage. What scares me is that this guy is so sophisticated he could blow up whatever he wants, then disappear. The worst of the bunch, they love the challenge of creating the wildest device ever... and they love the carnage.
+L612923 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Except they'll blow you up if you don't play along.
+L612922 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Typical profile, usually losers, nobodies that're afraid to confront their victims. They like scaring people. That's why they call in their threats. Same mentality as obscene phone callers.
+L612920 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ With a little training, you could go into a house and just from stuff in the bathroom and kitchen make something that'd finish off that alleged car of yours. Heck, didn't you ever watch MacGyver?
+L612919 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Just how easy is it to build a... device?
+L612918 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ There were a few guys in my class with names like John Smith, Bill Jones. I'd see them up ahead in the hall, call their name, but they wouldn't turn around. C.I.A. Funny thing, they'd always disappear after the first half of the course.
+L612917 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Sounds like terrorist heaven.
+L612916 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Top of my class at West Point, thank you very much. Then off to Redstone. First half of the course we learned how to build devices... second half, we'd take them apart. Everything from firecrackers to hydrogen bombs.
+L612915 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Cream of the crop, huh? You?
+L612914 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Redstone's the army training center in Alabama where they send the cream of the crop to learn about tickers.
+L612913 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ You mentioned something called Redstone.
+L612912 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ An abandoned machine shop... nice place to build devices. Low rent, too. But, you and Rice ruined their perfect hideout.
+L612911 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ I don't know. You tell me?
+L612910 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ So what were they doing here?
+L612909 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Then let's go see what they missed.
+L612908 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ The place has already be combed. Forensics pulled over a hundred sets of prints inside.
+L612907 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Drive.
+L612906 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Oh yeah? Prove it.
+L612905 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ No you look, mister! First, you don't go calling my men names. It's bad for morale. Second, us "punks" happen to know a heck of alot more about police work than any vice cop ever did.
+L612904 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Hey, look--
+L612903 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Nice performance back there. Where'd you learn that, Mike Ditka Sensitivity Seminar?
+L612893 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Where...?
+L612892 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Only once, at Redstone.
+L612891 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ She's not talking. But, she could be. So, obviously, you've seen one of these devices before?
+L612890 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ I.R.A. device. Deadliest class of tickers in existence. Computerized, multiple sensors, booby traps, the works. First showed up in a series of I.R.A. bombings in London couple years ago. One of their boys tripped it on himself and they went back to a less complicated timers. The Girl, is she Irish?
+L612848 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Don't push it, slick.
+L612847 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Anything else I should know?
+L612846 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Treat. We treat devices.
+L612845 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ So you're the "Device Squad"... and you defuse "devices"?
+L612844 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ We don't use the b-word. Bad luck.
+L612836 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Mike Reilly.
+L612835 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ By the way, I'm Glass. This is T.J., and Pooch.
+L612834 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Be cool around my men, they don't trust strangers. And try not to swear so much, it's unattractive.
+L612833 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Now wait just a fucking-
+L612832 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ This isn't bumper cars, it's brain surgery. You wanna work with us, you do it our way, understand?
+L612831 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ What?
+L612828 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ That cop who bought it... you didn't tell us he was your partner.
+L612827 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ What was-? Why...?
+L612800 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ We've got one hour. Are you coming or not?
+L612799 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ When you need us, you love us, when you don't, we're shunned by the rest of the department.
+L612798 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ What're you talking about?
+L612793 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ We can start in the area where the robbery occurred.
+L612792 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Alright, let's check it out.
+L612754 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Thanks.
+L612753 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Sorry about that.  That's an inch of the stuff, imagine what the whole thing'd do.
+L612751 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ What do you mean?
+L612750 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ High-grade det cord. This girl, either she's got strange taste in jewelry or she's into serious demolition.
+L612747 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Off a girl's wrist. A suspect...
+L612746 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Where did you get this?
+L612730 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ You the Bomb Squad?
+L612729 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Who the heck're you?
+L613030 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ Nothing. Maybe they gave up, split town.
+L613029 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Any word?
+L612958 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ Exactly my thinking. Except, none of the targets can actually be linked to government, political or special interest concerns. They seem to be just unrelated industrial companies. Some insured, some not. 
+L612957 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Political.
+L612947 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ We work fast enough for you?
+L612946 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ You got it.
+L612943 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Bev, give `em a call, find out what bowling alleys they supply in this area.
+L612942 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ "Punks", huh?
+L612941 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Hey, matches are a very big thing in our line of work.
+L612887 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ Oh shit...
+L612886 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ It's from an IRA.
+L612885 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ Whadaya mean?
+L612805 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ T.J., run a trace on this, see if you can pin down where it came from. Whoever these people are, let's hope they're all talk.
+L612804 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ Right.
+L612803 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Call upstairs, see what you can find out.
+L612802 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ What do you think?
+L612797 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Easy, guys.  
+L612796 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ Assist? What the hell you know about tickers anyway?
+L613172 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Reilly! He's loaded!
+L613171 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Jesus...
+L613028 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ We've created a monster.
+L613027 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Alright!
+L612994 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Meg's lasagna. Good eats, Reilly. C'mon.
+L612993 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ What do ay say?
+L612938 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ A bowling alley.
+L612937 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Lane oil...
+L612897 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Let's face it, we all knew it would happen sooner or later. The guy who can build a mousetrap that's better than we are ...
+L612896 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Relax, Pooch, it's just a ticker, it's not personal.
+L612884 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ I was wrong... this didn't come from any cash register.
+L612883 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Glass, what is it?
+L612859 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Unlikely. Probably, cash register or something.
+L612858 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Computer device?
+L612855 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Helluva fuck factor.
+L612854 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ C4, plastic explosive.
+L612830 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Let's get something straight. We're doing you a favor. You're not exactly a guy we want around explosives.
+L612829 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ We've lost brothers too, we know what that's like.
+L612823 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Hope you don't mind, Captain, might help us catch these guys that much sooner.  Coming?
+L612822 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Yeah, he's helping us work up a profile on this thing.
+L612789 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Hey, I'm next.
+L612788 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ Bev, you're the greatest...
+L612732 +++$+++ u8424 +++$+++ m572 +++$+++ GLASS +++$+++ We're a bit busy at the moment, I'll give you a statement in a few minutes if we're still alive.
+L612731 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ No, we're terrorists, stay back or we'll blow.
+L613059 +++$+++ u8425 +++$+++ m572 +++$+++ MARY +++$+++ People are dying.
+L613058 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Then why tell me?
+L613057 +++$+++ u8425 +++$+++ m572 +++$+++ MARY +++$+++ He's my brother...
+L613056 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Thank you.
+L613055 +++$+++ u8425 +++$+++ m572 +++$+++ MARY +++$+++ There is a motel downtown, near the Machine Shop... the Suncrest. Room 138.
+L613054 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Taylor's dead.
+L613053 +++$+++ u8425 +++$+++ m572 +++$+++ MARY +++$+++ Alex Swan. My brother. The other two are called Taylor and Leveau.
+L613052 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Who is he?
+L613051 +++$+++ u8425 +++$+++ m572 +++$+++ MARY +++$+++ Cover.  It was suppose to be abandoned buildings, y'know. No one was suppose to get hurt. The night you busted us...We were checking to make sure there weren't any vagrants around. Scare them away.
+L613177 +++$+++ u8425 +++$+++ m572 +++$+++ MARY +++$+++ Take him!
+L613176 +++$+++ u8430 +++$+++ m572 +++$+++ SWAN +++$+++ Drop it.
+L613139 +++$+++ u8430 +++$+++ m572 +++$+++ SWAN +++$+++ Shut up!  Who is this?
+L613138 +++$+++ u8425 +++$+++ m572 +++$+++ MARY +++$+++ Alex, please-
+L613137 +++$+++ u8425 +++$+++ m572 +++$+++ MARY +++$+++ What? Nobody, I-
+L613136 +++$+++ u8430 +++$+++ m572 +++$+++ SWAN +++$+++ Who are you calling, sis?
+L613128 +++$+++ u8430 +++$+++ m572 +++$+++ SWAN +++$+++ Stay in the truck.
+L613127 +++$+++ u8425 +++$+++ m572 +++$+++ MARY +++$+++ Alex, please.
+L613126 +++$+++ u8430 +++$+++ m572 +++$+++ SWAN +++$+++ Stay here.
+L613125 +++$+++ u8425 +++$+++ m572 +++$+++ MARY +++$+++ No... No more killing.
+L613124 +++$+++ u8430 +++$+++ m572 +++$+++ SWAN +++$+++ We're moving' on. I have to pick up the supplies. Just two little boxes.
+L613123 +++$+++ u8425 +++$+++ m572 +++$+++ MARY +++$+++ Why are we stopping here?
+L613122 +++$+++ u8425 +++$+++ m572 +++$+++ MARY +++$+++ Nothing... just tired.
+L613121 +++$+++ u8430 +++$+++ m572 +++$+++ SWAN +++$+++ What's the matter?
+L613113 +++$+++ u8430 +++$+++ m572 +++$+++ SWAN +++$+++ Security.
+L613112 +++$+++ u8425 +++$+++ m572 +++$+++ MARY +++$+++ What is that?
+L613111 +++$+++ u8430 +++$+++ m572 +++$+++ SWAN +++$+++ I know. I warned them.
+L613110 +++$+++ u8425 +++$+++ m572 +++$+++ MARY +++$+++ Alex-
+L613109 +++$+++ u8430 +++$+++ m572 +++$+++ SWAN +++$+++ You okay?
+L612863 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ I'm sorry, detective, but you're just not my type.
+L612862 +++$+++ u8426 +++$+++ m572 +++$+++ PLUCHINSKY +++$+++ You were lucky today, vice boy. Captain said to leave it alone, but just remember, I'm watching you.
+L612815 +++$+++ u8426 +++$+++ m572 +++$+++ PLUCHINSKY +++$+++ And what, you'll shoot me? Hey, don't mistake me for one of your partners, I'd like to make retirement in one piece.
+L612814 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ You touch me again and--
+L612777 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ A ticking bomb...
+L612776 +++$+++ u8426 +++$+++ m572 +++$+++ PLUCHINSKY +++$+++ What the hell was that?
+L612712 +++$+++ u8426 +++$+++ m572 +++$+++ PLUCHINSKY +++$+++ Maybe she knows your old man.
+L612711 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Looks like the stuff my dad used to use to blow up tree stumps back in Scranton.
+L612706 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ But sir--
+L612705 +++$+++ u8426 +++$+++ m572 +++$+++ PLUCHINSKY +++$+++ You're vice, not homicide. Besides, you don't have the experience and you're too personally involved.
+L612704 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ I want to work this.
+L612826 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ Can it, Pluchinsky. And shove some cotton up your nose.
+L612825 +++$+++ u8426 +++$+++ m572 +++$+++ PLUCHINSKY +++$+++ I'm filing charges against that mother-
+L612818 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ Reilly, what're you doing here?
+L612817 +++$+++ u8426 +++$+++ m572 +++$+++ PLUCHINSKY +++$+++ Son-of-a-bitch... my nose... This fuck-up is interfering with-
+L612816 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ What the hell's going on?
+L612781 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ We can't take the chance. Ring down to the Bomb Squad. I want them on alert.
+L612780 +++$+++ u8426 +++$+++ m572 +++$+++ PLUCHINSKY +++$+++ It's a bluff. The guy's full of crap.
+L612700 +++$+++ u8426 +++$+++ m572 +++$+++ PLUCHINSKY +++$+++ Lab's backed up, we're still waiting for it.
+L612699 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ What about the ballistics report?
+L612698 +++$+++ u8426 +++$+++ m572 +++$+++ PLUCHINSKY +++$+++ Nothing so far.
+L612697 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ Prints?
+L613008 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ Time for bed, kiddos. Say goodnight.
+L613007 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Mike. No thanks, I'm fine.
+L612966 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Still waiting for a miracle. Go ahead.
+L612965 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ How're you guys doing?
+L612956 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Insurance?
+L612955 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ Unsolved bombings in the last year... Boston, New York, Philadelphia... but no real match
+L612841 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ What kind of bomb was it?
+L612840 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ Nitro, dash of Semtrex, vegetable oil ...
+L612743 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Look, it's important.
+L612742 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ He is!
+L612983 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Fuck factor ten.
+L612982 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ Oh shit...
+L612895 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ Shit. We're fucked.
+L612894 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ That's one more time than any of the rest of us have seen it.
+L612882 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ Awright! How bout you, Glass, how's that chip shaking?
+L612881 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Fuckin A, I think I got two partial prints here!
+L612853 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Scorch marks... looks like they used silly putty.
+L612852 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ Good boy, Schnoz. Daddy loves you.
+L612850 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ I don't know...
+L612849 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Pooch, can you move it?
+L612757 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ That'd be some explosive pussy he's got his hands on.
+L612756 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Vice... Jesus.
+L612740 +++$+++ u8427 +++$+++ m572 +++$+++ POOCH +++$+++ No shit. I better send Meg flowers just in case.
+L612739 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ That guy's wife must be pretty pissed off to play a trick like that.
+L612695 +++$+++ u8429 +++$+++ m572 +++$+++ RICE +++$+++ Ain't that a shit--
+L612694 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ It don't work-
+L612693 +++$+++ u8429 +++$+++ m572 +++$+++ RICE +++$+++ Take your time... one day at a time, kid...
+L612692 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Don't talk.
+L612691 +++$+++ u8429 +++$+++ m572 +++$+++ RICE +++$+++ Mike...
+L612684 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Yeah, just a nick ...
+L612683 +++$+++ u8429 +++$+++ m572 +++$+++ RICE +++$+++ You okay?
+L612681 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Nah, let's just take a look-see.
+L612680 +++$+++ u8429 +++$+++ m572 +++$+++ RICE +++$+++ We're vice, I didn't see no pimps or hookers in that van. But if you're so gung-ho, we'd best call it in for some back-up.
+L612679 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ She wanted to cook me breakfast.
+L612678 +++$+++ u8429 +++$+++ m572 +++$+++ RICE +++$+++ What was it this time?
+L612677 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ She didn't work out, had to cut her loose.
+L612676 +++$+++ u8429 +++$+++ m572 +++$+++ RICE +++$+++ I thought you said what's-her-name's brother was going to fix it.
+L612675 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ What are you talking about, it's purring like a kitty.
+L612674 +++$+++ u8429 +++$+++ m572 +++$+++ RICE +++$+++ Why don't you just shoot it and put it out of its misery?
+L612673 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ No thanks. I got close but it never woulda worked.
+L612672 +++$+++ u8429 +++$+++ m572 +++$+++ RICE +++$+++ One of these days you're gonna get tired of fighting the shit. When that happens, you'll wish you had family.
+L612671 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ You outta the city... that's a fish out of water. What's with all this family talk lately, anyway?
+L612670 +++$+++ u8429 +++$+++ m572 +++$+++ RICE +++$+++ How hard can it be? The grand kids been buggin' me about taking them camping.
+L612669 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ You don't fish.
+L612668 +++$+++ u8429 +++$+++ m572 +++$+++ RICE +++$+++ Hell, I got a gold watch... it just don't work. Maybe they'll give me a new fishing pole, or something useful.
+L612667 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ So what'll you do? After they give you the gold watch.
+L612663 +++$+++ u8429 +++$+++ m572 +++$+++ RICE +++$+++ You will, one day at a time. I'll be old and grey when it happens...
+L612662 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ I gotta get back on top. Get off the sleaze detail.
+L612661 +++$+++ u8429 +++$+++ m572 +++$+++ RICE +++$+++ Next week we work the park.
+L612660 +++$+++ u8429 +++$+++ m572 +++$+++ RICE +++$+++ C'mon, it's a quiet night.
+L612659 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Look who's talking, old man.
+L612658 +++$+++ u8429 +++$+++ m572 +++$+++ RICE +++$+++ Know what the problem is, kid? You're too ugly to get propositioned.
+L613219 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ That feeling won't last long.
+L613218 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Nice to be here.
+L612974 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ He's married, he don't even know what a lesbian is.
+L612973 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Looks like Pooch's doing okay.
+L612952 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ In this crowd? It's gonna be Marlboros, Camels, and maybe a few Kools.
+L612951 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Someone who smokes French cigarettes.
+L612950 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ So what're we looking for?
+L612949 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ My first undercover assignment. I gotta look good, right?
+L612948 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ T.J., what're you doing?
+L612940 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ You mean you just--? ... You keep a record of... matches?
+L612939 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Got it! Ace Match Company, Flint, Michigan.
+L612889 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ IRA - instant retirement account.
+L612888 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ A what?
+L612843 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Huh?
+L612842 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Device.
+L612795 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Captain assigned me to assist you.
+L612794 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Vice cop on a homicide?
+L612749 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ What?
+L612748 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ P.E.T.N ...
+L612745 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ It's about this.
+L612744 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Make an appointment.
+L612734 +++$+++ u8431 +++$+++ m572 +++$+++ T.J. +++$+++ Quiet!
+L612733 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Reilly, Vice. I-
+L613170 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ We'll keep him pinned in, you guys hurry up!
+L613169 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ Reilly, what's happening? Reilly! Reilly! Do not engage. We're five minutes-
+L613168 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ Pull back. You're only an observer.
+L613167 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Fire me later. Close in and we got the bastard.
+L613166 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ Reilly, what the hell are you-?
+L613088 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ You've been at the center of two suspect fatalities and two Police Officer fatalities. I'll need your badge and your weapon.
+L613087 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ I know.
+L613086 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ Reilly, you're done for now. What the hell were you thinking directing the Bomb Squad Team into hot pursuit. They had no business-
+L613085 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ It won't work, he'll know it's a trap...
+L613084 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ It's our only option.
+L613083 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ I promised her she'd be safe.
+L613082 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ Glass, you're to stand by with your team.
+L613081 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ My God, you're going to use her, aren't you?
+L613080 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ Glass, sorry about Pooch, he was a good man. We don't have time to give you a break right now, we're going ahead and-
+L613041 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ I didn't. But I had to try.
+L613040 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ She's refused to say a word to anyone. What made you think you could get her to talk?
+L613039 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Yes, sir.
+L613001 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ But from now on, any leads on this case go to Pluchinsky. He's primary investigator and you are unofficially assigned to the Bomb Squad... you and your new friends are not to be playing detective any more. Got it?
+L613000 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Yes, sir.
+L612999 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ You know after a shooting I would normally take your badge and weapon, but Glass called in already and confirmed it was clean.
+L612998 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Report on the case so far.
+L612997 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ What's this?
+L612820 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ I thought I told you--
+L612819 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Sir...
+L612786 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Yes, sir.
+L612785 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ I know you're anxious to get back but... just stay out of homicide's way or I'll have you classifying fingerprints, understand?
+L612784 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Look, I saw these guys, I can i.d. them.
+L612783 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ Goddamit, Reilly--
+L612782 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ I'll do it.
+L612779 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ It's detonation cord, for a bomb.
+L612778 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ What?
+L612714 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ I'll do it.
+L612713 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ Take it down to the Bomb Squad, Artie-
+L612703 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Sir, I--
+L612702 +++$+++ u8432 +++$+++ m572 +++$+++ WINTERS +++$+++ Reilly, what the hell happened out there? Why didn't you call for back-up?
+L612701 +++$+++ u8428 +++$+++ m572 +++$+++ REILLY +++$+++ Captain...

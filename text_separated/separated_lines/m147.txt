@@ -1,0 +1,444 @@
+L413420 +++$+++ u2285 +++$+++ m147 +++$+++ GUARD +++$+++ What do you figure he done with it?
+L413419 +++$+++ u2279 +++$+++ m147 +++$+++ BART +++$+++ No.
+L413418 +++$+++ u2285 +++$+++ m147 +++$+++ GUARD +++$+++ He never told about the money.
+L413417 +++$+++ u2279 +++$+++ m147 +++$+++ BART +++$+++ He carried on some; kicked.
+L413416 +++$+++ u2285 +++$+++ m147 +++$+++ GUARD +++$+++ He was a cool one, that Harper. Never broke.
+L413415 +++$+++ u2279 +++$+++ m147 +++$+++ BART +++$+++ No.
+L413414 +++$+++ u2285 +++$+++ m147 +++$+++ GUARD +++$+++ Any trouble?
+L413411 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ Keep talkin', Preacher.
+L413410 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ If you was to let that money serve the Lord's purposes, He might feel kindly turned towards you.
+L413409 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ Keep talkin', Preacher.
+L413408 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Salvation is a last-minute business, boy.
+L413407 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ I'll bet.
+L413406 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ The religion the Almighty and me worked out betwixt us.
+L413405 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ What religion do you profess, Preacher?
+L413404 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ That Sword has served me through many an evil time, Ben Harper.
+L413403 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ You, Preacher?
+L413402 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ I come not with Peace but with a Sword.
+L413401 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ How come you got that stickknife hid in your bed-blankets, Preacher?
+L413400 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Think of it, Ben! With that cursed, bloodied gold!
+L413399 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ Would you have free candy for the kids, Preacher?
+L413398 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ With that ten thousand dollars I could build a Tabernacle that'd make the Wheeling Island Tabernacle look like a chicken-house!
+L413397 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ That's right, Preacher. I robbed that bank because I got tired of seein' children roamin' the woodlands without food, children roamin' the highways in this year of Depression; children sleepin' in old abandoned car bodies on junk-heaps; and I promised myself I'd never see the day when my youngins'd want.
+L413396 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ You killed two men, Ben Harper.
+L413395 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ Hm!
+L413394 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ You was quotin' Scripture. You said -- you said, "And a little child shall lead them."
+L413393 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ What'd I say?  What? What? What? What?
+L413392 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ No, Ben.
+L413391 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ Tryin' to make me talk about it in my sleep!
+L413390 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Ben, I'm a Man of God.
+L413372 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ And I won't never tell about the money.
+L413371 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ ..."and I won't never tell about the money."
+L413370 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ I will guard Pearl with my life...
+L413369 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ You got common sense. She ain't. When you grow up that money'll be yours. Now swear. "I will guard Pearl with my life..."
+L413368 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Not even her?
+L413367 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ You understand?
+L413366 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Yes, Dad.
+L413365 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ Listen to me son. You got to swear. Swear means promise. First swear you'll take care of little Pearl. Guard her with your life, boy. Then swear you won't never tell where that money's hid. Not even your Mom.
+L413364 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Dad, you're bleeding...
+L413363 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ Here they come.
+L413358 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ Listen to me John.
+L413357 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Out shopping -- you're bleeding, Dad --
+L413356 +++$+++ u2280 +++$+++ m147 +++$+++ BEN HARPER +++$+++ Where's your Mom?
+L413899 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Hide us Uncle Birdie! He's a-comin' with his knife!
+L413898 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ Don't!
+L413897 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Uncle Birdie!
+L413663 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ If you got an appetite for bones and bitterness.
+L413662 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Can we eat him, Uncle Birdie?
+L413658 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ Tell you why I ask -- your step-pa being' a Preacher an' all...
+L413657 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ No.
+L413656 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ Do you mind me cussin', boy?
+L413655 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ Shoot, a horse-hair'll hold a lumpin' whale.
+L413654 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Won't he bust it, Uncle Birdie?
+L413653 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ There hain't nary hook in the land smart enough to hook Mister Gar. What a feller needs is mother-wit -- and a horse-hair.
+L413652 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Here's your can o' hooks, Uncle Birdie.
+L413553 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ Well goodnight, boy. Come again -- any time.
+L413552 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Yep; gotta watch out for Pearl, Uncle Birdie.
+L413551 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ Leavin', boy?
+L413550 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Just fine.
+L413549 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ How's your sister Pearl?
+L413548 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ O, she's all right.
+L413547 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ And the times that are gone by. I'll have her ready inside of a week; and then we'll go fishin'. How's your Maw?
+L413546 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ When'll the skiff be ready?
+L413545 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ Can't hear ye, boy.  ...So the big boats heave a sigh, They blow for Uncle Birdie...
+L413544 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ When'll Dad's skiff be ready?
+L413543 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ 'Twas down at Cresap's Landing, Along the River Shore, Birdie Steptoe was a Pilot in the good old days of yore. Now he sets in his old wharf-boat...
+L413464 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ Pshaw now! Ain't it a caution what women'll load onto a feller's back when he ain't lookin'?
+L413463 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ I been mindin' Pearl.
+L413462 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ Ain't seen you in a coon's age, Johnny.
+L413460 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ Ain't nobody goin' to neither, long as Uncle Birdie's around.
+L413459 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Ain't nobody stole Dad's skiff.
+L413458 +++$+++ u2281 +++$+++ m147 +++$+++ BIRDIE STEPTOE +++$+++ She don't put in at Cresap's Landing no more, but she still blows as she passes. Come on in and have a cup of coffee.
+L414170 +++$+++ u2282 +++$+++ m147 +++$+++ CLARY +++$+++ She went.
+L414169 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Where's Ruby?
+L414123 +++$+++ u2282 +++$+++ m147 +++$+++ CLARY +++$+++ They hid in a broom closet!
+L414122 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ And when little King Jesus' Ma and Pa heard about that plan, what do you reckon they went and done?
+L414115 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ It's more fun hearin' stories in the dark.
+L414114 +++$+++ u2282 +++$+++ m147 +++$+++ CLARY +++$+++ I'll light the lamp.
+L413985 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ John: you go fetch Ruby.  Big Ruby's my problem girl. She can't gather eggs without bustin' 'em; but Ruby's got mother hands with a youngin, so what're you to say?
+L413984 +++$+++ u2282 +++$+++ m147 +++$+++ CLARY +++$+++ She went.
+L413983 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Here's what you owe me.  One, two, three, four, five... where's the other basket? Where's Ruby?
+L413620 +++$+++ u2283 +++$+++ m147 +++$+++ CONGREGATION +++$+++ IN THE RIIV-ER!
+L413619 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ Throw that money in the River! In THE RIVER!
+L413618 +++$+++ u2283 +++$+++ m147 +++$+++ CONGREGATION +++$+++ Yes! Yes! Hallelujah!
+L413617 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ The Lord said, Take that money and throw it in the River!
+L413616 +++$+++ u2283 +++$+++ m147 +++$+++ CONGREGATION +++$+++ Yes! Yes!
+L413615 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ And the Lord told that man --
+L413609 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ But which one of you can say as I can say: I drove a good man to murder because I kept a-houndin' him for clothes and per-fumes and face paint!
+L413608 +++$+++ u2283 +++$+++ m147 +++$+++ CONGREGATION +++$+++ Yes! Yes!
+L413607 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ You have all sinned!
+L413606 +++$+++ u2283 +++$+++ m147 +++$+++ CONGREGATION +++$+++ AAA-MENN!
+L413997 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Don't need no soap. I'm boilin' down the fat from my hog.
+L413996 +++$+++ u2284 +++$+++ m147 +++$+++ GROCER +++$+++ Got a good buy in soap, Miz Cooper.
+L413995 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Ain't heard from Ralph since last Christmas. Don't matter -- I've got a new crop.  I'm a strong tree with branches for many birds. I'm good for something in this old world and I know it, too! We know that she will rout the Devil.
+L413994 +++$+++ u2284 +++$+++ m147 +++$+++ GROCER +++$+++ How's your own boy, Miz Cooper?
+L413993 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Yeah, and ornerier than the rest.
+L413992 +++$+++ u2284 +++$+++ m147 +++$+++ GROCER +++$+++ See ye got two more peeps to your brood.
+L414182 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ He's Satan hiding behind the Cross!
+L414181 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ String that Bluebeard up to a pole!
+L414180 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ He taken the Lord's name in vain and he trampled on His Holy Book!
+L414179 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Tricked us!
+L414178 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ He lied!
+L414177 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Come on!
+L414176 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Draggin' the name of the Lord through the evil mud of his soul!
+L414155 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ And he killed every last one of 'em!
+L414154 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Twenty-five wives!
+L414153 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Bluebeard!
+L414152 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Lynch him! Lynch him!
+L413924 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Not before one of 'em knifed a farmer and stole his horse. Never caught the gypsies nor the horse.
+L413923 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ You and your gypsies! They been gone a week!
+L413922 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Sure, but you was worried too, Mother; takin' off with never a word of goodbye. I even got to figurin' them gypsies busted in and done off with all three of 'em.
+L413921 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Now ain't you relieved, Walt?
+L413920 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Dear Walt and Icey: I bet you been worried and gave us up for lost. Took the kids down here with me for a visit to my sister Elsie's farm. Thot a little change of scenery would do us all a world of good after so much trubble and heartache. At least the kids will git a plenty of good home cooking. Your devoted Harry Powell
+L413746 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ I thought if you went and talked to him -- another man --
+L413745 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ What can we do, Mother?
+L413743 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ A man of the Cloth?
+L413742 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ There's a little peach brandy -- maybe a sip?
+L413741 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ All to pieces!
+L413740 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Is he hit pretty bad?
+L413739 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ She took out some time durin' the night, -- in that old Model-T --
+L413738 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Just went?
+L413737 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ I'll be switched!...
+L413736 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Mr. Powell!  Willa has run away!
+L413735 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Who?
+L413734 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Sshhh! He's in there.
+L413733 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ What's wrong, Mother?
+L413716 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Mother, I only --
+L413715 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ May the Lord have mercy on you, Walt Spoon!
+L413714 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Now, Mother, a body can't help their feelin's.
+L413713 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Walt!
+L413712 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ About Mr. Powell. All of it!
+L413711 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ About what!
+L413710 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ There's somethin' wrong about it, Mother.
+L413709 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Say what, Walt Spoon!
+L413708 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ I'm figurin' how I can say it so's you won't get mad.
+L413707 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ How do you mean?
+L413706 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Icey, I'm worried about Willa.
+L413694 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ You don't hardly get settled till you're frettin' to git home again.
+L413693 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Plan on a longer visit next time.
+L413478 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ So you ain't with the State no more?
+L413477 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ It's a mighty good man would come out of his way to bring a word of cheer to a grieving widow!
+L413690 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ It's a shame!
+L413689 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ That boy's as stubborn and mulish as a sheep!
+L413523 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Get along with you.
+L413522 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ Oh, Icey, I'm a sight!
+L413521 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ You go set down by the River.
+L413516 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ You'll come right out and ask that Man of God!  Mr. Paow-well!  Clear that evil mud out of your soul!
+L413515 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ I would love to be satisfied Harry Powell don't think I've got that money somewhere.
+L413514 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ I declare, you'll let that money haunt you to your grave, Willa Harper!
+L413513 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ The money, Icey.
+L413512 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ What?
+L413511 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ There's something else.
+L413510 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ What he needs is a dose o' salts!
+L413509 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ The boy worries me. It's silly, but it's like there was something still between him and his Dad.
+L413508 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Pearl dotes on him.
+L413507 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ John don't like him much.
+L413506 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ If ever I saw a Sign from Heaven!
+L413505 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ It's awful soon after Ben's passing.
+L413504 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ That feller's just achin' to settle down with some nice woman and make a home for himself.
+L413448 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Fiddlesticks!
+L413447 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ Icey, I don't want a husband.
+L413446 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Willa Harper there is certain plain facts of life that adds up just like two plus two makes four and one of them is this: No woman is good enough to raise growin' youngsters alone! The Lord meant that job for two!
+L413826 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Thank you, no. Thank you, dear Icey. I'll tend to them. Thank you.
+L413825 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Want me to take 'em up and wash 'em good?
+L413824 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Just look at you! Dust and filth from top to toe!
+L413787 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ The devil wins sometimes!
+L413786 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ I know you did, Reverend. Oh, I know how you tried!
+L413785 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ I tried to save her.
+L413784 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ She'd found this fruit jar of dandelion wine  that the husband -- Harper -- had hid somewheres in the cellar.  She was drinking.
+L413783 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ What!
+L413782 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ She tarried around the kitchen after I'd gone up, and when I went downstairs to see what was wrong...
+L413781 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ How?
+L413780 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Ain't no sense in it, neither. I figured somethin' like this was brewin' when she went to bed last night.
+L413774 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ The pitcher has went to the well once too often, my friends.
+L413773 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Amen.
+L413772 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ I burned it.  I tore it up and burned it -- it stank so strong of hellfire.
+L413757 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Ah.
+L413756 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Satan.
+L413755 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ What could have possessed that girl!
+L413752 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Mister Powell!
+L413751 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ My dear, dear friends! Whatever would I do without you!
+L413750 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ She lieth in wait as for a prey. And increaseth the transgressors among men.
+L413749 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ Amen! Amen!
+L413497 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ It's for the pick-nick. And you won't get a smidgen of my fudge unless you stay for the pick-nick!
+L413496 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ My, that fudge smells yummy!
+L413489 +++$+++ u2286 +++$+++ m147 +++$+++ ICEY SPOON +++$+++ You ain't leavin' in no hurry if we can help it!
+L413488 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ I must wend my way down River on the Lord's work.
+L413937 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Ssh...
+L413936 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Are we goin' home, John?
+L413911 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ That's Daddy!
+L413910 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Get in the skiff, Pearl, goodness, goodness, hurry!
+L413908 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Hush.
+L413907 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ John, where are we g --
+L413906 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Please be quiet -- Oh please, Pearl!
+L413894 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Hush, Pearl. Come on.
+L413893 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ John?
+L413811 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ It'll spoil our supper.
+L413810 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ We'll steal somethin' to eat.
+L413809 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ I'm hungry, John.
+L413808 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Somewheres. I don't know yet.
+L413807 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Where are we goin', John?
+L413806 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ No, that's just it. No.
+L413805 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Won't Daddy Powell take care of us?
+L413804 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ If we stay here somethin' awful will happen to us.
+L413803 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Why?
+L413802 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Now listen to me, Pearl. You and me is runnin' off tonight.
+L413801 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ I want to go upstairs. It's cold and spidery down here. I'm hungry.
+L413800 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Someone is after us, Pearl.
+L413798 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Yes, I reckon that's it.
+L413797 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ To see Dad?
+L413796 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ She's gone to Moundsville.
+L413795 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Where's Mom?
+L413628 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Pearl! Oh, Pearl!
+L413627 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ It's all here.
+L413626 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ John, don't be mad! Don't be mad! I was just playing with it! I didn't tell no one!
+L413625 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Pearl! You ain't --
+L413624 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ You what?
+L413623 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ You'll get awful mad, John. I done a Sin!
+L413578 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ You promised Dad you wouldn't never tell!
+L413577 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ John! Don't!
+L413576 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ You swore, Pearl!
+L413575 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ When Mr. Powell's our Daddy then I can tell him about --
+L413574 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Hm?
+L413573 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Now can I tell?
+L413538 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Sshhh...
+L413537 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ John...
+L413456 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ 'Night Miss Jenny; don't let the bedbugs bite.
+L413455 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Just a man.  Goodnight Pearl, sleep tight; and don't let the bedbugs bite.
+L413454 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ The Blue Men?
+L413453 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Once upon a time there was a rich king...  ...and he had him a son and a daughter and they all lived in a castle over in Africa. Well, one day this King got taken away by bad men and before he got took off he told his son to kill anyone that tried to steal their gold, and before long these bad men come back and --
+L413452 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Tell me a story, John.
+L413442 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ 'Cause you're too little.
+L413441 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Why?
+L413440 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ You better not sing that song.
+L413439 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Hing, hang, hung.
+L413375 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Blue men.
+L413374 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Who's them Blue Men yonder?
+L413373 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ You, Pearl. You swear too.
+L413354 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ There! What's so hard about that!
+L413353 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Stand still, Miss Jenny!
+L414215 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ A feller can't just go around with run-down, busted watches.
+L414214 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ This watch is the nicest watch I ever had.
+L414137 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ I'll make coffee.
+L414136 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ I'll see to Pearl.
+L414100 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ He ain't my Dad.
+L414099 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ John, when your Dad says 'come', you should mind him.
+L414021 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Well, shoot! Maybe there was!
+L414020 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ I mind you said there was two.
+L414019 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Kings! Why, honey, there was only one.
+L414018 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ About them Kings. That the Queen found down on the sandbar in the skiff that time.
+L414017 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Story, honey? Why, what story?
+L414015 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ I didn't figger ye rowed that skiff from Parkersburg!
+L414014 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Up river.
+L414013 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Where ye from?
+L414012 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Dead. 
+L414011 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Dead.
+L414010 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ John, where's your folks?
+L413968 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ She talks to herself.
+L413967 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ I'm butcherin' my hog myself, smokin' the hams, and cannin' the sausage.  You-all have your work cut out!
+L413951 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Hurt her nothin'! Wash her's more like it!  Ruby!
+L413950 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Don't you hurt her!
+L414096 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Come to me, boy!
+L414095 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Nothin'. 
+L413886 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ You could save him, little bird.
+L413885 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Pearl, shut up! Pearl, you swore!
+L413879 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Under the stone in the floor.
+L413878 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Now: Where?
+L413876 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Yonder.
+L413875 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Now where, boy? Mind; no tricks. I can't abide liars.
+L413874 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Why sure, boy, sure.
+L413873 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Don't you believe me?
+L413872 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ You don't reckon I'd leave you.
+L413871 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Go ahead of me -- the both of you.
+L413870 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ What?
+L413869 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ All right...  Come along.
+L413866 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ In the cellar. Buried under a stone in the floor.
+L413865 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ All right boy: where's the money?
+L413863 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ NO, -- it ain't fair to make Pearl tell when she swore she wouldn't. I'll tell.
+L413862 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ I thought I told you to keep your mouth shut --
+L413861 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ I'll tell.
+L413860 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Now! Where's it hid, honey?
+L413667 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ The summer is young yet, little lad.  Pearl?
+L413666 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ I don't know nothin'!
+L413665 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ She thinks that money's in the river, but you and me, we know better, don't we, boy?
+L413643 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ That wasn't very nice of you, John. Have a heart, boy.
+L413642 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Yes. Yes.
+L413641 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Your mother says you tattled on me, boy. She says you told her that I asked you where that money was hid.
+L413637 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Come on, children!
+L413636 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Pearl's junk. Mom gets mad when she plays out here and don't clean up afterward.
+L413635 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ What's that you're playing with, boy?
+L413634 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ It -- she --
+L413633 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ What's taking you so long about it?
+L413632 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Getting Pearl to bed. I --
+L413631 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ What are you doing, boy?
+L413569 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ No. No.
+L413568 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Are we keeping secrets from each other, little lad?
+L413567 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Nothin'!
+L413566 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Tell me what, boy?
+L413565 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ You think you can make me tell! But I won't! I won't! I won't!
+L413564 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ -- and when we come back, we'll all be friends -- and share our fortunes together, John!
+L413563 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ You ain't my Dad! You won't never be my Dad!
+L413562 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Married! We have decided to go to Sistersville tomorrow, and when we come back --
+L413561 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Huh?
+L413560 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Did you hear what I said, son?
+L413494 +++$+++ u2287 +++$+++ m147 +++$+++ JOHN HARPER +++$+++ Is that all?
+L413493 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Why, he told me what fine little lambs you and your sister both was.
+L413857 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ JOHN -- DOESN'T -- MATTER! Can't I get that through your head, you poor, silly, disgusting little wretch!
+L413856 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ But I swore. I promised John I wouldn't tell.
+L413855 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Just tell me now; where's the money hid?
+L413847 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Because John said I mustn't.
+L413846 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Why, pray tell?
+L413845 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ No.
+L413844 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ About our secrets.
+L413843 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Yes. But first of all we'll have a little talk.
+L413842 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Can I have milk too?
+L413841 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Naturally.
+L413840 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Can I have my supper please?
+L413839 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Why, sure. And there's fried chicken and candied sweets and cornsticks and apple cobbler!
+L413838 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ I'm hungry.
+L413704 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Where's the money hid? Tell me, you little wretch, or I'll tear your arm off!
+L413703 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ John's bad.
+L413702 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Where's the money hid.
+L413701 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ All right.
+L413700 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ O no! Your turn!
+L413699 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Tell me another secret about my Dad.
+L413698 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Yes; John's bad.
+L413685 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Miz Jenny! Miz Jenny!
+L413684 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ You see? We can't have anything to do with John.  You and me will go down to the parlor.
+L413681 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Tst-tst! Then I reckon I'll have to try again! Where's the money hid?
+L413680 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ You're just foolin'! My name's Pearl.
+L413679 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ What's your name?
+L413678 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Sure, that's no secret.
+L413677 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ That's no secret. I'm five.
+L413676 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ How old are you?
+L413675 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ What secret shall I tell?
+L413674 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Now it's your turn.
+L413673 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Yes?
+L413672 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ I knowed your Daddy.  And do you know what your Daddy said to me? He said, "Tell my little girl Pearl there's to be no secrets between her and you."
+L413671 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Yes?
+L413670 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ I'll tell you a secret.
+L413669 +++$+++ u2288 +++$+++ m147 +++$+++ PEARL HARPER +++$+++ Mm-hm.
+L413668 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ John's a feller who likes to keep secrets.
+L414040 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Ahh!
+L414039 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ Only she won't never let me play with it.
+L414038 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Ahhh.  And is there -- a doll?
+L414037 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ Pearl and John.
+L414036 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ What's their names?
+L414035 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ There's two new ones over at your place, ain't there Ruby?
+L414034 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ No. No one never did.
+L414033 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Why, you're the purtiest girl I've seen in all my wandering. Didn't nobody never tell you that, Ruby?
+L414029 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ O' course.
+L414028 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ Will you buy me a choclit sody?
+L414027 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Surely. I'd like to talk to you, my dear.
+L414026 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ Can I have this?
+L414025 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ You're Ruby, ain't you, my child?
+L413777 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Maybe she's just run off on a spree.
+L413776 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ She'll not be back. I reckon I'd be safe in promisin' you that.
+L413775 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ She'll come draggin' her tail back home.
+L413771 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ A scrawl. On a piece of notepaper on the bureau.
+L413770 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Didn't -- didn't she leave no word?
+L413769 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ I reckon it's been ordained this way, Brother Spoon.
+L413768 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ That's mighty brave of you, Reverend.
+L413766 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Do? Why stay and take care of them little kids. Maybe it was never meant for a woman like Willa to taint their young lives.
+L413765 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ What do you figure to do?
+L413763 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ She turned me out of the bed.
+L413762 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ How's that?
+L413761 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Our honeymoon.
+L413760 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ The first night?
+L413759 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Yes; from the first night.
+L413758 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Didn't you have no inkling?
+L413754 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ It is my shame -- my crown of thorns. And I must wear it bravely.
+L413753 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Is there anythin' -- anythin'...?
+L413748 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ A strange woman is a narrow pit!
+L413747 +++$+++ u2292 +++$+++ m147 +++$+++ WALT +++$+++ Mister Powell?
+L413723 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ Ben never told you he throwed it in the river? Did he?
+L413722 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Answer me!
+L413721 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ It's not in the river, is it Harry?
+L413720 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ You were listening outside the parlor window.
+L413719 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ I'm through, Harry.
+L413718 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Are you through praying?
+L413602 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ Yes.
+L413601 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ It's the business of our marriage to mind those two you have now -- not to beget more.
+L413600 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ I -- no, I --
+L413599 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Do you want more children, Willa?
+L413592 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Get up.
+L413591 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ Harry, what --
+L413590 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Get up, Willa.
+L413589 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ I think it's time we got one thing perfectly clear, Willa. Marriage to me represents a blending of two spirits in the sight of Heaven.
+L413588 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ No, Harry! I thought --
+L413587 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ You thought, Willa, that the moment you walked in that door I'd start in to pawing you in the abominable way men are supposed to do on their wedding night. Ain't that right, now?
+L413586 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ Oh, I'm sorry, Harry! I didn't know! I thought maybe --
+L413585 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ I was praying.
+L413584 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ Harry!
+L413534 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Well, John, the night before your father died, he told me what he did with that money.
+L413533 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ John, Mr. Powell has got something to tell you.
+L413491 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ He don't mean no impudence; do you, boy?  Do you, boy? Ah, many's the time poor Brother Ben told me about these youngins.
+L413490 +++$+++ u2293 +++$+++ m147 +++$+++ WILLA HARPER +++$+++ John: take that look offen your face and act nice.
+L414134 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ I'm givin' you to the count of three to get out that screen door; then I'm a-comin' across this kitchen shootin'!
+L414133 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ None of your business, Madam.
+L414132 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ What are you after them for?
+L414131 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Them kids!
+L414130 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ What do you want?
+L414098 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Didn't you hear me, boy?
+L414097 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ What's wrong, John?
+L414094 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ What's wrong, John?
+L414093 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ The Lord is merciful! What a day is this! -- And there's little John!
+L414092 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ The Lord will provide.
+L414091 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ How you figgerin' to raise them two without a woman?
+L414090 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Gracious, gracious! You are a good woman, Miz Cooper!
+L414087 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Right funny, hain't it, how they rowed all the way up river in a ten- foot john-boat!
+L414086 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Heaven only knows what unholy sights and sounds those innocent little babes has heard in the dens of perdition where she dragged them!
+L414085 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ She took them kids with her?
+L414084 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Somewheres down river! Parkersburg, mebbe! -- Cincinnati! -- One of them Sodoms on the Ohio River.
+L414083 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Where's she at?
+L414082 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ She run off with a drummer one night. Durin' prayer-meetin'.
+L414081 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Where's your Missus?
+L414080 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ My flesh and blood!
+L414079 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Them kids is yours?
+L414078 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ It was with this left hand that old brother Cain struck the blow that laid his brother low --
+L414077 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Shall I tell ye the little story of Right-Hand-Left-Hand -- the tale of Good and Evil?
+L414073 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ It's about that John and that Pearl?
+L414072 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ You're Miz Cooper, I take it.
+L414071 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ How'do.
+L414070 +++$+++ u2289 +++$+++ m147 +++$+++ PREACHER +++$+++ Mornin', ladies.
+L414069 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ The man! The man!
+L414068 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ What?
+L414067 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ Miz Cooper!
+L414064 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ John and Pearl!
+L414063 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ Pearl and John.
+L414062 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ What'd you all talk about?
+L414061 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ He must have wanted somethin', Ruby. A man don't waste time on a girl unless he gets something.
+L414060 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ He never asked me for nothin'.
+L414059 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Now who was this?
+L414058 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ This gentleman warn't like them! He just give me a sody and the book.
+L414054 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ I been out with men.
+L414053 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ What you been up to?
+L414052 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ Miz Cooper. I never went to sewin' lessons all them times.
+L414051 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ The Drugstore?
+L414050 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ This man down at the Drugstore...
+L414049 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ When did I ever?
+L414048 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ You'll whip me!
+L414047 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Ruby, you didn't have no money to buy this.
+L414046 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ I been bad!
+L414005 +++$+++ u2290 +++$+++ m147 +++$+++ RACHEL COOPER +++$+++ Not this time! It was just one youngin -- a little boy babe. And do you know who he was, children?
+L414004 +++$+++ u2291 +++$+++ m147 +++$+++ RUBY +++$+++ Pearl and John!

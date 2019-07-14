@@ -1,0 +1,909 @@
+L360353 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Do me a favor, Arthur, keep him on til I see what's happening.
+L360352 +++$+++ u1935 +++$+++ m127 +++$+++ ARTHUR +++$+++ Hey. I don't know, I don't want to know. Far as I'm concerned, you're a good kid. I got news, though, without you here I can't keep on your friend. I got enough people pretending to sweep.
+L360351 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ They were grabbing her fucking ass --
+L360350 +++$+++ u1935 +++$+++ m127 +++$+++ ARTHUR +++$+++ Maxie wants me to replace you on the job tomorrow. He wants you to come by the office today.
+L360349 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What are you talking about?
+L360348 +++$+++ u1935 +++$+++ m127 +++$+++ ARTHUR +++$+++ Look, Bobby, I don't know what happened, and I don't want to know what happened, but something's up.
+L360362 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No, thank you. I'm good. Thanks.
+L360361 +++$+++ u1936 +++$+++ m127 +++$+++ AUDREY +++$+++ You sure? I just made it.
+L360360 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No thank you.
+L360359 +++$+++ u1936 +++$+++ m127 +++$+++ AUDREY +++$+++ He'll be a minute, hon. You want some coffee?
+L360358 +++$+++ u1936 +++$+++ m127 +++$+++ AUDREY +++$+++ Good afternoon, Bobby. I'll let Max know you're here.
+L360357 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah.
+L360356 +++$+++ u1936 +++$+++ m127 +++$+++ AUDREY +++$+++ You're Bobby, right?
+L360355 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Hi, uh, excuse me. I'm here to see Mr. Reuben.
+L360292 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Then put my Martel's in a snifter.
+L360291 +++$+++ u1937 +++$+++ m127 +++$+++ BARTENDER +++$+++ We have snifters
+L360290 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ What's the matter? You ain't got no snifters in this motherfucker?
+L360289 +++$+++ u1937 +++$+++ m127 +++$+++ BARTENDER +++$+++ When served warm --
+L360288 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Yeah, snifters are for cognac --
+L360287 +++$+++ u1937 +++$+++ m127 +++$+++ BARTENDER +++$+++ Snifter are for warm drinks --
+L360286 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Martel's and coke. One ice cube. In a snifter this time.
+L360689 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ See you later.
+L360688 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ It's on West Broadway.
+L360687 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Don't worry about me getting in. Just tell me where it is.
+L360686 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ I don't know, Forum's pretty hot tonight. It might be hard to get in, though.
+L360685 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah 'women.' If I was a fag I could get laid in a subway.
+L360684 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ Women?
+L360683 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Nightlife. Where's the hot ass?
+L360682 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ As far as...?
+L360681 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Where's the place to go tonight?
+L360680 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ Thank you, sir.
+L360679 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ No. That's cool. Bring me back eighty.
+L360678 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ It's as good a suite as we have, unless you want two bedrooms.
+L360677 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ What if I gave you forty?
+L360676 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ Honestly, the suites are all about the same.
+L360675 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Come on. Just tell me. It'll save all the trouble of you showing me all the rooms.
+L360674 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ All the suites are about the same.
+L360673 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Is it the good room?
+L360672 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ What, sir?
+L360671 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So?
+L360670 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ Thank you very much, sir.
+L360669 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah. Take it.
+L360668 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ Are you sure?
+L360667 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Here. Take it. Bring me back eighty.
+L360666 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ Not on me, sir.
+L360665 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Just tell me. Wait, here... Do you have change of a hundred?
+L360664 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ I can take you down there.
+L360663 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Is it a good room?
+L360662 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ Yes, sir.
+L360661 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Just give me the key. I'm gonna stay here.
+L360660 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ Now, Mr. Slade, you're in room 315.
+L360658 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ Phone, room service, mini-bar. Any additional expense. If you need anything you can push the button marked 'Concierge', and they'll be able to help you.
+L360657 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ What's 'incidentals?'
+L360656 +++$+++ u1938 +++$+++ m127 +++$+++ BELLMAN +++$+++ ...And here is the key to the mini- bar. Room and tax has been picked up by Cardiff Giant, as well as one fifty in incidentals.
+L360978 +++$+++ u1939 +++$+++ m127 +++$+++ BIANCA +++$+++ Somebody's getting comfortable.
+L360977 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Okay. We got a lot happening here. Here comes the good part... Okay...
+L360956 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Look at, ladies. I could sit here and take turns throwing skittles at your ass all night. But I feel what you guys are putting out there. I'm only a mirror reflecting what I'm getting from you. And I'm saying yes to it. I'm shaking hands with it. I see the road that you're pointing down and I'm saying I'll ride shotgun. And when your foot slams on the accelerator, I won't get scared. I'll stand up and let the wind blow through my long blonde hair. With my summer dress clinging to my bosom yelling 'Faster, Billy! Faster! Drive faster! Faster yet -- !'
+L360955 +++$+++ u1939 +++$+++ m127 +++$+++ BIANCA +++$+++ What happened? I thought we were playing Truth or Dare.
+L360954 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I don't know about you guys, but I'm starting to feel a really sexual vibe here.
+L360948 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So you're models?
+L360947 +++$+++ u1939 +++$+++ m127 +++$+++ BIANCA +++$+++ We're in Fashion.
+L360946 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I don't get it. What do you do?
+L360944 +++$+++ u1939 +++$+++ m127 +++$+++ BIANCA +++$+++ No.
+L360943 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You girls aren't from Brooklyn or anything?
+L360942 +++$+++ u1939 +++$+++ m127 +++$+++ BIANCA +++$+++ Manhattan.
+L360941 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So, wait, you're from where?
+L360993 +++$+++ u1939 +++$+++ m127 +++$+++ BIANCA +++$+++ Come on. Let's go.
+L360992 +++$+++ u1942 +++$+++ m127 +++$+++ CYNTHIA +++$+++ We used to take baths together.
+L360991 +++$+++ u1939 +++$+++ m127 +++$+++ BIANCA +++$+++ Oh no. What is it this time.
+L360972 +++$+++ u1939 +++$+++ m127 +++$+++ BIANCA +++$+++ But maybe that's okay. Maybe that's just what you need.
+L360971 +++$+++ u1942 +++$+++ m127 +++$+++ CYNTHIA +++$+++ I know.
+L360970 +++$+++ u1939 +++$+++ m127 +++$+++ BIANCA +++$+++ He's alright.
+L360969 +++$+++ u1942 +++$+++ m127 +++$+++ CYNTHIA +++$+++ He's great, right. Is he great?
+L360968 +++$+++ u1939 +++$+++ m127 +++$+++ BIANCA +++$+++ I don't know. Do whatever you want.
+L360967 +++$+++ u1942 +++$+++ m127 +++$+++ CYNTHIA +++$+++ Should I fuck him?
+L360966 +++$+++ u1939 +++$+++ m127 +++$+++ BIANCA +++$+++ He's okay.
+L360965 +++$+++ u1942 +++$+++ m127 +++$+++ CYNTHIA +++$+++ Is he cute?
+L360960 +++$+++ u1942 +++$+++ m127 +++$+++ CYNTHIA +++$+++ I'm having fun, Sean. Can you handle that...? Yeah. He doesn't judge me.
+L360959 +++$+++ u1939 +++$+++ m127 +++$+++ BIANCA +++$+++ Holy shit.
+L360958 +++$+++ u1942 +++$+++ m127 +++$+++ CYNTHIA +++$+++ Will you leave me alone, already...? No, Sean, it's over... I don't care... As a matter of fact, I am... Yeah. In his hotel room...
+L360328 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What? You don't think Horrace would leave your white ass in there to hang?
+L360327 +++$+++ u1956 +++$+++ m127 +++$+++ WENDY +++$+++ Bullshit.
+L360326 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I got news for you, Horrace got his ass out of there before you did.
+L360325 +++$+++ u1956 +++$+++ m127 +++$+++ WENDY +++$+++ And how could you fucking leave Horrace hanging?
+L360324 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Nobody's fuckin talking to you.
+L360321 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No more.
+L360320 +++$+++ u1956 +++$+++ m127 +++$+++ WENDY +++$+++ You think he don't know? I give him his cut of seventeen hundred, I think he knows I can't make that lap dancing.
+L360319 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Bullshit.
+L360318 +++$+++ u1956 +++$+++ m127 +++$+++ WENDY +++$+++ I got news for you, Bobby, he don't give a shit.
+L360317 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You wanna get us busted? If Max found out you were turning tricks --
+L360316 +++$+++ u1956 +++$+++ m127 +++$+++ WENDY +++$+++ What the fuck was that about?
+L361195 +++$+++ u1941 +++$+++ m127 +++$+++ CHLOE +++$+++ I love you. Come home.
+L361194 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I gotta go, baby. I love you. Tell mommy I called. You be a big girl and be careful when you're alone.
+L361193 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah. Are you sure mommy's not home? It's very late.
+L361192 +++$+++ u1941 +++$+++ m127 +++$+++ CHLOE +++$+++ Can you take me to Color Me Mine?
+L361191 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What time is it there?
+L361190 +++$+++ u1941 +++$+++ m127 +++$+++ CHLOE +++$+++ No.
+L361189 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Mommy's not home?
+L361188 +++$+++ u1941 +++$+++ m127 +++$+++ CHLOE +++$+++ I don't know.
+L361187 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Hi, baby. What are you doing awake? Where's mommy?
+L361186 +++$+++ u1941 +++$+++ m127 +++$+++ CHLOE +++$+++ Uncle Bobby?
+L361185 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Chloe?
+L361184 +++$+++ u1941 +++$+++ m127 +++$+++ CHLOE +++$+++ Hello.
+L360515 +++$+++ u1941 +++$+++ m127 +++$+++ CHLOE +++$+++ I want spaghettis.
+L360514 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You gonna bust my horns, or you want spaghetti
+L360513 +++$+++ u1941 +++$+++ m127 +++$+++ CHLOE +++$+++ You're not my daddy.
+L360496 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Will you paint the damn thing. Why do you gotta be such a baby.
+L360495 +++$+++ u1941 +++$+++ m127 +++$+++ CHLOE +++$+++ It's a poison arrow tree frog.
+L360491 +++$+++ u1941 +++$+++ m127 +++$+++ CHLOE +++$+++ He's not doing it.
+L360490 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What's wrong, baby?
+L360476 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Show uncle Ricky what you made.
+L360475 +++$+++ u1941 +++$+++ m127 +++$+++ CHLOE +++$+++ No.
+L360474 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Mommy works hard so you can have all your pretty clothes. Don't you like your pretty clothes?
+L360473 +++$+++ u1941 +++$+++ m127 +++$+++ CHLOE +++$+++ It's daytime.
+L360472 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ She's, uh, sleeping.
+L360471 +++$+++ u1941 +++$+++ m127 +++$+++ CHLOE +++$+++ A elephant seal. Where's mommy?
+L360466 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Ricky, can you put on a seat belt?
+L360465 +++$+++ u1941 +++$+++ m127 +++$+++ CHLOE +++$+++ Ricky's not wearing one.
+L361271 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ I want you to take her with you.
+L361270 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What'd you say?
+L361269 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Take her.
+L361268 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Tell you the truth, I don't give a shit for me. But that little girl is so special, and you're gonna fuck her up.
+L361267 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Don't you get it? I don't want to leave. This is who I am.
+L361266 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Just so you know, I bought you out with Maxie. I suggest you leave while you can.
+L361265 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Goodbye, Bobby.
+L361264 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ How could you let her see this?
+L361263 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ I never promised you anything.
+L360543 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Don't get my hopes up. If I quit, what then? I can't go through this again.
+L360542 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ She needs a family. A dad. I'll give her what you never had.
+L360541 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Yeah, well Max offers a lot of things. And I got news for you. He's not the sweet old man you think he is.
+L360540 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Max offered to stake me.
+L360539 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ With what?
+L360538 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I'll support you.
+L360537 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Look at the bills. I can't. I'm not gonna put my daughter through what I went through.
+L360536 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I want you to quit.
+L360535 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Listen to me, Bobby. This is my job. It puts a roof over me and my daughter and you for as long as you want to stay.
+L360534 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Good! It'll save me the trouble of repeating myself. He's not fucking driving you!
+L360533 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Shhh. He'll hear you.
+L360532 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Ho's a fucking pimp! He encourages Wendy to turn tricks. And she's his fucking wife!
+L360531 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Ho's a good guy --
+L360530 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Maxie's fucking with me. He put you with the spook to get under my skin.
+L360529 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Maybe if you didn't go Rambo every time I did a lapdance, you'd still be doing it yourself. Meantime, I gotta feed my little girl.
+L360528 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No way that cocksucker's driving you.
+L360512 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Go.
+L360511 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Yeah? You sure?
+L360510 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Go finish getting ready. I'll take care of dinner.
+L360283 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Leave me alone. I haven't touched anything in months.
+L360282 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No coke tonight.  Right?
+L360281 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Forget Ricky. You should be glad Max got you driving for me.
+L360280 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I just wish he never brought it up. Ricky won't shut up about it.
+L360279 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ You shouldn't. He likes you.
+L360278 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I feel weird asking him.
+L360277 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Fine. You want to help Ricky, talk to Maxie yourself.
+L360276 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Well, that's not gonna happen.
+L360275 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ The only way he'll go with Ricky is if you're in too.
+L360274 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Don't expect you to mention it to him. I'm just saying, if --
+L360273 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ I'm not gonna mention Ricky to him.
+L360272 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You talk to Max today?
+L360267 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ They're not too classy to have tits rubbed in their face.
+L360266 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Bullshit. These are classy customers. You can't show up all fucked up with a Fila running suit on.
+L360265 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I'm ready.
+L360264 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ She's downstairs with Ruth. Get ready.
+L360263 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Who's watching the baby?
+L360262 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Will you cut it out! Get ready, we're already late.
+L360261 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ If they asked for her, they're probably expecting blowjobs all around.
+L360260 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Oh, please.
+L360259 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Some favor. I hope they know you're not like Wendy.
+L360258 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ They requested her. It was her gig. Max put me on as a favor.
+L360257 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I don't like you working with Wendy. Why are you working with Wendy?
+L360256 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Bobby, this is a plumb gig. It's a bunch of young agents and it's at a restaurant. It's gonna be easy and we'll make a lot of money.
+L360255 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ A draw. What makes you think they're well mannered?
+L360254 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Oh my god. What happened?
+L360253 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ The easy kind. They're young and rich and well mannered.
+L360252 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No. What kind of bachelor party?
+L360251 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Easy night. Bachelor party. Can we give Wendy a ride?
+L360250 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ So, what kind of gig is this?
+L360249 +++$+++ u1948 +++$+++ m127 +++$+++ JESS +++$+++ Where were you?
+L360248 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Honey?
+L361262 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I don't get it.
+L361261 +++$+++ u1946 +++$+++ m127 +++$+++ HORNY GUY +++$+++ I -- I -- I... Don't...
+L360313 +++$+++ u1946 +++$+++ m127 +++$+++ HORNY GUY +++$+++ Come on, dude. The other chick's giving my best man a blow job in the toilet. I know the drill, I'll wear a rubber --
+L360312 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Your dance is over.
+L360311 +++$+++ u1946 +++$+++ m127 +++$+++ HORNY GUY +++$+++ Dude, listen, man. I'm cool. How much for the treatment?
+L360310 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Get your hands off of her.
+L360309 +++$+++ u1946 +++$+++ m127 +++$+++ HORNY GUY +++$+++ Look, man, I'm the bachelor, alright? I gave her a hundred bucks in tips alone --
+L360308 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I said no touching.
+L360306 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I don't give a shit. I work for her. No touching.
+L360305 +++$+++ u1946 +++$+++ m127 +++$+++ HORNY GUY +++$+++ But what about them?
+L360304 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ There's no touching.
+L360303 +++$+++ u1946 +++$+++ m127 +++$+++ HORNY GUY +++$+++ Whu --
+L361212 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ I guess inside. Or he never made it. Either way, I don't give a shit. Let's get this over with.
+L361211 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Where's Ricky.
+L361210 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ This is it.
+L361209 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ That's it.
+L361208 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ That it?
+L361207 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ He was uptown when I paged him. I gave him the address. He's meeting us there.
+L361206 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ How so?
+L361205 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Ricky's taken care of.
+L361204 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Where's Ricky?
+L361203 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Quick drop. In and out.
+L361202 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Where we going?
+L361182 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ And not a word to Maxie. He'll shit if he knew we crossed a bridge.
+L361181 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ It sounds to me like everybody's just a little jumpy. And since all it is is a drop, the Welshman's got nothing at stake. I say we go to his 'troughed off' bar. It'll calm his nerves, we drop the bag, and we all get back to our lives.
+L361180 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ They ran shit back in the Eighties. Used to cut motherfuckers heads off and sit them on the bar. That's back when the Irish was making a play against the Italians. I don't know if they still around, but I don't fuck with those motherfuckers just in case.
+L361179 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Heard of them.
+L361176 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Nah, man. No one is. They got some Puerto Ricans and a new crop of fuckin Irish immigrants.
+L361175 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Ruiz tied in out there?
+L361174 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Troughed off. Protected. Like, you know, like he got a moat around it.
+L361173 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What do you mean 'troughed?'
+L361172 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ He must have that shit troughed.
+L361171 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah?
+L361170 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Brooklyn.
+L361169 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No.
+L361168 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Now, here's what worries me. He said he wants to meet up at a bar in Red Hook. You know where that is?
+L361067 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ We meet at the Globe on Park Avenue at six forty-five. I'll see you then.
+L361066 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Where is this happening?
+L361065 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ We go and hang out with the dude, make him happy, drink some tea, whatever it takes, until he feels comfortable enough to bring it up on his own. We make the drop, go home to California.
+L361064 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ So what do we do?
+L361059 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah.
+L361058 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ A Shot Caller. A boss, a Capo. He's running shit.
+L361057 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What's that?
+L361056 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ This Welsh dude is tripping on Ruiz cause he's a Shot Caller.
+L361055 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Why isn't Ruiz coming?
+L360917 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Shit.
+L360916 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Was gonna be tomorrow morning. Now, who knows?
+L360915 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ When's it going down?
+L360914 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ It's bad. Before you even showed up, he said you were Maxie's 'token goons', and not to be trusted. He wanted to TCB alone. I was gonna ride shotgun to keep the English dude above board. Now he's spooked. This shit's snowballing.
+L360913 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ How bad is it?
+L360880 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ To be honest, man, I don't know shit either. All I know is it ain't drugs and it ain't now.
+L360879 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ So, when's the drop.
+L360878 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Ruiz don't like using names on cell phones. He refers to him as the Red Dragon.
+L360877 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What's his name?
+L360876 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Nah, man. He's just making contact. That's our man. The Welsh guy.
+L360875 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ He making the drop?
+L360776 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah. Where is he?
+L360775 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ What's up. You all ready to meet Ruiz?
+L360546 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Excuse --
+L360545 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Get away from her.
+L360544 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ C'mon girl. Eat up.
+L360521 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ She'll be out in a minute.
+L360520 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Yeah.
+L360519 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You driving her?
+L360518 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ What's up? Jess ready?
+L360302 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ I'm serious. Humping sheetrock and driving on weekends got to get to you after a while. Might be nice to buy your lady something. All it takes is one fight.
+L360301 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah, sure.
+L360300 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Yeah, well you let me know when you wanna start makin the real money.
+L360299 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ 5-5-1.
+L360298 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ What's your record at?
+L360297 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Draw.
+L360296 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Well, you look it. You win?
+L360295 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I had a fight up at Sportsman's.
+L360294 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ It's already been a hell of a night. Where you been?
+L361252 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ I hate to ruin your fairy tale, but I've been paying Jess' rent for six months. She's got to keep dancing --
+L361251 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I don't need a few days. I'm gonna settle down with Jess. She's through dancing. We're opening a restaurant.
+L361250 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Take a few days --
+L361249 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ There won't be a next thing.
+L360583 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Yes. Goodbye.
+L360582 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You want us to be wherever you want us to be, ASAP, no questions asked.
+L360581 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I already told you, I parked it for five minutes and I locked it with the club --
+L360574 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Not you. I want Ricky to answer.
+L360573 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You want --
+L360572 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ What is it?
+L360571 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yes.
+L360563 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah.
+L360562 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Yes, for expenses and such. Now, you'll be contacted on your pager as to where you should go. You each have been given an extra battery, so there is absolutely no excuse as to why a page would not be immediately returned. Am I making myself abundantly clear?
+L360421 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No. Okay. I'll think about it.
+L360420 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Do me a favor. Think about it. Is that too much too ask?
+L360419 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ It's not that I don't appreciate the offer...
+L360418 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ You're ready to move up. Christ, the way you busted up the place, you're doing worse already. May as well get paid instead of punished.
+L360417 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I gotta tell you, Mr. Reuben, I'm not comfortable getting in any deeper. It's one thing to look after Jess...
+L360416 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ How 'bout this. If you're in, he's in.
+L360415 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah. Sure.
+L360414 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ You vouch for him?
+L360413 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ He's good people, Mr. Reuben. I swear.
+L360412 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ I don't know the kid, and what little I do scares me.
+L360411 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ He'll work it off.
+L360410 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ That was before he lost my carpet cleaning van.
+L360409 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You told him you liked him.
+L360408 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Ricky? Ricky 'I lost the truck' Ricky?
+L360407 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What about Ricky? He'd jump at the opportunity.
+L360406 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Ruiz wants to go alone, but it's not up to Ruiz. It's up to me, and I like a sure thing. Just go and we're square on the tooth.
+L360405 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Ruiz knows about this?
+L360404 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ We try something out. There's someone I'm in business with named Ruiz. I want you to accompany him on a drop.  Just as scenery. Ruiz has his boys. I just want a big guinea with a busted up face to give him a deep bench. As a deterrent.
+L360403 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah.
+L360402 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ I got a way we make everybody happy.
+L360401 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah. Sorry.
+L360400 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Now you wanna shut up and listen and hear what I got to say?
+L360399 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I know.
+L360398 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Don't I put food on you're table? I sponsor your training, I take care of your girl and her little baby. I even pay that deadbeat friend of yours to push a goddamn broom.
+L360397 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No.
+L360396 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Who the fuck do you think you're talking to? This ain't a fucking democracy. You want out?
+L360395 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I don't want to drive another girl, Max. The only reason I'm --
+L360394 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ It's my fault. I send you out to watch scum drool all over the love of your life, then I wonder why you seered. It's my fault. The tooth is on me. But no more. I'm 'reassigning' you.
+L360393 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I don't understand.
+L360392 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Bobby. You're a bull terrier and I got you herding sheep.
+L360391 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Then what are you saying?
+L360390 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ I didn't say that.
+L360389 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ So, that's it. I'm out?
+L360388 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ You're not driving Jess no more. Two strikes, Bobby, and this last one was big. The bachelor's father goes to my schul.
+L360387 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What?
+L360386 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Not driving Jess, you won't.
+L360385 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I'll work it off.
+L360384 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Bobby, I love Jessica like she's my own daughter. I would kill anyone so much as lays a finger on her or her beautiful daughter, but that fucking pisher you socked in the mouth has the most expensive dentist in Beverly Hills and wants I should buy him an implant. Your silverback horseshit's gonna cost me eight grand.
+L360383 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ That prick tried to get Jessica to blow him in the bathroom --
+L360382 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ They're fucking yeshiva buchas. You didn't have to tear up the goddamn place. You knocked out a guys teeth.
+L360381 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ They were out of line --
+L360380 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Last time, maybe, with the Puerto Ricans, but these were nice Jewish boys.
+L360379 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Mr. Reuben, I swear to God, they were out of line.
+L360378 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ I like you, kid. Why do you gotta make it so hard for me to take care of you?
+L360377 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ That's why they call it the smart money.
+L360376 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Never won a race. But it got me in with the trainer. We'd have a thing, I don't remember, some fucking thing. The jockey would raise his whip, it meant the fix was in, we'd all go running. People get greedy. First they bet small, they keep their mouth shut. Within a month's time, everyone and their brother was in on it. The odds would drop, I mean you could watch the goddamn board. It looked like a fuckin stopwatch, the odds would drop so fast.
+L360375 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ She was fast, huh?
+L360374 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ A million. Easy.
+L360373 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Pshhh...
+L360372 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Yeah. The blaze. I bought her in '66. Hired a trainer, stall, whatever it was. That horse made me over a hundred grand. In 'sixties' dollars. You know what that is today?
+L360371 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ This one?
+L360370 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ It's fixed. That's the only way to win. A sure thing. See that horse. The blaze.
+L360369 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Why?
+L360368 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Smart. Hard as hell to handicap. You know what I like? Hai Alai. Fast game. You know why I like it?
+L360367 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Me? No. Not really.
+L360366 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ You bet the ponies?
+L360365 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Sure. Yeah.
+L360364 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ You like the ponies?
+L361050 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ You three are gonna meet him for dinner. Find out if and where. Now any of you motherfuckers got anything else to say?
+L361049 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Where's the drop?
+L361048 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Now listen. The gig couldn't be simpler. You carry the money to the Welshman, he checks it, hands you his marker, you're done. The washed money goes directly to Maxie. Long as you hand off the bag, you're tight.
+L361041 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Tom, the Welsh dude --
+L361040 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What's the plan?
+L361033 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ I didn't tell him shit. He worries too much. I love that old Jew, but he's gonna kill himself worrying. We started this shit, and we're gonna finish it.
+L361032 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ A bad heart.
+L361028 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Nah, man...
+L361027 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Don't 'easy Ruiz' me. Y'all turned a Easter egg hunt into a butt-fuck-a- thon.  Bring me four eggs Benedict and a mimosa. You all want mimosas?
+L361021 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Good morning.
+L361020 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Jesus Christ, where the fuck you been all night? You look like you got shit out in the gorilla house.
+L360908 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Now that Limey motherfucker's jumpy and wants to change shit around on me. Maxie's gonna shit a Nokia when he hears about... Aw, shit, I better call him before he hears.
+L360907 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ We get it. We're sorry.
+L360906 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ 'Dis?' 'Dis?' You're not in a position to 'dis', or 'give props', or whatever your Real World sense of fucking decorum tells you to do. You're nothing. You're wallpaper. You're not here to make fucking friends. Asking a motherfucker where he lives. And who the fuck told you 'Red Dragon'?.
+L360867 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What drill?
+L360866 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ That's him. Now you all know the drill, right?
+L361200 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Yeah, he's getting there on his own.
+L361199 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Taken care of?
+L361198 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Ricky's taken care of.
+L361197 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Aren't we waiting for Ricky?
+L360824 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah.
+L360823 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Understand me?
+L360822 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah?
+L360821 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Don't know much. I hear he runs a tight ship.
+L360820 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ This Ruiz guy, what's his deal?
+L360817 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ You know, white kids with trust funds acting like they're poor. Keeping it real. Know what I mean?
+L360816 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ 'Trustafarians?'
+L360813 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Depends what night.
+L360812 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah.
+L360811 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Spa?
+L360744 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No. That's cool, man.
+L360743 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ I can wait around if you want.
+L360742 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Well, this is the corner.
+L360741 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No. Just the cross streets.
+L360740 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ You don't know where you're going?
+L360739 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Harlem? What is it, a restaurant?
+L360738 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Yeah. I'll find it. It's in Harlem.
+L360737 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ So, Jimmy, you know where this address is?
+L360655 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Soho.
+L360654 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Where is the Soho Grand?
+L360636 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Traveling light. I like that.
+L360635 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Nah.
+L360634 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Yeah. You're staying at the Soho Grand. You got anything checked?
+L360633 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I'm not sure. All I know is the account is Cardiff Giant.
+L360632 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ You're going to the Soho Grand hotel, right?
+L360631 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What's that?
+L360628 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Bobby.
+L360627 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Hi. I'm Jimmy.
+L360626 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Hi. I, uh, think that's us.
+L360732 +++$+++ u1945 +++$+++ m127 +++$+++ HISPANIC KID +++$+++ I be off in a minute.  Say again...?
+L360731 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Listen, man, we really gotta...
+L360730 +++$+++ u1945 +++$+++ m127 +++$+++ HISPANIC KID +++$+++ So's this.  Hey baby... Oh, nothing. What were you saying?
+L360729 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ It's important.
+L360728 +++$+++ u1945 +++$+++ m127 +++$+++ HISPANIC KID +++$+++ I'm on the phone.
+L360727 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Excuse me, we need to make a call.
+L360726 +++$+++ u1945 +++$+++ m127 +++$+++ HISPANIC KID +++$+++ Yeah... Mmmm, that sounds good... Uhu...
+L360865 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Thanks.
+L360864 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ Any time, bro.
+L360863 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Thanks a lot. Don't worry about it.
+L360862 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ Sorry, man, but...
+L360846 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ He's not here.
+L360845 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Can you check?
+L360844 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ Ruiz is always on the list. He just ain't here, though.
+L360843 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ We're supposed to meet him here. Is Ruiz on the list?
+L360842 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ Ruiz isn't here.
+L360841 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ We're with Ruiz.
+L361259 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I'll be a minute.
+L361258 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ No. I'll wait here.
+L361257 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I'll drop you off in a minute. I want to see if the baby's up. You wanna come in?
+L361256 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Dude, we were practically made...
+L361242 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Take us right to Kennedy. Now.
+L361241 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Holy shit. Get me back to Manhattan.
+L361125 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Easy...
+L361124 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Look. They're together. You telling me this ain't a set-up?
+L361121 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You're not getting a gun.
+L361120 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Scenario B. I think I'm getting under Ruiz's skin. I'm no dummy. He doesn't like how it went down with the Red Drag -- Welshman, whatever. Now I got Fruitpie the Magician telling me I can't call my man Max? And that Welshman's sketchy.  Whatever, I don't know where it's coming, which way it's coming from, I'm telling you one thing right now, I'm not gonna be late for the dance.
+L361119 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Where do you get this shit?
+L361118 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Think about it: You knocked out that Jewish kid's tooth, cost him eight grand, maybe more. Maybe lost his whole line of clientele? He knows you're fucking up Jess' dancing, and I got a feeling he knows I stole his carpet cleaning van by the way he looks at me. He can't kill us in LA cause that leads to too many questions. So he flies us out here first class for a 'drop' that's turned into whatever? He can make us disappear out here real nice...
+L361117 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Don't fuck around. You're gonna get us all killed.
+L361116 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Let's just go get guns, I'd feel better.
+L361115 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I don't want to take any more chances.
+L361114 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Three and a half hours?
+L361113 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Let's just go now and wait.
+L361112 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So what do we do?
+L361111 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ How we gonna sleep? We only got a few hours til dinner.
+L361110 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Let's get some sleep. That's what we need, man. Sleep.
+L361109 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No more, man.
+L361108 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ It's gonna be fine.
+L361107 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ This is horseshit. It coulda been so easy.
+L361106 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I'm sorry...
+L361105 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Ricky. I'm trying to save this money. Understand? I'm trying to make it so my girlfriend doesn't have to grind her ass into other men's erections so her daughter can go to private school.
+L361104 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ This shit's peanuts compared to what we're gonna make with Maxie.
+L361103 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I fucking vouched for you. I vouched for you and you fucked me.
+L361102 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Calm down.
+L361101 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ They only cover one fifty in incidentals. You've been ordering fucking... Motherfucker...
+L361100 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ What about it?
+L361099 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yes I did. You asshole! What about the room?
+L361098 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You did?
+L361097 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I did! I paid for half the fuckin drinks!
+L361096 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You coulda picked up a tab every once in a while.
+L361095 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What happened to the fifteen hundred?
+L361094 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Eighty five.
+L361093 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Eighty bucks?!?
+L361092 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Eighty.
+L361091 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What do you have left?
+L361090 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ No.
+L361089 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You're out of money?
+L361088 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You wanna see how fast I get a gun?
+L361087 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Why?
+L361086 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Float me a hundred bucks.
+L361085 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ It was six in the fucking morning.
+L361084 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ That's cause you decided to get all tired all of a sudden.
+L361083 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You couldn't even get a hand job from bridge and tunnel posse, how you gonna get a gun?
+L361082 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Wanna bet?
+L361081 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You wouldn't even know where to get one.
+L361080 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ All the more reason.
+L361079 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I listened extremely carefully. Nothing was even vaguely implied. He even laughed in your face when you asked him
+L361078 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I'm pretty sure we do.
+L361077 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ We don't need guns.
+L361076 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ We need guns.
+L361075 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I'm tired and I'm scared, and I'm not looking at fucking penguins.
+L361074 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Whatever. We're here. We may as well go to the penguin house.
+L361073 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Did you hear what he just said?
+L361072 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah. Let's look at the penguins.
+L361071 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Wait a minute. You want to look at fucking penguins now?
+L361070 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ The penguin house.
+L361069 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ The what?
+L361068 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Let's check out the penguins.
+L361047 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I'm your soldier.
+L361046 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Let's do it.
+L361037 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You want us strapped, don't you?
+L361036 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Nothing, man.
+L361017 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah. Where they gonna whack us?
+L361016 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Hey, Jimmy, where they taking us?
+L361015 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I swear to God, I'll fucking puke.
+L361014 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ C'mon, man...
+L361013 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Put that shit out...
+L361012 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ We're getting ahead of ourselves. We haven't gotten any sleep. Let's just keep our mouthes shut and not make any mistakes. Now hurry up and get your shit on so we're not late and make things worse.
+L361011 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Is it so unrealistic to think Ruiz, who doesn't even want us here, is throwing us to the wolves? As an apology? And I don't even know what we're dropping off or picking up --
+L361010 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You gonna shank him in the shower?
+L361009 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I got a bad feeling, man. I don't want to go in naked.
+L361008 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What are you doing.
+L361007 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ It's not a 'sit down.' He said he's telling us the plan.
+L361006 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Why else you think he won't tell us where the sit down is?
+L361005 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ We're not getting whacked.
+L361004 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ We're getting whacked.
+L361003 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ He said it's being arranged. He said Jimmy will know.
+L361002 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Where?
+L361001 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ He wants to see us now.
+L361000 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ What's up?
+L360999 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Hi.  It's Ruiz.  Yeah. So the driver knows where to go? When? We'll be down in five. No, I'll tell him. He's right there. Bye.
+L360996 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ She was jonesing for me.
+L360995 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What the fuck was that about?
+L360990 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I swear to God, I didn't do anything.
+L360989 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What the hell did you do?
+L360976 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah, I know how you do. I know how you do. I've heard your kibbles and bits all fucking night. You've been shaking your ass like an unemployed clown. How the room's a boiling pot of sugar water. How you're gonna dip a string into it and make rockcandy. Who wants to play 'Just the tip?' Dancing around like a smacked ass. Oh, and that coat check girl you've been dragging around as 'insurance' doesn't even speak English. 
+L360975 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Dude, get back out there. You gotta help me get them in the hot tub.  Hang on girls! Just get out there. I'll be right out. You know how I do.
+L360974 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What the fuck's going on?
+L360940 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Damn right. Bring us two bottles of Dom Champs and here, take fifty in case I call you bitch later when I'm drunk.  Siddown, motherfucker.  'Sex and paychecks.'
+L360939 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Do not put this on Ruiz's tab. Start a new one.
+L360938 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Look who's back? Want some champagne?
+L360936 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Fine.
+L360935 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Fuck you. Go then. I'm taking the car.
+L360934 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You got that right.
+L360933 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You can't go in there. They know you're with Ruiz.
+L360932 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Work's over. I'm gonna party.
+L360931 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You fucking nuts?
+L360930 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Back in.
+L360929 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Where do you think you're going?
+L360928 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Fuck this.
+L360927 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah, me too. You're a fucking bull in a china shop.
+L360926 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You too?
+L360925 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Why you gotta make everything difficult?
+L360924 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ About what?
+L360923 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You happy?
+L360871 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So we're working?
+L360870 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah.
+L360828 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You would think.
+L360827 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ He woulda told us right?
+L360826 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Like I said, I don't know.
+L360825 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So is this the drop?
+L360810 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What do you give a shit what he calls us? He's not our friend. Let's just get this shit over with and go home. What's this place we're going to, Jimmy?
+L360809 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yo, fuck him, man. Calling us guineas...
+L360808 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I detected no vibe other than that Ruiz thinks you're a fucking idiot.
+L360807 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah. What vibe?
+L360806 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What did I 'get?'
+L360805 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah, but you know Horrace. What did you get off him?
+L360804 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Missing what? He didn't say shit.
+L360803 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Well, I thought you understood and I was just missing it.
+L360802 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I don't know.
+L360801 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ This shit's sketchy. Why do they drop us in the middle of nowhere to have the guy we're supposed to meet come meet us just to tell us we have to meet the same guy somewhere else?
+L360774 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ His names Horrace. Horrace, this is Ricky Slade.
+L360773 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You know this guy?
+L360771 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You got something to say --
+L360770 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I mean, that's what I heard --
+L360769 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What the fuck is that supposed --
+L360768 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You know he fucks all his girls, don't you?
+L360767 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You just don't fucking get it, do you?
+L360766 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Relax. I'll do right by him. You know that.
+L360765 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You gotta be kidding me. I vouched for you.
+L360764 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Oh, give me a break. Don't tell me you feel bad for the guy.
+L360763 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Motherfucker...
+L360762 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Sold it, stole it, whatever...
+L360761 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You sold it? I thought they stole it.
+L360760 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Look, man, I never met Ruiz, okay? I don't know what the fuck I'm picking up, what the fuck I'm dropping off, who the fuck I'm meeting. All I know is Maxie's still pissed at me cause I sold his fucking van.
+L360759 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No. Tell me. What's so fucking horrible about this gig? You've been crawling up my ass for six months to get your name on Maxie's list, and here we are.
+L360758 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Don't even start.
+L360757 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What the fuck do you have to complain about?
+L360756 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What the fuck do you...
+L360755 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ This is bullshit, man.
+L360754 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No. They asked who I was, then told me what corner.
+L360753 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So they said more than the address.
+L360752 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ They asked who it was.
+L360751 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ How'd they know who you were?
+L360750 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Nothing.
+L360749 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Nothing else.
+L360748 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I told you what they said.
+L360747 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ They didn't say an address?
+L360746 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ They said a hundred thirty-fifth and Twelfth.
+L360745 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ What exactly did they say?
+L360735 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Fuck...
+L360734 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Shit. It's thirty-five cents. You got a dime?
+L360720 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Well, I don't want to walk.
+L360719 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ It's on West Broadway. We can walk.
+L360718 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You think Maxie doesn't want us to roll hard? Why do you think he gave us all this bread? Or the number on the pager? We gotta represent him by showing some class. The man's got an operation. How does it reflect on him if we nickel and dime it?
+L360717 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ We're here representing Max. You're acting like a Puerto Rican on the fifteenth of the month.
+L360716 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ As a matter of fact I was. You got a problem with that?
+L360715 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I know you're not calling Jimmy.
+L360714 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ What are you doing?
+L360713 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What are you doing?
+L360712 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Don't play dumb. You know what I'm talking about.
+L360711 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Who's gonna smell me a mile away?
+L360710 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ We just got moved up in the world. You gotta let go of that blue collar mentality that was drummed into your head. You gotta start owning it man, or they'll smell you a mile away like a cheap suit.
+L360709 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Oh really. Why's that?
+L360708 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ But let me tell you, man, I don't like your attitude already.
+L360707 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Don't worry about it. Just be smart.
+L360706 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Fine. I'll put it on my room. Okay?
+L360705 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Ricky, who knows how long we're gonna have to be here. We gotta make it last.
+L360704 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Relax. You got one-fifty. You heard the guy.
+L360703 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Great. On my fucking room.
+L360702 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah, I guess.
+L360701 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Jesus, man. Plus ten?
+L360700 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Forty-six.
+L360699 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ How much was it?
+L360698 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ How much? Okay. Make it fifteen minutes and you can add on a ten dollar tip. Bye.
+L360697 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ How much is it?
+L360696 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah, bring up two burgers and a couple of Heinekens. I'm in room... How'd you know? Oh. Yeah. How long? Cool.
+L360695 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ C'mon, man...
+L360694 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Shhh... Hello, room service?
+L360693 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Who you calling?
+L360625 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah. He said that's our account with the car service.
+L360624 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You sure?
+L360623 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ 'Cardiff Giant.' That's us.
+L360622 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No. Look. There.
+L360621 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Maybe we should call for a cab.
+L360620 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Shit. No new pages. I don't even know where the fuck we're supposed to go.
+L360611 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Oh, I'll represent alright.
+L360610 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I don't want to show up hammered. We're supposed to be representing Max.
+L360609 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Unless we're supposed to whack out the fuckin' pilot, I don't think we're gonna have to work in the next five hours.
+L360608 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ We're not supposed to get drunk. We're on call.
+L360607 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You hear that? You can drink as much as you want up here.
+L360591 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Nah, don't bother --
+L360590 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I'll get the girl.
+L360589 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What's the movie?
+L360588 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ See, man. Maxie fuckin takes care of you when you're in. Beats cleaning carpets.
+L360587 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Pretty nice.
+L360586 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Holy shit. Can you believe this?
+L360561 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ To keep?
+L360560 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ It's ours.
+L360504 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ She really liked the kitchen.
+L360503 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Is that the woman from..?
+L360502 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Right here's fine.
+L360501 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ This paint sucks. The white shows through.
+L360500 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I don't know.
+L360499 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Who's driving her?
+L360498 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Max won't let me drive Jess to dance anymore.
+L360494 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I'm not painting the fu --, I'm not painting the ashtray. And frogs aren't purple.
+L360493 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ She wants you to paint the ashtray.
+L360492 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ What? Did she say something?
+L360482 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Why not? I grew up in bars. It's fun for a kid.
+L360481 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I'm not taking her to a bar.
+L360480 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Oh, give me a break. Look at her. She don't even know where the hell she is. She'd have more fun at Bordner's.
+L360479 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I promised Chloe we'd come here.
+L360478 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Why can't we just grab a goddamn beer.
+L360470 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ See? Now everyone's got one on.  What do you got there?
+L360469 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Jesus Christ, fine. Alright?
+L360468 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ C'mon, man, not in front of the baby. Put on your seat belt before I get another ticket.
+L360467 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ No, man. It wrinkles my shit. Let's grab a fuckin beer --
+L360464 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Seat belt.
+L360463 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I tried your ATM PIN. I gotta kill an hour. Let's grab a beer.
+L360462 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ How'd you unlock my phone?
+L360461 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Shhh...  Yeah, yeah... No. No. I'll be there.  You gotta get me to the Magic Castle at four.
+L360460 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Nice work.
+L360459 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I like it.
+L360458 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ It's not even yours.
+L360457 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I like it.
+L360456 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Why do you always get stuck taking care of the kid.
+L360455 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I gotta pick up the baby.
+L360454 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Some Mexican? How much could he weigh? A buck fifty, tops? I'd kick his fucking ass.
+L360453 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Maxie says he runs a tight ship. I wouldn't fuck with him.
+L360452 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Who is this fucking Ruiz?
+L360451 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ We're not delivering shit. Ruiz is delivering something, and whatever it is is his business.
+L360450 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ What are we delivering?
+L360449 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Your first start at DB, it's against Fairfax, and you miss the fucking bus.
+L360448 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Fuck him.
+L360447 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I still can't believe you missed the fucking team bus.
+L360446 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ We'll kill Fairfax this year.
+L360445 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ We look good this year.
+L360439 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Sorry coach.
+L360438 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Sorry coach.
+L360436 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I'll beat your ass --
+L360435 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You wanna go right now?
+L360434 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Please. I got three inches on you. You wouldn't have landed a punch if I didn't let you.
+L360433 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Bullshit...
+L360432 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Shit. Who we kidding? I know I suck, and I held you up for ten rounds --
+L360431 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What happened to boxing? I thought we made a vow.
+L360430 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Damn right, I have. You think I like living on fucking Yucca? We do a good job on this, we're in.
+L360429 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ No. You've been waiting for this kind of opportunity.
+L360428 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ This is the opportunity of a lifetime. What are you? Nuts? You've been waiting for this kind of opportunity.
+L360427 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ You don't imply about something like that. You lay it out on the table. Besides, I'm not taking the job.
+L360426 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ He implied it.
+L360425 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ He didn't say we need guns.
+L360424 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I think we might.
+L360423 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ We don't need guns.
+L360422 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ We need guns.
+L360346 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Hey, baby... Nothing. What are you doing...? Yeah, I'll probably cut out early...
+L360345 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Come on, man. Not with the owners here.
+L360335 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Shhh...
+L360334 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Fuck them.
+L360333 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Then why do you try to get in?
+L360332 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I do. It's a fuckin Persian Palace.
+L360331 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I thought you hate that club.
+L360330 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So I'm like, 'Maybe I'm not on the list cause I'm not a fuckin Persian.'
+L360247 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Bye.
+L360246 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I'll page you with the number.
+L360245 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I will.
+L360244 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Ask if he said anything to her.
+L360243 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I got no idea.
+L360242 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I'll page you with the number. I'll see you later. What time you done?
+L360241 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I know the number.
+L360240 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Cause if you don't know the number, I can page you with the number so you'll have the number.
+L360239 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah. I know the number.
+L360238 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah. Page me. You know the number?
+L360237 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I'll page you.
+L360236 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Of course I don't want you to bring it up to him... But if it comes up...
+L360235 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ I'm not gonna bring it up to him.
+L360234 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I wouldn't keep bugging you, but you said he said he would have a job for us.
+L360233 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Don't be shitty.
+L360232 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ How am I being shitty?
+L360231 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Don't be shitty.
+L360230 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ That's not what you said. You said if you didn't have a winning record --
+L360229 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ It's not losing record.
+L360228 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So, it's not a winning record.
+L360227 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Yeah, I'm 5-5 and 1.
+L360226 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So, it was a draw.
+L360225 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ So?
+L360224 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You said if you didn't have a winning record after eleven fights, you'd talk to Max.
+L360223 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What are you saying?
+L360222 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ What about it?
+L360221 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ What about boxing?
+L360220 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Did Max mention anything about any jobs?
+L361166 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Fuck...
+L361165 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ C'mon...
+L361130 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Right, right. The 'thugs.'
+L361129 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Bobby and Ricky.
+L361128 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Fine, fine. And you were...?
+L361127 +++$+++ u1940 +++$+++ m127 +++$+++ BOBBY +++$+++ Tom. How's it going?
+L361126 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Hey, boys.
+L360988 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I didn't do anything --
+L360987 +++$+++ u1942 +++$+++ m127 +++$+++ CYNTHIA +++$+++ I want to leave right now.
+L360985 +++$+++ u1942 +++$+++ m127 +++$+++ CYNTHIA +++$+++ I'm just warning you, I can't swim.
+L360984 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You want to come splash around.
+L360982 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Well, come on then. It's back here.
+L360981 +++$+++ u1942 +++$+++ m127 +++$+++ CYNTHIA +++$+++ Yeah. I want it.
+L360980 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You want your surprise?
+L360979 +++$+++ u1942 +++$+++ m127 +++$+++ CYNTHIA +++$+++ Where's the surprise?
+L360962 +++$+++ u1942 +++$+++ m127 +++$+++ CYNTHIA +++$+++ That's a good idea, maybe I will!
+L360961 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I don't wear a white wig, I don't carry a gavel.
+L360952 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ What do you mean 'kinda?'
+L360951 +++$+++ u1942 +++$+++ m127 +++$+++ CYNTHIA +++$+++ Kinda. Yeah.
+L360950 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ And you grew up in Manhattan?
+L360949 +++$+++ u1942 +++$+++ m127 +++$+++ CYNTHIA +++$+++ We rep lines? You know? Fashion?
+L360856 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Show me. Show me where it says Screech on the fucking list.
+L360855 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ He's on the list.
+L360854 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Did you see that shit? Motherfucker.  You let in fucking Screech, dude? I'm waiting and you let in Screech?
+L360840 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ Hey. I'm half Lebanese.
+L360839 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Again with the fucking China Club! What do I look like a fucking Persian to you?
+L360838 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ Maybe you wanna try the China Club.
+L360837 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Cardiff Giant. Just check.
+L360836 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ What?
+L360835 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Cardiff Giant?
+L360834 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ You see a Ricky Slade?
+L360833 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah. Ricky Slade.
+L360832 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ How is it you're good? You on a list?
+L360831 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah, but, we're good. You know what I mean?
+L360830 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ The line's over there.
+L360829 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Watch out, man. Sorry. I'm on the list, man.  Hey, bro.
+L360853 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ Cool.
+L360852 +++$+++ u1954 +++$+++ m127 +++$+++ SCREECH +++$+++ Cool. See you later.
+L360851 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ You look good, man.
+L360850 +++$+++ u1954 +++$+++ m127 +++$+++ SCREECH +++$+++ A little.
+L360849 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ You look big, man. Diesel. You been lifting?
+L360848 +++$+++ u1954 +++$+++ m127 +++$+++ SCREECH +++$+++ S'up.
+L360847 +++$+++ u1943 +++$+++ m127 +++$+++ DOORMAN +++$+++ What's up, man.
+L360618 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah. Me and my boy here are gonna be in New York overnight. I want you to pass the word around to the honeys back in business class that you all got plans for tonight. I'm talkin' a California style, Tupac, gangster pool party back at the hotel. And make that drink a double.
+L360617 +++$+++ u1944 +++$+++ m127 +++$+++ FLIGHT ATTENDANT +++$+++ I operate out of the Chicago O'Hare hub. Can I help you with anything else?
+L360616 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Where do you live?
+L360615 +++$+++ u1944 +++$+++ m127 +++$+++ FLIGHT ATTENDANT +++$+++ Excuse me.
+L360614 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Where do you live?
+L360613 +++$+++ u1944 +++$+++ m127 +++$+++ FLIGHT ATTENDANT +++$+++ Yes.
+L360605 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yes.
+L360604 +++$+++ u1944 +++$+++ m127 +++$+++ FLIGHT ATTENDANT +++$+++ Yes.  Would you care for another one?
+L360603 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Drinks are free, right?
+L360602 +++$+++ u1944 +++$+++ m127 +++$+++ FLIGHT ATTENDANT +++$+++ Yes?
+L360601 +++$+++ u1944 +++$+++ m127 +++$+++ FLIGHT ATTENDANT +++$+++ You're up front. Everything's free up here.
+L360600 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ The videos.
+L360599 +++$+++ u1944 +++$+++ m127 +++$+++ FLIGHT ATTENDANT +++$+++ How much is what?
+L360598 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah, sure. How much are they?
+L360597 +++$+++ u1944 +++$+++ m127 +++$+++ FLIGHT ATTENDANT +++$+++ I'll get you the list of videos, if you don't mind, I'll offer the other passengers a beverage.
+L360596 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Ugh...
+L360595 +++$+++ u1944 +++$+++ m127 +++$+++ FLIGHT ATTENDANT +++$+++ It's in your copy of Hemispheres. I believe it's Mickey Blue Eyes.
+L360594 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah, uh, what's the movie?
+L360593 +++$+++ u1944 +++$+++ m127 +++$+++ FLIGHT ATTENDANT +++$+++ Yes?
+L361178 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ I don't fuck with those crazy, off- the-boat fuckin Irish. You heard of the Westies?.
+L361177 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I'm half Irish.
+L361164 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Watch it...
+L361163 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Ow, shit...
+L361063 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Like you were doing any better shucking and jiving like you were waiting for wings outside the Quick and Split.
+L361062 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Dude, you just gotta settle your shit down. You gotta go and say all that 'Red Dragon' shit. Make him think he's on Barretta.
+L361061 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So we just go eat with him and that's gonna solve everything?
+L361060 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ The Welsh dude, sees all these niggers in perms and diamonds and shit, he gets nervous. But you motherfuckers, he just laughs. All beat up in your babaloo suit like Fruitpie the Magician.
+L360922 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Just don't ask me no more shit.
+L360921 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I'll tell him someone else told me.
+L360920 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Stop.
+L360919 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You really in trouble?
+L360918 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ See you later.
+L360912 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ What? Why am I bad?
+L360911 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ What the fuck, 'Red Dragon?'
+L360910 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Why? What I say bad?
+L360909 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ I'm not saying shit to neither of you.
+L360905 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ He spoke to me. You want me to dis him?
+L360904 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Don't drag my ass into this --
+L360886 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ I know what 'strapped' means, motherfucker. What the fuck you think this shit is? '21 Jump Street?'  Cool out, they're coming back. Just throw up your screw face and don't speak unless spoken to.
+L360885 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ It means you got a gun?
+L360884 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ 'Strapped?'
+L360883 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You strapped?
+L360882 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Maxie knows I don't go near drugs. I did a minute in Quentin for possession with intent. And it ain't now cause he woulda told me.
+L360881 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ How do you know it's not drugs?
+L360798 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Jimmy knows. 13th Street. We'll meet you there.
+L360797 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Where's Spa.
+L361227 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Motherfucker, we're handing you money. What the hell we gonna pull?
+L361226 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ I... I just hired these guys to watch my back...
+L361224 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ No, man, that's fine. Just put that you took delivery.
+L361223 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ I can't yet vouch for the amount, unless you want me to sit here and count.
+L361221 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Couldn't make it. Here's the money.
+L361220 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Sorry about that. Where's your mate?
+L361218 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ That's alright, man. It's a little early for me to drink.
+L361217 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Come, now. You just got here.
+L361216 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ No, thanks, man. We got to head out.
+L361215 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Brilliantly. Care for a pint?
+L361214 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ How's it going?
+L361213 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Here they are, then.
+L361162 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Here...
+L361161 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ No, really, mate?
+L361160 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Don't worry, man. It's all for you.
+L361159 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Sorry, mates. Now there isn't even enough to go around...
+L361155 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ That shouldn't be a problem.
+L361154 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ I've heard you've got the best coke in the States. The shit back home is pants.
+L361153 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Coke?
+L361152 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ A little Charlie, perhaps.
+L361151 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ What do you want?
+L361147 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ I hear the China Club is a laugh.
+L361146 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Sure. Anyplace in particular?
+L361143 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ You want another drink?
+L361142 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Does anyone want another?
+L361141 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ No shit?
+L361137 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Pity. What's say we have a drink?
+L361136 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Well, he ain't gonna be around no more.
+L361135 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Well, I didn't care for the club much. And, I must say, I didn't care for him either.
+L361134 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Nah, see, Maxie just asked him to set that shit up as a favor. He, you know, he tied in with the club. Set us up so, you know, you feel at home.
+L361133 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ No?
+L361132 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Ruiz? Oh, he ain't here.
+L361131 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ And where is...?
+L361039 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Word.
+L361038 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Last thing I want is you with a gun.
+L361025 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ You think it's funny, motherfucker?
+L361024 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Nah, man...
+L361023 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ You think this shit's funny, Ho?
+L361022 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Good morning.
+L360796 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Jimmy? Ruiz. Pick up Maxie's guineas at LUNA and bring them to Spa.  Jimmy's bringing the car around. Me and Ho rode sleds. We'll meet you at Spa in the VIP room.
+L360795 +++$+++ u1947 +++$+++ m127 +++$+++ HORRACE +++$+++ Yeah.
+L360819 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Different.
+L360818 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I call 'em wiggers.
+L360815 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Not usually. Mostly Trustafarians.
+L360814 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ A lot of Persians?
+L360653 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ The 'job?' Alls I know is I'm taking you to the Soho Grand.
+L360652 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I don't know. I thought you might. Any idea what the job is?
+L360651 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ No. What is it?
+L360650 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You know my pager number?
+L360649 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ I handle most of Cardiff Giant's stuff.
+L360648 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So you're our own private guy?
+L360647 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Yeah. Grab one of the cards behind you. Call that number. It's my cell.
+L360646 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So whenever we want...
+L360642 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ You'll love it.
+L360641 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah.
+L360640 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ You're from LA, right?
+L360639 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah.
+L360638 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ The Soho Grand?
+L360637 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Is it nice?
+L360630 +++$+++ u1949 +++$+++ m127 +++$+++ JIMMY +++$+++ Soho Grand, right?
+L360629 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Ricky.
+L360794 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ You rode?
+L360793 +++$+++ u1950 +++$+++ m127 +++$+++ LEO +++$+++ Thanks.
+L360792 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Thanks, man. You need anything, you call.
+L360791 +++$+++ u1950 +++$+++ m127 +++$+++ LEO +++$+++ We're square.
+L360790 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Nigger, please. Don't even order that artichoke shit. West side guineas. Forget the drinks, Leo. We gotta roll. What do I owe you?
+L360782 +++$+++ u1950 +++$+++ m127 +++$+++ LEO +++$+++ Four fernet.
+L360781 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Yeah, bring us four fernet.
+L360780 +++$+++ u1950 +++$+++ m127 +++$+++ LEO +++$+++ Sure. You boys want anything?
+L361248 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ And, as for you, Bobby, you just moved up a notch. Your days of fighting for crumbs is through. Take a week off, come back, and we'll talk about the next thing.
+L361247 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yes, sir.
+L361246 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ We're square.
+L361245 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ But, Max --
+L361244 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ I never intended to test you two to that extent, but you both came through. I should've been informed there was a flag on the play, but I'll take that up with Ruiz. I made a few calls back East. Those punks weren't tied in with anyone. As for the Welshman, he wasn't in on it. He was just plain dumb. As for you, Ricky, your draw will go towards a new carpet cleaning van.
+L360585 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Goodbye.
+L360584 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So, wait, what are we dropping off?
+L360580 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Because you lost my fucking carpet cleaning van and I don't like you.
+L360579 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ You want... Why are you picking on me?
+L360578 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ So tell me how it is.
+L360577 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Don't worry. I get it.
+L360576 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Tell me.
+L360575 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I get it.
+L360570 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yes.
+L360569 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ You can carry your keys. You will not mention my name or imply that you are in my employ. You will not speak to anyone while you are working. When you are not working, you are considered to be 'on call' and available twenty-four hours a day. This means you will not get drunk or do anything that will prevent you from operating in a professional manner. There is already a number in your pager's memory. It is a car service. When they ask you what account, you will respond: 'Cardiff Giant.' They will pick you up and take you anywhere you need to go. In other words, there is no reason why you should not reach any destination that you will be called upon to reach within fifteen minutes. Do you see a pattern forming?
+L360568 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ What about my keys?
+L360567 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ What?
+L360566 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Keys.
+L360565 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ You will not carry any other pagers with you. You will not carry anything, for that matter, that I have not just given you.
+L360564 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah.
+L360559 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ And where do we bring it?
+L360558 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ That money is your per diem.
+L360557 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ And the money. Where do we bring the money?
+L360556 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Yes. You're going to New York.
+L360555 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ We're going to New York?
+L360554 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ dollars in c-notes, a numeric pager, a double-A battery, and a first class round-trip ticket to JFK.
+L360553 +++$+++ u1951 +++$+++ m127 +++$+++ MAX +++$+++ Go ahead. Open the fuckin things. You should each find fifteen hundred --
+L360552 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Can I borrow a piece of --
+L361054 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ That's none of your fucking business.
+L361053 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ When all this is over and we're not working for Maxie, I'd love to run into you on the street.  Why aren't you coming?
+L361052 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ What?
+L361051 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah.
+L361045 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Will you tell Peter Jennings to shut up and fucking listen. The shit's as routine as you get. I coulda turned it over offshore in a week, but Maxie likes to do it all his way. Safe. I coulda dropped the bag alone. It's only two hundred G's. But he sent you all. So I can either send you home and tell Maxie, or we can flush the toilet one more time and hope it all goes down.
+L361044 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So, we're talking money laundering...
+L361043 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Shut it, man. Shut it. Tom is a square. He don't but dabble in shit. Maxie had me hook up a loan-back with him, through an Austrian passbook account.
+L361042 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ The Red Dragon.
+L361035 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Outfit? What's he talking about?
+L361034 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Who's gonna outfit us?
+L361031 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ He has a cute what...?
+L361030 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Four mimosas.  You'll love them. So here's the plan. I didn't say shit to Maxie, cause the man has acute angina, and I don't want to get him all worked up.
+L361029 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ No...
+L360903 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Unless spoken to, ain't that right, Horrace. Didn't you say that?
+L360902 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ What the fuck was you told? Don't talk, right?
+L360874 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Far as she knows you're John Gotti. Now put the shit down and act like you got some ass.
+L360873 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ She poured it for --
+L360872 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ What the fuck you think, I wanna 'hang' with you motherfuckers? Yeah you're working. And put down the champagne.
+L360869 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Maxie told you to keep your mouth shut while you're working, right?
+L360868 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ We don't know any drill. Nobody told us anything.
+L360787 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ It's a digestif.
+L360786 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ Some fuckin guineas he sent me. It's midnight and the motherfucker's ordering an apertif.
+L360785 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Yeah. That fernet tastes like tar. My grandfather tried to give me that.
+L360784 +++$+++ u1953 +++$+++ m127 +++$+++ RUIZ +++$+++ What, motherfucker? You drinking 'the witch' after dinner?
+L360783 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ No. I'll take a strega.
+L361145 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Who's up for a night on the town.
+L361144 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ I'll get it.
+L361140 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Yeah. This shit's fucking brilliant. I just fucking love the fact that you have kids driving around in pickup trucks with a mouthful of this shit, speeding their brains out. I gotta bring a case of it home to my mates. It's illegal back home, you know.
+L361139 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Dip?
+L360899 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ A rose by any other name would --
+L360898 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ I am.
+L360897 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Well, word on the street is you're Welsh.
+L360896 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Scotland.
+L360895 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ And where might that be?
+L360894 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Edinburgh.
+L360893 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ Mmmm-hmm. Where's the, uh, 'Dragon's lair?' Where do you live?
+L360892 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ Well, that's news to me. The name's Tom.
+L360891 +++$+++ u1952 +++$+++ m127 +++$+++ RICKY +++$+++ So, you must be the Red Dragon.
+L360890 +++$+++ u1955 +++$+++ m127 +++$+++ WELSHMAN +++$+++ And here I thought you flew in some out of town muscle. How's it going, men?

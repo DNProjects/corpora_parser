@@ -1,0 +1,807 @@
+L150515 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ You can't do this to me. It could ruin me.
+L150514 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Actually, I was planning on running down to Kinkos. Do you think you could give me ride?
+L150513 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ You didn't show it to anybody?
+L150512 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ His journal. He sent it to me the day before he died. Everything about you is in it. The blow jobs, the hand jobs, the menages, your bout with bulimia, the affair you had with your guidance counselor and how he gave you... eww. Let's see, then there's your coke problem... You still keep it in your crucifix, don't you? It's all in there.
+L150511 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ You what?
+L150510 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I have his journal.
+L150509 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Sebastian was a pathological liar. I wouldn't believe a word he -
+L150508 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Kathryn, I know all about you and Sebastian.
+L150507 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Who the hell do you think you are coming into my house and saying those things to me. My brother is dead, have some respect.
+L150506 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You heard me.
+L150505 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Excuse me?
+L150504 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Oh cut the shit, Kathryn.
+L150503 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Look, I know this sounds corny, but whenever I feel like I can't go on I...  turn to Jesus and he helps me through the problem. Call me an anachronism, but -
+L150502 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Thank you.
+L150501 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Well, I'll leave you alone now. I just came in here to get something of mine.
+L150500 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I'll be fine.
+L150499 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Are you okay?
+L150498 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I'm sure you're going to love it there.
+L150497 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ That's right.
+L150496 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Now I remember. Annette Harrison. Your father's the new headmaster at Oakwood.
+L150495 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You might say that.
+L150494 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Did you know Sebastian well?
+L150493 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I don't think so.
+L150492 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Have we met?
+L150491 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Annette Harrison.
+L150490 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I'm Kathryn.
+L149942 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Okay...
+L149941 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ On my mother's life.
+L149940 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You promise not to say anything?
+L149939 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Now it's my job to look out for you. You're like a kid sister to me. Do I look like some kind of gossip queen?
+L149938 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Forever.
+L149937 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Annette, how long have we known each other?
+L149936 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I can't tell you. I'm sworn to secrecy.
+L149935 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ From who?
+L149934 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I don't know. I've been hearing some awful things about him.
+L149933 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Well, a lot of people are jealous cause he's loaded.
+L149932 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ What do you mean?
+L149931 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Not a whole lot. We take some classes together. He's got a bad rep, but it's mostly bullshit.
+L149930 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ No. I mean. I don't know.  What else do you know about him?
+L149929 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Is there a mutual feeling between you two?
+L149928 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Nothing.
+L149927 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ That's not his style. one thing I can say about Valmont. He always speaks the truth.
+L149926 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Really? I thought he said it all the time.
+L149925 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ He told you he's failing in love with you? I've never known him to say those words before.
+L150375 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ What, your virginity? Well that's over now.
+L150374 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ But you knew this was important to me.
+L150373 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You don't even know me. The fact of the matter is there is some one I love. She's smarter, prettier... you don't even compare to her. The only reason I am here is because she wants us to be exclusive.
+L150372 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You don't know how to love.
+L150371 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I'm just being honest. I just wanted to see what you were like in bed.
+L150370 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Why are you trying to hurt me?
+L150369 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I know. I wish I felt the same. Unfortunately, I feel nothing. I think it was just the conquest. Sorry, I'm completely fucked up.
+L150368 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I love you.
+L150367 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Why aren't you understanding?
+L150366 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ What are you saying?
+L150365 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ It's not you, it's me. I'm completely fucked up.
+L150364 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Yeah, me neither.
+L150363 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ This isn't working out for me anymore.
+L150361 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Sure.
+L150360 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Would you like a tour?
+L150358 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Hi.
+L150357 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Hi.
+L150304 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ It was perfect.
+L150303 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I'm fine. I have to get going to my friends' house.  Was it --
+L150302 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Hi.
+L150301 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Hi.
+L150266 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Get off me.
+L150265 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Please don't go.
+L150264 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Oh please Annette. You spend all your time preaching about waiting for love. Well here it is. Right in front of you, but you're going to turn your back on it. I'm sorry that we're not at the age where we can get married. If we were, I'd propose, but that's not going to happen. So I guess we're just fucked. I'll move on, but you... you're going to have to live with yourself knowing you've turned your back on love. And that makes you a hypocrite.
+L150263 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ How am I a hypocrite?
+L150262 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Well, I'm afraid you don't have a choice in the matter. You make me sick. You're a hypocrite and I don't associate with hypocrites.
+L150261 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Sebastian, please. I don't want us to end on bad terms.
+L150260 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Good for you.
+L150259 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I think that's for the best.
+L150258 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Back to the city. I may take off to Europe for the rest of the summer. I just can't handle it around here.
+L150257 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Where are you going?
+L150256 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I just came to say goodbye.
+L150234 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ It's because I don't trust myself with you.  I took a vow and because of you I'm tempted to break it. Don't destroy that for me. Please.
+L150233 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Yes.
+L150232 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You really want to know?
+L150231 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Why can't we be together?
+L150230 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ That's not fair.
+L150229 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Then what's wrong? I love you Annette. It's not like you have a husband, unless your married to Jesus.
+L150228 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I have feelings for you.
+L150227 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I can't handle it. I can't keep my feelings bottled up like you. Can you honestly tell me that you feel nothing for me? ... Tell me!
+L150226 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I thought you said we were going to be friends.
+L150225 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Because I'm in love with you.
+L150224 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Why are you doing this?
+L150223 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You know what? I don't take it back.
+L150219 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You are very pretty. I would like to kiss you.
+L150218 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Bonjour Monsieur Philipe.
+L150217 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You don't know Monsieur Philipe?
+L150216 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Who's Monsieur Philipe?
+L150215 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ My friend Monsieur Philipe is a friend of Florentino.
+L150212 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Not at all. Have a seat.
+L150211 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Am I bothering you?
+L150157 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ No?
+L150156 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ No.
+L150155 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Oh dear, are you actually laughing?
+L150153 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Fine.
+L150152 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I am lighten. Can we drop this?
+L150151 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Lighten up.
+L150150 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I do not.
+L150149 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ It's not about winning. You know what your problem is? You take yourself way too seriously.
+L150148 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I can't win with you.
+L150147 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ No, it doesn't. I'm happy you're being honest with me.
+L150146 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Yes it does.
+L150145 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ That's okay. It doesn't make you a bad person.
+L150144 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I did. We played three games of backgammon and...
+L150143 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You're going to tell me that you had a good time with the old lady.
+L150142 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I don't.
+L150141 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You must take me for a real idiot.
+L150140 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I do.
+L150139 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ "I actually feel good about myself?"
+L150138 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ What?
+L150137 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Oh please.
+L150136 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ It's weird. I actually feel good about myself. Can we do this again next week?
+L150118 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Babe, you're looking at the next Mother Teresa.
+L150117 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Okay.
+L150116 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I don't know? Maybe I'd like it. I'm trying to change here. You could be supportive.
+L150115 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You? Volunteer? I don't think so.
+L150114 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Need any company?
+L150113 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I'm doing some volunteer work.
+L150112 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Alone again.  What are you up to today?
+L150008 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I will.
+L150007 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Sure. Have a good night.
+L150005 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You're not gonna start that again.
+L150004 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Yeah, it's pretty relevant considering my situation.
+L150003 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Somerset Maugham.
+L150002 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Of Human Bondage.
+L150001 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ What are you reading?
+L150000 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Reading.
+L149999 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ What are you doing?
+L149998 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Okay?
+L149997 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Wait, don't hang up.
+L149996 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Well, I was just calling to tell you I was thinking about you and I miss you. I'll let you go.
+L149995 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ It wasn't a date. He's just a friend.
+L149994 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ How was your date?
+L149993 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I'm... I'm alright.
+L149992 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Well, I was just calling to see how you're doing.
+L149991 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ No, not at all.
+L149924 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ It's not about being happy. You and I can't -
+L149923 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I'll leave this afternoon. Happy?
+L149922 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ If that's a problem, then I'll make arrangements to stay with some friends.
+L149921 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ What?
+L149920 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Alright.  I want you to leave and go back to New York.
+L149919 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Without question.
+L149918 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ And you promise to abide by it?
+L149917 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Yes.
+L149916 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You truly want to do something to make me happy?
+L149915 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Tell me what to do, Annette. How can I win your heart. I'll do anything. I can't get you out of my mind.
+L149914 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ That's also none of your business.
+L149913 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Doing what?
+L149912 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I'm busy.
+L149911 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ How about tonight?
+L149910 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ That's none of your business.
+L149909 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Who?
+L149908 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I can't. I'm seeing a friend.
+L149907 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Ouch. Do you think we could spend some time together this morning?
+L149906 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Yes, but only when it's mutual. And this is far from mutual.
+L149905 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Don't you believe in love at first sight?
+L149904 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You don't even know me.
+L149903 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Well try this one on for size. I think I'm falling in love with you.
+L149902 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I'm sorry, but I'm not here to be your savior.
+L149901 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I'm trying to better myself, but the one person who can help me is the same one pushing me away.
+L149900 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ And that's a bad thing?
+L149899 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Yes, well unfortunately I can't just switch the "on" button to "off." The sad fact of the matter is that you've unintentionally rubbed off on me.
+L149898 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I thought we agreed that we were going to be friends.
+L149897 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I wish I could say the same for myself. I was up thinking about you all night.
+L149896 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ It was fine.
+L149895 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I said I was sorry.
+L149894 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I'm not going to speak to you till you realize that you can't intimidate me.
+L149893 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Oh right, last night. I guess I owe you an apology.
+L149892 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Give it up.
+L149891 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ How are you today?
+L149890 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ No thank you.
+L149889 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Need a lift?
+L149861 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ What's the big deal? We're friends. Haven't you ever seen your friends naked before?
+L149860 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ That's repulsive.
+L149859 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ It's my house.
+L149858 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You're naked.
+L149857 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Fine. Friends it is. I can live with that.
+L149856 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I'm sorry, but you're not my type.
+L149855 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You don't find me cute? Come on, look at these muscles.
+L149854 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I don't... I don't want to answer that... look we're friends.
+L149853 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Do you deny that there's an attraction between us?
+L149852 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Because you act like a pig.
+L149851 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Why not?
+L149850 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Look, I'm flattered but, seriously it could never work.
+L149849 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I wasn't kidding. I'd like to take you out.
+L149848 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Shut up.
+L149847 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Seriously, you're amazing. You have everything going for you.  You're smart, you're beautiful, you're determined. You're everything I want in a girlfriend.
+L149846 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Thank you.
+L149845 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ No, it's okay. I mean I look at you with all your morals and values and well, YOU seem to be happy in your choices. I envy you. No bullshit.
+L149844 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Look, I didn't mean to give you a hard time.
+L149843 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You implied it.
+L149842 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I never said that.
+L149841 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ About what you said today in the stable. I'm not a happy person.
+L149840 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ About what?
+L149839 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Refreshing.
+L149838 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ How's the water?
+L149837 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Is that the last thing you need? My your clever.
+L149836 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ The last thing I need is you going into my room searching for this while I'm away.
+L149835 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Give me the fucking letter.
+L149834 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I sincerely doubt it.
+L149833 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You know you could at least have the decency of telling me who's badmouthing me so I might have the opportunity to confront them face to face. How do you know it's not some girl who's pissed off at me for breaking up with her?
+L149832 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ This is my favorite part.  Even more treacherous and dangerous than he is charming and fascinating. He has never taken a single step or spoken a single word without some dishonorable or criminal intention. Every young girl he has successfully pursued has regretted it.
+L149831 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ What? Another letter from your friend?
+L149830 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You know it amazes me that someone as bright as you can be so horrible.
+L149820 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Thank you.
+L149819 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Give me a minute. I'll be right down.
+L149818 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Please.
+L149817 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Gee, with an invitation like that how could a girl refuse.
+L149816 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Oh come on. Quit acting like a geriatric and get in the pool.
+L149815 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ At this hour? I don't think so.
+L149814 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Why don't you come join me for a swim and we'll discuss it.
+L149813 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You need help.
+L149812 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ That's a matter of opinion.
+L149811 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Romantic? He rapes her.
+L149810 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Several times. I'm not as dumb as I act, you know. When Howard Roark makes love to Dominique Francon... most romantic scene in all of literature.
+L149809 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You've read The Fountainhead?
+L149808 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Great book.
+L149807 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ The Fountainhead.
+L149806 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ What'cha reading?
+L149805 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Look, I know this is your house and all, but do you think you couid keep it down? I'm trying to read.
+L149804 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You talking to me?
+L149803 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Excuse me. Excuse me!
+L149727 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Alright, I said I was sorry.  Can we start over again? I think we've gotten off on the wrong foot.
+L149726 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Look, I've got a lot of problems and I'm trying to deal with them and the last thing I need is people spreading shit about me.
+L149725 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Why are you being so dramatic?
+L149724 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Fine, forget it. It's obvious that we're not going to be friends.
+L149723 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ It's not really important.
+L149722 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Who the hell is taking the time to write letters, spreading this shit about me?
+L149721 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I'm sorry. I didn't mean to upset you... but you still didn't answer the question.
+L149720 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Well maybe you should get to know the person before you judge them instead of listening to some bullshit gossip.
+L149719 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ A friend wrote me.
+L149718 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ How do you know I've been with several women?
+L149717 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Take yourself. You've slept with several women. Are you happier because of it?
+L149716 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Oh really?
+L149715 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I wasn't knocking anything. It's just my belief that people shouldn't actually experience the act of love until they are in love and that people our age are too immature to be in touch with those emotions.
+L149714 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Most people are morons. I mean who are you to knock what you've never experienced?
+L149713 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ That's a first. Most people praised me for it.
+L149712 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I must say I found it rather appalling.
+L149711 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ You did?
+L149710 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I read your teen beat manifesto.
+L149709 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I was just being honest. You happen to have a nice ass. Sorry.
+L149708 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Are you often this offensive on a first encounter?
+L149706 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ No.
+L149705 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You a lesbo?
+L149704 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ I don't know. Relationships seem too distracting. I'd rather concentrate on my studies.
+L149703 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Why not?
+L149702 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ No.
+L149701 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Got a boyfriend back home?
+L149700 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Junior.
+L149699 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ So what year are you going into?
+L149688 +++$+++ u4705 +++$+++ m312 +++$+++ AUNT HELEN +++$+++ Doesn't ring a bell.
+L149687 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ German.
+L149686 +++$+++ u4705 +++$+++ m312 +++$+++ AUNT HELEN +++$+++ Schwarz. Jewish?
+L149685 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ Ben Schwarz.
+L149684 +++$+++ u4705 +++$+++ m312 +++$+++ AUNT HELEN +++$+++ I'm familiar with a lot of breeders in the mid-west. What's his name?
+L149683 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ My Grandpa, used to breed horses on his farm so I would come over and ride all the time.
+L149682 +++$+++ u4705 +++$+++ m312 +++$+++ AUNT HELEN +++$+++ I'm sorry about that.
+L149681 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ My mother and I used to ride a lot, before she got sick.
+L149680 +++$+++ u4705 +++$+++ m312 +++$+++ AUNT HELEN +++$+++ Thank you, Annette. Chance Hill has been with my family for over sixty years. Does your family do much riding?
+L149679 +++$+++ u4704 +++$+++ m312 +++$+++ ANNETTE +++$+++ It's a beautiful home you have here Mrs. Rosemond.
+L149885 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Alright, I believe you. Stop crying. Your secret's safe with me.
+L149884 +++$+++ u4706 +++$+++ m312 +++$+++ BLAINE +++$+++ I think he's telling the truth Valmont. Greg couldn't write a grocery list let alone a letter.
+L149762 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ No problem. Just make sure your front door is unlocked. Shall we say the "stroke of midnight" no pun intended?
+L149761 +++$+++ u4706 +++$+++ m312 +++$+++ BLAINE +++$+++ Don't think it's not going to cost you.
+L149760 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Outstanding.
+L149759 +++$+++ u4706 +++$+++ m312 +++$+++ BLAINE +++$+++ Hmmm. I do believe Bravo is showing Spartacus on television tonight.
+L149758 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Really. You think you could arrange a little get together with him tonight on my behalf?
+L149757 +++$+++ u4706 +++$+++ m312 +++$+++ BLAINE +++$+++ Not anymore. Football team started practice last week. He's already called me to hook up.
+L149756 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Too bad he's in Kansas this summer.
+L149755 +++$+++ u4706 +++$+++ m312 +++$+++ BLAINE +++$+++ I shit you not. McConnell used to sneak in my dorm room drunk every month. We'd go at it for a while, then as soon as he'd cum, he starts freaking out. You know -  "What are you doing, man? I'm not a fag. I'll kick your ass if you say anything."  It's like, for Christsakes Greg, you're gay, deal with it. The only reason why I let him continue with his charade is because he's got a mouth like a Hoover.
+L149754 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Are you shitting me?
+L149753 +++$+++ u4706 +++$+++ m312 +++$+++ BLAINE +++$+++ Let's just say Greg likes tackling tight ends on and off the field.
+L149752 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ What do you mean?
+L149751 +++$+++ u4706 +++$+++ m312 +++$+++ BLAINE +++$+++ I don't think that bothered him.
+L149750 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ It would make sense. McConnell hates me. I fingered his girlfriend at the game last year.
+L149749 +++$+++ u4706 +++$+++ m312 +++$+++ BLAINE +++$+++ He's from Kansas City. I wouldn't be surprised if he was your rat.
+L149748 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ The football stud?
+L149747 +++$+++ u4706 +++$+++ m312 +++$+++ BLAINE +++$+++ Greg McConnell.
+L149746 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Kansas. Who the hell do I know in Kansas?
+L149745 +++$+++ u4706 +++$+++ m312 +++$+++ BLAINE +++$+++ Where did you say she's from?
+L149744 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Blaine, if I knew who it was that person wouldn't be alive right now.
+L149743 +++$+++ u4706 +++$+++ m312 +++$+++ BLAINE +++$+++ Any ideas who it could be?
+L149742 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ - wrote a letter to this chick and saying shit about me.
+L149741 +++$+++ u4706 +++$+++ m312 +++$+++ BLAINE +++$+++ - none taken -
+L149740 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Unbelievable. Some fag, no offense -
+L149965 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Absolutely.
+L149964 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ I'll see you tomorrow.
+L149963 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Well, I guess it's getting late. Please thank Kathryn for the use of her Steinway.
+L149738 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Doctor King is my favorite.
+L149737 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ It's based on the life of Doctor Martin Luther King.
+L149736 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Ronald is one of the few high school students attending Juliard. He's composing his first opera.
+L149731 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Relax. It's okay. Take a deep breath.
+L149730 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Oh, I suck. I suck.
+L150103 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Okay.
+L150102 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ Well hurry up. I want to be at Mrs. Rosemond's before lunch.
+L150101 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ I'm in the bath, mom.
+L150048 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ Don't you raise your voice at me. Go to your room, now.
+L150047 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Those are my letters!
+L150046 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ Margarita found them while cleaning your room.
+L150045 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Where did you find those?
+L149604 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ Cecile, is that the best you can do?  You must forgive her, Kathryn. She's never been in a co-educational atmosphere before.
+L149603 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ What are the boys like?
+L150194 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Cool.
+L150193 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ That's one way of looking at it.
+L150192 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ It's like a secret society.
+L150191 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Cecile, everybody does it. It's just that nobody talks about it.
+L150190 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ But that would make me a slut.  Wouldn't it?
+L150189 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ So? Don't you want to make Ronald a happy pappy? Practice makes perfect, Cecile. My advice is to sleep with as many people as possible.
+L150188 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ I don't love him. I love Ronald.
+L150187 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Now listen. Now that you're on your way, it would be stupid of you to stop. Think of Sebastian as a tutor. Let him instruct you.
+L150186 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ I am?
+L150185 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I'm so proud of you. You're becoming a woman.
+L150184 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ I did?
+L150183 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Cecile, you had an orgasm.
+L150182 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Well... I don't know - it was weird. At first it felt icky, then it felt kind of okay. Then, I started getting really hot and then I started shaking and then like, I don't t know... it felt like an explosion, but a good one.
+L150181 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Well did you like it?
+L150180 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ What do I do then?
+L150179 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Cecile, I think you're going to have a hard time crying rape if that's all he did.
+L150178 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ If that's what you call it.
+L150177 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Well what then?
+L150176 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ No.
+L150175 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ He made you give him a blow job.
+L150174 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Well... not exactly.
+L150173 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ So, let me get this straight. You came over to our house late last night and he forced intercourse on you.
+L150172 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ I don't know.
+L150171 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Why didn't you do something?
+L150170 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ If she knew, she'd kill me. It happened at your house last night.
+L150169 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Does your mother know?
+L150168 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ It involves your brother. He... took advantage of me.
+L150167 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Cecile, you have to tell me.
+L150166 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ I... I don't think you want to know.
+L150165 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ What do you mean?!
+L150164 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Something awful happened last night.
+L150163 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Calm down. Tell me what's wrong.
+L150161 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ It's Kathryn.
+L150160 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Who is it?
+L149802 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Best friends.
+L149801 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Of course I would. We're friends, right?
+L149800 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ You'd do that for me?
+L149799 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Cecile if there's one thing I'm great at it's love letters. With my help, he'll be eating out of the palm of your hand. Perhaps we can arrange a little get together for the two of you at my house.
+L149798 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Why?
+L149797 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I want you to make me copies of his letters and bring them to me.
+L149796 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Yes. They're in this antique doll house in my room.
+L149795 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Did you hide the letters?
+L149794 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Okay.
+L149793 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Listen to me. Your mother must never know. Never.
+L149792 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ I do like him. I can't stop thinking about him.
+L149791 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Cecile, we just made out in the middle of Central Park. You can trust me.
+L149790 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ I don't know.
+L149789 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Well do you like him?
+L149788 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ No.
+L149787 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ That's so romantic. Have you responded?
+L149786 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Is it that obvious?
+L149785 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Oh come on Cecile. He's crazy about you.
+L149784 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ What are you saying?
+L149783 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Maybe you should try it on your friend Ronald sometime.
+L149782 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ That was cool.
+L149781 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Eyes closed.
+L149780 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Okay.
+L149779 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Let's try it again, only this time I'm going to stick my tongue in your mouth. When I do that I want you to massage my tongue with yours. That's what first base is.
+L149778 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ It was nothing.
+L149777 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ See that wasn't so bad.
+L149776 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ I guess. It still sounds gross.
+L149775 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Do you want to learn or not?
+L149774 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Are you for real?
+L149773 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ It's not gross. How else do you think girls learn? Here turn around and face me.
+L149772 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Eww. No. That's gross.
+L149771 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Haven't you ever practiced with one of your girlfriends?
+L149770 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Ah duh. Boys. I've never even gone to first base with a guy. What do I do?
+L149769 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ What are you scared of?
+L149768 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ You think so? I don't know. I guess I'm just scared.
+L149767 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ That's great.
+L149766 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ What a loser she must be.  Anyhow, Court's invited me to the Hamptons for Labor Day Weekend.
+L149765 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Really? Bulimic headcase.
+L149764 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ He's alright.  He kept talking about this bulimic headcase he dumped over Fourth Of July.
+L149763 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ So, rumor has it that you went on a date with Court Reynolds. I hear he's very nice.
+L149620 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Thanks.  Nice meeting you.
+L149619 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I'll call you later and we'll get together and plan your curriculum.
+L149598 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I was thanking her. Vietnamese is such a beautiful language.
+L149597 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ What was that?
+L150254 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Prude.
+L150253 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Good night Cecile.
+L150252 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Want a blow job?
+L150251 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ No.
+L150250 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Need any company?
+L150249 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I'm taking a shower.
+L150248 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Where are you going?
+L150245 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ No, you were fine.
+L150244 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Is it me?
+L150243 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You think?
+L150242 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ I'm sorry.
+L150241 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Cecile. This is what I like to call quiet time. This is time when we reflect on what we've done.
+L150240 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ I like it better when I'm on top.
+L150239 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ For the first time, yes. It'll pass.
+L150238 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Am I suppose to be this sore?
+L150237 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Some other time, Cecile.
+L150236 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Want to join me?
+L150099 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I don't want to kiss you here. I want to kiss you there.
+L150098 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ But -
+L150097 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You promised to let me kiss you.
+L150096 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ What are you doing?
+L150095 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I swear.
+L150094 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Just a kiss, right?
+L150093 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Of course. I'm not a monster.
+L150092 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ And then I can go home?
+L150091 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Cecile, all I want to do is give you a kiss.
+L150090 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ Please please please. I'll do anything. Just don't call my mom.
+L150089 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Why not? ... Oh wow, she doesn't know you're here. In fact, you're grounded. Jesus, you could get in a shitload of trouble for this. I think I should call her anyway.
+L150088 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ My mom? Don't call my mom.
+L150087 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Okay, okay. I'll just call your mom and have her come pick you up.
+L150086 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ I want to go home.
+L150085 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I was just kidding.
+L150084 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ I want to go home.
+L150083 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I'm sorry that was out of line.
+L150081 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Mmmm, you're right. Those clothes don't do you justice. Why don't you take them off.
+L150080 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ I look terrible.
+L150079 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Just taking your photo.
+L150078 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ What are you doing?
+L150077 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ He'll love it.
+L150076 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ You think he'll like it?
+L150075 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Excellent.
+L149617 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ It is, unless you're a fuck up, like myself.
+L149616 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ But I thought high school is only four years.
+L149615 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I'm what you would call a fifth year senior.
+L149614 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ What year are you in?
+L149611 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ How are things down under? Blossoming I hope.
+L149610 +++$+++ u4707 +++$+++ m312 +++$+++ CECILE +++$+++ My father just took me on a trip to Australia.
+L149580 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ Would you please leave.
+L149579 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ What, nervous I'm going to win?
+L149578 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ Good luck, Sebastian.
+L149577 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Really? Care to make a wager on that?
+L149576 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ Don't even think about it. Rachel is an exceptionally well rounded young woman, who happens to be attending Princeton this fall. She's way too smart to fall for your line of b.s.
+L149575 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Yummy.
+L149574 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ My daughter, Rachel.
+L149573 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Well, you don't have to get nasty about it.
+L149572 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ I hope for your sake you grow out of this immature phase. It's going to get you into trouble.
+L149571 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You do?
+L149570 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ No it doesn't. I see right through you.
+L149569 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ It works a little.
+L149568 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ You think you can come in here with that cute little smirk on your face and try and flirt with me. It doesn't work, Sebastian.
+L149567 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Don't be insecure, Doc. You're a big help.
+L149566 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ This isn't a joke. Your parents spend a lot of money to send you here. I'm trying to help you.
+L149565 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Why? I like spending time with you. You know, you're quite attractive for a woman your age. You have killer legs. Killer.
+L149564 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ No. This is going to be our last session.
+L149563 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Same time next week?
+L149562 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ I think that's all the time we have for today.
+L149561 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Let me tell you something, doctor. Chicks love a guy with a bad rap. They say they don't, but they don't mean it. They all think that they're the ones that are going to "save me." The trick is to let them think it's true.
+L149560 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ Don't you want to change that?
+L149559 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I do.
+L149558 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ But you said you have the worst reputation.
+L149555 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I know.
+L149554 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ And you haven't made an ounce of progress.
+L149553 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I know.
+L149552 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ Jesus. We've been at this for six months.
+L149592 +++$+++ u4715 +++$+++ m312 +++$+++ RACHEL +++$+++ I don't know. He was just so charming. All he did was talk about how I had killer legs and how we wanted to photograph them. Things just got out of hand from there.  Mom? Are you there? Mom?  Mother!!!!
+L149591 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ Jesus Christ, how can you be so stupid?
+L149590 +++$+++ u4715 +++$+++ m312 +++$+++ RACHEL +++$+++ Nudie pictures, what do you think?
+L149587 +++$+++ u4715 +++$+++ m312 +++$+++ RACHEL +++$+++ Would you cut the psycho babble bullshit, mom. There's pictures of me on the internet.
+L149586 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ Alright honey, just calm down, take a deep breath, and step out of the circle.
+L149585 +++$+++ u4715 +++$+++ m312 +++$+++ RACHEL +++$+++ You don't know him. I'm so stupid.
+L149584 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ Who told you?
+L149583 +++$+++ u4715 +++$+++ m312 +++$+++ RACHEL +++$+++ He told me he loved me and I believed him.
+L149582 +++$+++ u4708 +++$+++ m312 +++$+++ DR. GREENBAUM +++$+++ Honey, is something wrong?
+L149581 +++$+++ u4715 +++$+++ m312 +++$+++ RACHEL +++$+++ Hi, mom.
+L150299 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Grand Central. You better not be fucking with me cause it's your ass on the line.
+L150298 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Alright. She's staying with some friends of her parents. The O'Sheas. She caught the train twenty minutes ago into Grand Central.
+L150297 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ One.
+L150296 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ I told you I don't know.
+L150295 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ McConnell, I'm gonna out your ass in two seconds if you don't tell me where she is.
+L150294 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ I don't know. Why don't you leave her alone.
+L150293 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Where is she?!
+L150292 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ No.
+L150291 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Sebastian, you faggot. Is she with you?
+L150290 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Who is this?
+L150289 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Is she with you?
+L149955 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I'll be in touch.
+L149954 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ She bought it.
+L149953 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Pretty sure or sure sure?
+L149952 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ I'm pretty sure she did.
+L149951 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ And you think she bought it?
+L149950 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Yes!
+L149949 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You told her that people are jealous cause I'm loaded?
+L149948 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Yes!
+L149947 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You told her I never said I love you before?
+L149946 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Yes.
+L149945 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Did you do everything I asked you to?
+L149944 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Positive.
+L149883 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ I swear on my life, I never said a word to her about you.
+L149882 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Come on Greg. You're the only one who knows her. The truth will save you.
+L149881 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Annette Harrison? I don't know what you're talking about.
+L149877 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Your career? What about your family? Can you imagine the humiliation your father's going to feel when he finds out his pride and joy is a fudge- packer.
+L149876 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Please don't tell anyone. This could ruin my career.
+L149875 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ -- really drunk and blah blah blah blah blah.
+L149872 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ I told you to lock the door.
+L149871 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Whoa!
+L149870 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Get out of here.
+L149869 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Greg, is that you under the covers?
+L149868 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Jesus!
+L149867 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Hey Blaine, did I leave my... holy shit.
+L149865 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Baby?  Right on time.
+L149864 +++$+++ u4709 +++$+++ m312 +++$+++ GREG +++$+++ Oh baby... oh baby...
+L150456 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Don't worry about it. I'll stay.
+L150455 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Will you stay here for the night? You can leave in the morning. That's when my parents get back and --
+L150454 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ He doesn't scare me. I'll kick his ass in.
+L150453 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I'd be careful if I were you. God knows what he's up to.
+L150452 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Racist piece of shit.
+L150451 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ It's been going on for a while.  Then he called me a disgrace to our family and that's when he hit me.
+L150450 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ And this happened before you and I hooked up?
+L150449 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ And when I confronted him about his affair with Cecile he told me it was none of my business. Then when I said "Well what about Ronald," he said you were nothing more than a stupid... the n word and that you deserved what you got...
+L150443 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ I'll be right there.
+L150442 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I think he's high on drugs. He hit me, then took off. I'm afraid to be alone. Please come over.
+L150441 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ What do you mean?
+L150440 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ It's Sebastian. He's out of his mind.
+L150439 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ What's wrong?
+L150438 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ No.
+L150437 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Hi Kathryn. Is everything okay?
+L150436 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ It's Kathryn.
+L150435 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Yeah?
+L150434 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Ronald?
+L150433 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Hello.
+L150059 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ But I can't even see her. She doesn't have her own phone, I don't even know her e-mail address.
+L150058 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ What do you do? Tell her you love her.
+L149735 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Likewise I'm sure.
+L149734 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Pleased to meet you.
+L150414 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ War it is.
+L150413 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I think you have your answer.
+L150412 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Then I will consider it a declaration of war. One. Two... three.
+L150411 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ And if I don't?
+L150410 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I'm giving you to the count of three to plop your ass down on the bed.
+L150409 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Get out!
+L150408 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I don't care what you said, we had an agreement. You've slept with half of the borough so don't tell me you're being choosy.
+L150407 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Didn't you hear what I said?
+L150406 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Get out? We had an arrangement.
+L150405 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I accept. Now get out.
+L150404 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I'm very sorry about that. I apologize.
+L150403 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Fine! Get off me!
+L150402 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Will you calm down?
+L150401 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Get off me!
+L150399 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I'm sorry, but unfortunately I don't fuck losers.
+L150398 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ In any event, you still owe me my reward.
+L150397 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ You were very much in love with her and you're still in love with her. But it amused me to make you ashamed of it. You gave up on the first person you ever loved because I called you names. Don't get me wrong, I'm flattered that you chose me over her, but please understand, I never loved you, Sebastian. You're just a toy. A little toy I play with. And now you've completely blown it with her. I think that's the saddest thing I've ever heard.  Cheers.
+L150396 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Come again?
+L150395 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Silly rabbit. My triumph isn't over her. It's over you.
+L150394 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Not my choice of toast, but it's your call. To your triumph over Annette.
+L150393 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ To my triumph, of course.
+L150392 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Thank you. Now, where were we?
+L150391 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Well done.
+L150389 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Not that it's any of your business but yes.
+L150388 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Ronald?
+L150387 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I'd love to, but unfortunately I'm expecting some company.
+L150386 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I thought we should celebrate.
+L150385 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Well done.
+L150384 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Devastated beyond repair. I doubt she'll ever trust a man again.
+L150383 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Annette?
+L150382 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You wanted an answer to your question.
+L150381 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Mind if I ask what you're doing in my room?
+L150380 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I have a flair for drama.
+L150379 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ A little melodramatic, don't you think.
+L150353 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I knew this guy last summer in the Hamptons. He and his girlfriend at the time were madly in love with each other. But she had this huge weight problem. His friends taunted him mercilessly about it. You know, "How do you breathe when she sits on your face?" "It's embarrassing for you to be seen with her." Finally he couldn't take it anymore and decided to dump her. She flipped and he went on the defensive. I distinctly remember him saying the same thing over and over again. "I'm completely fucked up." "I'm completely fucked up." "I'm completely fucked up."  Poor fatty never had a chance.
+L150352 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Screening calls. Any suggestions?
+L150351 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ How have you dumped girls in the past?
+L150350 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I've never done this before.
+L150349 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Why so nervous?
+L150348 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Then do me a favor and get rid of her. If not for me, then do it for you. Look at yourself. You're a joke. She's turned you into jelly. What do you want to be, one of those losers who walk down the halls holding hands and smiling. People used to respect you. They feared you and now you're going to throw that all away.
+L150347 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ That's not fair. You're taking all the fun out of it.
+L150346 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Is that what you think?
+L150345 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I can't believe you're reacting this way. You're just saying this because you lost the bet.
+L150344 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Not anymore you don't. It's obvious.
+L150343 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Kathryn, you know I love you. I've always loved you.
+L150342 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ At first it was, but now it's become something bigger.
+L150341 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Oh come on, Kathryn, it was just a contest.
+L150340 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I'm sorry. It's just upsetting. You're in love with her. You don't love me anymore.
+L150339 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ What's wrong with you? Why are you acting this way?
+L150338 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ P-whipped, p-whipped.
+L150337 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ No, I'm not.
+L150336 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Oh my God. You're completely p-whipped.
+L150334 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ And I don't.
+L150333 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I want to fuck.
+L150332 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ It clearly is why.
+L150331 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ And that's why you're leaving?
+L150330 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I'm not in the mood.
+L150329 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Excuse me?
+L150328 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Some other time.
+L150326 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Mock, mock, mock.
+L150325 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Wow. So you made love. Ooo, I hear the birds chirping.
+L150324 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ It was... it was like the emotional part outweighed the physical part.
+L150323 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ No, tell me.
+L150322 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I know. That's the amazing part of it. I mean, it wasn't like Cirque du Soleil acrobatics, just standard missionary stuff, but it was... ah forget it. I'm going to sound like a Hallmark card.
+L150321 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Oh come on. For her first time?
+L150320 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ It was... Fantastic.
+L150319 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Tell me all the details.
+L150318 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Oh yes.
+L150317 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ You didn't?
+L150312 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Well, you obviously wanted me to witness your little adventure or else you wouldn't have invited me in.
+L150311 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Kind of.
+L150310 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Bad time?
+L150286 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ She wouldn't say. She apologized to your aunt and told her she was going to stay with some friends.  You blew it, Sebastian. That girl has come to her senses and she will never go near you again.
+L150285 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Where'd she go?
+L150284 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ You don't know?  She left thirty minutes ago.
+L150283 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Where is she?
+L150282 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ If you're heading towards her room, you won't find her.
+L150281 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ A momentary lapse of judgment, soon to be rectified.
+L150280 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ You're telling me you had the chance to fuck her and you didn't. God are you a chump.
+L150279 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I don't know. She was lying on the bed, ready to do it, but I-- I don't, I was... I just didn't feel right about it.
+L150278 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ So what went wrong?
+L150277 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Exactly the opposite.
+L150276 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ She shot you down.
+L150275 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ If your asking if I nailed her the answer is no.
+L150274 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Well I know how it went with Cecile. She won't shut up about it. How'd it go with Mrs. Jesus?
+L150273 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ With who?
+L150272 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ So? How'd it go last night?
+L150271 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Morning.
+L150270 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Morning!
+L150210 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Kathryn, the only thing you're going to be riding is me. Now if you'll excuse me, I have some work to do.
+L150209 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Do you mind if I take my new Porsche for a ride?
+L150208 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I'm not losing the bet. It's just taking longer than I expected.
+L150207 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ And that's why you're losing your bet?
+L150206 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ If you must know, yes. I don't know what to do. I can't stand that holier than thou bullshit and yet, I'm completely infatuated with her.  She made me laugh.
+L150205 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ She's really getting to you, isn't she?
+L150204 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Nothing.
+L150203 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ What's your problem?
+L150202 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Shut up.
+L150201 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Jesus, she reeks of Laura Ashley.  Oh, she's crying. Wittle baby's upset by the big bad book.
+L150200 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Yeah.
+L150199 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ That her?
+L150198 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Take a look for yourself.
+L150197 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Who are you spying on?
+L150196 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Yippy.
+L150195 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I just had a nice chat with Cecile. I don't think she'll be giving you anymore problems.
+L150072 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Eat me, Sebastian. It's alright for you to fuck everyone, but because I'm a girl it's wrong. Well let me tell you something, I didn't ask to be a girl. Do you think I relish the fact that I have to act like Mary Sunshine twenty four seven, so I can be considered a "laaaady." Do you think I take great delight when I hear - "Kathryn is so wonderful." "Kathryn is a model child." "Kathryn is going to make an excellent wife one day."  I'm the Marsha fucking Brady of the upper East Side and sometimes I want to kill myself for it. No, I don't enjoy being a part of the weaker sex and for that reason everyone around me is going to suffer. So there's your psychoanalysis Doctor Freud. Now are you in or are you out?
+L150071 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You amaze me.
+L150070 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ What is that? Oh my God, it's your conscience.
+L150069 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Are you really? I mean, we've done some pretty fucked up shit in our time but this... I mean, we're destroying an innocent girl. You do realize that.
+L150068 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I'm aware.
+L150067 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Before we go through with this, I just want you to be aware of the damage we're going to cause.
+L150066 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Cecile.
+L150065 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Who are you calling?
+L149989 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Well, let me know when you do. Until then.
+L149988 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Any day now.
+L149987 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Have you succeeded in your task?
+L149986 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Moving along quite well.
+L149984 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I hate it too.
+L149983 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I hate when things don't go my way. It makes me so horny.
+L149982 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Oh sis. You're so tense.
+L149981 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Thank you. Mmmm, that feels good.
+L149980 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I'm at your service.
+L149978 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ But who will they turn to for help?
+L149977 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I rat Cecile out to mommy. Mommy goes ballistic and ends their relationship. Boo hoo.
+L149976 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ What's your plan of attack?
+L149975 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Not to mention Court Reynolds. Unfortunately, Ronald's moving with the speed of a Special Olympic Bobsledder.
+L149974 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Ooo, I'm sure Mrs. Caldwell will love that.
+L149973 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ The plot thickens. It appears that Cecile has fallen for her music teacher.
+L149972 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Call Cecile up and get her to come over. I'll bust that cherry in a heartbeat.
+L149971 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ No.
+L149970 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I now plan to devote all my energies to destroying the douche bag. Any luck corrupting her daughter?
+L149969 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Interesting.
+L149968 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You ready for this? I've recently discovered that our good friend Mrs. Caldwell is the one who sent the letter to Annette urging her to stay away from me.
+L149967 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ What's wrong with you?
+L149959 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Shhh.
+L149958 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You would not believe what--
+L149826 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Okay.
+L149825 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Call me later.
+L149824 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Blow me.
+L149823 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Loser.
+L149822 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I'm working on it.
+L149821 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Fuck her yet?
+L149678 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ It would feel so yummy.
+L149677 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Even there?
+L149676 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ You can put it anywhere.
+L149674 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Because I'm the only person you can't control and it kills you.
+L149673 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ What makes you think I'd go for that bet? That's a seventy thousand dollar car.
+L149672 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ In English.  I'll fuck your brains out.
+L149671 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Be more specific.
+L149670 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I'll give you something you've been jerking off about ever since our parents got married.
+L149669 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ And if I win?
+L149668 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ If you lose, then that hot little Porsche of yours is mine.
+L149667 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ What are the terms?
+L149665 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Could you be more desperate to read it?
+L149664 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Oh gee, your journal. Could you be more queer?
+L149663 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Oh well, duty calls. Time to add another chapter to my work of art.
+L149662 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I'll think about it...
+L149661 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Care to make a wager on that?
+L149660 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ You don't stand a chance. Even this is out of your league.
+L149659 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ It just so happens we're not in Kansas anymore. Our little angel's father has accepted the new headmaster position at Oakwood. She's staying with my aunt up in Connecticut while Daddy sells his house. Can you imagine what this would do for my reputation? Screwing the new headmaster's virginal daughter before school starts? It will be my greatest victory.
+L149658 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ B.F.D. What do you plan to do? Fly to Kansas and woo little Dorothy.
+L149657 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Oh yes. I've read it over and over again. This baby's the real deal. Daddy's little angel. A paradigm of chastity and virtue.
+L149656 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Jesus Christ, is she for real?
+L149655 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Shut up and turn to page 64.
+L149654 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I'm not interested in the latest dating tips from Jonathan Taylor Thomas.
+L149653 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ That was just simple revenge. What I have planned requires sheer genius.
+L149652 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Oh but diddling the therapist's daughter is a challenge?
+L149651 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Oh come on, Kathryn. It's too easy. "But I thought high school was only four years." I mean, please. She knows nothing. She's seen nothing. I could have her under the table at Au Bar sucking me off before the appetizer arrived. Go get one of those moron friends of yours to do it. I have a reputation to uphold.
+L149650 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Why not?
+L149648 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ She's quite cute you know. Young supple breasts, a tight firm ass and an uncharted pootie.
+L149647 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Sounds intriguing.
+L149646 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I need you to seduce our young Cecile. Introduce her to your world of decadence and debauchery.
+L149645 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I see your point... though why should I care?
+L149644 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Because if there's an attack made on Court it could be traced back to me. I can't allow that to happen. Everybody loves me and I intend to keep it that way.
+L149643 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Why go through Cecile? Why not just attack Court?
+L149642 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Keep your friends close and your enemies closer. When I get through with her, she'll be the premier Blow Job Queen of the Tri-State area and poor little Court's heart will be shattered.
+L149641 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ So that's what this is all about.  We'll get together and plan your curriculum.
+L149640 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I don't find this very funny,
+L149638 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You don't mean?
+L149637 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ In any event, my feelings were hurt when I learned that he had fallen for someone else. Someone chaste... pure... innocent.
+L149636 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Sorry.
+L149629 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ What?
+L149628 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Oh, poor baby. Well you can relax. I have a mission for you.
+L149626 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Hopefully, though she suspects that your decrepit alcoholic father is diddling the maid.
+L149625 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Lovely. How is your gold digging whore of a mother enjoying Bali? Zipping through my inheritance per usual?
+L149624 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I'm just taking the poor girl under my wing.
+L149623 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Do you care to tell me what Mrs. White-trash and her stupid daughter are doing in my house?
+L149613 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Outstanding.
+L149612 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Cecile's attending Oakwood in the fall.
+L150038 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ It's the least I can do.
+L150037 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Oh please. I can't have you do that.
+L150036 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ Let me get that for you.
+L150033 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ Absolutely.
+L150032 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ You will be discreet about this?
+L150031 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ I can't thank you enough.
+L150029 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ Black.
+L150028 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I know. She's so young and he's so -
+L150027 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ Ronald? That's crazy.
+L150026 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ It's worse. I think there's something going on between Cecile and her music teacher.
+L150025 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ Kathryn, you have my word. It isn't drugs is it?
+L150024 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Well... you promise you won't say anything to her. We've developed a friendship and...
+L150023 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ What about her?
+L150022 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ It's Cecile.
+L150021 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ Not at all. What's wrong?
+L150020 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I hope I didn't keep you from something.
+L150019 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ I got your message and came as quick as I could.
+L149606 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ Like your step-brother Sebastian. I can't believe they didn't expel him after what he did to the school nurse.
+L149605 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ Don't worry, it's totally understandable. Most of the boys that matriculate at Oakwood are very upstanding gentleman, however there are the occasional bad apples.
+L149602 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ That's beautiful.
+L149601 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I know this sounds corny, but whenever I feel temptations of peer pressure, I...  turn to God and he helps me through the problem. Call me an anachronism, but it works.
+L149600 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ How do you do it? I mean with all peer pressuring that goes on in high school. Where do you get your strength?
+L149599 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ You're too kind.
+L149596 +++$+++ u4710 +++$+++ m312 +++$+++ KATHRYN +++$+++ I'll do my best.
+L149595 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ I can't tell you how happy we are that Cecile is going to be attending Oakwood with you this fall. You've always been an inspiration to Beau and I on raising her. We just hope she can rise to the high standards which you've set for her.
+L150053 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ I guess that puts me in my place. Thank you for the hospitality Mrs. Caldwell. It was a true awakening.
+L150052 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ Oh don't give me any of that racist crap. My husband and I gave money to Colin Powell.
+L150051 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ First of all, maam, I never touched your daughter and second, I would like to think that in these times someone of your status could look beyond racial lines.
+L150050 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ Whatever. You are never to set foot in this house again and you are never and I mean never to see my daughter again. Is that understood?!
+L150049 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Got me off the streets? I live on 59th and Park.
+L150044 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ Is that so?
+L150043 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Mrs. Caldwell I think you're misunderstanding something.
+L150042 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ I'm paying you to give cello lessons. Not to pervert my child.
+L150041 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Excuse me.
+L150040 +++$+++ u4711 +++$+++ m312 +++$+++ MRS. CALDWELL +++$+++ Who the hell do you think you are?!
+L150432 +++$+++ u4712 +++$+++ m312 +++$+++ MRS. O'SHEA +++$+++ I understand. Good night.
+L150431 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ It's really important.
+L150430 +++$+++ u4712 +++$+++ m312 +++$+++ MRS. O'SHEA +++$+++ I'll do that.
+L150429 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Fine. Could you please see that she gets this.
+L150428 +++$+++ u4712 +++$+++ m312 +++$+++ MRS. O'SHEA +++$+++ Young man, I already told you she's not here.
+L150427 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Annette! Annette!
+L150426 +++$+++ u4712 +++$+++ m312 +++$+++ MRS. O'SHEA +++$+++ Later. Listen, we're entertaining some guests so -
+L150425 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Do you know when she'll be back?
+L150424 +++$+++ u4712 +++$+++ m312 +++$+++ MRS. O'SHEA +++$+++ She's out.
+L150423 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Do you know where she is?
+L150422 +++$+++ u4712 +++$+++ m312 +++$+++ MRS. O'SHEA +++$+++ She's not here.
+L150421 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I need to talk to Annette.
+L150420 +++$+++ u4712 +++$+++ m312 +++$+++ MRS. O'SHEA +++$+++ What do you want?
+L150418 +++$+++ u4712 +++$+++ m312 +++$+++ MRS. O'SHEA +++$+++ I'll do that.
+L150417 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Well please leave a message that I called.
+L150416 +++$+++ u4712 +++$+++ m312 +++$+++ MRS. O'SHEA +++$+++ I've already told you, she's not home.
+L150415 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ It's desperate that I talk to her.
+L150356 +++$+++ u4712 +++$+++ m312 +++$+++ MRS. O'SHEA +++$+++ You must be Sebastian. I've heard such nice things about you.
+L150355 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Hi. Is Annette at home?
+L150132 +++$+++ u4713 +++$+++ m312 +++$+++ MRS. SUGERMAN +++$+++ Oh... no thank you...
+L150131 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I said, do you want some water?
+L150130 +++$+++ u4713 +++$+++ m312 +++$+++ MRS. SUGERMAN +++$+++ Excuse me?
+L150129 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Yep. Then I fucked your daughter.
+L150128 +++$+++ u4713 +++$+++ m312 +++$+++ MRS. SUGERMAN +++$+++ I did?
+L150127 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Uh huh. You beat me three times.
+L150126 +++$+++ u4713 +++$+++ m312 +++$+++ MRS. SUGERMAN +++$+++ We played backgammon?
+L150125 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Right after we played backgammon.
+L150124 +++$+++ u4713 +++$+++ m312 +++$+++ MRS. SUGERMAN +++$+++ I did?
+L150123 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Yes, you already did.
+L150122 +++$+++ u4713 +++$+++ m312 +++$+++ MRS. SUGERMAN +++$+++ Did I ever tell you the time when my late husband sent me -
+L150465 +++$+++ u4714 +++$+++ m312 +++$+++ NIGHT DOORMAN +++$+++ Don't worry about it.
+L150464 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ I understand. Thanks for letting me crash here.
+L150463 +++$+++ u4714 +++$+++ m312 +++$+++ NIGHT DOORMAN +++$+++ I can't have you do that, nor can I have you hanging around the lobby all day.
+L150462 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Do you mind if I check upstairs?
+L150461 +++$+++ u4714 +++$+++ m312 +++$+++ NIGHT DOORMAN +++$+++ Nope.
+L150460 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Did she show up?
+L150459 +++$+++ u4714 +++$+++ m312 +++$+++ NIGHT DOORMAN +++$+++ Eight o'clock. You got to go.
+L150458 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ What time is it?
+L150478 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ You bastard!
+L150477 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Ronald, I'm sorry.
+L150476 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Don't know what I'm talking about? I know that you fucked Cecile.
+L150475 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Ronald, you don't know what you're talking about.
+L150474 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Did you hit her?
+L150473 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Kathryn? Oh Christ, she got to you too?
+L150472 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Kathryn. Did you hit her?
+L150471 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ What are you talking about?
+L150470 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Where the hell do you come off hitting women?
+L150469 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Can we do it later. I've had a really bad night and -
+L150468 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ It seems that you and I have some talking to do.
+L150467 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Hey Ronald.
+L150061 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ How will I get to her?
+L150060 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ Ronald, e-mail's for geeks and pedophiles. Be romantic. Write her another letter.
+L150057 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ She really loves me.
+L150056 +++$+++ u4717 +++$+++ m312 +++$+++ SEBASTIAN +++$+++ You're a lucky guy.
+L150055 +++$+++ u4716 +++$+++ m312 +++$+++ RONALD +++$+++ Wow. I never knew she had these kind of feelings.

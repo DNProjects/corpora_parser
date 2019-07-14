@@ -1,0 +1,131 @@
+L99030 +++$+++ u4145 +++$+++ m277 +++$+++ 2ND JOURNALIST +++$+++ Colonel Mathieu ... Much has been said lately not only of the successes obtained by the paratroopers, but also of the methods that they have employed ... Can you tell us something about this?
+L98958 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ The UN is far away, dear sir. It is easier to make oneself heard with bombs. If I were in their place, I would use bombs.
+L98957 +++$+++ u4145 +++$+++ m277 +++$+++ 2ND JOURNALIST +++$+++ They seemed to be plausible this time. A general strike is a good argument for the UN.
+L98956 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ And you believe the NLF?
+L98955 +++$+++ u4145 +++$+++ m277 +++$+++ 2ND JOURNALIST +++$+++ But the NLF has always spoken of a strike as a demonstration ...
+L98952 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ No. It has failed in its objective.
+L98951 +++$+++ u4145 +++$+++ m277 +++$+++ 2ND JOURNALIST +++$+++ The strike is a success; but ...
+L98950 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ Look around. I've put everything at your disposal. Go take a look with your own eyes.
+L99037 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ And those who explode bombs in public places, do they perhaps respect the law? When you asked that question to Ben M'Hidi, remember what he said? No, gentlemen, believe me, it is a vicious circle. And we could discuss the problem for hours without reaching any conclusions. Because the problem does not lie here. The problem is: the NLF wants us to leave Algeria and we want to remain. Now, it seems to me that, despite varying shades of opinion, you all agree that we must remain. When the rebellion first began, there were not even shades of opinion. All the newspapers, even the left-wing ones wanted the rebellion suppressed. And we were sent here for this very reason. And we are neither madmen nor sadists, gentlemen. Those who call us fascists today, forget the contribution that many of us made to the Resistance. Those who call us Nazis, do not know that among us there are survivors of Dachau and Buchenwald. We are soldiers and our only duty is to win. Therefore, to be precise, I would now like to ask you a question: Should France remain in Algeria? If you answer "yes," then you must accept all the necessary consequences.
+L99036 +++$+++ u4146 +++$+++ m277 +++$+++ 3RD JOURNALIST +++$+++ The law is often inconvenient, colonel ...
+L99035 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ Let's try to be precise then. The word "torture" does not appear in our orders. We have always spoken of interrogation as the only valid method in a police operation directed against unknown enemies. As for the NLF, they request that their members, in the event of capture, should maintain silence for twenty-four hours, and then, they may talk. Thus, the organization has already had the time necessary to render useless any information furnished ... What type of interrogation should we choose? ... the one the courts use for a crime of homicide which drags on for months?
+L99034 +++$+++ u4146 +++$+++ m277 +++$+++ 3RD JOURNALIST +++$+++ The questions have already been asked. I would only like some precise answers, that's all ...
+L99033 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ I understand. What's your question?
+L99032 +++$+++ u4146 +++$+++ m277 +++$+++ 3RD JOURNALIST +++$+++ Excuse me, colonel. I have the impression that perhaps due to excessive prudence ... my colleagues continue to ask the same allusive questions, to which you can only respond in an allusive manner. I think it would be better to call things by their right names; if one means torture, then one should call it torture.
+L98966 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ It depends on you.
+L98965 +++$+++ u4146 +++$+++ m277 +++$+++ 3RD JOURNALIST +++$+++ And here?
+L98964 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ In Indochina, <U>they</U> won.
+L98963 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ Exactly.
+L98962 +++$+++ u4146 +++$+++ m277 +++$+++ 3RD JOURNALIST +++$+++ Dien Bien Phu?
+L98961 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ It is an inevitable stage in revolutionary war; from terrorism, one passes to insurrection ... as from open guerrilla warfare one passes to real war, the latter being the determining factor ...
+L98993 +++$+++ u4147 +++$+++ m277 +++$+++ ALGERIAN +++$+++ Uh ... responsible for the sixth section.
+L98992 +++$+++ u4159 +++$+++ m277 +++$+++ SERGEANT +++$+++ Third group. What's your assignment?
+L98991 +++$+++ u4147 +++$+++ m277 +++$+++ ALGERIAN +++$+++ Third group.
+L98990 +++$+++ u4159 +++$+++ m277 +++$+++ SERGEANT +++$+++ What "group"?
+L98989 +++$+++ u4147 +++$+++ m277 +++$+++ ALGERIAN +++$+++ Second district, Casbah, West Algiers.
+L98988 +++$+++ u4159 +++$+++ m277 +++$+++ SERGEANT +++$+++ Second district ... Explain better ...
+L98987 +++$+++ u4147 +++$+++ m277 +++$+++ ALGERIAN +++$+++ Second district ...
+L98986 +++$+++ u4159 +++$+++ m277 +++$+++ SERGEANT +++$+++ Which "district" do you belong to?
+L98985 +++$+++ u4147 +++$+++ m277 +++$+++ ALGERIAN +++$+++ Sail.
+L98984 +++$+++ u4159 +++$+++ m277 +++$+++ SERGEANT +++$+++ Second name.
+L98983 +++$+++ u4147 +++$+++ m277 +++$+++ ALGERIAN +++$+++ Sid Ahmed.
+L98982 +++$+++ u4159 +++$+++ m277 +++$+++ SERGEANT +++$+++ Go ahead! C'mon ... Repeat everything from the beginning, and then we'll let you go. Name ...
+L98763 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ You've got to change occupations, Hacene. Right away!
+L98762 +++$+++ u4154 +++$+++ m277 +++$+++ HACENE +++$+++ What ... What must I decide?
+L98761 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ They're not paying me anything. They've already warned you twice; this is the last warning. Decide.
+L98760 +++$+++ u4154 +++$+++ m277 +++$+++ HACENE +++$+++ How much are they paying you?
+L98757 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ The NLF has condemned you to death.
+L98756 +++$+++ u4154 +++$+++ m277 +++$+++ HACENE +++$+++ What's happened to you?
+L98755 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ It's true.
+L98754 +++$+++ u4154 +++$+++ m277 +++$+++ HACENE +++$+++ Why are you afraid? We've always been friends. One might even say that I brought you up ... Isn't it true, Ali?
+L98753 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ Don't move, Hacene.
+L98752 +++$+++ u4154 +++$+++ m277 +++$+++ HACENE +++$+++ You afraid of these ...?
+L99014 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ No. Not you, or any one of us. As long as we are free, the NLF continues to exist in the Casbah. If they manage to take us too, there won't be anything left ... And from nothing comes nothing ...
+L99013 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ No, immediately. The people are demoralized. Leave this to me ...
+L99012 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ Of course. As soon as possible.
+L99011 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ Yes, but we must also show them that we still exist.
+L99010 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ It's better to split up, to increase our chances. We must change hiding places, and change them continually ... In the meantime, we must make new contacts, replace our arrested brothers, reorganize our sections--
+L98904 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ No, it's better if he doesn't. The house is filled with new people.
+L98903 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ Why? Isn't he sleeping here?
+L98733 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ Not enough.
+L98732 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ And how many are we?
+L98731 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ Because we aren't ready yet for the French. Before attacking, we must have safe places from which to depart and find refuge. Of course, there is the Casbah. But even the Casbah isn't safe yet. There are too many drunks, pushers, whores, addicts, spies ... people who talk too much ... people who are ready to sell themselves, undecided people. We must either convince them or eliminate them. We must think of ourselves first. We must clean out the Casbah first. Only then will we be able to deal with the French. Do you understand, Ali?
+L98730 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ You still haven't told me why you didn't let me kill him.
+L98729 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ Then don't complain.
+L98728 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ I don't do that kind of thing.
+L98727 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ C'mon ... you're exaggerating. The orders were to shoot him in the back.
+L98726 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ What's important for me is that you let me risk my life for nothing.
+L98725 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ You weren't able to. But what's important is that you tried.
+L98724 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ But I haven't shot him.
+L98723 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ My name is Kader, Ali ... Saari Kader ... In other words, in order to join the organization, you had to undergo a test. I could have told you to murder the barman, but he's an Algerian ... and the police would let you kill him, even though he is one of theirs. By obeying such an order, you still could have been a double agent. And that's why I told you to kill the French policeman: because the French wouldn't have let you do it. If you were with the police you wouldn't have done it.
+L98722 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ I don't even know your name yet ...
+L98721 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ Even that could be a trick. You escape, then show up at the address which the brothers in prison gave to you, and so you are able to contact me ...
+L98720 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ Sure. By shooting at me.
+L98719 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ Let's suppose you were a spy. In prison, when the NLF contacts you, you pretend to support the revolution, and then the French help you to escape ...
+L98718 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ I'll explain.
+L98717 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ With an unloaded pistol?
+L98829 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ Go away.
+L98828 +++$+++ u4158 +++$+++ m277 +++$+++ PETIT OMAR +++$+++ With the others. They are trying to stop the people.
+L98827 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ Where's Kader?
+L98699 +++$+++ u4158 +++$+++ m277 +++$+++ PETIT OMAR +++$+++ Here?
+L98698 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ Read it.
+L98697 +++$+++ u4158 +++$+++ m277 +++$+++ PETIT OMAR +++$+++ Sure ...
+L98696 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ Can you read?
+L98690 +++$+++ u4158 +++$+++ m277 +++$+++ PETIT OMAR +++$+++ Men have two faces: one that laughs and one that cries ...
+L98689 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ Go away!
+L98931 +++$+++ u4151 +++$+++ m277 +++$+++ BEN M'HIDI +++$+++ Yes ... yes. The problem also involves the UN. I don't know what it's worth, but this way, we'll give the UN the possibility of evaluating our strength.
+L98930 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ To show them to the UN, right?
+L98929 +++$+++ u4151 +++$+++ m277 +++$+++ BEN M'HIDI +++$+++ That's true ... Wars aren't won with terrorism, neither wars nor revolutions. Terrorism is a beginning but afterward, all the people must act ... This is the reason for the strike, and its necessity: to mobilize all Algerians, count them and measure their strength ...
+L98928 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ Because they told us that we mustn't use weapons, now, when the time is right.
+L98927 +++$+++ u4151 +++$+++ m277 +++$+++ BEN M'HIDI +++$+++ Why?
+L98926 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ No, and neither were my men.
+L98925 +++$+++ u4151 +++$+++ m277 +++$+++ BEN M'HIDI +++$+++ But Kader told me that you weren't in favor of the strike.
+L98924 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ No ...
+L98923 +++$+++ u4151 +++$+++ m277 +++$+++ BEN M'HIDI +++$+++ No, they'll do even more. We've given them the opportunity to do a lot more ... Do you understand what I mean? Starting tomorrow, they won't be groping in the dark any more; every shop and every worker who strikes will be a known enemy, a self-confessed criminal ... And they will be able to pass to the offensive. Have you thought of this?
+L98922 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ It's clear. They'll do everything possible to make it fail.
+L98921 +++$+++ u4151 +++$+++ m277 +++$+++ BEN M'HIDI +++$+++ Yes, I think so too ... It's been organized well ... But what will the French do?
+L98920 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ I think it'll be a success ...
+L98919 +++$+++ u4151 +++$+++ m277 +++$+++ BEN M'HIDI +++$+++ What do you think of the strike, Ali?
+L98916 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ It's a question of habit ...
+L98915 +++$+++ u4151 +++$+++ m277 +++$+++ BEN M'HIDI +++$+++ It's good nobody is following us ...
+L98914 +++$+++ u4151 +++$+++ m277 +++$+++ BEN M'HIDI +++$+++ Let's try ...
+L98913 +++$+++ u4148 +++$+++ m277 +++$+++ ALI +++$+++ Be careful now. Unless you know how it works, it's better if you sit on the plank and move forward like this ...
+L98811 +++$+++ u4160 +++$+++ m277 +++$+++ SOLDIER +++$+++ I'm sorry. Tomorrow. Tonight is out of the question.
+L98810 +++$+++ u4149 +++$+++ m277 +++$+++ ARNAUD +++$+++ Please, we just want to take a short ride. A friend of mine has never seen the Casbah.
+L98809 +++$+++ u4160 +++$+++ m277 +++$+++ SOLDIER +++$+++ It's ten minutes past midnight. Curfew begins at midnight.
+L98808 +++$+++ u4149 +++$+++ m277 +++$+++ ARNAUD +++$+++ But it's not even midnight yet!
+L98807 +++$+++ u4160 +++$+++ m277 +++$+++ SOLDIER +++$+++ It's too late. No one is allowed to enter the Casbah at this hour. It's impossible.
+L98806 +++$+++ u4149 +++$+++ m277 +++$+++ ARNAUD +++$+++ Good evening ... Can we pass?
+L98794 +++$+++ u4152 +++$+++ m277 +++$+++ EMPLOYEE +++$+++ Good evening, sir.
+L98793 +++$+++ u4150 +++$+++ m277 +++$+++ ASSISTANT COMMISSIONER +++$+++ All right. See you tomorrow, Corbiere.
+L98792 +++$+++ u4152 +++$+++ m277 +++$+++ EMPLOYEE +++$+++ Rue de Thèbes? In the Upper Casbah, I think ...
+L98791 +++$+++ u4150 +++$+++ m277 +++$+++ ASSISTANT COMMISSIONER +++$+++ Tell me ... Where is this rue de Thèbes?
+L98790 +++$+++ u4152 +++$+++ m277 +++$+++ EMPLOYEE +++$+++ Good evening, sir.
+L98789 +++$+++ u4150 +++$+++ m277 +++$+++ ASSISTANT COMMISSIONER +++$+++ Good, thank you, Corbiere... . See you tomorrow.
+L98771 +++$+++ u4152 +++$+++ m277 +++$+++ EMPLOYEE +++$+++ Intersection, between Consular Street and General Laquiere Avenue ...
+L98770 +++$+++ u4150 +++$+++ m277 +++$+++ ASSISTANT COMMISSIONER +++$+++ Where were we?
+L99127 +++$+++ u4153 +++$+++ m277 +++$+++ GENERAL +++$+++ Why, yes, of course ... But for the moment, let's be satisfied with Algiers! In the mountains our work is always easier.
+L99126 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ Bah, for that matter, Algeria isn't the only country in the world ...
+L99123 +++$+++ u4153 +++$+++ m277 +++$+++ GENERAL +++$+++ Let's hope forever.
+L99122 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ Yes, I believe there won't be any more talk of the NLF for some time.
+L99121 +++$+++ u4153 +++$+++ m277 +++$+++ GENERAL +++$+++ And so the tapeworm no longer has a head. Are you satisfied, Mathieu? In Algiers everything should be over.
+L98891 +++$+++ u4153 +++$+++ m277 +++$+++ GENERAL +++$+++ Yes, a name for the operation.
+L98890 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ A name?
+L98889 +++$+++ u4153 +++$+++ m277 +++$+++ GENERAL +++$+++ Mathieu! Mathieu, a name ...
+L99081 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ She says that Ali is still in the Casbah.
+L99080 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ What is she saying?
+L99079 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ No. Let's just say that you've given me the satisfaction to have guessed correctly. But from the technical point of view, it isn't possible to speak of advantages. By now the game is over. The NLF has been defeated.
+L99078 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ That proves that I was wrong. Evidently I credited you with an advantage greater than I should have.
+L99077 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ Of course I am.
+L99076 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ You seem to be very satisfied to have taken me alive ...
+L99075 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ For many months, I've had your photo on my desk together with a dozen or so reports on you ... And naturally, I am under the illusion that I know you somewhat. You never seemed the type, Kader, inclined to performing useless actions.
+L99074 +++$+++ u4155 +++$+++ m277 +++$+++ KADER +++$+++ Why?
+L99055 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ Yes ... But let me first see you.
+L99054 +++$+++ u4157 +++$+++ m277 +++$+++ MOURAD +++$+++ Are you ready, colonel?
+L99052 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ Okay, I'll make the statement in writing ...
+L99051 +++$+++ u4157 +++$+++ m277 +++$+++ MOURAD +++$+++ We'll lower a basket from the window ...
+L99050 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ How can I give you this statement?
+L99049 +++$+++ u4157 +++$+++ m277 +++$+++ MOURAD +++$+++ Okay. But we want your promise for a fair trial in writing. Give us a written statement, Mathieu, and then we'll surrender.
+L99047 +++$+++ u4157 +++$+++ m277 +++$+++ MOURAD +++$+++ We don't trust you, colonel. Come forward, show yourself.
+L99046 +++$+++ u4156 +++$+++ m277 +++$+++ MATHIEU +++$+++ Mathieu. Colonel Mathieu.
+L99045 +++$+++ u4157 +++$+++ m277 +++$+++ MOURAD +++$+++ Who is speaking?

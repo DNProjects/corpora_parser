@@ -1,0 +1,507 @@
+L218339 +++$+++ u5316 +++$+++ m353 +++$+++ BETTY +++$+++ Yeah, I told her it was you, but that you're wearing a wig, 'cause on TV you're mostly bald in the front.
+L218338 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ A wig?
+L218337 +++$+++ u5316 +++$+++ m353 +++$+++ BETTY +++$+++ That's a wig you wear, isn't it?
+L218336 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Well, Betty and Twinky, it sure is nice talking to you girls. I just wish I had more time...
+L218335 +++$+++ u5316 +++$+++ m353 +++$+++ BETTY +++$+++ Yeah, 'cause she's so "twinky"...
+L218334 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Twinky?
+L218333 +++$+++ u5316 +++$+++ m353 +++$+++ BETTY +++$+++ My name is Shirley, but they call me Betty, and her name's Twinky.
+L218332 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I leave it to you.
+L218331 +++$+++ u5316 +++$+++ m353 +++$+++ BETTY +++$+++ See, I told you it was him...  Your name's Donnie something, right?
+L218425 +++$+++ u5321 +++$+++ m353 +++$+++ ELTON +++$+++ I got accused a robbin' a fillin'station down in the Indian Nation, didn' I tell you...
+L218424 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Tell me what in the hell's going on, Elton!
+L218410 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I hope that's all you gotta say, El, 'cause I'm about as tired of your mouth as I am workin' this stinkin' hole!
+L218409 +++$+++ u5321 +++$+++ m353 +++$+++ ELTON +++$+++ If you're sayin' you're somethin' better'n what I am, that's one thing. But I can't say much a someone who'd run off an' leave a woman in a situation like this an' feel easy about it. An' that's all I gotta say.
+L218407 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ It's ridiculous! I'm sitting here, listening to some asshole cracker compare his life to mine!
+L218406 +++$+++ u5321 +++$+++ m353 +++$+++ ELTON +++$+++ Well, id'n that nice.
+L218378 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Look at these assholes! What the hell are they doing?!
+L218377 +++$+++ u5321 +++$+++ m353 +++$+++ ELTON +++$+++ Give 'em the horn, Bob.
+L218323 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Okay. Go ahead. I'll settle up for the beers...  An' walk Rayette over with you, will you.
+L218322 +++$+++ u5321 +++$+++ m353 +++$+++ ELTON +++$+++ We gotta get on home an' relieve the sitter. Why'nt you an' Ray come on over.
+L219017 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Fill it up.
+L219016 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Sure you don't want anything?
+L219013 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ You got any change?
+L219012 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No.
+L219011 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ I'm gonna go in that cafe an' get some coffee. You want anything?
+L218996 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No, let's go...
+L218995 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Wait a sec. I want Tita to take a picture of you an' me in front of the place...
+L218994 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Come on.
+L218946 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I can't talk to you right now, leave me alone...
+L218945 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Bobby...
+L218886 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I don't, huh?
+L218885 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ It's all right. He don't mean anything by that.
+L218880 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Oh, am I holdin' up dessert?
+L218879 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Just finish eating.
+L218878 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ What?
+L218877 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Rayette.
+L218866 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I don't know.
+L218865 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ This certainly is an improvement on the motel an' the coffee shop.  How could you have left such a beautiful place, Bobby?
+L218651 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Okay...
+L218650 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Bye, honey, I'll call you in a couple of days.
+L218649 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ It brings out my eyes...
+L218648 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Sure...
+L218647 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Or maybe sit out by the pool an' get myself nice an' tan for you. Would you like that?
+L218646 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Okay, Ray...
+L218644 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Bobby, don't talk like that...
+L218643 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ If you can't do what I ask, Ray, use that money to go back home, then.
+L218642 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ So how long am I supposed to sit an' twiddle my thumbs in this place?
+L218641 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I have to see how things are first. My father's sick, you understand? They wouldn't be prepared for me bringing anyone.
+L218640 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Why can't I go out to your folks' house? Give me one good reason.
+L218633 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Oh, you're not going to kill yourself this time. I wish I'd known...
+L218632 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ 'Cause if it was me, I could just catch a Greyhound back.
+L218631 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Well, is that a happy face I see?
+L218630 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Who said I was depressed?
+L218629 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ You're depressed that I come along.
+L218628 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Is what you?
+L218627 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ I 'magine it's me then, id'n it?
+L218626 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No.
+L218625 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Are you depressed about your daddy, honey?
+L218590 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Shut up! All of you!
+L218589 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Just one minute, you! Don't you ever talk to me like that!
+L218548 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ I'll tell you...  ... l-a-t-e-r.
+L218547 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ What?
+L218533 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ What the hell is that?
+L218532 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ "Every trail that you blaze/Makes me..."
+L218531 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ "You'll be burned out/Or smoked out/An' come back to me, I know..."
+L218530 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I love it.
+L218529 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ You like it?
+L218521 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ You'll be gone, period.
+L218520 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I'll be gone two or three weeks.
+L218372 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Do you love me, Bobby?
+L218371 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I'm not going to get up an' leave you.  Now let's go over to El's an' have a good time.
+L218370 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ If you really want a get up an' leave me, you can read about it in the newsprint.
+L218369 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Sssh, come on now...  Be a good girl.
+L218368 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ You're goin' a find me dead one time.
+L218367 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Elton and Stoney know how I feel about you. An' they're just goin' to think I'm not too nice a guy, which I'm not, an' that you're a hell of a person puttin' up with me, that's all.
+L218366 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Now, hand...
+L218365 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ You go slippin' around in front a my face, an' in front a Elton an' Stoney. What do you imagine they think a someone you treat that way...
+L218364 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I'm sorry.
+L218363 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ You treat me like I was.
+L218362 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I know you're not.
+L218361 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ I'm not some piece a crap.
+L218360 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I'm going on over there...
+L218359 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ You're the pathetic one, not me.
+L218358 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Come on, DiPesto. We can still have a good time.
+L218355 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ I hope they do.
+L218354 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Okay. Hope no one hits on you.
+L218353 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Yes.
+L218352 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ You just going to sit there?
+L218351 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ I'm not.
+L218350 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Come on. We're goin' over to Elton's.
+L218316 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Yeah, great.  Why don't you throw Z's for 19 frames, and then roll a strike on the last ball in the last frame of a losing game? Just wonderful.
+L218315 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ That was damn good, wad'n it? I finally did it...
+L218313 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ You got another ball comin'.
+L218312 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ I did, didn' I, El?
+L218311 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Will you just do what the hell I tell you...
+L218310 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ I can't help it, honey, the ball just keeps goin' cocky wobbly on me...
+L218309 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Right. Now show me a little somethin' this time, okay? Give me some form...
+L218308 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Is it my turn again?
+L218304 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No, I'm not mad at you, hand. It'll be all right. Just spot and follow through...
+L218303 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ I'm tryin', baby, so don't start gettin' mad now.
+L218294 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ That's right, hand.
+L218293 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ You know what, you are never satisfied.
+L218292 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ You can sing the song.
+L218291 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ I'll go out with you, or I'll stay here, and do anything you'd like for me to do... if you'll just do one thing. If you'll tell me that you love me.
+L218289 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Out where?
+L218288 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Why'nt you take 'at sign off your tit, Ray, an' let's go on out.
+L218284 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ No, dammit, I would easy.
+L218283 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Now, now.
+L218282 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Serveza yourself!
+L218281 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Cerveza.
+L218280 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ You're playing the other side.
+L218279 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Sugar, you know how I feel about you, don't you? I'm just tryin' to get you to take an interest in my kind a things, an' what I'm tryin' to do with myself...  You know, there id'n anything in the world I wouldn't do for you, baby. I started livin' the day I found you, you know that?
+L218278 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I'm too moved by your gentility to speak.
+L218277 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ How 'bout if I just cut off your damn water?
+L218275 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Well, lemme sing the one I picked an' see what you think...  "When there's a fire in your heart/Break the glass/Sound the alarm..."
+L218274 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ You said.
+L218273 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Now quit, Bobby. You said you're goin' a help me pick a song.
+L218272 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No.
+L218271 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Well, lemme play the other side then.
+L218270 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ You're not going to play it again.
+L218616 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ No, but it was very clever... I would of just punched her out.
+L218615 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I didn't get it, did I?
+L218614 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ Fantastic! That you could figure all that out, and lay that down on her, to come up with a way you could get your toast.
+L218604 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Shut up.  You have bread, don't you, and a toaster of some kind?
+L218603 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ Hey, mack!
+L218577 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ It's just filthy. People are dirty. I think that's the biggest thing that's wrong with people. I think they wouldn't be as violent if they were clean, because then they wouldn't have anybody to pick on... Oofh... Dirt...
+L218576 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Well...
+L218564 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ Who? People, that's who! Pretty soon there won't be room for anyone. They're selling more crap that people go and buy than you can imagine. Oofh! Crap! I believe everybody should have a big hole where they throw in all this stuff and burn it.
+L218563 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Who?
+L218562 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ I had to leave this place. I got depressed, seeing all the crap. And the thing is, they're making more crap, you know? They've got so many stores and stuff and junk full of crap, I can't believe it.
+L218560 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Yeah. That's before the big thaw.
+L218559 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ I saw a picture of it. Alaska is very clean. It appeared to look very white to me... Don't you think?
+L218558 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ How do you know it's clean?
+L218557 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ You don't have to tell everybody about it. Pretty soon they'll all go there and it won't be so clean.
+L218554 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Alaska? Are you on vacation?
+L218553 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ Alaska.
+L218552 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Where are you going?
+L218551 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ We'll get off in Washington and hook another ride.
+L218550 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Washington.
+L218549 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ How far are you going to?
+L218544 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ Palm Apodaca.
+L218543 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ What's your name?
+L218540 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ Seven hundred dollars, down the toilet! I'd like to go back and punch the son of a bitch out! Can you give us a lift?
+L218539 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ You're lucky no one was hurt.
+L218538 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ Look at my car! Piece of shit! I just bought it brand new from a used-car lot, and the steering goes to the pot on me!
+L218610 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Yeah. I want you to hold it between your knees.
+L218609 +++$+++ u5329 +++$+++ m353 +++$+++ WAITRESS +++$+++ You want me to hold the chicken.
+L218608 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Now all you have to do is hold the chicken, bring me the toast, charge me for the sandwich, and you haven't broken any rules.
+L218607 +++$+++ u5329 +++$+++ m353 +++$+++ WAITRESS +++$+++ One Number Two, and a chicken sal san -- hold the butter, the mayo, the lettuce -- and a cup of coffee... Anything else?
+L218606 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Okay, I'll make it as easy for you as I can. Give me an omelette, plain, and a chicken salad sandwich on wheat toast -- no butter, no mayonnaise, no lettuce -- and a cup of coffee.
+L218605 +++$+++ u5329 +++$+++ m353 +++$+++ WAITRESS +++$+++ I don't make the rules.
+L218602 +++$+++ u5329 +++$+++ m353 +++$+++ WAITRESS +++$+++ Would you like to talk to the manager?
+L218601 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ What do you mean, you don't have side orders of toast? You make sandwiches, don't you?
+L218600 +++$+++ u5329 +++$+++ m353 +++$+++ WAITRESS +++$+++ I'm sorry, we don't have side orders of toast. I can give you an English muffin or a coffee roll.
+L218599 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Wait, I've made up my mind. I want a plain omelette, forget the tomatoes, don't put potatoes on the plate, and give me a side of wheat toast and a cup of coffee.
+L218598 +++$+++ u5329 +++$+++ m353 +++$+++ WAITRESS +++$+++ I'll come back when you've made up your mind...
+L218597 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I know what it comes with, but that's not what I want.
+L218596 +++$+++ u5329 +++$+++ m353 +++$+++ WAITRESS +++$+++ Only what's on the menu...  A Number Two: Plain omelette. It comes with cottage fries and rolls.
+L218595 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ But I can't have any. Is that what you mean?
+L218594 +++$+++ u5329 +++$+++ m353 +++$+++ WAITRESS +++$+++ No. We have tomatoes.
+L218593 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ What does that mean? You don't have any tomatoes?
+L218592 +++$+++ u5329 +++$+++ m353 +++$+++ WAITRESS +++$+++ No substitutions.
+L218326 +++$+++ u5329 +++$+++ m353 +++$+++ WAITRESS +++$+++ Five'll do it.
+L218325 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No. How much do I owe you?
+L218324 +++$+++ u5329 +++$+++ m353 +++$+++ WAITRESS +++$+++ Can I get you anything else?
+L218348 +++$+++ u5328 +++$+++ m353 +++$+++ TWINKY +++$+++ I always tell everyone the same thing. I got rolled and beat up real bad recently, and since then it's two for one, an' I work strictly in tandem with Betty...
+L218347 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Well, you seem very professional...
+L218346 +++$+++ u5328 +++$+++ m353 +++$+++ TWINKY +++$+++ I'm gonna give you our number, Donnie, just in case...  We're both professionals, if you didn't guess.
+L218330 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Well, I don't claim to have sold 'em all. They still have some left, I believe.
+L218329 +++$+++ u5328 +++$+++ m353 +++$+++ TWINKY +++$+++ She says you're the one that sells all the cars on TV.
+L218328 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Am I on TV?
+L218327 +++$+++ u5328 +++$+++ m353 +++$+++ TWINKY +++$+++ We been wantin' to ask you something. Are you the guy on YV?
+L218318 +++$+++ u5328 +++$+++ m353 +++$+++ TWINKY +++$+++ Are you talking to us?
+L218317 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Wasn't it, ladies?
+L218993 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Bye, Robert.
+L218992 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Bye, now.
+L218989 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I'll say goodbye to you, Tita.
+L218988 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ But what about me?
+L218987 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I didn't want to say goodbye to anyone.
+L218986 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ You were going without saying goodbye?
+L218985 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Yeah. I said a week, and I've overstayed myself...
+L218984 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ You're leaving?
+L218955 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Can't I have anything to myself, dammit?!
+L218954 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I'm talking to you, Tita!
+L218952 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ I don't know where she is!
+L218951 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Where's Catherine?!
+L218950 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ It's none of your business!
+L218800 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ My turn.
+L218799 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Where is she, anyway?
+L218789 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Sailors are sadistic, I feel.
+L218788 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Look, can't you see that, what I'm talking about?
+L218787 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ You know, he was formerly a sailor.
+L218786 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I think he's got a terrific personality.
+L218784 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Yeah, well, he's...
+L218783 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ I don't think I'd notice. I'm so used to Carl.
+L218782 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I'm not. He does walk funny. Don't you see that?
+L218781 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Why are you being so mean?
+L218780 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Look at that.
+L218764 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No, thanks...
+L218763 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ With applesauce?
+L218762 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ What?
+L218761 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Do you want some gingerbread?
+L218716 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I don't know.
+L218715 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Well, you're not going to run out on me right away, are you?
+L218714 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ There's nothing to say, Tita...
+L218713 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Oh, let's not talk about my hair, it does what it wants to, and anyway, who cares, I want to talk about you...
+L218712 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Well, if you just maybe did something with your hair, or...
+L218711 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Like what?
+L218710 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ You're attractive, Tita. If you just did a little more with yourself...
+L218709 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Actually, it's very admirable, the way she works. She'll probably be enormously successful, because she's attractive as well, not that that's so important in music, but...
+L218708 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Uhm hmm.
+L218707 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Constantly. Night and day. And unless I get up before the birds, I can't get in any practice time for myself...
+L218706 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ What about Carl and Catherine? Is he just coaching her, or what?
+L218705 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ I probably am, but I don't care. I mean, I wasn't that blessed to begin with, and when would I have had time to make any improvements...
+L218704 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No, I don't really think you're a freak.
+L218703 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Oh no... Why? What is it? The way I look?
+L218702 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Sort of.
+L218701 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ No, no, I don't think that, I'm just curious about it...  Do you think I'm a freak?
+L218700 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Why? Am I some kind of freak to you or something?
+L218699 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Sometimes.
+L218698 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Well, do you -- I mean, have you enjoyed all these... strange things you've been doing?
+L218697 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ What questions?
+L218695 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ We can't all get up and leave, can we? I mean, there are certain needs you have to respond to...
+L218694 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No, I don't.  You should've left a long time ago.
+L218693 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ I mean, you think I'm that happy?
+L218692 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ A week or two isn't going to ruin your life, for Godsakes.
+L218691 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Yes, it is. I can't take seeing him, sitting there like a stone.
+L218690 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ It's not that bad.
+L218689 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Uhm hmm. Some range.
+L218688 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ He has ways of communicating, Robert. I can tell when he's expressing approval or disapproval, just from his eyes...
+L218677 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ A couple of months.
+L218676 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ How long have you been staying here?
+L218674 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ I don't think you should infer Daddy was wrong in front of him...
+L218673 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Well, I really appreciate it, Carl.
+L218510 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ All right...
+L218509 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Tita, I've got to go...
+L218508 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ It'll be so good for you, and for Daddy, because you know, you've never really...
+L218507 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Yeah, me, too...
+L218506 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Oh God, I'm so glad, Robert, that you're coming...
+L218505 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Well, I'll be seeing you in a couple of days, won't I?
+L218504 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ No, I need to talk to you, about so many things...
+L218503 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Maybe you better stay, then.
+L218498 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Wait...
+L218497 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Well...  I better let you...
+L218496 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ I know.
+L218495 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I'd rather drive up myself and... maybe go into Canada after... And I can't stay long, Tita, probably a week, at the most.
+L218494 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No...
+L218493 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ I'm going back up tonight. Will you go with me?
+L218492 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Yeah... I guess so...
+L218488 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Don't tell me about this...
+L218487 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ He's not... They feel he... maybe he might not recover, and that he'll either...
+L218486 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ He's had two strokes.
+L218485 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Oh, well, what, what's he...
+L218484 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Daddy's very ill.
+L218483 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ What?
+L218482 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Robert, I have to tell you something...
+L218481 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Crashes into a Jeep and totals his neck.  That's Carl...
+L218480 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ It's not funny. He permanently sprained his neck, and since then it's been extremely difficult for him to tuck the violin.
+L218478 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Well, 11 months ago he was on his bicycle, on his way to the post office in La Roche... and he ran into a Jeep and sprained his neck...
+L218477 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Carl's a fiddler. What's he doing coaching piano?
+L218476 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Catherine -- she's a pianist. She's working with Carl.
+L218475 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Who's Van Oost?
+L218474 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Well, Herbert's mostly on the mainland because of the orchestra, so at the moment, there's just Daddy, Carl and myself... and Van Oost.
+L218473 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Everybody still up on the Island?
+L218472 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ I have to talk seriously with you...
+L218471 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Very nice.
+L218470 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Robert...
+L218468 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No kidding.
+L218467 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Waldnit von Schnechter. Prewar.
+L218466 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No.
+L218465 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ You know who it once belonged to?
+L218464 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Oh.
+L218463 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ This is a very special, very old CB 275...
+L218462 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Sorry.
+L218461 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Thank you...  Oh no, don't put it on there...
+L218460 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Well, I don't mean to.  Here's your tea, Tita.
+L218459 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ You always do this to me.
+L218458 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Don't, then.
+L218457 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ I just can't look at you.
+L218456 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ That's good.
+L218455 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ No, I'm not...  I'm not.
+L218454 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Now don't...
+L218453 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Robert Eroica...
+L218452 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Hi, Tita.
+L218451 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Oh my goodness... Bobby...
+L218449 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Would you tell her Bobby's here?
+L218448 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Tea.
+L218973 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I hope it will, yes.  I'm sorry.
+L218972 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ That'll make you happy.
+L218971 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Yes.
+L218970 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ And living out here, in this rest home asylum, that's what you want?
+L218969 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I'm trying to be delicate with you, but you're not understanding me. It's not just because of Carl, or my music, but because of you...  I mean, what would it come to? If a person has no love for himself, no respect, no love for his work, his family, his friends, something... How can he ask for love in return? I mean, why should he ask for it?
+L218968 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Just give me a chance, will you?
+L218967 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ No. It's useless, Robert. It wouldn't work, not ever...
+L218904 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Please, I'll see you later this evening.
+L218903 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Catherine...
+L218902 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I'm sorry everything's been so confusing, but I have to go, Robert...
+L218901 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ What?! I can't hear you!
+L218900 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Oh. You have to tell me that.
+L218899 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I can't do that. I haven't been being fair to Carl. I have to tell you that.
+L218898 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Will you let me talk to you, please?
+L218897 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ No, I can't...
+L218894 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Yes, it is!
+L218893 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ No, you don't have to, it isn't necessary...
+L218892 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No, I want to talk to you now. I have to explain something about...
+L218891 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I'll be back later...
+L218890 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I have to talk to you.
+L218889 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I'm going to pick up some friends of Carl's. Are you all right?
+L218888 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Where are you going?
+L218860 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Of course I'd like to.
+L218859 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I could spend some time with you tomorrow morning, before Carl comes back, I mean, if you'd like to.
+L218858 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ What?
+L218857 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Robert?
+L218856 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Yeah, I think I could.
+L218855 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Do you think you could discreetly move across the hall now?
+L218854 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Yes.
+L218853 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Is he?
+L218852 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Carl restored my confidence. He really did. He's much more substantial than you give him credit for.
+L218851 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I'm fine.
+L218850 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ As a matter of fact, he's the one who introduced me to Carl...  How are you?
+L218849 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Something witty and devastating like that.
+L218848 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ That's what you said?
+L218847 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I married him when I was 17. He was a cellist, and I thought he was the most brilliant man I'd ever met... And I'm sure he was, because at that age, I hadn't met that many... But he was insidious, you know. He had me convinced that I was a mediocrity, musically, as a woman, as an intellect. But in this completely imperceptible, pleasant way, so that you weren't even sure he was doing it. Anyway, I just woke up one morning and I said, you know something Joseph, you're full of beans, and I left him...
+L218846 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I don't believe vou.
+L218845 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ That's right.
+L218844 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ No inner feeling.
+L218843 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Shut up...
+L218842 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ No, don't do that...
+L218840 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Yes, that's what's important to me...
+L218839 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Serious, that's what's important to you?
+L218837 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I'd like you to leave now. Is that direct enough?
+L218836 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ It's direct, anyway, which seems to be difficult for you.
+L218835 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I don't find your language that charming.
+L218831 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Some bath oil?
+L218830 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I'm not faking anything. I'm looking for some bath oil...
+L218829 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ It's convenient to fake looking for something right now, isn't it?
+L218828 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I'm not conscious of having given you any meaningful looks. And as for the day after tomorrow, this is the day after tomorrow, and I am, unfortunately, seeing you... Now if you'll excuse me, I'd like to take a bath.
+L218827 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Up to now, what I've been getting from you are meaningful looks over the dinner table and a lot of vague suggestions about the day after tomorrow...
+L218826 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I don't think that's accurate...
+L218825 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Yes, it was. You've made it clear that if I can cut a little piano, I might get a little response.
+L218824 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Look... You made a very calculated move, and then made me feel embarrassed for responding to you. That wasn't necessary.
+L218823 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No, it isn't what I think.
+L218822 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I think it's what you think.
+L218821 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ You think I'm a fake.
+L218819 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ No, you're very good at it. I'm really impressed.
+L218818 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Catherine...
+L218817 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ At being a fake.
+L218816 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ What?
+L218815 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Well, at least you're accomplished at something...
+L218814 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Wait...
+L218813 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Then I must have been supplying it.
+L218812 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ None.
+L218811 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ You had no inner feeling?
+L218810 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I didn't have any.
+L218809 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ It doesn't matter. It was the feeling I was affected by.
+L218808 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Nothing. It's just that... I picked the easiest piece I could remember. I think I first played it when I was 8 years old and I played it better then.
+L218807 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Why?
+L218806 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ It wasn't supposed to be, it just struck me that way.
+L218805 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Is that funny?
+L218804 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I was really very moved by the way you...
+L218803 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Thank you.
+L218802 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ That was beautiful, Robert. I'm surprised...
+L218754 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Of course I do. It's music. You know...
+L218753 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ You don't call that music, though.
+L218752 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I have played a few times. Here and there. As a matter of fact, I was once a rehearsal pianist for a Las Vegas musical revue.
+L218751 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I mean, how could you not play anymore? That's so strange to me...
+L218749 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I gave it a second thought.
+L218748 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ One thing that's hard to understand is how you could have this incredible background in music, and then just walk away from it, without a second thought...
+L218744 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Yeah, I'll probably be free.
+L218743 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ If you're free.
+L218742 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ The day after tomorrow.
+L218741 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Carl has hydrotherapy on Tuesdays.
+L218740 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Tomorrow's a full practice day...  But the day after is kind of open.
+L218739 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Tomorrow, then.
+L218738 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ After that, I plan to read some music and rest for awhile.
+L218737 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Then after that?
+L218736 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Right now I'm going to run a hot tub and soak myself.
+L218734 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I don't know. Let me give it some thought.
+L218733 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ That's right. Have you anything to suggest?
+L218732 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Nothing? Then it must be very boring for you here.
+L218731 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Nothing.
+L218730 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Well, there's fishing and boating. There's concerts on the mainland and... but I feel silly telling you. This is really your home. You probably know better than I what there is to do.
+L218729 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Besides piano and swimming, what else do you do?
+L218728 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ What would I do with it? Run amok?
+L218727 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Why?
+L218726 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Well, I wouldn't want to get too invigorated myself.
+L218725 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I love to swim, and I don't mind the cold at all. It's invigorating.
+L218724 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Playing piano all day and then jumping into cold water. You could get a cramp.
+L218723 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Swimming?
+L218722 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ That's dangerous, you know.
+L218721 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Yes, intentionally.
+L218720 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I guess you fell in the water.
+L218719 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ Hello...
+L218667 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ And you no longer play at all?
+L218666 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ What have I been doing? Different things, different jobs, here and there. Nothing that interesting.
+L218665 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ What have you been doing since then?
+L218944 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ You're all full of shit!
+L218943 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ Robert, I think you better just...
+L218884 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ Robert, let's not be rude, okay?
+L218883 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Oh, for chrissakes...
+L218794 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ I thought you had to go to the mainland today. Aren't you going to miss the ferry?
+L218793 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ All right, let's have a rematch.
+L218792 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ That's three games to none, Carl.
+L218791 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ At game, Carl.
+L218790 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ See? There's nothing wrong with the way I walk. Now where are we?
+L218776 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ That's what I mean...
+L218775 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ I've walked across a stage a number of times, without exciting any particular response...
+L218772 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Your serve. Two -- Eighteen.
+L218771 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ I'm not aware of it. Like what?
+L218769 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ What do you mean? Aside from my neck, I'm in superb shape.
+L218768 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ You sure you should be playing, Carl?
+L218757 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ Nothing. Will you excuse us for a while?
+L218756 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ What?
+L218755 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ Robert, do you mind?
+L218687 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Thanks, Carl...
+L218686 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ I hope you feel at home, Robert.  I'm really glad you're here.
+L218684 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Is she?
+L218683 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ She's tremendously gifted, this girl.
+L218680 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ It's still nearly impossible for me to turn my neck. If I wanted to turn toward Catherine, for instance, I'd first have to twist the whole base of my body around...  ... like this...
+L218679 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ What?
+L218678 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ Did you hear about my misfortune, Robert?
+L218659 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ No, the last time was three years ago.
+L218658 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Four or five years.
+L219024 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ It's all right. I'm fine.
+L219023 +++$+++ u5320 +++$+++ m353 +++$+++ DRIVER +++$+++ Suit yourself. But I'll tell you, where we're headed is gonna get colder'n hell.
+L219022 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No, it's okay.
+L219021 +++$+++ u5320 +++$+++ m353 +++$+++ DRIVER +++$+++ I've got an extra jacket behind the seat, if you want to put it on.
+L219020 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ No, I don't, I uh... it got burned up. Everything in the car got the shit burned out of it. All I got left is what I have on...
+L219019 +++$+++ u5320 +++$+++ m353 +++$+++ DRIVER +++$+++ Haven't you got a jacket or anything with you?
+L218896 +++$+++ u5317 +++$+++ m353 +++$+++ BOBBY +++$+++ Will you shut up for a minute!!  Pull your car out of line.
+L218895 +++$+++ u5320 +++$+++ m353 +++$+++ DRIVER +++$+++ Come on, get moving, dammit!!
+L218930 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Oh, uh huh. I had a little kittycat once, that Bobby give me...
+L218929 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ It's a Borzoi.
+L218928 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ What kind of doggy is that?
+L218882 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ I do eat slow as a bird, whereas Bobby can put it away like a speed swing...  Is there any ketchup around?
+L218881 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ No, you're not. Go ahead and take your time.
+L218873 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ Not at all.
+L218872 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Well, thank you, that's a very nice thing for you to say.
+L218871 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ Oh, no. You're more than welcome.
+L218870 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Well, I was goin' to, but Bobby said he hadda kind of feel things up here first, which I can understand, but then it went an' took so long, I ran flat outa money...  I didn't have no number to call, you know.  So I hadda clear outa there an' come on up here, in the hopes that I wouldn't be intrudin' myself...
+L218869 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ I don't understand why you had to stay in a motel. There's more than enough room here.
+L218868 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ For two whole weeks, an' there wasn't hardly nobody there to talk to but me. The manager of the place told me it was the off season, an' it must a ben, because other'n me, there was just this 25-year-old kid, DeLyon, that didn't appear to be all there, an' this old married pair next to me that was always hollerin' for quiet. Can you imagine? All you could a heard there was a pin, an' them, hollerin' away...
+L218867 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ You've been staying in a motel all this time?
+L218747 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ I took some aspirin and it really upset my stomach.
+L218746 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ What's wrong, Carl, you hardly ate anything...
+L218672 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ At any rate, Dad wanted to hire a private detective to ferret you out, and I said, "What for?" Whatever the hell he's doing, even if it's a completely wasteful escapade, it's entirely his business. Simple as that...
+L218671 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ I hope I didn't hear that.
+L218670 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ I don't know where you were, penis envy.
+L218669 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Oh, my, "a summit conference." I wonder where I was, polishing silver behind the coal bin.
+L218668 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ You know, just after I came back off tour with the Betenthaller Quartet, Dad, myself and Herbert had a summit conference about you...
+L218664 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Besides being very rude.
+L218663 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ It is true.
+L218662 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ I don't think that's true.
+L218661 +++$+++ u5318 +++$+++ m353 +++$+++ CARL +++$+++ Away from the piano, Tita, you have no sense of time at all.
+L218660 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Oh no, it's been much more than that.
+L218926 +++$+++ u5324 +++$+++ m353 +++$+++ SAMIA +++$+++ Well, I should hope not...
+L218925 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ You haven't dampened my spirit, Samia... Excuse me.
+L218924 +++$+++ u5324 +++$+++ m353 +++$+++ SAMIA +++$+++ But I'd like to say, so that I don't dampen the spirit of your adventure...
+L218923 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ I think these cold, "objective" discussions are aggressive, Samia...
+L218922 +++$+++ u5324 +++$+++ m353 +++$+++ SAMIA +++$+++ ... which should exclude you from any objective discussion. But keep in mind, even the arts aren't free of aggressive content, nor the institution of marriage.
+L218921 +++$+++ u5324 +++$+++ m353 +++$+++ SAMIA +++$+++ Well, you're a romantic, Catherine, as are most musicians, and what's more, about to be married...
+L218920 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ No, I wouldn't.
+L218919 +++$+++ u5324 +++$+++ m353 +++$+++ SAMIA +++$+++ What about it? Wouldn't you agree that a great deal of mischief has been done in the name of love?
+L218918 +++$+++ u5319 +++$+++ m353 +++$+++ CATHERINE +++$+++ And what about love?
+L218588 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ Hold onto this.
+L218587 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ You better hold onto your tongue!
+L218586 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ I wouldn't be a waitress. They're nasty and full of crap.
+L218585 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Don't call me "mack," honey.
+L218584 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ Don't call me "honey," mack.
+L218583 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Salesmen and cops are the ones. If you'd ever waitressed, honey, you'd know.
+L218582 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ Bullshit! Truck drivers know the best eating places on the road.
+L218581 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ That's an old maid's tale.
+L218580 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ Hey, follow that truck. They know the best places to stop.
+L218579 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ Not dirt. See, dirt isn't bad. It's filth. Filth is bad. That's what starts maggots and riots...
+L218578 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Well...
+L218566 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ A dispose-all, what's that but more crap? I've never seen such crap. Oofh, I don't know how people get up in the morning.
+L218565 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ There'd never be a hole big enough. Now took at me, for instance, when I was just one person, before Bobby, I had so much garbage collectin' onto me every day, I was thinkin' about gettin a dispose all...
+L218542 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Jesus, what a rude person...
+L218541 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ Come on, Terry, we got a ride!
+L218624 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ Right, steam. A car you could ride around in and not cause a stink. But do you know, they will not even let us have it. Can you believe it? Why?! Man! He likes to create a stink. I wrote them a note once, and told them to clean it... I mean, don't you see that? It's just filthy! I mean, I've seen filth you wouldn't believe! Oofh, what a stink! I don't even want to talk about it...
+L218623 +++$+++ u5326 +++$+++ m353 +++$+++ TERRY +++$+++ Steam.
+L218622 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ And you know, I read where they invented this car that runs on... that runs on... when you boil water...
+L218574 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ And they picked up! I mean, it wouldn't be filthy, with Coke bottles and whiskey, and those signs everywhere...
+L218573 +++$+++ u5326 +++$+++ m353 +++$+++ TERRY +++$+++ Yeah, it could be adorable...
+L218572 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ In my personal thing, I don't see that. I'm seeing more filth. A lot of filth. What they need to do every day, no, once in a while, is a cockroach thing, where they spray the homes. And uh... can you imagine, if their doors were painted a pretty color, and they had a pot outside, with...
+L218571 +++$+++ u5326 +++$+++ m353 +++$+++ TERRY +++$+++ In my personal observation, I think that more people are neat than are clean...
+L218570 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ Well, you're not that bad, but some people... I mean, people's homes, just filth. I've been in people's homes...
+L218569 +++$+++ u5326 +++$+++ m353 +++$+++ TERRY +++$+++ Wait a minute. I'm not that neat, maybe, but I am clean.
+L218568 +++$+++ u5322 +++$+++ m353 +++$+++ PALM +++$+++ What do you mean "mass"... I have to come out and tell you, you're not that clean, either.
+L218567 +++$+++ u5326 +++$+++ m353 +++$+++ TERRY +++$+++ Mass production is what does it.
+L218936 +++$+++ u5324 +++$+++ m353 +++$+++ SAMIA +++$+++ Perhaps...
+L218935 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ Well, she was.
+L218934 +++$+++ u5324 +++$+++ m353 +++$+++ SAMIA +++$+++ The choice of words, "squashed flat," juxtaposed against the image of a fluffy kitten...
+L218915 +++$+++ u5324 +++$+++ m353 +++$+++ SAMIA +++$+++ I strongly doubt it, but I wasn't really discussing media...
+L218914 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ The TV. There's some good things on it, sometimes.
+L218913 +++$+++ u5324 +++$+++ m353 +++$+++ SAMIA +++$+++ Pardon me?
+L218912 +++$+++ u5323 +++$+++ m353 +++$+++ RAYETTE +++$+++ There's some good things on it, though.
+L218911 +++$+++ u5324 +++$+++ m353 +++$+++ SAMIA +++$+++ John believes in the basic goodness of man, and that's fine, but gaze into the pit like I have and that view seems a little soporific. And not unlike television, it hardly represents the real world...
+L218444 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Oh, for pity's sake...
+L218443 +++$+++ u5325 +++$+++ m353 +++$+++ SECOND ENGINEER +++$+++ I have a suggestion. Why don't we take a break.
+L218442 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Do you have to let me get halfway through the movement first? This is tiring me.
+L218441 +++$+++ u5325 +++$+++ m353 +++$+++ SECOND ENGINEER +++$+++ That's exactly what I am doing, again.
+L218440 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Well, you have to simply tell me, that's all.
+L218439 +++$+++ u5325 +++$+++ m353 +++$+++ SECOND ENGINEER +++$+++ If you want to call it that.
+L218438 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Oh... I'm sorry. Was I singing again?
+L218437 +++$+++ u5325 +++$+++ m353 +++$+++ SECOND ENGINEER +++$+++ I'd like to remind you again, this isn't an opera or a musical comedy.
+L218436 +++$+++ u5327 +++$+++ m353 +++$+++ TITA +++$+++ Yes.
+L218435 +++$+++ u5325 +++$+++ m353 +++$+++ SECOND ENGINEER +++$+++ Miss Dupea.

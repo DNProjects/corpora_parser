@@ -1,0 +1,674 @@
+L133879 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Please, Mr. Bernstein.
+L133878 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ I do.  I do.  I mean, since you're running for Governor - and you want to be elected -  I think it's wonderful you're going to be elected.  Only -  -  Can I say something?
+L133877 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You don't really think so?
+L133876 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ It's wonderful, Mr. Kane.  Wonderful. Wonderful.
+L133650 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Huh?  Oh, I forgot - you've been away so long I forgot about your joking -
+L133649 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ We certainly do.  Vacation's over - starting right after dinner.  But right now - that lady over there -  - that's the new society editor, I take it?  You think I could interrupt her a moment, Mr. Bernstein?
+L133648 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ So then, tonight, we go over everything thoroughly, eh?  Especially the new papers -
+L133647 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Sit down, everybody - for heaven's sake!
+L133646 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Ask them to sit down, Mr. Bernstein.
+L133638 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I promise not to bring any more Venuses and not to worry - and not to try to get in touch with any of the papers -
+L133637 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ But please, Mr. Kane, don't buy any more paintings.  Nine Venuses already we got, twenty-six Virgins - two whole warehouses full of stuff -
+L133627 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Two hundred and one thousand, six hundred and forty-seven.
+L133626 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Gentlemen of the "Enquirer"!  This has, I think, been a fitting welcome to those distinguished journalists -  Mr. Reilly in particular - who are the latest additions to our ranks. It will make them happy to learn that the "Enquirer's" circulation this morning passed the two hundred thousand mark.
+L133623 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I know.
+L133622 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ You know how long it took the "Chronicle" to get that staff together?  Twenty years.
+L133621 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You're right, Mr. Bernstein.
+L133620 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Say, with them fellows -  - it's no trick to get circulation.
+L133617 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Look at that.
+L133616 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ From the Chronicle Building that sign is the biggest thing you can see - every floor guaranteed - let's hope it bothers them - it cost us enough.
+L133615 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Let's hope they like it there.
+L133607 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ These'll be kept.  I'll provide the people of this city with a daily paper that will tell all the news honestly.  I will also provide them -
+L133606 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ You don't wanta make any promises, Mr. Kane, you don't wanta keep.
+L133605 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I'll write it myself.
+L133604 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ I can't take shorthand, Mr. Kane -
+L133603 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ My Declaration of Principles -  Don't smile, Brad -  Take dictation, Mr. Bernstein -
+L133578 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Oh!
+L133577 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ It's a saying, Mr. Bernstein.  A new broom sweeps clean.
+L133574 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Mr. Leland, if Mr. Kane, he should decide to drop the price to one cent, or maybe even he should make up his mind to give the paper away with a half-pound of tea - you'll just hold him until I get back, won't you?
+L133573 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Ready for dinner, Brad?
+L133572 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ All right, but I'll keep these figures, too, just in case.
+L133571 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Re-figure it, Mr. Bernstein, at two cents.
+L133570 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ This is all figured at three cents a copy.
+L133569 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Two cents.
+L133568 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Three cents.
+L133563 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ I ordered six already this morning! Got a discount!
+L133562 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I've just made a shocking discovery. The "Enquirer" is without a telephone. Have two installed at once!
+L133527 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Get me a typewriter.  I'll finish the notice.
+L133526 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ I can't take shorthand.
+L133525 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ It isn't here, Mr. Bernstein.  I'm dictating it.
+L133524 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ I didn't see that.
+L133523 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Of her acting, it is absolutely impossible to say anything except that it represents a new low...  Have you got that, Mr. Bernstein? In the opinion of this reviewer -
+L133522 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ That's all there is.
+L133521 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Go on!
+L133520 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ "Her singing, happily, is no concern of this department.  Of her acting, it is absolutely impossible to..." 
+L133519 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Thais.
+L133518 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ "Miss Susan Alexander, a pretty but hopelessly incompetent amateur -  - last night opened the new Chicago Opera House in a performance of - of -"  I can't pronounce that name, Mr. Kane.
+L133516 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ What does it say there?
+L133515 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Hey, Brad!  Brad!  He ain't been drinking before, Mr. Kane. Never.  We would have heard.
+L133513 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ That's all right, Mr. Bernstein.
+L133512 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Mr. Kane -
+L133510 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Where is he?
+L133509 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ He sure did, Mr. Kane.
+L133432 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I rather like it myself.  Send it right away.
+L133431 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ That's fine, Mr. Kane.
+L133426 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ The food is marvelous in Cuba the senoritas are beautiful stop I could send you prose poems of palm trees and sunrises and tropical colors blending in far off landscapes but don't feel right in spending your money for this stop there's no war in Cuba regards Wheeler.
+L133425 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ That's all right.  We have no secrets from our readers.  Mr. Thatcher is one of our most devoted readers, Mr. Bernstein.  He knows what's wrong with every issue since I've taken charge. What's the cable?
+L133422 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ How are you, Mr. Thatcher?
+L133421 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Mr. Bernstein, Mr. Thatcher -
+L133490 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Well, well - isn't that nice?
+L133489 +++$+++ u4502 +++$+++ m298 +++$+++ CITY EDITOR +++$+++ Yes, very!  Naturally.
+L133488 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Enthusiastic?
+L133487 +++$+++ u4502 +++$+++ m298 +++$+++ CITY EDITOR +++$+++ Oh, yes, it's already made up.  Our Mr. Mervin wrote a small review.
+L133486 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ And the social.  How about the music notice?  You got that in?
+L133485 +++$+++ u4502 +++$+++ m298 +++$+++ CITY EDITOR +++$+++ Yes.  I thought it was a good idea. We've covered it from the news end, of course.
+L133482 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ That's a long story.
+L133481 +++$+++ u4502 +++$+++ m298 +++$+++ CITY EDITOR +++$+++ He's a great guy - Leland.  Why'd he ever leave New York?
+L133480 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ That's right.  They called us the "Three Musketeers."
+L133479 +++$+++ u4502 +++$+++ m298 +++$+++ CITY EDITOR +++$+++ You and Leland and Mr. Kane - you were great friends back in the old days, I understand.
+L133478 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ I might make him nervous.
+L133477 +++$+++ u4502 +++$+++ m298 +++$+++ CITY EDITOR +++$+++ Well, why don't you, Mr. Bernstein? You know Mr. Leland.
+L133476 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Go in and ask him to hurry.
+L133670 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Just old age.  It's the only disease, Mr. Thompson, you don't look forward to being cured of.  You ought to see Mr. Leland.  There's a whole lot of things he could tell you - if he wanted to.
+L133669 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Nothing particular the matter with him, they tell me.  Just - 
+L133668 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ You don't say!  Why I had no idea -
+L133667 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ In case you'd like to know, Mr. Bernstein, he's at the Huntington Memorial Hospital on 180th Street.
+L133666 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Maybe that was something he lost. Mr. Kane was a man that lost - almost everything he had -  You ought to talk to Bradford Leland. He could tell you a lot.  I wish I could tell you where Leland is, but I don't know myself.  He may be out of town somewhere - he may be dead.
+L133665 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Yes -
+L133664 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ It ended -  Then there was Susie - that ended, too.  I guess he didn't make her very happy -  You know, I was thinking - that Rosebud you're trying to find out about -
+L133663 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ It didn't end very well, did it?
+L133662 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ The way things turned out, I don't need to tell you - Miss Emily Norton was no rosebud!
+L133532 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Oh, yes.  He saw to that.  I tell you, Mr. Thompson, he was a hard man to figure out.  He had that funny sense of humor.  And then, too, maybe he thought by finishing that piece he could show Leland he was an honest man. You see, Leland didn't think so.  I guess he showed him all right.  He's a nice fellow, but he's a dreamer.  They were always together in those early days when we just started the Enquirer.
+L133531 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Well, then, how could he write that roast?  The notices in the Kane papers were always very kind to her.
+L133530 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ He thought she was great, Mr. Thompson. He really believed that.  He put all his ambition on that girl.  After she came along, he never really cared for himself like he used to.  Oh, I don't blame Susie -
+L133529 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ I guess Mr. Kane didn't think so well of Susie's art anyway.
+L133528 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ He finished it.  He wrote the worst notice I ever read about the girl he loved.  We ran it in every paper.
+L133471 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ It's not trick to make an awful lot of money if all you want is to make a lot of money.  Thatcher!
+L133470 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ He made an awful lot of money.
+L133469 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Thatcher!  That man was the biggest darn fool I ever met -
+L133468 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Nobody else, but I've been through that stuff of Walter Thatcher's. That journal of his -
+L133467 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Who else did you see?
+L133466 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ I'm going back there.
+L133465 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Sure, sure.
+L133464 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ You know why?  She was so -
+L133463 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Susie?  I called her myself the day after he died.  I thought maybe somebody ought to...  She couldn't even come to the 'phone.
+L133462 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Well, I went down to Atlantic City -
+L133461 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Who else you been to see?
+L133460 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ I'm calling on people who knew Mr. Kane. I'm calling on you.
+L133459 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ You're pretty young, Mr. -  Mr. Thompson.  A fellow will remember things you wouldn't think he'd remember. You take me.  One day, back in 1896, I was crossing over to Jersey on a ferry and as we pulled out, there was another ferry pulling in -  - and on it, there was a girl waiting to get off.  A white dress she had on - and she was carrying a white pastrol - and I only saw her for one second and she didn't see me at all - but I'll bet a month hasn't gone by since that I haven't thought of that girl.  See what I mean?  Well, so what are you doing about this "Rosebud," Mr. Thompson.
+L133458 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Not some girl he knew casually and then remembered after fifty years, on his death bed -
+L133457 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ That Rosebud?  Maybe some girl?  There were a lot of them back in the early days, and -
+L133456 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ -  We thought maybe, if we can find out what he meant by that last word - as he was dying -
+L133455 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ From before the beginning, young fellow. And now it's after the end.  Anything you want to know about him - about the paper -
+L133454 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Well, Mr. Bernstein, you were with Mr. Kane from the very beginning -
+L133453 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Who's a busy man?  Me?  I'm Chairman of the Board.  I got nothing but time ...  What do you want to know?
+L133993 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Mr. Kane is finishing your piece the way you started it.
+L133992 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ I suppose he's fixing it up - I know I'd never get that through.
+L133991 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Kane?  Charlie?  Where is he?
+L133990 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Mr. Kane is finishing it.
+L133989 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Where is it - where's my notice? I've got to finish it!
+L133988 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Hello, Bernstein.
+L133987 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Hello, Mr. Leland.
+L133795 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Yes, Mr. Bernstein.
+L133794 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Not to me.  But you will let that cop go home with Mr. Kane, won't you?
+L133793 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Go and get yourself washed up, Mr. Bernstein.  There doesn't seem to be an serious injury.
+L133792 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ If you hadn't come along and protected me when you did, I'd have killed them fellows.
+L133789 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ I'm all right, Mr. Leland.  Only there was some fellows out front that thought they ought to take things up with me.  I learned 'em! Didn't I, officer?
+L133788 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ What's happened?
+L133732 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ September the ninth?
+L133731 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Well, he'll be coming back in September. The Majestic.  I got the reservations. It gets in on the ninth.
+L133729 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ 
+L133728 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ If you thought I'd answer different from what Mr. Kane tells you - well, I wouldn't.
+L133727 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Yes.
+L133726 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Mr. Bernstein, am I a stuffed shirt? Am I a horse-faced hypocrite?  Am I a New England school-marm?
+L133725 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Don't I always?  Most of the time?
+L133724 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Mr. Bernstein, I wish you'd let me ask you a few questions, and answer me truthfully.
+L133723 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ I wanted him to have fun - and with me along -
+L133722 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Mr. Leland, why didn't you go to Europe with him?  He wanted you to.  He said to me just yesterday -
+L133721 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Certainly not.
+L133720 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Do you, Mr. Leland?
+L133688 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Probably.  There's always a chance, of course, that they'll change Mr. Kane - without his knowing it.
+L133687 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Certainly not.  So what's that got to do with it?  Mr. Kane, he'll have them changed to his kind of newspapermen in a week.
+L133686 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Do we stand for the same things that the "Chronicle" stands for, Mr. Bernstein?
+L133684 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Sure.  They're like anybody else. They got work to do.  They do it.  Only they happen to be the best men in the business.
+L133683 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Mr. Bernstein, these men who are now with the "Enquirer" - who were with the "Chronicle" until yesterday - weren't they just as devoted to the "Chronicle" kind of paper as they are now to - our kind of paper?
+L133682 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ What's the matter?
+L133680 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Yes.
+L133679 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Isn't it wonderful?  Such a party!
+L133645 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Certainly not.
+L133644 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Do you, Mr. Leland?
+L133614 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ That looks pretty nice.
+L133613 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Sixty-two thousand -
+L133600 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ You just made the paper over four times today, Mr. Kane.  That's all -
+L133599 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Charlie?!
+L133598 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Wasted?
+L133594 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ It's three hours and fifty minutes late - but we did it -
+L133593 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ We'll be on the street soon, Charlie - another ten minutes.
+L133576 +++$+++ u4500 +++$+++ m298 +++$+++ BERNSTEIN +++$+++ Who said anything about brooms?
+L133575 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ I'm not guaranteeing a thing, Mr. Bernstein.  You people work too fast for me!  Talk about new brooms!
+L133586 +++$+++ u4501 +++$+++ m298 +++$+++ CARTER +++$+++ But Mr. Kane, I meant -
+L133585 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ It is accepted, Mr. Carter, with assurances of my deepest regard.
+L133584 +++$+++ u4501 +++$+++ m298 +++$+++ CARTER +++$+++ I've been a newspaperman my whole life and I don't intend -  - if it's your intention that I should continue to be harassed by this - this -  I warn you, Mr. Kane, it would go against my grain to desert you when you need me so badly - but I would feel obliged to ask that my resignation be accepted.
+L133565 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ That'll be all today, Mr. Carter. You've been most understanding. Good day, Mr. Carter!
+L133564 +++$+++ u4501 +++$+++ m298 +++$+++ CARTER +++$+++ But, Mr. Kane -
+L133560 +++$+++ u4501 +++$+++ m298 +++$+++ CARTER +++$+++ Really, Mr. Kane, I can't see the function of a respectable newspaper -
+L133559 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ That's the kind of thing we are going to be interested in from now on, Mr. Carter.  Right now, I wish you'd send your best man up to see Mr. Silverstone.  Have him tell Mr. Silverstone if he doesn't produce his wife at once, the "Enquirer" will have him arrested.  Have him tell Mr. Silverstone he's a detective from the Central Office. If Mr. Silverstone asks to see his badge, your man is to get indignant and call Mr. Silverstone an anarchist. Loudly, so that the neighbors can hear.
+L133558 +++$+++ u4501 +++$+++ m298 +++$+++ CARTER +++$+++ It's not our function to report the gossip of housewives.  If we were interested in that kind of thing, Mr. Kane, we could fill the paper twice over daily -
+L133557 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ The "Chronicle" doesn't say she's murdered, Mr. Carter.  It says the neighbors are getting suspicious.
+L133556 +++$+++ u4501 +++$+++ m298 +++$+++ CARTER +++$+++ As a matter of fact, we sent a man to the Silverstone home yesterday afternoon.  Our man even arrived before the "Chronicle" reporter.  And there's no proof that the woman was murdered - or even that she's dead.
+L133555 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ If the headline is big enough, it makes the new big enough.  The murder of Mrs. Harry Silverstone -
+L133554 +++$+++ u4501 +++$+++ m298 +++$+++ CARTER +++$+++ There is no news big enough.
+L133553 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I'm still hungry, Brad.  Let's go to Rector's and get something decent.  The "Chronicle" has a two-column headline, Mr. Carter.  Why haven't we?
+L133552 +++$+++ u4501 +++$+++ m298 +++$+++ CARTER +++$+++ Because we're running a newspaper, Mr. Kane, not a scandal sheet.
+L133551 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I'm not criticizing, Mr. Carter, but here's what I mean.  There's a front page story in the "Chronicle,"  and a picture - of a woman in Brooklyn who is missing.  Probably murdered.  A Mrs. Harry Silverstone.  Why didn't the "Enquirer" have that this morning?
+L133550 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ That's one of the things I think must be changed, Mr. Carter.  The news goes on for twenty-four hours a day.
+L133549 +++$+++ u4501 +++$+++ m298 +++$+++ CARTER +++$+++ But a morning newspaper, Mr. Kane. After all, we're practically closed twelve hours a day - except for the business offices -
+L133548 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I'm going to live right here.  As long as I have to.
+L133547 +++$+++ u4501 +++$+++ m298 +++$+++ CARTER +++$+++ My little sanctum is at your disposal. But I don't think I understand -
+L133546 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You've got a private office here, haven't you?
+L133545 +++$+++ u4501 +++$+++ m298 +++$+++ CARTER +++$+++ How do you do, Mr. Bernstein?
+L133544 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Mr. Carter, this is Mr. Bernstein. Mr. Bernstein is my general manager.
+L133540 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I don't my plans myself.
+L133539 +++$+++ u4501 +++$+++ m298 +++$+++ CARTER +++$+++ You may resume your work, gentlemen.  I didn't know your plans and so I was unable to make any preparations.
+L133538 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Ask them to sit down.
+L133537 +++$+++ u4501 +++$+++ m298 +++$+++ CARTER +++$+++ I thought it would be a nice gesture - the new publisher -
+L133536 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Are they standing for me?
+L133535 +++$+++ u4501 +++$+++ m298 +++$+++ CARTER +++$+++ How do you do, Mr. Leland?
+L133534 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Thank you, Mr Carter.  This is Mr. Leland.
+L133533 +++$+++ u4501 +++$+++ m298 +++$+++ CARTER +++$+++ Welcome, Mr. Kane, to the "Enquirer." I am Herbert Carter.
+L133508 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ He used to work fast - didn't he, Mr. Bernstein?
+L133507 +++$+++ u4502 +++$+++ m298 +++$+++ CITY EDITOR +++$+++ We haven't heard from him.
+L133506 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Has he said when he'll finish?
+L133505 +++$+++ u4502 +++$+++ m298 +++$+++ CITY EDITOR +++$+++ Yes, Mr. Kane.
+L133504 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ That's Leland, isn't it?
+L133503 +++$+++ u4502 +++$+++ m298 +++$+++ CITY EDITOR +++$+++ No, Mr. Kane.
+L133502 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ It isn't finished?
+L133501 +++$+++ u4502 +++$+++ m298 +++$+++ CITY EDITOR +++$+++ But there's another one still to come - the dramatic notice.
+L133500 +++$+++ u4502 +++$+++ m298 +++$+++ CITY EDITOR +++$+++ Yes, Mr. kane.
+L133499 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Is it good?
+L133498 +++$+++ u4502 +++$+++ m298 +++$+++ CITY EDITOR +++$+++ Yes - Mr. Kane.
+L133497 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ And the notice?
+L133496 +++$+++ u4502 +++$+++ m298 +++$+++ CITY EDITOR +++$+++ Exactly according to your instructions, Mr. Kane.  We've got two spreads of pictures.
+L133495 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Was the show covered by every department?
+L133494 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ We've got a nice plant here.
+L133493 +++$+++ u4502 +++$+++ m298 +++$+++ CITY EDITOR +++$+++ Mr. Kane, this is a surprise!
+L134120 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Of course.
+L134119 +++$+++ u4503 +++$+++ m298 +++$+++ DR. COREY +++$+++ Not at all.  I'd like the nurse to be here, too.
+L134118 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ There are no objections to my staying here with her, are there?
+L134117 +++$+++ u4503 +++$+++ m298 +++$+++ DR. COREY +++$+++ I'm sure that's it. 
+L134116 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Thank you.  I can't imagine how Mrs. Kane came to make such a silly mistake.  The sedative Dr. Wagner gave her is in a somewhat larger bottle -  I suppose the strain of preparing for her trip has excited and confused her.
+L134115 +++$+++ u4503 +++$+++ m298 +++$+++ DR. COREY +++$+++ The nurse has complete instructions, but if you care to talk to me at any time, I should be only too glad -  I shall be here in the morning.
+L133932 +++$+++ u4514 +++$+++ m298 +++$+++ ROGERS +++$+++ I'd rather Mr. Kane withdrew without having to get the story published. Not that I care about him.  But I'd be better off that way -  - and so would you, Mrs. Kane.
+L133931 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ You don't have to show me anything, Mr. Rogers.  I believe you.
+L133926 +++$+++ u4514 +++$+++ m298 +++$+++ ROGERS +++$+++ The story about him and Miss Alexander, Mrs. Kane.
+L133925 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ What story, Mr. Rogers?
+L133921 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ I think I understand, Mr. Rogers, but I wonder if - 
+L133920 +++$+++ u4514 +++$+++ m298 +++$+++ ROGERS +++$+++ I'm protecting myself every way I know how, Mrs. Kane.  This last week, I finally found out how I can stop your husband from being elected. If the people of this state learn what I found out this week, he wouldn't have a chance to - he couldn't be elected Dog Catcher.  Well, what I'm interested in is seeing that he's not elected.  I don't care whether they know what I know about him.  Let him keep right on being the Great, Noble, Moral -  Champeen of the people.  Just as long as -
+L133919 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ Let him finish, Charles.
+L133909 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ Charles!  Your - your breaking this man's neck -  would scarcely explain this note -  Serious consequences for Mr. Kane -  for myself, and for my son.  What does this note mean, Miss -
+L133908 +++$+++ u4514 +++$+++ m298 +++$+++ ROGERS +++$+++ Maybe you can do it and maybe you can't, Mr. Kane.
+L133905 +++$+++ u4514 +++$+++ m298 +++$+++ ROGERS +++$+++ I made Miss - Miss Alexander send you the note.  She was a little unwilling at first -  but she did it.
+L133904 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ How do you do?  I came here - and I made Mr. Kane come with me...  because I recieved this note -
+L133986 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ If you're asking me to sympathize with him, Brad, you're wasting your time.  There's only one person I'm sorry for, as a matter of fact.  That - that shabby little girl.  I'm really sorry for her, Brad.
+L133985 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ He's paying for it, Emily.  Those returns tonight - he's finished. Politically -  - socially, everywhere, I guess. I don't know about the papers, but -
+L133984 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ I know it is, Brad -
+L133983 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ It's - all over -
+L133982 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ Brad, I'm -  I'm not an old woman yet -
+L133981 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Emily, you -
+L133980 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ Maybe I should have - the first time he showed me what a mad dog he really was.
+L133979 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ I know that, Emily -
+L133978 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ There aren't any personal lives for people like us.  He made that very clear to me nine years ago - If I'd thought of my life with Charles as a personal life, I'd have left him then -
+L133977 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Emily, you're being - a little unfair -  You know what I think of Charles' behavior - about your personal lives -
+L133976 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ Why should anyone vote for him? He's made it quite clear to the people what he thinks of them. Children - to be told one thing one day, something else the next, as the whim seizes him.  And they're supposed to be grateful and love and adore him - because he sees to it that they get cheap ice and only pay a nickel in the street cars.
+L133975 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Emily!
+L133974 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ I'm surprised he got the votes he did.
+L133973 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Almost two to one -
+L133969 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Chicago is pretty close to New York nowadays - only twenty hours -
+L133968 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ I'm sorry I sent for you, Brad - I didn't -
+L133967 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Emily -
+L133966 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ Hello, Brad -
+L133956 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Too late for what?  Too late for you and this -  this public thief to take the love of the people of this state away from me?  Well, you won't do it, I tell you.  You won't do it!
+L133955 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ Charles, if you don't listen to reason, it may be too late -
+L133949 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Go on!  Get out!  I can fight this thing all alone!
+L133948 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ You decided what you were going to do, Charles - some time ago.  You can't always have it your own way, regardless of anything else that may have happened.  Come on, Charles.
+L133947 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ There's only one person in the world to decide what I'm going to do - and that's me.  And if you think - if any of you think -
+L133946 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ No.
+L133945 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ I don't think so.  Are you coming, Charles?
+L133944 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Oh yes, there is.
+L133941 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ I'm not interested in the voters of this state right now.  I am interested in - well, Junior, for one thing.
+L133940 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I suppose so, but - I'm not afraid of the story.  You can't tell me that the voters of this state -
+L133939 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ Charles, this - this story - doesn't concern only you.  I'll be in it, too, won't I?  And Junior?
+L133938 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Oh, they'll publish it all right. But that's not going to stop me -
+L133937 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ I don't see what else you can do, Charles.  If he's right - and the papers publish this story he has -
+L133936 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You don't think I'm going to let this blackmailer intimidate me, do you?
+L133916 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You're a cheap, crooked grafter - and your concern for your children and your mother -
+L133915 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ Oh!!
+L133897 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ I'm going to -  - 185 West 74th Street.
+L133896 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I insist on being told exactly what you have in mind.
+L133895 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ I intend to find out.
+L133893 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ It may not be about anything at all.
+L133892 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ What's this all about, Emily?  I've had a very tiring day and -
+L133890 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ No, it can't.  Good night, darling.
+L133889 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ It can wait.
+L133888 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ There's a call I want you to make with me, Charles.
+L133887 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ But I'd arranged to go home with you myself.
+L133886 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ I'm sending Junior home in the car, Charles - with Oliver -
+L133857 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ They won't hurt you, darling. Mother's with you!  Mother's looking after you!
+L133856 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Emily - you musn't leave me now - you can't do that to me.
+L133855 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ Here I am, darling...  Darling!... Darling, it's all right...  Mother's here.
+L133854 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I've tried to tell you, Emily. The President's going to be all right.  He had a comfortable night. There's no danger of any kind.
+L133853 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ Have they heard from father yet? Has he seen -
+L133852 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ Please don't talk any more, Charles.
+L133851 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ They won't do anything to Junior, darling.  Anonymous letter writers -   I've got guards in front of the house, and I'm going to arrange -
+L133849 +++$+++ u4504 +++$+++ m298 +++$+++ EMILY +++$+++ Charles.
+L133848 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ What do you expect me to do?  What in the world -
+L134187 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Susan, don't go!  Susan, please!
+L134186 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Let's not start all over again, Charlie.  We've said everything that can be said.
+L134185 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Don't go, Susan.
+L134184 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Goodbye, Charlie.
+L134183 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ You can't stop me.
+L134182 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I won't let you go.
+L134181 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ - And left?  Of course they'll hear.  I'm not saying goodbye - except to you - but I never imagined that people wouldn't know.
+L134180 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Don't you realize that everybody here is going to know about this? That you've packed your bags and ordered the car and -
+L134172 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Yes.
+L134171 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ No, you're not.
+L134170 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I'm going to leave you.
+L134169 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I'm not sorry.
+L134168 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Don't tell me you're sorry.
+L134167 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Susan, it seems to me -
+L134166 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ You'll never have another chance to hit me again.  I never knew till this minute -
+L134164 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Love!  You don't love anybody!  Me or anybody else!  You want to be loved - that's all you want!  I'm Charles Foster Kane.  Whatever you want - just name it and it's yours! Only love me!  Don't expect me to love you -
+L134163 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You're talking an incredible amount of nonsense, Susan.  Whatever I do -  I do - because I love you.
+L134162 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Susan!
+L134161 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Well, I'm not going to stop it.  I'm going to say exactly what I think.  You've never given me anything.  You've tried to buy me into giving you something.  You're -  - it's like you were bribing me!  That's what it's been from the first moment I met you.  No matter how much it cost you - your time, your money - that's what you've done with everybody you've ever known.  Tried to bribe them!
+L134160 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Susan, I want you to stop this. And right now!
+L134159 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Oh, I don't mean the things you've given me - that don't mean anything to you.  What's the difference between giving me a bracelet or giving somebody else a hundred thousand dollars for a statue you're going to keep crated up and never look at?  It's only money.  It doesn't mean anything. You're not really giving anything that belongs to you, that you care about.
+L134158 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Susan, I really think -
+L134157 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ What you want me to want, you mean. What you've decided I ought to have - what you'd want if you were me. But you've never given me anything that -
+L134156 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ As far as you're concerned, Susan, I've never wanted anything -  I don't want anything now - except what you want.
+L134155 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I'll discuss what's on my mind when I want to.  You're not going to keep on running my life the way you want it.
+L134154 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ We can discuss all this some other time, Susan.  Right now -
+L134153 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I'm not just your wife, I'm a person all by myself - or I ought to be.  I was once.  Sometimes you get me to believing I never was.
+L134152 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You're my wife, Susan, and -
+L134151 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Oh, I'm sick and tired of you telling me what I must and what I musn't do!
+L134150 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I've got more than a right as far as you're concerned, Susan.
+L134149 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I'm not going to have my guests insulted, just because you think -  - if people want to bring a drink or two along on a picnic, that's their business.  You've got no right -
+L134148 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You're in a tent, darling.  You're not at home.  And I can hear you very well if you just talk in a normal tone of voice.
+L134147 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I mean it.  Oh, I know I always say I mean it, and then I don't - or you get me so I don't do what I say I'm going to - but -
+L134141 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Invite everybody!  Order everybody, you mean, and make them sleep in tents!  Who wants to sleep in tents when they have a nice room of their own - with their own bath, where they know where everything is?
+L134140 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I was referring to myself.  I thought we might have a picnic tomorrow - it might be a nice change after the Wild West party tonight.  Invite everybody to go to the Everglades -
+L134139 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ It's not a habit.  I do it because I like it.
+L134138 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You may be right -  I sometimes wonder - but you get into the habit -
+L134137 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ It makes a whole lot more sense than collecting Venuses.
+L134133 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Can't we go back, Charlie?
+L134132 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You always said you wanted to live in a palace.
+L134131 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Hurray for the bulldog!  Half past eleven!  The shows have just let out.  People are going to night clubs and restaurants.  Of course, we're different.  We live in a palace - at the end of the world.
+L134130 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Yes.  The bulldog's just gone to press.
+L134129 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ At night?
+L134128 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Half past eleven.
+L134127 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I mean in New York.
+L134126 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Half past eleven.
+L134125 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Charlie!  I said, what time is it?
+L134122 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ That's when you've got to fight them. That's when you've got to make them. That's -
+L134121 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I couldn't make you see how I felt, Charlie.  I just couldn't -  I couldn't go threw with singing again. You don't know what it means to feel - to know that people - that an audience don't want you.  That if you haven't got what they want - a real voice - they just don't care about you.  Even when they're polite - and they don't laugh or get restless or - you know... They don't want you.  They just 0
+L134088 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Then you have no alibi at all. Please sing.
+L134087 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Oh, no, that's all gone.
+L134086 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Don't tell me your toothache is bothering you again?
+L134085 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Well, I -
+L134084 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Yes, I would.  That's why I asked.
+L134083 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Oh, you wouldn't want to hear me sing.
+L134082 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Would you sing for me?
+L134081 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ As a matter of fact, I do sing a little.
+L134080 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Yes -
+L134079 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Oh, no!  Nothing like that.  Mother always thought - she used to talk about Grand Opera for me.  Imagine! An American girl, for one thing - and then my voice isn't really that kind anyway, it's just that Mother - you know what mothers are like.
+L134078 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ What happened to the singing? You're not in a show, are you?
+L134077 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I want to be a singer.  I mean, I didn't.  Mother did for me.
+L134076 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Is that what you want to do?
+L134075 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I work at Seligman's.
+L134074 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ That's a ripe old age -  What do you do?
+L134073 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Pretty old.  I'll be twenty-two in August.
+L134072 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I didn't think you did.  If you had, I wouldn't have asked you again, because I'd have remembered. How old?
+L134071 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I didn't say.
+L134070 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ How old did you say you were?
+L134069 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Oh, me -
+L134068 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Who am I?  Well, let's see.  Charles Foster Kane was born in New Salem, Colorado in eighteen six -  I run a couple of newspapers.  How about you?
+L134066 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I was only joking!  This evening I was on my way to the Western Manhattan Warehouses - in search of my youth.
+L134065 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I didn't run into you and I bet they're not your Sunday clothes. You've probably got a lot of clothes.
+L134064 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ And I know too many people.  Obviously, we're both lonely.  Would you like to know where I was going tonight - when you ran into me and ruined my Sunday clothes?
+L134063 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ You've been wonderful!  I can't tell you how glad I am you're here, I don't know many people and - 
+L134062 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ But you like me, don't you?  Even though you don't know who I am?
+L134061 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ No.  That is, I bet it turns out I've heard your name a million times, only you know how it is -
+L134060 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You really don't know who I am?
+L134059 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Excuse me, Mr. Kane.  I know this takes a lot of nerve, but - who are you?  I mean - I'm pretty ignorant, I guess you caught on to that -
+L134058 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You're getting farther away all the time.  It's a duck.
+L134057 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ A rooster?
+L134056 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ No.  But you're close.
+L134055 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ A chicken?
+L134048 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I'll get these streets fixed, if it's the last thing I do.
+L134047 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I've got a brush in the closet.  As soon as the mud on your trousers is all dry - you just brush it off.
+L134046 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Thanks.
+L134045 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ On the chiffonier.  Here.
+L134044 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Where's the towel?
+L134043 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I know...  But you do look so silly.
+L134042 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I can't stay here all night chasing your pain away.
+L134041 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Oh!
+L134040 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I always like to see the funny side of things.  No sense crying when you don't have to.  And you're so funny.  Looking at you, I forget all about my toothache.
+L134039 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You're very easily amused.
+L134038 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ In the water.
+L134037 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Where's the soap?
+L134036 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ No.  They've passed on.
+L134035 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I'm sorry.  They live here, too?
+L134034 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Hey, you should be more careful. That's my ma and pa.
+L134032 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Thanks.
+L134031 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ If you want to come in and wash your face -  I can get you some hot water to get that dirt off your trousers -
+L134030 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You're no Venus de Milo.
+L134029 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Oh!
+L134028 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ You are.  You look like you've been making mud pies.
+L134027 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ What's funny now?
+L134026 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ If these sidewalks were kept in condition - instead of the money going to some cheap grafter -
+L134025 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ You've got some on your face.
+L134024 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Hmm!
+L134023 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Toothache.
+L134022 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ What's the matter with you?
+L134021 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Ow!
+L133961 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ What are you waiting here for? Why don't you go?
+L133960 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Charlie, please don't -
+L133959 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Get out, both of you!
+L133954 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I know exactly what I'm doing.  Get out!
+L133953 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Charlie, you're just excited.  You don't realize -
+L133923 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Charlie, he said, unless you withdrew your name -
+L133922 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You can't blackmail me, Rogers, you can't -
+L133907 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Rogers, I don't think I will postpone doing something about you until I'm elected.  To start with, I'll break your neck.
+L133906 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I can't tell you the things he said, Charlie.  You haven't got any idea -
+L133964 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Don't you worry about me.  I'm Charles Foster Kane.  I'm no cheap, crooked politician, trying to save himself from the consequences of his crimes -
+L133963 +++$+++ u4514 +++$+++ m298 +++$+++ ROGERS +++$+++ You're the greatest fool I've ever known, Kane.  If it was anybody else, I'd say what's going to happen to you would be a lesson to you.  Only you're going to need more than one lesson. And you're going to get more than one lesson. 
+L133952 +++$+++ u4514 +++$+++ m298 +++$+++ ROGERS +++$+++ I see! 
+L133951 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Get out!  I've got nothing to talk to you about.  If you want to see me, have the Warden write me a letter.
+L133950 +++$+++ u4514 +++$+++ m298 +++$+++ ROGERS +++$+++ You're making a bigger fool of yourself than I thought you would, Mr. Kane.  You're licked.  Why don't you -
+L133930 +++$+++ u4514 +++$+++ m298 +++$+++ ROGERS +++$+++ Mrs. Kane, I'm not asking you to believe me.  I'd like to show you -
+L133929 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You do anything you want to do. The people of this state can decide which one of us to trust.  If you want to know, they've already decided. The election Tuesday'll be only -
+L133918 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I'm going to be elected governor. And the first thing I'm going to do -
+L133917 +++$+++ u4514 +++$+++ m298 +++$+++ ROGERS +++$+++ Anything you say, Mr. Kane.  Only we're talking now about what you are.  That's what the note is about, Mrs. Kane.  Now I'm going to lay all my cards on the table.  I'm fighting for my life.  Not just my political life.  My life.  If your husband is elected governor -
+L133914 +++$+++ u4514 +++$+++ m298 +++$+++ ROGERS +++$+++ I'm not a gentleman, Mrs. Kane, and your husband is just trying to be funny calling me one.  I don't even know what a gentleman is.  You see, my idea of a gentleman, Mrs. Kane - well, if I owned a newspaper and if I didn't like the way somebody else was doing things - some politican, say - I'd fight them with everything I had.  Only I wouldn't show him in a convict suit, with stripes - so his children could see the picture in the paper.  Or his mother.  It's pretty clear - I'm not a gentleman.
+L133913 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ In case you don't know, Emily, this - this gentleman -  is -
+L133912 +++$+++ u4514 +++$+++ m298 +++$+++ ROGERS +++$+++ She doesn't know, Mrs. Kane.  She just sent it - because I made her see it wouldn't be smart for her not to send it.
+L133752 +++$+++ u4518 +++$+++ m298 +++$+++ THE PRESIDENT +++$+++ You've made your point perfectly clear, Mr. Kane.  Good day.
+L133751 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I'm much obliged, Mr. President, for your concern about me.  However, I happen to be concerned at this moment with the matter of extensive oil lands belonging to the people of the United States, and I say that if this lease goes through, the property of the people of the United States goes into the hands of -
+L133750 +++$+++ u4518 +++$+++ m298 +++$+++ THE PRESIDENT +++$+++ I understand that you have political ambitions.  Unfortunately, you seem incapable of allowing any other opinion but your own -
+L133749 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Thanks.
+L133748 +++$+++ u4518 +++$+++ m298 +++$+++ THE PRESIDENT +++$+++ I know the facts, Mr. Kane.  And I happen to have the incredible insolence to differ with you as to what they mean.  You're a man of great talents, Mr. Kane.
+L133747 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ It's the only vein I know.  I tell the facts the way I see them.  And any man that knows that facts -
+L133746 +++$+++ u4518 +++$+++ m298 +++$+++ THE PRESIDENT +++$+++ I must refuse to allow you to continue in this vein, Mr. Kane.
+L133745 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I'm not suggesting anything, Mr. President!  I've come here to tell you that, unless some action is taken promptly - and you are the only one who can take it - the oil that is the property of the people of this country will be turned over for a song to a gang of high-pressure crooks!
+L133744 +++$+++ u4518 +++$+++ m298 +++$+++ THE PRESIDENT +++$+++ It is the unanimous opinion of my Cabinent - in which I concur - that the proposed leases are in the best interests of the Governement and the people.  You are not, I hope, suggesting that these interests are not indentical?
+L134102 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You can't.
+L134101 +++$+++ u4508 +++$+++ m298 +++$+++ MATISTI +++$+++ Mr. Kane, how can I persuade you -
+L134100 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ If you're interested in what people say, Signor Matisti, I may be able to enlighten you a bit.  The newspapers, for instance.  I'm an authority on what the papers will say, Signor Matisti, because I own eight of them between here and San Francisco...  It's all right, dear. Signor Matisti is going to listen to reason.  Aren't you, maestro? 
+L134099 +++$+++ u4508 +++$+++ m298 +++$+++ MATISTI +++$+++ But, it is impossible.  I will be the laughingstock of the musical world!  People will say -
+L134098 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Your job isn't to give Mrs. Kane your opinion of her talents. You're supposed to train her voice. Nothing more.
+L134097 +++$+++ u4508 +++$+++ m298 +++$+++ MATISTI +++$+++ Impossible!  Impossible!
+L133447 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You're right.  We did lose a million dollars last year.
+L133446 +++$+++ u4516 +++$+++ m298 +++$+++ THATCHER +++$+++ I happened to see your consolidated statement yesterday, Charles.  Could I not suggest to you that it is unwise for you to continue this philanthropic enterprise -  this Enquirer - that is costing you one million dollars a year?
+L133443 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ On the other hand -  I am the publisher of the Enquirer. As such, it is my duty - I'll let you in on a little secret, it is also my pleasure - to see to it that decent, hard-working people of this city are not robbed blind by a group of money- mad pirates because, God help them, they have no one to look after their interests!  I'll let you in on another little secret, Mr. Thatcher.  I think I'm the man to do it.  You see, I have money and property -
+L133442 +++$+++ u4516 +++$+++ m298 +++$+++ THATCHER +++$+++ Charles, my time is too valuable for me -
+L133441 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ As Charles Foster Kane, who has 			eighty- two thousand, six hundred and thirty-one shares of Metropolitan Transfer - you see, I do have a rough idea of my holdings - I sympathize with you.  Charles Foster Kane is a dangerous scoundrel, his paper should be run out of town and a committee should be formed to boycott him.  You may, if you can form such a committee, put me down for a contribution of one thousand dollars.
+L133440 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ The trouble is, Mr. Thatcher, you don't realize you're talking to two people.
+L133439 +++$+++ u4516 +++$+++ m298 +++$+++ THATCHER +++$+++ They're all part of your general attack - your senseless attack - on everything and everybody who's got more than ten cents in his pocket. They're -
+L133438 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Mr. Thatcher, isn't everything I've been saying in the Enquirer about the traction trust absolutely true?
+L133436 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Won't you step into my office, Mr. Thatcher?
+L133435 +++$+++ u4516 +++$+++ m298 +++$+++ THATCHER +++$+++ I came to see you, Charles, about your - about the Enquirer's campaign against the Metropolitan Transfer Company.
+L133428 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I think we'll have to send our friend Wheeler a cable, Mr. Bernstein.  Of course, we'll have to make it shorter than his, because he's working on an expense account and we're not.  Let me see -  Mike!
+L133427 +++$+++ u4516 +++$+++ m298 +++$+++ THATCHER +++$+++ You see!  There hasn't been a true word -
+L133420 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Can you prove it isn't?
+L133419 +++$+++ u4516 +++$+++ m298 +++$+++ THATCHER +++$+++ "Enemy Armada Off Jersey Coast."  You know you haven't the slightest proof that this - this armada - is off the Jersey Coast.
+L133418 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I don't know how to run a newspaper, Mr. Thatcher.  I just try everything I can think of.
+L133417 +++$+++ u4516 +++$+++ m298 +++$+++ THATCHER +++$+++ Is that really your idea of how to run a newspaper?
+L133399 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Where'm I going?
+L133398 +++$+++ u4516 +++$+++ m298 +++$+++ THATCHER +++$+++ Your mother won't be going right away, Charles -
+L133397 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You goin', Mom?
+L134229 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I didn't used to be afraid of it.
+L134228 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ No, I don't, Mr. Kane.
+L134227 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ He was dead...  That's a poem.  Do you know what it means?
+L134226 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ How did you get him to part with it, Mr. Kane?
+L134225 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Persia.  It belonged to a king.
+L134224 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ It's a wall you bought in China, Mr. Kane.
+L134223 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Do you know what that is?
+L134222 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ Oh, yes, sir.
+L134221 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Not my wife - not either of them.
+L134220 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ Yes, Mr. Kane.
+L134219 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Mrs. Kane liked poetry -
+L134218 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ Can't say, sir.
+L134217 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Do you like poetry, Raymond?
+L134212 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ Yes, sir -
+L134211 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Raymond - 
+L134210 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Lock it - and keep it locked.
+L134209 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ Yes, sir. 
+L134208 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Close the door, Raymond.
+L134176 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ Marie has been packing since morning, Mr. Kane.
+L134175 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Is Mrs. Kane - 
+L134174 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ All right.
+L134173 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ Mrs. Kane would like to see you, Mr. Kane.
+L134113 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ Yes, sir.
+L134112 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Get Dr. Corey.
+L133996 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Hello, Charlie -  I didn't know we were speaking.
+L133995 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Hello, Brad.
+L133842 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ I couldn't possibly live on as little as that, Charlie.  We'll let the salary stay where it is.
+L133841 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Well, you've been getting a pretty low salary here in New York.  It seems to me that the new dramatic critic of our Chicago paper should get what he's worth. 
+L133840 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Yes.
+L133839 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You still want to be transferred to the other paper?
+L133834 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Hey, Brad!  I've been analyzed an awful lot tonight - let's have another brandy.
+L133833 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ I know you will.
+L133832 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ She can leave me.  As a matter of fact, I've already left her.  Don't worry, Brad - I'll live.
+L133831 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ It's simpler than that, Brad.  A society girl can't stand the gaff, that's all.  Other things are important to her - social position, what they're saying on the front porches at Southampton, is it going to be embarrassing to meet somebody or the other at dinner -
+L133830 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ You want love on your own terms, don't you, Charlie -  Love according to your own rules. And if anything goes wrong and you're hurt - then the game stops, and you've got to be soothed and nursed, no matter what else is happening - and no matter who else is hurt!
+L133829 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Nothing - if she dosen't love me -
+L133828 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ That's all right.  What are you going to do about Emily?
+L133827 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You're not going to like it in Chicago.  They wind comes howling in from the lake.  And there's practically no opera season at all - and the Lord only knows whether they've ever heard of Lobster Newburg -
+L133826 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Yes.  Now, will you let me go to Chicago?
+L133825 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Are you finished?
+L133824 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ You talk about the people of the United States as though they belonged to you.  When you find out they don't think they are, you'll lose interest.  You talk about giving them their rights as though you could make a present of liberty. Remember the working man?  You used to defend him quite a good deal. Well, he's turning into something called organized labor and you don't like that at all.  And listen, when your precious underprivileged really get together - that's going to add up to something bigger than - than your privilege and then I don't know what you'll do - sail away to a desert island, probably, and lord it over the monkeys.
+L133823 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ You almost convince me.  I'm just drunk enough to tell you the truth.  I have to be a little drunk for that because I'm a coward.  You know that.  That's why you keep me around.  You only associate with your inferiors, Charlie.  I guess that's why you ran away from Emily.  Because you can't stand the company of your equals.  You don't like to admit they exist - the other big people in your world are dead. I told you that.
+L133822 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ The personal note is all there is to it.  It's all there ever is to it.  It's all there every is to anything!  Stupidity in our government, complacency and self-satisfaction and unwillingness to believe that anything done by a certain class of people can be wrong - you can't fight those things impersonally. They're not impersonal crimes against people.  They're being done by actual persons - with actual names and positions and - the right of the American people to own their own country is not an academic issue, Brad, that you debate - and then the judges retire to return a verdict and the winners give a dinner for the losers.
+L133821 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ There's no reason why this - this savage personal note -
+L133819 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ You might have made the whole thing less personal!
+L133818 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Do you think the "Enquirer" shouldn't have campaigned against the oil leases?
+L133817 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ She hasn't any friends left sine you started this oil business, and she never sees you.
+L133816 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Why is she leaving me?
+L133815 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Sure I am.  She wants full custody of the child no matter what happens. If you won't agree to that, she'll apply for a divorce regardless of the President's wishes.  I can't tell her she's wrong, because she isn't wrong -
+L133814 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Brad, you are drunk.
+L133813 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Emily's going south next week with the child.  As far as anybody's to know, it's a holiday.  When they get back -
+L133812 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ She was going to leave you anyway -
+L133811 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I don't think so, Brad.  We've just had word that the President is out of danger.  It seems I didn't kill him after all.
+L133810 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ She's going to leave you -
+L133809 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ All right.
+L133808 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ No, that won't help.  Besides, you never get drunk.  I wanted to talk about you and Emily.
+L133807 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I'll tell you what I'll do, Brad - I'll get drunk, too - maybe that'll help.
+L133806 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ I want to be transferred to the new paper.  You've been saying yourself you wish you had somebody to -  That's not what I wanted to talk about.
+L133805 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Why, Brad?
+L133804 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Charlie, it's just no go.  We can't agree anymore.  I wish you'd let me go to Chicago.
+L133802 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ That's just a little promotion scheme. Nobody expects you -  Mike, will you try and get Mr. Leland some coffee?
+L133801 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ First of all, I will not write a good review of a play because somebody paid a thousand dollars for an advertisement in the "Enquirer."
+L133800 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I'll get you some coffee.
+L133799 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ I'm drunk.
+L133798 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ What's wrong, Brad?
+L133797 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ First of all - 
+L133786 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Go ahead.
+L133785 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ I'd like to talk to you about that.
+L133784 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I've got to think of Emily -
+L133783 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ What?
+L133782 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I don't have to.  I run a newspaper with half a million readers and they're getting a martyred president this morning with their breakfast. I can't help that.  Besides, they all know I'm married to his niece.  I've got to think of her.
+L133781 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Charlie!  Now you're not making sense.
+L133780 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ What lesson?  Not to expose fraud when I see it?  Not to fight for the right of the people to own their own property?  Run it the way I said, Reilly - "This afternoon a great man was assassinated -"
+L133779 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ There are the people of the United States, and they are blaming you - Oh, I know it doesn't make any sense, but at least you can learn a lesson from it.
+L133778 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Look out that window.
+L133777 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Oil belonging to the people of the United States was leased out for a song to a gang of high-pressure crooks -  Nobody can blame me because -
+L133776 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Charlie!
+L133775 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ They're true!  Everything I said! Witholding that veto was treason!
+L133774 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ You've said a lot of things about the President in the last few months.
+L133773 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I said treason was a capital offense punishable by death -
+L133772 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ - and that copy of the "Enquirer" said the President should be killed.
+L133771 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Because the crackpot who did it had a copy of the "Enquirer" in his pocket?
+L133770 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Yesterday morning you called the President a traitor.  What do you think that crowd is doing down there?  They think you murdered him.
+L133769 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ What do you mean by that?
+L133764 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Why not?  Well - nobody's a great man in your estimation until he's dead.
+L133763 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Why not?
+L133762 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Do you think you're the one who should call him a great man?
+L133761 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Yes?
+L133760 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Charlie -
+L133759 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Take dictation -  Front page editorial -  "This afternoon a great man was assassinated.  He was the President of the United States -"
+L133718 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You're wrong.  It does make a difference to you -  Rector's, Brad?  Come to think of it, I don't blame you for not wanting to be a war correspondent.  You won't miss anything.  It isn't much of a war. Besides, they tell me there isn't a decent restaurant on the whole island.
+L133717 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ It doesn't make any difference about me, but one of these days you're going to find out that all this charm of yours won't be enough -
+L133716 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Yes?
+L133715 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Charlie -
+L133714 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You start tomorrow night.  Richard Carl in "The Spring Chicken."  I'll get us some girls.  You get tickets.  A drama critic gets them free, you know.  Rector's at seven?
+L133713 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ I'd like that.
+L133712 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ You don't want to be a war correspondent - how about being a dramatic critic?
+L133711 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Good.
+L133710 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I mean I've got a job for you.
+L133709 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Yes?
+L133708 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Say, Brad.  I've got an idea.
+L133700 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ And I do it because they do it, and they do it - it's a vicious circle, isn't it?  I'm going over to Georgie's, Brad - you know, Georgie, don't you?
+L133699 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ They do it only because you do!
+L133698 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ How would the "Enquirer" look with no news about this non-existent war - with Benton, Pulitzer and Heart devoting twenty columns a day to it?
+L133697 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Charles, I tell you there is no war! There's a condition that should be remedied - but between that and a -
+L133693 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ All right, Brad, all right - you don't have to be a war correspondent unless you want to - I'd want to.  Hello, Georgie.
+L133692 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ But there is no Front, Charlie. There's a very doubtful civil war. Besides, I don't want the job.
+L133691 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ It'll be our first foreign war in fifty years, Brad.  We'll cover it the way the "Hickville Gazette" covers the church social!  The names of everybody there; what they wore; what they ate; who won the prizes; who gave the prizes -  I tell you, Brad, I envy you.  By Bradford Leland, the "Enquirer's" Special Correspondent at the Front. I'm almost tempted -
+L133690 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Our readers are, anyway, I don't know about the rest of the country.
+L133689 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Well, gentlemen, are we going to war?
+L133619 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ It's a good idea for a newspaper.  Four hundred sixy thousand.
+L133618 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ The "Chronicle" is a good newspaper.
+L133609 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ People are going to know who's responsible.  And they're going to get the news - the true news - quickly and simply and entertainingly.  And no special interests will be allowed to interfere with the truth of that news.
+L133608 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ That's the second sentence you've started with "I" -
+L133602 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ What're you going to do, Charlie?
+L133601 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I've changed the front page a little, Mr. Bernstein.  That's not enough - There's something I've got to get into this paper besides pictures and print -  I've got to make the "New York Enquirer" as important to New York as the gas in that light.
+L133597 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ A wasted day.
+L133596 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ It's been a tough day.
+L133595 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Tired?
+L133567 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ What makes those fellows think that a newspaper is something rigid, something inflexible, that people are supposed to pay two cents for -
+L133566 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Poor Mr. Carter!
+L133875 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ I think it's beginning to dawn on Mr. Rogers that I mean what I say. With Mr. Rogers out of the way, Reilly, I think we may really begin to hope for a good government in this state.  Well, Mr. Bernstein?
+L133874 +++$+++ u4513 +++$+++ m298 +++$+++ REILLY +++$+++ Rogers isn't even pretending.  He isn't just scared anymore.  He's sick.  Frank Norris told me last night he hasn't known Rogers to be that worried in twenty-five years.
+L133873 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ It does seem too good to be true, doesn't it, Mr. Bernstein?
+L133863 +++$+++ u4513 +++$+++ m298 +++$+++ REILLY +++$+++ It was for twenty-five thousand dollars.
+L133862 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ Oh, yes, the bonus.
+L133861 +++$+++ u4513 +++$+++ m298 +++$+++ REILLY +++$+++ You made it out to him last week after he left for Chicago.
+L133860 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ What check?
+L133859 +++$+++ u4513 +++$+++ m298 +++$+++ REILLY +++$+++ Mr. Leland sent back that check.
+L133858 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ We'll withdraw support completely. Anything else?
+L133766 +++$+++ u4505 +++$+++ m298 +++$+++ KANE +++$+++ What do you mean by that?
+L133765 +++$+++ u4513 +++$+++ m298 +++$+++ REILLY +++$+++ Maybe we'd better wait for more word on the President's condition.
+L133414 +++$+++ u4506 +++$+++ m298 +++$+++ KANE SR. +++$+++ Yes.
+L133413 +++$+++ u4509 +++$+++ m298 +++$+++ MRS. KANE +++$+++ That's what you think, is it, Jim?
+L133412 +++$+++ u4506 +++$+++ m298 +++$+++ KANE SR. +++$+++ Sorry, Mr. Thatcher!  What the kid needs is a good thrashing!
+L133405 +++$+++ u4509 +++$+++ m298 +++$+++ MRS. KANE +++$+++ You won't be lonely, Charles...
+L133404 +++$+++ u4506 +++$+++ m298 +++$+++ KANE SR. +++$+++ You're going to live with Mr. Thatcher from now on, Charlie!  You're going to be rich.  Your Ma figures - that is, er - she and I have decided that this isn't the place for you to grow up in. You'll probably be the richest man in America someday and you ought to -
+L133396 +++$+++ u4506 +++$+++ m298 +++$+++ KANE SR. +++$+++ That's the train with all the lights.
+L133395 +++$+++ u4509 +++$+++ m298 +++$+++ MRS. KANE +++$+++ Mr. Thatcher is going to take you on a trip with him tonight, Charles. You'll be leaving on Number Ten.
+L133377 +++$+++ u4509 +++$+++ m298 +++$+++ MRS. KANE +++$+++ It is.  Go on, Mr. Thatcher -
+L133376 +++$+++ u4506 +++$+++ m298 +++$+++ KANE SR. +++$+++ Well, let's hope it's all for the best.
+L133363 +++$+++ u4506 +++$+++ m298 +++$+++ KANE SR. +++$+++ If I want to, I can go to court. A father has a right to -
+L133362 +++$+++ u4509 +++$+++ m298 +++$+++ MRS. KANE +++$+++ It's going to be done exactly the way I've told Mr. Thatcher -
+L133361 +++$+++ u4506 +++$+++ m298 +++$+++ KANE SR. +++$+++ You people seem to forget that I'm the boy's father.
+L133360 +++$+++ u4509 +++$+++ m298 +++$+++ MRS. KANE +++$+++ I'll sign those papers -
+L134006 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Hey, Nurse!
+L134005 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Sure, Mr. Leland.  I'll be glad to.
+L134004 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ On your way out, stop at a cigar store, will you, and send me up a couple of cigars?
+L134003 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Sure.
+L134002 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ I don't know.  He was disappointed in the world.  So he built one of his own -  An absolute monarchy -  It was something bigger than an opera house anyway -  Nurse!  Say, I'll tell you one thing you can do for me, young fellow.
+L134001 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ That must have been love.
+L134000 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ I guess maybe I'm not as hard to see through as I think.  Anyway, I never even answered his letter. Maybe I should have.  I guess he was pretty lonely down there those last years.  He hadn't finished it when she left him - he never finished it - he never finished anything.  Of course, he built it for her -
+L133999 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Yes.
+L133998 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Well, that's about all there is - and I'm getting chills.  Hey, nurse!  Five years ago, he wrote from that place of his down South -  - you know.  Shangri-la?  El Dorado?  Sloppy Joe's?  What's the name of that place?  You know...  All right. Xanadu.  I knew what it was all the time.  You caught on, didn't you?
+L133743 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ He married for love -  That's why he did everything.  That's why he went into politics.  It seems we weren't enough.  He wanted all the voters to love him, too.  All he really wanted out of life was love. That's Charlie's story - it's the story of how he lost it.  You see, he just didn't have any to give.  He loved Charlie Kane, of course, very dearly - and his mother, I guess he always loved her.  As for Emily - well, all I can tell you is Emily's story as she told it to me, which probably isn't fair - there's supposed to be two sides to every story - and I guess there are.  I guess there's more than two sides -
+L133742 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Was he in love?
+L133741 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Brief marriage!  Ten years! 
+L133740 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ I am in receipt of your favor of yesterday.  I beg you to do me the courtesy of accepting my assurance that Mrs. Whitehall cannot be induced to contribute any more information on the career of Charles Foster Kane. She has authorized me to state on previous occasions that she regards their brief marriage as a distateful episode in her life that she prefers to forget.  With assurances of the highest esteem -
+L133739 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ He knows the first Mrs. Kane socially -  That's the answer we got.
+L133738 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Oh, yes.  I know about Mr. Rawlston.
+L133737 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Rawlston is my boss.
+L133736 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ David, Grobleski & Davis -  My dear Rawlston - 
+L133735 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ It's a letter from her lawyers.
+L133734 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ What's this?
+L133677 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ I can remember everything.  That's my curse, young man.  It's the greatest curse that's ever been inflicted on the human race.  Memory -  I was his oldest friend.  As far as I was concerned, he behaved like swine.  Maybe I wasnt' his friend.  If I wasn't, he never had one.  Maybe I was what nowadays you call a stooge -
+L133676 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Maybe you could remember something that -
+L133675 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ Never mind -  Bernstein told you about the first days at the office, didn't he?  Well, Charlie was a bad newspaper man even then.  He entertained his readers, but he never told them the truth.
+L133674 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Sorry, Mr. Leland.
+L133673 +++$+++ u4507 +++$+++ m298 +++$+++ LELAND +++$+++ You don't happen to have a cigar, do you?  I've got a young physician - must remember to ask to see his license - the odds are a hundred to one he hasn't got one - who thinks I'm going to stop smoking...  I changed the subject, didn't I?  Dear, dear!  What a disagreeable old man I've become.  You want to know what I think of Charlie Kane?  Well - I suppose he has some private sort of greatness. But he kept it to himself.  He never - gave himself away -  He never gave anything away.  He just - left you a tip.  He had a generous mind.  I don't suppose anybody ever had so many opinions.  That was because he had the power to express them, and Charlie lived on power and the excitement of using it -  But he didn't believe in anything except Charlie Kane.  He never had a conviction in his life.  I guess he died without one -  That must have been pretty unpleasant.  Of course, a lot of us check out with no special conviction about death.  But we do know what we're leaving ... we believe in something.  You're absolutely sure you haven't got a cigar?
+L133672 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Mr. Leland, you were -
+L133391 +++$+++ u4516 +++$+++ m298 +++$+++ THATCHER +++$+++ How do you do, Charles?
+L133390 +++$+++ u4509 +++$+++ m298 +++$+++ MRS. KANE +++$+++ This is Mr. Thatcher, Charles.
+L133389 +++$+++ u4516 +++$+++ m298 +++$+++ THATCHER +++$+++ Charles, my name is Mr. Thatcher -
+L133372 +++$+++ u4516 +++$+++ m298 +++$+++ THATCHER +++$+++ Right here, Mrs. Kane.
+L133371 +++$+++ u4509 +++$+++ m298 +++$+++ MRS. KANE +++$+++ Where do I sign, Mr. Thatcher?
+L133370 +++$+++ u4516 +++$+++ m298 +++$+++ THATCHER +++$+++ We will assume full management of the Colorado Lode - of which you, Mrs. Kane, are the sole owner.
+L133369 +++$+++ u4509 +++$+++ m298 +++$+++ MRS. KANE +++$+++ I want you to stop all this nonsense, Jim.
+L133367 +++$+++ u4516 +++$+++ m298 +++$+++ THATCHER +++$+++ The Bank's decision in all matters concerning his education, his place of residence and similar subjects will be final. 
+L133366 +++$+++ u4509 +++$+++ m298 +++$+++ MRS. KANE +++$+++ I want you to stop all this nonsense, Jim.
+L134269 +++$+++ u4510 +++$+++ m298 +++$+++ PHOTOGRAPHER +++$+++ Kane's last words, aren't they, Jerry?  That was Jerry's angle, wasn't it, Jerry? Did you ever find out what it means, Jerry?
+L134268 +++$+++ u4519 +++$+++ m298 +++$+++ THIRD NEWSPAPERMAN +++$+++ Turn that thing off, will you?  It's driving me nuts!  What's Rosebud?
+L134267 +++$+++ u4510 +++$+++ m298 +++$+++ PHOTOGRAPHER +++$+++ Or Rosebud?  How about it, Jerry?
+L134265 +++$+++ u4519 +++$+++ m298 +++$+++ THIRD NEWSPAPERMAN +++$+++ I wonder -  You put all this together - the palaces and the paintings and the toys and everything - what would it spell?
+L134264 +++$+++ u4510 +++$+++ m298 +++$+++ PHOTOGRAPHER +++$+++ Anything and everything - he was a regular crow.
+L134257 +++$+++ u4510 +++$+++ m298 +++$+++ PHOTOGRAPHER +++$+++ I wonder how they put all those pieces together?
+L134256 +++$+++ u4519 +++$+++ m298 +++$+++ THIRD NEWSPAPERMAN +++$+++ There's a part of a Scotch castle over there, but we haven't bothered to unwrap it.
+L134255 +++$+++ u4510 +++$+++ m298 +++$+++ PHOTOGRAPHER +++$+++ Yeah, all in crates.
+L133322 +++$+++ u4511 +++$+++ m298 +++$+++ RAWLSTON +++$+++ Good!
+L133321 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ I'll get to it right away, Mr. Rawlston.
+L133320 +++$+++ u4511 +++$+++ m298 +++$+++ RAWLSTON +++$+++ Nothing is ever better than finding out what makes people tick.  Go after the people that knew Kane well.  That manager of his - the little guy, Bernstein, those two wives, all the people who knew him, had worked for him, who loved him, who hated his guts -  I don't mean go through the City Directory, of course -
+L133319 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ But don't you think if we release it now - he's only been dead four days - it might be better than if -
+L133318 +++$+++ u4511 +++$+++ m298 +++$+++ RAWLSTON +++$+++ Hold this thing up for a week.  Two weeks if you have to...
+L133317 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Yes, sir.
+L133316 +++$+++ u4511 +++$+++ m298 +++$+++ RAWLSTON +++$+++ Thompson!
+L133302 +++$+++ u4511 +++$+++ m298 +++$+++ RAWLSTON +++$+++ All we saw on that screen was a big American -
+L133301 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ I know, but -
+L133300 +++$+++ u4511 +++$+++ m298 +++$+++ RAWLSTON +++$+++ Ask the question anyway, Thompson! Build the picture around the question, even if you can't answer it.
+L133299 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Yes, and maybe he didn't.
+L134246 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Oh, I don't know.  They'll clear all right.
+L134245 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ The banks are out of luck, eh?
+L134244 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Millions - if anybody wants it.
+L134243 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ What do you think all that is worth, Mr. Thompson?
+L134237 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ We're leaving tonight.  As soon as they're through photographing the stuff -
+L134236 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ You can go on asking questions if you want to.
+L134235 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ See what I mean?  He was a little gone in the head - the last couple of years, anyway - but I knew how to handle him.  That "Rosebud" - that don't mean anything.  I heard him say it. He just said "Rosebud" and then he dropped that glass ball and it broke on the floor.  He didn't say anything about that, so I knew he was dead - He said all kind of things I couldn't make out.  But I knew how to take care of him.
+L134234 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Well, thanks a lot.
+L134233 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ Yes and no.
+L134232 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Sentimental fellow, aren't you?
+L134231 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ That's the whole works, right up to date.
+L134201 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ Yeah.  I guess he wasn't very happy those last years - he didn't have much reason to be -
+L134200 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Queer?
+L134199 +++$+++ u4512 +++$+++ m298 +++$+++ RAYMOND +++$+++ Yes, sir - yes, sir, I knew how to handle the old man.  He was kind of queer, but I knew how to handle him.
+L134197 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I know.  If you're smart, you'll talk to Raymond.  That's the butler. You can learn a lot from him.  He knows where the bodies are buried.
+L134196 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Monday, with some of the boys from the office.  Mr. Rawlston wants the whole place photographed carefully - all that art stuff.  We run a picture magazine, you know -
+L134195 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Don't you think I do?  You say you're going down to Xanadu?
+L134194 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ I feel kind of sorry for him, all the same -
+L134193 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ They haven't been tough on me.  I just lost my money.  But when I compare these last ten years with the twenty I spent with him -
+L134192 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ The last ten years have been tough on a lot of people.
+L134191 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ In case you've never heard of how I lost all my money - and it was plenty, believe me -
+L134096 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ He wanted me to be comfortable - Oh, why should I bother?  You don't believe me, but it's true.  It just happens to be true.  He was really interested in my voice.  What are you smiling for?  What do you think he built that opera house for?  I didn't want it.  I didn't want to sing.  It was his idea - everything was his idea - except my leaving him.
+L134095 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ What about that apartment?
+L134094 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ He was in love with me.  But he never told me so until after it all came out in the papers about us - and he lost the election and that Norton woman divorced him.
+L134093 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ He married you, didn't he?
+L134092 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I didn't get a thing.  Just the music lessons.  That's all there was to it.
+L134091 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ What do you mean?
+L134090 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ What did you get?
+L134089 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I did a lot of singing after that. I sang for Charlie -  I sang for teachers at a hundred bucks an hour - the teachers got that, I didn't -
+L134016 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ I had a toothache.
+L134015 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ How did you meet him?
+L134014 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ You wouldn't want to hear a lot of what comes into my mind about myself and Mr. Charlie Kane.
+L134013 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ I'd rather you just talked.  Anything that comes into your mind - about yourself and Mr. Kane.
+L134012 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ How do you want to handle the whole thing - ask questions?
+L133334 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Get out of here!  Get out!  Get out!
+L133333 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ If you'd just let me talk to you for a little while, Miss Alexander. All I want to ask you...
+L133332 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Why don't you people let me alone? I'm minding my own business.  You mind yours.
+L133331 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Think again!
+L133330 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ Oh!  I thought maybe we could have a drink together?
+L133329 +++$+++ u4515 +++$+++ m298 +++$+++ SUSAN +++$+++ Who told you you could sit down here?
+L133344 +++$+++ u4517 +++$+++ m298 +++$+++ THE CAPTAIN +++$+++ Rosebud?
+L133343 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ I'll come down in a week or so and see her again.  Say, you might be able to help me.  When she used to talk about Kane - did she ever happen to say anything - about Rosebud?
+L133342 +++$+++ u4517 +++$+++ m298 +++$+++ THE CAPTAIN +++$+++ She'll snap out of it.  Why, until he died, she'd just as soon talk about Mr. Kane as about anybody.  Sooner.
+L133341 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ She's plastered, isn't she?
+L133337 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ I'm not from a newspaper exactly, I -
+L133336 +++$+++ u4517 +++$+++ m298 +++$+++ THE CAPTAIN +++$+++ She's just not talking to anybody from the newspapers, Mr. Thompson.
+L133328 +++$+++ u4520 +++$+++ m298 +++$+++ THOMPSON +++$+++ I'll have a highball.
+L133327 +++$+++ u4517 +++$+++ m298 +++$+++ THE CAPTAIN +++$+++ Right away.  Will you have something, Mr. Thompson?

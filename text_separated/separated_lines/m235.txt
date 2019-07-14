@@ -1,0 +1,600 @@
+L14907 +++$+++ u3559 +++$+++ m235 +++$+++ AUDREY +++$+++ How fascinating. Do go on ...  ... John.
+L14906 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Oh, not at all, I let them have twenty-five; sure aren't there four of them?
+L14905 +++$+++ u3559 +++$+++ m235 +++$+++ AUDREY +++$+++ The usual ten per cent?
+L14904 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Yes, they were playing the queues outside the picture palaces of Liverpool. Scruffy young lads, lacking even the price of a jam roll. Orphans, every Paddy's son of 'em. I saw their potential at once although I had me doubts about the little fella, a savage primitive, that Ringo, but it was him what gave in first. He picked up a brick and heaved it at me and I quelled him wid one fierce flash of me eyes. "Mister, can you spare us a copper?" he said. I was disarmed by the grubby little outstretched mauler ... So, I took them under me managerial banner.
+L14903 +++$+++ u3559 +++$+++ m235 +++$+++ AUDREY +++$+++ Of course, John.
+L15042 +++$+++ u3560 +++$+++ m235 +++$+++ BLONDE +++$+++ The cards... you're bank.
+L15041 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ They are?
+L15040 +++$+++ u3560 +++$+++ m235 +++$+++ BLONDE +++$+++ They're yours.
+L15036 +++$+++ u3560 +++$+++ m235 +++$+++ BLONDE +++$+++ Your cards... lay them down... face up.
+L15035 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ We'd be thrown out.
+L15034 +++$+++ u3560 +++$+++ m235 +++$+++ BLONDE +++$+++ Lay them down.
+L15033 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Eh?
+L15032 +++$+++ u3560 +++$+++ m235 +++$+++ BLONDE +++$+++ Lay them down.
+L15402 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ Oh.
+L15401 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ I'm a deserter, too.
+L15400 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ Why aren't you at work?
+L15399 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ He's a big head and he fancies himself with it but you know it's all right 'cos he's one of the gang.
+L15398 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ How about Ding Dong?
+L15397 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ Ginger's mad, he says things all the time and Eddy's good at punching and spitting.
+L15396 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ What they like?
+L15395 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ Yeah.
+L15394 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Yeah?
+L15393 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ Oh, it's all right.
+L15392 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Not much cop without 'em, is it?
+L15391 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ Yeah.
+L15390 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Yeah? And they're your mates are they?
+L15389 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ Yeah, that's right, they was supposed to come with us but they chickened.
+L15388 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Ding Dong? Oh Ding Dong Bell, eh?
+L15387 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ No, Ginger, Eddy Fallon and Ding Dong.
+L15386 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Just you?
+L15385 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ Yeah, I've blown school out.
+L15384 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Are you now?
+L15383 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ I'm a deserter.
+L15382 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Well that's lovely talk, that is. And another thing, why aren't you at school?
+L15381 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ You heard, it gets on my wick.
+L15380 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Y'what?
+L15379 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ Oh you can have it, I'm packing it in -- it depresses me.
+L15378 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ All right, take your hoop and bowl.
+L15377 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ Well --
+L15376 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Fifteen and two thirds, actually.
+L15375 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ I bet you're  -- sixteen!
+L15374 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Shurrup!
+L15373 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ Gerron out of it, you're only jealous 'cause you're old.
+L15372 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Well, there you are and watch it with that hoop.
+L15371 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ Eight and two thirds.
+L15370 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Bet you're only eight and a half.
+L15369 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ Nine.
+L15368 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Well! A boy of your age bowling <U>"hoop"</U> at people. How old are you anyway?
+L15367 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ Oh don't be so stroppy!
+L15366 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Hoop, this isn't a hoop, it's a lethal weapon. Have you got a licence for it?
+L15365 +++$+++ u3561 +++$+++ m235 +++$+++ BOY +++$+++ Here, mate, that's my hoop, stop playing with it.
+L15622 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ He'll be pulp by now.
+L15621 +++$+++ u3562 +++$+++ m235 +++$+++ BOYS +++$+++ The police station.
+L15620 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ The police have the poor unfortunate lad in the Bridewell.
+L15613 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Sixpence.
+L15612 +++$+++ u3562 +++$+++ m235 +++$+++ BOYS +++$+++ Yeah.
+L15611 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Can you fix him for me?
+L15241 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Isn't it always the way? Picking on us little fellas.
+L15240 +++$+++ u3562 +++$+++ m235 +++$+++ BOYS +++$+++ Shurrup!
+L15024 +++$+++ u3562 +++$+++ m235 +++$+++ BOYS +++$+++ Read 'em!
+L15023 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ What about all these letters?
+L15636 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Aren't you supposed to be in that box?
+L15635 +++$+++ u3563 +++$+++ m235 +++$+++ DIRECTOR +++$+++ Boys, you don't know what this means to me. If you hadn't come back it would have been the epilogue or the news in Welsh for life.
+L15535 +++$+++ u3563 +++$+++ m235 +++$+++ DIRECTOR +++$+++ Oh now, they can't do that to me.  It's all your fault.  Oh yes it is and if they don't turn up I wouldn't be in your shoes for all the...
+L15534 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ They'll be here.
+L15533 +++$+++ u3563 +++$+++ m235 +++$+++ DIRECTOR +++$+++ You don't think...
+L15530 +++$+++ u3563 +++$+++ m235 +++$+++ DIRECTOR +++$+++ But I suppose we can survive a missed run-through as long...
+L15529 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ I'll murder that Lennon.
+L15528 +++$+++ u3563 +++$+++ m235 +++$+++ DIRECTOR +++$+++ Well, that's it, two minutes to the final run-through... they're bound to miss it...
+L15250 +++$+++ u3563 +++$+++ m235 +++$+++ DIRECTOR +++$+++ And hurry, they're not looking too happy.
+L15249 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Sure.
+L15160 +++$+++ u3563 +++$+++ m235 +++$+++ DIRECTOR +++$+++ Please do, I'll not need them for fifteen minutes. Thank you.
+L15159 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ All right, all right. If you don't need this lot, I'll lock 'em up in the dressing room till you do.
+L15141 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Well!
+L15140 +++$+++ u3564 +++$+++ m235 +++$+++ FLOOR MANAGER +++$+++ Spoil sport!
+L15139 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ That's right retreat behind a smoke screen of bourgeois cliches. I don't go round messing about with your ear-phones, do I?
+L15138 +++$+++ u3564 +++$+++ m235 +++$+++ FLOOR MANAGER +++$+++ Aren't you being rather arbitrary?
+L15137 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ If you so much as breathe heavy on them, I'm out on strike.
+L15136 +++$+++ u3564 +++$+++ m235 +++$+++ FLOOR MANAGER +++$+++ Oh, surely one can have a tiny touch.
+L15135 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Leave them drums alone.
+L15111 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Eh ... don't call him sir, he's got enough delusions of power as it is.
+L15110 +++$+++ u3565 +++$+++ m235 +++$+++ FRANK +++$+++ We're nearly there, sir.
+L15105 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Well, remember, its Leathery Magee up ahead in that convertible, so cover me in the stake-out.
+L15104 +++$+++ u3565 +++$+++ m235 +++$+++ FRANK +++$+++ I've made the scene.
+L15103 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ I see you go to the night court.
+L15102 +++$+++ u3565 +++$+++ m235 +++$+++ FRANK +++$+++ Ah ... a shamus, eh?
+L15101 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Ever seen one of these before?
+L15100 +++$+++ u3565 +++$+++ m235 +++$+++ FRANK +++$+++ Oh, yes, now I'm with you. [he changes his accent] But, gee, Mister, I've got my license to think of ... we're doing a hundred now ...
+L15099 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Yeah, you know, "O.K. Buster, follow that car, there's a sawbuck in it for you if you get real close!"
+L15096 +++$+++ u3565 +++$+++ m235 +++$+++ FRANK +++$+++ Sorry? 
+L15095 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Well, that's the wrong line for a start.
+L15094 +++$+++ u3565 +++$+++ m235 +++$+++ FRANK +++$+++ Would you like to be a little more precise, sir?
+L15345 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ No. I don't.
+L15344 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Eh, Ringo, do you know what happened to me?
+L14989 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Do I snore?
+L14988 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ You do - repeatedly.
+L14987 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ I don't snore.
+L14971 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Bag-snatcher.
+L14970 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Me? Why?
+L14926 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ No, I know the psychological pattern and it plays hell with me drum skins.
+L14925 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ You never know, you might be lucky this time.
+L14924 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ No, she'll only reject me in the end and I'll be frustrated.
+L14923 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Are you going in?
+L14922 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Yeah, I know, that's why I took up the drums. It's me active compensatory factor.
+L14921 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ You've got an inferiority complex, you have.
+L14920 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ He doesn't like me, honest, I can tell ... It's 'cos I'm little.
+L15446 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ Get him out of here. He's knocking the programme's image!!
+L15445 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Have I said something amiss?
+L15444 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ Get him out of here!!
+L15443 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ She's a drag. A well-known drag. We turn the sound down on her and say rude things.
+L15442 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ She's a trend setter. It's her profession!
+L15441 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Oh, yes, the lads frequently gather round the T.V. set to watch her for a giggle. Once we even all sat down and wrote these letters saying how gear she was and all that rubbish.
+L15440 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ I beg your pardon?
+L15439 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Oh, you mean that posh bird who gets everything wrong?
+L15438 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ Only Susan Campey, our resident teenager. You'll have to love her. She's your symbol.
+L15437 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ And who's this Susan when she's at home?
+L15436 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ And that pose is out too, Sunny Jim. The new thing is to care passionately, and be right wing. Anyway, you won't meet Susan if you don't cooperate.
+L15435 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ I don't care.
+L15434 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ You can be replaced you know, chicky baby.
+L15433 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ But I won't.
+L15432 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ Make a note of that word and give it to Susan. I think it's rather touching really. Here's this kid trying to give me his utterly valueless opinion when I know for a fact within four weeks he'll be suffering from a violent inferiority complex and loss of status if he isn't wearing one of these nasty things. Of course they're grotty, you wretched nit, that's why they were designed, but that's what you'll want.
+L15431 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Yeah, grotesque.
+L15430 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ Grotty?
+L15429 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ I wouldn't be seen dead in them. They're dead grotty.
+L15428 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ Now, you'll like these. You really "dig" them. They're "fab" and all the other pimply hyperboles.
+L15427 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ Well, at least he's polite. Tony Show him the shirts, Adrian.
+L15426 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Ta.
+L15425 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ Good. Hart, get him whatever it is they drink, a cokearama?
+L15424 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ I'll have a bash.
+L15423 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ I mean lines, ducky, can you handle lines?
+L15422 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Of course I can.
+L15421 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ Well, not your real opinion, naturally. It'll be written out and you'll learn it.  Can he read?
+L15420 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Oh, by all means, I'd be quite prepared for that eventuality.
+L15419 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ We want you to give us your opinion on some clothes for teenagers.
+L15417 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ Oh, my God, he's a natural.
+L15416 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ I'm afraid I don't understand.
+L15415 +++$+++ u3578 +++$+++ m235 +++$+++ SIMON +++$+++ Oh, you can come off it with us. You don't have to do the old adenoidal glottal stop and carry on for our benefit.
+L15414 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Look, I'm terribly sorry but I'm afraid there's been some sort of a misunderstanding.
+L15357 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ The old mixer, come on we'll have to put him right.
+L15356 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Yes, he's filled his head with notions seemingly.
+L15355 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ He hasn't.
+L15354 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Yes. Your grandfather's stirred him up.
+L15353 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ We do.
+L15352 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Eh, I don't know if you realise it, but ...
+L15225 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ You crawler.
+L15224 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh, listen to teacher's pet.
+L15166 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Wake up!
+L15165 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Ringo!
+L15144 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ He's sulking again.
+L15143 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ What's up?
+L15128 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Ah well. Eh, look!
+L15127 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Sure. .
+L14935 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Well, let's broaden our outlook.
+L14934 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ No. I mean, it's probably a honeymoon couple or a company director or something.
+L14933 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Did you look in here?
+L14882 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ I don't really know, but it sounded distinguished, like, didn't it?
+L14881 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Now what's that supposed to mean?
+L14880 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Aye, but don't rush. None of your five bar gate jumps and over sort of stuff.
+L14869 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ I suggest you just give him the photos and have done with it.
+L14868 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Aye and we'll have to watch it and all.
+L14798 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ No, straight up.
+L14797 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Gerron.
+L14781 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Yeah, she was fickle.
+L14780 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ A butcher?
+L14779 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ You see, he was going to get married but she threw him over for a butcher.
+L14770 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh, that's me other Grandfather, but this one's me Grandfather and all.
+L14769 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ But your Grandfather lives in your house. I've seen him.
+L14768 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ It is, y'know.
+L14767 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ That's not your Grandfather.
+L15410 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Sorry.
+L15409 +++$+++ u3575 +++$+++ m235 +++$+++ SECRETARY +++$+++ Well ... come on.
+L15408 +++$+++ u3575 +++$+++ m235 +++$+++ SECRETARY +++$+++ Yes, you're quite a feather in the cap.  Hello, I've got one ... oh, I think so ... yes, he can talk ... Well ... I think you ought to see him.  Of course, right away.
+L15407 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Is he?
+L15406 +++$+++ u3575 +++$+++ m235 +++$+++ SECRETARY +++$+++ You haven't, you're just late.  Oh, yes, he's going to be very pleased with you.
+L15405 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Oh, I'm sorry, I must have made a mistake.
+L15404 +++$+++ u3575 +++$+++ m235 +++$+++ SECRETARY +++$+++ Oh, there you are!
+L15624 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Come here.
+L15623 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ What are we waiting for?
+L15360 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ I'll look in here again.
+L15359 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ It's happened at last, we've become a limited company.
+L15254 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ You're getting out of hand. I don't know what's come over you today.
+L15253 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ How'd you like a dirty great drum roll giving you a clout right in the middle of your solo?
+L15107 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ What do you expect from an ad lib ... Raymond Chandler?
+L15106 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ I don't think that bit's right.
+L15090 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Follow your impulse.
+L15089 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Should I say it?
+L15006 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ He comes from a large family.
+L15005 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ That must have cost you a fortune in stamps, Ringo.
+L14946 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Get in there, Paul, she's weakening.
+L14945 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Come on, Auntie, you're winning.
+L14875 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ If I let you have your own way, you little rascal, will you respect me?
+L14874 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Oh, Paul, you can't have your own way!!!
+L15547 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Eh, there's only three of them.
+L15546 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Sorry.
+L15263 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Well, it must be catching. He's given it to the champ here.
+L15262 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Hello, he's not talking to me. He's having a sulk.
+L14862 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ The old fella wanted these pictures and Norm said he couldn't have 'em, all I said was 'aw go on, be big about it.'
+L14861 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ Well, what happened?
+L14860 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ No, I didn't you did ...
+L14805 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Oh aye, but I thought ...
+L14804 +++$+++ u3566 +++$+++ m235 +++$+++ GEORGE +++$+++ It's Paul's grandfather.
+L14803 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Morning!  Who's that little old man?
+L15526 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Of course.
+L15525 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ See you.
+L15524 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Yes.
+L15523 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Aye, it is but as long as you get by, it's all right, you know ... bash on, happy valley's when they let you stop. Anyroad, I'd better get back.
+L15522 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Pity.
+L15521 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Me? Oh, I don't have the time, I'm always running about with the lads ... no, we don't have the time.
+L15520 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ And what do you do about it?
+L15519 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ And cunning.
+L15518 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Well, it's nice to know you think we're clever.
+L15517 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh, definitely, it sticks out a mile, she's trying to get him to marry her but he doesn't want ... well ... I don't reckon any fella's ever wanted to get married. But girls are like that, clever and cunning. You've got to laugh.
+L15516 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ And you honestly think that's what she meant?
+L15515 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Of course ... Look, if she was a Liverpool scrubber ...  Eh, fella, you want to try pulling the other one, it's got a full set of bells hanging off it ... Y'what? ... I know your sort, two cokes and a packet of cheese and onion crisps and suddenly it's love and we're stopping in an empty shop doorway. You're just after me body and y'can't have it ... so there!!
+L15514 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Is she?
+L15513 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Well, look at it this way, I mean, when you come right down to it, that girl, she's a bit of a scrubber, isn't she?
+L15512 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Not really but I'm probably not a toffee maker. How would you do those lines of mine?
+L15511 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ No, hang on, I've not gone daft. You see, when I was little me mother let me make some treacle toffee one time in our back scullery. When I'd done she said to me, "Go and give some to the other kids." So, I said I would but I thought to meself, "She must think I'm soft." Anyroad, I was eating away there but I wanted somebody else to know how good it was so in the end I wound up giving it all away ... but I didn't mind, mind, 'cos I'd made the stuff in the first place. Well ... that's why you need other people... an audience ... to taste your treacle toffee, like. Eh ... does that sound as thickheaded to you as it does to me?
+L15510 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Well, you've got to have people to taste your treacle toffee.
+L15509 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Why selfish?
+L15508 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Why? I mean, which are you, scared or selfish?
+L15507 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ I only enjoy acting for myself. I hate it when other people are let in.
+L15506 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ ... all this and a jam butty too!!
+L15505 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ What of? Look, I wouldn't do it unless I was. I'm dead lucky 'cos I get paid for doing something I love doing.
+L15504 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Is it really fab or are you just saying that to convince yourself?
+L15503 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ We do, you know. We sound like us having a ball. It's fab.
+L15502 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ I bet you don't sound like real people.
+L15501 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ I'm in a group ... well ... there are four of us, we play and sing.
+L15500 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ What are you?
+L15499 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh, I don't know, anyroad up, they never are, are they?
+L15498 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ They ought to be.
+L15497 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Aye well, actresses aren't like real people, are they?
+L15496 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ But that's not like a real person at all.
+L15495 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ No ... I wouldn't say that ... just like an actress ... you know.
+L15494 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ But the way you did it then sounded so phony.
+L15493 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh aye, a sledge.
+L15492 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ The big hammer?
+L15491 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Well, the way you were spouting, like ....  "I don't believe you, sir..." and all that. Yeah, it was gear.
+L15490 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ What's that mean?
+L15489 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Aye, I knew you were.
+L15488 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Yes.
+L15487 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh, I see. You are an actress though, aren't you?
+L15486 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ No.  I'm a walk-on in a fancy dress scene. I just felt like doing those lines.
+L15485 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh, you're the understudy, sort of thing?
+L15484 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ I'm not ...
+L15483 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ You don't half slam the door in people's faces, do you? I mean, what about when you're playing the part, like, hundreds of people'll see you and ...
+L15482 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Don't mench ... well, why don't you give us a few more lines, like?
+L15481 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Thank you.
+L15480 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Aye, the big hammer, smashing!
+L15479 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Gear?
+L15478 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Yeah ... I mean, sure, well, I took it at school but I only ever heard boys and masters saying those lines, like, sounds different on a girl.  Yeah, it's gear on a girl.
+L15477 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ I see.  Do you like the play?
+L15476 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Something like that.
+L15475 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Are you pulling my leg?
+L15474 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Is it ... is it, really?
+L15473 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Oh, it's the way you talk.
+L15472 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ How'd you guess?
+L15471 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ You're from Liverpool, aren't you?
+L15470 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ D'you know something, "They" don't worry me at all. Anyroad, I only fancy listening to you ... that's all but if it worries you ... well ...
+L15469 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ I'm warning you, they'll be back in a minute.
+L15468 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ I've got you worried, haven't I?
+L15467 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Are you supposed to be here?
+L15466 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh, sorry I spoke.
+L15465 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Go away! You've spoilt it.
+L15464 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Well ... go 'head, do the next bit.
+L15463 +++$+++ u3567 +++$+++ m235 +++$+++ GIRL +++$+++ Oh!
+L15594 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Nothing good.
+L15593 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ What are they saying?
+L15592 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Lip reading.
+L15591 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ What are you doing?
+L15584 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ That's what they want you to think. All coppers are villains.
+L15583 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Oh, they seem all right to me.
+L15582 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ And if they get you on the floor watch out for your brisket.
+L15581 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Me!
+L15580 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ That sergeant's a body-blow veteran if ever I measured one. One of us has got to escape. I'll get the boys. Hold on son, I'll be back for you.
+L15579 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Have they?
+L15578 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Keep your voice down, this lot'll paste you, just for the exercise. Oh they're a desperate crew of drippings and they've fists like matured hams for pounding defenceless lads like you.
+L15577 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ What?
+L15576 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Shush! Have they roughed you up yet?
+L15575 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Well I'm not exactly a voluntary patient.
+L15574 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Ringo, me old scout, they grabbed yer leg for the iron too, did they?
+L15343 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ I'm going parading before it's too late!
+L15342 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Where are you off to?
+L15341 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ I'm not wrong.
+L15340 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ You're only right.
+L15339 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Yeah ... funny really, 'cos I'd never thought of it but being middle-aged and old takes up most of your time, doesn't it?
+L15338 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ When you could be out there betraying a rich American widow or sipping palm wine in Tahiti before you're too old like me. A fine neat and trim lad the class of you should be helping himself to life's goodies before the sands run out. Being an old age pensioner's a terrible drag on a man and every second you waste is bringing you nearer the Friday queue at the Post Office.
+L15337 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Yeah ... a bloomin' book!
+L15336 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ A book!
+L15335 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Yeah ... what's in it for me?
+L15334 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ And what's it all come to in the end?
+L15333 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Yeah ... that's right.
+L15332 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ And that lot's never happier than when they're jeering at you ... and where would they be without the steady support of your drum beat, I'd like to know.
+L15331 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Oh ... I dunno.
+L15330 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Do you think I haven't noticed ... do you think I wasn't aware of the drift? Oh ... you poor unfortunate scuff, they've driven you into books by their cruel, unnatural treatment, exploiting your good nature.
+L15329 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ What's that mean?
+L15328 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ So you <U>are</U> a man after all.
+L15327 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Aaah ... stop picking on me... you're as bad as the rest of them.
+L15326 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ At least I've a backlog of memories, but all you've got is that book!
+L15325 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Eh ... you're a bit old for that sort of chat, aren't you?
+L15324 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ You're living, are you? When was the last time you gave a girl a pink-edged daisy? When did you last embarrass a sheila wid your cool appraising stare?
+L15323 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Well, I <U>am</U> living, aren't I?
+L15322 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ That's it, parading the streets ... trailing your coat ... bowling along ... living!
+L15321 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Parading?
+L15320 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Parading's better!
+L15319 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Books are good!
+L15318 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Any old where ... but not our little Richard ... oh no! When you're not thumping them pagan skins, you're tormenting your eyes wid that rubbish!
+L15317 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Out where?
+L15316 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Can you now? Aah ... sheeps' heads! You learn more by getting out there and living.
+L15315 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ You can learn from books.
+L15314 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Have you no natural resources of your own? Have they even robbed you of that?
+L15313 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Well ... what's the matter with that?
+L15312 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Will you ever look at him, sitting there wid his hooter scraping away at that book!
+L15014 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Quite right, invites to gambling dens full of easy money and fast women, chicken sandwiches and cornets of caviar, disgusting!
+L15013 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Ah.
+L15586 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ You see, sly villains.
+L15585 +++$+++ u3576 +++$+++ m235 +++$+++ SERGEANT +++$+++ Would you two like a cup of tea?
+L15573 +++$+++ u3576 +++$+++ m235 +++$+++ SERGEANT +++$+++ Get Lloyd George over there with that mechanic in the cloth cap while I sort this lot out.
+L15572 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ I'm soldier of the Republic, you'll need the mahogany truncheon for this boyo. A nation once again.
+L15571 +++$+++ u3576 +++$+++ m235 +++$+++ SERGEANT +++$+++ What's he on about?
+L15570 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ I'll go on a hunger strike. I know your caper. The kidney punch and the rabbit-clout. The third degree and the size twelve boot ankle-tap.
+L15569 +++$+++ u3576 +++$+++ m235 +++$+++ SERGEANT +++$+++ Eh?
+L15568 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ You ugly, great brute you, you have sadism stamped all over your bloated British kisser.
+L15567 +++$+++ u3576 +++$+++ m235 +++$+++ SERGEANT +++$+++ Is there a fire, then?
+L15566 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Well, you got me here so do your worst but I'll take one of you with me.  Oh, I know your game, get me in the tiled room and out come the rubber hoses but I'll defy you still.
+L15648 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ But I'm clean.
+L15647 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ You see.  You know your trouble -- you should have gone West to America. You'd have wound up a Senior Citizen of Boston. As it is you took the wrong turning and what happened, you're a lonely old man from Liverpool.
+L15079 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Who are these ruffians?... I've never seen them before in my life! ... 
+L15078 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Stay where you are everybody this is a raid and we want him.
+L15001 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ It's your nose, y'see. Fans are funny that way. Take a dislike to things. They'll pick on a nose...
+L15000 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ That'll keep you busy.
+L14973 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Every morning.
+L14972 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ That's right; convict without trial ... Habeas corpus.
+L14873 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Before you go, I think it's only fair to warn you about me Grandson ... don't let our Paul have his own way all the time, 'cos if you do he won't respect you!
+L14872 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Come on let's get this coffee.
+L14793 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ I'll look after meself.
+L14792 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ And we're looking after him, are we?
+L14789 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ He can talk then?
+L14788 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Hello.
+L14787 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Hello, Grandfather!
+L15638 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Here, Pauly.
+L15637 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ And another thing, where's that old mixer?
+L15126 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ We've just finished, Pauly. Hey George, write us your John Henry on this picture.
+L15125 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Anything to spare?
+L14995 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Well, it may be a joke, but it's his nose. He can't help having a horrible great nose, it's the only one he's got. And his poor little head's trembling under the weight of it.
+L14994 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh for Pete's sake, It's only a joke.
+L14993 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Don't mock the afflicted, Pauly.
+L14992 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ With a trombone hooter like yours it'd be unnatural if you didn't.
+L14964 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ And I take a left-handed view of life, I've got to.
+L14963 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Well, don't be daft, I've got to.
+L14962 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ Why do you always use your left hand?
+L14961 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Yeah ... so what?
+L14960 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ You're left-handed, aren't you, Paul?
+L14959 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh, it's all right for you but those two girls were scared to death! Honest, Grandad, why? I mean, why do you do these things?
+L14958 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ A harmless bit of fun, aah, none of you have any sense of humour left these days.
+L14957 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ All right, how about Ringo? I mean ... he's very upset, you know ... and as far as your girlfriend, little Audrey's concerned, she's finished with men for the rest of her natural, and another thing ...
+L14954 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Don't dramatise.
+L14953 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ And to think me own grandson would have let them put me behind bars!
+L14939 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh, well that's all right.  What?
+L14938 +++$+++ u3568 +++$+++ m235 +++$+++ GRANDFATHER +++$+++ It's all taken care of. It's down on our bill.
+L14937 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh no, you're not. You've gone too far this time ... and who's paying for all this?
+L15214 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ I think you're soft or something.
+L15213 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Hiding.
+L15212 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ What are you doing there?
+L15064 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Aye, come on, honest, that grandfather of yours is worse than any of you lot.
+L15063 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Well, what are we waiting for?
+L15058 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ You're undressed. Where are your clothes?
+L15057 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Aye, he looks a right lurker.
+L15004 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ For Ringo.
+L15003 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Is that yours?
+L14809 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Oh yes, he's clean all right.
+L14808 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Clean though, isn't he?
+L14807 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ That's all right then.
+L14806 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ No, that's his other one.
+L15646 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ That's right, but he's only asking us to pay attention to him, aren't you?
+L15645 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Look he's a mixer and a trouble maker!
+L15644 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Practising to be thick-headed, you're there already.
+L15643 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Y'what?
+L15642 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ You needn't bother.
+L15641 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ What's old got to do with it?
+L15640 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Aw, leave him alone Paul, he's back, isn't he? And it's not his fault he's old.
+L15639 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Well, I got a few things to say to you, two-faced John McCartney.
+L15351 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Can't he? He's done it, son!
+L15350 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ We've got only half an hour till the final run-through. He can't walk out on us.
+L15301 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ So's mine.
+L15300 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ She's going to show me her stamp collection.
+L15288 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Nothing, he's trying to brainwash me and give me personality doubts ... oh, he's a swine but a clever swine, mind.
+L15287 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ What's he know?
+L15280 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Foreign devil ...
+L15279 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Behave...
+L15276 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Eh, don't take out me lines.
+L15275 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ You won't interfere with the basic rugged concept of my personality, will you, girl?
+L15130 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Aye, before anyone stops us.
+L15129 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Let's go and muck in.
+L14976 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Well, I've got me gob stopper.  Look, a genuine Stradivarius, hand tooled at Dagenham.
+L14975 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Like what?
+L14974 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Gaw, it's depressing in here, isn't it? Funny...  'cos they usually reckon dogs more than people in England, don't they? You'd expect something a little more palatial.  Come on. Let's have a little action. Let's do something, then.
+L14969 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh, it's a laugh a line with Lennon.  Anyroad up ... It's all your fault.
+L14968 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Don't worry, son, we'll get you the best lawyer trading stamps can buy.
+L14929 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Will you stop it! Sorry to disturb you, miss...
+L14928 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ We've broken out, oh, the blessed freedom of it all!  Eh, have you got a nail file, these handcuffs are killing me. I was framed. I was innocent.
+L14919 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Don't be callous.
+L14918 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ I hope he fell off.
+L14879 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Shall I?
+L14878 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Give 'em a pull.
+L14840 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Shurrup! Look, Mister, we've paid for our seats too, you know.
+L14839 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Gie's a kiss!
+L14796 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Him, he costs you a fortune in breach of promise cases. He's a villain and a right mixer as well.
+L14795 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ He's got you worried, then?
+L14794 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Aye, that's what I'm afraid of!
+L14786 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh yeah, he's very clean, y'know.
+L14785 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Eh, he's a nice old man, isn't he?
+L14784 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Oh, I see.
+L14783 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ No ... it was his sweetbreads. She was dead kinky for sweetbreads. Anyroad, me mother thought it'ud give him a change of scenery, like.
+L14782 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Aye and fond of fresh meat and all.
+L14774 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Well, me mother thought the trip 'ud do him good.
+L14773 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Well we know that but what's he doing here?
+L14772 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Well ... everyone's entitled to two, aren't they, and this is me other one.
+L14771 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ How d'you reckon that one out?
+L14766 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh, that one. That's me Grandfather.
+L14765 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ That little old man.
+L14764 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ What little old man?
+L14763 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Eh ... pardon me for asking but who's that little old man?
+L15658 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ You're a swine. So hurry up ... we're travelling!
+L15657 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ What?
+L15656 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ No, you look here, John. I've only one thing to say to you.
+L15655 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Now, look here, Norm ...
+L15654 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ You've got a midnight matinee.
+L15653 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Tonight? We can't make it ...
+L15652 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ The office was on the phone, they think it'd be better if we pushed straight to Wolverhampton.
+L15551 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Aye, let's try the dressing room.
+L15550 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Control yourself or you'll spurt. He's bound to be somewhere.
+L15540 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Hi, our lot!
+L15539 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Hi Norm!
+L15303 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Oink! Oink!
+L15302 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ John, I'm talking to you. This final run through is <U>important</U>. Understand? Important.
+L15294 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Gear! Come on, girls, let's have a bit of a dance.
+L15293 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ They're nearly ready for you. They're just finishing the band call.
+L15286 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ I would though.
+L15285 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ You wouldn't!
+L15284 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Leave him alone, Lennon, or I'll tell them all the truth about you.
+L15267 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Sit down, the lot of you.
+L15266 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Leave him alone, he's got swine fever.
+L15221 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Oh shurrup and come on John. They're waiting for you in the studio.
+L15220 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Don't cane me, sir, I was led astray.
+L15164 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Come on speedy!
+L15163 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Let's have you.
+L15109 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Well, you shouldn't have had bacon for your breakfast, you cannibal.
+L15108 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Will you all stop it, you're like a gang of school kids. I knew this was going to happen one day.
+L15049 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Aye, well, now! 
+L15048 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ We were going to do it.
+L15047 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Now get on with it.
+L15021 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Come on, Shake, we'll leave 'em to their penmanship.
+L15020 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ It's all right for you, you couldn't get a pen in your foot, you swine.
+L15019 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ I'll brook no denial!
+L15012 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Well you're not going.
+L15011 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Oh, it's got round that you're a heavy punter.
+L14997 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Hello the income tax have caught up with us at last.
+L14996 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Paul, John, George - get at it.
+L14981 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ No, you can't. Look, as soon as I tell you, run through this door here and into the big car that's waiting.
+L14980 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Ah, go on, you swine.
+L14979 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ No.
+L14978 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Please, can I have one to surge with?
+L14977 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Don't move, any of you. They've gone potty out there. The whole place is surging with girls.
+L14911 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ No ... he's must have slipped off somewhere.
+L14910 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Of course, he's concealed about me person.
+L14909 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Eh, have you got Paul's grandfather?
+L14859 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ He started it.
+L14858 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ If you're going to have a barney I'll hold your coats.
+L14814 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ You're a swine, isn't he George?
+L14813 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Are you listening to me, Lennon?
+L15199 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Thanks.
+L15198 +++$+++ u3570 +++$+++ m235 +++$+++ MILLIE +++$+++ I knew I could rely on you.
+L15197 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Mind you, I stood up for you, I mean I wouldn't have it.
+L15196 +++$+++ u3570 +++$+++ m235 +++$+++ MILLIE +++$+++ Is it? Is it really?
+L15195 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ It's all over the place, everyone knows.
+L15194 +++$+++ u3570 +++$+++ m235 +++$+++ MILLIE +++$+++ What have you heard?
+L15193 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ That's what you tell me.
+L15192 +++$+++ u3570 +++$+++ m235 +++$+++ MILLIE +++$+++ No I don't, he's only a casual acquaintance.
+L15191 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Aye, but you know him well.
+L15190 +++$+++ u3570 +++$+++ m235 +++$+++ MILLIE +++$+++ I would have said so.
+L15189 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Is it?
+L15188 +++$+++ u3570 +++$+++ m235 +++$+++ MILLIE +++$+++ Well, yes your nose is. Very.
+L15187 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ And my nose...
+L15186 +++$+++ u3570 +++$+++ m235 +++$+++ MILLIE +++$+++ Oh yes.
+L15185 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ My eyes are lighter.
+L15184 +++$+++ u3570 +++$+++ m235 +++$+++ MILLIE +++$+++ Oh you do, look.
+L15183 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Oh do I? You're the first one who ever said that.
+L15182 +++$+++ u3570 +++$+++ m235 +++$+++ MILLIE +++$+++ Well, you look like him.
+L15181 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ I'm not, no.
+L15180 +++$+++ u3570 +++$+++ m235 +++$+++ MILLIE +++$+++ You are.
+L15179 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ No, I'm not.
+L15178 +++$+++ u3570 +++$+++ m235 +++$+++ MILLIE +++$+++ Oh you are, I know you are.
+L15177 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ No, not me.
+L15176 +++$+++ u3570 +++$+++ m235 +++$+++ MILLIE +++$+++ Oh, wait a minute, don't tell me you're ...
+L15175 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Hello.
+L15174 +++$+++ u3570 +++$+++ m235 +++$+++ MILLIE +++$+++ Hello.
+L15258 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ He'll get over it.
+L15257 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Well!
+L15256 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Since you ask, yes.  Aah, come on, Ring, we love you.
+L15255 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ That's right. It's always me, isn't it?
+L15229 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Well ...
+L15228 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Temper! Temper!
+L15227 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Oh, leave off!!!
+L15226 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ He's betrayed the class.
+L15092 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ Aah, shurrup, misery!
+L15091 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ It'll only get you into trouble.
+L14991 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Well, that's just your opinion. Do I snore, Paul?
+L14990 +++$+++ u3569 +++$+++ m235 +++$+++ JOHN +++$+++ You're a window rattler, son.
+L15660 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Don't start. Look.
+L15659 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Where's my grandfather?
+L15651 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ No, we're not!
+L15650 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Aren't we ...
+L15649 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ I've got the stuff. Come here.
+L15554 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Aye, I suppose so.
+L15553 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Don't worry about him. He can look after himself.
+L15552 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Eh, where's my grandfather?
+L14914 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ You've lost him.
+L14913 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Don't exaggerate.
+L14912 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Have <U>you</U> lost him?
+L14867 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ You two have never had a quarrel in your life and in two minutes flat he's got you at it. He's a king mixer. Adam and Eve, meet the serpent. Anthony and Cleopatra, there's your asp. Divide and Conquer, that's this one's motto. He hates group unity so he gets everyone at it.
+L14866 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Y'what?
+L14865 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ I knew it, <U>he</U> started it, I should have known.
+L14864 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Your Grandfather pointed out Shake was always being taller than me just to spite me.
+L14863 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ And?
+L14826 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Don't be cheeky, I'll bind him to me with promises. Come on, Grandad.
+L14825 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Well, look after him. I don't want to find you've lost him.
+L15311 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Oh, all right. Come here, Grandad.
+L15310 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Do I have to raise me voice?
+L15309 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ But...
+L15308 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Look after him.
+L15273 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Someone put it on me.
+L15272 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ What do you think are you're up to?
+L15265 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ I don't need you to defend me, y'know, Norm.
+L15264 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Stop picking on him.
+L15223 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Good lad, Ringo.
+L15222 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Oh dear, I feel like doing a bit of work.
+L15219 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ When I tell you to stay put, stay put.
+L15218 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Well ...
+L15016 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Have done, and you lot get your pens out.
+L15015 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ That's mine.
+L14999 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Sorry.
+L14998 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ None for me, then?
+L14821 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Ah well, there you go. Look, I'm going down the diner for a cup of coffee, are you coming?
+L14820 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ He belongs to Paul.
+L15532 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Shurrup, cheerful.
+L15531 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ ... as they head up for the show. Oh yes, well I mean it'ud be a pity to miss the show, wouldn't it like.
+L15307 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Clever.  George.
+L15306 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ I'm adjusting the decibels on the inbalance.
+L15209 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ I know, that's the trouble.
+L15208 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Nerves.
+L15207 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ What?
+L15206 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ But John hasn't got any.
+L15205 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Oh no... this is a battle of nerves between John and me.
+L15204 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ You're imagining it. You're letting things prey on your mind.
+L15203 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ He's out there somewhere, causing trouble just to upset me.
+L15202 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ That's too easy for Lennon.
+L15201 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Oh they've probably gone to the canteen, cup of tea, like.
+L14899 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Well, give a couple of minutes ...
+L14898 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Yeah, down the ... er ...
+L14897 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Oh, down the ... er ...?
+L14896 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Down the ... er ...
+L14895 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Oh, I didn't notice, where'd he go?
+L14894 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Paul's grandfather.
+L14893 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Who?
+L14892 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ He's been gone a long time.
+L14857 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Well, you don't have to rub me nose in it. I've a good mind to ... 
+L14856 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ I'm sorry Norm, but I can't help being taller than you.
+L14853 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ I can't help it, I'm just taller than you.
+L14852 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Well, you stick to that story, son.
+L14851 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ It's not my fault.
+L14850 +++$+++ u3571 +++$+++ m235 +++$+++ NORM +++$+++ Yeah, you want to watch it.
+L15349 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Get knotted!
+L15348 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Eh. I thought you were looking after the old man.
+L15252 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ You were twanging too loud.
+L15251 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ What's the matter with you? You were bashing away like a madman.
+L15062 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Yeah, It's all your fault, getting invites to gambling clubs. He's probably in the middle of an orgy by now.
+L15061 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Oh, he's gone to my club, has he?
+L15010 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ And they want me?
+L15009 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ "The Management of Boyd's takes pleasure in requesting the company of Mr. Richard Starkey, that's you, in their recently refinished gaming rooms. Chemin de Fer. Baccarat, Roulette, and Champagne Buffet." Blimey!
+L14791 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ Well ... if he's your Grandfather, who knows?
+L14790 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Course he can talk. He's a human being, like. Isn't he?
+L14776 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh ... he's nursing a broken heart.
+L14775 +++$+++ u3574 +++$+++ m235 +++$+++ RINGO +++$+++ How's that?
+L15245 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Oh, anything you say, Paul.
+L15244 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ I'll set John on you!
+L15243 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ I'm an electrician, not a wet nurse, y'know.
+L15242 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Shove the gentleman jockey in the make-up room or something and keep your eye on him, will you?
+L15056 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ Oh, him... He's been lurking.
+L15055 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Eh, what's all this?
+L14917 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ He can't be far.
+L14916 +++$+++ u3572 +++$+++ m235 +++$+++ PAUL +++$+++ You can't trust you with anything, Norm, if you've lost him, I'll cripple you.
+L14915 +++$+++ u3577 +++$+++ m235 +++$+++ SHAKE +++$+++ Put it this way, he's mislaid him.
+L15590 +++$+++ u3576 +++$+++ m235 +++$+++ SERGEANT +++$+++ Well, he can't stop here.
+L15589 +++$+++ u3573 +++$+++ m235 +++$+++ POLICEMAN +++$+++ Yeah, but he insisted on us bringing him to the station.
+L15588 +++$+++ u3576 +++$+++ m235 +++$+++ SERGEANT +++$+++ So you just brought the old chap out of the crowd for his own good.
+L15561 +++$+++ u3573 +++$+++ m235 +++$+++ POLICEMAN +++$+++ A proper Aborigine.
+L15560 +++$+++ u3576 +++$+++ m235 +++$+++ SERGEANT +++$+++ Oh, a little savage, is he?
+L15559 +++$+++ u3573 +++$+++ m235 +++$+++ POLICEMAN +++$+++ I've got a little list here. Wandering abroad. Malicious intent. Acting in a suspicious manner. Conduct liable to cause a breach of the peace. You name it, he's done it.
+L15558 +++$+++ u3576 +++$+++ m235 +++$+++ SERGEANT +++$+++ What is he?

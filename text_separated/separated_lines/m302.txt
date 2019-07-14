@@ -1,0 +1,577 @@
+L140723 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Max, I'm scared.  Are you sure?
+L140722 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ He doesn't know you're up there!  Just stay right where you are!  Call the police!
+L140721 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Seventh, files section.  What should I do?
+L140720 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Where are you, what floor?
+L140719 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ In my office?
+L140718 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ ...he's two floors below you.
+L140717 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ No, no, <u>wait</u>...
+L140716 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ ...okay, Max, I believe you...I'll get out of the building...
+L140715 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ It doesn't matter!  Just get out of the goddamn building...
+L140714 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Did you say <u>Dmitri?</u> How do you know about my case?  I don't understand...
+L140713 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Dmitri hired him!  He's already killed all your witnesses, now he's coming after you!  He was stalking you when I dropped you off.  I don't know what happened, but he diverted and got into my cab, instead.
+L140712 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ If this is a joke, it's not funny.
+L140711 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ <u>Kill</u> you!  He's coming to kill you!
+L140710 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ He's...what?  Say again?  We're in cell hell...
+L140709 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Listen to me!  Just listen, okay? There's a man, Vincent, he's coming to kill you!
+L140708 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Max?  Oh...  ...it's kind of a strange time to be calling...
+L140707 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Max, the cab driver!
+L140706 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Max...
+L140705 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Annie...it's Max.
+L140026 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Sure thing.
+L140025 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Thanks for everything, Max.  Wow...
+L140024 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yes, you could.  I think you need it more than I do.  It'll help.  I promise.
+L140023 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ No, no way, I couldn't take that...
+L140021 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Dozen times a day.
+L140020 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ How often you go?
+L140019 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Soon.  But I take little ones all the time.  Comoros Islands in the Indian Ocean.
+L140018 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ When was the last time you took one?
+L140017 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Not in a cab...  I mean a disconnection...get your head straight...you know, get it together...
+L140016 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Just had one.
+L140015 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You need a vacation.
+L140014 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Like you, I'm good at it.  But at this exact moment in time...like I gotta sumo wrestler on my shoulders until tomorrow morning.
+L140013 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ But not now?
+L140012 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Most of the time.
+L140011 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You never answered my question.  You like what you do?
+L140009 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Yeah.
+L140008 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Big case?
+L140007 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Not quite.  He did defense.  I'm a prosecutor...
+L140006 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ ...Bottega.  Guy gets in my cab wearing a catcher's mask, I think he's a ballplayer.  You?  Definitely Clarence Darrow.
+L140005 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Bottega.
+L140004 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Sure.  I'm starting an 800 hotline.  Caught part of your phone call.  And even if I hadn't, there's the dark pinstripe, Armani, elegant, not too hip, which rules out advertising, plus a top-of-the-line briefcase that you live out of, looks like Bottega...
+L140003 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ You psychic?
+L140002 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You like being a lawyer?
+L140001 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Travel...and things.
+L140000 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Like what?
+L139999 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ This?  Temporary.  To pay the bills and save. I got plans...
+L139998 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ You're an anomaly in today's world, Max.  You're good at what you do, so you must take pride in it...?
+L139997 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ There were two of us.  I had the other guy killed.  Don't need the competition...
+L139996 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ No?  How many cabbies get you into an argument to save you money?
+L139995 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ It's no big deal.
+L139994 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Why'd you do that?  Don't tell me you're a gentleman, Max. I thought chivalry was dead as a necessary consequence of gender politics...
+L139993 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Keep it.  Go wild.  Have a party.
+L139992 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Different instrument altogether.  You know, if you'd only listened to me, we'd be bogged down in traffic right now, and you could have made yourself an extra five bucks.
+L139991 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Could'a fooled me, the way you were hollering into that cell phone.
+L139990 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Violin.  I never had the lungs for wind instruments.
+L139989 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Let me guess.  Clarinet?
+L139988 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ I used to play this piece back in high school.
+L139987 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You like Bach?
+L139985 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ No.  You were right, I was wrong...  ...Max.
+L139984 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ No.  I got lucky with the lights.
+L139983 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Go ahead, say it.
+L139982 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ You got a deal.
+L139981 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ The ride is free.
+L139980 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ We taking bets?  What if you're wrong?
+L139979 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ But Bowery's fine, if that's what you want.
+L139978 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ First Friday of the month?  Linens. Roll right off the trucks.  They're in and out in twenty minutes...  ...which means they left fifteen minutes ago.  Traffic will be smooth.
+L139977 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Sixth, you got delivery trucks blocking traffic at Herald Square. Look, I make this trip all the time.
+L139976 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ The Bowery, you gotta deal with runoff from two bridges.
+L139975 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Sixth is a parking lot north of 23rd this time of day.
+L139974 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Sixth is faster.
+L139973 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ What?
+L139972 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'll take Sixth.  It's faster.
+L139971 +++$+++ u4575 +++$+++ m302 +++$+++ ANNIE +++$+++ Park Avenue and East 2nd. Take Centre to Canal, up the Bowery, Cooper and Third, left on 41st, come around on Park.
+L139970 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Hi ya' doin'?  Where to?
+L140690 +++$+++ u4576 +++$+++ m302 +++$+++ COP #1 +++$+++ You sure?  You look pretty shaky...
+L140689 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'm...fine.  Fine.
+L140688 +++$+++ u4576 +++$+++ m302 +++$+++ COP #1 +++$+++ You dizzy?  You want to sit down?
+L140197 +++$+++ u4576 +++$+++ m302 +++$+++ COP #1 +++$+++ Save me the grief.  Step out of the car, sir, and open the trunk.
+L140196 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Come on, it's been a long, shitty day. How about a break?  I'll call a tow truck myself, I swear.  I won't budge from this spot.
+L140192 +++$+++ u4576 +++$+++ m302 +++$+++ COP #1 +++$+++ This vehicle's not safe to drive. We're gonna have to impound it.  Get you towed.  Step away from the vehicle and pop the trunk.  I'm sorry, sir, you'll have to find another cab.
+L140191 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I was heading back to my garage.  It's on the way.
+L140190 +++$+++ u4576 +++$+++ m302 +++$+++ COP #1 +++$+++ You still carrying passengers?
+L140189 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Comin' over Coldwater.  Goddamn deer jumps out in front of me.  You believe that?
+L140188 +++$+++ u4576 +++$+++ m302 +++$+++ COP #1 +++$+++ A deer?
+L140184 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yes.
+L140183 +++$+++ u4576 +++$+++ m302 +++$+++ COP #1 +++$+++ This your current address?
+L140359 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Then let's have it.
+L140358 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ I know the answer.  I know all there is to know about Louis.
+L140357 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ It's simple.  What was your pal Louis' first musical instrument?
+L140356 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ Lay it on me.
+L140355 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Of course.
+L140354 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ One more thing.  If by some chance I get this wrong...tell Dmitri I'm sorry.
+L140351 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I never lie.  Ask Max.  Max, have I lied yet?
+L140350 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ How do I know you'll keep your word?
+L140349 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Jazz question.  What other kind is there?  You get it right, we roll with it.  You disappear.  Tonight.  You don't go home, you don't pack a bag, you just leave town...and nobody, I mean nobody, ever hears from you or sees you again.
+L140348 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ What kind of question?
+L140343 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I am a nice guy, Daniel.  With a job to do.  You know how it is.
+L140342 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ And here I was thinking you were such a nice guy.
+L140341 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ 'Fraid so.
+L140340 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ You know Dmitri?
+L140338 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ The crowd was most kind.  I was born in 1945, but my life began the night of July 22, 1964.  That was the moment of my conception.  Right here in this very room.
+L140337 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ The crowd had to dig it.
+L140336 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ Most vividly.  "St. Louis Blues," "Potato Head Blues," "Sleepy Time Down South..."  ...then Pops laid some "Cornet Chop Suey" on me, and left me in the dust like a whipped dog.
+L140335 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Remember what you played?
+L140332 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Unbelievable...  ...you hearing this?  Unbelievable.
+L140331 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ Fella owned this place back then, Dix Dwyer, he let slip to Louis that I played.  So Pops, he just waves me right up.  My heart about stopped. But I got up there all the same, and we played for nearly twenty minutes.
+L140330 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Get outta here!  You and Louis?
+L140329 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ Oh, my, yes.
+L140328 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ No.
+L140327 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ Did better'n that.
+L140326 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You heard Armstrong play live.  I've never been this jealous.  You get to talk to him?
+L140325 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ Like Winton Marsalis says, it was pure, spiritual essence.  Louis was playing.  God was smiling.
+L140324 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Was it great?  Better than great, it had to be...
+L140323 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ He'd come over from Queens to do the Ed Sullivan show.  After, he decides to come on up to Harlem and hang with the common folk.  That's how he was, you see.  Never forgot where he came from.  Money and fame an' all that?  Meant nothin', long as he could blow that horn.  So before you it, he's up on that stage, doin' his thing.
+L140322 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Jesus...
+L140321 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ Right through those doors.  The man himself.
+L140320 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You're kidding me.
+L140319 +++$+++ u4577 +++$+++ m302 +++$+++ DANIEL +++$+++ ...I was just a young cat back then, about nineteen, bussin' tables in this very place.  Didn't pay but shit, but that wasn't the point.  Being around the music, that was the thing.  And I was.  Take this one night...July 22, 1964...who walks in?  Mr. Louis Armstrong.
+L140576 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ By the way.  Daniel said he was sorry.
+L140575 +++$+++ u4578 +++$+++ m302 +++$+++ DMITRI +++$+++ Very generous.
+L140574 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Hell, make it fifty.  Same goes for any business we have in the future.
+L140573 +++$+++ u4578 +++$+++ m302 +++$+++ DMITRI +++$+++ Twenty five?
+L140572 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ As a token of my appreciation for your understanding in this matter, I'd like to offer you a discount for my services tonight.  Twenty five percent.
+L140571 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Wouldn't dream of it.
+L140570 +++$+++ u4578 +++$+++ m302 +++$+++ DMITRI +++$+++ Vincent.  Do not cross me.
+L140563 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ In fifteen years, I have never left a customer unsatisfied.
+L140562 +++$+++ u4578 +++$+++ m302 +++$+++ DMITRI +++$+++ Can you finish on schedule?
+L140561 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ The fat man on Cherry Street.  The other fat man, Mr. Bulldozer.  The trumpet player.  That leaves two.
+L140560 +++$+++ u4578 +++$+++ m302 +++$+++ DMITRI +++$+++ Tell me.  Has Black Peter already crossed off a few bad children?
+L140559 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You think I wanted to come here tonight?  You think I'm that stupid? Sometimes shit happens, you gotta roll with it.
+L140558 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You tell me.  I had to toss the list in the river.  I was protecting your sorry, long-winded ass.  So why don't you show a little courtesy?
+L140557 +++$+++ u4578 +++$+++ m302 +++$+++ DMITRI +++$+++ Federal?
+L140556 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I picked up a tail.
+L140555 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I said.  Get the gun.  Out.  Of my fucking <u>face.</u> Before I wrap it in a blintz and feed it to you.
+L140554 +++$+++ u4578 +++$+++ m302 +++$+++ DMITRI +++$+++ What?  What did you say?
+L140553 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I think...  ...I think you should get this gun out of my fucking face.
+L140552 +++$+++ u4578 +++$+++ m302 +++$+++ DMITRI +++$+++ What?
+L140551 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I think...
+L140550 +++$+++ u4578 +++$+++ m302 +++$+++ DMITRI +++$+++ Tell me Vincent.  Tell me what you think.
+L140548 +++$+++ u4578 +++$+++ m302 +++$+++ DMITRI +++$+++ Neither do I.  But my children, they're still young.  Do you know who they like even more than jolly old Saint Nicholas?  His helper, Black Peter. An old Russian fairy tale tells of how Santa got so busy looking after all the good kids, he had to hire a helper to punish all the bad kids.  That was Black Peter's job.  He was given the list of all the bad children, and he would visit them in their homes late at night.  And if he caught them not saying their prayers, he would leave a bundle of wooden switches outside their door.  That was a warning.  If they continued to misbehave, he would swoop down and take the children away. And they would never be seen again.
+L140547 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Can't say that I do.
+L140546 +++$+++ u4578 +++$+++ m302 +++$+++ DMITRI +++$+++ Tell me, Vincent.  Do you believe in Santa Claus?
+L140545 +++$+++ u4578 +++$+++ m302 +++$+++ DMITRI +++$+++ Sorry?
+L140544 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'm sorry.
+L140543 +++$+++ u4578 +++$+++ m302 +++$+++ DMITRI +++$+++ I see.  That was an important list, wouldn't you say?  The people on that list are being subpoenaed tomorrow by a federal judge.  And you "lost" it?
+L140597 +++$+++ u4586 +++$+++ m302 +++$+++ PEDROSA +++$+++ Take him down.  Save Richard Yip, our witness...
+L140596 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ What are you gonna do?
+L140593 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ I don't know...
+L140592 +++$+++ u4586 +++$+++ m302 +++$+++ PEDROSA +++$+++ Lemme tell you something.  Vincent and a few other guys like him are fucking ghosts.  Nobody even know what he looked like until now...
+L140590 +++$+++ u4586 +++$+++ m302 +++$+++ PEDROSA +++$+++ No.  Your cabbie is floating down a storm drain or stuffed in the trunk of a cab.
+L140589 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ ...so, his description of Max the cabdriver matches the guy who walked out of Villa Rodeo.  That guy?  That guy is a cabbie.  And you're telling me this cabbie walks into a phone booth and emerges as a meat eater, assassin with heavy trigger time? What's he do, squeeze 'em in between fares?
+L140588 +++$+++ u4586 +++$+++ m302 +++$+++ PEDROSA +++$+++ So?
+L140587 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ ...got off the phone with his dispatcher.  What an asshole. Cabbie's name is Max Rilke, been driving that cab for ten years...
+L140581 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ Can you fax me his picture?  His license or something?  What do you mean you don't have that there?  Anybody else in the cab?
+L140580 +++$+++ u4586 +++$+++ m302 +++$+++ PEDROSA +++$+++ Advance team, two men, stick to that goddamn cab, stay in radio contact, the rest of us follow in the van. Nobody moves until the entire team's in place...
+L140565 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ ...Petrov and Cicerno for sure...
+L140564 +++$+++ u4586 +++$+++ m302 +++$+++ PEDROSA +++$+++ ...goddamn it, you telling me this motherfucker's whacked three of our witnesses tonight...
+L140530 +++$+++ u4586 +++$+++ m302 +++$+++ PEDROSA +++$+++ Pretty quiet down there.  A cab just pulled up, aside from that...
+L140529 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ Something going on?
+L140601 +++$+++ u4585 +++$+++ m302 +++$+++ MULDOON +++$+++ This isn't our goddamn game!
+L140600 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ ...if they're wrong?!
+L140599 +++$+++ u4585 +++$+++ m302 +++$+++ MULDOON +++$+++ Not our call, Phil.
+L140598 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ What if they're wrong?
+L140525 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ Detective Sergeant Phil Heller.
+L140524 +++$+++ u4585 +++$+++ m302 +++$+++ MULDOON +++$+++ Captain Walt Muldoon, NYPD.
+L140467 +++$+++ u4585 +++$+++ m302 +++$+++ MULDOON +++$+++ Pick me up in five minutes.
+L140466 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ Something big's going down, and I'm betting the Feds don't know about it. You gotta get us in there.
+L140465 +++$+++ u4585 +++$+++ m302 +++$+++ MULDOON +++$+++ Jesus.  Two in one night?
+L140464 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ Joey Cicerno.  Dear friend and associate of my missing snitch, Ivan Petrov.  Both of whom were in bed with Dmitri.
+L140463 +++$+++ u4585 +++$+++ m302 +++$+++ MULDOON +++$+++ Elvis?
+L140462 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ ...yeah, I'm still at Bellevue.  The John Doe didn't pan out, but you'll never guess who's lying up in the meat locker.
+L140306 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ Cabbie had no criminal record, no history of mental illness.  Suddenly, he just wigs out and pops three people, then himself?  Plus the victims weren't random solid citizens. They were all lowlives.  Wiseguys.  I've always wondered if there was someone else in the cab.
+L140305 +++$+++ u4585 +++$+++ m302 +++$+++ MULDOON +++$+++ Oh?
+L140304 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ I never bought that.
+L140303 +++$+++ u4585 +++$+++ m302 +++$+++ MULDOON +++$+++ So?  It was a random thing.
+L140302 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ They found him dead in his own cab down by the Port Authority.
+L140301 +++$+++ u4585 +++$+++ m302 +++$+++ MULDOON +++$+++ Oh, right.  The guy flipped out or something?  Killed some people, then put a gun to his own head?
+L140300 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ Cabbie drove around all night.  Three people got killed.
+L140299 +++$+++ u4585 +++$+++ m302 +++$+++ MULDOON +++$+++ What thing?
+L140298 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ Remember that thing a few years back? That thing with the cab?
+L140290 +++$+++ u4585 +++$+++ m302 +++$+++ MULDOON +++$+++ He could'a been depressed.  It still doesn't tell me homicide.
+L140289 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ There was a car here, you can see where the glass came down all around it.  Ivan flew out the window and went bam.
+L140285 +++$+++ u4585 +++$+++ m302 +++$+++ MULDOON +++$+++ What homicide?  Phil.  Where's a body? Look.  All we got is glass...
+L140284 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ Oh, we working for the Feds now?  If my snitch flew out a window, he's got Dmitri's handprints on his ass. That makes it homicide, that makes it ours.
+L140283 +++$+++ u4585 +++$+++ m302 +++$+++ MULDOON +++$+++ Dmitri <u>Gusunov?</u> What the fuck, why? Forget about Dimitri, Feds are all over him.  They're a heartbeat away from taking him down.  Word's gone out, they don't want us anywhere near him...
+L140282 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ Months now.  He's been feeding me information on Dmitri.
+L140281 +++$+++ u4585 +++$+++ m302 +++$+++ MULDOON +++$+++ You guys been holding hands?
+L140280 +++$+++ u4579 +++$+++ m302 +++$+++ HELLER +++$+++ Ivan Petrov.  Supposed to meet me for dinner, never shows up.  I come here, find this.
+L140279 +++$+++ u4585 +++$+++ m302 +++$+++ MULDOON +++$+++ ...this snitch of yours, what's his name, Ivan?
+L140444 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Of course!
+L140443 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ Try?
+L140442 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I'm in town for a short time.
+L140439 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Vincent...
+L140438 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ What's your name?
+L140437 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Quite an achievement...
+L140433 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ Of course I'm proud.  You know he started with nothing?  Look at him today.  Playing concerts.
+L140432 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I'm sure you're very proud of Max.
+L140427 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ Max never had many friends.  So much with the piano.  Always keeping to himself, it's unhealthy...
+L140426 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Client?  I like to think of myself as more of a friend.  A mentor.
+L140424 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Tell me about it.
+L140423 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ Tell my son.  You have to hold a gun to his head to get him to come see me.
+L140422 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ It's nothing.
+L140421 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ And you came all the way down here to see me?
+L140420 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I was with Max when he got the call.
+L140419 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ Oh, call me Ida.  To what do we owe the pleasure?
+L140418 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Happy to meet you, Mrs. Rilke.
+L140415 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ No harm done, ma'am.
+L140414 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ Why didn't you tell me we had company?  And what's your name?
+L140441 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ Vincent.  It was nice to meet you. Visit again?
+L140440 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I came to see you, you look fine.  We gotta go.
+L140431 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ Yesss, you are.  He's artistic.
+L140430 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'm standing right here.
+L140429 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ What's he sayin'?
+L140428 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'm...in...the...room, here.  Don't talk about me like I'm not in the room.
+L140417 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Mom, Vincent.  Vincent, my mother, Ida Rilke.
+L140416 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ You paid for my flowers?  They're beautiful.  Max, you gonna introduce us?
+L140413 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ He paid for 'em.
+L140412 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ By worrying about you spending money on foolish things?  So I can watch them wilt?
+L140411 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You're gonna cheer up.
+L140410 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ What am I gonna do with flowers?
+L140409 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I brought you flowers.
+L140408 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ You couldn't pick up a phone?  I'm lying here, wondering if something horrible happened...
+L140407 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I got caught up at work.
+L140406 +++$+++ u4580 +++$+++ m302 +++$+++ IDA +++$+++ I've been calling and calling.
+L140405 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Hi, Ma.
+L140259 +++$+++ u4581 +++$+++ m302 +++$+++ KID #1 +++$+++ ...show me the wallet, man, get your ass up, <u>up</u>...
+L140258 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ ...oh God, don't shoot me...
+L140257 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ <u>My hands are taped to the fucking </u> <u>steering wheel!</u>
+L140256 +++$+++ u4581 +++$+++ m302 +++$+++ KID #1 +++$+++ I'll fuck you up, you don't hand it over.
+L140255 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You're kidding me.
+L140251 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I got my, my hands taped to the steering wheel here, there's this guy, he taped me in the car, he's back there somewhere.
+L140250 +++$+++ u4581 +++$+++ m302 +++$+++ KID #1 +++$+++ Yo, whassup?
+L140249 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Oh.  Oh, thank God, hey!  Hey, guys, hey, help me out here!
+L140384 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Hang on.  Carefully...
+L140383 +++$+++ u4582 +++$+++ m302 +++$+++ LENNY +++$+++ Nothin'!  Aside from Max's mother driving me crazy, I'm dancin' on a rainbow!  Get him on the line, please.
+L140382 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ We're gay lovers, what's it to you?
+L140381 +++$+++ u4582 +++$+++ m302 +++$+++ LENNY +++$+++ What are you guys, taking an all-night tour?
+L140380 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Same fare you talked to last time. The U.S. Attorney...
+L140379 +++$+++ u4582 +++$+++ m302 +++$+++ LENNY +++$+++ Who is this?
+L140378 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You hassling my driver again?
+L140377 +++$+++ u4582 +++$+++ m302 +++$+++ LENNY +++$+++ Maaaaaax!
+L140376 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Jesus, what is with this guy?
+L140375 +++$+++ u4582 +++$+++ m302 +++$+++ LENNY +++$+++ Max?  Maaax.  Pick up, dipshit.
+L140240 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Tell it to Max.  Tell him he's an asshole.
+L140239 +++$+++ u4582 +++$+++ m302 +++$+++ LENNY +++$+++ I was just tryin' to...to...
+L140238 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ How am I supposed to not get excited, listening to you trying to extort your employee, you sarcastic prick?
+L140237 +++$+++ u4582 +++$+++ m302 +++$+++ LENNY +++$+++ Let's not get excited, sir.
+L140236 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Vincent <u>Farrell</u>, Assistant U.S. Attorney.  A passenger in this taxicab, and I'm reporting you to the DMV...
+L140235 +++$+++ u4582 +++$+++ m302 +++$+++ LENNY +++$+++ Who the hell is this?
+L140234 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ He's not paying you one cent!
+L140215 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ What happens if you don't?
+L140214 +++$+++ u4582 +++$+++ m302 +++$+++ LENNY +++$+++ I know you're out there!  Answer the goddamn call!
+L140386 +++$+++ u4582 +++$+++ m302 +++$+++ LENNY +++$+++ Where you been the last two hours? Your mother's been calling every ten minutes whining about how you didn't show up.
+L140385 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yeah?
+L140224 +++$+++ u4582 +++$+++ m302 +++$+++ LENNY +++$+++ I give a shit whose fault it was, you're payin'!
+L140223 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ It got crashed!  I didn't...
+L140222 +++$+++ u4582 +++$+++ m302 +++$+++ LENNY +++$+++ <u>So?</u> Aside from I hate talking to cops, they tell me you crashed the shit out of it.
+L140221 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yeah?  So?
+L140220 +++$+++ u4582 +++$+++ m302 +++$+++ LENNY +++$+++ I just got off the phone with the cops.  They called to check you brought the cab in...
+L140219 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Uh, yeah?  Lenny?  It's me.
+L140217 +++$+++ u4582 +++$+++ m302 +++$+++ LENNY +++$+++ Max!  Dammit!  <u>Answer!</u>
+L140216 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ He'll keep calling.
+L139962 +++$+++ u4588 +++$+++ m302 +++$+++ WOMAN +++$+++ ...well, last I checked, you were <u>sleeping</u> with me, so unless you wanna start fucking the guy soon, I'd suggest an attitude shift...
+L139961 +++$+++ u4583 +++$+++ m302 +++$+++ MAN +++$+++ ...what do you want me to do, punch him out?  I have to work with him...
+L139960 +++$+++ u4588 +++$+++ m302 +++$+++ WOMAN +++$+++ ...oh, bullshit!  He was intruding on my space, he was demeaning me personally, he was patronizing...
+L139959 +++$+++ u4583 +++$+++ m302 +++$+++ MAN +++$+++ ...I'm sorry, I don't see it that way...
+L139958 +++$+++ u4588 +++$+++ m302 +++$+++ WOMAN +++$+++ ...everything is not about me, don't make me the villain here.  That asshole was out of line, and you goddamn well know it...
+L139957 +++$+++ u4583 +++$+++ m302 +++$+++ MAN +++$+++ ...why is everything always about you...
+L140733 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Let her go.
+L140732 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Max?
+L140684 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Was your seatbelt fastened, honey?
+L140683 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Well.  That was brilliant.
+L140681 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Vincent?
+L140680 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Slow down!
+L140679 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ What are you gonna do, pull the trigger?  Kill us?  Go ahead, man! <u>Shoot</u>...my ass.
+L140678 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Slow the hell down!
+L140675 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ But you know what?  Nothing matters, anyway.  We are insignificant out here in the big nowhere, say the badass sociopath in my backseat.  Right? Yeah.  That's one thing I've got to thank you for, bro.  And I never saw it that way...
+L140674 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You're going too fast.
+L140673 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I should have done that.  Fixed it and more.  Get out from under what I been under...
+L140672 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Slow down.
+L140671 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ 'Cause I never got it straightened up; made the push, made the moves...
+L140669 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ ...pie in the sky?  "Someday my dream'll come..."  But one night you'll wake up and realize suddenly you're old.  It hasn't happened.  It never will.  Life just flipped on you.  Tomorrow became yesterday.  Then you'll bullshit yourself it was never gonna happen, anyway, and push it back in memory...and anesthetize yourself in a Barcalounger with daytime TV for the rest of your life...  Don't talk to me about murder.  You're <u>do-in</u>' yourself...in this yellow prison with steel-belted radials. Clocking in and out everyday...
+L140668 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ None of your business.
+L140667 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Look in the mirror.  ...piss-ant paper towels...a bottle of 409...saving up for goin' to the Comoros.  How much you got saved?
+L140666 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Answer the question.
+L140665 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ ...all the cabbies in LA, I pull Max, the man with X-ray vision...
+L140664 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Man, if someone had a gun to your head and said:  "You gotta tell me what's goin' on with that person over there or I'll kill you"...they'd have to kill you...  'Cause you don't have a clue for...or about...anyone...  To be like that, I don't think you, you have any of that for your own life...  Do you believe you're entitled or at least expect to draw breath in the a.m.?  Open your eyes in the morning?  I don't think you do...I don't think so...  I think you are way <u>low</u>...like in your estimation.  In your estimation of yourself.  So how'd you get that way...?
+L140663 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ As in...? 
+L140662 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ What happened to you?
+L140661 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Get with it.  Get over it. ...millions of galaxies of hundreds of millions of stars and a speck on one in a blink...that's us.  Lost in space.  The universe doesn't care.  The cop, you, me?  Who notices?
+L140660 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ ...indifferent.
+L140659 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Then what are you?
+L140658 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ That's the "why."  That's the why? There is no reason.  No good reason; no bad reason.  To live or to die.
+L140657 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ That's the reason?
+L140656 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ How do I know?  But, they all got that "witnesses for the prosecution" look to me.  Probably some major federal indictment against somebody who majorly does not want to get indicted...  I dunno.
+L140655 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ What'd they do?
+L140654 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ And you believe me...?
+L140653 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ That's what you said...
+L140652 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ <u>I'm</u> full of shit?  You're a monument of bullshit.  You even bullshitted yourself all I am, is taking out the garbage.  Bad guys killing bad guys...
+L140651 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You're full of shit.
+L140650 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You're too good.  We're in this together.  Fates intertwined.  Cosmic coincidence and all that crap...
+L140649 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Whyn't you kill me and find another cab.
+L140648 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ There you go...!
+L140647 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ One more.
+L140646 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ How are you at math?  I was hired for five hits.  I did four.
+L140645 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ What's at Union Station?
+L140644 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Head towards Union Station.
+L140643 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Some living.
+L140642 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ It's what I do for a living.
+L140641 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yeah, so, what's wrong with that?
+L140640 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Yeah, that.
+L140639 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ No, not just that.
+L140638 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I shoulda saved him 'cause he <u>believed</u> you?
+L140637 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ That cop!  Why'd you have to do that?  You couldn't wound him?  The guy had a family, maybe, parents, kids who gotta grow up without a dad, he was probably a good guy; and he believed me...
+L140636 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Who's Heller?
+L140635 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You had to kill Heller?!
+L140634 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Good.  Blood, urine and death get to you? Try deep breathing.  Or remember we all die anyway...
+L140611 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ It's not what you owe <u>me.</u> Time is so fleeting.  One day it's gone.  You make it out of this alive, Max, you really should call her.  That's what I think.
+L140610 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I only owe you a ride, Vincent.
+L140609 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ What holds you back, Max?  Tell me. Why does life scare you so much?
+L140608 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I don't know.
+L140607 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Your lady friend.  The one who gave you her business card.  Think she was just being polite?
+L140606 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Who?
+L140605 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Would you have called her?
+L140586 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You do impress me, Max.  That you do.
+L140585 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Tribeca, near the waterfront, northeast corner.  Twelve minutes.
+L140584 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Washington and Holt.  Dance club called "Fever." Know it?
+L140583 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Makes two of us.
+L140582 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Damn, Max.  I'm impressed.  Really.  I would have bet good money you wouldn't walk out of there.
+L140518 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You tell me to start a union, I'm blowing your head off.  Quit stalling and get out of the cab.
+L140517 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Paid sick leave?
+L140516 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ No.
+L140515 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You get benefits?
+L140514 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Fifteen years, although I prefer the term "assassin."
+L140513 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ In case he asks.
+L140512 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Why?
+L140511 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ How long have you been a hit man?
+L140510 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ We've both run out of options.  If it helps, take comfort in knowing you never had a choice.
+L140509 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Vincent.  Don't make me do this. Don't make me get people killed.
+L140508 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ That's jazz, my friend.  You said it yourself.  So don't tell me you don't know how to play between the notes.
+L140507 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I...I wasn't thinking.  I just did it.
+L140506 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Max.  You threw my briefcase in the river.  You've got balls bigger than Toledo.
+L140505 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ No.  No way.  I can't do this.
+L140504 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ When he finds out you tossed his list? I would.
+L140503 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ He's gonna <u>shoot</u> me?
+L140502 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ No client has ever seen my face, and I intend to keep it that way.  Besides, if he decides to put a bullet in my head, I don't wanna be there for it.
+L140501 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Why me?  Why don't <u>you</u> do it?
+L140500 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You're gonna be me.  You're gonna go in, and you're gonna get the info on the remaining two hits.
+L140499 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I don't get it.
+L140498 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ The man who hired me for this contract.
+L140497 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Dmitri?
+L140496 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Our friends in Little Russia.  Go in and ask for a man named Dmitri.
+L140495 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ In case <u>who</u> checks?
+L140494 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I'll just hold onto it for you.  In case they check.
+L140493 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Why?
+L140492 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Gimme your wallet.
+L140490 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Good excuse.  How many others you got?
+L140489 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Doesn't cover everything.
+L140488 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ What, no insurance?
+L140487 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ See, I've got bills.  My mother's been dying of the same disease since I was a kid.
+L140486 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Well, this big stake's got to be big by now.  When you leaving?
+L140485 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I told you I don't like to talk about it.
+L140484 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Yeah?  Like what?  Limos?
+L140483 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I've always been good.  Ever since I started.  Gave up piano.  Easy money. I'm putting a stake together, get something started.  Go figure it all out...
+L140482 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ What do <u>you</u> call it?  Ten years doesn't sound temporary to me.  I should have known it was bullshit, you're too good at what you do.
+L140481 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ It's not bullshit.
+L140480 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Don't be.  I never saw him after I was 15.  Went into the military early.  So all this talk about "my job's temporary, I got big plans," it's all bullshit.
+L140479 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'm sorry.
+L140478 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I killed him.  When I was 15.  He was my first.  Nah, wishful thinking.  Liver cancer.
+L140477 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ What happened?
+L140476 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ He hated everything I did.  Hated me. Got drunk and beat the shit out of me, daily...
+L140475 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yeah?  What happened?
+L140474 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ It's cause they don't like their lives, so they project their patterns of negative behavior onto you...  I had a father like that.
+L140473 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Fuck!  Nothing's ever goddamn good enough!  It's always been that way.
+L140472 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Maybe so.  Maybe she hears what you tell her.
+L140471 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ She hears what she wants to hear, okay?
+L140470 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Hey, I'm not the one who's been lying to my mother.
+L140469 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Don't start.
+L140468 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Limos, huh?
+L140454 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Jazz.
+L140453 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ What the fuck was <u>that?</u>
+L140446 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You'd do her a favor.
+L140445 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You take one more step, I'll kill her.
+L140435 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Oh, I'm captivated.
+L140434 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Mom, Vincent's not interested.
+L140395 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ There's no way I'm taking you to see my mother!
+L140394 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Guy with a routine goes and breaks it? Provokes attention.  That's bad.  And that's not good...
+L140393 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ What difference does it make?
+L140392 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You go every night?
+L140391 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ She's in the hospital.
+L140390 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Show up for <u>what?</u>
+L140388 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Tell her I can't see her tonight, okay?
+L140387 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Show up for what?
+L140374 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Sure?  Like you didn't play him? String him along?  If he had gotten the answer right, would you have let him go?
+L140373 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Teach him how to talk back, suddenly he can't stop.  I'm not playing.
+L140372 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'm collateral anyway, so just fucking do it and stop making me a part of this!
+L140371 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Pull your head out of your ass.  Get your thinking straight.  You wanna die?
+L140370 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ <u>I don't wanna know you!</u>
+L140369 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Don't even think you're walking away from me.
+L140368 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Leave me alone.
+L140367 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Max?  What are you doing?
+L140366 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'm done.  Find another cab.
+L140365 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ What you mean, no?
+L140364 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ No.
+L140363 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Let's go.
+L140347 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Jazz?  That's funny, coming from you.  Okay, some jazz for the jazz man. How's this?  I'll ask a question.
+L140346 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You're the one who keeps talking about going with the flow.  You like the man, you like the way he plays.  How about a little jazz, huh?
+L140345 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You mind?  I'm working here.
+L140344 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Let him go, Vincent.
+L140313 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ That's the point.  You play <u>between</u> the notes, you dance <u>around</u> the structure, you improvise.  Some people know where they're going to be ten years from now.  Same job, same neighbors, same shit over and over.  That's not living.  That's dying a little every day.  Not me, pal.  It's not knowing what's around the corner that makes like worth living.  That's jazz.  That guy up there, he knows what I'm talking about.  Hell, it's the same thing <u>he's</u> talking about, if you just open your ears.  You can hear it in the conversation he's having with that trumpet...
+L140312 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'm not catching a melody.
+L140311 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Damn right.  Instinct, man.  If you think too much, it doesn't work.  Just listen...
+L140310 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ That what we're doing?  Flowing?
+L140309 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ God, are you always this prosaic?  You don't learn jazz, it's not something you're <u>taught.</u> It's like breathing, like life.  Like us, tonight, taking what comes and going with the flow.
+L140308 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I never learned jazz.
+L140307 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ ...see now, this has got a little post- war flavor, a little Miles thing happening.  Awesome.  What do you think?
+L140278 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Friend of mine told me about this great place in South Central.  Says it's like the birthplace of West Coast bebop.  Bird.  Dexter Gordon. Thelonious Monk.  Chet Baker.  I'll buy you a drink.  Expand your horizons...
+L140277 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I listen to classical.
+L140276 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Jazz.  Music.
+L140275 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'm...what?  Sorry?
+L140274 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ But, hey, some good news.  This last one put me way ahead of schedule. We've actually got some time to kill.  Jazz?  You like jazz?
+L140272 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Am I collateral?
+L140271 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Yes, Max?
+L140270 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Vincent?
+L140269 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ People in the wrong place at the wrong time.  Draws attention, which is something you avoid in my line of work.  And for <u>you?</u> You attract attention, you're gonna get people killed who don't need to be.
+L140268 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I don't understand...
+L140267 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Collateral damage.
+L140266 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ What?
+L140265 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Another collateral.
+L140263 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yeah.
+L140262 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I had no idea these cabs came equipped with emergency strobes.  Where's the button?  Under the dash?
+L140243 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Next time you pull any shit, I'm gonna kick your fat ass.
+L140242 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Tell him next time he pulls any shit, you're gonna kick his fat ass.
+L140241 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Lenny?  You're an asshole.
+L140232 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ No you don't.
+L140231 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I need the job.
+L140230 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ So what?
+L140229 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I can't do that.  He's the Man.  He'll fire my ass.
+L140228 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Don't take that.  Tell him to shut the fuck up.
+L140226 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ It was an accident.  I'm not liable.
+L140225 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ It was an accident.  You're not liable.  Tell him.
+L140213 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Lenny, my dispatcher.
+L140212 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Who's that?
+L140209 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Because I have a gun and I say so.
+L140208 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Why?
+L140207 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Hands on the wheel.  Ten and two o'clock, like they taught you in driver's ed.
+L140180 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'll deal with it.  I will, I will...
+L140179 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ That one's probably married.  Think of his kids.  His wife's pregnant...
+L140178 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Good luck.  You think they got families?
+L140177 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'll talk to them, I'll talk to them.
+L140176 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Believe it.
+L140175 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I can't believe this.
+L140174 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Then don't let me get cornered, Max. You don't have the trunk space.
+L140173 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Please.  Don't do anything.
+L140172 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You're a cabby.  Like talk yourself out of a ticket?
+L140171 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ How?
+L140170 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Get rid of 'em.
+L140169 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Yeah, like that...  But, anyway, nobody gets out of this alive.  Even if we quit smoking and cut out red meat.  Everybody dies.
+L140168 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Oh, it's okay, then.  'Cause you're just taking out the garbage...
+L140167 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You don't know the guy in the trunk, either.  If it makes you feel better, he was a villain involved in a Continuing Criminal Enterprise.
+L140166 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I don't know any Rwandans.
+L140165 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Tens of thousands killed before sundown.  Nobody's killed that fast since Hiroshima and Nagasaki.  Did you bat an eye, Max?  Join Amnesty International?  No.  I off one Angeleno, you throw a hissy fit...
+L140164 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Rwanda-Burundi.  Central Africa.
+L140163 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ What do you care?  Ever hear of Rwanda?
+L140162 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Who was he?
+L140161 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I should only kill people after I get to know 'em?  Six billion people on the planet, you're getting bent out of shape 'cause of one fat guy?
+L140160 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ How can you kill him like that?
+L140159 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Nothing.  I only met him the one time.
+L140158 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ What'd he do to you?
+L140157 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I didn't throw him, he fell.
+L140156 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I Ching?  You threw a man out a window!
+L140155 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Chopin prelude.  Stodgy, but nice.  Here's the deal.  I didn't want you involved in this.  Still breathing? But now that you are, we have to make the best of it, Max.  Improvise.  Life is that way.  Adapt to your environment.  Survive.  Darwin.  "Shit happens."  The I Ching.  Whatever. Roll with it.
+L140154 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Play music.
+L140153 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Music.
+L140152 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ What else calms you down?  Candy? Cigarettes?  Sex?  Breathe.
+L140151 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yes.
+L140150 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Are you breathing?
+L140148 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You don't understand.  I mean it. Really.  I'm not up for this...
+L140147 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Tonight it is.
+L140146 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Listen.  I'm not trying to piss you off, see?  Okay?  I can't drive you around so you can murder folks.
+L140145 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ They're <u>somebody's</u> friends...  You drive a cab.  I kill people.  We both do our jobs right, you might survive the night and come out four hundred bucks ahead.
+L140144 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You said you were visiting friends!
+L140143 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I told you we had other stops to make tonight.
+L140142 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Oh.  Oh, no.  You're kidding.  We...
+L140140 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ How long, you figure?
+L140139 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ South Central.
+L140138 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ 58th and Central.  You know it?
+L140134 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ So?
+L140133 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ It's a mess.
+L140132 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ What are you doing?
+L140131 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I think so.
+L140130 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You better?
+L140129 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Adrenaline's wearing off.  You get shaky after.  It's not uncommon.  Deep breathing helps.
+L140128 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ What?
+L140127 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Try some deep breathing.
+L140124 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Okay, try it now.
+L140123 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I'm making <u>you</u> nervous.  I'm the one with a schedule.
+L140122 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ The thingy next to it has nothing to do with the starter motor...
+L140121 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ How about the thingy next to it?
+L140120 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I tried it.
+L140119 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ What about that?
+L140118 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ It's not me, it's the engine!  A fat guy fell on it from six floors up!
+L140117 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Two...
+L140116 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Try harder.  I'm gonna count to three. One...
+L140115 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yes!  I'm trying, I swear!
+L140114 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You listening to me?
+L140112 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ It's not me.
+L140111 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Max.
+L140110 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'm trying...
+L140109 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Max.  May we leave the scene of the crime now, please.
+L140107 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ ...and you promise you'll never tell anybody about this, right?  Get in the fucking car.
+L140106 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Uh, look...why don't you just take the car...
+L140103 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ It's a spasm!  Jesus, Max, don't be such a girl...
+L140102 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ His hand moved!  His goddamn hand twitched!
+L140101 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ What?
+L140100 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yeah.
+L140099 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Got it?
+L140098 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ It's just a dead guy.  On three, ready?  Uno.  Dos.  Three.
+L140097 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I don't think I can do this.
+L140096 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I'm gonna roll him off the hood. Always lift with your legs...
+L140095 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Did I stutter?  The trunk.  Unless you want him riding up front with you...but given hygiene and his sphincters have let go...
+L140094 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ The trunk?
+L140093 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You were going to drive me around. Drop me at LAX.  Never be the wiser. But El Gordo missed the elevator.  So we go to Plan B.  Pop the trunk.
+L140092 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ With what?
+L140091 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Good.  Help me out here.
+L140090 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'm cool.
+L140089 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ No.  You say you're cool.
+L140088 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You're cool.
+L140087 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You cool, Max?  Say "I'm cool."
+L140084 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ No-no, I-I shot him.  The bullets and the fall killed him.
+L140083 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You - you killed him?
+L140082 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ No shit.  Since he has two .45s double- tapped through the sternum and fell six floors onto his head...
+L140081 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I think he's dead.
+L140080 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yeah, yeah.  Shit, man.  Guy fell on my motherfucking cab.
+L140079 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You always stutter?
+L140078 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ He fell on my cab!  From up th-th-there.
+L140075 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Max?  I'm Vincent.
+L140074 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Max.
+L140073 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ We have a deal.  What's your name?
+L140071 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I'll make it an even five hundred. Plus an extra hundred if you get me to LAX on time.
+L140070 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Two, two-fifty.
+L140069 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Regulations?  These guys don't even give you sick leave.  How much you pull down on a good night?
+L140068 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'm not a hire car.  It's against regs?
+L140067 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Bullshit.  You probably know the light schedules, too.  Listen, I'm in town tonight on a closing.  Five stops, one night.  I gotta catch a six a.m. flight.  I got five stops to make, see some friends, collect some signatures.  Why don't you hang with me?
+L140066 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yeah.  Lucky with the lights.
+L140065 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Twenty-four minutes!  Man, you're hot...
+L140064 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ None taken.  There are talkers and doers.  I like doers.
+L140063 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I don't talk about it, you know...  No offense.
+L140062 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Like what?
+L140061 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Twelve years.  But I'm working on other stuff...
+L140060 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Oh?  How long you been doing this?
+L140059 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Last thing I need is a reason to keep hacking.  This job's a fill-in.
+L140058 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Why not?
+L140057 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Me, specifically?
+L140056 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You should start a union.
+L140055 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ It's not that kind of job.
+L140054 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Yeah.  Retirement?  Paid sick leave?
+L140053 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You mean like benefits?
+L140052 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You on some kind of work plan?
+L140051 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ People are more relaxed.  Less stress, less traffic, better tips.
+L140050 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You prefer nights?
+L140049 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yeah.  I share it with the dayshift guy.
+L140048 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You know, this is the cleanest cab I've ever been in.  This your regular ride?
+L140047 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I see your point.
+L140046 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You share it with over three million people every day.  You know that's the population of New Zealand?  What's Manhattan, thirteen miles long? That's a lot of misery crammed into thirteen miles.  Read about this one guy.  Gets on the subway and dies.  Six hours he's riding around before anybody notices. Think about that.  Here's this corpse doing laps around Manhattan courtesy of the New York transit system, people getting on and off, sitting next to him, and still nobody catches on. Three million.  That's too damn many people.
+L140045 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ It's home.
+L140044 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Third, but I still can't tell uptown from downtown.  Tell the truth, whenever I'm here, I can't wait to leave.  Place gets to me.  Too loud, too fast...too much.  You like it here?
+L140043 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ First time in New York?
+L140042 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ An apology.
+L140041 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Mind if I time you?  What do I get if you're wrong?  A free ride?
+L140040 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Two minutes to get on Broadway. They're doing some roadwork around the bridge.  Eleven to get downtown.  Four to the Lower East Side.  Six to clear the roadwork.  One minute margin for error.  My math says twenty-four.
+L140039 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Twenty-four?  Not twenty-five?  Or twenty-three?
+L140038 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Twenty-four minutes.
+L140037 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ How long you think this'll take?
+L140032 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yeah, yeah, sorry...
+L140031 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Uh, let's go to...  Hello...?
+L140030 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Oh.  Sorry.
+L140029 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Hello?

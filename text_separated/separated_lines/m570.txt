@@ -1,0 +1,734 @@
+L610256 +++$+++ u8407 +++$+++ m570 +++$+++ DRIVER +++$+++ Please, I beg of you.  The American army is there.  I am Iraqi.  They will kill me.
+L610255 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Turn the car around.
+L610254 +++$+++ u8407 +++$+++ m570 +++$+++ DRIVER +++$+++ This road, it leads straight to Kuwait.
+L610253 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What's in the other direction?
+L610252 +++$+++ u8407 +++$+++ m570 +++$+++ DRIVER +++$+++ Baghdad.
+L610251 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Where were you going?
+L610250 +++$+++ u8407 +++$+++ m570 +++$+++ DRIVER +++$+++ Y-yes.
+L610249 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You speak English?  DO YOU SPEAK ENGLISH!?
+L610201 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's like I said; you don't really know lieutenant John Epps very well, do you?
+L610200 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Looks like at the end of the day we finally find out who's better than who, don't we, Epps?  Like I said; I expected more from you.
+L610198 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ If I give it to you, will you let us go?
+L610197 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Give it to me!
+L610184 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ If I don't answer, he'll know something's up.
+L610183 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ So you can give us away?
+L610182 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I have to answer him.
+L610181 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Just keep quiet.
+L610177 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You don't know John Epps very well, do you?
+L610176 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ They'll kill you.  You won't make it ten feet before they cut you down.
+L610169 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ That's just what things came to. Sometimes you can't help that.  It doesn't change me respecting you.  And now you let me down.  I expected more from you, you know?  I really did.  I expected you to--
+L610168 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ That why you tried to put a bullet in my head in the middle of the desert.
+L610167 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You disappoint me, Epps.  Always figured you to be a man; a real bright guy.  I had respect for you.
+L610164 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Tell me something, Wes.  Are you crazy, greedy, or just stupid?  Jaeger says you're crazy.
+L610163 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Thanks for taking care of this for me.
+L610160 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Look, I know you guys are telling the truth.  It's just the Shi'ites don't know that.  I guess you could tell them...but then you don't speak the language do you?
+L610159 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Wes--
+L610158 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Sure, and I guess it was just convenient there was one less person to split the gold with.
+L610157 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Wes, we thought you were dead, and we thought we were next.  Hanging around to get killed wouldn't have done anyone any good.
+L610152 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We thought--
+L610151 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ In the flack jacket.  Still like getting hit in the back with a baseball bat. Took the air right out of me, but I was just unconscious for awhile.  'Course, you didn't stick around to find that out. You left me for dead.
+L610009 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Nothing about him, unless he's got a problem about me dealing with you.
+L610008 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What about Jaeger?
+L610007 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Then I suppose it'd be insurrection, and I suppose I'd have to kill you.  I suppose.
+L610006 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Suppose I don't go for that?
+L610005 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I'm the one's got the big stick.
+L610004 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ And let me guess who is.
+L610003 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Without that navicam looks to me like you forfeit the right to be in charge.
+L610002 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Lot of good you were when I was sinking in the sand.
+L610001 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ No navicom.  A lot of good you are now, Epps.
+L609978 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What if I do?
+L609977 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We been down this road.  I told you how it is.  Unless you feel like there's something you want to do about it...
+L609976 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ In the service you do, but we're not particularly in the service right now. Way I see it, what we're doing, that doesn't particularly give you the right to toss orders around.
+L609975 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I out rank you, that's why.
+L609974 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You've got an awful lot of orders in you. Always giving orders.
+L609961 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Get out of my way.
+L609960 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ No.
+L609959 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Then step aside.
+L609958 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's murder, and I won't be any part of it.
+L609957 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ It's a combat action.
+L609956 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I've got no stomach for murder.
+L609955 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I'm not going to leave him be just so he can stab us in the backs the minute we turn around.  I have been through too much to lose it all now just because the two of you don't have the stomach to do what has to be done.
+L609953 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ He tried to kill us.  If not just now, then in the helicopter.  That's all the authority I need.
+L609952 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We are not at war!  You and I and Jaeger are AWOL.  We have no authority--
+L609951 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ We're at war.
+L609950 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I'm not going to let you kill him.
+L609949 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ He's an enemy soldier.
+L609948 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You're out of your mind.
+L609944 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You don't know he isn't.
+L609943 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You don't know that.
+L609942 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ That's what he says.  He could be a spy, or something.
+L609941 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You said he was a deserter.
+L609940 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ We can't just leave him.  He'll run back to his outfit, report our position...
+L609938 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Doesn't matter.  Whatever he wanted he didn't get it.  We've got no need staying around here.  It's light enough.  Let's pack up and head out.
+L609937 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I don't care what he says, he wanted our gold.  Would have slit our throats if he had the chance.
+L609932 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ He...he could have been watching us.
+L609931 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ How's he going to want the gold?  He couldn't even know we had it.
+L609930 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Says he wanted food.  Liar.  He wanted the gold.
+L609929 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Why'd he come in our camp.
+L609928 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Says they were deserters, they were afraid to fight, don't believe in Saddam anyway.  They flew the gunship up here to hide out.  When they saw us they figured we were going to kill them, so they shot first.
+L609924 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I told you; don't push me around.
+L609923 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Stop it!
+L609919 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I told you.  He tried to steal our gold. He tried to kill us.
+L609918 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What happened?
+L609917 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Get off him!
+L609916 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ He snuck in here thinking we were asleep, only I wasn't sleeping.  Would have slit our throats if I hadn't stopped him.
+L609915 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Get off him.
+L609910 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Then get up and do something about it.
+L609909 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You got no reason to hit me.  I'm getting tired of you and Jaeger pushing me around.
+L609907 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I told you:  When I straighten someone out they stay straightened.  This is how it works:  Nobody touches the gold. Except when we're on the move and someone's carrying it, nobody so much as opens the pack to get an eyeful of it. Agreed?
+L609906 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You got no reason to do that!
+L609905 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Maybe I don't need your ideas.  Maybe I can do better on my own.
+L609904 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Maybe I do.
+L609903 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Maybe you've got ideas of your own for the gold.  Maybe you've already got things worked out.
+L609902 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You've had your say, Wes.  Now leave it.
+L609901 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You're the one with all the ideas.
+L609898 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What if we get separated?  Way I see it if something happens I want to be carrying my share.
+L609897 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We started this together, and we're staying together, so there's no point in splitting things up now.
+L609896 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Maybe we should split it up now.
+L609895 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What about it?
+L609894 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What about the gold?
+L609893 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It'll be too dark to make our way back now.  Let's bed down for the night and head out at first light.
+L609874 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ All right.  I'll go up, then you send up the gold and--
+L609873 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You ready?
+L609866 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Ready when you are.
+L609865 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I don't think the line will take the weight of a man and the coins.  Wes!?  We'll send the gold up, then me and Jaeger'll climb back.
+L609832 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I heard!
+L609831 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Epps!
+L609820 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Got to have someone here in case we need help making it back up.  Doesn't hurt to have a look out either.
+L609819 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What am I supposed to do?
+L609818 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ All right.  Let's break out some utility shovels, lanterns, and a claymore in case we have to do any blasting.  Me and Jaeger'll climb down, and see what we can see.
+L609804 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Move!
+L609803 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Missile!
+L609800 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ So we wait.
+L609799 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ And they can't fly around out there forever.
+L609786 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Weird they didn't chase us.
+L609785 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I don't know.  There's a lot of space up here.  They could be just about--
+L609784 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Where'd they go?
+L609779 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Basically.  But the map has been pretty precise so far.  I don't think it'll be too hard to--
+L609778 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Otherwise whatever we're looking for could be anywhere.
+L609773 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Got to be some kind of landmark; something distinctive.
+L609772 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What do you figure it to be?
+L609771 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Should be easy going from here.  Stay on the pass straight to the dot.
+L609770 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Let me see the map.
+L609769 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ The US Army:  Always an adventure.
+L609765 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Picks up again just on the other side.
+L609764 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Probably was a couple of hundred years ago when whoever drew the map came through here.  Worn down to nothing now.
+L609763 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Not much of a pass.
+L609762 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We're not going to find anything standing here.  Let's get to climbing.
+L609761 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ And find the treasure, and get it, and get back to the Humvee, and get the hell out of Iraqi without getting our heads blown off, but that's about it.
+L609760 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ All we've got to do is make it to the top.
+L609758 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ There's nothing we can do.  We shouldn't even be here in the first place.
+L609757 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ We can't just go off and--
+L609756 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I don't want to see people killed any more than you.  But we try to help out we die, and all we do is die.
+L609746 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ We can fight.  That's what we're here for:  To fight the Iraqis.  To help the Shi'ites, and the Khurds.
+L609745 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ There's nothing we can do.
+L609742 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ The soldiers are going to kill those people!
+L609741 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ All right.  Let's get out of here.
+L609692 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Yeah.
+L609691 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Ready?
+L609690 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Should have at least gotten the map off of him.  Blows up with him then we did all this for nothing.
+L609689 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You just go when I say go.
+L609688 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What if it's a Valloro 69?  Just going to bounce right up out of the ground, explode in the air, kill him and us.
+L609676 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Break it out.
+L609675 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ For climbing.
+L609674 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We've got rope?
+L609666 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Maybe that's all the Iraqis could afford, okay?  Maybe they got it on discount. Maybe the fuse is messed up.  Or maybe it's going to go off in two seconds, and we won't have to worry about getting Jaeger down off there, all we'll have to worry about is finding the pieces.
+L609665 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Should have blown already.  Delayed fuse, that's Vietnam stuff.
+L609664 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I don't know, and I wasn't about to mess with it.
+L609663 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What kind of mine?
+L609631 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ How tough you have to be to make the army?  All you've got to do is shoot a gun, and stop a bullet.
+L609630 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ He's an idiot, and he's not nearly as hard as he thinks.
+L609629 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ He's not so--
+L609628 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Not much chance of that.  Jaeger's an idiot.
+L609627 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Maybe we are crazy for doing this.  But if we do it, we do it right.  I just needed to explain that in a way I wouldn't have to do it again.
+L609599 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Him getting us stranded out here doesn't do much good either.
+L609598 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You two fighting's not going to get us anything.
+L609588 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Low on gas.  Got to refill.
+L609587 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What are you doing.
+L609569 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ They shouldn't have been out this way, that's all I'm saying.
+L609568 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Deserters would have run, they wouldn't have engaged.
+L609567 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ This is miles from the battle lines. They were probably deserters.
+L609566 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ We shouldn't have been here, Epps.  There is a war going on!
+L609565 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ They shouldn't have been here.
+L609541 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Oh, Jesus, they've stopped.
+L609540 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Wha...
+L609539 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ They stopped.
+L609528 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We're going to keep driving.
+L609527 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What are we going to do!?
+L609488 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ No, please, not again.
+L609487 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Why, yes, Jaeger.  I believe it is.
+L609484 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I'd settle for being alive.  Really. Alive would be fine.
+L609483 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I know you think this is crazy, but a couple of hours from now you're going to be one rich dude trying to buy up every other puzzle box out there.
+L609482 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What?
+L609479 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Oh, God.
+L609478 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Yeah!  Welcome to beautiful Iraq.  Land of enchantment and riches.
+L609457 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I'm thinking about when this war is over. Why you figure I'm here?  'Cause I got tired of being president of GM?  If a brother doesn't play ball, or deal drugs there aren't too many big money prospects around, and I'm not particularly interested in spending the rest of my life fighting the oil companies' wars. So I say if maybe there's something out there, what the hell, that's what I say.
+L609456 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You're out of your minds, you know that? Both of you.  You don't even know if there's anything out there.  What the hell are you thinking?
+L609433 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Better grab up some sand to take home to your family.
+L609432 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Damn, this is sweet.  We are going to be home in no time.
+L609431 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ A casual one.
+L609399 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ There you go, Jaeger.  Just find the buried treasure, and you're a millionaire.
+L609398 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ It's a map, I think that's what it is.
+L609395 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Help, I'm being held prisoner in a puzzle box factory.
+L609394 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What's it say?
+L609393 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's a fortune box.
+L609392 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Paper.
+L609334 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Can you eat it?  If you can't eat it I really don't care what it is.
+L609333 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Well, based on my knowledge of the region, its culture and her people I would have to say it's a box.
+L609317 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I didn't learn Arabic because we were getting shipped here.  You don't learn it in a couple of weeks.  I studied it in high school.
+L609316 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Like learning Arabic?  You're gonna learn Arabic you might as well learn were we can get something to eat around here.
+L609308 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You know so much about the Middle East, you know where we can get something to eat.
+L609307 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ ...And it's very important when you sit down never to point the soles of your shoes at anyone.  It's considered offensive.
+L609300 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Not up to us.  Up to the Iraqis.  All they have to do is get out of Kuwait.
+L609299 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Think we're going to do it?  Think we're going to war?
+L610246 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ He's going to slow down.
+L610245 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ He's not slowing.
+L610244 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ He'll slow down.
+L610243 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Epps, I don't think he's slowing down.
+L610241 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We'll make up some kind of lie.  They won't find the gold.
+L610240 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Well, this is it.  We get the car, find some Americans.  We find Americans we'll be all right.
+L610239 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ That's what I hear.  Don't matter.  Girls go crazy everywhere for a man with gold.
+L610238 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Really?
+L610237 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I'd go to Australia.  Lot of land, not many people.  I think after this I'd like to quit people for awhile.  And the girls go crazy for brothers down there.
+L610236 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What?
+L610235 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Australia.
+L610234 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ How the hell should I know?
+L610233 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I've never been anywhere.  I wouldn't know where to go.  Where would you go?
+L610232 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I don't know.
+L610231 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Still am.  There's more gold than I thought, and since there's only two of us now...  Where should I go?
+L610230 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Thought you were going to buy a car.
+L610229 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I'm thinking about taking a trip.
+L610228 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What?
+L610227 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Epps?
+L610226 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Don't make so much out of it.  Only reason I haven't figured a way to get all that money for myself is because I've been too busy figuring ways to stay alive.  Believe me; if I had a minute to catch my breath I might have played things the way you and Wes had.  I'm no better than anybody else.  I've just been busier.
+L610225 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah.  Even after that.  You didn't take it out on me, except for maybe making me lie in the middle of the road now.  But I'd say you've been very fair.  I just think it's a hell of a man who can keep from going money simple.
+L610224 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Threatened to blow my brains out?
+L610223 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ This whole time, you've kept your head. You didn't go money simple like me and Wes.  You've just been trying to figure how to get us out of here.  And you've been fair too.  I mean, even after I...you know...
+L610222 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Thanks.
+L610221 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I want you to know... I don't know.  I just think you're a hell of a guy.
+L610220 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Yeah.
+L610219 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Epps.
+L610218 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Then I'm a rich man.
+L610217 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah, but why me?  What if the car doesn't stop?
+L610216 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Somebody has to.
+L610215 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Why do I have to lie in the road?
+L610214 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You lie in the middle of the road, look like you're hurt.  When the car stops I run over to the driver and put a gun to his head.
+L610213 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ How do we do that?
+L610212 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ A car's got to come along sooner or later.  When it does, we jack it.
+L610211 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Well?
+L610210 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You shouldn't think about things like that.  It'll just make you crazy.
+L610209 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What if it hadn't been Wes?  What if...I mean, accidently, what if I had...
+L610208 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We had a deal.  No one touches the gold until we're out of here.  No one breaks the deal, no one had anything to worry about.
+L610207 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ But...
+L610206 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's always been like that.  When you left me down in the crevice to send the gold up I figured I'd better...take precautions.  I rigged it to blow if anyone opened the pack.  Just in case somebody thought they could do better on their own.
+L610205 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ When did you make the switch?
+L610204 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It wasn't the gold.  It was the claymore mine.  The gold's in my pack.
+L610203 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ The...the gold...
+L610202 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Damn it.  We lost the horses.
+L610194 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We go this way.
+L610193 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Which way do we go!?
+L610179 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ No, but I figure now's a real good time to start.
+L610178 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Can you ride a horse?
+L610166 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Me?  I say you don't have enough brains to be stupid.
+L610165 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I didn't say that.  I never said--
+L610150 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You were shot.  We were standing right there, you were shot!
+L610149 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ ...Wes...?
+L610147 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Maybe...maybe if we traded them the gold. If we gave it to them they might let us live; they might not kill us.
+L610146 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You come up with a better plan, let me know.
+L610145 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ We can't just sit here waiting to die.
+L610144 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ With what?  Against how many?
+L610143 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ ...Maybe...maybe we can fight our way out.
+L610142 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I don't know!
+L610141 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Why haven't they killed us!?
+L610140 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I don't know.  They killed Wes.
+L610139 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Is that good, or bad?
+L610138 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Shi'ites, I think.
+L610137 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What do you make of them?
+L610134 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We keep going, that's what we do.  We ignore them, maybe they ignore us.
+L610133 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What do we do?
+L610130 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Sun rises in the East.  We go the opposite direction.  May not find anything, but at least we'll know we're heading towards Saudi Arabia.
+L610129 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ To where?
+L610128 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We can't stay here.  Even if that wasn't an Iraqi soldier it's only a matter of time before some show up.  Get all the water you can carry, and we'll head out on foot.
+L610127 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What do we do?
+L610124 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I don't know.  He didn't have a uniform on.  He...he had on white robes, like the guys who killed Wes.
+L610123 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ An Iraqi?
+L610119 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Shoot them!
+L610118 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I just said I would.  I don't think I--
+L610117 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Don't go bitch on me now!  You were going to kill me.  Kill them!
+L610116 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I don't have a weapon.
+L610115 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Can't you--
+L610114 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Well, you're going to start with a bang, 'cause you've got four of them to take down.
+L610113 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I...I never killed anyone before.  I told you that.
+L610112 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ And then shoot them.
+L610111 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ And then what?
+L610110 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Slip out your M-16.
+L610109 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What are we going to do?
+L610108 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ They must have thought we were Iraqi when you yelled to them.  They couldn't tell in the dark.
+L610107 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Oh, God...
+L610105 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ They must be Saudis.  It's a Saudi checkpoint.  Oh sweet, Jesus.  Come on. Come on!
+L610104 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I don't know.  Something Wes had taught me.  I think it means "Don't shoot. We're your friends."
+L610103 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What did you say?
+L610100 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Probably.
+L610099 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ That's if the war is even still going on. Way things were shaping up it's probably long over.
+L610098 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Hell, they'll probably just surrender to us.  Probably.
+L610097 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Even if they are Iraqis probably all they'll do is take us prisoner for awhile.  Got to figure we're still kicking their asses in the war.  They don't want any trouble.
+L610096 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah, I guess we should.
+L610095 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Well, we should identify ourselves.
+L610094 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Well?
+L610091 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Epps.  What if they're not Saudi.
+L610090 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We can head back for our lines, and they don't even have to know about the gold.
+L610087 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Couldn't be Syria.  We couldn't have gone that far north.  It's got to be Saudi. Come on.
+L610086 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Which boarder?  Saudi?  Kuwait?  Syria?
+L610085 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Place all alone like that?  Must be a boarder check point.
+L610084 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What do you figure it is?
+L610081 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah, but we made that deal while Wes was still alive.  He's gone.  Time for a new deal.
+L610080 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ The deal was no one touches it until we get out of here.
+L610079 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I just want to look at it.  Remind me of what I'm dying for.
+L610078 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Don't you touch it.
+L610077 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You know what I'm going to do?  I'm just going to take a second.  I want to look at the gold.
+L610076 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We've got to keep moving while there's still light.
+L610075 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Just let me rest for a second.
+L610074 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ No!
+L610073 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Epps...Epps!  I'm gonna stop for a second.
+L610072 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's a desert.  That's what deserts do at night; they get cold.
+L610071 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Getting cold.
+L610070 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Okay.  Then we go this way.
+L610069 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I pick that way.
+L610068 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You sure you want me too?
+L610067 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We can't just sit here.  We've got to start moving, so pick.
+L610065 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's got to be going better than this..
+L610064 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Wonder how the war's going?
+L610063 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ If we can find the Hummer, or some friendlies by sundown we might be okay. We've got enough water for that.  But we won't make another day otherwise.
+L610062 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What do you think our chances are?
+L610061 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Damn.
+L610060 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Sorry.
+L610058 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I never had anything before, Epps.  I never was anybody.  Not the kind of somebody you can be with a pocket full of gold coins.  When I was in high school I used to--
+L610057 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's all right.  I don't like it, but it's over now.
+L610056 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I know what I did just now was crazy, but you got to understand how much I want that gold.
+L610055 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Makes two of us.
+L610054 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I don't want to die.
+L610053 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Yeah.
+L610052 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Epps?
+L610051 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What?  Yeah.
+L610050 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You still got a map on you?
+L610049 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Really, I'm not.  Remember how I was talking I wanted to blow away all those Iraqis?  That's all it was was talk.  I was scared out of my mind to go to war. I still haven't gotten over stepping on that land mine.
+L610048 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Sure.
+L610047 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I never killed anybody before.  I talk a good game, but I'm not like that.
+L610046 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Yeah.  Well, me too.
+L610045 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I'm glad I didn't have to kill you.  I'm glad it didn't come to that.
+L610043 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Is it all right if I stand up?
+L610042 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I'm sorry about that, Epps.
+L610039 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ That helicopter passes, and the only thing we're close to is death.
+L610038 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I don't want it this way.  I wouldn't kill you just to kill you, but I can't let you lose the gold for me.  Not when we're so close.
+L610037 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ And you; you've got it all together.
+L610036 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I'm not like Wes.  Wes was crazy.
+L610035 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ First Wes, now you?
+L610031 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ They'll search the pack.
+L610030 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We'll lie.
+L610029 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ They'll ask questions; want to know why we were out here.
+L610028 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What do you mean no?  They can fly us home.
+L610027 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ No.
+L610026 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We need something:  A flare, a signal mirror.
+L610025 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ No.
+L610019 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Then he will be when those Iraqis get to him.  He was going to kill you.  He was one blink away from it.  He's dead, Epps, and I'm sure as hell not getting my head blow off over his carcass.
+L610018 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What if he's not?
+L610017 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Wes is dead!
+L610016 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We can't just leave him.
+L610015 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Forget Wes.
+L610014 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We got to go back.  We got to go back for Wes.
+L610000 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We'll find our way!  We'll...
+L609999 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ How!?
+L609998 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We'll find our way.
+L609997 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What are we going to do?  How are we going to find our way back!?
+L609973 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You think you can make that pass weighted down when you almost fell the first time you're wrong, and you're not going to take my share of the gold with you trying it.  We're heading Northeast.
+L609972 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ It should, or it will?  Least going back the way we came we know what we're up against.
+L609971 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ There's another pass on the photo.  We can avoid that narrow one we had to cross on the way up, and it should get us back down.
+L609970 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Northeast?  That's away from the Hummer; further into Iraqi.
+L609969 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We should head Northeast.
+L609900 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It stays as it is.  We're halfway home now.  Let's not blow it by people getting ideas.
+L609899 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Wes might be right about that.
+L609891 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Not when you're up here with the gold, I guess not.
+L609890 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Just had to get the pack unhooked from the line.  It didn't seem that long.
+L609889 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What the hell took so long.
+L609882 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah.  Yeah, that'll work.
+L609881 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ All right.  You go up, I'll send up the gold, then follow.
+L609878 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Someone's got to send the gold up.  It can't get on the line by itself.
+L609877 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I don't see how that plan's any better.
+L609876 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Jesus, Jaeger.
+L609875 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Why do I have to stay down here?
+L609872 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What's to stop him if he wanted to?  All he has to do is cut the line...
+L609871 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ He's not going to leave us.
+L609870 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ We send the gold up what's to stop him from taking off and leaving us down here?
+L609869 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What?
+L609868 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What?
+L609867 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Wait.
+L609862 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You don't have to imagine it.  Not anymore.  Now all you've got to think up is what it's going to buy you.
+L609861 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I wouldn't know.  I never imagined this. Not in my whole life did I ever imagine this.
+L609860 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ It's not like I figured.  It's cold.  And it's heavier than I imagined.
+L609853 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Yeah, Bwana, you got it.
+L609852 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Is it dead?
+L609851 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's just a mongoose.
+L609848 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's giving.
+L609847 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Maybe we should blast it loose with the claymore.
+L609845 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I feel air.  Probably opens up outside somewhere.  That's where the light comes from.  Couldn't see it with the lanternon.
+L609844 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Must be a compartment.
+L609840 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Get up off your ass and dig!
+L609839 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ We've been digging.  We've been digging for hours.  If there was anything here to find we would have found it.
+L609838 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Get up and dig.
+L609837 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I'm not.  And I'm not doing anything, because there's nothing down here.
+L609836 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It looks like you're not doing anything.
+L609835 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What does it look like I'm doing?
+L609834 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What are you doing?
+L609828 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ So where do we start?
+L609827 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ A whole lot of nothing.
+L609822 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Right now I wouldn't be surprised if Eartha Kitt showed up singing Send In The Clowns.
+L609821 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Think there might be more Iraqis?
+L609802 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ If they land, we can take them.  If they don't land, then we've got nothing to worry about.
+L609801 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ If they land--
+L609798 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ They can't shoot us in here.
+L609797 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ They're going to kill us!
+L609796 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We're not going to do anything.
+L609795 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What are we going to do?  What the hell are we going to do?
+L609794 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Just stay down.
+L609793 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Where the hell is it!?
+L609792 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Stay low.
+L609791 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Where is it?  Where'd it go?
+L609777 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I hope it means something, otherwise...
+L609776 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ But the white dot in the middle; that's got to mean something.
+L609775 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Something like that.
+L609774 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ X marks the spot.
+L609751 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ So good bye, Shi'ites.  Thanks for playing.  We have some lovely parting gifts for you as you go.
+L609750 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Not enough.  We're out numbered and out gunned.  They'd cut us to shreds.
+L609738 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ The Shi'ites are on our side?  I didn't know that.
+L609737 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ They're doing more than slapping.
+L609733 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What are they doing in the middle of nowhere?
+L609732 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Well, it's Iraq.  I'm not sure, but I'm guessing that has something to do with them being here.
+L609731 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What are they doing here?
+L609730 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Iraqis.  A bunch of them.
+L609727 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Single shots doesn't mean a fire fight. That's not a battle going on.
+L609726 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ It's a fire fight.
+L609725 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Don't!
+L609723 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Shut up and listen!
+L609722 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I don't hear any--
+L609718 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah, I understand.  Wes doesn't want to come along in the first place, but he gets a third of the find.  That's a sweet deal.
+L609717 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I didn't have to stop anything, 'cause nobody was going to do nothing.  We're in this together, understand?
+L609714 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Just figure it's my map, I ought to hang on to it.
+L609713 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You're not losing trust, are you?
+L609709 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ It's the treasure, that's what it is.
+L609708 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ This.  Whatever it is.
+L609705 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ If we step on a mine we'll know it was. Let me see the maps.
+L609704 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You don't know that.  It could be a trick.
+L609703 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Wes is right.  If there were any more mines we would have found them.  Hell, that one you stepped on was probably old anyway; left over from the war with Iran.
+L609702 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You're going to blow yourselves up.
+L609687 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Don't let me die, Epps.  I don't want to die.
+L609686 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ When we start running suck up your breath.  You're going to get the wind knocked out of you.
+L609685 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You're not going to let me die, are you!? Don't let me die!
+L609684 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You're going to be fine.
+L609683 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ That's going to do it, right?  I'm going to be okay.
+L609682 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Me and Wes each going take an end of the rope, run our asses of, and yank you off the mine.
+L609681 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ How's this going to work?
+L609680 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It falls asleep and you die, so wake it the hell up.
+L609679 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I'm the one who can feel my leg, and it's falling asleep.
+L609678 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's not falling asleep.  You've only been standing there for three minutes.
+L609677 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ My leg is falling asleep.
+L609673 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Epps, my leg is falling asleep.
+L609672 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I said nobody dies.  Nobody dies.
+L609670 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Epps...
+L609669 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ There's a way.
+L609662 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I said be cool, all right?  Now be cool!
+L609661 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You're moving away because it's going to blow up, isn't it!?  It's going to blow up!
+L609660 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We're going to be right over here.
+L609659 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Why you got to move away to talk!?
+L609658 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Me and Wes are just going to talk.
+L609657 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Where you going?
+L609656 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We're going to get off, all right.  We'll get you off of there.  Just...be cool.
+L609655 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ How'm I gonna relax standing on a mine!?
+L609654 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Just relax.
+L609653 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ It's a mine, isn't it?
+L609652 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Just be cool.
+L609651 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Oh, God!  Oh God!
+L609647 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I heard it.
+L609646 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ If you stepped on a mine you'd be dead by now.  Nobody uses delayed-fuse mines anymore.
+L609645 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I heard it click.
+L609644 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You didn't step on any mine.
+L609642 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Mine.  Land mine!
+L609641 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What?
+L609640 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Mine.
+L609639 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What!?
+L609622 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I'm just going to have a little sip, that's all.  Just a sip.
+L609621 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Don't drink up all of yours, 'cause you aren't getting any of ours.
+L609620 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I'm gonna...I'm just gonna stop for a little water.
+L609619 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah.  I know.  I'm with you.
+L609618 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Faster we get there, faster we get back.
+L609617 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Hey...hey!  Slow up.  You don't have to go so fast.
+L609616 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I got that...sir.
+L609615 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ SAY IT!
+L609604 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ We leave it.
+L609603 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What do we do with the Humvee?
+L609593 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I didn't miss it.  I figured if you knew one of the reserves got hit you'd want to turn back.
+L609592 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ And you missed this?  How are you going to miss something like this?
+L609591 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ ...I know.
+L609590 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Look at it.  LOOK AT IT!  Shot to hell. It's been leaking gas since the fire fight.  I told you to check for damage.
+L609582 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Millionaires, man.
+L609581 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It'd make their heads explode.
+L609580 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I know.  I know.  But I'm saying, if they knew.  We're going to be millionaires, man.  Millionaires!
+L609579 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You can't tell anybody about this.
+L609578 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I'm just thinking, you know, if the rest of the boys knew what we're doing.  I mean if they knew what we were coming back with.
+L609577 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What?
+L609576 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Let's go.
+L609575 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah.  Yeah, she's fine.
+L609574 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ She okay?
+L609547 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I steady it out, they blow us out of the sand!
+L609546 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Steady it out!
+L609538 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Look at you, not even breaking a sweat. You're cool, boy.  You're cool.
+L609537 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Figure they don't want to mess with us anymore than we want to mess with them.
+L609532 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's the only way.  We drive!
+L609531 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ They're not going to--
+L609530 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We run they'll shoot us anyway.  If we keep driving they might think we friendlies; Iraqis.  Or even if they know we're Americans they might get scared, think we're part of a detachment and keep on going.
+L609529 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ They'll shoot us!
+L609525 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We can see them, they can see us.  We run, they chase.
+L609524 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ We've got to do something.  We've got to turn around.
+L609523 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Shut up!  Both of you shut the hell up!
+L609517 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ TAKE THE GODDAMN BINOCULARS!
+L609516 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Wh-what do you think--
+L609515 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Take the binoculars.
+L609513 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You know, you sound just like a boy who's never--
+L609512 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ And I'm talking about enjoying myself.
+L609511 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's not about being fun.  It's about being smart.  You take that money, you take care of it, let it grow, and you don't ever have to do anything again. Ever.  That's freedom.  That's what I'm talking about.
+L609510 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Oh, that's fun.
+L609509 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Invest it.
+L609508 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What are you going to do with your <u>third</u>?
+L609507 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You're getting gold, and you're going to blow it on wheels?
+L609504 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ A car?  You're going to buy a car?
+L609503 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah.  I meant... You know what I'm going to do with it?  I'm going to buy a Sixty- three 'Vette Stingray.  All tricked out and cherry.  I'm going to be so sweet.
+L609502 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Third.  What you're going to do with your third.
+L609499 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You know what I'm doing with my part of the gold?
+L609498 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ But that's the great thing about Gold.  A little goes a long way.
+L609481 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Cool it, Jaeger.  Hey, Wes?  Wes?
+L609480 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You're such a pussy, you know that? How'd you get in the army?
+L609473 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Roger that.
+L609472 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Now this is war.
+L609470 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ We go, we get rich, we go home.  It's that easy.
+L609469 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's going to be cool, Wes.  It's all all right.
+L609462 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ But we all got to be in for this.  We all go, or we do nothing.
+L609461 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ We disappear for awhile.  We disappear, we came back; nobody knows nothing.
+L609460 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's war.  People get lost all the time in war, cut off--
+L609447 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What we're doing is kicking ass.  For God's sake they got Iraqis surrendering to news crews.  The war is over.  We've just got to keep shooting people 'cause the army spent all this money, and we've got to put on a show for the taxpayers.
+L609446 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ And you know what that area is?  It's Iraq.  IRAQ!  We're doing a little thing with them right now; Desert Storm.  Maybe you've read about it.
+L609443 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Christ!  Wes, tell him.  You know this stuff.
+L609442 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Wellllll, if you read it it must be true. Was it in the Star, or the Enquirer?
+L609441 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Just listen to me!  I've been doing some reading.  In the Sixteenth century this region was invaded by the Turks.  It became part of the Ottoman empire.  When the Turks rolled in they raped, they pillaged, the usual stuff.  Anybody who had anything wanted to hide it from these bastards.  They buried their treasures, drew maps, and hid the maps in puzzle boxes.  I read about this, man.  I read about it.
+L609440 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I think you've got some issues to deal with.  Really, when we get out of here I'm pretty sure it's shrink time for you.
+L609439 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Wait.  Wait.
+L609438 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Don't even.  You're not going to show me that tired map.
+L609426 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I'd like to go home alive with a couple of Iraqi scalps hanging from my belt.
+L609425 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Everybody's got a job to do.  Figure it this way:  At least you get to go home alive.
+L609424 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ They finally start the ground war, and where are we?  Same place we've been since we got here.  Securing freedom for the dirt.
+L609401 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Yeah, that's exactly what I think.  You and the five thousand other suckers who bought those boxes.  Let's get out of here.  We got sand to protect.
+L609400 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You think?
+L609386 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I did it!  I got the box open.
+L609385 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What!?  What!?
+L609384 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ OH MY GOD!
+L609383 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You all want to lay off?  God.  I hope the Iraqis shoot me; put me out of my misery.
+L609380 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I've got to have something to tell people when I get home besides I protected a stretch of dirt that nobody wanted for nothing in the first place.
+L609379 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Why you in such a hurry to get to shooting?
+L609378 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ This is stupid.  It's going on a month now.  How long are they going to let the Air Force piss on those bastards?  They can bomb them all they want, Saddam ain't going anywhere without a ground assault. What the hell is the army waiting for?
+L609343 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ There might be.
+L609342 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Yeah, the deed to the Brooklyn bridge.
+L609341 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ There might be something in there.
+L609340 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Oh, man, you're not going to fall for that.
+L609327 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Blow me.  Have I said that to you guys recently?  Blow me.
+L609326 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Don't worry about Jaeger.  He uses his personality as a form of birth control.
+L609298 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Another month in this desert and I might just.
+L609297 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Blow me.
+L609296 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You know what?  I think you got Schwarzkopf.  You did!  You got the General right in the ass.  Now that's good shooting.
+L609294 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ No you're not.
+L609293 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I told you, I'm shooting Iraqis.
+L609292 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Ready for what?  What are you supposed to be doing?
+L609291 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Don't get pissed at me, just 'cause I want to be ready when this war starts.
+L609290 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Knock it off!
+L609289 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ At-at-at-at-at.
+L609282 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What does it look like I'm doing?  I'm killing Iraqis.  At-at-at-at-at.  At-at- at-at--
+L609281 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What are you doing?
+L609280 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ At-at-at-at-at.  At-at-at-at-at.
+L609416 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Saddam's got a boil on his ass?
+L609415 +++$+++ u8411 +++$+++ m570 +++$+++ WOODS +++$+++ They're all good ones.  Satellites we've got can snap a shot of the boil on Saddam's ass.
+L609414 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Some good ones.
+L609413 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ The photos.
+L609412 +++$+++ u8411 +++$+++ m570 +++$+++ WOODS +++$+++ Ready for what?  Sight-seeing?
+L609411 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Just...want to be ready when we do.
+L609410 +++$+++ u8411 +++$+++ m570 +++$+++ WOODS +++$+++ Planning on going to war all by your lonesome?
+L609409 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I could use some recon photos too.
+L609408 +++$+++ u8411 +++$+++ m570 +++$+++ WOODS +++$+++ That shouldn't be too hard to read.  Iraq is the pink thing.
+L609405 +++$+++ u8411 +++$+++ m570 +++$+++ WOODS +++$+++ A map?  All I got is maps.  I'm gonna have Delayed Map Syndrome when I finally get out of here.  What kind of map you need?  Topographical, geographical, thermal?
+L609404 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I'm looking for a favor.  I need a map of Iraqi.
+L609403 +++$+++ u8411 +++$+++ m570 +++$+++ WOODS +++$+++ Hey, Jaeger.  What's up.
+L609402 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Woods.
+L610156 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You actually got around to killing someone.  I'm impressed.  I guess you're only half a bitch.
+L610155 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ We had to take shelter in the checkpoint. Jesus, Wes, I killed the Iraqis in there.
+L610154 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ When my Shi'ite friends saw that they had shot an American they were very apologetic.  Turns out we've been kicking ass in this little war.  They figure we've finally gotten Saddam off their backs.  They brought me to their camp, cleaned me up, fed me... I'm their new best buddy.  America number one, Joe. But there's something the Shi'ites can't figure out:  They can't figure out why my two buddies, two fellow Americans, left me out in the desert.  They can't seem to figure out what those same two guys were doing in an Iraqi outpost.  It's almost as if they were Iraqi spies, or something.  And I've got to tell you they hate anything that's got to do with the Iraqis.  See how I mean?
+L609988 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Probably shot a few.  Scattered the rest. Murderers.
+L609987 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Think the Iraqi's killed them all?
+L609986 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ The white reflects the sun; it keeps you cooler.  That's why they wear them.
+L609985 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You're going to burn up in those.
+L609967 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You want to say some words?
+L609966 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Maybe we ought to...you know, bury him. Say some words over him.
+L609946 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ He'd just slow us down, and drink our water.  And if we ran into any more Iraqis you know he'd sell us out.
+L609945 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ So we'll take him with us.  At least 'til we get back to the Hummer.
+L609936 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I'm not wasting my water on him.
+L609935 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I think he wants something to drink.
+L609934 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ All last night he could have been--
+L609933 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Maybe we should give him some water.
+L609927 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ He lived through that?
+L609926 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Says he's one of the soldiers that was in the helicopter.
+L609921 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ He's a soldier.  He doesn't need a weapon.  He's got rocks.  He's got bare hands.
+L609920 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ With what?  He doesn't have a weapon.
+L609855 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I think we found something.
+L609854 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What the hell are you doing!?
+L609825 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What do you see?
+L609824 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah, we're down.
+L609823 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You down?
+L609817 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Guess we know what the next stop is.
+L609816 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ It's got a bottom.
+L609812 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Lines up with the map and the photos.
+L609811 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What do you think?
+L609788 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Just seems weird they didn't chase us.
+L609787 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Maybe they're as scared of us as we are of them.
+L609767 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ We make it, or we go back empty handed.
+L609766 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Think we can make it?
+L609755 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I've got a new agenda now, it's get rich. The only way the Iraqis figure into that is not at all.
+L609754 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You're the one wanted to kill Iraqis so bad.
+L609753 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Funny you should say that while we're out looking for gold.
+L609752 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ We're American soldiers.  We don't abandon people.
+L609744 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ We have to do something.
+L609743 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ So?
+L609740 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I know you're a pussy.  I know that.
+L609739 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Is there anything you do know?
+L609736 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Those people down there are Shi'ites. You've got Shi'ites in the south of Iraq and Khurds in the North.  Neither of them've got much love for Saddam. Probably figured once the war started there might be an uprising, so he sent his soldiers out to slap them around some.
+L609735 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Jesus!  What the hell did he do that for? They're Iraqis.  Why are Iraqis killing Iraqis?
+L609720 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Anytime you want to do something about it just let--
+L609719 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I'm getting tired of you riding me, Jaeger.
+L609716 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Probably would've too if Epps wasn't around to stop you.
+L609715 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ If all we wanted was the map out of you we could have taken it while you were standing on that mine pissing on yourself.
+L609701 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You want to crawl, crawl.
+L609700 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ That don't mean nothing.  Iraqis could have just spread them out like that; make us think we're in the clear.
+L609699 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Haven't found a mine for half a mile, or more.
+L609698 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Until we're out of the mine field is how long.
+L609697 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ How long we going to keep this up.
+L609668 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Doesn't matter.  We're not going to be able to get him off it anyway.
+L609667 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Epps...
+L609610 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You have to go with us.  You can't walk back...
+L609609 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Really?  What is that, an order, <u>private</u>?
+L609608 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You have to go with us, Wes.
+L609607 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You two don't even know how crazy you are.  You want to go on your sick, little treasure hunt then go ahead, but mark me absent.
+L609602 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ As soon as we hit the mountain we would have had to go on foot anyway.  We're not that far.  We can make it.
+L609601 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Then lets go back while we still can.
+L609600 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ We're not stranded.  We've got enough gas in the other reserve to get us back.
+L609595 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ ...I figured...I figured you'd turn back.
+L609594 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ So, you just let us drive on knowing we were losing fuel?  Knowing we were going to run low in the middle of nowhere?
+L609561 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ We just about got killed.  You know what happened?  We just about got killed, and you want to go on?
+L609560 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ We're not going anywhere.  Not 'til we get what we came for.
+L609559 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ We have to go back.
+L609558 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ We got to get out of here.
+L609557 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah, well, we're not.
+L609556 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I thought we were dead.
+L609536 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You see that?  Right by us.  They went right by.  You had them Epps; you called it.
+L609535 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I think I'm going to throw up.  I am. I'm going to toss.
+L609534 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah!  Yeah!
+L609522 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ They're not...I had the pictures. They're not supposed to be here!
+L609521 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Oh, Jesus!
+L609520 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Two vehicles.  They're not supposed to be here.
+L609519 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Oh, God!
+L609518 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Iraqis.
+L609506 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ A car is not just a car where I come from.  I had this friend, had this wicked candy apple red Sixty-four and a half Mustang--
+L609505 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ This is too much.  You don't even have the money and you're wasting it.
+L609501 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You know what I'm doing with my half?
+L609500 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ If there's gold.  If!
+L609497 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ How the hell should I know how much?
+L609496 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah!  Gold!  How much?
+L609495 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I don't know.  It would be small, easy to transport and hide.  Gold or jewels. Probably gold.
+L609494 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah.  If.  Whatever.  What kind you figure it is?
+L609493 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ If!  If there's a treasure.
+L609492 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Hey, Wes, what kind of treasure you figure these people buried?
+L609486 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Oh, no.
+L609485 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Epps, is that a sand dune.
+L609475 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Hell, we'll just buy our way out.
+L609474 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ We're going to get court martialed, you know that.
+L609468 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yes!
+L609467 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ God!  I don't believe I'm doing this.  I don't.
+L609465 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You're insane if you think you'll find anything, and sure insane if you think you can get us there and back alive.
+L609464 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You know it's real.  You know it's real, and you know it's there.  You know it.
+L609463 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Epps, you're smarter than this.  Jaeger I understand, but you're smarter.
+L609454 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ So you just want to cross into hostile territory in the middle of a war on a wild goose chase?  It's crazy.  Tell him it's crazy, Epps.
+L609453 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ It's real.  I'm telling you, it's real.
+L609452 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ It's not a hundred miles.  It's a hundred miles through three different kinds of terrain:  Pure desert, mountains, a river.  If the map is even real.
+L609451 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ It's about a hundred miles from where we are now.  How long do you think it would take us to--
+L609450 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You don't know where the Iraqis have moved to.  And our forces haven't even engaged the Republican Guard yet, we don't know--
+L609449 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ It's right here.  This region; an-Nagaf. I got recon photos.  There're no troops there, no fighting--
+L609448 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You're not saying what I think you're saying.  I can't believe you're even thinking it.
+L609436 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ With...with millions.  Millions of dollars.
+L609435 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What?
+L609434 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ We...we could go home with something else.
+L609430 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Those soldiers have got loafers on.  What kind of army gives their soldiers loafers?
+L609429 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ That's it.  It's over.  Eighteen hours into the war and it's over.
+L609390 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ It's a container.  Break the seal.
+L609389 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ It's...it's...I don't know what it is.
+L609382 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ You know what, Wes?  If you get a note from your mommy they might excuse you from the war.
+L609381 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ The longer the air force hits the Iraqis, the safer it'II be for us when we have to engage.
+L609376 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ At-at-at-at-at.
+L609375 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ This is so weird.  It's happening, but it's not.  It's like a TV show, and we're part of it.
+L609374 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ At-at-at-at-at.
+L609371 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ The only thing I worry about is how much Iraqi ass I'm going to be able to kick before this whole thing is over.  The only people who I've got anything to worry about are the poor, dumb camel jockeys who don't know enough to get out of the way when I come rolling at them; an M-16 in each hand, and a grenade between my teeth.  Now if you'll excuse me, soldier, I'd like to get back to my box.  I've got a treasure to find.
+L609370 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You ever think about it?  You ever worry?
+L609369 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Come on, man.  I almost had this thing open.
+L609368 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You ever think about dying?
+L609367 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What!?
+L609366 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Jaeger?
+L609364 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Why would they do all that if we weren't?
+L609363 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ It doesn't mean anything.
+L609362 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ We're going to war, aren't we.  If they're doing all that it must mean we're going to war.
+L609361 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What's your point, Wes?  You have a point?
+L609360 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ They're cancelling all leaves, all passes.  No more drills.  We stand at full ready starting--
+L609359 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Like I said; so?
+L609358 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ That's in two days.
+L609357 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah.  So?
+L609356 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You know the fifteenth is the deadline for the Iraqis to get out of Kuwait.
+L609355 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What?
+L609354 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Jaeger?
+L609353 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I don't care if there's a lump of coal in here.  I just want to be able to rub Epps' face in it when I crack this thing.
+L609352 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You really think there's a treasure inside?
+L609351 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I'll show Epps.  He'll be sorry when I get this thing open.
+L609350 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You will.  You'll get it.
+L609349 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Naw, nothing.
+L609348 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You get it yet?
+L609345 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I could.
+L609344 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ And you're the guy who's going to open it.
+L609339 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ For real?  A treasure?
+L609338 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ It's a puzzle box.  If you can figure out how to open it there's supposed to be a treasure inside.
+L609337 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Yeah, you're funny.
+L609336 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ He says it's a box.
+L609332 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What is it?  You know so much about Arabland tell me what it is.
+L609331 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Now you need me.
+L609330 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What is this?
+L609325 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Don't even try it.  You offend a woman out here you're in serious trouble.
+L609324 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ How do you say "Come here, baby.  I'm horny."  I can use that now.
+L609323 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Don't shoot me, I'm friendly.  You can use that when you surrender.
+L609322 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ What does that mean?
+L609319 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I thought it would be good to know.
+L609318 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Spanish wasn't hard enough?
+L609315 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I'm just trying to help you guys out.  It doesn't hurt to know something about Saudi Arabia.
+L609314 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ It was an accident.  You saw it was an accident.
+L609313 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Come on.  You're going to get us in trouble.
+L609311 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Oh yeah.  Accidently.
+L609310 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I'm saying don't do it accidently.
+L609309 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ When do you ever point the soles of your feet at people?
+L609304 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ People were suffering in Afganistan, and we didn't do anything.
+L609303 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ People are suffering.
+L609302 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I don't think we'll go to war.  We shouldn't even be here.  This isn't our fight, it's a regional conflict.  It should be decided regionally.
+L609301 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ We ought to kick their asses anyway. Even if they do get out of Kuwait we ought to kick their asses.
+L609288 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ Okay.
+L609287 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Yes.  Yes.  That's exactly it.  Yes.
+L609286 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ I'm making you uncomfortable.  Baking away in a desert in the middle of nowhere facing three-hundred-thousand screaming Iraqis with nerve gas scud missiles, that doesn't bother you.  But me making a little noise is driving you out of your skull.
+L609285 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Yeah, a headache.  My head hurts.  You're making me uncomfortable.
+L609284 +++$+++ u8409 +++$+++ m570 +++$+++ JAEGER +++$+++ A headache?
+L609283 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Could you stop, please.  You're giving me a headache.

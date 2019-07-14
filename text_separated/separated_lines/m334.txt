@@ -1,0 +1,678 @@
+L184715 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Tell me about your garden.
+L184714 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Every night I cut out my heart but in the morning it was full again.
+L184713 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I know.
+L184712 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I'm sorry, Katharine.
+L184711 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Thank you.  Will you bury Geoffrey?  I know he's dead.
+L184710 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ And a good read.  Don't waste it.
+L184709 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I promise I'll come back.  I promise I'll never leave you.  And there's plenty of water and food. You can have a party.
+L184708 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Do you promise?  I wouldn't want to die here.  I wouldn't want to die in the desert. I've always had a rather elaborate funeral in mind, with particular hymns.  Very English.  And I know exactly where I want to be buried.  In our garden.  Where I grew up. With a view of the sea.  So promise me you'll come back for you.
+L184707 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Listen to me, Katharine.  You've broken your ankle and I'm going to have to try and bind it.  I think your wrist might be broken, too - and some ribs, which is why it's hurting you to breathe.  I'm going to have to walk to El Taj.  Given all the traffic in the desert these days I should bump into one army or another before I reach there - or Fenelon-Barnes and his camel.  And then I'll be back and we'll be fine, and I'll never leave you.
+L184706 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Oh dear.
+L184705 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Yes.  Absolutely.
+L184704 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Shall we be all right?
+L184703 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I'm just going to find things for the fire.
+L184702 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Don't leave me!
+L184701 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I know.  I'm sorry.  I'll make a fire. I'll be back.
+L184700 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ It's so cold.
+L184699 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Of course.  You idiot.  I always wear it. I've always worn it.  I've always loved you.
+L184698 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ You're wearing the thimble.
+L184697 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ You speak so many bloody languages and you never want to talk.
+L184696 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Don't talk.
+L184695 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Don't you know you drove everybody mad?
+L184694 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ What?
+L184693 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Why did you hate me?
+L184692 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I know, darling, I'm sorry.
+L184691 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ It hurts too much.
+L184690 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ We've got to get you out of here.
+L184689 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Please don't move me.  It hurts too much.
+L184687 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ A surprise, he said.
+L184686 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Why did he bring you?
+L184685 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I can't move.  I can't get out.
+L184684 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Katharine!  Oh dear God, Katharine - what are you doing here?
+L184592 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Do you think you're the only one who feels anything?  Is that what you think?
+L184591 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Dance with me.  I want to touch you. I want the things which are mine. Which belong to me.
+L184590 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ No.
+L184589 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Dance with me.
+L184588 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ You know why? He tries to hold her. She resists
+L184587 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I've watched you - on verandahs, at Garden Parties, at the Races - how can you stand there?  How can you ever smile?  As if your life hadn't capsized?
+L184586 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Don't do this.
+L184585 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Is he next?  Do you drag him into your little room?  Where is it?  Is this it?
+L184584 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Would you let me pass?
+L184583 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ What?  What?  That boy, that little boy, you were holding his collar, gripping his collar, what for?
+L184582 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ What?
+L184581 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Why did you hold his collar?
+L184487 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ You will.  You will.
+L184486 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I just wanted you to know. I'm not missing you yet. She nods, can't find this funny.
+L184484 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Don't go over it again, please.
+L184483 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I just know - any minute he'll find out, we'll barge into somebody we'll - and it will ill him.
+L184482 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I'm not agreeing.  Don't think I'm agreeing, because I'm not.
+L184481 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I'd better get back.  Say goodbye here.
+L184406 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Yes.  Yes.  Absolutely.
+L184405 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Shall we be all right?
+L184404 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Of course.  You didn't need to slap my face to make me feel as if you'd slapped my face.
+L184403 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ That day, had you followed me to the market?
+L184402 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I don't care to bargain.  It's full of saffron, just in case you think I'm giving it to you to encourage your sewing.
+L184398 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Yes.  A different wife.
+L184397 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ This is a different world - is what I tell myself.  A different life. And here I am a different wife.
+L184396 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Madox knows, I think.  He's tried to warn me.  He keeps talking about Anna Karenina.  I think it's his idea of a man-to-man chat.  Its my idea of a man-to-man chat.
+L184395 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I thought we were against ownership?  I can stay tonight.
+L184394 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ This - what's it called? - this place, I love it - this is mine!  I'm asking the King permission to call it the Almasy Bosphorous.
+L184392 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ You bastard, I was believing you!
+L184391 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Ouch!  See - you're always beating me..!
+L184390 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ It's a long song - Szerelem means love…and the story - there's a Hungarian Count, he's a wanderer, a fool.  For years he's on some kind of quest, who knows what? And then one day he falls under the spell of a mysterious English woman - a harpy - who beats him and hits him and he becomes her slave.  He sews her clothes, he worships the hem of -
+L184389 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ It's beautiful.  What's it about?
+L184388 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ No, no, it's Hungarian.  My daijka sang it to me.
+L184387 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Arabic?
+L184386 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ It's a folk song.
+L184385 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ This is - what is this?
+L184320 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I'm trying to write with your taste in my mouth.  Swoon.  I'll catch you.
+L184319 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ This is empty, just coming!
+L184318 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I can still taste you.
+L184315 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I can't work.  I can't sleep. Lady Hampton calls impatiently.
+L184314 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ No.
+L184313 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Say you're feeling faint - the sun.
+L184312 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ What?  No!
+L184311 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Say you're sick.
+L184271 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Ownership.  Being owned.  When you leave, you should forget me.
+L184270 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ A lie.  What do you hate most?
+L184269 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ What do you hate most?
+L184268 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Marmite - addicted!  Baths - not with other people!  Islands.  Your handwriting.  I could go on all day.  My husband. Almásy nods.
+L184267 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ What else?
+L184266 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ What do I love?  I love rice pudding, and water, the fish in it, hedgehogs! The gardens at our house in Freshwater - all my secret paths.
+L184265 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Okay.  And what do you love? Say everything.
+L184264 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Now.
+L184263 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ When were you least happy?
+L184262 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Now.
+L184261 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ When were you most happy?
+L184260 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ That makes it harder still.
+L184259 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ A woman should never learn to sew, and if she can she should never admit to it.  Close your eyes.
+L184258 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ You don't sew at all!
+L184257 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ You sew very badly.
+L184256 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Good.
+L184255 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I'm impressed you can sew.
+L184253 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I believe you still have my book.
+L184252 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Don't.
+L184251 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Mrs. Clifton - Katharine turns, disgusted.
+L184250 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Will you please come in?
+L184249 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ No.
+L184248 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Will you not come in?
+L184242 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ No, but I think I do.
+L184241 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Do they know them?
+L184239 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ No, the marriage isn't a fiction.
+L184238 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ And the marriage - is that a fiction? 
+L184237 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Geoffrey's not in Cairo.  He's not actually a buffoon.  And the plane wasn't a wedding present. It belongs to the British Government.  They want aerial maps of the whole North Africa. So I think he's in Ethiopia.  In case you were counting on his sudden appearance.
+L184235 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Find that plant.  Cut out its heart.
+L184234 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Water?  Yes, we have water, we have a little in our can, we have water in the radiator which can be drunk. Not at all cowardly, extremely practical.  Come on, come on!  There's also a plant - I've never seen it but I'm told you can cut a piece the size of a heart from this plant and the next day it will be filled with a delicious liquid.
+L184233 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Of course.  Is it, am I a terrible coward to ask how much water we have?
+L184232 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Could I ask you, please, to paste you paintings into my book?  I should like to have them.  I should be honored.
+L184231 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Oh my God, the others!
+L184230 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Madox will have calculated how many miles, they'll soon turn around.
+L184228 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ All true.  Herodotus, your friend, tells of a wind - the Simoon - so evil that a nation declared war on it and marched out to fight it in full battle dress, their swords raised.
+L184227 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Fiction.  We had a house on that coast and it never rained blood. Go on.  More.
+L184226 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ - there is the Harmattan, a red wind. Which Mariners called the sea of darkness.  Red sand from this wind has flown as far as the south coast of England, producing showers so dense they were mistaken for blood. Almasy checks to see if Katharine is still awake.
+L184224 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Yes is a comfort.  Absolutely is not.
+L184223 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Yes.  Absolutely.
+L184222 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Shall we be all right?
+L184221 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ No.
+L184220 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ This is not very good, is it?
+L184219 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ In an hour there will be no stars. The air is filling with sand.
+L184218 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ They're so untidy.  I'm just trying to rearrange them.
+L184217 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ See what's happening to them - the stars.
+L184216 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ What am I looking at?
+L184215 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Look over there.
+L184214 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I'm quite all right, thank you.
+L184213 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ You should come into the shelter.
+L184212 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ And that would be unconscionable, I suppose, to feel any obligation? Yes.  Of course it would.
+L184211 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ There's really no need.  This is just a scrapbook.  I should feel obliged.  Thank you.
+L184210 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I'd like you to have them.
+L184209 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ We took several photographs, there's no need.
+L184208 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I thought you might paste them into your book.
+L184207 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ What's this?
+L184190 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Ask Al Auf. Almásy asks Al Auf in Arabic.
+L184189 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I do not.
+L184188 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ You sing.  All the time.
+L184187 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Pardon?
+L184186 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Actually, you sing.
+L184157 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Her or me?
+L184156 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Be careful?  You mean you - or me? Who?
+L184155 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ He said - be careful.
+L184154 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ What is he saying?  Come on, what did he say?
+L184152 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ The Ostrich is a detour.  A poor man hunts an ostrich, it's the method.  Nothing to do with Zerzura.  To catch an ostrich you must appear not to move.  The man finds a place where the ostrich feeds, a wadi, and stands where the ostrich can see him, on the horizon, and doesn't move, doesn't eat - otherwise the ostrich will run.  At nightfall, he moves, fifty, sixty yards.  When the ostrich comes the next day, the man is there, but he's nearer.  Haunting the ostrich.
+L184151 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Sounds perfectly clear.  Where does the Ostrich come in?
+L184150 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ A mountain curved like a woman's back, a plateau the shape of an ear.
+L184149 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ What do you mean, poetry?
+L184148 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ This is an incredible story - about a man hunting an Ostrich, he's been telling me about Zerzura, he thinks he's been there, but his map, the route he's describing, he couldn't survive the journey now, but he's a poet, so his map is poetry - and now we're onto an Ostrich.  I'm telling her your map is poetry. The Arab shrugs.
+L184081 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ So why follow me?  Escort me, by all means.  Following me is predatory, isn't it?
+L184080 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ As the wife of one of our party.
+L184079 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ You felt obliged to.
+L184078 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I was concerned.  As I said, women in that part of Cairo, a European women, I felt obliged to.
+L184077 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ After the market, you followed me to the hotel.
+L184076 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Excuse me?
+L184075 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Why did you follow me yesterday?
+L184056 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Excuse me.
+L184055 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I should be very happy to obtain the correct price for this.  I apologize if I appear abrupt.  I am rusty at social graces.  How do you find Cairo?  Did you visit the Pyramids?
+L184054 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I don't believe that.  I think you are insulted by me, somehow. You're a foreigner too, aren't you, here, in this market?
+L184053 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ That insults them.
+L184052 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I don't care to bargain.
+L184051 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ This is not worth eight pounds, Mrs. Clifton.
+L184050 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I don't want to go back.
+L184049 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ You've been cheated, don't worry, we'll take it back.
+L184048 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Excuse me?
+L184047 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Which stall?
+L184046 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Seven pounds, eight, I suppose. Why?
+L184045 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ They don't see foreign women in this market.  How much did you pay?
+L184044 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Hello!  Good morning.
+L184043 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ How much did you pay?
+L183961 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Yes, thank you, Gyges, son of Daskylus - Candaules said to him I don't think you believe me when I tell you how beautiful my wife is. And although Gyges replied he did find the Queen magnificent the King insisted he would find some way to prove beyond dispute that she was fairest of all women.  Do you all know this story?
+L183960 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Daskylus…
+L183957 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I'm sorry - what have you noticed?
+L183956 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I can't sing.  but I can tell a story.  I might need a prompt.  Do you have your Herodotus?  I've noticed you carry it…
+L183950 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ What kind of fossils?
+L183949 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Isn't Zerzura supposed to be protected by spirits who take on the shape of sandstorms?
+L183918 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ A thing is still a thing no matter what you place in front of it.  Big car, slow car, chauffeur-driven car, still a car.
+L183917 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I wanted to meet a man who could write such a long paper with so few adjectives.
+L183916 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Thank you.
+L184575 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ And the people here don't want us. Are you kidding?  The Egyptians are desperate to get rid of the Colonials…  - isn't that right? Their best people get down on hands and knees begging to be spared a knighthood.  Isn't that right?
+L184574 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Sorry, what's your point?
+L184573 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Oops!  Mustn't say International. Dirty word.  Filthy word.  His Majesty! Die Führer!  Il Duce.
+L184332 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I haven't, no.  Sorry.
+L184331 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ It's Geoffrey under this.
+L184330 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ What?
+L184329 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Have you seen Katharine?
+L184182 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Why are you people so threatened by a woman?!
+L184181 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Very well.
+L184180 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ I've known Katharine since she was three, my aunt is her aunt, we were practically brother and sister before we were man and wife.  I think I'd know what is and what isn't too much for her.  I think she's know herself.
+L184179 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ All the same, I, were I you I would be concerned -
+L184178 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Are you mad?  Katharine loves it here. She told me yesterday.
+L184177 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I think the desert is, it's - for a woman - it's very tough, I wonder if it's not too much for her.
+L184176 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Appropriate?
+L184175 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Clifton - your wife - do you think it's appropriate to leave her?
+L184174 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ You too.  Good luck!
+L184173 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Safe journey.
+L184168 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Portraits.  The Brigadier, the Brigadier's wife, the Brigadier's dogs, the Brigadier at the Pyramids, the Brigadier breathing.
+L184167 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ What kind of photographs?
+L183924 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ There you have me.
+L183923 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Uxoriousness - that's my favorite kind of love.  Excessive love of one's wife.
+L183920 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Still a car.
+L183919 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ A broken car?
+L184734 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ No!  NO!  Don't radio anybody, just give me the fucking jeep!
+L184733 +++$+++ u5059 +++$+++ m334 +++$+++ OFFICER +++$+++ I understand you are agitated - perhaps you would like to sit down while I radio back to HQ -
+L184732 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Look, listen to me.  A woman is dying - my wife! - is dying seventy miles from here.  I have been walking for three days!  I don't want to spell my name, I want you to give me this jeep!
+L184731 +++$+++ u5059 +++$+++ m334 +++$+++ OFFICER +++$+++ Almásy - would you mind just spelling that for me?  What nationality would that be?
+L184730 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Count Laszlo de Almásy. The Officer is writing this down.  A glance at his Corporal.
+L184729 +++$+++ u5059 +++$+++ m334 +++$+++ OFFICER +++$+++ Right.  And what's your name, sir?
+L184728 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Am I not talking sense? -  forgive me, I'm, I've been walking, I've - there's a woman badly injured at Gilf Kebir, in the Cave of Swimmers.  I am a member of the Royal Geographical Society.
+L184727 +++$+++ u5059 +++$+++ m334 +++$+++ OFFICER +++$+++ If I could just see some identification.
+L184726 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ What?
+L184725 +++$+++ u5059 +++$+++ m334 +++$+++ OFFICER +++$+++ Do you have your papers, sir?
+L184724 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ No, I'm not thinking clearly - I need a doctor too, to come with me, can I take this vehicle?  I'll pay, of course - and some morphine and…  Seventy miles - I can be back here by dusk.
+L184723 +++$+++ u5059 +++$+++ m334 +++$+++ OFFICER +++$+++ I see.
+L184722 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I desperately need a jeep.  There's been an accident.
+L184721 +++$+++ u5059 +++$+++ m334 +++$+++ OFFICER +++$+++ Yes, of course.  So, golly, where have you come from?
+L184720 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Could I trouble you for some water?
+L184719 +++$+++ u5059 +++$+++ m334 +++$+++ OFFICER +++$+++ Good morning!
+L184663 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ There is no God.  But I hope someone looks after you.
+L184662 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ May God make safety your companion.
+L184661 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Goodbye, my friend. They shake hands.
+L184660 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ I have to teach myself not to read too much into everything.  Comes of too long having to read so much into hardly anything at all.
+L184659 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ I'll leave the plane in the hangar at Kufra Oasis.  So if you need it…hard to know how long one's talking about.  We might all be back in a month or two.
+L184658 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Tomorrow afternoon.  Don't worry. I'll be ready.
+L184657 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ When's Clifton picking you up?
+L184656 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Yes.  It was.  Thanks for the compass. I'll look after it for you.
+L184655 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ We didn't care about countries. Did we?  Brits, Arabs, Hungarians, Germans.  None of that mattered, did it?  It was something finer than that.
+L184654 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I told you so.
+L184653 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Bermann thinks he'll be interned, poor fellow.  I'm going to do what I can, but…  And D'Ag turns out to be a great admirer of Mussolini. So now you can say I told you so.
+L184652 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Right.
+L184651 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Had a letter from my wife.  The wisteria is still out, which I'm looking forward to.  She says Dorset is gripped with Invasion Fever.  Wrong coast I should have thought, still…
+L184580 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Absolutely right, shut up. Lashings of apologies all round.
+L184579 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Look, either shut up, or go home.
+L184570 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Good, we're all here?  A toast, to the International Sand club - may it soon resurface.
+L184569 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I believe I'm rather late.
+L184471 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Own the desert.
+L184470 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ What do we find in the desert? Arrow heads, spears.  In a war, if you own the desert, you own North Africa.
+L184469 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Why do they care about our maps?
+L184468 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Don't be so bloody naïve.  You know there's a war breaking out.  This arrived this morning.  By order of the British Government - all International Expeditions to be aborted by May 1939.
+L184467 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ What's the matter with you?
+L184466 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Those maps belong to His Majesty's Government.  They're confidential. They shouldn't be left lying around for any Tom, Dick or Mary to have sight of.
+L184465 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ In my room.
+L184464 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ And where are the Expedition Maps?
+L184462 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Which we couldn't explore because of rocks, because of cross-winds, it's sloppy.  And here - and here - we could be staring at Zerzura.
+L184461 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Which we've overflown twice.
+L184460 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ No, because you can't see from the air! If you could explore from the air life would be very simple!  Look!  What is that?  Is that a wadi? That whole spur is a real possibility…
+L184459 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ And I'm telling you there's nothing there to explore.
+L184201 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Bermann!
+L184200 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Try to get a second radiator, we'll bury it between here and the Pottery Hill. And a better jack. We planned badly.
+L184199 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ I'll be back as quick as I can. Thirty-six hours at the outside.
+L183982 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Cut the ropes.  I left a note, on his blanket.  At the next Geographical Society I shall await with great interest the announcement of the Fenelon-Barnes Slave Knot.  The Girl wouldn't leave, of course.  Her father had sold her for a camel. He turns over the propeller, the engine cranks up.
+L183981 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ I was talking about the girl.
+L183980 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ I looked at them.  They're shrubs, small trees.  Exquisite.  And fossilized, rock hard. He walks away to the nose of the plane.
+L183979 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ What did you do?
+L183978 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Her hands and feet were tied.
+L183977 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ You shouldn't go into another man's tent. It's inexcusable.
+L183976 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Looking for the fossils.  Why should we wait until we're in London?  This girl was probably twelve years old.
+L183975 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ What did you think you were doing in his tent?
+L184740 +++$+++ u5050 +++$+++ m334 +++$+++ CORPORAL +++$+++ That's your name innit?  Count Fucking Arsehole Von Bismarck? What's that supposed to be then, Irish?
+L184739 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Fritz?  What are you talking about? Who's Fritz?
+L184738 +++$+++ u5050 +++$+++ m334 +++$+++ CORPORAL +++$+++ Listen, Fritz, if I have to listen to another word from you I'll give you a fucking good hiding.
+L184737 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Please - I beg you, I beg you, I beg you, please listen to me, this is a terrible mistake. Just stop, please, and listen to me.  My wife is dying.
+L184736 +++$+++ u5050 +++$+++ m334 +++$+++ CORPORAL +++$+++ Shut-up!
+L184735 +++$+++ u5046 +++$+++ m334 +++$+++ ALMÁSY +++$+++ Hey!  Hey!  Stop this jeep!  Let me out of here - there's a woman dying, there's a woman dying while I'm - Hey!
+L184006 +++$+++ u5047 +++$+++ m334 +++$+++ BOY +++$+++ Thank you.
+L184005 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Would it? She kisses him, very softly, on the lips.
+L184004 +++$+++ u5047 +++$+++ m334 +++$+++ BOY +++$+++ Just kiss me.  It would mean such a lot to me.
+L184003 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ No, I'll get you some tea. Wait till you're in Naples.  You'll find a girl there.
+L184000 +++$+++ u5047 +++$+++ m334 +++$+++ BOY +++$+++ You're the prettiest girl I ever saw.
+L183999 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Your leg will be fine.  A lot of shrapnel came out - I saved you the pieces.
+L183998 +++$+++ u5047 +++$+++ m334 +++$+++ BOY +++$+++ Okay.
+L183997 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ How are you?
+L184563 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Oh Jesus.  Oh Jesus Christ.
+L184562 +++$+++ u5058 +++$+++ m334 +++$+++ MÜLLER +++$+++ Go!  Hey!  Go! Caravaggio is in terror.
+L184555 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Don't cut me.  Come on.
+L184554 +++$+++ u5058 +++$+++ m334 +++$+++ MÜLLER +++$+++ Or was it Toronto?
+L184553 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Don't cut me.
+L184552 +++$+++ u5058 +++$+++ m334 +++$+++ MÜLLER +++$+++ Well, you must know.  You were brought up Libya, yes?
+L184550 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ I slept with the girl.  I've got a wife in Tripoli.  A girl comes up and points at you, you only see trouble.
+L184549 +++$+++ u5058 +++$+++ m334 +++$+++ MÜLLER +++$+++ Why is there so much nose?  I can't hear myself think!  Look - give me something.  So we can all get out of this room.  A name.  A code.  It's too hot.
+L184547 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ A nurse?  Well, sure, a nurse is great. A nurse?  Great.
+L184546 +++$+++ u5058 +++$+++ m334 +++$+++ MÜLLER +++$+++ We don't have a doctor, but we do have a nurse.
+L184545 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Yes, I've been asking for weeks, a month, I don't know, also my leg was -
+L184541 +++$+++ u5058 +++$+++ m334 +++$+++ MÜLLER +++$+++ You are a Canadian spy working for the Allies.  Code-name Moose.
+L184540 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ It's impossible.  I was buying or selling something.  I've been to Cairo many times.
+L184539 +++$+++ u5058 +++$+++ m334 +++$+++ MÜLLER +++$+++ It is you.  This was taken in Cairo at British Headquarters - July 41. And so was this - August 41.  And this -February 42.
+L184538 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ I don't know.
+L184537 +++$+++ u5058 +++$+++ m334 +++$+++ MÜLLER +++$+++ Is this you?
+L184536 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ I keep explaining.  You've got the wrong man.  My name is Bellini - Antonio Bellini.  Bellini, Caravaggio, both painters, I think that is confusing you.
+L184535 +++$+++ u5058 +++$+++ m334 +++$+++ MÜLLER +++$+++ Petty thief, six months imprisonment Kingston Penitentiary, 1937.
+L184534 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ No.
+L184533 +++$+++ u5058 +++$+++ m334 +++$+++ MÜLLER +++$+++ David Caravaggio.
+L184808 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I can get in the back.
+L184807 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ She can take you as far as Florence.
+L184806 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Buon' giorno.
+L184774 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ What's happened?  Kip!  What's happening? Don't shoot, please, don't shoot anybody.
+L184773 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Well, then ask him his name!
+L184412 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ No-one should own music.  The real question is who wrote the song?
+L184411 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I think that's called looting.
+L184410 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ I liberated it.
+L184409 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Where did you find that?
+L184308 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Please don't creep around this house.
+L184307 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Ask him.  Ask your saint who he is. Ask him who he's killed.
+L184306 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I don't know what that means.
+L184305 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ I'm one of his ghosts and he wouldn't even know.  It's like he slammed a door in Cairo and it trapped my fucking hands in Tobruk.
+L184304 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ What?  How could he have?  When?
+L184303 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ What if I told you he did this to me?
+L184302 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Ask him.
+L184301 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Who are his ghosts?
+L184300 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I'm not in love with him.  I'm in love with ghosts.  And so is he. He's in love with ghosts.
+L184299 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ You have to protect yourself from sadness.  This is the thing I've learned.  You're in love with him, aren't you? Your patient.  Do you think he's a saint or something?  Because of the way he looks?  I don't think he is.
+L184298 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ I'll have some of your water.  It's hot.
+L184297 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Don't touch me if you're going to try and fuck me.
+L184296 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Hana?  Hana?  Are you alright?
+L184141 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Some gave me a dress.  You know what's great?  What I'm learning? You win a war and you not only gain the miles you get the moral ground. Everywhere I go, we're in the right. I like that.
+L184140 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ What do you do?  What are you doing here?
+L184139 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ You should be happy.  What were you going to do for him when it ran out? He pulls out more phials from his jacket.
+L184138 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ It's a week.  We didn't know where you were - or if you coming back, or -
+L184137 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Can you cook the rabbit or will you try and bring that back to life?
+L184136 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I could help you.  I could get you off that.
+L184135 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Rabbit hunting.
+L184134 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Where've you been?
+L184133 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Supper. Hana calls after him.
+L184035 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Fine.  I'm not looking.
+L184034 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Because we're fine here.  I don't know what Mary told you about me, but I don't need company, I don't need to be looked at.
+L184033 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ I'm okay.  Look, it's a big house. We needn't disturb each other.  I can shoot a pistol!  I'll sleep in the stables.  I don't care where I sleep.  I don't sleep.
+L184032 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ If you said yes I would have had a reason.  You should let me redress those bandages.  Before you go.
+L184031 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ No.
+L184030 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ So you can shoot a pistol?
+L184029 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ I'd like to stay.  That's the long and short of it.  I mean, you know blah-blah if it's convenient, if there's room blah-blah-blah.  I have to do some work here -I speak the language. There are Partisans to be -  -we embrace them and see if we can relieve them of their weapons, you know - while we hug.  I was a thief, so they think I'd be good at that.
+L184028 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ So was my Patient.
+L184027 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Yeah, for a while.
+L184026 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ You were in Africa?
+L184025 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ They're fresh.  I haven't eaten an egg in…have you noticed there are chickens? You get chickens in Italy but no eggs. In Africa there were always eggs, but never chickens. Who separates them?
+L184023 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Bonjour.
+L184022 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ I met your friend Mary.  She said I should stop and see if you were okay. Apparently we're neighbors - my house is two blocks from yours in Montreal. Cabot, north of Laurier.  Bonjour.
+L184021 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ What do you want?
+L184020 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Are you Hana?
+L184019 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Buon' Giorno! Hana turns, startled and suspicious.
+L184761 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ No, now I can't kill you.
+L184760 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ You can't kill me.  I died years ago.
+L184759 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ You get to the morning and the poison leaks away, doesn't it? Black nights, fucking black nights, when you want to howl like a dog. I thought I would kill you.  You killed my friends, you ruined my hands.  But the girl was always here, like some Guardian Angel.
+L184758 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Yes, I got back there finally to keep my promise.  To come back for her. And then of course I couldn't… I couldn't even do that properly.
+L184757 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ And did you never see Katharine? You never got back to the Cave?
+L184683 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Is that what you thought?  That I betrayed the British?  The British betrayed me.  The British betrayed me.
+L184682 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ But you were among the British, they were your friends - why betray them?
+L184681 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Thousands of people did die, just different people.
+L184680 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ There was a result to what you did. It wasn't just another expedition.  It did this.  If the British hadn't unearthed your nosey photographer in Cairo thousands of people could have died.
+L184679 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ The rest meant nothing to me.
+L184678 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ What did you say?
+L184677 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ I had to get back to the desert. I made a promise.  The rest meant nothing to me.
+L184676 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ You were the only man who knew the desert well enough, the only man who would cross seventeen hundred miles of nothing.
+L184675 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ And you thought you'd come and settle the score?
+L184674 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Before you went over to the Germans, before you got Rommel's spy across the desert and inside British headquarters. He took some pretty good photographs - I saw mine in that torture room in Tobruk, so they made an impression.
+L184673 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ I see.
+L184672 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ I'd seen you writing in that book. At the Embassy in Cairo, when I had thumbs and you had a face. And a name.
+L184671 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Me?
+L184670 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ So, I come across the Hospital Convoy  I was looking for this stuff, and some nurse, Mary, Hana's friend, tells me about you and Hana, hiding in a monastery, in purdah, whatever it is - retreat -  how you'd come in from the Desert and you were burned and you didn't know your name but you knew the words to every song there was and you had one possession -  - a copy of Herodotus - and it was full of letters and cuttings, and then I knew it must be you.
+L184669 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ We shall miss you.
+L184668 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ There are going to be trials, they want me to interpret, don't they know I'm allergic to courtrooms?
+L184667 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Hana tells me you're leaving.
+L184634 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ What?
+L184633 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ What?  You and Madox?  Or you and Katharine Clifton?
+L184629 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Very true!
+L184628 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Well, anything you do is likely to be fatal, so you know -
+L184627 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ I've had a drink.  Fatal.
+L184626 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Have a drink.
+L184416 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Is there a song you don't know?
+L184415 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Top Hat.
+L184414 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ For?
+L184413 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Irving Berlin.
+L184408 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ What? Hana comes in, sleepily, frowns at the gramophone.
+L184407 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Thought you'd never wake up!
+L184353 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ I don't know.  Paper.  Is it? Paper?  I don't remember.
+L184352 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ First wedding anniversary - what do you call it?
+L184351 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Moose.
+L184350 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Is it you?  If I said Moose… I look different, fuck, why shouldn't you?
+L184349 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ I don't even know if it is my book. The Bedouin found it in the plane, in the wreckage.  It's mine now. I heard your breathing and thought it might be rain. I'm dying for rain - of course I'm dying anyway - but I long to feel rain on my face.
+L184348 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Why do I feel if I had your book I would know everything?
+L184347 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ I can't hide anymore.  I breathe like a dog.  I lose my balance.  Stealing's got harder. Caravaggio stares at the Herodotus.
+L184346 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Are you outside? A beat and then Caravaggio shuffles in.  Like an old boxer.
+L184098 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ I told her you can forget everything but you never forget your name.
+L184097 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ I told her you would never invent such a preposterous name.
+L184096 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ And you've forgotten yours.
+L184095 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Me?  You've got the wrong end of the stick, old boy.  So - Caravaggio - Hana thinks you invented your name.
+L184094 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Are you planning to be the exception?
+L184093 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ I think anybody she ever loves tends to die on her.
+L184090 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ All over?  I kept trying to cover a very modest portion and still failed.  Are you leaving us?  Now's our opportunity to swap war wounds.
+L184089 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Oh, all over.
+L184088 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ I understand you were in Africa. Whereabouts?
+L184087 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Thief, I think, is more accurate.
+L184086 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Finally!  So you're our Canadian pickpocket?
+L184085 +++$+++ u5048 +++$+++ m334 +++$+++ CARAVAGGIO +++$+++ Hello.
+L184345 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Marzipan!  I think you've got marzipan in your hair.  No wonder you're homesick.
+L184344 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ What?
+L184343 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ I do so love you.  What do you smell of?
+L184342 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Geoffrey, you do so love putting on a disguise.
+L184341 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Sweetheart, you know we can't go home, there might be a war.
+L184340 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Can't we really go home?  I can't breathe. Aren't you dying for green, anything green, or rain, wouldn't you die to feel rain on your face? It's Christmas and it's all - I don't know - if you asked me I'd go home tomorrow.  If you wanted.
+L184339 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Sweltering.  Come on, I'll take you home.
+L184338 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Aren't you?
+L184337 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Right.
+L184336 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I'm not pregnant.  I'm hot.  I'm too hot.
+L184335 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Lady H said she thought you might be -
+L184334 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I'm fine.  I got hot.
+L184333 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Darling, I just heard.  You poor sausage, are you all right?
+L184172 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ But finally able to explore the Cairo night-life. I shall produce an authoritative guide to the Zinc Bars and - I want to say Harems - am I in the right country for Harems?
+L184171 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Oh.
+L184170 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Well look, if nobody minds, truly, then I suppose - I shall, of course, be bereft…
+L184169 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Why do you think?  About my staying?
+L184084 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Well, she is!
+L184083 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Darling, for goodness' sake!
+L184082 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ I was just saying, I'm going to cable Downing Street, see if I can't stir up a few shillings - Katharine's mother and the PM's wife are best -
+L184066 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Oh really?
+L184065 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ The team is in mourning, darling.
+L183969 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Off with his head!
+L183968 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ But then the Queen looked up and saw Gyges concealed in the shadows. And though she said nothing, she shuddered. The next day she sent for Gyges and challenged him.  And hearing his story, she said this -
+L184164 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Have to return the favor - take a few photographs for the army.
+L184163 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Did Katharine say? - Geoffrey has to fly back to Cairo.
+L184162 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ To arm-twisting.
+L184161 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ And a special thank you to Geoffrey and Katharine, without whose fund raising heroics we should still be kicking our heels. They toast the Cliftons.
+L184071 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Very much so.  We are all, save my friend here.
+L184070 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Good heavens, are you married, Madox?
+L184062 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ I won't hear of it.  None of us will.
+L184061 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Oh no, really.  She has her book.
+L184060 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Of course.  Well, we should all go out onto the terrace.
+L183943 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ This is Clive Fenelon-Barnes.
+L183942 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Apprentices.
+L183941 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ I think you know all of us, except for Geoffrey and Katharine Clifton, who've recently come out from England.
+L183913 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ We can finally consign my old bird to the scrapheap. Almásy smiles and walks on towards the others.
+L183912 +++$+++ u5049 +++$+++ m334 +++$+++ CLIFTON +++$+++ Isn't it?  Wedding present from Katharine's parents.  I'm calling it Rupert Bear.  Hello.  Geoffrey Clifton.
+L183911 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Marvelous plane.  Did you look?
+L184632 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ That was a dance we invented at the International Sand Club.
+L184631 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Never heard of it.
+L184630 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Who knows the Bosphorus Hug?
+L184594 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Would you like me to?
+L184593 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Why don't you go?  You should sleep.
+L184490 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Don't depend on it.  Will you? That little bit of air, each day there's less of it, which is al right, which is quite all right.
+L184489 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ You'd better be.
+L184488 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ I'm still here.
+L184453 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ - to her cooking.
+L184452 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Hey! -
+L184451 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Hana was just telling me that you were indifferent -
+L184450 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ I don't think it's indifference.
+L184449 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I don't think it does.  Anyway, he's indifferent to me.
+L184448 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ You like him, don't you?  Your voice changes.
+L184445 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Condensed milk - one of the truly great inventions.
+L184444 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Arguing about books.
+L184420 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Kip's another one.
+L184419 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ I've been told that before.
+L184418 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Good morning.  Did you know that?  You're always singing?
+L184372 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ In that case, I suppose we can't charge.
+L184371 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ They have to clear all the local roads of mines.  That's a big job. They won't stay in the house. They're putting up their tent in the garden.
+L184370 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ We should charge!  Doesn't anyone have a job to do?
+L184369 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ With his Sergeant.  A Mr. Hardy.
+L184368 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Why?  Is he staying?
+L184367 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I liked it better when there were just the two of us.
+L184366 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ My mother always told me I would summon my husband by playing the piano.
+L184365 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Really?  That's sudden.
+L184364 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I'll probably marry him.
+L184363 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Sikh.  If he wears a turban, he's a Sikh.
+L184362 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ He wants us to move out, says there could be fifty more mines in the building. He thinks I'm mad because I laughed at him.  He's Indian, he wears a turban.
+L184310 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ K is for Katharine.
+L184309 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Tell me about this, this is in your handwriting - December 22nd - Betrayals in war are childlike compared with our betrayals during peace.  New lovers are nervous and tender, but smash everything - for the heart is an organ of fire…  I love that, I believe that.  Who is K?
+L184273 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Yes, of course, I'm so sorry. Stupid of me. Hana gets up, upset to have hurt him.
+L184272 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Could I ask you to move?  I'm sorry - but when you turn, the sheets, I can't really bear the sheets moving over me. Sorry.
+L184146 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Do I recognize him?  I recognize what he is. I like him.  He's Canadian.  He can read Italian.  He can catch rabbits.
+L184145 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ He keeps asking me questions about you. Do you know him?  Do you recognize him?
+L184144 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ That's a different dress.
+L184143 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ He came back, he says he caught a rabbit.  I'm cooking it.
+L184142 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Something smells so rich.  My stomach is heaving -
+L184124 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Please, don't waste your time on pleasantries -
+L184123 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ This is Captain McGann.
+L184122 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Thank you.  Thank you.
+L184121 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Well then - yes.  Of course.
+L184120 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ No, I can't go, but if it, if you weren't offended, it would be very good of you to allow us - every other cabin is crammed. This is as private as we'll get.
+L184119 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Just go off.  I'll be quite all right.
+L184118 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ He's going back to the front this evening.  I can't see him otherwise.
+L184117 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Your friend?
+L184116 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Can I ask - my friend, can he come in? Just for a few minutes?
+L184115 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Yes?
+L184114 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Excuse me -
+L184042 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ He won't disturb us then.  I think he's after morphine.  There's a war.  Where you come from becomes important.  And besides - we're vulnerable here. I keep hearing noises in the night. Voices.
+L184041 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Me?  He can't.  I'm already disturbed.
+L184040 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ He needn't disturb you.
+L184039 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Why are people always so happy when they collide with someone from the same place?  What happened in Montreal when you passed a man in the street - did you invite him to live with you?
+L184038 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ He's Canadian.
+L184037 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Why?  Can he lay eggs?
+L184036 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ There's a man downstairs.  He brought us eggs.  He might stay.
+L183995 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Because I'm a nurse.
+L183994 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Why are you so determined to keep me alive?
+L183993 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Are you crazy?
+L183992 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Could I have a cigarette?
+L183991 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Are you remembering more?
+L183990 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ I can see my wife in that view.
+L183989 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ No sand.  That's your drugs speaking.
+L183988 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Zerzura, the White City of Acacias, the Oasis of Little Birds.  As me about the scent of acacia - it's in this room.  I can smell it.  The taste of tea so black it falls into your mouth.  I can taste it. I'm chewing the mint.  Is there sand in my eyes?  Are you cleaning sand from my ears?
+L183987 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I'm turning you.
+L183986 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Not the window - I can't bear the light anyway - no, I can see all the way to the desert.  I've found the lost fossils.
+L183985 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ How?  How can you see anything?
+L183984 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ I can already see.
+L183983 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I should try and move your bed.  I want you to be able to see the view.  It's good, it's a view from a monastery.
+L183974 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Yes.  Dropping off.
+L183973 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Are you asleep?
+L183966 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ When my wife comes to lie down she always lays her garments one by one on a seat near the entrance of the room, and from where you stand you will be able to gaze on her at your leisure…
+L183965 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ I'm not laughing at you.  Go on, please.
+L183964 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Candaules…you're laughing at me.
+L183963 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Candaules
+L183962 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I will hide you in the room where we sleep, said Candaules. She stumbles over the word.
+L183931 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Thank you.
+L183930 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Oh - I've found plums.  We have plums in the orchard.  We have an orchard! She has peeled a plum and now slips it into his mouth.
+L183929 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ My book?  The Herodotus?  Yes, we can read him.
+L183928 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I think they're all in Italian, but I'll look, yes.  What about your own book?
+L183927 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Before you find too many uses for these books would you read some to me?
+L183926 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I was repairing the stairs.  I found a library and the books were very useful.
+L183925 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ What was all the banging?  Were you fighting rats or the entire German army?
+L183886 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Because you're leaning?  No, you're just on an angle.  You're too heavy!
+L183885 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ There was a Prince, who was dying, and he was carried up the tower at Pisa so he could die with a view of the Tuscan Hills. Am I that Prince? Hana laughs.
+L184286 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ 
+L184285 +++$+++ u5053 +++$+++ m334 +++$+++ JAN +++$+++ Where's your Stuart from? Somewhere near there, isn't it?
+L183865 +++$+++ u5053 +++$+++ m334 +++$+++ JAN +++$+++ I love you.
+L183864 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I'm not sewing anything else for you!
+L183863 +++$+++ u5053 +++$+++ m334 +++$+++ JAN +++$+++ Hana, I know you do!
+L183862 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ No!
+L183861 +++$+++ u5053 +++$+++ m334 +++$+++ JAN +++$+++ You don't have any money, do you? Just in case there's silk.
+L183860 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I'm not sewing anything else.
+L183859 +++$+++ u5053 +++$+++ m334 +++$+++ JAN +++$+++ There's meant to be lace in the next village - the boys are taking me.
+L184791 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ So one day we'll meet.
+L184790 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ I'll always go back to that church.
+L184789 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I'll always go back to that church. Look at my painting.
+L184788 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ Then come with me.
+L184787 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I've clung to you.  I've clung to you. Kip.  Life  a raft.
+L184786 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I'm thinking about your heart, not your skin.  And how to reach it. And that I don't think I can.  A bomb has ruined us, just not the bomb I thought would ruin us.
+L184785 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ It's what I've learned.
+L184784 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Is that what you think?  Is that what you think I think?
+L184783 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ I know - here I am always a brown man, there you would be always a white woman.
+L184782 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Kip… I -
+L184781 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ I mean home.  India.
+L184780 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Of course.  When?
+L184779 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ Will you come with me?
+L184756 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Nya-nya-nya!
+L184755 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ This is hot!
+L184754 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ The lamp was burning all night in his room.  Caravaggio was there with him.
+L184753 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I should go to the house, get breakfast.
+L184752 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ When I went to England I was amazed at what went on, the waste - I'd been taught to re-use everything, the dung from a cow to cool a radiator, a fork to fix a typewriter - India could live for a hundred years on what I saw thrown away.
+L184751 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ That gun at Lahor, Kipling's cannon - Zamzammah - remember?  That was made out of the metal of ordinary things. I want to make an ordinary thing out of guns. His bayonet is thrust into the forge.  It's red hot.
+L184750 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ What are you up to?
+L184649 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ You wouldn't come to find me?  That makes me never want to come here. But she continues unraveling the turban.
+L184648 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ Then I'd think there must be a reason.
+L184647 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ But if it got late and I hadn't shown up?
+L184646 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ I try not to expect you.
+L184645 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ If one night I didn't come to the tent, what would you do?
+L184644 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ You loved him.
+L184643 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ I was thinking yesterday - yesterday! - the Patient, Hardy: they're everything that's good about England. I couldn't even say what that was. We didn't exchange two personal words, and we've been together through some terrible things, some -  he was engaged to a girl in the village! - I mean -  and us - he never once… He didn't ask me if I could spin the ball at cricket or the kamasutra or - I don't even know what I'm talking about.
+L184625 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ Yes.  Later.
+L184624 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Kip - come and dance with me
+L184608 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ This is what I do.  I do this every day.
+L184607 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Don't go.  I'm frightened.  I can love a coward, I can't love another dead man.
+L184515 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ Don't talk.  Check again.  Lie flat and then cut.
+L184514 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Kiss me.  Before I cut.  Just in case.
+L184513 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ No. But he hands them over.
+L184512 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Actually, you can't cut, can you? You'll fall over.  Give me the pliers.
+L184511 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ You must get away.  Before I cut. I'm not cutting if you're here. He's struggling.  He's going to topple over if he cuts.
+L184510 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I'm not scared.  So many people have died around me.  But I would be a shame for us.  I don't feel like being shy.
+L184509 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ Okay.  Get away from here.  Quick.
+L184508 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I promise you that was the right thing to do.  He's my good luck.  Now cut.  This one.  I hope we don't die.
+L184507 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ What is this business with you and explosives?  Do you think you're immune?
+L184504 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ I've done this.  I've had to do this.
+L184503 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Why would anyone do this?
+L184501 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I follow the wires.
+L184500 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ You get Hardy.
+L184499 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ So I follow the wires?
+L184498 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ There's a mine here, but the others are far enough away, I think at least to give me a chance.  I have to work out which one to cut before I fall over.
+L184497 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ What do I do?
+L184496 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ The mines, the wires, there's a trick. Some explode if you stretch the wires, some if you cut them.
+L184495 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ It's okay - I'll help.  Please.
+L184447 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I didn't like that book either. It's all about men.  Too many men. Just like this house.
+L184446 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ I'll get another tin. Hana and the Patient are alone.
+L184434 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Yes, for your hair.
+L184433 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ For my hair?
+L184432 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ Thank you.
+L184431 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Try this.  I found a great jar of it. Olive oil.  In Naples this was so precious it would have bought you a wife.
+L184361 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I don't think so.
+L184360 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ I've met you before.
+L184359 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ No, but, no, not at all.  I'm sorry. You came to the doors, that's all and -  - such good manners for someone worried about mines.  That's all.
+L184358 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ Is something funny?
+L184357 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I see.  Then may be you're safe as long as you only play Bach.  He's German. Kip is looking around the piano. Hana giggles.
+L184356 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ The Germans were here.  The Germans were all over this area.  They left mines everywhere.  Pianos were their favorite hiding places.
+L184355 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Excuse me.  Yes?  I don't have the key to that door.
+L184295 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Oh God.  Oh God.
+L184294 +++$+++ u5060 +++$+++ m334 +++$+++ OLIVER +++$+++ No.  He's - no.
+L184293 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ He's gone, hasn't he?
+L184288 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Does he know a Captain McGann? The boy hears this, whispers to Oliver.
+L184287 +++$+++ u5060 +++$+++ m334 +++$+++ OLIVER +++$+++ Third Canadian Fusiliers.
+L184284 +++$+++ u5060 +++$+++ m334 +++$+++ OLIVER +++$+++ He's from there - edge of Lake Ontario right, Soldier?
+L184283 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Why Picton?
+L183882 +++$+++ u5060 +++$+++ m334 +++$+++ OLIVER +++$+++ If anything happened to you I'd never forgive myself.
+L183881 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ He can't even move.
+L183880 +++$+++ u5060 +++$+++ m334 +++$+++ OLIVER +++$+++ And what if he really is a spy?
+L183879 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I need morphine.  A lot.  And a pistol.
+L183878 +++$+++ u5060 +++$+++ m334 +++$+++ OLIVER +++$+++ It's not safe here.  The whole country's crawling with Bandits and Germans and God knows what.  It's madness.  I can't allow it. You're not, this is natural - it's shock. For all of us.  Hana -
+L183877 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ When he dies I'll catch up.
+L183876 +++$+++ u5060 +++$+++ m334 +++$+++ OLIVER +++$+++ It's not over everywhere.  I didn't mean literally.
+L183875 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ The war's over - you told me yourself. How can it be desertion?
+L184604 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ What if you couldn't find him…?  Sergeant, not today, please. Not this morning.
+L184603 +++$+++ u5052 +++$+++ m334 +++$+++ HARDY +++$+++ Pardon me?
+L184602 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Does he have to go?
+L184601 +++$+++ u5052 +++$+++ m334 +++$+++ HARDY +++$+++ A bomb.  At the Viaduct. She closes the door, then reappears.
+L184600 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I'll tell him.  What is it?  Is it a mine?
+L184599 +++$+++ u5052 +++$+++ m334 +++$+++ HARDY +++$+++ Only we have to go to work.
+L184598 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ He's sleeping.
+L184597 +++$+++ u5052 +++$+++ m334 +++$+++ HARDY +++$+++ I was looking for the Lieutenant Singh.
+L184428 +++$+++ u5052 +++$+++ m334 +++$+++ HARDY +++$+++ A toddler
+L184427 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ You saved my life.  I haven't forgotten.  I thought you were very very tall. You seemed to big - a Giant - and I felt like a child who can't keep her balance.
+L184426 +++$+++ u5052 +++$+++ m334 +++$+++ HARDY +++$+++ I'll ask the Lieutenant.  But thank you.
+L184425 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Since Caravaggio turned up - food seems to appear, so please.
+L184424 +++$+++ u5052 +++$+++ m334 +++$+++ HARDY +++$+++ Very kind of you, we can always eat in the town with the others -
+L184423 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I was going to say - if you want to eat with us, ever… you and Lieutenant Singh…
+L184422 +++$+++ u5052 +++$+++ m334 +++$+++ HARDY +++$+++ Hello miss.
+L184421 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Hello.
+L184132 +++$+++ u5061 +++$+++ m334 +++$+++ STUART +++$+++ I'm feeling old.
+L184131 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I thought that was for when we were very very old?
+L184130 +++$+++ u5061 +++$+++ m334 +++$+++ STUART +++$+++ I had a hotel room.
+L184129 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I was looking forward to this evening.
+L184128 +++$+++ u5061 +++$+++ m334 +++$+++ STUART +++$+++ A bit of one.
+L184127 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ You've got a mustache.
+L184018 +++$+++ u5061 +++$+++ m334 +++$+++ STUART +++$+++ We can do that when we're very, very old.
+L184017 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ I'd like to spend a night with you in a bed.
+L184016 +++$+++ u5061 +++$+++ m334 +++$+++ STUART +++$+++ I've got a surprise.  A boat!  We can go to Capri.  It's got a cabin, it's private.
+L184015 +++$+++ u5051 +++$+++ m334 +++$+++ HANA +++$+++ Sorry.  I took a Benzedrine.
+L184014 +++$+++ u5061 +++$+++ m334 +++$+++ STUART +++$+++ Whoa - give me a chance!
+L184618 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ This is making me incredibly angry.
+L184617 +++$+++ u5052 +++$+++ m334 +++$+++ HARDY +++$+++ Yessir.
+L184616 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ Go away.
+L184615 +++$+++ u5052 +++$+++ m334 +++$+++ HARDY +++$+++ You've got to cut, sir, that frost won't last.
+L184606 +++$+++ u5052 +++$+++ m334 +++$+++ HARDY +++$+++ I'm afraid so, sir. Kip hurries to his tent.  Hana follows him.
+L184605 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ What's happening?  Am I needed?
+L183867 +++$+++ u5052 +++$+++ m334 +++$+++ HARDY +++$+++ Don't move!  Stand ABSOLUTELY STILL! Hana stops. 
+L183866 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ Hey!  Hey!  Stop!  Hey!
+L184206 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I insist.  There clearly isn't room for us all, I'm the least able to dig, and I'm not one of the walking wounded. Those are facts.  Besides, if I remain it's the most effective method of persuading my husband to abandon whatever he's doing and rescue us. It's hard to argue with this logic.
+L184205 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Certainly not.
+L184166 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Why not?
+L184165 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Darling, Peter says I could stay…
+L184069 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ A more modest expedition, or even wait a year.  Remind our families we still exist.
+L184068 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ How awful.  What will you do?
+L184067 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ I'm afraid we're not having much luck obtaining funds for the expedition.
+L184064 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Not at all.  I was thoroughly enjoying by book.  Please.  Signor D'Agostino, Herr Bermann.
+L184063 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Mrs. Clifton, you'll have to forgive us.  We're not accustomed to the company of women.
+L183959 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ It doesn't matter.  Really.  I think I can muddle through.  Okay - The Story of Candaules and Gyges. King Candaules was passionately in love with his wife -  One day he said to Gyges, the son of somebody, anyway - his favorite warrior -
+L183958 +++$+++ u5057 +++$+++ m334 +++$+++ MADOX +++$+++ Your book.  Your Herodotus! Almásy looks uncomfortable.
+L184328 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ No, please.  I shall be absolutely fine. They pass Almásy, who doesn't look up from his book.
+L184327 +++$+++ u5056 +++$+++ m334 +++$+++ LADY HAMPTON +++$+++ I'll come with you.
+L184326 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I think I might go inside and sit down for a few minutes.
+L184325 +++$+++ u5056 +++$+++ m334 +++$+++ LADY HAMPTON +++$+++ How romantic.  With Fiona I fell over every five minutes.  Ronnie Christened me Lady Downfall.
+L184324 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ I don't think so.
+L184323 +++$+++ u5056 +++$+++ m334 +++$+++ LADY HAMPTON +++$+++ You should sit down, darling.  She's quite all right.  Are you pregnant?
+L184317 +++$+++ u5054 +++$+++ m334 +++$+++ KATHARINE +++$+++ Coming.  I can't sleep.  I woke up shouting in the middle of the night. Geoffrey thinks it's the thing in the desert, the trauma.
+L184316 +++$+++ u5056 +++$+++ m334 +++$+++ LADY HAMPTON +++$+++ Katharine!
+L184776 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Go on, do it.  I don't need to hear any more.
+L184775 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ They're excited!  They're happy about destroying a whole city. Would they do that to a White Man's City?  Never!
+L184767 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ What have I been doing all this time? Do you know how many mines I've seen? - more mines than there are soldiers, more - how many mines we've put in the ground ourselves, stuffed in corpses, dropped out of the sky.  And now this.
+L184766 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ What are you talking about?
+L184765 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ I looked up to you, Uncle.  My brother always said I was a fool. Never trust the British, he said: the deal-makers, the map-makers; never shake hands with them.
+L184764 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Kip?
+L184457 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ What's he saying?
+L184456 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ This is wonderful!
+L184443 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Hana, we have discovered a shared please - the boy and I.
+L184442 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ What I really object to, Uncle, is your finishing all my condensed milk.  And the message everywhere in your book - however slowly I read it - that the best destiny for India is to be ruled by the British.
+L184441 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ So what do you really object to - the writer or what he's writing about?
+L184440 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ It's still there, the cannon, outside the museum. It was made of metal cups and bowls taken from every household in the city as tax, then melted down. Then later they fired the cannon at my people - comma - The natives.
+L184439 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ - The Wonder House comma as the natives called the Lahore Museum.
+L184438 +++$+++ u5055 +++$+++ m334 +++$+++ KIP +++$+++ Brick platform opposite the old Ajaib-Gher -
+L184111 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ I think so.  Although I believe that to be true of a number of Germans. Might I have a glass of water?
+L184110 +++$+++ u5059 +++$+++ m334 +++$+++ OFFICER +++$+++ Then you were married?
+L184109 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Or my wife's.
+L184108 +++$+++ u5059 +++$+++ m334 +++$+++ OFFICER +++$+++ This was your garden?
+L184107 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ You tell me.  I remember a lot of things. I remember a garden, plunging down to the sea - the Devil's Chimney we called it - and there was a cottage at the bottom, right on the shore, nothing between you and France.
+L184106 +++$+++ u5059 +++$+++ m334 +++$+++ OFFICER +++$+++ How do you know you're not German if you don't remember anything?
+L184105 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ No.
+L184104 +++$+++ u5059 +++$+++ m334 +++$+++ OFFICER +++$+++ Why?  Are you German?
+L184103 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ Am I being interrogated?  You should be trying to trick me.  Ask me about Tottenham Hotspur.  Or Buckingham Palace. About Marmite - I was addicted.  Or make me speak German, which I can, by the way.
+L184100 +++$+++ u5062 +++$+++ m334 +++$+++ THE PATIENT +++$+++ No.  I think I was a pilot.  I was found near the wreckage of a plane by the Bedouin.  I was with them for some time.
+L184099 +++$+++ u5059 +++$+++ m334 +++$+++ OFFICER +++$+++ What about your rank or serial number?

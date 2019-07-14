@@ -1,0 +1,237 @@
+L486267 +++$+++ u7450 +++$+++ m504 +++$+++ BRINNLITZ GUY 2 +++$+++ Now you're back.
+L486266 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Things worked out.  I made some money over there, had some laughs, you know. It was good.
+L486265 +++$+++ u7450 +++$+++ m504 +++$+++ BRINNLITZ GUY 2 +++$+++ Nothing's changed.  Then again, something has changed, hasn't it?
+L486264 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ How do you do?  What can I get you, what're you drinking?
+L486263 +++$+++ u7450 +++$+++ m504 +++$+++ BRINNLITZ GUY 2 +++$+++ Oskar - my friend Lena.
+L485991 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ My plant manager is somewhere on this train. If it leaves with him on it, it'll disrupt production and the Armaments Board will want to know why.
+L485990 +++$+++ u7451 +++$+++ m504 +++$+++ CLERK +++$+++ The gentleman thinks a mistake's been made.
+L485989 +++$+++ u7451 +++$+++ m504 +++$+++ CLERK +++$+++ Klaus Tauber.
+L485988 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I didn't ask you about the list, I asked you your name.
+L485987 +++$+++ u7451 +++$+++ m504 +++$+++ CLERK +++$+++ Sir, the list is correct.
+L485986 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ What's your name?
+L485985 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I'm talking to a clerk.
+L485984 +++$+++ u7451 +++$+++ m504 +++$+++ CLERK +++$+++ He's on the list.  If he were an essential worker, he would not be on the list. He's on the list.  You can't have him.
+L485983 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Well, let's find him.
+L485982 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ He is.
+L485981 +++$+++ u7451 +++$+++ m504 +++$+++ CLERK +++$+++ Itzhak Stern?  He's on the list.
+L485980 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ He's essential.  Without him, everything comes to a grinding halt.  If that happens -
+L485882 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ It's up to you.
+L485881 +++$+++ u7452 +++$+++ m504 +++$+++ EMILIE +++$+++ Should I stay?
+L485880 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ It's a beautiful city.
+L485879 +++$+++ u7452 +++$+++ m504 +++$+++ EMILIE +++$+++ Should I stay?
+L485878 +++$+++ u7452 +++$+++ m504 +++$+++ EMILIE +++$+++ I feel like an old-fashioned couple. It feels good.
+L485877 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ What?
+L485875 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ War.
+L485874 +++$+++ u7452 +++$+++ m504 +++$+++ EMILIE +++$+++ Luck.
+L485872 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ A charade?  How could it be a charade?
+L485871 +++$+++ u7452 +++$+++ m504 +++$+++ EMILIE +++$+++ It's not a charade, all this?
+L485863 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ You would, though.  That's what I'm saying.
+L485862 +++$+++ u7452 +++$+++ m504 +++$+++ EMILIE +++$+++ I don't have to like her just because you do.  It doesn't work that way.
+L485861 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ What -
+L485860 +++$+++ u7452 +++$+++ m504 +++$+++ EMILIE +++$+++ Oskar, please -
+L485859 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ You know what, you'd like her.
+L486337 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Breslau?  I can't go to Breslau.  Not now.
+L486336 +++$+++ u7453 +++$+++ m504 +++$+++ GESTAPO +++$+++ In Breslau.
+L486335 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ All right, okay, let's talk.
+L486334 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I'd love to, it'll have to wait until I get back.  I have to leave.
+L486333 +++$+++ u7453 +++$+++ m504 +++$+++ GESTAPO +++$+++ There are some things that are unclear. We need to talk.
+L486332 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I'm sorry to hear that.
+L486331 +++$+++ u7453 +++$+++ m504 +++$+++ GESTAPO +++$+++ Your friend Amon Goeth has been arrested.
+L486477 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ The guards aren't allowed on the factory floor. They make my workers nervous.
+L486476 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ Where are the guards?
+L486286 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ All you have to do is tell me what it's worth to you.  What's a person worth to you.
+L486285 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ Yeah, all right, don't tell me, I'll go along with it, it's just irritating to me I can't figure it out.
+L486284 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ You did, but you didn't.
+L486283 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I just told you.
+L486282 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ If you admit to making three, then it's four, actually.  But how?
+L486280 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ Yeah, sure.
+L486279 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ It's good for me - I know them, I'm familiar with them.  It's good for you - you'll be compensated.  It's good for the Army.  You know what I'm going to make?  Artillery shells.  Tank shells. They need that.  Everybody's happy.
+L486278 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ You're not telling me something.
+L486277 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Look -
+L486276 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ Oh, this is "good business" in your opinion. You've got to move them, the equipment, everything to Czechoslovakia - it doesn't make any sense.
+L486275 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ It's good business.
+L486274 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ What are you, Moses?  What is this? Where's the money in this?  What's the scam?
+L486273 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ These people, my people, I want my people.
+L486272 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ You want these people.
+L486255 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ I don't know.  Soon.
+L486254 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ When?
+L486253 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ They're taking mine.  When I said they didn't have a future I didn't mean tomorrow.  Auschwitz.
+L486252 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ You took my workers.
+L486214 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ I got a shipment of Hungarians coming in, I got to make room for them.  It's always something.
+L486213 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ What's going on?
+L486212 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ I tried to call you, I'm running a little late, this is taking longer than I thought.  Have a drink.
+L486096 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ I want him.  Come on, let's go inside, let's have a good time.
+L486095 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ What do you want for him, I'll give it to you.
+L486094 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ He's important to my business.
+L486093 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ You held back Stern.  You held back the one man most important to my business.
+L486091 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I pay you too much.
+L486090 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ It's true.  Never happen in Cracow, though, we all love you too much.
+L486064 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Well, you've been through it.  You know. You could make things easier for me.
+L486063 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ Do you have any idea what's involved? The paperwork alone?  Forget you got to build it all, getting the fucking permits, that's enough to drive you crazy.  Then the engineers show up.  They stand around and they argue about drainage - I'm telling you, you'll want to shoot somebody, I've been through it, I know.
+L486061 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ True.
+L486060 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ That you know the meaning of the word gratitude.  That it's not some vague thing with you like with some guys.
+L486059 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Yeah, what's that?
+L486058 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ Scherner told me something else about you.
+L486057 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ Some of the boys went crazy, what're you going to do?  You're right, it's bad business, but it's over with, it's done.  Occasionally, sure, okay, you got to make an example.  But that's good business.
+L486056 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ It's bad business.
+L486055 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ We're going to be making so much money, none of this is going to matter -
+L486054 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Every day that goes by, I'm losing money. Every worker that is shot, costs me money - I have to get somebody else, I have to train them -
+L486053 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ They're mine!
+L486052 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ They're not gone, they're here.
+L486051 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I go to work the other day, there's nobody there.  Nobody tells me about this, I have to find out, I have to go in, everybody's gone -
+L486049 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I'd say I'd get you one but the guy who made it, he's probably dead, I don't know.
+L486048 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ He looks great, though, doesn't he? I have to know - where do you get a suit like that?  what is that, silk?  It's great.
+L486047 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ You're kidding.
+L486046 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ You know, they told me you were going to be trouble - Czurda and Scherner.
+L486039 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Good.
+L486038 +++$+++ u7454 +++$+++ m504 +++$+++ GOETH +++$+++ We started without you.
+L486321 +++$+++ u7455 +++$+++ m504 +++$+++ GOLDBERG +++$+++ Takes diamonds to stay on this list.
+L486320 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ What do I got for you?
+L486319 +++$+++ u7455 +++$+++ m504 +++$+++ GOLDBERG +++$+++ You want to stay on it?  What do you got for me?
+L486318 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ Of course I'm on it.
+L486317 +++$+++ u7455 +++$+++ m504 +++$+++ GOLDBERG +++$+++ Hey, Poldek, how's it going?  You know about the list?  You're on it.
+L485820 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ Yeah, I can.
+L485819 +++$+++ u7455 +++$+++ m504 +++$+++ GOLDBERG +++$+++ Ghetto Police.  I'm a policeman now, can you believe it?
+L485782 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ Look it up.
+L485781 +++$+++ u7455 +++$+++ m504 +++$+++ GOLDBERG +++$+++ This is not my problem.
+L485780 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ I asked for metal, you gave me glass.
+L485779 +++$+++ u7455 +++$+++ m504 +++$+++ GOLDBERG +++$+++ So I'm responsible for the weather?
+L485778 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ My buyers sold it to a guy who sold it to the Army.  But by the time it got there - because of the cold - it broke, the whole truckload.
+L485777 +++$+++ u7455 +++$+++ m504 +++$+++ GOLDBERG +++$+++ You asked for shoe polish.
+L485776 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ You don't recognize it?  Maybe that's because it's not what I asked for.
+L485775 +++$+++ u7455 +++$+++ m504 +++$+++ GOLDBERG +++$+++ What's that?
+L485925 +++$+++ u7456 +++$+++ m504 +++$+++ LOWENSTEIN +++$+++ You're a good man.
+L485924 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Yeah, okay.
+L485923 +++$+++ u7456 +++$+++ m504 +++$+++ LOWENSTEIN +++$+++ God bless you, sir.
+L485922 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ That's great, thanks.
+L485921 +++$+++ u7456 +++$+++ m504 +++$+++ LOWENSTEIN +++$+++ I work hard for you.  I'll continue to work hard for you.
+L485920 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ That's great.
+L485919 +++$+++ u7456 +++$+++ m504 +++$+++ LOWENSTEIN +++$+++ The SS beat me up.  They would have killed me, but I'm essential to the war effort, thanks to you.
+L485918 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ You're welcome, I'm sure you're doing a great job.
+L485917 +++$+++ u7456 +++$+++ m504 +++$+++ LOWENSTEIN +++$+++ I want to thank you, sir, for giving me the opportunity to work.
+L486527 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Yeah?  Yeah, that'd be nice, let me get my coat.
+L486526 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ I thought maybe you'd like to come over, have some dinner, some of the people are coming over.
+L486525 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I've been here.  I guess I haven't been out.
+L486524 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ I mean where have you been? Nobody's seen you around for a while.
+L486523 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I'm having a drink, come on in, we'll have a drink.
+L486522 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ What are you doing?
+L486521 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Things are great, things are great.
+L486520 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ Good.  How's it going?
+L486394 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ How should I know?  It's broken. See what you can do.
+L486393 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ What's wrong with it?
+L485904 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ She's good.
+L485903 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ What's the matter, everything all right at home?  Mila's okay?
+L485902 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ Yeah.
+L485901 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ How you feeling, all right?
+L485794 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I don't know, ten or twelve.  That's a good color.  Dark blues, grays.
+L485793 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ How many?
+L485792 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Nice things cost money.
+L485791 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ You have any idea what a shirt like this costs?
+L485790 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ There's nothing in the stores.
+L485789 +++$+++ u7457 +++$+++ m504 +++$+++ PFEFFERBERG +++$+++ Like this?
+L486451 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Pistols, rifles, carbines ...  I'd be grateful.
+L486450 +++$+++ u7458 +++$+++ m504 +++$+++ RASCH +++$+++ Pistols?
+L486449 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ It kind of looks that way.
+L486448 +++$+++ u7458 +++$+++ m504 +++$+++ RASCH +++$+++ We're losing the war, aren't we.
+L486447 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ One of these days the Russians are going to show up unannounced at my gate.  I'd like the chance to defend myself.  I'd like my wife to have that chance.  My civilian engineers. My secretary.
+L486442 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Wine?
+L486441 +++$+++ u7458 +++$+++ m504 +++$+++ RASCH +++$+++ Oh, God, you don't have a drink?
+L486440 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I need a drink.
+L486439 +++$+++ u7458 +++$+++ m504 +++$+++ RASCH +++$+++ Thank you.
+L486437 +++$+++ u7458 +++$+++ m504 +++$+++ RASCH +++$+++ How do you do?
+L486436 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Are you kidding, I never miss a party. Police Chief Rasch, my wife Emilie.
+L486435 +++$+++ u7458 +++$+++ m504 +++$+++ RASCH +++$+++ Oskar, good of you to come.
+L486200 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Did I threaten anybody here?  I stated a simple fact.
+L486199 +++$+++ u7459 +++$+++ m504 +++$+++ SCHERNER +++$+++ He doesn't deserve your loyalty.  More important, he's not worth you making threats against us.
+L486194 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ He's got no style, we all know that. So, we should hang him for it?
+L486193 +++$+++ u7459 +++$+++ m504 +++$+++ SCHERNER +++$+++ He's a friend of yours, you want to help him out. Tell me this, though - has he ever once shown you his appreciation?  I've yet to see it. Never a courtesy.  Never a thank you note.  He forgets my wife at Christmas time -
+L486192 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ So I'll talk to him about it.
+L486191 +++$+++ u7459 +++$+++ m504 +++$+++ SCHERNER +++$+++ The place produces nothing.  I shouldn't say that - nothing it produces reaches the Army.  That's not all right.
+L485847 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Done.  Lets not talk about it anymore, let's have a good time.
+L485846 +++$+++ u7459 +++$+++ m504 +++$+++ SCHERNER +++$+++ That'd be fine.
+L485844 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Whoever.  They're the ones.  They'd appreciate some kind of gesture from me.
+L485843 +++$+++ u7459 +++$+++ m504 +++$+++ SCHERNER +++$+++ What others?
+L485842 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ No, look.  It's the others.  They're the ones causing these delays.
+L485841 +++$+++ u7459 +++$+++ m504 +++$+++ SCHERNER +++$+++ I'd never ask you for money, you know that. I don't even like talking about it - money, favors - I find it very awkward, it makes me very uncomfortable -
+L486498 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ You did so much.
+L486497 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I didn't do enough.
+L486496 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ There will be generations because of what you did.
+L486495 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ If I'd made more money ...I threw away so much money, you have no idea. If I'd just ...
+L486494 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ Oskar, there are twelve hundred people who are alive because of you.  Look at them.
+L486493 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I could've got more ... if I'd just ... I don't know, if I'd just ... I could've got more...
+L486456 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ No, no, what, what is it?
+L486455 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ I'll talk to you later.
+L486411 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ You'll lose money.
+L486410 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ You don't?  I do.  I see a difference.
+L486409 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ I know what you're saying, but I don't see the difference.
+L486406 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ No?
+L486405 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ There's a rumor you've been going around miscalibrating the machines.  I don't think that's a good idea.
+L486404 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Well, sure.  So would I.  So would you. I wouldn't worry about it.  We'll get it right one of these days.
+L486403 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ They're withholding payment.
+L486402 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Well, that's to be expected.  They have to understand.  These are start-up problems. This isn't pots and pans, this is a precise business.  I'll write them a letter.
+L486399 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ They arrived, can you believe it?
+L486398 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ They arrived.
+L486397 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Stern.
+L486396 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ We need to talk.
+L486389 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Yes.
+L486388 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ That's very generous of you.
+L486299 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Give or take what, Stern - how many - count them.
+L486298 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ Eight hundred, give or take.
+L486295 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ More.
+L486294 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ Four hundred, four fifty -
+L486188 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Well, I'll talk to somebody.  I'll take care of it.
+L486187 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ I think it's too late.
+L486186 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I'll talk to him.
+L486161 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ There's nothing you can do.  I'm not asking you to do anything.  You came into my office.
+L486160 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I'll admit it's a weakness.  I don't think he enjoys it.  All right, he does enjoy it, so what? What do you expect me to do about it?
+L486159 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ And killing.
+L486158 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ You have to understand, Goeth's under enormous pressure.  You have to think of it in his situation.  He's got this whole place to run, he's responsible for everything that goes on here, all these people - he's got a lot of things to worry about.  And he's got the war. Which brings out the worst in people.  Never the good, always the bad.  Always the bad. But in normal circumstances, he wouldn't be like this.  He'd be all right.  There'd be just the good aspects of him.  Which is a wonderful crook.  A guy who loves good food, good wine, the ladies, making money...
+L486157 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ It's dangerous.  It's dangerous, to me, personally.
+L486156 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ What other point is -
+L486155 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ No, I'm not losing money, that's not the point.
+L486154 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ Are you losing money?
+L486153 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ You think I don't know what you're doing? You're so quiet all the time?  I know.
+L486103 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ Oskar -
+L486102 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I got to go, I'll see you.
+L486101 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ Thank you.
+L486100 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ This, I don't know, maybe you can trade it for something.
+L485955 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Ah, yes.
+L485954 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ Christmas presents.
+L485953 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ You try to be fair to people, they walk out the door;  I've never understood that.  What's next?
+L485932 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ Do what?
+L485931 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Don't ever do that to me again.
+L485914 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ There's a machinist outside who'd like to thank you personally for giving him a job.
+L485913 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ What?
+L485912 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ The war could end.
+L485911 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Any reason to think next month will be worse?
+L485910 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ Yes.
+L485909 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Better this month than last?
+L485908 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ Yes.
+L485907 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I could try to read this or I could eat my lunch while it's till hot.  We're doing well?
+L485833 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ But it's less.  It's less than what I would pay a Pole.  That's the point I'm trying to make.  Poles cost more.
+L485832 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ The Jewish worker's salary, you pay it directly to the SS, not to the worker. He gets nothing.
+L485831 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ What was that about the SS, the rate, the ... ?
+L485774 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ They should be.
+L485773 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ I don't know anybody who'd be interested in that.
+L485772 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Something they can hold in their hands.
+L485771 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ Pots and pans.
+L485770 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Well, they wouldn't own it, I'd own it. I'd pay them back in product.  They can trade it on the black market, do whatever they want, everybody's happy.
+L485769 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ Jews can no longer own businesses, sir, that's why this one's for sale.
+L485768 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Jews, yeah.  Investors.
+L485766 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ The contracts?  That's the easy part. Finding the money to buy the company, that's hard.
+L485765 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ Get the contracts and I'm sure you'll do very well.  In fact the worse things get the better you'll do.  It was a "pleasure."
+L485763 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ I think most people right now have other priorities.
+L485762 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Once the war ends, forget it, but for now it's great, you could make a fortune. Don't you think?
+L485759 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Simple engineering, though, wouldn't you think?  Change the machines around, whatever you do, you could make other things, couldn't you?
+L485758 +++$+++ u7461 +++$+++ m504 +++$+++ STERN +++$+++ I was just the accountant.
+L486196 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Of course he's stealing from me, we're in business together.  What is this?  I'm sitting here, suddenly everybody's talking like this is something bad.  We take from each other, we take from the Army, everybody uses everybody, it works out, everybody's happy.
+L486195 +++$+++ u7462 +++$+++ m504 +++$+++ TOFFEL +++$+++ He's stealing from you, Oskar.
+L486190 +++$+++ u7462 +++$+++ m504 +++$+++ TOFFEL +++$+++ There's taking money and there's taking money, you know that.  He's taking money.
+L486189 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ What's he done that's so bad - take money? That's a crime?  Come on, what are we here for, to fight a war?  We're here to make money, all of us.
+L485942 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ He was a metal press operator, quite skilled.
+L485941 +++$+++ u7462 +++$+++ m504 +++$+++ TOFFEL +++$+++ A one-armed machinist, Oskar?
+L485939 +++$+++ u7462 +++$+++ m504 +++$+++ TOFFEL +++$+++ No.
+L485938 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ Would it do any good?
+L485937 +++$+++ u7462 +++$+++ m504 +++$+++ TOFFEL +++$+++ File a grievance with the Economic Office, it's your right.
+L485936 +++$+++ u7460 +++$+++ m504 +++$+++ SCHINDLER +++$+++ I lost a day of production.  I lost a worker.  I expect to be compensated.
+L485935 +++$+++ u7462 +++$+++ m504 +++$+++ TOFFEL +++$+++ It's got nothing to do with reality, Oskar, I know it and you know it, it's a matter of national priority to these guys.  It's got a ritual significance to them, Jews shoveling snow.

@@ -1,0 +1,469 @@
+L235481 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You knew what I'd do.
+L235477 +++$+++ u5504 +++$+++ m367 +++$+++ ALBERT +++$+++ 'Good.'
+L235476 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ What did he say?
+L235475 +++$+++ u5504 +++$+++ m367 +++$+++ ALBERT +++$+++ Yes. I told him.
+L235474 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Did Eric know that Frank was my brother?
+L235473 +++$+++ u5504 +++$+++ m367 +++$+++ ALBERT +++$+++ Nothing. What could I do?
+L235472 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ What did you do?  Albert?
+L235471 +++$+++ u5504 +++$+++ m367 +++$+++ ALBERT +++$+++ Last Sunday afternoon, Eric and two of his boys arrive with Frank and tell me that he's rumbled. Somehow, he's seen the film and was about to shoot his mouth off. They ask me for some whisky and start forcing it down his throat.  I thought they'd just duff him up a bit. Honest.
+L235470 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Do you want to be dead, Albert?
+L235468 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ And you told Brumby?
+L235467 +++$+++ u5504 +++$+++ m367 +++$+++ ALBERT +++$+++ Cliff Brumby. He'd seen the film. He wanted to meet Doreen.
+L235466 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Who?
+L235465 +++$+++ u5504 +++$+++ m367 +++$+++ ALBERT +++$+++ No choice. I had a visit from somebody.
+L235464 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ How?
+L235463 +++$+++ u5504 +++$+++ m367 +++$+++ ALBERT +++$+++ A couple of weeks back.
+L235462 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ When did you find out?
+L235461 +++$+++ u5504 +++$+++ m367 +++$+++ ALBERT +++$+++ I dunno. He's got his ways. He knows Margaret.
+L235460 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ How?
+L235459 +++$+++ u5504 +++$+++ m367 +++$+++ ALBERT +++$+++ Yes.
+L235458 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Did Eric Pake pull her?
+L235457 +++$+++ u5504 +++$+++ m367 +++$+++ ALBERT +++$+++ I didn't know who Doreen was. Thought she was just another bird.
+L235455 +++$+++ u5504 +++$+++ m367 +++$+++ ALBERT +++$+++ I know.
+L235454 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You can't get away from me, Albert.
+L235451 +++$+++ u5504 +++$+++ m367 +++$+++ ALBERT +++$+++ I know. I know.
+L235450 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yes, you do, Albert. Talk or I'll kill you.
+L235449 +++$+++ u5504 +++$+++ m367 +++$+++ ALBERT +++$+++ Hello, Jack,  I don't know anything, Jack.
+L235101 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Was he?
+L235100 +++$+++ u5505 +++$+++ m367 +++$+++ BILLY +++$+++ He was drunk. Drunk as a lord.
+L235099 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ How'd it happen, then?
+L235098 +++$+++ u5505 +++$+++ m367 +++$+++ BILLY +++$+++ Fine. Nowt wrong with them.
+L235097 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ What about the brakes?
+L235096 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Was the steering faulty?
+L235095 +++$+++ u5505 +++$+++ m367 +++$+++ BILLY +++$+++ Well, he drove it into the river.
+L235094 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yeah.
+L235093 +++$+++ u5505 +++$+++ m367 +++$+++ BILLY +++$+++ Oh ay?
+L235092 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ This is my brother's car.
+L235091 +++$+++ u5505 +++$+++ m367 +++$+++ BILLY +++$+++ What's it got to do with you?
+L235090 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ What happened to this car?
+L235089 +++$+++ u5505 +++$+++ m367 +++$+++ BILLY +++$+++ What do you want?
+L235504 +++$+++ u5506 +++$+++ m367 +++$+++ BRUMBY +++$+++ I had to. It was the only way I could get at them.
+L235503 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You shouldn't have shown the film to Frank.
+L235402 +++$+++ u5506 +++$+++ m367 +++$+++ BRUMBY +++$+++ Jack...
+L235401 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Good afternoon, Mr Brumby. Carter exits.
+L235400 +++$+++ u5506 +++$+++ m367 +++$+++ BRUMBY +++$+++ Jack, you're wrong.
+L235399 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Do me a favour. You don't really expect me to fix Kinnear on your say-so?  Just because they tried to get me on you last night, don't think you can pull the same trick. Stroll on.
+L235398 +++$+++ u5506 +++$+++ m367 +++$+++ BRUMBY +++$+++ Christ, what...
+L235397 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ That's not good enough.
+L235396 +++$+++ u5506 +++$+++ m367 +++$+++ BRUMBY +++$+++ I don't know. That's all I was told.
+L235395 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Why?
+L235394 +++$+++ u5506 +++$+++ m367 +++$+++ BRUMBY +++$+++ I don't know. All I know is that people were shitting bricks up at his place last Saturday. Your brother's name was mentioned. Next day, he was dead.
+L235393 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Why?
+L235392 +++$+++ u5506 +++$+++ m367 +++$+++ BRUMBY +++$+++ Kinnear. Cyril Kinnear.  Kinnear did it.
+L235391 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ What name?
+L235390 +++$+++ u5506 +++$+++ m367 +++$+++ BRUMBY +++$+++ Five grand. It belongs to you. Along with a little name I'm going to give you.
+L235389 +++$+++ u5506 +++$+++ m367 +++$+++ BRUMBY +++$+++ Last night, after you'd gone, I did a little bit of asking around. Seeing as you weren't very forthcoming,  It seems that you are concerned about the death of your brother?  I got to thinking it would be nice if the bloke you were after was the same bloke I wanted off my back,  You know my life. Machines. The arcades. Nice business. Looks after itself. People put money in. I take it out. Not much rough stuff. It's a business that makes me very happy. But recently, I've had a spot of bother,  One of my lads gets a bit over- anxious and flogs some machines in a club that's already got some. The upshot is I've had to eat shit and stop flogging my machines to other clubs.  So far as I'm concerned, that's it. Apparently not. These people I've offended get the idea that it would be good to take over my whole outfit,  So I'm worried. I can't fight them — I haven't that kind of set-up. But I've got to fix them before they fix me. Trouble is, if I try and they find out, I'm dead.
+L235388 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yes.
+L235387 +++$+++ u5506 +++$+++ m367 +++$+++ BRUMBY +++$+++ A new venture of mine. It's going to be a restaurant.  Do you like it?
+L235251 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You're a big man, but you're in bad shape. With me, it's a full- time job. Now behave yourself.
+L235250 +++$+++ u5506 +++$+++ m367 +++$+++ BRUMBY +++$+++ Bloody well tell me who sent you.
+L235246 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Never mind.
+L235245 +++$+++ u5506 +++$+++ m367 +++$+++ BRUMBY +++$+++ What about?
+L235244 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I made a mistake.
+L235243 +++$+++ u5506 +++$+++ m367 +++$+++ BRUMBY +++$+++ What?
+L235242 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I made a mistake.
+L235238 +++$+++ u5506 +++$+++ m367 +++$+++ BRUMBY +++$+++ Well?
+L235237 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I know.
+L235236 +++$+++ u5506 +++$+++ m367 +++$+++ BRUMBY +++$+++ You know what the bloody time is!  It's two o'clock in the bloody morning!
+L235210 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You must be joking,  Keep him away from the telephone. I'm going out for a bit.
+L235209 +++$+++ u5521 +++$+++ m367 +++$+++ THORPE +++$+++ Can I go now?
+L235205 +++$+++ u5521 +++$+++ m367 +++$+++ THORPE +++$+++ On the Durham Road. The Pantiles.
+L235204 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Address?
+L235203 +++$+++ u5521 +++$+++ m367 +++$+++ THORPE +++$+++ He's got a new place at Burnham.
+L235202 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Where's he living these days?
+L235194 +++$+++ u5521 +++$+++ m367 +++$+++ THORPE +++$+++ Brumby!
+L235193 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Who sent you, Thorpey?
+L235192 +++$+++ u5521 +++$+++ m367 +++$+++ THORPE +++$+++ No, don't Jack, don't.
+L235191 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yes you can.
+L235190 +++$+++ u5521 +++$+++ m367 +++$+++ THORPE +++$+++ I can't Jack. How can I?
+L235189 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Who paid you to see me off?
+L235160 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Oh, really. You're getting very optimistic in your old age, aren't you, Thorpey?
+L235159 +++$+++ u5521 +++$+++ m367 +++$+++ THORPE +++$+++ I've been asked to make sure you don't.
+L235158 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ That's very kind of somebody. Who do I have to thank?  What happens if I miss the train?
+L235157 +++$+++ u5521 +++$+++ m367 +++$+++ THORPE +++$+++ Train goes at four minutes past twelve. You've just got time.
+L235155 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You stay in the car. I'll come and listen.  What you want to tell me, Thorpey?
+L235154 +++$+++ u5521 +++$+++ m367 +++$+++ THORPE +++$+++ Confidential, like.
+L235153 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ That's nice.
+L235152 +++$+++ u5521 +++$+++ m367 +++$+++ THORPE +++$+++ I'd like a word with you, Jack.
+L235151 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Good evening.
+L235150 +++$+++ u5521 +++$+++ m367 +++$+++ THORPE +++$+++ Jack?
+L235365 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ I don't know nothing.
+L235364 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You bloody whore. Frank was too careful to die like that. Who killed him?
+L235363 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ It is. Honestly.
+L235362 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ It's the truth.
+L235361 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I don't believe you, Margaret. Frank wasn't like that.  I'm the villain in the family, remember?
+L235360 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ He wanted me to leave Dave and marry him. Last Friday I told him it wouldn't work. Dave would have killed us both!  He followed me home and kicked up a stink in the street,  I had to tell Frank I couldn't see him any more. It was getting too dodgy. That was on Sunday.  He said he'd kill himself. I was frightened what you might do.
+L235359 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ What was bugging Frank?
+L235358 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ Look, I'm me, right. You're not. We are what we are, like it or not.  Why all the bloody needle?
+L235357 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Once a week you like a gentleman?
+L235356 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ He was gentlemanly. I like that.
+L235355 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I call that regular.
+L235354 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ Once a week?
+L235353 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Why'd you see him so regular?
+L235352 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ Yes. I can't help the way I am.
+L235351 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Though nicer than most?
+L235350 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ Yes.
+L235349 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ But he was just another feller, wasn't he?
+L235348 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ Nicer than most.
+L235347 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Nothing more? Just another feller?
+L235346 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ He was all right to me.
+L235345 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ How were things between you and Frank?
+L234932 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Tomorrow morning, then?
+L234931 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ I can't.
+L234930 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I want to talk to you later.
+L234929 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ I must go. I'm in a hurry.
+L234928 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Really.
+L234927 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ Killed?  I don't know anything about it.
+L234926 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Hold it!   Hold it!  Who killed Frank, Margaret?
+L234925 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ No. No. It's not like that. I've got a husband, you know.
+L234924 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ What do you mean? You've been Frank's bird ever since her mother cleared off. You're closer to her than anyone.
+L234923 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ She's nothing to do with me.
+L234922 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Doreen.
+L234921 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ What about?
+L234920 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Fine...  I want to talk to you.
+L234919 +++$+++ u5518 +++$+++ m367 +++$+++ MARGARET +++$+++ Everyhing go off all right?
+L235442 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Well, it's Carter. That's my name,  And her father was my brother. And he was murdered last Sunday. Now get up and get dressed.
+L235441 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ No.
+L235440 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ And you didn't know her last name?
+L235439 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ The girl's name was Doreen. That's all I know.
+L235438 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Now tell me the truth.
+L235436 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Your brother? What you talking about?
+L235435 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Did my brother Frank find out?
+L235434 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Expect so.
+L235433 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Then he must have pulled her.
+L235432 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Yeah.
+L235431 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Who set it up?  Eric?
+L235430 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Yeah.
+L235429 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Is it one of Kinnear's films?
+L235428 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Shouldn't think so.
+L235427 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Was it Albert?
+L235426 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ I don't know.
+L235425 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ The young girl. Who pulled her?
+L235424 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ What girl?
+L235423 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Tell me about the girl.
+L235422 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ You've been watching the film.
+L235421 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I want to give you an Oscar.
+L235419 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Sure I'm sure.
+L235418 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ You sure about that?
+L235417 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Not entirely. No.
+L235416 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ That's why you waited for me.
+L235414 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Especially when I play the lead.
+L235413 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Does Brumby get a kick out of that crap?
+L235412 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Now you're asking.
+L235411 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ What kind of entertaining?
+L235410 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Entertaining.
+L235409 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ What does he want that bloody great country place for?
+L235408 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ He won't. He thinks I'm simple.
+L235407 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Aren't you scared Kinnear will find out?
+L235406 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Don't worry. He's meeting the architects at the restaurant.
+L235405 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Is he coming here?
+L235404 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Brumby.
+L235403 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Who's setting you up in this place?
+L235386 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ We're there now.
+L235385 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ And what was that?
+L235384 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Oh, he was. He told me a magic spell that would make you come.
+L235383 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ He must have been pretty sure I'd come.
+L235382 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Nasty.
+L235381 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Very lucky, I should think. You're drunk!
+L235380 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ You were seen parking your car. The demon king waves his wand and I was dispatched to bring you to him. Lucky for you I waited.
+L235379 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ How'd you know where I'd be?
+L235378 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Of course. Where else?
+L235377 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ To the demon king's castle, of course.
+L235376 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ So where are we going, Princess?
+L235375 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ A fairy godmother, all of your own. Aren't you lucky?
+L235374 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ No. I didn't know that.
+L235373 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ You didn't know you had a fairy godmother, did you?
+L235075 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Could you please put my glass on the table?
+L235074 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yeah, I'll do you a favour.
+L235073 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Could you do me a favour?
+L235072 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Was he?
+L235071 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ He was here for four days.
+L235070 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ While he was here. You went about together?
+L235069 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Yes, while he was here.
+L235068 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Really?
+L235067 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ We went about together.
+L235058 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ No.
+L235057 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ He came to see Mr Kinnear.
+L235056 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Really?
+L235055 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Oh yes. When he came up on business.
+L235054 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Go on.
+L235053 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Yes. I met him last year.
+L235048 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ No, do you really?
+L235047 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Yes.
+L235046 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Oh, do you?
+L235045 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Sid Fletcher.
+L235044 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Who?
+L235043 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ I know him too.
+L235035 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yes, I do.
+L235034 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ Do you?
+L235033 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I work for him.
+L235032 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ You know Sid Fletcher?
+L235031 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ What?
+L235030 +++$+++ u5514 +++$+++ m367 +++$+++ GLENDA +++$+++ You know Sid Fletcher?
+L234954 +++$+++ u5510 +++$+++ m367 +++$+++ EDDIE +++$+++ Frank was a good bloke. It's the least I could have done.
+L234953 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Thanks for coming.
+L234952 +++$+++ u5510 +++$+++ m367 +++$+++ EDDIE +++$+++ No. It's all right.
+L234951 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Look, look.  Get your suit cleaned.
+L234950 +++$+++ u5510 +++$+++ m367 +++$+++ EDDIE +++$+++ No. I'll be off now. I should be at work.
+L234949 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Have another?
+L234948 +++$+++ u5510 +++$+++ m367 +++$+++ EDDIE +++$+++ Don't worry. She's bound to be upset.
+L234947 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Let her go. She'll be OK.  Sorry about that.
+L234915 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yeah. A bloody funny thing!
+L234914 +++$+++ u5510 +++$+++ m367 +++$+++ EDDIE +++$+++ It's a bloody funny thing. You know a bloke for six bloody years and all the time he's as calm as gentle Jesus...  ...then he goes and does a thing like that.  It's a bloody funny thing.
+L234906 +++$+++ u5510 +++$+++ m367 +++$+++ EDDIE +++$+++ No. Frank was a good bloke.
+L234905 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Nice of you to come.
+L234904 +++$+++ u5510 +++$+++ m367 +++$+++ EDDIE +++$+++ We weren't sure where it was taking place, like.
+L235124 +++$+++ u5509 +++$+++ m367 +++$+++ DOREEN +++$+++ Thanks.
+L235123 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Good. I'm off tomorrow, so I don't suppose I'll see you again.  There. Go and get your hair done.
+L235122 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Nice family, are they? Church-goers and all that?
+L235121 +++$+++ u5509 +++$+++ m367 +++$+++ DOREEN +++$+++ Wilton Estate.
+L235120 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Where's that?
+L235119 +++$+++ u5509 +++$+++ m367 +++$+++ DOREEN +++$+++ At me friend's house.
+L235118 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Where you going to live, then?
+L235117 +++$+++ u5509 +++$+++ m367 +++$+++ DOREEN +++$+++ No.
+L235116 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You coming to South America?
+L235115 +++$+++ u5509 +++$+++ m367 +++$+++ DOREEN +++$+++ Yeah.
+L235114 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You all right now?
+L234900 +++$+++ u5509 +++$+++ m367 +++$+++ DOREEN +++$+++ Yes.
+L234899 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ That must be interesting.
+L234898 +++$+++ u5509 +++$+++ m367 +++$+++ DOREEN +++$+++ Working at Woolworths.
+L234897 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Oh, what you doing now?
+L234896 +++$+++ u5509 +++$+++ m367 +++$+++ DOREEN +++$+++ I left last year.
+L234895 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ How's school?
+L234894 +++$+++ u5509 +++$+++ m367 +++$+++ DOREEN +++$+++ They said he was drunk.
+L234893 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Tell me, Doreen, did the police say anything?
+L234892 +++$+++ u5509 +++$+++ m367 +++$+++ DOREEN +++$+++ Yeah.
+L234891 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Sorry about your father.
+L235341 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I'm sorry. Here. This'll pay for a course in karate.
+L235340 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Stuff it! My girl friend's coming from Liverpool tonight.  Nice surprise, isn't it?
+L235339 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Oh yes? How?
+L235338 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ All right. All right. I want to square things with you first.
+L235337 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Get knotted.
+L235336 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ No, I didn't,  Does Albert Swift still live over the ferry?
+L235335 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ No.  You bastard. You knew they'd come back.
+L235334 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Did they give you a rough time?
+L235333 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ How'd you find me?
+L235332 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ What happened to you, then?
+L235201 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Ten to one, it belonged to Cliff Brumby, and like as not the bloody arcade as well. Right along the coast. Isn't that right, Thorpey?
+L235200 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Yeah.
+L235199 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Ever been into an arcade there and put a penny in the slot machine?
+L235198 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Cliff Brumby. Ever been to Westsea?
+L235197 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Who's Brumby?
+L235196 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Ah, Edna, come in. Join the tea set.
+L235149 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Four of them.
+L235148 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ How many?
+L235147 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Thorpey. They were waiting for us in the car park.
+L235113 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Las Vegas.
+L235112 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Where you off to?
+L235111 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ See you later.
+L235110 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Good lad.
+L235109 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Nowt.
+L235108 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ That's nice. What'd you tell him?
+L235107 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Said he'd heard you were up in town. Wondered if I knew where you was staying. Wanted to look you up. Old time's sake.
+L235106 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ That's what he was saying about you.
+L235105 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Old Thorpey? Haven't seen him in a long time.
+L235104 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Heard of a man called Thorpe?
+L235103 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Large Scotch.
+L235102 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ What you having, Jack?
+L234964 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Went to school with him.  He was leader of our gang. He'll know what's going on in this town.
+L234963 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ How'd you know Albert?
+L234962 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Today? At the races. He always goes.
+L234961 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Where would I find him?
+L234960 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Yeah. He comes in here a bit.
+L234959 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I'm at the Las Vegas. Behind the dance hall.  Do you know a man called Albert Swift?
+L234958 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Right.
+L234957 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Keith, if anybody comes in here and asks for me, you let me know. Right?
+L234956 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Yes.
+L234955 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You work here, Keith?
+L234944 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Nobody seems to know.
+L234943 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Don't know.
+L234942 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Since when did he drink whisky?
+L234941 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ It just would. He was always the same.
+L234940 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Why would it?
+L234939 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ Come off it. Frank was... well... straight. He had no worries I know. Hell, we worked together every day for a year. It would have showed.
+L234938 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ That's what I was wondering.
+L234937 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ I mean, what for?
+L234913 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ At the Half Moon.
+L234912 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Did you work with him, Keith?
+L234911 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ I mean, I was surprised when he didn't turn up for work.  He was always on time.
+L234910 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ What?
+L234909 +++$+++ u5516 +++$+++ m367 +++$+++ KEITH +++$+++ I couldn't believe it when I heard. Carter is suddenly attentive.
+L235326 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ How could I stay away?
+L235325 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ You coming back?
+L235324 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I'm going to sit in the car and whistle 'Rule, Britannia'.
+L235323 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ What you going to do?
+L235318 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I don't want to get rough, do I?
+L235317 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ And that'll make me feel better?
+L235316 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ They're friends of mine.
+L235315 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Not much.
+L235314 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ No chance of that.
+L235313 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ What, and get myself beaten up again?
+L235312 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Do us a favour?
+L235289 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ No. I'm not tired,  Do you eat breakfast?
+L235288 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ No. Are you tired?
+L235287 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Are you tired?
+L235286 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yes, thank you.
+L235285 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Did you sleep well?
+L235284 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Uh-huh.
+L235283 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You must be joking. I never eat breakfast,  Did you sleep well?
+L235282 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Do you want breakfast?
+L235281 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ No.
+L235280 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Are you awake?
+L235279 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Think about it.
+L235278 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ What's that supposed to mean?
+L235277 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ 'Cos I know you wear purple underwear.
+L235276 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ How'd you know I wouldn't?
+L235275 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You wouldn't.
+L235274 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ What's that gun doing in your room? Suppose I phoned the police and told them there's a bloke staying in my hotel who's planning to shoot somebody?
+L235273 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ So shut up.
+L235272 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ What am I supposed to do?  I don't know where they've taken him. Do you?
+L235271 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ You're a bastard.
+L235270 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Pension him off.
+L235269 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ What you going to do?
+L235268 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ What about Keith?
+L235267 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ What about Keith?
+L235266 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ That little shit!
+L235265 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Thorpey nearly died laughing.
+L235264 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ And what about you? Did you kill Brumby?
+L235263 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You're lucky. They kill as well.
+L235262 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ They bloody hurt me.
+L235261 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Don't ask me.
+L235260 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ What'll they do to him?
+L235255 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ No.
+L235254 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ They came back?
+L235253 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ You sod.
+L235212 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Ta-ra.
+L235211 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Now just a minute...
+L235208 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Stick the soft soap. Let's be having it.
+L235207 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yes, Edna, and I must say you've been great about the ...
+L235206 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Suppose you tell me what the bloody hell's going on. It's my house, you know.
+L235185 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ No, you won't.
+L235184 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ I'll call the police.
+L235183 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Make us a nice cup of tea and I'll tell you. I might even let you watch.
+L235182 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ And what you going to do?
+L235175 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Up the stairs, Keith. The door on the right.
+L235174 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Inside? Why should I give house- room to your sort?
+L235171 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Don't come that bloody flannel with me. If you're a traveller, I'm bloody Twiggy.  And who's he?
+L235170 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ No. Really, I am.
+L235169 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ You don't look it.
+L235168 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I'm sorry.
+L235167 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ What the bloody hell do you think you're at?
+L235131 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ It'll cost you.
+L235130 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Funny.  Can I phone London?
+L235129 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Is he staying the night?
+L235128 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ My brother, Frank.
+L235127 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ What is it?
+L234884 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I'll bet this one's seen some action.
+L234883 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Ta.
+L234882 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You sure?
+L234881 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Don't be bloody silly. You're the first since Monday.
+L234880 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Very nice.  I'll pay you for tonight as well.
+L234879 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Will this do?
+L234878 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Definitely.
+L234877 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Are you a traveller?
+L234876 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ It never is.
+L234875 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ It's not like that, luv.
+L234874 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ Her husband docks tomorrow, does he?
+L234873 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I'm staying with a friend.
+L234872 +++$+++ u5511 +++$+++ m367 +++$+++ EDNA +++$+++ I see.
+L234871 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I won't be using the room tonight.
+L235534 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ Still got your sense of humour.
+L235533 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Eh? Have a drink.
+L235529 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ Sod off.
+L235528 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You couldn't win an egg and spoon race, Eric.
+L235490 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Not till I'm dead, Eric.
+L235489 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ You're finished, Jack. You know that, don't you? I've bloody finished you.
+L235087 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ He's thinking Sid and Gerald won't like it much when they hear you've been sticking your nose in.
+L235086 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Oh, Cyril, eh? So it's all girls together, is it?
+L235085 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ Cyril didn't like it, either.
+L235084 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ You should have told me who you were working for.
+L235083 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ Jack! I didn't like that.
+L235000 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ Can't say I do.
+L234999 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yes, I retained that, Eric.  Do you know a man called Albert Swift, Eric?
+L234998 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ Still got a sense of humour?
+L234997 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ They're still the same. Piss holes in the snow.
+L234996 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Good prospects for advancement, is there? A pension?  Do you know, I'd almost forgotten what your eyes looked like.
+L234995 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ Making a living.
+L234994 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ So you're doing all right then, Eric. You're making good.
+L234993 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ And you should know, if I remember rightly.
+L234992 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ That's not always a healthy way to be...
+L234991 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I've always ad your welfare at heart, Eric. Besides which, I'm nosy.
+L234990 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ What's it to you anyway?
+L234987 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yeah,  Come off it, Eric. Who is it?
+L234986 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ Oh, you've been watching television.
+L234985 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ What are you doing? Advertising Martini?
+L234984 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ Oh, I'm straight.  Respectable.
+L234983 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Very...  So, who you working for these days Eric?
+L234982 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ Well, well. Small world, isn't it?
+L234981 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ That's all right, Eric.
+L234980 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ Oh, I'm sorry to hear that.
+L234979 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ A bereavement. A death in the family.
+L234978 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ Meaning what?
+L234977 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ It would be. If they were still living.
+L234976 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ Oh, that's nice.
+L234975 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ No. I'm visiting relatives.
+L234974 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ Thanks. So what're you doing? On your holidays?
+L234973 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Funny, that.
+L234972 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ No, I didn't know that.
+L234971 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Didn't you know this is my home town?
+L234970 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ What you doing around here then?
+L234969 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Eric. Eric Paice.
+L234968 +++$+++ u5512 +++$+++ m367 +++$+++ ERIC +++$+++ Jack Carter.
+L234967 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Is he?
+L235082 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yeah, I'll do that.  Told you it wouldn't take long, didn't I?
+L235081 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ Of course, of course. Well, any time, just drop by.
+L235080 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ I have to. Things to see to.
+L235079 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ Not going, Jack?
+L235018 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yes.
+L235017 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ Nasty way to go.
+L235016 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yeah.
+L235015 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ If I'd known, I'd have fixed him up with something better.
+L235014 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ No? Funny that. Neither did I.
+L235013 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ Do you know, I never knew he worked in one of my places!
+L235012 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yep.
+L235011 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ Eric told me of your bereavement.
+L235010 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ Piss off, Ray.
+L235009 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Scotch, please.
+L235008 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ Sit down, Jack,  I could weep. I really could. Sometimes I think I'll retire. Just piss off to the Bahamas and let somebody else employ them,  Glenda, get Jack a drink. What is it, Jack?
+L235007 +++$+++ u5507 +++$+++ m367 +++$+++ CARTER +++$+++ Yes, I can see your problem, Mr Kinnear.
+L235487 +++$+++ u5519 +++$+++ m367 +++$+++ PETER +++$+++ Shut up.
+L235486 +++$+++ u5508 +++$+++ m367 +++$+++ CON +++$+++ Gerald wants to see him first.
+L235303 +++$+++ u5519 +++$+++ m367 +++$+++ PETER +++$+++ The gun he means.
+L235302 +++$+++ u5508 +++$+++ m367 +++$+++ CON +++$+++ Put it away, Jack. You know you won't use it.
+L235299 +++$+++ u5519 +++$+++ m367 +++$+++ PETER +++$+++ But they have to be diplomatic.
+L235298 +++$+++ u5508 +++$+++ m367 +++$+++ CON +++$+++ We know why you're all steamed up, and so do Gerald and Sid.
+L235297 +++$+++ u5508 +++$+++ m367 +++$+++ CON +++$+++ He said it'd be doing him a big favour.
+L235296 +++$+++ u5519 +++$+++ m367 +++$+++ PETER +++$+++ We've got to take you back to London.
+L235295 +++$+++ u5508 +++$+++ m367 +++$+++ CON +++$+++ Gerald phoned us in the middle of the night, said he'd heard you've been making a nuisance of yourself.
+L234854 +++$+++ u5513 +++$+++ m367 +++$+++ GERALD +++$+++ What? And get the clap?
+L234853 +++$+++ u5520 +++$+++ m367 +++$+++ SID +++$+++ Knock it off, Gerald.
+L234852 +++$+++ u5513 +++$+++ m367 +++$+++ GERALD +++$+++ Not suede boots!
+L234848 +++$+++ u5513 +++$+++ m367 +++$+++ GERALD +++$+++ Ask Jack. It's his old stamping ground.
+L234847 +++$+++ u5520 +++$+++ m367 +++$+++ SID +++$+++ Ask me?
+L234846 +++$+++ u5513 +++$+++ m367 +++$+++ GERALD +++$+++ What for? Protective purposes?
+L234845 +++$+++ u5520 +++$+++ m367 +++$+++ SID +++$+++ They do that up North.
+L234844 +++$+++ u5513 +++$+++ m367 +++$+++ GERALD +++$+++ Bollock naked with his socks still on?
+L235078 +++$+++ u5515 +++$+++ m367 +++$+++ HARRY +++$+++ Shut up.
+L235077 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ How about that, Jack?  Old Harry thought I was having him on.
+L235066 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ Calling my bluff, are you, Harry?
+L235065 +++$+++ u5515 +++$+++ m367 +++$+++ HARRY +++$+++ I'll see you, then.
+L235064 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ No.
+L235063 +++$+++ u5515 +++$+++ m367 +++$+++ HARRY +++$+++ You're not seeing me?
+L235062 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ That's right.
+L235061 +++$+++ u5515 +++$+++ m367 +++$+++ HARRY +++$+++ Four hundred?
+L235060 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ That's six hundred pounds, Harry. Two hundred to follow you, and I've raised it four hundred.
+L235059 +++$+++ u5515 +++$+++ m367 +++$+++ HARRY +++$+++ What's that?
+L235052 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ Ha.
+L235051 +++$+++ u5515 +++$+++ m367 +++$+++ HARRY +++$+++ All right. Two hundred.
+L235042 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ Three hundred altogether, Harry.
+L235041 +++$+++ u5515 +++$+++ m367 +++$+++ HARRY +++$+++ Three hundred altogether?
+L235040 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ That, Harry? That's another hundred - twenty-five pounds notes of the realm.
+L235039 +++$+++ u5515 +++$+++ m367 +++$+++ HARRY +++$+++ What's that?
+L235038 +++$+++ u5515 +++$+++ m367 +++$+++ HARRY +++$+++ Your hundred, and another hundred.
+L235037 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ That's right, Harry.
+L235036 +++$+++ u5515 +++$+++ m367 +++$+++ HARRY +++$+++ What's that? A hundred?
+L235023 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ That's what you pay to find out. Right, Jack?
+L235022 +++$+++ u5515 +++$+++ m367 +++$+++ HARRY +++$+++ You're bluffing, you bastard!
+L235021 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ Oh... I think I'll stay as I am.
+L235020 +++$+++ u5517 +++$+++ m367 +++$+++ KINNEAR +++$+++ Harry! Jack, I don't want to be rude, but these men have brought a lot of money with them. Glenda, you don't offer a man like Jack a drink in those piddling little glasses.  Give him the bloody bottle.  Now, where are we?
+L235019 +++$+++ u5515 +++$+++ m367 +++$+++ HARRY +++$+++ Are we here to play cards or talk about the old days?

@@ -1,0 +1,656 @@
+L445315 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Well, what else do you expect them to call you?
+L444925 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ You don't seem to understand that this one's different. He has brains.
+L444924 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Now, Anne, you remember how much it cost to get rid of that baseball player?
+L444923 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Exactly.
+L444922 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ To make a gentleman out of a tramp?
+L444921 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Yes, it'll be a very interesting experiment.
+L444916 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Yes - Sing Sing.
+L444915 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Oh, Stew and I went for a long ride.  Dexter, is there any finishing school we can send him to?
+L445503 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ I think you should, Miss Gallagher.
+L445502 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ I think I better go, Stew.
+L445240 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Goodbye, Stew—
+L445239 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Goodbye, Miss Gallagher.
+L445238 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Thank you. I'll go and look for her at once. Goodbye, Mrs. Smith.
+L445237 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Miss Wilson will give you the guest list and any other details you may need, Miss Gallagher.
+L445236 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Yes - isn't it.
+L445235 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Indeed? How interesting.
+L445528 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ All right, I'm a child. Have it any way you want. But I'm going back to my own apartment, where I should have lived in the first place. But no, I got to listen to you and move here. All right. If you want to live with me, Anne, okay. But the sign outside will say "Mr. Stew Smith" and you'll have to be "Mrs. Stew Smith" or there's nothing doing. No more Anne Schuyler's husband—He has his bag all packed by this time. He snaps it shut viciously, lifts it off the chair, picks up his hat, and notices Mrs. Schuyler staring open-mouthed at him.  —and here's some more news for you. You can take your red room, your green room, your left wing and your right wing, and you know what you can do with them!  Come on, Gallagher.
+L445527 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ You're acting like a child.
+L445526 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Fine!  I don't blame her. I know I'm out of my own crowd. I should have had better sense in the beginning. But I'll stay in my own backyard from now on.
+L445525 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ That's ridiculous.
+L445524 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ You've done nothing but watch me - watch me! - ever since I've been here. Treated me like a thug, watched me like a hawk, mistrusted me. Every time I leave the house, that Jane—  —goes out and counts the silverware.
+L445517 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ You can't walk out of here like this.
+L445516 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ This is something I should have done a long time ago, only I didn't have sense enough to do it. No, I had to stick around here to try and make a success of something that I knew darn well was a failure from the very beginning. But no more. No more! So that's that.
+L445515 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Stewart!
+L445514 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ —and if it's all the same to you, I'm moving out.
+L445511 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ O-o-oh, I get you—  All right. All right. I don't blame you. I kinda forgot myself for a moment, there. That's what I call getting me told, isn't it, Anne?
+L445510 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Your house?
+L445509 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Now wait, don't get excited, Anne. There's no reason for that. Perhaps the boys have had a little too much to drink. That's all right. I'm sorry. I'll go right down and throw them out. That's no reason for you to take this attitude. After all, I certainly have a right to invite a few of my friends to my house, haven't I?
+L445508 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Unreasonable!  Have you any idea what the place looks like downstairs? Do you expect me to stand here and see this place turned into a cheap barroom?
+L445507 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Now wait a minute. Aren't you being a little unreasonable?
+L445506 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ The idea is simply this - that I want those people to leave here immediately.
+L445505 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ What's the idea, Anne?
+L445500 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Have we got a play, Anne? Oh, have we got a play!  Of course most of it is Gallagher's. She did most of it. That brain of hers just snaps like that all the time.
+L445499 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ I see.
+L445498 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh, that mob downstairs. I guess I got so interested in the play I forgot all about them.
+L445496 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Good morning. What does this mean?
+L445495 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh hello, Anne– He types furiously.
+L445357 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ That's exactly what you mean. Heaven knows you've made that clear to me often enough. Well, I'm sick and tired of it. I've given you party after party - I've taken you to some of the best houses in this town - and introduced you to people of importance - and are you grateful? No! You insult them and act like a bore. I'm sick and tired of having to make excuses for you and the things that you've done. Perhaps it's just as well you're not coming tonight. Maybe I can enjoy myself for once without having to worry about you, and what you're going to do.
+L445356 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh, they're all right, Anne. But I—
+L445355 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Meaning, my friends aren't worthwhile, I suppose?
+L445354 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I don't mean the newspaper fellows that you don't like. Another gang I know - you'd love them. They're writers and musicians and artists - a great crowd of people - people who do great things. People who are worthwhile.
+L445353 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ But I don't want to meet your gang.
+L445352 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I'll tell you what let's do - I'll take you and introduce you to all my gang. Would you like that?
+L445351 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Will you stop being silly, Stewart?
+L445350 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Think of the fun we can have - we'll sneak down the back stairs and get in the valet's Ford. How's that?
+L445349 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Are you crazy?
+L445348 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I'll tell you what. Let's you and me sneak out all by ourselves—
+L445347 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Look out for my lipstick, Stewart.
+L445346 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Anne, come here. Listen—
+L445342 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Yes, I'll tell you - for the same reason I've never wanted to go out with those social parasites, those sweet-smelling fashion plates. I don't like them. They bore me. They give me the jitters.
+L445341 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Stewart, would you mind telling me why you're not going?
+L445340 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Go downstairs, and tell them - anything. Tell them I'm not going. Tell them I'm not home.
+L445339 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ What am I going downstairs and tell those people?
+L445338 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I'm talking about - I'm not going out.
+L445337 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ What are you talking about?
+L445336 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I'm not going!
+L445335 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Stop trying to be funny, and get ready, will you?
+L445334 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I poisoned him.
+L445333 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Stewart! We're all waiting for you. Where's your valet?
+L445312 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Yes, I said it. Sure, I said it. I didn't say it for publication, however.
+L445311 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Is this true, Stewart? Did you really say it?
+L445243 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ You did? That's a lot of hooey! I'll go and apologize.
+L445242 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ I thought I was very charming, Stewart.
+L445241 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ That was kind of a rotten thing to do, Anne. After all, Gallagher is my friend. The least you can do is be courteous to her.
+L445232 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Why, down at the office, we always look at Gallagher as - eh - just Gallagher, that's all.
+L445231 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ No? What do you look upon her as?
+L445229 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Yes - isn't it?
+L445228 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Didn't I? That's funny. Isn't it funny?
+L445227 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Yes. As a matter of fact, you failed to mention that Gallagher was a girl.
+L445226 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Gallagher?
+L445225 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ You know, Stewart, you failed to mention that Miss Gallagher was a very beautiful young girl.
+L445223 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Gallagher, this is Mrs. Smith.
+L445222 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Oh, yes, of course. How do you do?
+L445221 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Sure - my pal on the paper. She's subbing for the society editor tonight.
+L445220 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Gallagher!
+L445219 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Anne, prepare yourself for the treat of your life. This is Gallagher.
+L445151 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Oh yes you will wear garters—
+L445150 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh, you can't carry a tune - you can't carry a tune - all you are good for is to sit and spoon, spoon. Oh no, I won't wear garters—
+L445149 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Oh, yes you will my dear - oh, yes you will my dear - you'll eat spinach but you'll wear garters too!
+L445148 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh, no I won't my dear - oh, no I won't my dear - I'll wash behind my ears, but no I won't my dear!
+L445147 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Oh, yes you will my dear - oh, yes you will my dear - you'll wear garters and you'll like it too!
+L445146 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Honey, I love you. I'll eat spinach for you. I'll go to the dentist twice a year for you. I'll wash behind my ears for you. But I will never wear garters!
+L445145 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Darling, I don't care whether you can look Gallagher in the face or not, but you're gonna be a good boy and wear garters.
+L445144 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Besides I'd look foolish. I couldn't look Gallagher in the face.
+L445143 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ I know that.
+L445142 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh no. No, no. Not me. I haven't worn these things for Years.
+L445141 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ You wear them of course, silly.
+L445140 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Got my initials on them too. They're cute. They're nice little things - what do you do with them?
+L445139 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Do you like them?
+L445138 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Little - couldn't be an automobile, could it?  Well, well! Ain't that nice!
+L445137 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ I've got a present. Shut your eyes. Keep 'em closed. I know you're going to love them.
+L445087 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Oh, I love that nose. It's such a sweet nose.
+L445086 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Wait a minute. I'll do anything you ask me, Anne, but I will not live—
+L445085 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Listen Stew baby, let's not talk about things like that now—
+L445084 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ It isn't cheap. It's nice.
+L445083 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ What do you think my friends would say if they found me in a little cheap flat?
+L445082 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Never mind my nose. What kind of a chump do you think I am? You think I'm going to live here in your house - on your dough?  What do you think my friends would all say? Don't be silly. I'd get the razzing of my life for that. 'A bird in a gilded cage' - that's what I'd be. Not me. Oh no, not me!
+L445081 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ You have the cutest nose I've—
+L445080 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Now let's get this settled—
+L445079 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Of course I am Stewart.
+L445078 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Look Anne, you're not serious about this, are you?
+L445077 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I see, we won't need that. Plenty of room, plenty of room.
+L445076 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ But we don't need it, I'm sure.
+L445075 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh, Mother will give us the blue room. You haven't a red room, have you?  Well, bless her heart. Wouldn't that be nice! My, oh my - six rooms and two baths and a blue room. I guess she would let us have the right wing if we needed it, wouldn't she?
+L445074 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Oh darling, of course it would. If it isn't - there are six rooms and two baths - but if that isn't enough, Mother will give us the blue room too, I think.
+L445073 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ We could have the whole left wing? Wouldn't that be nice! Would that be room enough for us?
+L445071 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ When 'we' . . .?  You mean, you'd like to have me live here in your house?
+L445070 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Don't you think it's silly of us to think of living there when we have this whole big house—
+L445069 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Yeah. Oh, it's great. Of course it doesn't compare with this coliseum of yours here, but 'twill serve m'lady, 'twill serve.  The architecture has a little feeling of Missouri Gothic - and the furniture sort of leans toward Oklahoma Renaissance - with a tiny touch of Grand Rapids.
+L445068 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Your place?
+L445067 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I don't need any new ties. I've got another tie - I've got another one besides this one. And it's a pip, too. There's only one thing wrong with it. You know what that is?  It has a little weakness for gravy, and once in a while it leans a little toward ketchup. Of course that's only in its weaker moments. When you move down to my place, I'll show it to you.
+L445066 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ You ought to get some new ties, Stewart.
+L445065 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ What's the matter? Something I et, no doubt. Egg marks the spot—
+L445061 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ I'm glad.
+L445060 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ A little—? Sure, I'll be right up.  He's all right. I like him.
+L445050 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I'm afraid she's right, Mrs. Schuyler. I'm really very sorry, Mrs. Schuyler, that you feel this way. I was in hopes that you would like me. I'm not the burglar that you think I am. After all, we're married. I think the thing to do is to kiss and make up - Mother.
+L445049 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Now Mother, your attitude is perfectly ridiculous. It's done now. Stewart and I are married.
+L444940 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ That's because you're too far away, Stew.
+L444939 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ My name is Smith - well, that you seem to have been able to stand for the last month. I'm white, male and over twenty-one. I've never been in jail - that is, not often. And I prefer Scotch to Bourbon. I hate carrots, I hate peas, I like black coffee and I hate garters. I make seventy-five bucks a week and I've got eight hundred and forty-seven bucks in the bank - and - I don't know yet whether your eyes are blue or violet.
+L444938 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ None of your ideas can be goofy, Stew, if they concern me.
+L444937 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Throw me out - because I'm beginning to get goofy ideas, and they concern you, Anne.
+L444936 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Why should I? We're happy, aren't we, darling?
+L444929 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ How-di-do.
+L444928 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Hello, Natalie. Mr. Stewart Smith . . . Miss Montgomery, Mrs. Eames, Mrs. Radcliff, Mr. Radcliff—
+L444911 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Please go. I'll explain to Mother.
+L444910 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ It's all right. It's all right, Anne. I can take a hint. A bit subtle, but I get it. It's all right.
+L444909 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Oh, Mother!
+L444895 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Not if you're going to lose any sleep about it.
+L444894 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Say, you could do anything with me you wanted to. Putty - just putty, that's me.  Now getting back to those eyes of yours - would you mind if I kind of got closer so I could see them?
+L444893 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ I'm just beginning to believe that something could be done with you.
+L444890 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ You don't wear garters!
+L444889 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Me? No - most ordinary guy in the world, me. Only one thing wrong with me—
+L444888 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ You're a bit eccentric, aren't you?
+L444887 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Yeah, I haven't figured out the plot yet, but it's laid in a Siberian village.
+L444886 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Really?
+L444882 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well, you could make this table a little - uh - a little less wide.  There is something you can do for me, Miss Schuyler.
+L444881 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ won't even pretend it isn't a very great favor. I wish there was something I could do for you—
+L444880 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I know but that was news. This is blackmail and I don't like blackmail.
+L444879 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ You're a peculiar person. Why the other day I pleaded with you not to send in that story and — 
+L444878 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Your mother will want to kiss me? Give me back my letters.  That's the breaks I get. It's the mothers that are always grateful to me.  Here.
+L444877 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ I don't know how to thank you. Mother'll be so grateful - she'll probably want to kiss you.
+L444875 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ For the letters, of course.
+L444874 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ For what?
+L444873 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Will - uh - five thousand be enough?
+L444869 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Sure, I'll take a chance.
+L444868 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Will you step into the library?
+L444867 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ So, it's obvious, huh?
+L444866 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Oh, I don't need another guess. It's quite obvious.
+L444865 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ No - give you another guess.
+L444864 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ I suppose you're going to print them?
+L444863 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I stole them when I was interviewing Babykins about Bobo.
+L444862 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Where did you get those letters?
+L444860 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ I'm not interested. Smythe will open the door.
+L444859 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Ah!  But you don't know who Bobo is. And you don't know who Babykins is.
+L444858 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Just a moment. I don't see how that trash could possibly concern me.
+L444857 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Just listen to this—  Adorable Babykins— Does her miss her Baby? Him sends his booful li'l sweetums a billion oceans full of kisses. Bobo is so lonely—!
+L444856 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well, maybe it's a bit heavy for you. Perhaps if you'd like something lighter - something with a touch of romance—
+L444855 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ I'm not interested in your literary recommendations.
+L444854 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Yeah, that was considerate of me. I recommend you read it.
+L444853 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ That's considerate of you.
+L444852 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well, I tell you, yesterday when I was here, I had one of your books in my hand, and when I got outside, I realized I still had your book in my hand. So as long as I had your book in my hand, I thought I might as well take it home and read it. This morning, I got up and put your book in my hand, and here's your book in your hand.
+L444851 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ What do you want?
+L444848 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ You may go, Smythe.
+L444847 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ That's a good idea - telephone the police. The number is Spring 3100. Get a couple of cops over and we can have a rubber of bridge.
+L444804 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ You're all right.
+L444803 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Certainly. Right over there.
+L444802 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ May I use your telephone?
+L444800 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Oh, thank you, I knew you'd understand.
+L444799 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ You know something, lady, if you sold life insurance, I'd go for a policy in sixty seconds.
+L444793 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ No? Why not?
+L444792 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ You're not going to print this silly thing, are you?
+L444791 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Decent? Why Miss Schuyler, I want to be noble.
+L444790 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ I'm sure you're quite willing to be decent about this.
+L444788 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I don't mind her if you don't.
+L444787 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Don't mind Mother.
+L445320 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ All right, all right! It's your funeral, Anne Schuyler!
+L445319 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Why doesn't Dexter show some decency? And you might show some too, Mother. What do you expect a man to do when he's called such names?  I'm glad you hit that reporter, Stewart. He deserved it.
+L445291 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Look! Look! The front page!
+L445290 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Mother!
+L445289 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Ah-ah-ah!
+L445288 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ It was a miracle. The man was ill or something.
+L445287 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ You don't have anything to complain about, Mother. He was all right last night, wasn't he? I told you not to worry about him.
+L445286 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Stop it. Anne. You're behaving like the person you're married to.
+L445285 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Oh, the usual thing. Blah, blah, blah attended the blah, blah reception and wore the same blah, blah things.
+L445284 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ I was so worried for fear he'd knock over a vase or something. I must have acted like an idiot.  What does it say about the reception last night?
+L445283 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Good morning, Mother. Didn't I tell you that he'd be marvelous. Everybody thought he was so charming last night.
+L445040 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Sit down!
+L445039 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Mother, I promise you that he won't be a reporter much longer. Once I get him away from that atmosphere and get him away from a man named Gallagher—
+L445038 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ It's a good thing your father passed away before he saw insanity ravage the family. I can't imagine what made you do such a thing. A reporter! Of all things, a reporter! A barbarian who lets his socks come down!
+L444902 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Why—
+L444901 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ What is this person doing here?
+L444899 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Oh, hello Mother!
+L444898 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ That's an excellent idea.
+L444698 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Oh, shut up!
+L444697 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ Splendid, Mother. Let's hop over to Monte Carlo. It's a great place to save a face.
+L444696 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ I should say you had. At the rate you two are going, we'll have to leave the country to save our faces.
+L444695 +++$+++ u2485 +++$+++ m161 +++$+++ ANNE +++$+++ You should have known better than to write, Romeo. I found that out a long time ago.
+L445256 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Well, I got a seat, but I have no place to put it.
+L445255 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ I'll tell Mr. Smith at once, sir. Have a seat.
+L445254 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ —a beautiful pair of shoulders! But listen now, as a favor, will you please make it snappy, Laughing Waters,[14] and tell Stew Smith I gotta see him because if you don't my whole family's going to die.
+L445253 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Oh, a party! Great, great! Jolly times and merry pranks. That's me. I'm a guy who loves parties. You know—
+L445252 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Pardon me, Mr. Smith is engaged. We are having a reception here this evening—
+L445251 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ I want to see Stew Smith. Oh excuse me - I mean Mr. Smith.
+L445250 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Who is it you wish to see, sir?
+L445249 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Hello, there, Meadows![13]
+L444754 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ I certainly will.
+L444753 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Give my regards to your managing editor.
+L444752 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ All right, all right, don't mention it.
+L444751 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Thank you very much.
+L444750 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ That's what I wanted to say, but I couldn't think of it.
+L444749 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Why, sure. It's a lotta hooey.
+L444748 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ So, you see how silly that rumor is?
+L444746 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Oh yeah?
+L444745 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ I know, I know. But there's no truth in the story whatsoever.
+L444744 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Oh, that's all right with me. I won't hold it against you. But you see, I'm here to find out about—
+L444743 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ But right now I'm acting in the capacity of Mrs. Schuyler's attorney.
+L444742 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Yeah!
+L444741 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ As one Tribune man to another—
+L444740 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Is that so?
+L444739 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ I got him his job on the paper. I'm a stock-holder, you know.
+L444736 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ We were classmates.
+L444735 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Huh?
+L444734 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Yale '21, I believe.
+L444733 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Is that so?
+L444732 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ I knew your managing editor very well.
+L444731 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Well, I should say!
+L444730 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Fine newspaper the Tribune.
+L444728 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Oh, man!
+L444727 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ This way.
+L444726 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Thanks, I will.
+L444725 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Fine. Have a seat.
+L444724 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Yeah, hello. How are you?
+L444723 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ You're the Tribune man?
+L444722 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ What's the matter? Isn't there a 'bless you' in the crowd?
+L445445 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ You've raised it up to the chin, I see.  Go on in the other room and get yourself a drink.
+L445444 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ I gave you the breaks, didn't I? That hairy chest story!
+L445443 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Sure, sure. That's all right. That was a great story, Bingy. A great story - wish I'd printed it.
+L445442 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Well, Stew, that's all thrashed out. By golly, I'm surely glad to see that you're not really sore. You know our racket - after all, news is news.
+L445440 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Excuse me, Gallagher. I wouldn't miss this one for the world.
+L445439 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Big Chief Bingy come to white man's tepee to make friends. Big Chief very sorry. To show how sorry - will bend over and let white man kick Big Chief where sun never shines.
+L445437 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ No, it's just little Bingy Baker.
+L445436 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Is there a green elephant standing beside that bwana?
+L445277 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ There's no catch. This is on the up and up. Of course all you have to do is just sign the article - by Anne Schuyler's Husband.
+L445276 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I'll bite. What's the catch?
+L445275 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ It's all right. You can write your own ticket. A hundred and fifty bucks a week.
+L445274 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Yeah - go on.
+L445273 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Yeah. The boss sent me over to offer you a job. He wants you to write a daily column on the Tribune.
+L445272 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Yeah?
+L445271 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ I bring a message from Garcia.
+L445269 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Now get this mug. You've got the kind of chin I just love to touch. And if you don't get out of here, I'm going to hang one right on it.
+L445268 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ A photograph? What's the matter? Hasn't mama had you done in oils yet?  "Just A Gigolo . . . "
+L445267 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Is that so? Well, have you seen enough - or would you like a photograph?
+L445266 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Not bad - not good - but not bad. You ought to be able to fool about almost anybody.
+L445265 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ How's that?
+L445264 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Oh boy, I'd love it.
+L445263 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Would you like to have me turn around for you, Bingy?
+L445262 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Oh, nothing. I just blew over - I wanted to see how the old newshound looked made up for a gentleman.
+L445261 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ What do you want?
+L444720 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Hey, make up your mind, will you?
+L444719 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Impossible. Put it on again.
+L444717 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I'm afraid.
+L444716 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Oh, is that so?
+L444715 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Couldn't make the last edition. It'd take me four hours to translate your story into English.
+L444714 +++$+++ u2486 +++$+++ m161 +++$+++ BINGY +++$+++ Say, take it easy! Take it easy! Listen, my boy. No use you hanging around here. Just buy the Tribune tonight and read all about it. You can rewrite it for your last edition.
+L445023 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ 'For he's only a bird in a gilded cage, a beautiful sight to see—'  Tweet, tweet - ha, ha—
+L445022 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ No!
+L445021 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ No?
+L445020 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I'm not quitting!
+L445019 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Well, I'm sorry to see a good reporter go blooey—  Let me know when you're quitting.
+L445018 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Araby, my eye—!
+L445017 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Sure.
+L445016 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Araby?
+L445015 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Siberian bloodhound?  No. That's been all rewritten. It's laid in Araby now.
+L445014 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ The one about the Siberian bloodhound?
+L445013 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ My play.
+L445012 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ What play?
+L445011 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Yeah, live on my salary - that is, until I finish writing my play.
+L445010 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ And live on your salary, I suppose?
+L445009 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Aw, you've been reading a lot of cheap tabloids. Anne and myself are going to move downtown in a nice little flat, we're gonna forget all about this social stuff, and we're gonna be known as Mr. and Mrs. Stew Smith. How do you like that?
+L445008 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ You heard me. A bird in a gilded cage.
+L445007 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ A what?
+L445006 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Just a boid in a gilded cage -
+L444999 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ That's so.
+L444998 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Is that so?
+L444997 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Now get this, Conroy. My name is Smith. Always was Smith - and always gonna be Smith.
+L444996 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ —Mr. Schuyler .
+L444994 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Quitting? I'm not thinking about quitting.
+L444993 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Well, when are you quitting?
+L444990 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Baloney!  Joe! Bring me a special!
+L444989 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Gallagher and myself just came over here to do a little work on a story -
+L444959 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Well, it's your business to get news! And here you had a story right in your own lap and you let the Tribune scoop us on it. Making a first class Grade A monkey out of me. If it ever happens again - just don't bother about coming back. That's all.
+L444958 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Yes, sir.
+L444957 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ What do I care about your mother- in-law! You're still working for this paper, aren't you! Or are you?
+L444956 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well, you see, I've acquired one of those new mother-in-laws, and we were afraid she wouldn't understand the whole idea. So we were going to wait till she went to Europe.
+L444955 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Why not?
+L444954 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ No, no - it's true, all right, only we didn't want to get it in print yet, that's all.
+L444953 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ I've heard of people being scooped on their own funerals, but this! Holy mackerel! Why, it's news when Anne Schuyler gets her fingernails manicured, but this! She gets married to one of our own reporters and the Tribune beat us to it!  Well! What do you guys want? Go on, get back to your desks. Go back to your work.  Now don't tell me you were drunk at the time and don't remember! Or is this one of Bingy's snow-storms?
+L444952 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ No? Well, where were you when that happened?
+L444951 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Not on my own beat, no.
+L444950 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ You wouldn't know news if you fell into a mess of it, nose first. So you're the bright lad that's never been scooped!
+L444949 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ It has been alleged - yes—
+L444948 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Do you call yourself a reporter?
+L444947 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Now listen boss, if you're going to kick about that expense account—
+L444688 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I know those bluenoses. Their ancestors refused to come over on the Mayflower because they didn't want to rub elbows with the tourists. So they swam over.
+L444687 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ What expenses? All you need is carfare to Long Island. You'd better get a shave and a shine, because you, you're going to have a tough time getting in there as it is.
+L444686 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ All right. Give me a voucher for expenses.
+L444685 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Yeah - and get us into a million dollar libel suit. It wouldn't be the first time. Now, you get over there and get a statement out of the old lady, the sister, or the kid. Any of them - but get it.
+L444684 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Get going where? I can write that yarn without stepping out of the office.
+L444683 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Come on, get going, get going!
+L444682 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well - it's only April.
+L444681 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Right - for the first time this year.
+L444680 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ The human cash register. Got her hooks into the Schuyler kid, eh?
+L444679 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Yeah, little Gloria.
+L444678 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Gloria Golden?
+L444677 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Now listen, we've got a tip that the Schuyler family has finally made a deal with that chorus dame.
+L444675 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ It isn't a question of knowing what to do, it's knowing how to get in one that counts.
+L444674 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Do you know what to do in a drawing- room?
+L444673 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ With me you can always do business.
+L444672 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Aagh! No wonder you're batty. Would it be imposing too much upon you if I asked you to do a little work today? Just to sort of break the monotony?
+L444670 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ You're always picking on me. It took me three hours to get those little gadgets in those holes, and you screw it up in a minute. Hey, look!
+L444669 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Yeah?
+L444668 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Yeah.
+L444667 +++$+++ u2487 +++$+++ m161 +++$+++ CONROY +++$+++ Yeah?
+L444666 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Look, I quit!
+L445132 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ Yes sir!
+L445131 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ A bird! A bird in a gilded cage! Get that thing out of here!
+L445130 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ Yes, sir. Very good, sir.
+L445129 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ That's a canary! Who brought that in here? Canary, huh? Go on, get that out of here. Get that out of here!
+L445128 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ That's a canary, sir.
+L445125 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ There you are. You caught on. You see, you're nice and you're smart too. You caught on right away. Outside! Go on! Outside! And don't come back!
+L445124 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ I think I understand, sir. You mean you want me to go?
+L445123 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Outside!
+L445122 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ I beg your pardon, sir?
+L445121 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ All right, outside!
+L445118 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ Now Mr. Smith, now please—
+L445117 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Now I'm sorry. I appreciate your efforts. But I don't need anybody to help me button my pants - I've been buttoning my pants for thirty years all right, and I can button 'em with one hand as a matter of fact.
+L445116 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ Quite so. Quite.
+L445115 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Are you trying to tell me that I need someone to help me put on my pants and button them up?
+L445113 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ But not for me!  Though I like you well enough. You're a nice fellow. You're all right. But I'm sorry I don't need any valleys today.
+L445112 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ Thank you, sir.
+L445111 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Say, you are nice. You're all right. You'd make a good wife.
+L445109 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ Miss Schuyler - I mean, Mrs. Smith - she engaged me this morning, sir.
+L445108 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ What are you doing fooling around in here?
+L445107 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ Oh no, sir!
+L445106 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Did you take anything out of those pants?
+L445104 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ Oh, but you didn't engage me, sir.
+L445103 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Yes. I must have been pretty much plastered if I hired a valet.
+L445102 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ Drunk, sir?
+L445101 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Dawson, huh? Was I very drunk last night?
+L445100 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ Dawson, sir.
+L445099 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Thank you, thank you, thank you! I'll do that for you some time. That's very sweet. Say listen, what did you say your name was?
+L445098 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ Your valet, sir.
+L445097 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ You're my what?
+L445096 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ I'm your valet, sir. Dawson is the name, sir.
+L445095 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Who are you?
+L445094 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I like my bath all right. How do you like your bath?
+L445093 +++$+++ u2488 +++$+++ m161 +++$+++ DAWSON +++$+++ How do you like your bath, sir?
+L445192 +++$+++ u2492 +++$+++ m161 +++$+++ MISS WILSON +++$+++ You newspaper people have a lot of fun with him, don't you? What is it you call him - the Cinderella Man?
+L445191 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ I bet.
+L445190 +++$+++ u2492 +++$+++ m161 +++$+++ MISS WILSON +++$+++ He's probably very tired. You see, he's had to meet all these people personally tonight.
+L445189 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Yes.
+L445188 +++$+++ u2492 +++$+++ m161 +++$+++ MISS WILSON +++$+++ Mr. Smith? Oh, you mean Ann Schuyler's husband?
+L445187 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Thank you.  Where is Mr. Smith?
+L445186 +++$+++ u2492 +++$+++ m161 +++$+++ MISS WILSON +++$+++ That's a lovely dress.
+L445183 +++$+++ u2492 +++$+++ m161 +++$+++ MISS WILSON +++$+++ Yes, of course. I'll get it for you—
+L445182 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Why, a list of the guests. That's the usual thing, isn't it?
+L445181 +++$+++ u2492 +++$+++ m161 +++$+++ MISS WILSON +++$+++ Yes, of course. Miss Ramsey telephoned me. Well, what would you like to have?
+L445180 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ I was sent from the Post in place of our social editor.
+L445179 +++$+++ u2492 +++$+++ m161 +++$+++ MISS WILSON +++$+++ I'm Miss Wilson - Mrs. Schuyler's social secretary.
+L445178 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Yes.
+L445585 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ There's nothing sudden about that—  He's always loved the girl, but he was such a sap he didn't have sense enough to tell her. Well, that's all right - we can fix that. He will go to the little O'Brien girl, and - here, I'll show you.
+L445584 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ No.
+L445583 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Gallagher, what are you going to do - tell me how to write a play?
+L445582 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ But that's ridiculous! You can't make a sudden change like that.
+L445581 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ The little O'Brien girl, of course - the one you suggested in the story.
+L445580 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ What other girl—?
+L445578 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Well, from now on the play will be easy. All you have to do is bring the wife back, have her say she's sorry, and then your play's over.
+L445577 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ It's a swell idea, Gallagher. How's this?  The wife's family lawyer comes to see the kid, see - to talk over the divorce. Then this guy insults the poor but honest boy by offering him alimony - so the kid gets sore, socks the lawyer in the nose and throws him out. How's that for the beginning of the third act, huh?
+L445575 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Gallagher, that guy just dropped by to give us a great opening for the third act.
+L445574 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ What did he want?
+L445573 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Grayson - Anne's lawyer.
+L445572 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Who was that?
+L445546 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Don't be sorry. Just get the breakfast, that's all.
+L445545 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Sorry, boss—
+L445544 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Never mind that. If you can't get my breakfast ready - and can't get here on time in the morning - then you can go get yourself another job.
+L445543 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ It'll be ready in a minute.
+L445542 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ How about my breakfast? How do you expect me to ring a curtain down on an empty stomach?
+L445541 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Yeah?
+L445540 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Hey, Gallagher!
+L445536 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Huh?  Oh, I'm not worrying about her - I'm worrying about that second act curtain, that's all.
+L445535 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ I wouldn't worry too much about it, Stew. She'll see it your way.
+L445494 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Very good.
+L445493 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Now, we've got it right up to where the boy's wearing his white spats and going to teas and the frau enters - how's that?
+L445492 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Nope - afraid I'm all out of tricks tonight.
+L445491 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Now Gallagher, if we could only get a great scene - a tremendously emotional scene - something that would just wring the hearts out of the public - to bring the curtain down in the second act - that would be okay. Couldn't dig one out of your hat some place, could you?
+L445477 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ All right, thanks. Now, let's see. How will I start? Hey pal, how would you start?
+L445476 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Here you are.
+L445475 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ You could be something.  I've got an idea, Gallagher. Let's get this set. That's a great idea for a play. Pal, get me a cigarette, will you?
+L445474 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ What could I be?
+L445473 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ And there's her mother - and what a character that old dame would make with her double-strength - and that lawyer friend of theirs - he'd make a great villain - and there's you!
+L445472 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Oh, sure. She'd make a beautiful heroine...
+L445471 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Gee, that's an idea, Gallagher. That's an idea there. I wonder now...
+L445470 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Then why don't you write about something you know?  Write about yourself and Anne. The poor boy who marries a rich girl - now there's a swell theme.
+L445469 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Right.
+L445468 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Didn't he go to sea before he wrote about it?
+L445467 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Right.
+L445466 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Isn't he the one that always writes about things - only the things he knows about?
+L445464 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ I don't know a thing about him, but isn't he the one you're always yelling about?
+L445463 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ What do you know about Conrad?
+L445462 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Conrad.
+L445461 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Did who?
+L445460 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Did Conrad draw on his imagination?
+L445459 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh - draw on my imagination, I suppose.
+L445458 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Then how do you expect to write about it?
+L445457 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Never even been to New Madrid.
+L445456 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ To Old Madrid.
+L445455 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Been where?
+L445454 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Stewart, have you ever been to Old Madrid?
+L445453 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Haven't I covered some territory? It feels like I've been on a Cook's Tour[18] some place.
+L445452 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Well, you're not getting your play done, but you're certainly covering a lot of territory.
+L445450 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well, I've just been able to get off that Norway coast - so far.
+L445449 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ How far have you gotten?
+L445447 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Yes - and I'd love it.
+L445446 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ You know what I should do with you? I should sock you right in that funny little nose.
+L445434 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Smythe! Give them one drink and throw 'em out!
+L445433 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Okay.
+L445432 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I see. Hank brought them all. That's all right. We'll give them a drink and throw 'em out. How's that?
+L445431 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ I'm sorry, Stew. I asked Hank, and Hank did the rest.
+L445408 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Hello, Hank. How are you?
+L445407 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Hello, Stew.
+L445406 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well, Gallagher! Glad to see you.
+L445248 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Yes.
+L445247 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ No, no. Strange, I've never seen Anne act that way before.  It's funny I never thought to tell her you were a girl, isn't it?
+L445246 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Oh, that's all right, Stew. Forget it. As far as she's concerned, I'm just part of the hired help.
+L445245 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I'm sorry, Gallagher - really, I am sorry.
+L445234 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Right!
+L445233 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ They all consider me just as one of the boys.
+L445217 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Must be my wife.
+L445216 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ My mistake - she's glaring.
+L445215 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Staring at us?
+L445214 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Don't turn around now - but there's a very beautiful girl up there who seems to be staring at us.
+L445213 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh, you dyed one and washed the other. Well! You certainly look good.
+L445212 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ I dyed one and washed the other.
+L445211 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ What did you do to that hair? And where did you get that dress?
+L445210 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Nothing.
+L445209 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Gee Gallagher, do you look good! What are you doing to yourself?
+L445208 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Say, who's been tying your ties lately? It looks rotten.
+L445207 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ No, no! Maybe we could interest you in some well done butterflies, or perhaps some slightly fried pansies, or better still, some stuffed shirts. And guaranteed every one of them will give you a good stiff pain in the neck.
+L445206 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Well, I'll have to look someplace else.
+L445205 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Aw, you wanted to see some life in the raw, huh? Well gal, I'm afraid we ain't got no raw life up here.
+L445204 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ I'm pinch-hitting for our society editor tonight. I wanted to see some life in the raw.
+L445203 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well, daughter of the slums - how did you get out of the ghetto?
+L445202 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ There you are—!
+L445201 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well, well! If it isn't my old friend! Turn around, gal! Let's get a look at you.
+L445200 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Mr. Smith, I've read some of your plays and I'd like an autograph.
+L445030 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Her family? Oh, they'll be all right. I'll bring them around.  Gilded cage?!  Besides, I'm not marrying her family. Stew Smith in a gilded cage! Stew Smith? Ha!  That mug. What does he know?
+L445029 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ How is her family going to feel about it?
+L445028 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I knew you would, pal.  A bird in a gilded cage, eh?
+L445027 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Sure - I think so, Stew.
+L445026 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Pay attention? I'm not paying any attention to him. You think that guy could get me upset? Hah! Not that mug. He's a tough mug - hard, cynical. He doesn't know the fine things in life - that guy.  A bird in a gilded cage, huh? It's getting so a guy can't step out without being called a magnolia. Stew Smith, a magnolia! Not me. Say, I'm not going to hang around and be a speakeasy rat all my life! I'll tell you that. Not me, not me. I'm going to step out and mean something in this world. You watch me.  Say, am I a lucky guy to be near Anne Schuyler?  I've been hit with a carload of horseshoes, and believe me I know it. Lucky, I'll say I'm lucky!  Don't you think I'm lucky, Gallagher?
+L445025 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Don't pay attention to him, Stew. He doesn't know what he's talking about.
+L444985 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Cut that out. Just because I'm married - there's no reason for that.
+L444984 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Oh, I'll call you up some time. And if your social duties permit - why -
+L444983 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Say, what kind of a pal are you? You're not going to leave me flat?
+L444982 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Oh no, you won't, Mr. Smith. You're a married man now. Mother always warned me never to run around with married men.
+L444981 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well, if she doesn't want to come, I'll come down alone.
+L444980 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ My error.
+L444979 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Now get this, Gallagher - Smith. That's the name.
+L444978 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Remember, she's a Schuyler.
+L444977 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Who - Anne? Sure, Anne would love that.
+L444976 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Do you think your wife would walk up three flights of stairs just to eat out of paper plates?
+L444975 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Remember the time we had a spaghetti party, and while I was serving the spaghetti I dropped it on the floor, and while those mugs weren't looking, I picked it up and served it to them anyway! Remember that? Yes, Anne would love that.
+L444974 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Not since you broke into society.
+L444973 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Ah! Thank you, Joe.  Tell you what - we'll have one of those parties down at your house - one of those spaghetti parties, you know. Gee, we haven't had one of those in a long time, have we Gallagher?
+L444972 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Who me? She wouldn't want to meet me. I'm just an old load of hay.
+L444971 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Joe! A little snifter.  Say, wasn't I a lucky guy to fall into a girl like that, huh?  Look at that! I don't know how I rate that, Gallagher. Gosh, there's a swell girl. I want you to meet her.
+L444970 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ It's the smoke.
+L444969 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh sure, we'll be happy. What's the matter with your eyes?
+L444968 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ I hope you'll be very happy.
+L444967 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Thanks, thanks.
+L444966 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Sure. I wish you all the luck in the world, pal.
+L444965 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Sure, you ran away. Aren't you going to congratulate a guy?
+L444964 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ I didn't run away.
+L444963 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well, well, well! Gallagher, old pal! There you are. What did you run away for?
+L444834 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well, you're my pal, aren't you? Then don't turn female on me.
+L444833 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Well!
+L444832 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ There you go, talking like a woman!
+L444831 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ And the rest of us are truck horses?
+L444830 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Gallagher! She's the real McCoy!
+L444829 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ On now, Stew, don't be too hard on her. I wouldn't call her a brewery horse.
+L444828 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Sure, sure. You've got a nose, Gallagher. You've got a nose. But there's different women, Gallagher. You know, like brewery horses and thoroughbreds.
+L444827 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Of course I haven't got a nose.
+L444826 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh, you don't appreciate it. Her pictures don't do her justice. Why, Gallagher, she's queenly - she is queenly - and I know queens!  And oh, has she got herself a nose - and I know noses too. That little snozzle of hers is the berries, I tell you. And is she cute when she throws that little snozzle to the high heavens!
+L444825 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Well, I've seen her pictures, and I don't think she's so hot.
+L444824 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ —and those and them.
+L444823 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ —and that—
+L444822 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ And with it came love! Oh Gallagher, you've got to meet her. She's it—
+L444820 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Sure, the story is cold, but I'm not. I'm sizzling - look! Psst!
+L444819 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ For heaven's sake, Stew, are you completely bats? What for? I thought the story was cold. You can't go back there.
+L444818 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Sure, I must drop in on the mad wench. Her wounds need soothing.
+L444817 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ You what?
+L444816 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I hope not . . . I've got to call on her this morning!
+L444815 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ You're sure going to be poison to that Junior Leaguer[4] from now on!
+L444660 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ There's the third one. If I don't get the last one, there's a certain sob sister I know that's going to get a kick right in the . . . oh! Whoops, almost had that.
+L444659 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ The boss is getting hoarse.
+L444658 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Come on, come on. Here they come, Gallagher! Here they come!
+L444657 +++$+++ u2489 +++$+++ m161 +++$+++ GALLAGHER +++$+++ Stew, your hands are shaking. You've been drinking again.
+L445571 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ And now for that twentieth crack—
+L445570 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Yes.
+L445569 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Don't think. Let me do all the thinking. Now you go back to that Schuyler outfit and tell them that I didn't marry that dame for her dough and I don't want any of her dough now. I was too poor to buy her a wedding present when we got married, so I'm giving her a divorce for a wedding present. Now, stand up!
+L445568 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ We just thought that—
+L445567 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Unconscious. You know, when you don't know anything. Your natural state. There are some people - you can't buy their self-respect for a bucket of shekels - well, I happen to be one of those guys.
+L445566 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ I beg your pardon.
+L445565 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Remember what I told you about that twentieth crack? All right, you've just made it. Before you go unconscious I want you to get this through your nut.
+L445564 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ That's putting it crudely, but—
+L445563 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Wait a minute. Do I get from you that she wants to pay me alimony?
+L445561 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ You don't seem to understand. Anne doesn't expect anything from you.
+L445560 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Listen Grayson, I've got 106 bucks and 75 cents in the bank. Now Anne can have any part of that she wants, but she'd better hurry because I'm spending it awfully fast.
+L445559 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ She wants me to arrange the financial settlement.
+L445558 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ She did—?
+L445557 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Anne asked me to come and see you about the divorce.
+L445556 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ You don't.
+L445555 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ I don't eat waffles.
+L445554 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Surely, sit down. If I had known you were coming, I would have thrown you up a waffle.
+L445553 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Thanks. May I sit down?
+L445552 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Surely, come right in.
+L445551 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Now don't be absurd, Smith—  May I come in?
+L445550 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ No, I have no idea - unless some of the silver-ware is missing.
+L445549 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ I suppose you know why I came—?
+L445548 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Holy jumping swordfish!
+L445547 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Hello, Smith.
+L445310 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Certainly! I'll take care of this guy Bingy myself, personally.  Now what are you crying about?
+L445309 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Traps shut!
+L445308 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Why deny it? The more you deny, the more they print. Let them alone! The thing to do is to sit still and keep our traps shut.
+L445307 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Well, at best you might deny it.
+L445306 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ You quit trying to stop anybody—
+L445305 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ I've tried to stop the evening papers, but it's useless.
+L444785 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Go?! Wait a minute - that's a great story! Newspaper reporter was forcibly ejected from Schuyler Mansion, and—
+L444784 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ I think you'd better go.
+L444779 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Who, Bingy? Yeah, Bingy would. He never saw fifty dollars before. You could have bought him for six bits. Funny thing about Bingy. The more he gets - the more he prints. He looks stupid, doesn't he? But oh how smart he gets when he bends over a typewriter.
+L444778 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ The man from the Tribune seemed perfectly satisfied.
+L444775 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Good.
+L444774 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ I have it here.
+L444773 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ A statement? Good.
+L444772 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ We admit nothing. However, I have a little statement all prepared.
+L444771 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well, well. That takes it out of the rumor class, doesn't it?
+L444768 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh I see, but Gloria doesn't seem to be satisfied with the twenty thousand dollars.
+L444767 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ No breach-of-promise case has been filed. The matter has been settled out of court.
+L444766 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Rumors? Rumors? Since when is a breach-of-promise case a rumor?
+L444765 +++$+++ u2490 +++$+++ m161 +++$+++ GRAYSON +++$+++ Just a habit. Mr. Schuyler is a bit put out by all the rumors going around.
+L444764 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Nice set of Conrads you have out there, Mrs. Schuyler. I was just glancing through this one.  What's Michael tearing the paper about?
+L445428 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Now Hank, are you sure they're coming?  It will be lonesome without them.  Smythe, take this crowd in there and give them a drink. And find out what the boys in the back room want!
+L445427 +++$+++ u2491 +++$+++ m161 +++$+++ HANK +++$+++ The rest of the gang had to get out the morning edition - but they'll be down later.
+L445426 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I'm sorry nobody could come.
+L445416 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Hello, Joe.
+L445415 +++$+++ u2491 +++$+++ m161 +++$+++ HANK +++$+++ Come in, Joe. It's all right.
+L445414 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ It's all right. Bring him in.
+L445413 +++$+++ u2491 +++$+++ m161 +++$+++ HANK +++$+++ I sort of invited him along to bend an elbow. You don't mind, do you?
+L445412 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Sure.
+L445411 +++$+++ u2491 +++$+++ m161 +++$+++ HANK +++$+++ Okay - you remember Joe—
+L445410 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Come right in - I'll get you a drink.
+L445409 +++$+++ u2491 +++$+++ m161 +++$+++ HANK +++$+++ Fine, but kinda thirsty.
+L445486 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ I have. Double-strength!
+L445485 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Smythe, you've been drinking.
+L445325 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ They've been ready for the last half hour.
+L445324 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Are the cars ready?
+L445323 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Pardon me, madam. They phoned through from the Mayor's committee to remind you it's past the hour for the reception.
+L445297 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ "Cinderella Man Grows Hair On Chest!"
+L445296 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Double-strength!
+L445036 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Double strength!
+L445035 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Some bicarbonate - quick!
+L444707 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ I've anticipated it, madame. The bicarbonate is ready.
+L444706 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Oh, Smythe, some bicarbonate of soda, quick - double strength. I know those news mongrels[3] will upset me.
+L444700 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Pardon me, madam - but what am I to say to the newspapermen?
+L444699 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ What is it, Smythe?
+L445522 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Sure I'm insane, but I've got some good news for you.  This magnolia is leaving your sweet smelling vanilla joint. This bird in a cage is gonna button his own pants from now on. And that is what is known as telling the mother- in-law.
+L445521 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Heavens! The man's insane!
+L445520 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Joan of Arc! What's it to you?
+L445519 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ What's going on here? Who is this woman?
+L445318 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Anne Schuyler, are you going to sit there and watch this man insult us? Haven't you any decency left?
+L445317 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ That's the fourteenth crack you've made to me. I'm keeping count. When you get to twenty, I'm gonna sock you right on the nose. As a matter of fact, I ought to sock you right now.
+L445314 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Yes, I'm sorry, I struck him right here in your house. And I'll strike anybody in anybody's house that calls me a Cinderella Man.
+L445313 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ And you struck him right here in our house—?
+L445304 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ To engage in a brawl! A cheap, common brawl, in my own home! "I wear the pants!" The pants ! Not even the trousers!
+L445303 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ He's a worm - and I'm gonna step on him!
+L445302 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ I beg your pardon?
+L445301 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Yes - the worm!
+L445300 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Have you seen this? 
+L445299 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Good morning, everybody—  Well, maybe it isn't a good morning, huh?  Anne, did you ever get the feeling that there was someone else in the room with you?
+L445053 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ This man's impossible! I can't talk to him. Grayson, let's go where we can talk - hic!  See what you've done to me!?
+L445052 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ All right, Grandma—
+L445051 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Stop calling me Mother!
+L445047 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh, my marriage to Anne. Now Mrs. Schuyler, we don't want you to go to any trouble about that. We just want the usual blessings, that's all.
+L445046 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ About what? Your marriage to Anne!
+L445045 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Nobody seems to want to do anything—  Why not ask me? Perhaps I can offer a suggestion. Do what about what?
+L444908 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Get out of here.
+L444907 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ With pleasure, Madame!
+L444906 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Indeed? Perhaps he will do me a great favor.
+L444904 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Why—
+L444903 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ As a matter of fact, I was just trying to decide the color of Anne's eyes. I can't tell whether they're blue, or whether they're violet. What would you say, Mrs. Schuyler?
+L444770 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh, so you did give her ten thousand dollars, eh? and there are letters...
+L444769 +++$+++ u2493 +++$+++ m161 +++$+++ MRS. SCHUYLER +++$+++ Dexter Grayson, you told me it was only ten thousand—and you didn't even get those letters from that Jezebel!
+L445430 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well, Gallagher, you certainly took no chances, did you?
+L445429 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ It isn't done, gentlemen! It isn't done, I say! It isn't done!
+L445405 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Very good, sir.
+L445404 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Smythe, I'll get this. I'm expecting some friends.
+L445397 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ That's all I wanted to know!
+L445396 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Yes.
+L445395 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ A bird in a gilded cage?
+L445394 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Well sir, to be a putterer, one's mind must be at ease. A person with a problem could never be a putterer. For instance, sir, a fish can putter in water but not on land because he'd be out of place. An eagle can putter around a rugged mountaintop but not in a cage, because he'd be restless and unhappy. Now sir, if you will pardon me, with all due respect, sir, as a Smythe to a Smith, you are an eagle in a cage.
+L445393 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well, if I couldn't be a good putterer, I wouldn't want to putter. But why? What makes you think I couldn't be a good putterer?
+L445392 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ You sir? Uh-uh. You could never be a putterer. Not a good putterer, sir.
+L445391 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ How about me?  Do you think if I concentrated and put my whole soul into it, that some day I might be a putterer?
+L445390 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Yes sir.
+L445389 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh my, wouldn't that be tragic? To know that you could never be a putterer.
+L445388 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Yes sir.
+L445387 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Oh my. You mean, some people are born and never will become putterers?
+L445386 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Oh no, sir. Some people are natural putterers. Others can never master it.
+L445385 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ No! Well, well, well! That's all right, if you like it. Can anybody do that?
+L445384 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ That's puttering, sir.
+L445383 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Well sir, I'll show you.
+L445382 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Well, isn't that nice? You just go right ahead and putter with your hands. That's all right. How do you do it?
+L445381 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Oh no, sir. I putter with me hands.
+L445380 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Hmmm, you just putter. Do you have to have a putter to putter?
+L445379 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ I just putter.
+L445378 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Smythe! I mean - when you're alone and want to amuse yourself, then what?
+L445377 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Well, sir, I putter.
+L445376 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Smythe, what do you do with yourself - I mean, when you're not carrying those double-strength - what do you do with yourself?
+L445375 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Yes, sir.
+L445374 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ It's haunted just the same.
+L445373 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ No, sir.
+L445372 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Found no skeletons?
+L445371 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Yes, sir.
+L445370 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Yes. Have you looked in the closets all over . . .?
+L445369 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ No, sir!
+L445368 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ No, that's enough. I just wanted you to get the idea. Now you know. This house is haunted.
+L445366 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Yeah.
+L445365 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Me, sir?
+L445364 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ You try it.
+L445363 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Yes, sir.
+L445362 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Shhh! Do you hear something?
+L445361 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Smythe, come here. I want to talk to you.  Come on, Smythe, talk to me. Smythe, I'm going nuts. I'm going nuts in this house! This big . . . come on, I'm not going to hurt you. Come on, what's the matter with you?
+L445360 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Did you call, sir?
+L445282 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Yes, sir.
+L445281 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Smythe, the - er - gentleman is leaving.
+L445280 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ That's what I think of it, Bingy!
+L445279 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Well done, sir. Very neat.
+L444850 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Now the lady said you may go—
+L444849 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ But I—
+L444841 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ I know, I know. I waited outside till she went out. She's a very nice lady, but we don't vibrate well together.
+L444840 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ Mrs. Schuyler is not at home.
+L444839 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Smythe! Well, well, well! With a Y , huh?  Congratulations! What a small world. Brothers under livery. Shake!  Now, as a Smith to a Smythe—
+L444838 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ The name is Smythe.
+L444837 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ Now, now Jeeves.[5] Was that nice? Was that being a gentleman, Jeeves? Was it, Jeeves? Your name is Jeeves, isn't it?
+L444713 +++$+++ u2494 +++$+++ m161 +++$+++ SMYTHE +++$+++ I understand, sir.
+L444712 +++$+++ u2495 +++$+++ m161 +++$+++ STEW +++$+++ There are no gentlemen on the Tribune.

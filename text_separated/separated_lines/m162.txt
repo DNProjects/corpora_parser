@@ -1,0 +1,665 @@
+L447967 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ What?
+L447966 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Yes ...  It's just that ...
+L447963 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Okay.
+L447962 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Yes.
+L447961 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ You sure you want to know this?
+L447959 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Ah.
+L447958 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ ... Sex.
+L447957 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ No. I want to know.
+L447956 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ It doesn't matter.
+L447955 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ What?
+L447954 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Yeah ...  That--and ...
+L447953 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Well, you hear all these things lately. You know--kids spending so much time up there ...  Is it holding hands? That kind of thing?
+L447952 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ What do you mean?
+L447951 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ What goes on up at Lover's Lane?
+L447950 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Sure.
+L447949 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Can I ask you a question?
+L447948 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Yeah?
+L447947 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Mary Sue?
+L447659 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Oh nonsense young lady. You're going to start your day with a nice big breakfast.
+L447658 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Actually--I'm not real ... hungry.
+L447657 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I put blueberries in them just the way you like.
+L447652 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Thanks.
+L447651 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I just love you in that sweater Mary-Sue. It's so flattering.
+L448542 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I love you too.
+L448541 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Thanks ... I love you.
+L448540 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I'm so proud of you, Bud.
+L448539 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ ... It's a pretty short trip.
+L448538 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ And ... wear this on the trip in case it gets cold.
+L448537 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I won't.
+L448536 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ There's a meatloaf sandwich in there too. Don't go skipping dinner just 'cause you're not here anymore.
+L448535 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I had to say goodbye.
+L448534 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Thanks. I thought you weren't gonna ...
+L448533 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I made you these for the trip. They're marshmallow rice squares.
+L448090 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Sure.
+L448089 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Thank you.
+L448087 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ What?
+L448086 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Wait.
+L448085 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ No ... They won't be able to tell.
+L448084 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ And they won't be able to tell?
+L448083 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Looks just like it did.
+L448082 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Does it look okay?
+L448079 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ In my handbag.
+L448078 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Have you got any make up?
+L448076 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I can't go out there. How can I go out there?
+L448075 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ It's okay. It's alright.
+L447848 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I'm fine.
+L447847 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ How 'bout some Marshmallow Rice Squares?
+L447846 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh no ... I'm fine.
+L447833 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ No, I ... I was just ... worried about her.
+L447832 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Why no. She's still on her date with Biff ... is something the matter?
+L447648 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ It can't be possible.
+L447647 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Bu-ud ... Mary Sue ... Your breakfast is getting cold.
+L447621 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ We're in Pleasantville?
+L447620 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Bud. Mary Sue ... Breakfast is on the table.
+L448286 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Yeah.  Or like sprinklers in the summer ...
+L448285 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Like a drum.
+L448284 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Yeah. It does.
+L448283 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Sounds nice ... Once you get used to it.
+L448282 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ But you can't go out there.
+L448281 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ But I really should get home.
+L448280 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ You can't go out there.
+L448239 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ I don't know.
+L448238 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ What is that?
+L448197 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ No ...
+L448196 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ It's alright. Let me see.
+L448195 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ It's alright.
+L448194 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I've got to go ...
+L448193 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Wait ...
+L448192 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Yes she is.
+L448191 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ No she's not.
+L448190 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ She's crying.
+L448189 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ What?
+L448188 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ She's crying.
+L448187 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Isn't it great how she's resting like that?
+L448185 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Here's my favorite.
+L448184 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Bud?
+L448183 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Bud brought it to me.
+L448182 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Where'd you get this?
+L448179 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Well ...  Here's what it's s'posed to look like.
+L448178 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I think it looks nice.
+L448177 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Having kind of a tough time.
+L448175 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Thanks.
+L448174 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I just thought ... It's beautiful.
+L448173 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ No, no ... Come on in.
+L448172 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I'm sorry ...
+L448171 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Oh, hi ...
+L447860 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Hello Bill.
+L447859 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Oh, hello Betty.
+L448310 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I'm gonna go now.
+L448309 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ Where are you gonna go?
+L448308 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I made a couple of lunches for you and put them in brown paper bags ...  I'm gonna go now.
+L448306 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ No I'm not sweetie.
+L448305 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ Okay--now you listen to me ...  You're gonna come to this meeting and you're gonna put on this make up, and you're gonna come home at six o'clock every night and have dinner ready on this table.
+L448304 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I don't want it to go away.
+L448303 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ It goes away ... It'll go away.
+L448302 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I don't want to put on some make up ...
+L448301 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ It's fine. You'll put on some make up and ...
+L448300 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Look at me George. That meeting's not for me. Look at my face.
+L448299 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ No I'm not.
+L448298 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ Sure you are.
+L448297 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I told you, George. I'm not going.
+L448296 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ Look. Let's just forget about it. Let's just go to the meeting and ...
+L448295 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ I was in a bowling-alley.
+L448294 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I got caught in the storm. You were gone all night too.
+L448293 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ All night?
+L448292 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ I told you where I was.
+L447836 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ But your sister is a fine young woman and she would never do anything for us to be concerned about.
+L447835 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Oh, George ...
+L447834 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ Bud, your sister's a little older now and she's naturally going to start going out with boys.  ... In fact pretty soon--she's even going to get married and make someone a good little home-maker like your mother here.  That's IF she can learn to bake.
+L447482 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ Oh darling that's wonderful!  I always knew you could do it.
+L447481 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ Oh, swell. You know, Mr. Connel said that if things keep going the way they are, I might be seeing that promotion sooner than I thought.
+L447480 +++$+++ u2496 +++$+++ m162 +++$+++ BETTY +++$+++ How was your day?
+L448386 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ I said, NO!  ... I've read like one book in my whole life and I'll be damned if I let you throw it on that fire ...
+L448385 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ It's better, Mary Sue.
+L448384 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Don't! Just let go.
+L448211 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ With what?
+L448210 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ I'm busy.
+L448209 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ Why not?
+L448208 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Oh.  I can't.
+L448207 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ We were gonna ... You know ...
+L448206 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ So.
+L448205 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ It's six-thirty ...
+L448204 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ What are you doing?
+L448203 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ Mary Sue--C'mon ...
+L447843 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Trust me ...
+L447842 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ It is?
+L447841 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ It's s'posed to happen, Biff.
+L447839 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ I think ... I might be ill ...
+L447838 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ ... Why?
+L447826 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Oh, Biff. You can "pin" me any time you want to.
+L447825 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ To be honest Mary Sue. I didn't think you'd want to come here until we'd been pinned for a little while.
+L447824 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Oh yeah ... Gorgeous.
+L447823 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ Sure is pretty.
+L447817 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ Lover's Lane!
+L447816 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ ... Lover's Lane.
+L447815 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ But where would we go?
+L447814 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ You wanna get out of here? You wanna leave?
+L447813 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ What?
+L447812 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ You want to get out of here?
+L447811 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ Anyhow ... I really wanted to come over and sit next to you in civics but ...
+L447802 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Oh you bet.  Will you excuse me for a sec?
+L447801 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ I mean, there's kids that are even holding hands already but I figure there's plenty of time for that kind of thing later on. Don't you?
+L447800 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Oh, gosh no.
+L447799 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ So I know I haven't been steady with anybody, but I just don't want to rush it. You don't want to make a mistake with something that important.
+L447798 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ Hunh?  Oh, right ...
+L447797 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Well, sometimes talking's over-rated. Don't you think?
+L447796 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ ... And you always seemed so smart and everything. Like that report you did on "Our Town Hall." Gosh. I didn't know what I'd talk to you about.
+L447790 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Gosh. I hardly know what to say.
+L447789 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ Oh yeah.
+L447788 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Really Biff? The keenest?
+L447787 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ I don't know if I ever said this to you before, but, well ... I think you're just about the keenest girl in the whole school ...
+L447786 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Well "gee whizz" Biff. I sure am glad you asked me.
+L447785 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ I sure am glad you said you'd come out with me tonight Mary Sue.
+L447689 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Um ... It's ...
+L447688 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ What's all the commotion? Where's the cat?
+L447900 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ Gee whizz, Bud. Guess I'll just have the usual. Cheeseburger and a cherry coke.
+L447899 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What'll it be?
+L447728 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ I don't know what I'd do if she wouldn't go out with me ...
+L447727 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I didn't say that. It's just that right now ...
+L447726 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ She won't go out with me?
+L447725 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What I mean is ... Mary Sue's been a little "different" lately ...
+L447724 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Lucky guess.  Look, Biff ... I don't think it's a real good time for that right now ...
+L447723 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ Yeah ... How'd you know?
+L447722 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ You want to ask her out tonight, right? And then you want to give her your school pin ...
+L447721 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ What's the matter?
+L447720 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I don't believe it.
+L447719 +++$+++ u2497 +++$+++ m162 +++$+++ BIFF +++$+++ What?
+L447718 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh God! Are we in that episode?
+L448509 +++$+++ u2498 +++$+++ m162 +++$+++ BIG BOB +++$+++ No it couldn't!
+L448508 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ But it could happen.
+L448507 +++$+++ u2498 +++$+++ m162 +++$+++ BIG BOB +++$+++ That's not going to happen!
+L448506 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ C'mon. Everyone's turning colors. Kids are making out in the street. No one's getting their dinner-- hell, you could have a flood any minute ... Pretty soon you could have the women going off to work while the men stayed home and cooked ...
+L448494 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Now don't you think she looks just as pretty in color? Don't you think she looks just as pretty as she did the day you met her?
+L448493 +++$+++ u2498 +++$+++ m162 +++$+++ BIG BOB +++$+++ Okay, that's IT!!!
+L448492 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Maybe you can't even describe it. Maybe you only know it when it's gone. Maybe it's like there's a whole piece of you that's missing too.  You might even call it "love."
+L448267 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ Well, I ... I came home like I always do, And I came in the front door. And I took off my coat. And I put down my briefcase and I said "Honey. I'm home."
+L448266 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ What happened?
+L448263 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ Real rain?
+L448262 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ Rain.
+L448261 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ Are you alright?  What is it?
+L448067 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ Oh sure ... You bet.  Betty ...
+L448066 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ Why don't you start by saying "yes," and then getting me one of those swell pineapple kabobs.
+L448065 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ Oh my Gosh. I hardly know what to say.
+L448064 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ And that's why I want you to be on the Pleasantville Chamber of Commerce.
+L448063 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ No. Of course not.
+L448062 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ And it's important for them to see someone they respect, stand up for what's right. If you love a place, you can't sit around and watch this kind of thing happen to it.
+L448061 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ Thank you very much.
+L448060 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ No. They do. And it isn't just 'cause you're a great bowler ... They respect you ...
+L448055 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ ... How?
+L448054 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ I really don't know.  Ben Miller's son just quit his job as a boxboy at the market.
+L448053 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ Oh my gosh. What's he gonna to do?
+L448052 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ One of those ... big beds?
+L448051 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ Wife wants him to get one of those new beds.
+L448050 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ No. What?
+L448049 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ "Changes."  And it's not just the fire or big stuff like that. It's little things.  Did you hear about Bill Miller?
+L448048 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ "Changes."
+L448047 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ I'm sure you've noticed the same things we all have--certain "changes" going on in the town.  You know what I mean by "changes"?
+L448045 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ I'm fine--but thank you.
+L448044 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ Betty's making some pineapple kabobs ...
+L448043 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ Oh, no thanks ...
+L448042 +++$+++ u2504 +++$+++ m162 +++$+++ GEORGE +++$+++ Want some bridge mix?
+L448504 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ No it isn't.
+L448503 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh sure it is.
+L448502 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ It's not in ME.
+L448501 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ But see that's just the point. It can't stop at once. Because it's in you. And you can't stop something that's in you.
+L448500 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ THIS BEHAVIOR WILL STOP AT ONCE.
+L448499 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Well I don't think it's a circus. And I don't think they do either.
+L448498 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ BECAUSE I WILL NOT ALLOW YOU TO TURN THIS COURTROOM INTO A CIRCUS!
+L448497 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Why am I out of order?
+L448496 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ YOU'RE OUT OF ORDER!
+L448476 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I'm not lying ... Here I'll show you.
+L448475 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ You're not allowed to lie.
+L448474 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I thought I was allowed to defend myself.
+L448473 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ Okay--that's enough!
+L448472 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ See, I know you want it to stay "Pleasant" but there are so many things that are so much better: like Silly ... or Sexy ... or Dangerous ... or Wild ... or Brief ...  And every one of those things is in you all the time if you just have the guts to look for them.  Look at those faces back there. They're no different than you are. They just happened to see something inside themselves that you don't want to ...
+L448470 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Sure. Everybody's upset because they're not winning anymore--but just think how it would feel if all of a sudden they do win.
+L448469 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ The basketball team?
+L448468 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ It's like the basketball team.
+L448465 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ Very well ...
+L448464 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I think I've got something to say.
+L448461 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ Very well. Let the record show that the defendants have answered in the affirmative to all the charges.
+L448460 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ It was accessible to everyone.
+L448459 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ Good. Do you further admit that this unnatural depiction occurred in full public view where it was accessible to, and in plain sight of, minor children?
+L448458 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Well--it was dark out ...
+L448457 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ Do you further admit that this was done surreptitiously and under the cover of darkness?
+L448456 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ We prefer to keep these proceedings as "pleasant" as possible. I don't think a lawyer will be necessary.
+L448455 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Um ... Yes I do. Where's our lawyer?
+L448454 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ Bud Parker and William Johnson, you have been charged with desecration of a public building and the intentional use of prohibited paint colors in violation of the Pleasantville Code of Conduct and laws of common decency. Do you admit that on the night of May 1, you did consciously and willfully apply the following FORBIDDEN colors to the Pleasantville Town Hall:  Red, Pink, Vermillion, Puce, Chartreuse, Umber, Blue, Aqua, Ox Blood, Green, Peach, Crimson, Yellow, Olive and Magenta.
+L448423 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Still doesn't make it right.
+L448422 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ You're not allowed to do this! I could arrest you for this.
+L448421 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Because anybody should be able to paint in whatever color they want.
+L448420 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ BUD--WHY DID YOU DO THIS?
+L448419 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Yes I do.
+L448418 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ Do you know that it's illegal?
+L448417 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Yes I did.
+L448416 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ Did you do this?
+L448429 +++$+++ u2501 +++$+++ m162 +++$+++ DAN +++$+++ Oh. guess I could do that, then.
+L448428 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ You put handcuffs on them and you take them to the police station.
+L448427 +++$+++ u2501 +++$+++ m162 +++$+++ DAN +++$+++ Well, I never had to do it before.
+L448426 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ What do you mean!?
+L448425 +++$+++ u2501 +++$+++ m162 +++$+++ DAN +++$+++ Um ... I don't know how to do that, Bob.
+L448424 +++$+++ u2499 +++$+++ m162 +++$+++ BOB +++$+++ Dan! Arrest them!
+L448025 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I thought the books were blank?
+L448024 +++$+++ u2500 +++$+++ m162 +++$+++ BOY +++$+++ "It was big 'n brown 'n kept goin' an' goin' as far you could see."
+L448015 +++$+++ u2500 +++$+++ m162 +++$+++ BOY +++$+++ What is it?
+L448014 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Look it doesn't matter. It's not important.
+L448013 +++$+++ u2500 +++$+++ m162 +++$+++ BOY +++$+++ What's outside of Pleasantville?
+L448012 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Um ... Outside of Pleasantville.
+L448011 +++$+++ u2500 +++$+++ m162 +++$+++ BOY +++$+++ And where's that?
+L448009 +++$+++ u2500 +++$+++ m162 +++$+++ BOY +++$+++ How'd you know how to put it out and all?
+L448008 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What?
+L448007 +++$+++ u2500 +++$+++ m162 +++$+++ BOY +++$+++ How'd you know about the fire?
+L448483 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ The one in your mind. The one that you see on a bright cold morning. The one that you see when you walk in front of your house and you just stand there and stare.
+L448482 +++$+++ u2510 +++$+++ m162 +++$+++ MR. SIMPSON +++$+++ The other one?
+L448481 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ No, not that hedge. The other one.
+L448480 +++$+++ u2510 +++$+++ m162 +++$+++ MR. SIMPSON +++$+++ Green.
+L448479 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What color is that hedge of yours?
+L448478 +++$+++ u2510 +++$+++ m162 +++$+++ MR. SIMPSON +++$+++ Yes.
+L448477 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Mr. Simpson ...
+L447674 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh yeah. A Buick. It's swell.
+L447673 +++$+++ u2510 +++$+++ m162 +++$+++ MR. SIMPSON +++$+++ Hear your Dad got a new car.
+L447672 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Hello Mr. Simpson.
+L447671 +++$+++ u2510 +++$+++ m162 +++$+++ MR. SIMPSON +++$+++ Hello Bud.
+L448520 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ I've done the slut thing, David. It's really kinda old.
+L448519 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ And you're sure about this?
+L448518 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Right here.
+L448517 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ You got the admissions letter.
+L448516 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Honestly ... no.
+L448515 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Besides. You think there's like a chance I'm gonna get into college back there?
+L448514 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ I'm not ready yet. I gotta do this for a little while.
+L448513 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ This thing works. We could go home right now.
+L448512 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ I told you. I'm like positive.
+L448511 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Are you sure?
+L448161 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ What?
+L448160 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh, I don't know. Maybe ...  ... it's not just the sex ...
+L448159 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Well I've had like ten times as much sex as these girls and I'm still like this. They have one hour in the back of a car and suddenly they're in technicolor.
+L448158 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What?
+L448157 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ How come I'm still in black and white?
+L448156 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Yes.
+L448155 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Can I ask you a question?
+L448154 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Wow.
+L448153 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Gone out with you. She woulda like rearranged your tonsils.
+L448152 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ You weren't playing a joke? She woulda gone out with me?
+L448151 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ No. She really liked you.
+L448150 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Well--did she really like me or were you just making that up.
+L448149 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Yeah ...
+L448148 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Remember when you told me that Lisa Rosenberg liked me?
+L448147 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Sure.
+L448146 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Well ... I just ...  Can I ask you a question?
+L448145 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ So what is it?
+L448144 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ That's great.
+L448143 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Seemed kinda sexy. Look. I read 35 pages.
+L448142 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ ... Yeah.
+L448141 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ D.H. Lawrence. You ever heard of him?
+L448140 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Yeah. Can't believe you started such a dorky fad.
+L448139 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ You're reading?
+L448137 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Nothing?
+L448136 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Nothing.
+L448135 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ What's wrong?
+L448029 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ But like only up to the part about the raft, because I didn't read any farther.
+L448028 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ The pages filled in?
+L448027 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Okay look, this like--wasn't my fault. They asked me what it was about and I like didn't remember 'cause we had it back in tenth grade, But I told them what I DID remember, and the next thing I knew the pages had filled in.
+L448004 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Sure.
+L448003 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Um ... They like wanna ask you a question ... I didn't know how to handle it. So ...
+L448002 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ It's fine.
+L448001 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Not directly anyhow ...
+L448000 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ It's okay.
+L447999 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ I had nothing to do with that fire.
+L447902 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Really? It seems so fattening.
+L447901 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Me too. Sounds swell.
+L447891 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Um--hello? You want to like take a look?
+L447890 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ They don't have that kind of potential.
+L447889 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ David, let me tell you something. These people don't want to be geeks. They want to be "attractive." They've got a lot of potential, they just don't know any better.
+L447888 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I just don't think we have the right to ...
+L447887 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ I mean, you don't think it's just like dorky or funny or something ... you really like it.  Oh God! I am just so personally horrified right now ...
+L447886 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ David, nobody's happy in a Poodle skirt and a sweater set.  You like all this don't you?
+L447885 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ They're happy like this.
+L447884 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Well if I don't who will?
+L447883 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ You have no right to do this.
+L447879 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Well maybe it needs to be messed with. Did that ever like--occur to you?  You know, they don't want to be like this, it's just that nobody ever helped them before.
+L447878 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ You don't understand. You're messing with their UNIVERSE.
+L447877 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ So what's the big deal. Oh. Okay. They're like not good at basketball anymore. Like--omigod, what a tragedy.
+L447876 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ You can't do this, Jennifer. I WARNED you.
+L447867 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Nothing.
+L447866 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What did you do to him?
+L447810 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Gee whiz "Bud", what could we possibly need when we have each other?
+L447809 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Couple of cheeseburgers and two cherry cokes.  If you need anything, I'll be right over there.
+L447759 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Just go with the program--hunh? I'm late for work.
+L447758 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ He-llo? I've got like three pounds of underwire here ...
+L447757 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Jen please ...
+L447756 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ So what's the point?
+L447755 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ They don't notice that kind of thing.
+L447754 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ What do you mean?
+L447753 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ He won't notice anyway.
+L447752 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ I've worn some kinky stuff before ...
+L447751 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ It's in your closet.
+L447750 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ I could like kill a guy with these things.
+L447742 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I'll get us out of here. I really will. But if we don't play along we could alter their whole existence. We may never get home.
+L447741 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ I like--really need a cigarette, too.
+L447740 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Jen, listen ...
+L447739 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Just watch. You know why those guys just get cats out of trees? 'Cause nothing burns around here, that's why! They don't need any firemen ...
+L447738 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ JENNIFER!
+L447737 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ I got lost.  Oh here ... look at this!
+L447736 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What were you doing in a library?
+L447735 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ I looked in the library. They got covers with nothing inside them.
+L447734 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What?
+L447733 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ It's too weird David. This place is giving me the creeps. Did you know all the books are blank?
+L447732 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ One date, Jen--that's all I'm asking. If you don't go out with this guy we could throw their whole universe out of whack.
+L447731 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ No way.
+L447699 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I don't think so.
+L447698 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Can we do any better?
+L447697 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Peggy Jane, Lisa Anne and Betty Jean.
+L447696 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Those are my friends.
+L447695 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Hunh.
+L447694 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ As a matter of fact he does.
+L447693 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Does he--you know--like "me"?
+L447692 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Biff Martin. Captain of the basketball team.
+L447691 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Who's that?
+L447684 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ To who?
+L447683 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Why can't we just EXPLAIN IT?
+L447682 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ We don't have a choice Jen. We're stuck until he comes back.
+L447681 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ No! I'm not gonna do it! If I don't dress like this for Mom I'm sure as hell not going to do it for you!
+L447680 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Well, yeah. I'm ... Bud Parker and you're ... um--Mary Sue.
+L447679 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Play along?
+L447678 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ We just gotta play along for a little while ... till that guy shows up again. Then I'll talk to him and ...
+L447677 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Okay, now you listen to me! I don't know what's going on but you'd better fix it! I had a date with Mark Davis and I even bought new UNDERWEAR!
+L447676 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Owns the hardware store.
+L447675 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ You know him?
+L447670 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ We're supposed to be at home David! We're supposed to be in color!  Oh God ...
+L447669 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ We're supposed to be in school.
+L447668 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ I still don't see why we're doing this.
+L447667 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ All that animal fat. I feel it in my pores or something.
+L447666 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Just take deep breaths.
+L447665 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ I'm gonna hurl, David. I swear to God.
+L447655 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Neither do I.
+L447654 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I don't believe this.
+L447646 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I don't know ... It's not possible ...  Is it possible?
+L447645 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ What's going to happen?
+L447644 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh God.
+L447627 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ You--you gotta get us out of here.
+L447626 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Noooooo!
+L447612 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Uchh! Look at me?! I'm like so ... pasty!
+L447611 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I don't know.
+L447610 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ What did you do?
+L447608 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I'm not sure.
+L447607 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ What happened?
+L447606 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh my God.
+L447605 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ YOU get lost!
+L447604 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Get lost!
+L447603 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ God, David. Just give it to me!
+L447600 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Forget it Jen, I've waited a year for this.
+L447599 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Do you mind. This is like the most important moment of my whole life.
+L447596 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ No way.
+L447595 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Lemme see that.
+L447551 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ No you can't, Jen! It's a new TV. It doesn't work without a remote.
+L447550 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ David, stop stressing, you can like-- turn it on normally ...
+L447549 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh my God ...  Oh my God ...
+L447548 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Upstairs! Up-staiiirs! There isn't any STEREO!
+L447547 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Weil great. You can watch TV upstairs.
+L447546 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Omigod, I don't be-lieeeeve this! He's gonna like beeeee here!
+L447545 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Yeah. Every episode ever.
+L447544 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Pleasantville Marathon?
+L447543 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Well great. The Pleasantville Marathon starts at six thirty.
+L447542 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ David, cut it out. Mark Davis is gonna like be here in five minutes.
+L447541 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What are you doing?
+L447540 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ What are you doing?
+L448526 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I like it too.
+L448525 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ I like calling you David.
+L448524 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ No I won't. I swear.
+L448523 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ You're gonna forget about me.
+L448382 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I'm not sure.
+L448381 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ Where are they?
+L448320 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Sure ...
+L448319 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ Can I open it?
+L448318 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ It was a prop for the school play ...
+L448317 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ It's beautiful. Where'd you get it?
+L448247 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ We'll just put up the top.
+L448246 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ What do we do?
+L448244 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Yeah ... You don't have rain either?
+L448243 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ Real rain?
+L448242 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Rain.
+L448241 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ What's going on?
+L448233 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ Oh yeah. There's a lot of stuff. Currants and strawberries ... Here. I'll show you.
+L448232 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ They just grow like that?
+L448231 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ I picked them myself. They grow wild up here.  Mmm. So sweet.
+L448230 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Hunh?
+L448229 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ You want some berries?
+L448228 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ Mmmm.  Boy. It's hot up here.
+L448227 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Well it's big. And it's blue ...  ... It's really really blue.
+L448226 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ What's that like?
+L448225 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Yeah.
+L448224 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ Do they have an Ocean? I've heard about the ocean.
+L448223 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ Sounds fantastic. You know some kids came up here the other night to go swimming--took off all their clothes.
+L448222 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Well it's louder ... And scarier I guess ... And ... and a lot more dangerous ...
+L448221 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ How?
+L448219 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ Out there.
+L448218 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What?
+L448217 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ So what's it like?
+L448216 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ You don't know?
+L448215 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Yeah ... I guess.  I don't know.
+L448214 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ Do they have those ... Where you come from?
+L448213 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Mmmmgh.
+L448164 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh ... Right.
+L448163 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ Um ... You gotta turn off Main Street.
+L448112 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ ... Lover's Lane?
+L448111 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ Sure ... Where would we go?
+L448109 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Look, I probably shouldn't be asking you this--not knowing you that well and all ...
+L448108 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ Oh ... Hi.
+L448107 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Hi.
+L448021 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Well--it all just keeps going. Roads ... rivers ...
+L448020 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ Keeps going ...
+L447996 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ No. I baked them for you.
+L447995 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ No. You baked them for Whitey.
+L447994 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ No. I baked them for you.
+L447993 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh, no ... You baked those for Whitey.
+L447992 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ I baked you my oatmeal cookies.
+L447991 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh. Thanks, Margaret.
+L447990 +++$+++ u2507 +++$+++ m162 +++$+++ MARGARET +++$+++ That was sure swell ...
+L447515 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Of course it is Howard. That's why they call it a Marathon.
+L447514 +++$+++ u2505 +++$+++ m162 +++$+++ HOWARD +++$+++ A thousand dollars ... And it's on all night?
+L447513 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Marathon starts at 6:30. Contest's tomorrow at noon.
+L447512 +++$+++ u2505 +++$+++ m162 +++$+++ HOWARD +++$+++ You're unbelievable. You'll win this thing for sure. When is it on?
+L447509 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Marmalade.
+L447508 +++$+++ u2505 +++$+++ m162 +++$+++ HOWARD +++$+++ Scout?
+L447507 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Salesman. What did Bud and Mary Sue name the cat they found in the gutter?
+L447506 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Easy. Mr. Jenkins. What JOB did Mr. Jenkins have?
+L447505 +++$+++ u2505 +++$+++ m162 +++$+++ HOWARD +++$+++ Okay, whose window did Bud break when he was playing with his father's golf clubs?
+L448453 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Oh sure. For the first hundred years. Then it starts to get a little monotonous.  Sleep well.
+L448452 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ There's worse places.
+L448451 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ This is TV pal. They don't fool around.
+L448450 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I'm going on trial tomorrow?
+L448449 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Now Buddy, you're going on trial tomorrow. And if they find you guilty, you're gonna be stuck here forever. Well, not forever--lemme think ...  Five year sentence ... Carry the three ... That comes out to ... sixteen and a half centuries, and that's rounding down.
+L448447 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Much less than that.  An hour and a half.
+L448446 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I don't know ... Three, four weeks.
+L448445 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ How long do you think you've been here?
+L448444 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ They weren't my memories.  I borrowed them. It's no good when you borrow them.
+L448443 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ I don't know what went wrong. You answered every question. You knew every detail. The senior Prom ... McIntire's Department Store. We had all the same warm memories: Sock hops. The Church Social ...
+L448442 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I'm sorry. I can't do that.
+L448441 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Just gimme the damn remote!
+L448440 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ So ... I guess as long as I'm here, all sorts of things could happen to this place. We could have pink lawns and blue trees ...
+L448439 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Oh. You're a smart little bastard aren't you?  It's kind of like a restricted ticket. You gotta leave the same way you came.
+L448438 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Why don't you just take me back without it?
+L448437 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Because you're coming home.
+L448436 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Why?
+L448435 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Okay, let's cut the shit and get right to it. Where's that remote control?
+L448434 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I am actually ... Glad to see you've finally shown your true colors.
+L448433 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Hope you're proud of yourself.
+L448368 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ You're not going anywhere. You're gonna get that remote and you're gonna come home and we're gonna make everybody HAPPY AGAIN!!!
+L448367 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I'm going to leave now.
+L448366 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ OW!
+L448365 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ JUST GIMME THE GODDAMN REMOTE!
+L448364 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I'm sorry ... I can't let you do that.
+L448363 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ EXCUSE ME?
+L448362 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ No you're not.
+L448361 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Because you're coming home. I'm gonna put this place back the way it was.
+L448360 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Why?
+L448359 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Where's the remote control I gave you?
+L448356 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Oh no? Let me show you something!
+L448355 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I didn't do anything wrong.
+L448354 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ OKAY. NOW YOU'RE REALLY STARTING TO PISS ME OFF!
+L448353 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ ... Only if they mean it.
+L448352 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ It was a gift Bud. It was so special. You liked these things as much as I did, remember: Warm smells in the family kitchen? A smile from a stranger? You know how rare that is?
+L448351 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Look ...
+L448350 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Oh. I'm sorry--refresh my memory. What episode does the orgy happen in, again?
+L448349 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I had nothing to do with that.
+L448348 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ A deluge doesn't just "happen." Bolts of lightning don't just "happen" ...  You burned down an ELM tree for Christ's sake ...
+L448347 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Look--it just sort of "happened" ...
+L448346 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ What do I MEAN!  You think this is a toy? You think it's your own little goddamn coloring book ...
+L448345 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What do you mean?
+L448343 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ NOW!
+L448342 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh--well ...
+L448341 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ I want a word with you ...
+L448134 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Terrific. I'll talk to you then.
+L448133 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ BUD.
+L448132 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Well they're not just cookies. I mean, they're great cookies ... Look, I'd love to get into this whole thing but I'm really running late. Why don't we hook up tomorrow?
+L448131 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Excuse me?
+L448130 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh, I know they're not. But I mean-- they're just "cookies" after all ...
+L448129 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Like when Margaret Henderson makes her cookies for Whitey.  ... Those aren't your cookies Bud.
+L448128 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Re-runs?
+L448127 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ I'll be honest with you Bud. I'm getting sorta concerned about what I'm seeing in some of these re-runs ...
+L448126 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh ... I do. Yeah. It's just that I told my "dad" I'd clean out the rain gutters and Mr. Johnson wanted me to ... to change the tape in the register ...
+L448125 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Bud--I thought you wanted to come home.
+L448124 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Talk about it. Right now, I mean. I got to ... um ...
+L448123 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ What?
+L448122 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I can't.
+L448121 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ So even though I can't make any promises, well--I figured if you asked me real nice--I might just be willing to talk about it again.
+L448119 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Well c'mere, young fella.
+L448118 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ ... Hi.
+L448117 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Hello there.
+L447643 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ COME BACK!!!
+L447642 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Maybe in a day or so when I'm not so emotional ...
+L447641 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ WAIT A MINUTE!!
+L447640 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ I don't think we should discuss this until I'm a little bit more composed.
+L447639 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Where are you going ...
+L447638 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Weil wouldn't you! You look for someone for years ... You pour your heart into it ... This is a privilege you know.  I don't think I better talk about this right now.
+L447637 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Don't get upset.
+L447635 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ But you don't know how long I've been looking for someone like you.
+L447634 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Look--we appreciate it. We really do. We just--we want to go home now.
+L447631 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ My name's David.
+L447630 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Oh sure you do ... "McIntire's Department store" ... "Their father dressed as Prince Charming." That was gorgeous Bud.
+L447629 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Because we don't belong!
+L447628 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Why would I do that?
+L447619 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Shh! Can't talk like that now. You're in ...  You know ...
+L447618 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What the hell's going on!
+L447617 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ ... See, every time I thought I'd found someone they'd turn out to disappoint me. They'd know the early episodes, but they wouldn't know the later ones ... They'd know all about Muffin but they wouldn't know about Bud ...
+L447588 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Oh--couldn't charge you for something like that. It's free.
+L447587 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ How much does it cost?
+L447585 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Sure. Big beautiful set like this--you want something that'll put you right in the show.
+L447584 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Ooomph?
+L447583 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Say--why don't you take this remote instead. It's got a little more "Ooomph" in it.
+L447582 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ That's right.
+L447581 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ No. McIntire's. Remember:  "For the very best in men's attire, Head right down to McIntire's."
+L447580 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ McGinty's.
+L447579 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ McIntire's.
+L447578 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ What department store did they go to?
+L447577 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Yeah ...
+L447574 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Nice ... Nice ...
+L447573 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ ... Like Prince Charming.
+L447572 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Right. And how did she dress him?
+L447571 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ ... Her father.
+L447563 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Well that makes it a lucky day for both of us, hunh?
+L447562 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ You know, we didn't call any TV repair.
+L447561 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ I know how I'd feel if mine went out. Almost like losing a friend.
+L447560 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ We'll get you fixed up in no time.
+L447559 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Yeah ... Sort of ...
+L447558 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Holy cow. Look at that. Had a little disaster didn't ya fella.
+L448532 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Just a little--You know.
+L448531 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ It's beautiful.
+L448528 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ You're gonna keep painting aren't you?
+L448527 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Well how do you know it won't go back to the way it was?
+L448413 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ I don't know what I'd do if I couldn't paint anymore Bud. I just don't know what I'd do ...
+L448412 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ It's okay. We'll get you a new one.
+L448104 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ No, that's not it.
+L448103 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh, well--you're just starting out. I mean, you can't do it ...
+L448102 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ I'll never be able to do that.
+L448101 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What's wrong?
+L448097 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Open it.
+L448096 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Oh my Gosh, Bud ...
+L448095 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ It's an art book.
+L448094 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I brought you something ... From the library.
+L448093 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Aren't you a little early?
+L448092 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Hi.
+L448091 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Oh, hi.
+L447929 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Oh. Okay. I'll try that then.
+L447928 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Yeah.
+L447927 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Really?
+L447926 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I think you should try not to think about this anymore.
+L447925 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Well don't you?
+L447924 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Thanks.  But this morning I was thinking about it and I realized that I looked forward to it all year. And then I thought "Gee. That seems awfully silly. That seems like an awfully long time to be waiting for just one moment, don't you think?"
+L447923 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Wow ... That's pretty good ...
+L447921 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Christmastime.
+L447920 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ ... What's that?
+L447919 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ You know what I really like?
+L447918 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ So they can have their hamburgers!
+L447917 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Why?
+L447916 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Look, you can't always like what you do. Sometimes you just do it because it's your job. And even if you don't like it, you just gotta do it anyway.
+L447915 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Oh ... Okay.  ... But I really liked it.
+L447914 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Forget about that!
+L447913 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ ... Like the other night, when I closed up by myself. That was different ...
+L447912 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Just listen to me ...
+L447911 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ No I know ... I know I do ...  But it's always the same, you know? Grill the bun, flip the meat, melt the cheese ... It never changes. It never gets any better or worse ...
+L447910 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What are you talking about! You make hamburgers! That is the point!
+L447909 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Well ... I'm not sure I see the point anymore.
+L447906 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Oh--what's the point, Bud?
+L447905 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Look. I thought we talked about this, I thought we said ...
+L447904 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ There aren't any cheeseburgers.
+L447903 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Two cheeseburgers, two cherry cokes.
+L447857 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Well you weren't around this time so I did the whole thing myself.
+L447856 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Yeah ...
+L447855 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ You know how when we close up, I close the register, then you lower the shades, then I turn out the lights, then we both lock the doors.
+L447854 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Yeah ...
+L447853 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Bud ...
+L447852 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh, yeah. Sorry. I'm fine. I just ... Had to get home early.
+L447851 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Hi there. You took off so quick. I wasn't sure if you were okay.
+L447850 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Oh hi!
+L447783 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Well you can just put on the lettuce, finish the burger and pretend it was me doing it all along.
+L447782 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Yes.
+L447781 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Have you cooked the burgers?
+L447780 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ ... Yeah.
+L447779 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Do you have the lettuce?
+L447778 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Listen to me!
+L447777 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Well, usually I put out the burger and then you finish with the lettuce ...
+L447776 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What?
+L447775 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ There aren't any cheeseburgers.
+L447771 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ I understand.
+L447770 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ I'm so glad you're here.
+L447769 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ You know, if this ever happens again, you can make the fries even if I haven't put out the napkins yet.
+L447767 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ But you didn't come so I kept on wiping.
+L447766 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Yeah ...
+L447765 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Well--I always wipe down the counter and then you set out the napkins and glasses and then I make the french fries ...
+L447764 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ What's wrong?
+L447762 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Oh.
+L447761 +++$+++ u2502 +++$+++ m162 +++$+++ DAVID +++$+++ Sorry ... I had to help my folks and then I couldn't find my hat ...
+L447760 +++$+++ u2509 +++$+++ m162 +++$+++ MR. JOHNSON +++$+++ Bud?
+L447633 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ You know--this is a pretty strange way of showing your appreciation.
+L447632 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Oh GOD ...
+L447624 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Well, you don't have to worry about that anymore.
+L447623 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ This isn't funny! I happen to have a very important date in like five minutes!
+L447622 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Dream come true, hunh?
+L447616 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ A miracle.
+L447615 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ What happened?
+L447614 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Told you it was your lucky day. Bet you thought I was just a fan or something.
+L447590 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Oh sure. Big fan like yourself. It's the least I could do.
+L447589 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Free?
+L447576 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Remember the one where Bud lost his cousin when he was s'posed to be watching him?
+L447575 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Um--hello? I've got like a social emergency here.
+L447570 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Hey--who did Muff in take to the masquerade ball when her date came down with the measles?
+L447569 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ That's not the reason. I've got a date at six thirty.
+L447568 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Gosh, I loved that show. Watched it for years.
+L447565 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ What's the rush?
+L447564 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ You think you could do this like soon? It's almost six thirty.
+L447557 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Well here I am.
+L447556 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Yeah ...
+L447555 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ Yeah. TV busted?
+L447554 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ TV repair?
+L447553 +++$+++ u2503 +++$+++ m162 +++$+++ DICK VAN DYKE +++$+++ TV repair.
+L447533 +++$+++ u2508 +++$+++ m162 +++$+++ MARK +++$+++ Cool.
+L447532 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Cool.
+L447531 +++$+++ u2508 +++$+++ m162 +++$+++ MARK +++$+++ So uh ... Maybe we could uh ...
+L447529 +++$+++ u2508 +++$+++ m162 +++$+++ MARK +++$+++ Yeah. 
+L447528 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ So you watching Pearl Jam on MTV tonight?
+L447527 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Yeah ... Saw you too.
+L447526 +++$+++ u2508 +++$+++ m162 +++$+++ MARK +++$+++ Saw you at the mall yesterday.
+L447523 +++$+++ u2506 +++$+++ m162 +++$+++ JENNIFER +++$+++ Hey.
+L447522 +++$+++ u2508 +++$+++ m162 +++$+++ MARK +++$+++ Hey.

@@ -1,0 +1,482 @@
+L482832 +++$+++ u7421 +++$+++ m502 +++$+++ COLONEL ANDERSON +++$+++ Good luck, John.
+L482828 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ The numbers don't make sense, sir. His brothers are dead, that's too bad, but they're out of the equation. Sending men up there is bleeding heart crapola from three thousand miles away.  One private is simply not worth a squad.  Colonel anderson This one is.  He's worth a lot more than that.  Which is why I'm sending you, you're the best field officer there is.
+L482827 +++$+++ u7421 +++$+++ m502 +++$+++ COLONEL ANDERSON +++$+++ Alright, I'll give you that. Continue.
+L482824 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Respectfully, sir, sending men all the way up to Ramelle to save one private doesn't make a fucking, goddamned bit of sense.  Sir.
+L482823 +++$+++ u7421 +++$+++ m502 +++$+++ COLONEL ANDERSON +++$+++ Spit it out, Captain.
+L482822 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ But, sir...I...I...
+L482821 +++$+++ u7421 +++$+++ m502 +++$+++ COLONEL ANDERSON +++$+++ He's the last of four brothers, the other three were killed in action. This is straight from the Chief of Staff.
+L482820 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ A private, sir?
+L482819 +++$+++ u7421 +++$+++ m502 +++$+++ COLONEL ANDERSON +++$+++ There's a Private James Ryan who parachuted in with the Hundred-and- First near Ramelle.  I want you to take a squad up there.  If he's alive, bring him back to the beach for debarkation.  Take whoever you need, you've got your pick of the company.
+L482818 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Sir?
+L482817 +++$+++ u7421 +++$+++ m502 +++$+++ COLONEL ANDERSON +++$+++ I'm sending Simpson to take over for you, the division is going to Caen, you're not coming with us, I have something else for you.
+L482816 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Pinned down, a mile east of here, waiting for some help from the navy guns.
+L482815 +++$+++ u7421 +++$+++ m502 +++$+++ COLONEL ANDERSON +++$+++ Where are your men now?
+L482814 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Yes, sir.
+L482813 +++$+++ u7421 +++$+++ m502 +++$+++ COLONEL ANDERSON +++$+++ It was a hard assignment, that's why you got it.
+L482812 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ They didn't want to give up those one-fifty-fives, sir.
+L482811 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Fourty-four, twenty one dead.
+L482810 +++$+++ u7421 +++$+++ m502 +++$+++ COLONEL ANDERSON +++$+++ Casualties?
+L482809 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ A company, Wehrmacht, no artillery, we took twenty-three prisoners, turned them over to intelligence.
+L482808 +++$+++ u7421 +++$+++ m502 +++$+++ COLONEL ANDERSON +++$+++ Resistance?
+L482807 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Sector four is secured, we put out the last three German one-fifty-fives, found them about two miles in from Ponte du Hoc.
+L482806 +++$+++ u7421 +++$+++ m502 +++$+++ COLONEL ANDERSON +++$+++ Report.
+L482804 +++$+++ u7421 +++$+++ m502 +++$+++ COLONEL ANDERSON +++$+++ ...alright, let me know when.
+L482803 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Find a chaplain.
+L483081 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Shit, that was no big deal.
+L483080 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Did you see what he did, back there? He stepped right into the open, so I could get across.
+L483064 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ You take account of the wind?
+L483063 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Forty-two-hundred, I figure.
+L483062 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ That must be four thousand yards.
+L483061 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Not where I come from.
+L483060 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ You must be a hell a shot.
+L483059 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Yep.
+L483058 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ The Army gave you that?
+L483057 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Thirty-ought-six, Norton long-barrel with dual-groove, parallel rifling, elevated three-glass scope and a single-throw hammer.
+L482992 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ What about the Captain?  Where's he from?
+L482991 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ We got us a tent, forty-two feet across, eighteen feet at center, hundred-and-ten foldin' chairs. Circuit's eleven towns, covers all 'a Hasset County and most 'a Weller County.  I expect that upon completion of my military service I will be joinin' said ministry.
+L482990 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ So they travel around from place to place and preach?
+L482989 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ I don't make jokes about things of, or related to, the preaching of the Holy Gospel, including the ministerial calling of my family.
+L482988 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ No kidding.
+L482987 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ In the back of a nineteen and thirty- one stretch Hudson with a big ole' trailer.
+L482986 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ In West Fork?
+L482985 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ I'm Jackson.  I'm from West Fork, Tennessee.  My pappy's a preacher. Him and his two brothers got a ministry, The Blessed Church of the Wandering Gospel.
+L482981 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Figured.
+L482980 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ As a matter of fact, I am.
+L482979 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ You writin' a book or somethin'?
+L482978 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ So, where are you from?
+L483541 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ I am, but I like imported whiskey. So there I am and I hear the biggest ole' coon you ever did hear, 'a rustlin' right there in front of me. That ole' boy comes right out of the brush, I got a clear shot and he knows he's 'bout to meet his maker. I aim, I got my finger tight on the trigger and then I just smile and say to that ole' coon, go on, now, you get out 'a here.  Then I sit down on a hollow log and take me a right long pull a' that mash whiskey.
+L483540 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Jackson, how many times I got to tell you, you're from Tennessee.
+L483539 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Me?  I'm walking with my hound, Lucy, it's about an hour 'fore sunrise and we're out huntin' coon.  I got me a flask of pure Kentucky mash whiskey...
+L483533 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ What deal?
+L483532 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ No kiddin'?
+L483527 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Like hell, you did.
+L483526 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Well, I'll be goddamned, I knew it.
+L483471 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Nope, he ain't Wade.
+L483470 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ He ain't Wade.
+L483469 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ I guess.
+L483468 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ He ain't half-bad, I guess.
+L483467 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ I mean, Ryan, what do you think of him?
+L483466 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ I think I'm we got that eighty-eight.
+L483465 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ What do you think?
+L483440 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Hell, no!
+L483439 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Reiben, are you makin' fun 'a the way I talk?
+L483438 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Y'all come back.
+L483393 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Of course, sir.
+L483392 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Yes, sir.
+L483384 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Cap'n...?
+L483383 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ He's right, we can't shoot him...well, we could but we'd get in an enormous amount of trouble.  And he's right about the bridge, it's a hell of a lot more important than he is.
+L483360 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Looks like a flaming asshole to me.
+L483359 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ So, that's Ryan.
+L483310 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Yep, you step on a rusty nail, get lockjaw, never say another word as long as you live.
+L483309 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ You know what the best possible thing that could happen is?
+L483262 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ The hell he didn't.
+L483261 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Just shut up, Ryan didn't kill Wade.
+L483260 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ You shut up, this is the most fucked up mission I ever heard of.  Goddamned Ryan, fuck the little bastard.
+L483259 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Shut up, will you?
+L483258 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Fuck Private James Ryan, fuck him, just fuck the goddamned son-of-a- bitch.
+L483099 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Wade, Sarge, Corporal Insect, all of us, hell, I'll bet even the Captain has a mother.
+L483098 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Last I knew.
+L483067 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ They got squirrels there, too, right?
+L483066 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Reiben, how many time I got to tell you, I'm from Tennessee.
+L483012 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ You know what a B.A.R. weighs? Nineteen and a half pounds, not counting ammo.  And you think these things are comfortable?  They may look good but they weigh twelve pounds each, that's thirty-six pounds, right there.
+L483011 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Army life is too dang easy, my feet have gone soft.  Back home, we go out squirrel huntin', I walk forever and a day and then some, don't even raise a blister.
+L483010 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ If we find Ryan and he's still alive, that son-of-a-bitch is gonna carry this goddamned B.A.R. back to the beach for me.
+L483005 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Hell, no.  I think he's the best officer in the whole goddamned army, bar none.
+L483004 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ You got somethin' against the Cap'n?
+L483003 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ No one's gonna win the money for the simple reason that the Captain never was a civilian.  They assembled him at O.C.S. out of spare body parts from dead G.I.'s.  I know this for a fact.
+L482903 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Hell, no, last time I shot a corporal, Cap'n Miller near bit my head off.
+L482902 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Jackson?
+L483549 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ To each, his own.
+L483548 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ It's worth it.
+L483547 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Don't that get kind of expensive, Cap'n?
+L483546 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ You see, I've got the best house in all of Addley.  It's not the biggest house, but it's got the best location, right next to the junior high baseball field.  The garage windows face left field.  The guy who owned the house before me had these heavy screen S put over them.  The first thing I did when I bought the place was take off those screens.  Two-hundred-twenty- two yards from home plate to my garage windows.  It takes a hell of a junior high kid to hit a ball that far.  I look at my garage windows as a Motivator and a way to scout the kids coming up, the ones who are going to give us a shot at the state championship.  I lay there in my hammock and every time I hear the sound of breaking glass, I know we're one step closer to winning it all.
+L483545 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Say what, Cap'n?
+L483544 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I'm in my backyard, lying in my hammock, with my arm around my wife, listening for the sound of breaking glass.
+L483356 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Keep trying.
+L483355 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Not yet.
+L483308 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Good, now get your goddamned gear.
+L483307 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Sir, I understand.  I don't like it, but I understand.
+L483306 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ You'll grieve the way I tell you to goddamned grieve.  There is no Wade, there was one, but he died a long time ago, he's been dead for so long you can hardly remember his name, you understand?
+L483305 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Sir, I understand what you're doin', but I respectfully request permission to grieve in my own manner.
+L483303 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Who's Wade?
+L483302 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Sir, I ain't feeling so chipper on account of Wade.
+L483301 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ What the hell's the matter with you, Jackson?
+L483252 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Gives Wade the second shot.
+L483251 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Watching.
+L483191 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ They don't send planes to put out machine guns.  Two flank runners with surpressing fire.  I'm going right, whoever goes left has to be fast.
+L483190 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ We left them eighty-eights.
+L483185 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ My guess, too.
+L483184 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ In the shadow by those two trees.
+L483183 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Where?
+L483108 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Wade?
+L483107 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Yes, sir.  It seems to me, sir, that the entire resources of the United States Army oughta be dedicated to one thing and one thing only, and that is to put me and this here weapon on a rooftop, smack-dab in the middle of Berlin, Germany.  Now I ain't one to question decisions made up on high, sir, but it seems to me that saving one private, no matter how grievous the losses of his family, is a waste of my God-given talent.
+L483106 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Reiben, I want you to listen closely to Jackson.  This is the way to gripe. Jackson, continue.
+L483104 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Seems to me, Cap'n, this mission is a serious misallocation of valuable military resources.  Miller Go on.
+L483103 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I'd love to hear it.
+L483102 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Sir, I have an opinion on this matter.
+L483009 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ I most likely would have, sir, had I been given the opportunity.
+L483008 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ You didn't volunteer, Jackson.
+L483007 +++$+++ u7422 +++$+++ m502 +++$+++ JACKSON +++$+++ Captain, my feet are most uncomfortable.  If I'd 'a known we was gonna have to walk all the way to Ramelle, I never would 'a volunteered for this here mission.
+L482874 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ No, three brothers of his were killed in action.  Command wants him out of there.
+L482873 +++$+++ u7427 +++$+++ m502 +++$+++ SUPPLY SERGEANT +++$+++ Senator's son?
+L482872 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ A paratrooper named Ryan.  He's going home, if he's alive.
+L482869 +++$+++ u7427 +++$+++ m502 +++$+++ SUPPLY SERGEANT +++$+++ That's General Gavin's.  His lap dog told me if anyone breathes on it, I'll get busted and if anyone so much as touches it with their little finger, I'll get court marshaled. If you were to take it, they'd shoot me.
+L482868 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ How about that jeep?
+L482867 +++$+++ u7427 +++$+++ m502 +++$+++ SUPPLY SERGEANT +++$+++ Sorry, sir.  Division is using everything on wheels to get up to Caen.  How come you guys aren't going?
+L482866 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ A half-track, anything.
+L482865 +++$+++ u7427 +++$+++ m502 +++$+++ SUPPLY SERGEANT +++$+++ No white-walls, sir, there's a war on.  NOT THERE, YOU GODDAMNED IDIOT, OVER THERE!  I can't help you, sir.
+L482864 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ White-walls?
+L482863 +++$+++ u7427 +++$+++ m502 +++$+++ SUPPLY SERGEANT +++$+++ Sorry, sir, fresh out of trucks, how 'bout a '38 Ford Roadster, hard-top, red with black interior.
+L483529 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I changed my mind.
+L483528 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Captain, what about our deal?
+L483525 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I teach English at Addley High School in Addley, Pennsylvania.
+L483524 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ What'd you say, Captain?
+L483428 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ That's better, but you've still got a long way to go.  Talk to Reiben, he's a natural and works at it, he'll give you some pointers.
+L483427 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Goddamn it, sir...
+L483426 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ There you go again, that's whining, that's not okay.
+L483425 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ But, sir...
+L483424 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Upham, you've got to learn the difference between whining and griping.  You can't just rely on natural ability, you've got to study and practice.
+L483420 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ The Germans do.
+L483419 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Sure, you got one?
+L483418 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Would they notice and eighty-eight?
+L483417 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Those are Tigers, they have six-inch armor, they don't even notice grenades.
+L483416 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ What about our grenades?
+L483408 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Those guns are close.
+L483407 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ I can tell what the gunners had for dinner.
+L483387 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ You don't count.
+L483386 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ I'd like to stay, too, Captain.
+L483332 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Same place we are.
+L483331 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ I wonder where they're going.
+L483213 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Plenty.
+L483212 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ That only leaves three.
+L483211 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ What do they know?  I had nine, but I feel through the ice when I was seven, my brother pulled me out.  Then I used one when a grenade landed in my foxhole in Sicily, it was a dud.  I figure one on the beaches, one on the cliffs and two getting here.
+L483210 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ The men said, nine.
+L483209 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Don't need it, I'm a cat, I've got five lives.
+L483208 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Good luck, Captain.
+L483187 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ A machine gun.
+L483186 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ What is it?
+L483181 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Thank him and tell him we're sorry about his loss.
+L483180 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ No, but he heard firing, just east, less that a kilometer.
+L483179 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Did he see any sign of them?
+L483178 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Five nights ago, he found this paratrooper caught in a tree with a broken leg.  The leg got infected. Last night he went to Ville Cholet to get a doctor.  The doctor refused to come and when he got back, this is what he found.  The Krauts must have shown up while he was gone.
+L483175 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I don't expect to live that long.
+L483174 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ If that's the way you feel, why don't we wait until it's up to a thousand.
+L483173 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I'll tell you what, if I'm still alive when it hits five-hundred, I'll let you know and we'll split the money.
+L483172 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Over three-hundred.
+L483170 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Where are you from, Captain?
+L483169 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Some.
+L483168 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ You know classical music?
+L483167 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ It seemed appropriate.
+L483166 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ I heard.
+L483165 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I've been humming it.
+L483164 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Yes.  Do you know Sibelius' Fourth Symphony, The Normandy?
+L483163 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ It looks like a Renoir.
+L483151 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ You think the rest of us were?
+L483150 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ I wasn't made for this.
+L483113 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Sarge?
+L483112 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Pass.
+L483111 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Upham?
+L483079 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Like I said, it was nothing.  Don't bunch up.
+L483078 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ But you could have gotten killed and I...
+L483077 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ It was nothing.
+L483076 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Sir, I'm sorry about what happened, I...
+L483045 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ DASHES across the street.
+L483044 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ On the other side of the street, crouches in a doorway with Jackson. Upham is a bit in shock, less from the nearness of the bullets than from what Miller just did for him.
+L483043 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Glad of it.
+L482968 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ That's not all.  There were nine gunners on the eighty-eights, one had a broken heel on his boot, two had bratwurst for supper last night, one of them is named Fritz, the other, Hans, maybe, I don't know, it's hard to tell.
+L482967 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ You can tell all that, just by the sound, sire?
+L482943 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ FORWARD!  FORWARD!  NOW REVERSE!
+L482942 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ I know about bracketing.  I read about it.  The next one is going to land right on us.
+L483435 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Yes, sir.
+L483434 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Reiben, I don't know what I'd do without you.  Sarge, keep Ryan close to you and alive.
+L483423 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Out of the mouth of babes.
+L483422 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Uh, oh.
+L483413 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ We're going to hope like hell the tanks were on their way somewhere else.
+L483412 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ What are we going to do?
+L483411 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Well, if we had ten times the men and a lot more ammo, we might stand a chance, but not against those tanks.
+L483410 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ What do you think?
+L483405 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Yes, sir.
+L483404 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Sarge, see what you can do to make those buildings inhospitable.
+L483296 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ But, that's my personal brand of stupidity, I feel kind of proprietary about it, if you do it again, you're busted.
+L483295 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ You're welcome, John.
+L483294 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Thanks for drawing that machine gun off me.
+L483292 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ I'll do my best.
+L483291 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Don't let yourself get killed, if you do, they might make me give back the medal and then I won't be able to lip off to colonels anymore.
+L483290 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ I know.
+L483289 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ You know Wade was the eleventh of the twelve, you're the last one still alive.
+L483288 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Just what I want to do.
+L483287 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ No, but if I get any worse, you'll have to relieve me.
+L483286 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ You want me to take over?
+L483285 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I think you're right, Keith.
+L483284 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ John, I've got to tell you, I think you're about used up.
+L483283 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ That's the rub.  I liked Wade.  Who's Ryan?  If they're both standing in front of me and I have to shoot one or the other, how do I choose?  Look at my hand, there it goes again.
+L483282 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Except this time, the mission IS a man.
+L483281 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Simple, numbers.  Every time you kill one of your men, you tell yourself you just saved the lives of two, three, ten, a hundred others. We lost, what, thirty-one on the cliffs?  I'll bet we saved ten times that number by putting out those guns.  That's over three hundred men.  Maybe five hundred.  A thousand. Then thousand.  Any number you want. See?  It's simple.  It lets you always choose mission over men.
+L483280 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ And how do you bluff yourself?
+L483279 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Not in so many words, but they tell you you can have all the firepower in the world and if your men don't have good morale, it's not worth a damn.  So if you're scared or empty or half-a-step from a Section Eight, do you tell your men?  Of course not.  You bluff, you lie.
+L483278 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Oh, yeah?
+L483277 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ It could be worse.  You know the first thing they teach you at O.C.S.? Lie to your men.
+L483276 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ No problem.  A pair of deuces?  Less? So what?  I bluff.  It used to tear me apart when I'd get one of my men killed, but what was I supposed to do?  Break down in front of the ones who were standing there waiting for me to tell them what to do?  Of course not, so I bluffed, and after a while, I started to fall for my own bluff. It was great, it made everything so much easier.  Sarge Is that why your hand's been shaking?
+L483275 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ And what about your own hand?
+L483274 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ She's the best poker player you ever saw.  My father used to go to these Saturday night games and lose his shirt.  Finally, my mother gave him an ultimatum, either she gets a regular seat at the table or she locks him in every Saturday night. He squawked and so did his buddies but after a while they gave in and from the first night she sat down, she never lost.  She could read those cocky bastards like they were playing open hands.  And he bluffs?  He had sixteen levels of bullshit.  Her eyes, the tone of her voice, her bets, her jokes, the way she sipped her coffee, she was a master.  She won more money on shit hands than anyone in the history of the game. Every Saturday night, my father would lose two, three hundred bucks and she'd win it all back and then some. And I'd stand there, glued to her shoulder, from the time I was five years old, watching every hand, every move, studying how she did it.  That's why I'm such a good officer, I can look at a man's face and tell you exactly what he's holding, and if it's a shit hand, I know just what cards to deal him.
+L483273 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Bits and pieces.
+L483272 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ You know why I'm such a good officer? Because of my mother.  Have I ever told you about her?
+L483271 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Yeah.
+L483270 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Yeah, Vecchio, I couldn't remember his name, he was a good kid, remember how he used to walk on his hands and sing that song about the man on flying trapeze?
+L483269 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Vecchio.
+L483268 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ What was the name of that kid at Anzio, the one who got his face burned off?
+L483266 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Let's just find someplace.
+L483265 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ You alright?
+L483247 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Snatches the morphine from Sarge. Quickly and efficiently prepares a second shot.  He's done this before.
+L483246 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Hesitates.  Then drops his sulfa. Fumbles in his pack.  Finds the morphine.
+L483245 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ More morphine, hurry up, come on, come on...
+L483244 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ SHOVES THE NEEDLE into Wade's neck. Thick vein.  Pumps the morphine straight to Wade's brain.  Motions impatiently to Sarge.
+L483238 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ About to pour his sulfa.  Sees the wound.  Stops.  Knows it's fatal.
+L483237 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Pulls Wade's hands from the wound. Pours sulfa powder.
+L483231 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Rolls to his feet.  FIRE another BURST.  KILLS the last of the German riflemen.  Doesn't pause.  RUNS onto the field.
+L483230 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ HOLD YOUR FIRE!
+L483206 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ How about you shut up and take your position?
+L483205 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ How about...?
+L483204 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ How about you take your position?
+L483203 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ How about I go right, sir?
+L483202 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Yeah?  What rule of thumb is that?
+L483161 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I'll be alright.
+L483160 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ You may have to find yourself a new line of work, this one doesn't seem to agree with you anymore.
+L483159 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ No.  It comes and goes.  It stops when I look at it.
+L483158 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Is it getting worse?
+L483157 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ A couple of weeks.  It started in Portsmouth when they brought us down for loading.
+L483149 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ It doesn't take this.
+L483148 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Makes you feel small, doesn't it?
+L483146 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Yup, hell of a mission.
+L483145 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Now you're the one kidding yourself.  Hell of  a mission.
+L483144 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ I hope this boy Ryan is worth it.
+L483143 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ You never know.
+L483142 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ You're kidding yourself.
+L483141 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ If we stayed, we could make a difference.
+L483140 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Three for three.
+L483139 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Command isn't going to let them withdraw and the Germans sure as hell aren't going to let them surrender.
+L483138 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Nope.
+L483137 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ They guys here aren't going to be able to hold out until battalion shows up.
+L483136 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ And what about you?
+L483135 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ They're fine.  As long as they can gripe, they'll be alright.
+L483134 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ You think they'll be alright?
+L483133 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Good news?
+L483132 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Nope.
+L483131 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ You got me.  Afraid of bad news?
+L483130 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Since when have things been normal?
+L483129 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ It's not normal, not reading letters from home.
+L483128 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Maybe.
+L483127 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ You ever going to open those letters? Miller keeps his eyes on the maps.
+L482975 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Tell that to Private James Ryan. We've got our orders.  Let's go.
+L482974 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ He's right, Captain, it might be kind of dangerous for those flyboys.
+L482971 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ That's not what we're here for.
+L482970 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Got it, sir.  We gonna go take care of those eighty-eights?
+L482946 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Uh, Captain...
+L482945 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ PUSH!
+L482944 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Uh, Captain...
+L482900 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Yep, hell of a mission.
+L482899 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Hell of a mission.
+L482898 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ A fucking mess, two maybe three Kraut divisions, no fronts, no lines, the drops were completely fouled up, we've got little pockets of paratroopers all over the place, trying to hang on.  Command says we hold St. Mere, but north of that, it's all Krauts.  Even if Ryan's where he's supposed to be, he's more than likely dead.
+L482895 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Somebody put the wrong crystals in every one of the Hundred-and-First's radios the night before the drop, not one of them works.  We're going in blind.
+L482894 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ We in radio contact with anybody up there?
+L482893 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Now we've got a straight shot, due north, to Ramelle, twenty-six miles, two villages between here and there, St. Mere, then Bernay.  We'll take the jeep as far as we can, then go on on foot.
+L482860 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I've got a line on one.
+L482859 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ You get a translator, Captain?
+L482849 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Twenty minutes ago.  Miller Damn, I'll go see if I can find another one.  You get Reiben, Jackson and Wade, meet me at transport.
+L482848 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ What about Talbot?
+L482847 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Fresh out.
+L482846 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Okay, Wade.  Translators?
+L482845 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Beasley's dead.
+L482844 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I want Reiben on B.A.R; Jackson with his sniper rifle; Beasley, demolition.
+L482843 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Simpson?  Jesus Christ on a fucking pogo stick!
+L482842 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Simpson.
+L482841 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ What about the company?
+L482840 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Some private up there lost three brothers, got a ticket home.
+L482839 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ You?  Leading a squad?
+L482838 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I wish.  You and I are taking a squad up to Ramelle on a public relations mission.
+L482837 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Caen?
+L482761 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Don't need to, the Krauts go that covered.
+L482760 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ You tryin' to get yourself killed?
+L482759 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Worked, didn't it?
+L482753 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I THOUGHT YOU WERE MY MOTHER.
+L482752 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ CAPTAIN, IF YOUR MOTHER SAW YOU DO THAT, SHE'D BE VERY UPSET!
+L482748 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Rolls his eyes, takes a breath. Scrambles into the gap.  The other five right behind.
+L482747 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ GO!
+L483587 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ More tanks...  Ryan Lot's of them The fear on their faces turns to resignation.  They know that they are dead men.  They settle into their positions, and prepare to fire and die.
+L483586 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Goddamn it!
+L483567 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Knows what that means.  He hears the RUMBLE OF THE TANKS.
+L483566 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Continues FIRING.  CUTTING DOWN the advancing Germans.
+L483555 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ FIRES a burst.  More Germans drop.
+L483554 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ FIRES a burst.  Germans drops.
+L483553 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Here they come.
+L483552 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Hears the FAINT DISTANT RUMBLE OF THE TANK.  Barely has time to react. Sees:
+L483537 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ That's not where I am.  Miller No? Where are you?
+L483536 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I wonder if his cabin is still available?
+L483531 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I coach the baseball team, too.
+L483530 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ What deal?
+L483517 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Get back to your positions!
+L483516 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Goddamn it...Goddamn it...Goddamn it...
+L483483 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ OPENS UP with the MACHINE GUN.
+L483482 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ HERE THEY COME!
+L483481 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Cocks his Thompson.  Settles down behind some sandbags.
+L483430 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ See to it.
+L483429 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Leave him to me, Captain, I'll have him pissing and moaning with the best of us.
+L483415 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Let's hope, because we're sure as hell not going to do any damage to them with what we have here.
+L483414 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Maybe Caen.
+L483391 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ You're goddamned right, I give the order.  Vote!  Jesus Christ!  Listen to me, you little pissant pieces of shit, I am the ranking officer here and what I say goes, is that clear?
+L483390 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Yes, sir, of course, sir, I was merely speaking hypothetically.  IF this was a voting situation, then the vote would have been unanimous.  But of course, it's not a voting situation, you're the captain, and you give the orders, sir.
+L483346 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Have it your way, Captain.
+L483345 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ You're only allowed to shoot at Germans, that's one of the rules.
+L483344 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ What if our guys open up, sir?
+L483343 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I HAVE NO FUCKING IDEA.  HERE WE COME.  Cover me.
+L483339 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ ON THE BRIDGE!  WE'RE COMING IN.
+L483338 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Looks like they've been having a hell of a party, here, Captain.
+L483334 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Looks like tea time, maybe they're Brits.
+L483333 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Scans the Germans with his binoculars.
+L483322 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ That's a mystery to me.
+L483321 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ No, sir.
+L483320 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Has anyone ever told you, you're officer material?
+L483319 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Maybe.  But what if he dies on the way back?  you see what I'm saying, sir?  The best possible situation is, he's dead, we find his body, more or less intact, we grab one of his dog-tags and high-tail it back to the beach, or better yet, we head over to Caen and catch up with division.
+L483318 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ But we accomplish the mission.
+L483317 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Neither do I, sir.  C:  And this is the worst one, we find Ryan and he's wounded.  Not only does he not carry my gear, we have to carry his gear. And him.
+L483316 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I don't like that one.
+L483315 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ B:  Ryan is dead.  He's been blown up by the German equivalent of Wade, whose name I know you don't want me to mention.  There's nothing to find. The biggest piece is the size of a pea.  We wander around, looking for him until the Germans pick us off, one after another.
+L483314 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Except for the last part, that one's not bad.
+L483313 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Well, sir, consider the possibilities. A:  Ryan is alive.  We have to take him back to the beach.  Knowing you, you don't let him carry my gear, even though he really should, and we all get killed, trying to keep him alive.
+L483312 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Why's that?
+L483311 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ I've given this a lot of thought, sir.  The best thing that could happen is, we find Ryan and he's dead.
+L483300 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Well now I'm saying we're moving out.  Get off your ass.
+L483299 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ I thought you said we had an hour, sir?
+L483298 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Up.  We're moving out.
+L483255 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Is silent.  Motionless.  He gently closes Wade's eyes.  His hand quivers slightly as he unclips one of Wades dogtags.  He fumbles and drops it. Sarge notices.
+L483254 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Goddamn it...Goddamn it...Goddamn it...
+L483189 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ We can't leave it here.
+L483188 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Sir, I've got an idea, let's go around.
+L483125 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ I'll make a note of your suggestions but I'll leave that last one to you, especially if he's already dead.
+L483124 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Yes, sir, as a final note, I'd like to say, fuck our orders, fuck Ramelle, fuck the cheese capital of France and while we're at it, fuck Private James Ryan.
+L483123 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Any further thoughts on the subject?
+L483121 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ But I am a captain.  If I were not a captain, I would thank you for the compliment and tell you that the ability to lie comes from being a top-notch poker player, which I am, having learned at the side of my mother who is, by popular acclaim, the best poker player in...
+L483120 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Sir, if you were not a captain, I would compliment you, now, for being an excellent liar.
+L483119 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ In addition, as I pointed out earlier, I have a fondness for cheese and I hope to have the opportunity to sample some of the Ramelle products, when we arrive there, to see if they live up to their excellent reputation. Moreover, I feel heartfelt sorrow for the mother of Private James Ryan and I'm more than willing to lay down my life, and the lives of my men, especially you, Reiben, to help relieve her suffering.  The men thoroughly enjoy the performance.
+L483117 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ I'm sorry, sir, I apologize.  But if you weren't a captain, or if I were a major, what would you say?
+L483116 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Reiben, what's the matter with you? I don't gripe to you.  I'm a captain. There's a chain of command.  Griping goes one way, up, only up, never down.  You gripe to me, I gripe to my superior officers.  Up, get it? I don't gripe to you, I don't gripe in front of you.  How long you been in the army?
+L483101 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ You have orders, too.
+L483100 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Well, maybe not the Captain, but the rest of us have mothers.
+L483095 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Easy for you to say, sir.  Fucking James Ryan, I'd like to wring his fucking neck.
+L483094 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Reiben, there's a fairly good chance you're not going to die at all.
+L483093 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ I'd much rather die in Caen than Ramelle, sir.  It's a personal thing.
+L483092 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Never mind, don't worry, we'll pick up this kid, high-tail it back to division, everything'll work out fine.
+L483091 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Huh?
+L483090 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Ours is not to reason why.
+L483089 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Well, sir, in purely arithmetic terms, since when does six equal one?  What's the sense in risking six guys to save one?
+L483088 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Sure, what do you want to know?
+L483087 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Captain, could you please explain the math of this mission to me?
+L483029 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Upham, are you sure you've never been in combat?
+L483028 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Jesus Christ, he's a natural!
+L482961 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Stands on the edge of the woods, almost in a trance.
+L482960 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ General Gavin is going to be very irritated at you, Captain.
+L482913 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Well, I, for one, like cheese.
+L482912 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ I'm listening, sir.
+L482911 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ There's always a bright side.
+L482910 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Sir, you know what Ramelle is famous for?  Cheese.  The rest of the company is going to Caen and we're going to the goddamned cheese capital of France.  There is no bright side.
+L482909 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ There's to be a bright side, look for it.
+L482908 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ I should be on my way to Caen, sir. It's like Beethoven, the guy's one of the greatest composers ever lived and he goes deaf.  Go figure, I mean, who'd he piss off?  And here I am, the Beethoven of ladies foundation garments, one step away from Caen, the center of the known lingerie universe and instead, I'm going to Ramelle to save some fucking private who's probably already dead.
+L482907 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Yeah, how so?
+L482906 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Captain, I gotta tell you, the irony of this mission is fucking killing me.
+L482890 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Where are you planning on putting Private Ryan, sir?
+L482889 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Sure, Reiben.
+L482888 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Captain, can I ask you a question?
+L482858 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ But, sir...
+L482857 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Trust me, you're the best.
+L482856 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ No, I'm not, Kaback is, honest.  Or what about Faulkner?  Or that little guy with the glasses?
+L482855 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Sorry, I need a B.A.R. man, you're the best.
+L482854 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Please, sir, you can't take me to Ramelle, I gotta go to Caen, sir, please, I told you, they make Caen lingerie there, it's beautiful, it's the best there is, it's...oh, please, sir...
+L482853 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Strides through the chaos, avoiding the passing vehicles.  He sees his men and walks toward them.  Reiben hurries up to Miller, pleading.
+L482797 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Stay at it until you get fire control.  Keep 'em down, wait for the navy.
+L482796 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ I don't think so, Captain.
+L482793 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Oh, Captain, they'll always make lingerie, it's one of the three basic needs of man -- food, shelter, silk teddies.  Miller Dream on, private.
+L482792 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ There's a war on, good chance they're not still making lingerie in Caen.
+L482791 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Lingerie is my life, sir.  My mother's got a shop in Brooklyn, I grew up in it, from the time I could crawl, we carry Caen lingerie, it's the best there is, it's all I been thinking about since the invasion.
+L482790 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Reiben, how the hell do you know so much about lingerie?
+L482789 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Just picture some French number been spending all day, every day, making cream-colored, shear-body negligees with gentle-lift silk cups and gathered empire waists, what the hell you think she wears at night?
+L482788 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ So, you ever heard of employee discounts?  My uncle sells shoes, gets twenty-five percent off everything in the line, got a closet filled with the best looking shoes you ever seen.
+L482782 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Don't worry, we're the only Rangers this side of the continent, we've got to be first into Caen.
+L482781 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Sir, what if they send some other company into Caen ahead of us while we're pinned down here?
+L482745 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Sure, meet me at the top, we'll start the paperwork.
+L482744 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Captain, can I put in for a transfer?
+L483603 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Sarge?  He was the best friend I ever had.  Lemme tell you about Sarge...
+L483602 +++$+++ u7425 +++$+++ m502 +++$+++ RYAN +++$+++ And Sarge?
+L483601 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Jackson was from West Fork, Tennessee, he was going to be a preacher, his father and uncles have a traveling ministry out of the back of a stretch Hudson.
+L483598 +++$+++ u7425 +++$+++ m502 +++$+++ RYAN +++$+++ Yeah?
+L483597 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Upham?  Good kid, smart, he was writing a book.
+L483596 +++$+++ u7425 +++$+++ m502 +++$+++ RYAN +++$+++ Upham and Jackson, what were they like?
+L483595 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Yes, Private.
+L483581 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Races through the debris.  Trailed by BULLETS.
+L483580 +++$+++ u7425 +++$+++ m502 +++$+++ RYAN +++$+++ FIRES THE EIGHTY-EIGHT.
+L483520 +++$+++ u7425 +++$+++ m502 +++$+++ RYAN +++$+++ Looks at Miller, sees him growing weak, starting to sway.  He gently tries to move Miller aside.
+L483519 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Doesn't move.  He just stares at Sarge's body.
+L483496 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Struggling with a pair of Germans.
+L483495 +++$+++ u7425 +++$+++ m502 +++$+++ RYAN +++$+++ Is jumped on by one.  Upham FIRES. KILLS the German.
+L483476 +++$+++ u7425 +++$+++ m502 +++$+++ RYAN +++$+++ Yes, sir.
+L483475 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ You set?  Sarge nods.
+L483463 +++$+++ u7425 +++$+++ m502 +++$+++ RYAN +++$+++ I won't need to sir, it's already here, behind the barricade so...
+L483462 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Don't do that again.
+L483432 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ No, private, I want you to stay here, keep your head down, don't do anything brave or stupid.
+L483431 +++$+++ u7425 +++$+++ m502 +++$+++ RYAN +++$+++ I'd like to go, sir.
+L483399 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Alright, come with me.
+L483398 +++$+++ u7425 +++$+++ m502 +++$+++ RYAN +++$+++ Yes, sir.
+L483397 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Yeah, yeah.  I want you right next to me, no matter where I go, you understand?
+L483396 +++$+++ u7425 +++$+++ m502 +++$+++ RYAN +++$+++ Thank you, sir.
+L483378 +++$+++ u7425 +++$+++ m502 +++$+++ RYAN +++$+++ I hear you sir, but I'm not leaving.
+L483377 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ The hell you aren't, you're comin' with me if I have to drag you every inch of the way.  You hear me, Private?
+L483374 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ This bridge cannot be held.  The Germans have two companies less than three miles from here.  They have tanks.
+L483373 +++$+++ u7425 +++$+++ m502 +++$+++ RYAN +++$+++ Sir, if the Krauts are holding this bridge when division shows up, our guys are going to be sitting ducks.
+L483372 +++$+++ u7423 +++$+++ m502 +++$+++ MILLER +++$+++ Private.  I'm sorry about your brothers but staying here and getting yourself killed isn't going to help.
+L483110 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ ...for you to blow up, yeah, yeah, we heard that.
+L483109 +++$+++ u7429 +++$+++ m502 +++$+++ WADE +++$+++ Hell, I don't mind this mission, sir, as long as there's something up at Ramelle for...
+L483085 +++$+++ u7429 +++$+++ m502 +++$+++ WADE +++$+++ We all have, he's got nine lives, or he's bulletproof, or some damn thing.
+L483084 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Wade's right, it's some kind of scientific, magnetic thing, I can't explain it, but I've seen it.
+L483025 +++$+++ u7429 +++$+++ m502 +++$+++ WADE +++$+++ Look at Upham, you don't hear him complaining.
+L483024 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ You want unpleasant?  Just wait, I can do much better than this.
+L483023 +++$+++ u7429 +++$+++ m502 +++$+++ WADE +++$+++ Reiben, you can be very unpleasant to be around sometimes.
+L483022 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Fine, you convince yourself you got a pack full of feathers and goddamned Private James Ryan can carry my fucking gear.
+L483019 +++$+++ u7429 +++$+++ m502 +++$+++ WADE +++$+++ As I was saying, before I was so rudely interrupted, my grandfather got old, as grandfathers tend to do. He needed someone to take care of him.  We move around all the time, going from one mine to another, so we had to put him in a home.  Nice enough place but kind of depressing. But not for Granddad.  He just convinced himself he was on a cruise ship, going to Tahiti, he had his own cabin, first class, with room service.  It just so happened that the weather was always lousy, so he never bothered to go up on deck. Happiest guy you ever saw until the day he died.
+L483018 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Oh, Christ, now we gotta listen to that grandfather thing again.
+L483015 +++$+++ u7429 +++$+++ m502 +++$+++ WADE +++$+++ No, I just happen to take the Captain's advice and look at the bright side of things.
+L483014 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ That's because, as I have pointed out on numerous occasions, you are a happy idiot.
+L483013 +++$+++ u7429 +++$+++ m502 +++$+++ WADE +++$+++ So what?  I've got three satchel charges, six gammon grenades, a dozen- and-a-half pineapples, and all my regular gear.  You don't hear me complaining.
+L483097 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Hey, I got a mother.  Jackson, you got a mother?
+L483096 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Jesus, Reiben, think of the poor bastard's mother.
+L483042 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Captain, he's fast!
+L483041 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Damn fool.  Sir.
+L482897 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ What are we likely to run into?
+L482896 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ I usually like surprises.
+L482787 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Yeah?  So?
+L482786 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Lingerie.
+L482785 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Frogs?
+L482784 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ I care.  Don't you know what Caen's famous for, Sarge?
+L482783 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Who cares?
+L482778 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Out of the frying pan, into the fucking latrine.
+L482777 +++$+++ u7426 +++$+++ m502 +++$+++ SARGE +++$+++ Fertilizer, Captain, I think we're in a cranberry bog.
+L482776 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Shit, sir.
+L483543 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ What about you, Captain?
+L483542 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ I don't know, I kind of like Wade's idea about the cruise ship.  I've never been to Tahiti.
+L483250 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Freaked out.  Trying to keep his eyes on the perimeter.  Can't.
+L483249 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Goddamn it...Goddamn it...Goddamn it...
+L483248 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ On guard, glancing back.  Pissed off.
+L483193 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ He's fast, Captain, I saw him.
+L483192 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Sir, I ran the 220 in high school.
+L482998 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Somebody must know where he's from, what he did for a living.
+L482997 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ We know.
+L482996 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ But everybody's heard of him, he won the Congressional Medal of Honor, he saved a dozen men.
+L482977 +++$+++ u7424 +++$+++ m502 +++$+++ REIBEN +++$+++ Get lost.
+L482976 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ So, where are you from?
+L483196 +++$+++ u7429 +++$+++ m502 +++$+++ WADE +++$+++ Shit, that's nothing, I ran twenty- two flat.
+L483195 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Twenty-four-five.
+L483194 +++$+++ u7429 +++$+++ m502 +++$+++ WADE +++$+++ How fast?
+L483021 +++$+++ u7429 +++$+++ m502 +++$+++ WADE +++$+++ Who knows?  It worked.
+L483020 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ You think he really believed it?
+L483017 +++$+++ u7429 +++$+++ m502 +++$+++ WADE +++$+++ It's easy, it runs in my family, take my grandfather, for example...
+L483016 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ How do you do it?
+L482984 +++$+++ u7429 +++$+++ m502 +++$+++ WADE +++$+++ Since I was nine years old.  They got a lot of explosives around mines. Me and my little brother could get into any warehouse you ever saw. Damn, we had fun!
+L482983 +++$+++ u7428 +++$+++ m502 +++$+++ UPHAM +++$+++ Demolition, right?

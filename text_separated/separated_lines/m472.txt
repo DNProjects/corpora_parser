@@ -1,0 +1,441 @@
+L443093 +++$+++ u7054 +++$+++ m472 +++$+++ AUDREY +++$+++ Not sure where to go. I was just runnin' away when this whole thing started.  Where you goin'?
+L443092 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Probably okay to talk to me now.
+L443078 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Yeah, yeah -- we're all fuckin' amazed. Anyone not ready for this?
+L443077 +++$+++ u7054 +++$+++ m472 +++$+++ AUDREY +++$+++ You came for us....
+L443027 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ It's a fucking staircase! Go over it! GO OVER IT!
+L443026 +++$+++ u7054 +++$+++ m472 +++$+++ AUDREY +++$+++ What? What is it?
+L442998 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ He died fast. And if we got any choice, that's the way we should all go out.  Don't you cry for Johns. Don't you dare.
+L442997 +++$+++ u7054 +++$+++ m472 +++$+++ AUDREY +++$+++ Gonna lose everybody out here....
+L442791 +++$+++ u7054 +++$+++ m472 +++$+++ AUDREY +++$+++ Lookit. Lookit!
+L442790 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Don't wanna miss this.
+L442848 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Oh, sure. Why not? Sounds like a hoot.
+L442847 +++$+++ u7054 +++$+++ m472 +++$+++ AUDREY +++$+++ You mean...tonight? With all those things still out there?
+L442601 +++$+++ u7054 +++$+++ m472 +++$+++ AUDREY +++$+++ It was just somebody else. From the crash. He was just....
+L442600 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Oh, Lord....
+L442595 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Assailing my fragile sense of security, that's what.
+L442594 +++$+++ u7054 +++$+++ m472 +++$+++ AUDREY +++$+++ Okay, it was me. What'd I do now?
+L442593 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Tell me that was you.
+L442592 +++$+++ u7054 +++$+++ m472 +++$+++ AUDREY +++$+++ <u>What</u>?
+L442591 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Audrey? Oh, Audrey....
+L443003 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Doesn't seem like enough to turn back on, does it?
+L443002 +++$+++ u7054 +++$+++ m472 +++$+++ AUDREY +++$+++ Three full bottles. But almost time to refill.
+L442987 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Leave the sled, let's go, go, go!
+L442986 +++$+++ u7054 +++$+++ m472 +++$+++ AUDREY +++$+++ What're they doing? What're <u>we</u> --
+L442985 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Bring the light!
+L442929 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ No, we'd never....Oh, God, honey, you shoulda told me sooner.
+L442928 +++$+++ u7054 +++$+++ m472 +++$+++ AUDREY +++$+++ I didn't want you to leave me there... back at the ship...that's why I didn't say anything....
+L442912 +++$+++ u7054 +++$+++ m472 +++$+++ AUDREY +++$+++ Four fulls, one half. That mean we're halfway there? I hope?
+L442911 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Bottle-count.
+L442486 +++$+++ u7054 +++$+++ m472 +++$+++ AUDREY +++$+++ Well, is someone coming for us? Or are we all just gonna die of exposure or dehydration or sunstroke or maybe even something worse?  Hey, you don't have to worry about scaring me.
+L442485 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Liquid oxygen canisters inside. Start ripping them out. Quick hits only -- try to make it last.
+L443076 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ But I'm human. I know you view that as a weakness, but I'm sorry -- I <u>do</u> feel fear, theirs too. Goddamnit, Riddick -- yes. I would die for them.
+L443075 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ You barely know them.
+L443074 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ I would try for them.
+L443073 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ You'd die for them?
+L443071 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ No one's gonna blame you. C'mon. Take my hand and save yourself, Carolyn.
+L443070 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ But they...they could still be....
+L443069 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Just give me your hand.
+L443068 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Don't do this to me....
+L443067 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Here. Make it easy on you.
+L443066 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ I can't....I can't....
+L443065 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Step aboard, Carolyn.
+L443064 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ No, you see, I <u>promised</u> them...I have to...I have to go and....
+L443063 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ 'Course I am -- but doesn't mean I won't leave you here. If you believe anything about me, better be that.
+L443062 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ You're fuckin' with me. I know you are.
+L443061 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ They're already dead. Get on board.
+L443060 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Got a better idea. Come with <u>me</u>.
+L443059 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Just come with me!
+L443057 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Truthfully? I wouldn't know how.
+L443056 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ <u>I trusted you</u>, Riddick. Goddamn, I trusted that some part of you wanted to rejoin the human race.
+L443055 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Confusin' me with Johns now -- fear was <u>his</u> monkey. I only deal in life and death. All that stuff in between? Some shade of grey my eyes don't see.
+L443054 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ What, you're afraid?
+L443053 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Think you've mistaken me for somebody who gives a fuck.
+L443052 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ I promised them we'd go back with more light. And that's exactly what we're gonna do..
+L443051 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ You're not leaving. Not until we go back for the others.
+L443050 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Strong survival instinct. Admire that in a woman.
+L443039 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ We can't make it.
+L443038 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Tell me the settlement is right there! RIDDICK, PLEASE!
+L443037 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Riddick? How close?
+L443036 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ So where the hell's God now, huh?  I'll tell you where! He's up there PISSING ON ME!
+L443020 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ As fast as you can.
+L443019 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ You sure you can keep --
+L443018 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ As fast as you can.
+L443009 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Let's drop back an' boot up.
+L443008 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ We're just here to carry your light, aren't we? Just the torch-bearers.
+L443001 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Audrey?
+L443000 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ One or two.
+L442999 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ How many you see?
+L442993 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ So everybody huddles together till the lights burn out? Until you can't see what's eating you? That the big plan?
+L442992 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Get out of our way.
+L442991 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Back to the ship, huh?
+L442925 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ What it's gonna be like when we hit that canyon. With her bleeding.
+L442924 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ What about her?
+L442921 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Think about what?
+L442920 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Canyon ahead. I circled once to buy some time to think.
+L442919 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ <u>Listen</u>.
+L442918 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Riddick? What the hell are you --
+L442910 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Hunger. I see 60 years of hunger.
+L442909 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ What do you see? Riddick?
+L442895 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Saw something I didn't like.
+L442894 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Where are the sand-cat tracks? Why aren't we still following them?
+L442891 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Actually...  That's what I been askin' myself.
+L442890 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ We can, can't we? Trust you?
+L442889 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Been a long time since anyone's trusted me. That's somethin' right there.
+L442888 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Nobody's gonna turn a murderer loose. I fuckin' knew better.
+L442887 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ But I just wanted to say --
+L442886 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Had it with deals.
+L442885 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Riddick...was thinkin' we should make some kind of deal. Just in case, you know, this actually --
+L442768 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Well, guess if it was trickeration he'd just do me, huh? Then again...I am worth twice as much alive.  Didn't know? Johns ain't a cop. Oh, he's got that shiny badge an' all, but nah -- he's just a merc and I'm just a payday. That's why he won't kill me. The creed is greed.
+L442767 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Why, what'd you hear?
+L442765 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ You scare me, Riddick. That's what you wanna hear, isn't it? There, I admit it, Can I get back to work now?
+L442764 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ I asked what <u>you</u> thought.
+L442763 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Entered our minds.
+L442762 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ An' now you're worried about a repeat of history?
+L442761 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ I got the quick-and-ugly version.
+L442760 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Strange, not doin' a run-up on the main drive yet.  Strange unless he told you the particulars of my escape.
+L442759 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ They're coming.
+L442758 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Power cells.
+L442631 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Look deeper.
+L442630 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Then where is he? He's not in the hole. We looked.
+L442629 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Fairly fuckin' ironic, wouldn't you say? Slamlight's so dim that you go and get your eyeballs taken out and shined up -- then you wind up here. Three ass-kick suns.  Maybe I did do a few people. But not this one. No ma'am, not this time.
+L442628 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Heard about it. Just never seen it.
+L442627 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Slam doctor. Well, we called him "doctor."
+L442626 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ You did this? To yourself?
+L442624 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Show me your eyes.
+L442623 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ All you people are so scared of me -- an' most days, I'd take that as a compliment -- but it ain't me you gotta worry about now.
+L442621 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ The ones tellin' me to go for the sweet spot -- just to the left of the spine, fourth lumbar down. The abdominal aorta. What a gusher. Had a cup on his belt, so I used it to catch a little run-off. Metallic taste to it, human blood. Coppery. But if you cut it with peppermint schnapps, that goes away. Course, that's more for winter. Summertime, I take mine straight.
+L442620 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ What whispers?
+L442619 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ 'Mean the whispers?
+L442618 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Tell me about the sounds. You told them you heard something right before....  If you don't talk to me, Johns'll take another crack at it -- at your skull.
+L442901 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ I think I twisted my ankle running backwards like that. And I'm not sure I can....  Okay, that's a lie. I just don't want to be alone back there anymore. If you could just give me a few minutes up front here --
+L442900 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ What, switch what?
+L442899 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Can we switch?
+L442898 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Let's move.  Just a detour. He'll get us there.
+L442846 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ We'll have to carry the cells...drag them...whatever it takes.
+L442845 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ I hate to kill a beautiful theory with an ugly fact, but that sand-cat won't run at night.
+L442841 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Awright. So maybe we'll have enough light.
+L442840 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Possibly.
+L442839 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Those umbrellas, the ones that mist. Would they burn?  If you got a receipt?
+L442838 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Not sure. Ten?
+L442837 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ How many bottles?
+L442836 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Spirits. Anything over 45 proof burns well.
+L442835 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ ...one cutting torch...one handlight here, two more in the cabin...I <u>think</u> two more....
+L442832 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ It hurts them. Light actually hurts them....
+L442831 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Like the light is scalding it.
+L442830 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ There....
+L442819 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ I know what's in here!
+L442818 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Christ, you don't know what's out there!
+L442795 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Cargo hold, everyone in the cargo hold. lesgo, lesgo, lesgo.
+L442794 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Just a suggestion, but perhaps we should flee.
+L442786 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ It's starting....
+L442785 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ What do my eyes see?
+L442505 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ 200-year-old single-malt scotch is to "booze" as foie gras is to "duck guts."
+L442504 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ This is it? Booze? <u>That's</u> what you have to drink?
+L442951 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ How much you weigh right now, Fry? Huh?
+L442950 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ We cannot go through there....
+L442948 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Would you RAG YOUR STUPID HOLE!
+L442947 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ -- tried to kill us in our sleep. Paris had it right -- we <u>are</u> disposable. We're just walking ghosts to her.
+L442946 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Just shut up, okay?
+L442945 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ -- she tried to blow the whole fucking passenger cabin, tried to kill us --
+L442944 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ This does not help us, Johns.
+L442939 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ No, no, you're right, Fry. What's to be afraid of? My life is a steamin' pile of meaningless toadshit anyhow. So I say mush on! Canyon's only couple hundred meters, after that we're in Skiff City! So why don't you just butch up, stuff a cork in that kid, and get --
+L442938 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Are you fucking high again? Just listen to --
+L442937 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ I dunno. Nice breeze, wide open spaces -- you know, I'm startin' to enjoy myself out here.
+L442936 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ I was wrong. I admit it. My bad, okay? Now let's just go back to the ship.
+L442935 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Hey, <u>you're</u> the one who got me out here, turned me into a goddamn sled dog. An' now you 'spect me to go back like a <u>whipped</u> dog?
+L442915 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Stay in the light! Everybody! Stay in the fucking --
+L442914 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ We aren't completely stupid.
+L442893 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Riddick. <u>Riddick</u>.
+L442892 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ So you noticed too?
+L442882 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ I don't get it, Johns. What is so goddamn valuable in your life that you're worried about losing? Huh? Is there anything at all? Besides your next hype?  Got no right to be so scared. Neither one of us.
+L442881 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ You give him the cells and the ship -- and he will leave you. He will leave you all out there to die.
+L442880 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ We're just burnin' light here.
+L442879 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ He'll lead you over the first cliff. You know that, don't you?
+L442862 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Because you're 79 kilos of gutless white meat, and <u>that's</u> why you can't come up with a better plan.
+L442861 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ 79 kilos.
+L442860 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ How much?
+L442859 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ What the hell's it matter?
+L442858 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ How much you weigh, Johns?
+L442857 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Hey. Why don't you rag your hole for two seconds and let someone else come up with a plan that doesn't involve MASS SUICIDE?
+L442856 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ For your own fear.
+L442855 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Smoke screen for what?
+L442854 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Oh, don't use her like that, for a smoke screen.
+L442853 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Look, we gotta think about everyone now -- the kid especially. How scared is she gonna be out there?
+L442844 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ We can stick to the plan. If we get four cells back to the skiff, we're off this rock.
+L442843 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Oh, lady. If you're in your right mind, I pray you go insane.
+L442829 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ 'Sokay, 'sokay. I killed it.
+L442828 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Stop it, stop it, STOP IT!
+L442783 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ You coulda helped. And you didn't.
+L442782 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ My first run-in with Riddick. Went for the sweet-spot and missed. They had to leave a piece of the shiv in there. I can feel it, sometimes, pressing against the cord.  So maybe the care and feeding of my nerve-endings is my business.
+L442781 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Anything <u>else</u> we should know about you, Johns? Christ, here I am lettin' you play games with our lives when --
+L442780 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Owens was already dead. His brain just hadn't caught on to that fact.
+L442779 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ <u>You</u> made it a problem when you let Owens die like that. When you had enough drugs to knock out a fucking mule-team.
+L442778 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Not a problem unless you're gonna make --
+L442777 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ And here you got two mornings every day. Wow, were you <u>born</u> lucky?
+L442776 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ You have a little caffeine in the morning, I have a little morphine. So what?
+L442775 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Never said you were a hype, either.
+L442774 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ I never said I was.
+L442773 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ You're not a real cop, are you? Just some mercenary who goes around talkin' about the law like --
+L442754 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ I won't give him a chance to grab another ship -- or to slash another pilot's throat.
+L442753 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Dancin' on razor blades here...
+L442752 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ He's a murderer. The law says he's gotta do his bid.
+L442751 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ You know, he hasn't harmed any of us. Far as I can tell, he hasn't even lied to us. Just stick to the deal, Johns. Let him go if that's what it --
+L442750 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ -- we need a fail-safe. Bring the cells over at the last possible minute -- when the wings are ready, when we <u>know</u> we're ready to launch.
+L442749 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ You mean, if he learns that you're gonna royally fuck him over.
+L442748 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ May've noticed chains don't work on this guy. Only way we're truly safe is if he believes he's goin' free. But if he <u>stops</u> believin' --
+L442747 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Oh, this is a dangerous game you're playing, Johns.
+L442746 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ That's what I said.
+L442745 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ You said we were going to trust him now. You said there was a deal.
+L442744 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ He also figured out how to kill the pilot, Fry.
+L442743 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Okay, maybe that's a <u>good</u> thing. Maybe I can use him to help with --
+L442742 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Hijacked a prison transport, made a helluva good run 'fore I tracked him down.
+L442741 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ He can pilot?
+L442739 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ <u>Get the fucking cells over here</u>, Johns. What's the discussion?
+L442738 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ We're not sure <u>when</u> it happens, so let's not --
+L442737 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Wait for what? Until it's so dark we can't even find our way back to --
+L442736 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Let's wait on the power cells.
+L442735 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ ...need those cells from the crash ship. Shit, still gotta check out the hull, patch the wings --
+L442729 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Wha'?
+L442728 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ 60 years ago.
+L442727 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Let's board this up and get the hell gone. They seem to stick to the dark, so if we stick to daylight, should be all --
+L442712 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ So what happened? Where are they, then?
+L442711 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Rag it, Riddick. Nobody wants your theories on --
+L442690 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ 25 kilos each, huh?
+L442689 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ 15 6-gigs here...90 gigs total...other ship carries 20-gig cells, so...five. Five total to launch.
+L442688 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ How many?
+L442687 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Okay, that should buy us a sys-check. But we'll need more cells.
+L442682 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Nothing we can't repair -- so long as the electrical adapts.
+L442681 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Little ratty-ass.
+L442644 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Thanks for the tip, Johns.
+L442643 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ You said it, not me. Let's just not let one bad call lead to another.
+L442642 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ What, you think I'm doin' this to prove something?
+L442641 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Hey. Bein' ballsy with your life now doesn't change what came before -- it's just stupid.
+L442640 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Nobody else is going down but me, okay?
+L442638 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ I don't. But that ground looked none too stable, and I don't want anyone --
+L442637 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Thought you didn't believe his story.
+L442636 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Well, don't ask me to.
+L442635 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ <u>We're gonna find the body</u>, Johns. Christ, you're a cop. Why am I tellin' you this? We gotta go down and find it.
+L442634 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ I <u>am</u> sure. Look, murders aside, Riddick belongs in the Asshole Hall of Fame. He loves the jaw-jackin', loves making you afraid, 'cuz that's all he has. And you're playing right into --
+L442633 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Let's just be sure.
+L442632 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ I <u>know</u> what happened -- he went off on the guy, buried him on the hill somewhere, and now he's trying to --
+L442616 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ I assume he licked it clean.
+L442615 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ So why isn't it all bloody?
+L442614 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Sir Shiv-a-lot. He likes to cut.
+L442613 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ He used that?
+L442611 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Ease up, ease up. JOHNS! Just tell me what....
+L442610 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ ...I don't play that...I don't play that so just try again. C'mon, Riddick, tell me a better lie....
+L442607 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Like my pistola.
+L442606 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Like what?
+L442605 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Sorry. Thought I heard something.
+L442604 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Shut up.
+L442603 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ No juice, looks like it's been laid up for years. But we might be able to adapt --
+L442572 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Thought he might be coolin' it in the boneyard -- could either double-back to the ship or slip in behind us. So I left the bottle out as bait.
+L442571 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ What?
+L442570 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Didn't bite.
+L442568 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Fuck. Guess I'm more glad to be here than I thought.
+L442567 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ So now you know.
+L442566 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ During the landing...when things were at their worst...Owens was at his best. He's the one who wouldn't let the pilot dump the passenger cabin.
+L442565 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ You see anybody else here? Just between you and me.
+L442564 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Promise me. Swear to me you won't --
+L442563 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Hey. You can tell me, Carolyn.
+L442562 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ What'd Owens mean? 'Bout not touching the switch?
+L442561 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Better keep moving....
+L442560 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ So I noticed. Never seen a "captain" quite so ready to leave her ship.
+L442559 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ No, no, I wanted to get away.
+L442557 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Probably right.
+L442556 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Probably makes it worse. Dehydrates you even more.
+L442543 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Tell me it's not a mirage.
+L442542 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ What?
+L442533 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Which means he went toward sunrise.
+L442532 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Thought you found his restraints over there. Toward sunset.
+L442531 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ A very good sign.  That's Riddick's direction. You do <u>not</u> wanna be caught in the dark with this guy.
+L442501 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Little swamp-flu from the Conga system. Never shook it with all this cryo-sleep.
+L442500 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ S'matter?
+L442495 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Only around humans.
+L442494 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ I don't need his life story. Is he really that dangerous?
+L442493 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Be my choice. Already escaped once from the max-slam facility on --
+L442492 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ We just keep him locked up forever?
+L442491 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Big Evil?
+L442490 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ And him?
+L442464 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Carolyn Fry. I'd shake hands, but...
+L442463 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Amazing. I'm Johns.
+L442462 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Hey, me. Over here.
+L442461 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Hey, who?
+L442460 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Hey.
+L442523 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Johns is leaving you a gun. Just do me a favor, huh? Get my crewies buried? They were good guys who died bad.
+L442522 +++$+++ u7062 +++$+++ m472 +++$+++ ZEKE +++$+++ What, you're goin' off, too?
+L442521 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Imam. We should leave soon. Before nightfall but while it's cooler.
+L442498 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Ask if anyone has anything in cargo! Anything to drink!
+L442497 +++$+++ u7062 +++$+++ m472 +++$+++ ZEKE +++$+++ Well? Is it just the pump?
+L442483 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Somethin' knocked us off-lane. Maybe a rogue comet. Maybe we'll never know.
+L442482 +++$+++ u7062 +++$+++ m472 +++$+++ ZEKE +++$+++ So what the bloody hell happened, anyways?
+L442481 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ It's the atmosphere. Too much pressure, not enough oxygen. Might take a few days to --
+L442456 +++$+++ u7058 +++$+++ m472 +++$+++ OWENS +++$+++ 70 seconds! You still got 70 seconds to level this beast out!
+L442455 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Owens!
+L442452 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ And there wasn't a simulated cockroach alive within 50 clicks of the simulated crash site! <u>That's</u> how they train you! On a fucking simulator!
+L442451 +++$+++ u7058 +++$+++ m472 +++$+++ OWENS +++$+++ When captain went down, you stepped up -- whether you like it or not. Now they train you for this, so --
+L442450 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Company's not here, is it?
+L442449 +++$+++ u7058 +++$+++ m472 +++$+++ OWENS +++$+++ Look, Fry. Company says we're responsible for every one of those --
+L442447 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ So what, we should both go down too? Out of sheer fucking nobility?
+L442446 +++$+++ u7058 +++$+++ m472 +++$+++ OWENS +++$+++ You mean that "load" of passengers?
+L442445 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Can't get my nose down...too much load back there....
+L442444 +++$+++ u7058 +++$+++ m472 +++$+++ OWENS +++$+++ Fry?
+L442438 +++$+++ u7058 +++$+++ m472 +++$+++ OWENS +++$+++ Just tell me we're still in the shipping lane. Just show me all those stars, all those bright, beautiful, deep-space....
+L442437 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ 1550 millibars, dropping 20 MB per minute, shit, we're hemorrhaging air. <u>Somethin'</u> took a swipe at us.
+L442435 +++$+++ u7058 +++$+++ m472 +++$+++ OWENS +++$+++ Oh, no. Not Owens, not.... Wai', wai', wait. <u>I'm Owens</u>. Right?
+L442434 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ You hear me? Captain's dead. Owens too.
+L442433 +++$+++ u7058 +++$+++ m472 +++$+++ OWENS +++$+++ I mean, I mean, chrono shows we're 22 weeks out, so gravity wasn't supposed to kick in for another 19. I mean, I mean, I mean, why did I fall <u>at all</u>?
+L442432 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ He's dead. Cap'n's dead. Christ, I was looking right at him when --
+L442431 +++$+++ u7058 +++$+++ m472 +++$+++ OWENS +++$+++ Why did I fall on you?
+L443035 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ Rain.
+L443034 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Oh, no. No, no, no....
+L443006 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ And what about the cells?
+L443005 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ The sled as a shield....
+L442974 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Do what I say. Please.
+L442973 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ I would rather we all stay--
+L442972 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Don't stop, just slow down.  Little more space 'tween us and them.
+L442971 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ What?
+L442970 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Imam. Slow down.
+L442870 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ No, I'm not. But <u>he</u> can.
+L442869 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ And you're certain you can find the way back? Even in the dark?
+L442868 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ They're afraid of our light. That means we don't have to be so afraid of them.
+L442826 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Riddick?
+L442825 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ Hasan?
+L442803 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ Quiet, please. Everyone.
+L442802 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ I saw the cut-marks on the bones. Wasn't a natural die-off.
+L442655 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ For now.
+L442654 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ One is all?
+L442541 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ We're all on the same hajj now.
+L442540 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Frightening thought.
+L442539 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ Chrislam teaches that once in every lifetime should there be a great hajj -- a great pilgrimage. To know God, better, yes, but to know yourself as well.
+L442538 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ You were on a pilgrimage? To New Mecca?
+L442537 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ "Some prophet guy." And a city man. But he had to travel to the desert -- where there was quiet -- to hear the words of God.
+L442536 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ Some prophet guy?
+L442535 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ You know who Muhammad was?
+L442534 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ So quiet. You get used to the sounds of the ship, then....
+L442510 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ One of the Christian habits we <u>didn't</u> adopt -- perhaps unfortunately. We'll have to wait.
+L442509 +++$+++ u7055 +++$+++ m472 +++$+++ FRY +++$+++ I don't suppose....
+L443098 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ It's more a place where souls are found, Mr. Riddick.
+L443097 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Think a soul could get lost there? With all those pilgrim-types?
+L443096 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ New Mecca....
+L443033 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ KEEP GOING OR I WILL!
+L443032 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ SULEIMAN!
+L443031 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Get the girl back under. Keep going.
+L443030 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ Suleiman!
+L443017 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Give my blessing to the girl. She needs a spare.
+L443016 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ He will be with us. Nonetheless.
+L443015 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ 'Cuz you don't spend half your life in lock-down with a horse-bit in your mouth and not believe. And you surely don't start out in a liquor store trash bin with an umbilical cord wrapped around your neck and not believe. Oh, absolutely I believe in God. And I absolutely hate the fucker.
+L443014 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ You <u>don't</u> see.
+L443013 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ I see. Well, even if you don't believe in God, it doesn't mean He won't be --
+L443012 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ And pointless.
+L443011 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ Blessing you like the others.  It's painless.
+L443010 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ What're you doin'?
+L442996 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ You mean....
+L442995 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Which half?
+L442994 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ Where's Mr. Johns?
+L442933 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ There is no "safe."
+L442932 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ Well...we must keep her close, then. Here, she'll be safe if we put her between --
+L442714 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Has anyone checked the coring room?
+L442713 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ Has anyone seen the young one? Ali?
+L442941 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Listen to her? <u>Her</u>? When she was willing to sacrifice us all?
+L442940 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ She's the captain, we should listen to --
+L442917 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ He's running us 'round in circles. Look for yourself. Look!
+L442916 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ We crossed our own tracks.
+L442867 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ Please...this solves nothing...please....
+L442866 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Oh, Trash Baby, you're gonna regret this.
+L442851 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Those suns gotta come back <u>sometime</u>. And if these animals really are phobic about light, we just sit tight till then.
+L442850 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ I had the impression...from the model... that the two planets were moving as one. That there would be...a lasting darkness.
+L442651 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ The child heard you before any of us could even....
+L442650 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ We got you...it's okay, it's okay...we got you now....
+L442584 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ I'm born-again.
+L442583 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ "God is Great," yes?
+L442512 +++$+++ u7056 +++$+++ m472 +++$+++ IMAM +++$+++ All deserts have water, somewhere. God shall lead us there.
+L442511 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ For what? There is no water. You understand that, don't you?
+L442903 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Oh, so I'm disposable?
+L442902 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ She's the pilot, she should stay close to the cells.
+L442817 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Not staying in here another....
+L442816 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Very big beads.
+L442704 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Like an emergency life-raft, right?
+L442703 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Well, just a skiff. Disposable, really.
+L442670 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Didn't say that. But least this way I don't have to worry about falling asleep and not wakin' up.
+L442669 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ So just like that. Wave your little wand and he's one of us now.
+L442515 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Maratha crow-bill war-picks from Northern India. Very rare.
+L442514 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ What the hell are these?
+L442507 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ I'll need a receipt for that.  For all these.
+L442506 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ A toast to whatever he just said.
+L442503 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Be surprised what these will fetch in the Taurus system. Here. This Wooten here -- easy, easy. Very rare.
+L442502 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ King Tut's tomb....
+L442477 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Anyone else having breathing problems? Aside from me?
+L442476 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ ...then we saw this.
+L442984 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Like who, Mr. Chrislam?
+L442983 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Just wonderin' if we don't need a bigger piece of chum.
+L442982 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Aw, don't tell me you're growin' scruples.
+L442980 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Oh, you're a piece of art, Johns. They oughtta hang you in a museum somewhere. Or forget the museum -- maybe they should just hang you.
+L442979 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ What's one more to you? Like <u>this</u> is the one that sends you to Hell?
+L442978 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ What, you 'spect <u>me</u> to do it?
+L442977 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Then let's not name the Thanksgiving turkey, okay? I assume you still got a shiv.
+L442976 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ What do you care?
+L442975 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ What's her name, anyway?
+L442969 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Don' look, don' look, don' look....
+L442968 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ So which one caught your eye?
+L442967 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Don't wanna feed these land-sharks -- just keep 'em off our scent.
+L442966 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Nice embellishment.
+L442965 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ <u>Trawl</u> with it. There's a cable on the sled. We can drag the body behind us.
+L442964 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Sacrifice play. Hack up one body, leave it at start of the canyon. Like a bucket of chum.
+L442963 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Either way, figure it's something you can grab onto.
+L442962 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Kept calling it "murder" when I did it.
+L442961 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Look, it's hellified stuff -- but no different than those battlefield doctors when they have to decide who lives and who dies. It's called "triage," okay?
+L442958 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ What if you're one of five?
+L442957 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Not if I'm the one.
+L442956 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Six of us left. If we could get through that canyon and lose just one, that'd be quite a fucking feat, huh? A good thing, right?
+L442955 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Just realized that, huh?
+L442954 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Ain't all of us gonna make it.
+L442931 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ They been nose-open for her ever since we left. They go off blood.
+L442930 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Aw, this can't be happening to me....
+L442927 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ No. She's not.
+L442926 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ What're you jaw-jackin' about? Girl's not cut.
+L442923 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ About the girl.
+L442922 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ About how to kill us and still get these cells to the skiff. Goddamnit, we're just doin' the heavy lifting for this prick!
+L442897 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Hard to tell, sometimes...even for me... but looked like a bunch of those big boys chewin' each other's gonads off. Thought we'd swing wide. Okay by you?
+L442896 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Such as.
+L442876 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Looks clear.
+L442875 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Well, what's it look like now?
+L442874 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Said "looks clear."
+L442873 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ <u>Fuck me</u>. You said "clear."
+L442865 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ How 'bout a cut in your gut?
+L442864 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ I'm willing to take a cut in pay.
+L442863 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Think about that reward, Johns.
+L442810 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Wanna rag your fat mouth?
+L442809 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Well, you got the big gauge.
+L442808 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ I'd rather piss glass.
+L442734 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Not afraid of the dark, are you?
+L442733 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Are you fuckin' kidding me?
+L442667 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ If you were me, I'd kill us both. C'mon, you wanna sit at the grown-up table or not?
+L442666 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ My recommendation: Do me. Don't take the chance that I'll get shiv-happy on your wannabe ass. Ghost me, Riddick. Would if I were you.
+L442665 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Only if we both get outta this alive. And there may be a way.
+L442664 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ You'd cut me loose, Boss?
+L442663 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Truth is, Riddick, I'm tired of this head-up shit. I wanna be free of you as much as you wanna be free of me.
+L442662 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ For what? The honor of goin' back to some asshole of a cell?
+L442661 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Here's the deal. You work without the chains, without the bit -- without the shivs. You help us get off this rock....
+L442660 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Say that again.
+L442659 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ Want you to remember this moment, Riddick. The way it coulda gone and didn't.
+L442657 +++$+++ u7057 +++$+++ m472 +++$+++ JOHNS +++$+++ We're movin'. And I'm just wondering if I shouldn't lighten the load right now.
+L442656 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Found somethin' worse than me, huh?
+L442547 +++$+++ u7062 +++$+++ m472 +++$+++ ZEKE +++$+++ Well, just keep your bloody-fuckin' eyes open. Don't want that ratbag sneakin' up on me bloody-fuckin' arse.
+L442546 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Amazing how you can do without the essentials of life -- so long as you have the luxuries.
+L442529 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ So much for my cocktail hour.
+L442528 +++$+++ u7062 +++$+++ m472 +++$+++ ZEKE +++$+++ So much for your nightfall.
+L442519 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Well, what's the need, anyway? If he's gone, he's gone. Why should he bother us?
+L442518 +++$+++ u7062 +++$+++ m472 +++$+++ ZEKE +++$+++ 'Cuz they couldn't hunt shit with these things, be my guess.
+L442517 +++$+++ u7059 +++$+++ m472 +++$+++ PARIS +++$+++ Blow-dart hunting stick from Papua New Guinea. Very <u>very</u> rare, since the tribe's extinct.
+L442516 +++$+++ u7062 +++$+++ m472 +++$+++ ZEKE +++$+++ An' this?
+L442726 +++$+++ u7061 +++$+++ m472 +++$+++ SHAZZA +++$+++ Startin' to acclimate, anyhow. Take it.
+L442725 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ What, it's broken?
+L442724 +++$+++ u7061 +++$+++ m472 +++$+++ SHAZZA +++$+++ Take it.
+L442723 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Just wanted his O-2.  Though I notice he tried to ghost my ass. When he shot up that stranger instead.
+L442722 +++$+++ u7061 +++$+++ m472 +++$+++ SHAZZA +++$+++ You were tryin' to kill him too.
+L442710 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ I know you don't uncrate your emergency ship unless there's a fucking emergency.
+L442709 +++$+++ u7061 +++$+++ m472 +++$+++ SHAZZA +++$+++ Maybe they had weight limits, you don't know.
+L442708 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ What, you don't really think they left with their clothes on the lines? Photos on the walls?
+L442684 +++$+++ u7060 +++$+++ m472 +++$+++ RIDDICK +++$+++ Doesn't need to be. Use this to get back up to the Sol-Track Shipping Lanes, stick out a thumb. You'll get picked up.  Right?
+L442683 +++$+++ u7061 +++$+++ m472 +++$+++ SHAZZA +++$+++ Not a star-jumper.

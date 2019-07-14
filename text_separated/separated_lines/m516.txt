@@ -1,0 +1,755 @@
+L508651 +++$+++ u7625 +++$+++ m516 +++$+++ BISHOP O'HARA +++$+++ I must tell the Cardinal.  I.11 send him a personal letter, describing your efforts, your bold new fight to keep your little convent alive.
+L508650 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Perhaps.
+L508649 +++$+++ u7625 +++$+++ m516 +++$+++ BISHOP O'HARA +++$+++ I can't wait until next Sunday, when the choir performs again.  Did you see the people walk right in from the street? That music, that heavenly music -- it called to them.
+L508648 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Well... thank you.
+L508647 +++$+++ u7625 +++$+++ m516 +++$+++ BISHOP O'HARA +++$+++ I haven't enjoyed Mass this much in years.  What a marvelous program. Innovative.  Inspiring.  You are to be commended.
+L508646 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Oh?
+L508645 +++$+++ u7625 +++$+++ m516 +++$+++ BISHOP O'HARA +++$+++ Reverend Mother, I just wanted to congratulate you.
+L508352 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I said I was a nun, not an asshole.
+L508351 +++$+++ u7626 +++$+++ m516 +++$+++ CHARLENE +++$+++ What about crack?  You a user?
+L508350 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Okay, so maybe I'm a nun -- so, you want to ask me something?  You want to listen, for once in your little lives? You want to pay some attention?
+L508346 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Yeah, you learned a whole lot, I can tell.
+L508345 +++$+++ u7626 +++$+++ m516 +++$+++ CHARLENE +++$+++ Yeah.  We all got caught.  Shoplifting. Cuttin' school.  Cuttin' up some bitch with a blade.  So we gotta come here.  So we'll be good, in the future.  So we'll learn valuable lessons.  And I learned mine.  I will be incredibly good, I will never rip out nobody's nose-ring by accident ever again.  Can I go now?
+L508339 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Well... yes.  Yes it is.
+L508338 +++$+++ u7626 +++$+++ m516 +++$+++ CHARLENE +++$+++ Yeah.  Sister Mary Pat was discussing it.  You know she thinks it's a sin.
+L508337 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Really.
+L509092 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ YES I'LL SING AND KNOW JOY EVERMORE
+L509091 +++$+++ u7627 +++$+++ m516 +++$+++ CHOIR +++$+++ SING!
+L509090 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ And I'm tearful!
+L509089 +++$+++ u7627 +++$+++ m516 +++$+++ CHOIR +++$+++ SING!
+L509088 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ But I'm fearful!
+L509087 +++$+++ u7627 +++$+++ m516 +++$+++ CHOIR +++$+++ SING! SING AND YOUR SPIRIT WILL SOAR!
+L509086 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Were you tempted?
+L509085 +++$+++ u7627 +++$+++ m516 +++$+++ CHOIR +++$+++ SING!
+L508735 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ HE'S SO FINE...
+L508734 +++$+++ u7627 +++$+++ m516 +++$+++ CHOIR +++$+++ Yes, Mary?
+L508733 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ He's... dreamy.  He's...
+L508633 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I think they hear you!
+L508632 +++$+++ u7627 +++$+++ m516 +++$+++ CHOIR +++$+++ LET THY SPIRIT
+L508631 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You know what we're saying!
+L508630 +++$+++ u7627 +++$+++ m516 +++$+++ CHOIR +++$+++ LET THY SPIRIT
+L508624 +++$+++ u7627 +++$+++ m516 +++$+++ CHOIR +++$+++ LET THY SOUL BE HEALED
+L508623 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You know, I just might!
+L508622 +++$+++ u7627 +++$+++ m516 +++$+++ CHOIR +++$+++ LET THY THOUGHTS BE GUIDED
+L508621 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I think I hear it!
+L508620 +++$+++ u7627 +++$+++ m516 +++$+++ CHOIR +++$+++ BY A VOICE YOU HEAR FROM ON HIGH
+L508619 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ But how?
+L508618 +++$+++ u7627 +++$+++ m516 +++$+++ CHOIR +++$+++ LET THY SOUL BE HEALED
+L508617 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What you say?
+L508616 +++$+++ u7627 +++$+++ m516 +++$+++ CHOIR +++$+++ LET THY THOUGHTS BE GUIDED
+L508458 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You know it.
+L508457 +++$+++ u7631 +++$+++ m516 +++$+++ LAWANDA +++$+++ Hey, Sisters.  Are you going in there?
+L508456 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ How are you doing.
+L508360 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Just tell him, I do love you, but I can't -- I'm a nun.
+L508359 +++$+++ u7631 +++$+++ m516 +++$+++ LAWANDA +++$+++ What you do?
+L508358 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Hey, I know, it's hard.  But do what I do.
+L508357 +++$+++ u7631 +++$+++ m516 +++$+++ LAWANDA +++$+++ No, but... I don't know... sometimes.
+L508356 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ And you listen to that?
+L508355 +++$+++ u7631 +++$+++ m516 +++$+++ LAWANDA +++$+++ Well, what about the sex stuff?  What if some dude is after you, and he's always saying stuff, commin' on sweet and mellow.  Like, oh, baby, you know you'll love it.  Oh, baby, if you loved me, you'd stay.
+L508344 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Probation?
+L508343 +++$+++ u7631 +++$+++ m516 +++$+++ LAWANDA +++$+++ 'Cause we love it so damn much.  And cause we gotta come here.  Probation.
+L508342 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Excuse me -- just what are you all doing here?  At Sunday School?
+L508341 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Well... because it's in the Bible. "Thou shalt not..."  Thou shalt not.
+L508340 +++$+++ u7631 +++$+++ m516 +++$+++ LAWANDA +++$+++ How come?  Sister?
+L508336 +++$+++ u7631 +++$+++ m516 +++$+++ LAWANDA +++$+++ We were talking about the wild thing. Teen promiscuity.
+L508335 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ So, hi there.  I'm... Sister Mary Clarence.  And you're... young Christians.  I guess I should assign you this passage.  What's good?  What were you talking about?
+L508989 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ That... thing.  That nun thing.  Take it off.
+L508988 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What?
+L508987 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ Okay, Christy -- strip.
+L508877 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You can handle this.
+L508876 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ What?
+L508875 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Mary Robert, don't panic.  Remember what we talked about?  Experience?
+L508874 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ Yeah, right to the cops.  No way.
+L508047 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ With love.
+L508046 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ His ashes?
+L508044 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Then stop trying to memorize it.  Hit the road.
+L508043 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ You ain't got nothin' I ain't seen.
+L508042 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What do you want?  This is a private area!  Get lost!
+L509055 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ That used to be true, Vince.  I was with you.  But something happened.  And I'm different now.  Real--different.  I've had, well, you might call it -- a religious experience.  And I've got just two words for you.  And those two words are...
+L509054 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ I was good to you! You re nothing but no-talent garbage! You're a two-bit Tramp!
+L509032 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Joey -- do it.
+L509031 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Right here.  Let the others go -- they have nothing to do with this.
+L508940 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I feel sorry for you, Vincent.  And I forgive you.
+L508939 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ She's afraid.  Come on, tell the boys you're afraid.
+L508931 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I am sorry for all my sins.  And yours.
+L508930 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ What, Vincent?  This is me, doll.  I know you.  What did you think you were doing?  Running to the cops.  Hiding out. No, no.  You're sorry now, aren't you?
+L508929 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Good evening, Vincent.
+L508928 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Babe, what happened here?  Look at you.
+L508096 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Right.  Yeah.  Forgotten.
+L508095 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ And to say you're sorry.  About this afternoon.  And the things you said. Forgotten.  Completely.  Do you understand?  Forgotten.
+L508094 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Sure.
+L508093 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Is that why you came up here, Christy? To thank me?
+L508092 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Thanks.  A lot.
+L508091 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Yes?
+L508090 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ No... it's fine.
+L508017 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You lying sleazeball!  The best years of my life!  What am I, garbage?  Am I lint?
+L508016 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Babe, it's not me!  I love you!  It's God!
+L508015 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You pig!
+L508014 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ We can still see each other.  Just like always.  It's a different kind of sin. Smaller.
+L508013 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You bastard!
+L508012 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ You want me to go against a priest?  Get excommunicated?  You think I'm nuts?
+L508011 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What? 
+L508010 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ He said that if I got a divorce I'd burn in Hell.  For all eternity.
+L508009 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You said that?  And what did he say? Did he say you could leave her?  Did he say we'd be happy?
+L508008 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ For the first time in I don't know how long.  I wanted everything done right. Open and above board.  I told Father Antonelli I was in love.  I told him it was a special love, for all the ages.
+L508007 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You did what?
+L508006 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ I want us to be together.  Like people. Honest, decent people.  In the eyes of God.  Babe, today... I went to confession.
+L508005 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Today was the deadline, Vince.
+L508004 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ How did I get so lucky?  What is it now, five years we've been together?  Who do I thank?
+L508003 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Vince...
+L508002 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ You are so damn sexy.
+L508001 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Who?  The other woman.  Your wife.
+L508000 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ What did who say?
+L507999 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Come on -- stay.  Just a little.  We can talk, I'll get a pizza.  Pizza in bed, we'll have fun.  And you still haven't told me what happened.  What did she say?
+L508037 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ WISH HE WAS MINE.  THAT HANDSOME BOY OVER THERE, THE ONE WITH THE WAVY HAIR.
+L508036 +++$+++ u7639 +++$+++ m516 +++$+++ RONELLES +++$+++ D00-LANG, DOO-LANG, D00-LANG.
+L508035 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ HE'S SO FINE.
+L508034 +++$+++ u7639 +++$+++ m516 +++$+++ RONELLES +++$+++ Yes, Betty?
+L508033 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ He's so dreamy.  He's like... a Greek god.  He's the cutest guy here.    He's boss.  He's fab.  He's...
+L508032 +++$+++ u7639 +++$+++ m516 +++$+++ RONELLES +++$+++ Oh my! 
+L508031 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Look at that.  Get a gander.
+L508030 +++$+++ u7639 +++$+++ m516 +++$+++ RONELLES +++$+++ What is it, Betty?
+L508029 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Oh my! 
+L508028 +++$+++ u7639 +++$+++ m516 +++$+++ RONELLES +++$+++ Oh-huh.
+L508027 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ This prom is a real drag.
+L508026 +++$+++ u7639 +++$+++ m516 +++$+++ RONELLES +++$+++ Yes, Betty?
+L508025 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Oh, girls.
+L509084 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Were you wicked?
+L509083 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ SING AND THE DEVIL WILL FLEE!
+L509082 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Pay attention...
+L509081 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ BUT THEN CAME AN ANGEL WHO WHISPERED THESE WORDS
+L509080 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What a shame!
+L509079 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ DAMNATION WAS ALL I COULD SEE
+L509078 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ It's true -- I know her.
+L509077 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ MY SOUL WAS IN DANGER I'D FALLEN FROM GRACE
+L508825 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Get moving.  I'm right behind you.
+L508824 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Hurry, Sister!
+L508739 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ This is so exhilarating!  All week long, I can't wait till Sunday, when we sing.
+L508738 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Jackpot!  Two buckets
+L508728 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ That man -- who is he?
+L508727 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ What is it, Mary?
+L508675 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ And we know that, even though most people would call you a leech and a parasite, the lowest slug of humanity! We know that deep down inside, you're probably even worse.  And so you truly need our prayers.
+L508674 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ We know you don't want to bring pain and misery to your friends and neighbors. We'll pray to find you some honest work.
+L508606 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Because we're
+L508605 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ SPRING IS HERE THE SUN WILL SHINE I'LL BE HIS AND HE'LL BE MINE WE'LL LOVE UNTIL THE END OF TIME AND WE'LL NEVER BE LONELY ANYMORE
+L508604 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ So use it.  When we sing hymns, they're usually about rejoicing, right? Celebration.  Most music is.  So don't hold back.  Let all that joy go right into your voice.  Make me happy.  Let me hear it.  Perk out.  Perk down.
+L508603 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ All right, I am, I know it!  All my life, I've just been... upbeat. Optimistic.  Perky.  I can't help it. Even when I was little, I remember my mother used to say, "That child is pure sunshine.  She'll either be a nun -- or a stewardess."
+L508602 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Am I?
+L508601 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Hold it.  Mary Patrick, you're a pretty cheerful person, aren't you?
+L508600 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ The Dixie Cups?  Oh my.  I was just a girl.  Of course.  SPRING IS HERE THE SUN WILL SHINE
+L508599 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Mary Patrick -- do you remember the Dixie Cups?
+L508598 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ It's a rhythm section.  The beat.
+L508597 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ I know.  It's ancient.
+L508596 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ That machine.
+L508586 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ No way.  We're a choir, right? Headliners.  The big room.  Two days a week won't cut it.  Every day.
+L508585 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Two days.  An hour or so.
+L508575 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ The goods.  The sound.  The sale.  Let's rearrange a few things.  Mary Patrick, you re not a natural soprano, you're an alto.  Get over here.  Mary Robert --with the sopranos.
+L508574 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Chops?
+L508573 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You see?  We've got the voices.  They're just allover the place. I've heard all of you, in the shower --you're decent. Better than me.  We just need charts -- harmony -- chops.
+L508555 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Mary Clarence, could you?  Mary Lazarus, you're terrific, but...  Could you help us?
+L508554 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Hold on.
+L508527 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Sure is!  Come on in, and sing a spell.
+L508526 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Is this... choir practice?
+L508396 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I love my heddles.  Show me again.
+L508395 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Shuttle, beat, shed.  And watch your heddles.
+L508394 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ You betcha.
+L508393 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Just about.  Show me again.
+L508392 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Isn't it lovely?  Now I'll demonstrate, and then you can hop right in.  You just draw your beater in, keep it pressed against the pick, and open the shed.  Then pass your shuttle, beat, and open the next shed.  Shuttle. beat, beat, shuttle, beat, shed.  Keep tension on the warp.  Is that clear?
+L508391 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Oh, right.  At my old place, we used to... wash cars.  Groom dogs.  So... nice loom.
+L508390 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Mary Clarence.  Goose.  We're completely self-supporting.  Like all convents. Like yours.
+L508389 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ But don't you get money?  From the Vatican?
+L508388 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ To sell, of course.  I hate to say it, but we're in terrible trouble here at St. Katherine's.  We need a new roof, the furnace is going, and there's no money.
+L508387 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Why?
+L508386 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Well, it all comes back, in just a jiffy.  I'm working on a wall-hanging, of the convent.
+L508385 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Not in years.
+L508384 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ The minute I saw you. I said to myself, she's a weaver.  Have you ever used a loom?
+L508312 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ No. HEY -- HE KNOWS THAT YOU BEEN CREATING NOW YOU'RE GONNA GET A BEATING
+L508311 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ 1961?  '62?  Mary Clarence, that's when many of us took final vows.  It's the last secular music we recall.
+L508308 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ I haven't heard that song in ages.  The Ronettes?
+L508307 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Where did that come from?
+L508292 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Right.
+L508291 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Isn't it a glorious morning?  Good morning, Mary Clarence.  sleep well?
+L509098 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Sing!
+L509097 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ JUST SING!
+L509060 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ You re okay -- for a civilian.
+L509059 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Hey -- you re supposed to be the cheerful one.  Why do I suddenly feel like Snow White?
+L509040 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You know?  About me?  About everything?
+L509039 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Van Cartier.
+L508799 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ That's true, wouldn't that be great.  Of course, we never know when things are going to change.  Any one of us could be transferred to another convent, tomorrow.
+L508798 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ We could cut a demo.  Look for a label.
+L508795 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Well... see, at my old convent, I wasn't always... real popular.  I was sort of selfish and... not real helpful.  Okay, I'll say it -- I wasn't much of a nun. But now, thanks to all of you... maybe I'm shaping up.
+L508794 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Is there any syrup?
+L508762 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What?
+L508761 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ She's a pro.
+L508670 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Again!
+L508669 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Babies
+L508668 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Amateurs 2
+L508667 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Hopeless I
+L508666 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Right, right, cross with the left, spin and turn!
+L508665 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Don't look at your feet, and I don't want to see anybody counting.  Make it look easy.  Again!
+L508594 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Tell me about it.
+L508593 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ It'll be hell.
+L508591 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ A bunch of real mama's girls.
+L508590 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Wet behind the ears.
+L508589 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I don't know.  Mary Lazarus, what do you think?  They're pretty raw.
+L508584 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I hear you.  How many days a week do you rehearse?
+L508583 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Of course.  I'm a nun.  Four Popes now. The Lord hates a loafer.
+L508582 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Mary Lazarus, I get the feeling that you like discipline.  Hard work.
+L508581 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ I knew that.
+L508580 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Yeah, for one second.  That was the blend -- you've got to listen to each other.  Be a group.
+L508564 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Mary Robert.
+L508563 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Very nice.  Sisters, have we learned our lesson?  I won't hold this little episode against anyone.  I'll try not to.
+L508553 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ You're a ringer.  She brought you in to replace me.  Out with the old.
+L508552 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What?
+L508551 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Free-lance?  Oh really?  You think I don't see?  You think I took vows yesterday?  I know what you're up to. You and Reverend Mother.
+L508550 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Sure.  Kind of... free-lance.
+L508547 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Um, I don't really know this one...
+L508546 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Mary Clarence, are you with us?
+L508531 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Whatever.
+L508530 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Soprano or alto?
+L508310 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You know that song?
+L508309 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Shirelles.
+L508300 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ I like my old convent, in Vancouver. Out in the woods.  It wasn't all modern, like here.  No electricity.  Cold water. Bare feet.  Those were nuns.  It was Hell on earth, but I loved it.  This place is a Hilton.
+L508299 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Like this place?
+L508298 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Progressive convents.  Vanity.  It sounds awful.  It sounds just like this place.
+L508297 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What?
+L508296 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Enough jabber.
+L508295 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Which convent?  It was, um, the Little Sisters... of the Moonlight.  In Vegas. Everybody used to come to Mass.  Frank. Dean.  Sammy.  Right at ringside.
+L509076 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ HE SAID, SING THE DEVIL AWAY!
+L509075 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What did He say?
+L509074 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ BUT THE LORD CAME TO ME
+L509073 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Don't you know it!
+L509072 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ I WAS HELL-BOUND, YES THAT'S WHAT THEY SAY SATAN WAS WAITING
+L509071 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ It's true!
+L509070 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ I WAS DOWNHEARTED
+L509057 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Bless you.
+L509056 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Mary Clarence!
+L508873 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ She's got nothing to do with this.  Let her go.
+L508872 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ But what do they want?  Where are we going?
+L508870 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Again?
+L508869 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Run!  Take off!
+L508868 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ They're from my old convent.
+L508867 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Wait, this isn't the way.  Who are you?
+L508816 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Right to Hell.  Just kidding. Where is that bus?
+L508815 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ The Council of Cardinals!  I'm so nervous!  What if I forget the words?
+L508801 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Oh no.  We'll always be together.
+L508800 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Are you leaving us?
+L508793 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ A thank-you?  For what?  You're the one we should be thanking.
+L508792 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ It's contraband.  Don't ask.  But I wanted to give you a treat.  A sort of... thank-you gift.
+L508678 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ We're nuns!
+L508677 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Yes, prayer is the answer, and prayers free  We're going to give free prayers to everyone who drives up to this house.
+L508662 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ HONOR THY MOTHER AND THY FATHER TOO DON'T KILL, DON'T STEAL, IT'S BAD FOR YOU
+L508661 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ WE'RE THE SISTERS OF THE SACRED HEART WE DO OUR BIT, NOW DO YOUR PART
+L508568 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Give me a C.  A C!
+L508567 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ I don't want to mess anyone up...
+L508566 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Mary Robert, I've watched you.  You never really sing.  You whisper. Nothing comes out.
+L508565 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ What?
+L508529 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Now stop that.  You didn't shoot at me. You were only trying to help, to give me experience.  I tried to explain that to Reverend Mother, but -- I don't know if she understood.
+L508528 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Mary Robert, I am so sorry about last night...
+L508499 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ We could have been killed!  But you saved me!  Thank you, Mary Clarence!
+L508498 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I don't know, some people just don't like nuns.  I wish I had a ruler.
+L508497 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ What was all that?  Who was that man? Why would he shoot at us?
+L508496 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Experience!
+L508495 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Oh my Lord!
+L508494 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Mary Clarence!
+L508493 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Goddamn it!
+L508491 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Keep moving!
+L508490 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Mary Clarence!
+L508488 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Well, you know, you don't have to tell her everything.  I mean, nothing really happened.  We just... took a walk.
+L508487 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ I can't wait to tell Reverend Mother about all my experiences.  I've learned so much.
+L508486 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Honey.
+L508485 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Mary Clarence!  You're so... different from the other sisters.  Sometimes, well... sometimes you sound more like a layperson.
+L508484 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Good point.  Especially that dude you were with.  I'd like to see him down front.
+L508483 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Those people are wonderful!  Why don't we ever see them in church?
+L508480 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You watch yourself!
+L508479 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ I'm getting experience.
+L508471 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ This is your neighborhood.  Your turf. You should get to know 'em.
+L508470 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Who are all these people?
+L508468 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Really?
+L508467 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Initiation.  You understand.  Later on, we make her wear her underwear on her head.
+L508466 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ I have to do this.  So I can become a nun.
+L508464 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Right.
+L508463 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Experience!  Right?
+L508462 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Bobs
+L508460 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ It's part of St. Katherine's new community outreach program.  How old are you?  You shouldn't be smoking.  Have you ever seen a diseased lung?  Hand 'em over.
+L508459 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ We need experience.
+L508454 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Now you.
+L508453 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Mary Clarence!
+L508449 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Are you sure?
+L508448 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ We must... get you some experience.  We must... leave this place.
+L508447 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Of course!  We must do it!  It's the will of God!  What is it?
+L508446 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ We must do this sacred thing, Mary Robert.
+L508444 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Reverend Mother says you need experience, right, in life.  In order to make a responsible decision.  This is going to be very painful for me.  You know how much I love this little room. This whole convent.  Wait.
+L508443 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ What?
+L508442 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Well, then there's only one thing to do.
+L508441 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ She said that?  Reverend Mother?
+L508440 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ She says I should wait.  She says that no one should become a nun as an escape from life.  She says that I'm not experienced enough to make the decision yet.  In a mature manner.
+L508439 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ She won't?  Why not?
+L508438 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Oh. Mary Clarence, I'm so unworthy.  I want to take my final vows, I would do it tomorrow, but Reverend Mother won't let me!
+L508437 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Excuse me?
+L508436 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ No, you don't understand -- I don't want to get out!  I want to get in?
+L508435 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Right, sure, but what's the problem? Are they keeping you a prisoner here? Do they drug you?  Did Reverend Mother like, kidnap your parents?  We can call the Enquirer.
+L508434 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ You have to help me
+L508432 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Yeah, like a learner's permit, right? When do you hit the big time?  You know, when do you take the final vows?
+L508431 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ A novice.
+L508430 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Three years.  A rookie.
+L508429 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Three years.  Sister.
+L508428 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ So, Bob, how long have you been in? St. K's?
+L508427 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Right.  Okay.  Bob.  Nice to know you.
+L508426 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Mary Robert.  I'm... Mary Robert.
+L508425 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Thanks.  So which one are you? Sister Bruce?  Sister Doug?
+L508424 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ An extra heel of bread.  Please take it, you need your strength.  You've been working so hard.
+L508423 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ A cigarette?
+L508422 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ I... I brought you something.
+L508421 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What?
+L508420 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ I... I...
+L508419 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What?  What does she want now?  I did the dishes.  I oiled the pews.  I dusted the hymnals.  Two hundred hymnals.  Why can't people share?
+L508290 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Five a.m.?
+L508289 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ It's after five.  We have to bathe.
+L508288 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What?  What time is it?
+L508287 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Come on, we're late.
+L509069 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Don't push it.
+L509068 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Really?  And maybe shorter habits, and women priests, and sleeping late?
+L509067 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Perhaps not.  Perhaps we can all use... a little Spandex.
+L509066 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What about me, Reverend Mother?  I think you were right.  I'm just a bad influence.  Sister show biz.
+L509065 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ You have evidenced great maturity, Mary Robert.  We shall have a serious discussion.
+L509064 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I don't think so.  What about skydiving? A crank call to Billy Graham?
+L509050 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Very well.  I hold you responsible for all of this, For introducing a lounge act into my convent.  For utterly disrupting our way of life.  And for placing all of us in mortal danger.  Thank-you.
+L509049 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Then I guess you're stuck.  Life sentence.  No parole.
+L509044 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ I'm a Christian.
+L509043 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You saved my life.
+L509042 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Oh?
+L509041 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Reverend Mother -- Thank-you.
+L509007 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Saving you.  Move!
+L509006 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What are you doing here?
+L508787 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Good day.
+L508786 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ But...
+L508785 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ I am sorry, Mary Clarence.  I seem to have misplaced my tambourine.  Good day, Mary Clarence.
+L508784 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Okay, so I just got things started.  But you could build on that.  You could keep it going.
+L508783 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ You and I know that life is not so simple.  There will be disappointments. Rude shocks.  And you will have vanished. How... fortunate.
+L508782 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ A part of what?  Mary Clarence, it is one thing to rabble rouse, to sweep into town and declare a holiday.  You have raised the Sisters' expectations, you have excited and confused them.  They imagine this neighborhood to be some sort of delightful ongoing block party.
+L508781 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ But everything that's happening is good! You can be a part of it!
+L508780 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Indeed.  After how long?  A few weeks? I have been here thirty years.  And yet, it would seem, I know nothing.
+L508779 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ But -- there's so much more to do right here.  And look, if it's about me, I mean, I'm gone.
+L508778 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ I must go where I can be of use.
+L508777 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ But -- why?
+L508776 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ I have submitted my resignation to Bishop O'Hara.  Privately.  I have asked to be relocated as soon as possible.
+L508775 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What?
+L508774 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Really.  Well, that makes two of us.
+L508773 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Hey -- your prayers have been answered. I'm leaving.  In just a couple of days.
+L508765 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ You have a phone call.
+L508764 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You sent for me?
+L508758 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ The majority has spoken.
+L508757 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ But... wait a minute...
+L508756 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Of course.  Mary Clarence, a convent is not a totalitarian state.  Most major decisions are made by the membership as a whole.  A membership that, I am certain, will vote in a rational and pious manner. All those in favor of allowing Mary Clarence to select a program?
+L508755 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ A vote?
+L508754 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ I believe this can be settled by a simple vote.
+L508753 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Isn't that why we were asked to sing for those Cardinals?
+L508750 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ The council of Cardinals is perhaps the most esteemed body in the entire Catholic church.  They command the utmost respect. Your more... secular entertainment would be wholly out of place.
+L508749 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What do you mean?
+L508748 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ And on such an occasion, I feel a completely traditional program will be best.
+L508644 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ And I am refusing.  As of tomorrow, Mary Lazarus will resume her leadership of the choir.
+L508643 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Please let me try.  I'm begging you.
+L508642 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Out of the question.
+L508641 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Hold on.  That's not fair.  I worked hard with them.  They gave up their free time, and they loved it.  Those women are happy.  And we can get even better.  We can wake this place up.
+L508640 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Through blasphemy?  You have corrupted the entire choir!
+L508639 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Exactly.  People like going to theaters and casinos.  But they think church is for Grandma -- we could change that. Pack the joint.
+L508638 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ And what next?  Popcorn?  Curtain calls? This is not a theater.  or a casino.
+L508637 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I was thinking Las Vegas.  Get some butts in those seats.
+L508525 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ The choir, Mary Clarence.  Go for the gold.
+L508524 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Not the choir, please, anything but that.  The choir -- I mean, have you heard them?  I'll do anything, scrub floors, toilets, you name it, but not that I
+L508523 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ You're my Olympic event.
+L508522 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ No.  No.
+L508521 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ You will sing, and you will sleep,' that is your schedule until you depart.  As almost no one attends Mass, you will be unable to cause further damage.
+L508520 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ You have, I believe, some minimal background in music.  Therefore, you are to join our choir.
+L508519 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What?
+L508518 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ You may stay.  But I shall restrict your activities to but a single task.
+L508517 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I am?
+L508516 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Mary Clarence, perhaps you are correct.
+L508515 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ But you can't kick me out!  Guys want to kill me!  You're a nun!  A big nun! Aren't you supposed to have compassion? For the wayward sheep?  I mean, I'm a major sinner!  All-time great!  Hall of Fame!  Aren't I, like, your dream come true?  Your Olympic event?
+L508514 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Clearly, you have learned nothing. And you present an ongoing threat, both to this convent and to yourself.
+L508513 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ A decent life?  Excuse me?  As what?  A janitor?
+L508512 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Mary Clarence, I have given you every opportunity.  To change.  To make a decent life for yourself.
+L508511 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I know!  I'm sorry   I didn't mean for it to happen!  And I was the one they were shooting at!
+L508510 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Mary Robert's life was in danger! Your behavior was inexcusable!
+L508509 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Look... I know I shouldn't have, I'm incredibly sorry about Mary Robert, I wasn't thinking, I didn't know that would happen!
+L508508 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ I don't believe we have anything to say to each other.
+L508507 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ So... hi there.
+L508403 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Look, this isn't my kind of thing!  I wasn't cut out to make little tapestries, or knit little sweaters! I don't do that! I'm a star!
+L508402 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Months of work, and the loom, absolutely ruined!
+L508401 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I'm sorry, I'm not a weaver!
+L508400 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Good.  Mary Patrick, I need you in the office.  Mary Clarence, carry on.
+L508399 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Really catching on.
+L508376 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ How to put it... ah, Of course, Mary Clarence.  "No pain, no gain."
+L508375 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ In English?
+L508374 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Do your recall the words of Saint Peter, in Ecciesiastes 1:27?  He spoke unto a wastrel youth.  He said, "Take up thy task, and know ye the path of contentment."
+L508373 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ It never solves anything.
+L508372 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ You are correct.  Sometimes prayer alone cannot help a situation.  Such as your own, for example.  How do you feel about physical labor?
+L508371 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Sometimes it's not enough!
+L508370 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ We are nuns.  We seek solutions through prayer.
+L508369 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Have you been out in those streets?  Do you know what those kids are up against? You should help them!
+L508368 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ This is a convent, not a clinic.  We offer moral guidance, not hardware.
+L508367 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Those girls were asking questions. They've got it rough.  I wish somebody had talked to me about that stuff when was their age.  I wish somebody would talk to me about it now.
+L508366 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ A balloon and a banana!  Tell me, Mary Clarence, what were you thinking?
+L508364 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Mary Clarence!
+L508363 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Deal with it, sweet thing.  It's important, nowadays.  You just practice at home, with a balloon and a banana.
+L508334 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Come, Sister.
+L508333 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I got it.
+L508332 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Girls, this is Sister Mary Clarence. She'll be minding you until Sister Mary Patrick's return.  Mary Clarence, please assign a biblical passage.  Do not attempt discussion.  Am I understood?
+L508331 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Yeah?
+L508283 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ From all I've heard, just about everything.  Your singing career seems all but nonexistent, and your married lover wants you dead. 
+L508282 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What's wrong with my life?
+L508281 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ I'm sure.  If I were you, I would use this time, to think about my life.  And its direction.  Or lack thereof.
+L508280 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Wait.  No.  You're kidding.  Lights out? At nine?  My day's just starting.
+L508279 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ It is nine p.m.  Pleasant dreams.
+L508278 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Right.  So what do we do now?  Ping- Pong?  Row over to the monastery?
+L508277 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Your cell is more than adequate.
+L508276 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Oh, I don't know... Satan?
+L508275 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ And whom would you call?
+L508274 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ It's like the Stone Age.  The room time forgot.  What about a phone?
+L508273 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Useless distractions.
+L508272 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Right, sure thing.  But what about, like, appliances?  Like a little color portable?  Boom box?
+L508271 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Our lives are simple.  We have little need for material possessions.
+L508270 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You were right the first time.  Is this like, solitary?  The cooler?  Where's the furniture?
+L508269 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Your cell.  Your room.
+L508268 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ My what?
+L508267 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ This shall be your cell, Mary Clarence.
+L508266 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ That's tomorrow!  Don't you have any snacks?  Machines?
+L508265 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Yes.  Until breakfast.
+L508264 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Is this all the food I get?
+L508255 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ No food.  Not until sundown.
+L508254 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ No food?
+L508253 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ A fast.  To remind us of the poor, of those who must endure without enough to eat.
+L508252 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ A what?
+L508251 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ As a new member of our order, I think you might also enjoy a ritual fast.
+L508248 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Until sundown.
+L508247 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Silence?  No talking?  All day?
+L508246 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Surely you are familiar with this practice, Mary Clarence.  Only when our lips are silent, can our prayers truly be heard.
+L508245 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ A what?
+L508244 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Sisters, for the rest of the day we shall declare a Vow of Silence.
+L508234 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I'm outta here.
+L508233 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ And the vow of chastity.
+L508232 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Like to who?
+L508231 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ The vow of obedience.
+L508230 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ No problem.
+L508229 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ The Mary is in deference to the Holy Mother, the Clarence in honor of Saint Clarence Loyola.  There are three vows that every nun must accept.  The vow of poverty...
+L508228 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Mary Clarence?  Like a guy?  Like a dumb guy?
+L508227 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ As of now, and until you leave, you are Sister Mary Clarence.
+L508226 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ But look at rites  Look at this!  I'm a nun!  I'm invisible!  I'm a penguin!
+L508225 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Normally dressed, you are a sore thumb, and you endanger us all.  While you are here, you will conduct yourself as a nun. Only I shall know who, and what, you truly are.  You will not disrupt the convent.  You will not influence the Sisters with your colorful street talk. You will draw no attention to yourself in any way.
+L508224 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ No!  No!  I can't do this!
+L508223 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Can do.
+L508222 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Excused.  Open the cabinet to your left. You will find appropriate attire.
+L508220 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Would you like that?
+L508219 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ How about a robe?  One of those big terry cloth jobs, with like embroidery on the pocket.  "Guest of St. Katherine's"
+L508218 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Deal.
+L508217 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Before we do, you might like to freshen up.  And you'll certainly want to change
+L508216 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Cool.  Is there a menu?  Or buffet?
+L508215 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Of course.  But it's almost lunch.
+L508214 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Fine.  Got it.  Look, the way I see it, I'm stuck here, right?  I mean, I'm here or I'm target practice.  So here's the deal -- I don't bug you, you don't bug me.  I'll catch up on some sleep, watch some tube, lay back and lay low.  So just get me a key and show me to my room, and do not disturb.  Capisce?
+L508213 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Check your driver's license.
+L508212 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What's a concubine?
+L508211 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Absolutely not.  I mean the wicked.  The heedless.  And their Las Vegas concubines.
+L508210 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You mean black people?
+L508209 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ And all those like you.
+L508208 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Are you talking about me?
+L508207 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ I joined this convent some thirty years ago.  At that time, the world knew some measure of peace.  And hope.  Our order was a beacon of hospitality, to families, to children, to a neighborhood filled with promise.  And, as the years have passed, I have watched that promise destroyed.  Drugs.  Gangs.  Spandex.  And. so I have made this convent an oasis, a retreat from horror. And now that horror has invaded these sacred walls.
+L508206 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What?
+L508205 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ It has come to pass.
+L508204 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Your cigarette -- out.
+L508203 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What? 
+L508202 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Miss Van Cartier.
+L508200 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What?
+L508199 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Sit down.
+L508198 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You see?  You see?  I have to get out of here   I have to make a phone call. Don't you get  it?  I'm in a convent! You're a nun!
+L508197 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ I see.
+L508196 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Beats me!  What do you think?  Smoking! Heavy petting, without a chaperone. Heavy petting, with the chaperone.  And wearing a black bra, under my uniform.  The demon bra.
+L508195 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ The reason?
+L508194 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I was expelled!  When I was fifteen?
+L508193 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ You were unhappy?
+L508192 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Parochial school.  Akron.  St. Android's.
+L508191 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ St. Anne's?
+L508190 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Oh my God.  This isn't happening, tell me this isn't happening.  It's a nightmare, I'm back at St. Anne's!
+L508189 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Very well.
+L508188 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ That's my real name!  Currently I'm a singer.  Sort of.
+L508187 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Enough joking.
+L508186 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Christy.  Christy Van Cartier.
+L508185 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Your name?
+L508184 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Mother Theresa.  Gandhi.  Don't you understand?  This is all a mistake.  I'm the good guy.  I'm the witness.  And I'm being punished!
+L508183 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ What is your full name?  Your Christian name?
+L508182 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ A convent?  They put me in a convent? What's the problem?  Wasn't there any more room in Hell?
+L509053 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Yeah, like what?
+L509052 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ I don't know.  There's only one way to be absolutely sure.
+L509051 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Yeah, Eddie, thanks a whole bunch. Thanks for sticking me in a convent.  So you think, after all this, maybe I really am a nun?
+L509046 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ That depends.  Sisters, you don't know this, but Reverend Mother's been making all sorts of noises about resigning. That's bad news.  I don't know if we could sing, if we thought that was true.
+L509045 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Don't you have a concert to go to?
+L508852 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Even nuns have to pee.
+L508851 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ What're you doing?
+L508844 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Nuns?
+L508843 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You don't get it!  It's a big thing for them, it's like... Caesar's Palace. Prime-time.  They're singing for the Cardinals.  It's like... "Star Search." If first prize was a trip to the Vatican. They've worked really hard, they deserve this.
+L508842 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ They need you?  A bunch of nuns?  For what?  Moral guidance?  Make-up tips?
+L508841 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ That's not the point!  They need me!
+L508840 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ I think they'd understand.
+L508839 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Eddie -- I've got to go back.  They won't sing without me.  I'm deserting them.
+L508833 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ You're gonna be singing for St. Peter if you don't get your ass out of here!
+L508832 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I've got a show -- at St. Matthew's Cathedral.  We're singing for the Cardinals.
+L508831 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ What?
+L508830 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I can't go with you.
+L508829 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Long story.  His goons will be here any minute.  We've got to get you out of here '- now!
+L508828 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ How?
+L508827 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Vince knows you're here.
+L508717 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I know, I know.  I'll be careful.  I'll try.
+L508716 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Just remember - you're a target.  Don't you think Vince has a T.V.?
+L508715 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I've got to go.
+L508712 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ You re sort of... radiant.   your eyes are shining.  You're rea1ly different...
+L508711 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I have?
+L508710 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ No.  Most of the time I'm thinking about you.  And now... you've really changed.
+L508709 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You're not... seeing anybody?
+L508708 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Me too.
+L508707 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Well..  thanks.  I've been thinking about you.. - sometimes.  I mean, there aren't a lot of guys around here.  I mean, sometimes I feel like... a nun.
+L508706 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ No -- worried about you.  Personally.
+L508705 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You mean -- worried about my testimony?
+L508704 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ I've been worried about you.
+L508703 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Really?  Lieutenant?
+L508702 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Yeah.  You look... great.  I mean it..
+L508701 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I am?
+L508700 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Jesus, look at you   You're glowing.
+L508699 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I know that.  This isn't about me.  It's about the choir.  You should hear them. They're good.  Really good.  And I taught them.
+L508698 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Listen to yourself.  This isn't a career opportunity.
+L508697 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I really can't talk about it now.  The place is packed.  SRO.  I've got a show to do.
+L508696 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ You're supposed to be hiding out!
+L508695 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ It wasn't my fault!  They just showed up.  It's helping the convent.
+L508694 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ What if I was Vince?  You'd be dead right now.  What are you doing giving interviews on TV?
+L508693 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Eddie!  You scared the hell out of me!
+L508506 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Go in and talk to her.  It can't hurt.  Go.
+L508505 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ So what am I supposed to do in the meantime?
+L508504 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ She's counting on it.  She's concerned for your safety, but she wants me to try and find another convent that will take you. Or a carnival.
+L508503 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Does she know people are trying to kill me out there?
+L508502 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ You blew it -- big time.  She doesn't want you back.
+L508501 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What'd she say?
+L508416 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Don't call again.  It's not safe.  I'll be in touch.
+L508415 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Do you hear that?  That choir?  Eddie, in here, that's what they call music!
+L508414 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ But it's a nightmare!  Mother Superior is out to get me!  She hates my guts! She keeps thinking up new kinds of torture!
+L508413 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ I just need a few more weeks,
+L508412 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ You son-of-a-bitch!
+L508411 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Keeping our witnesses alive.  We hide them, but there's a leak in the department, and they end up dead.
+L508410 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Like what?
+L508409 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Calm down.  Look, I didn't want to tell you this, but we've had some problems with our protection program lately.
+L508408 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ But I'm going insane!  All these people do is pray and work, work and pray!  I don't get it -- when's the weekend? They have gruel, Eddie, that's what they call food!  Gruel -- it's like Alpo for nuns! I sleep in a cell, on a board, and I pray five times a days  Do you know what I pray for, Eddie, do you have any idea? Check your crotch, Eddie --anything fall off yet?  Get me outta her!
+L508407 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Not again.  You can't keep calling. Somebody's going to catch on to where you are.
+L508406 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Eddie, you've got to get me out of here.
+L508164 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Pray. 
+L508163 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I can't stay here!  I'll crack up! Eddie, what am I gonna do?
+L508162 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Everywhere but this little hole-in-the- wall convent.  Nobody knows you're here but me.  We're trying to get a quick court date.  A month, maybe two, tops. I'll spring you as soon as I can.
+L508161 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ But Vince has contacts all over the place!  This is San Francisco!  They'll be looking for me!
+L508160 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ And one bullet.  That's all it's gonna take.
+L508157 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ With nuns?  With rulers?  No way.  I'm gonna go back, work things out with Vince.
+L508156 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ It's a convent.  All you have to do is shut up, behave yourself, and get along.
+L508155 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Nuns, Eddie.  There are nuns here. Everywhere.  It's crawling with 'em.
+L508154 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Safest place in the world.  You think Vince would look for you here?
+L508153 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I hate you.  I totally hate you.
+L508152 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ I'm gonna put you in the last place on Earth that Vince would ever look for you.
+L508151 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ What're you gonna do, put me in a bag and bury me?
+L508150 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ No nothing.
+L508149 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Okay -- no limo.
+L508148 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Jesus, what do you think this is -- Wheel of Fortune?  Let me spell it out for you.  You have to hide like you don't even exist.  You have to get so far hidden away that you never see sunlight.
+L508141 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Maybe Hawaii.
+L508140 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Okay, here's what I want.  I know about this stuff.  A five-star hotel.  With room service.
+L508139 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Get a stenographer.
+L508138 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ All right!  I get the picture!  I'll do it!  I'll testify!
+L508137 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ You'd lose.  You'd die.  All over the sidewalk.  And into the street.
+L508136 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Ten flights?
+L508129 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Then-you run.
+L508128 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ And if I don't?
+L508118 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Screw you!
+L508117 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ He didn't do you a favor.
+L508116 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I don't know anything about bodies!  I mean, he didn't bring it home.  He was good to me... sometimes.  He was sweet. He took care of me.  Who am I supposed to go out with?  He owns a casino.  He let me sing.
+L508113 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ I never said he was an altar boy, okay? But he sent his goons after me!  They tried to kill me!  I'm not kidding!
+L508112 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ You couldn't believe it?  Vince the Prince?
+L508111 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Right between the eyes!  Down and out! The guy was gone!  I... I couldn't believe it!
+L508072 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Think again!  And get out of here.
+L508071 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Information, baby.  I thought maybe somebody around here might have a conscience.
+L508070 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ When are you gonna get off my case? Have you got a search warrant?  What do you want -- cheap thrills?
+L508069 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ A what? When are you qonna wake up?
+L508068 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ He's a businessman.
+L508065 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Oh, yeah? Well, how do you think I felt? You were singing in bowling alleys back then.  I told people you were a hooker!
+L508064 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ 'Cause you're always out, arresting people.  Making trouble.  I don't know why I went out with you in the first place, it was embarrassing!  I couldn't hold my head up, I used to tell people you were a security guard!
+L508063 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ So I don't shop.
+L508062 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Yeah, like what?  Quilted coat hangers, that your mother picked out?  Lottery tickets?  A travel iron?
+L508061 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ I used to buy.you,..stuff.  On your birthday .  When we were seeing each other.
+L508060 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ At least he's not a cop.  At least he can afford a decent gift.
+L508059 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ From Vince?  What a guy.  Doo-lang, doo- lang.
+L508726 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ But -- wait.
+L508725 +++$+++ u7634 +++$+++ m516 +++$+++ MARY PATRICK AND ROBERT +++$+++ Really.
+L508724 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ People throw stones.  They call me names.  I mean, really.
+L508723 +++$+++ u7634 +++$+++ m516 +++$+++ MARY PATRICK AND ROBERT +++$+++ Oh-huh.
+L508722 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Jerusalem is a real drag.  Everybody hates me.
+L508721 +++$+++ u7634 +++$+++ m516 +++$+++ MARY PATRICK AND ROBERT +++$+++ Hail, Mary.
+L508720 +++$+++ u7628 +++$+++ m516 +++$+++ CHRISTY +++$+++ Hey, girls.
+L508322 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ I wouldn't even tell the Pope.
+L508321 +++$+++ u7640 +++$+++ m516 +++$+++ TATE +++$+++ You won't even tell us?
+L508320 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Where's who?
+L508319 +++$+++ u7640 +++$+++ m516 +++$+++ TATE +++$+++ Vince is getting desperate.  Where is she, Eddie?  Where'd you stash her?
+L508318 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Jesus.  Data-base hoods.  It's a wonderful world.  Beloved daughter missing.  Reward of two hundred and fifty thousand dollars. Please find our adored angel, we miss her so.  Dead or alive.
+L508133 +++$+++ u7640 +++$+++ m516 +++$+++ TATE +++$+++ They open a window.
+L508132 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ Then one day they find you.
+L508125 +++$+++ u7640 +++$+++ m516 +++$+++ TATE +++$+++ A hiding place.
+L508124 +++$+++ u7629 +++$+++ m516 +++$+++ EDDIE +++$+++ We could put you into our witness protection program.
+L508543 +++$+++ u7636 +++$+++ m516 +++$+++ MIKE +++$+++ I'm telling you!
+L508542 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ A nun?
+L508540 +++$+++ u7636 +++$+++ m516 +++$+++ MIKE +++$+++ That she's a nun!  That chick you're looking for -- she's a nun!
+L508539 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ We didn't tell you what?
+L508538 +++$+++ u7636 +++$+++ m516 +++$+++ MIKE +++$+++ But you didn't tell me!
+L508537 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ We're the guys from Vegas.  You had Christy last night, but you let her get away.  It's upsetting.
+L508536 +++$+++ u7636 +++$+++ m516 +++$+++ MIKE +++$+++ Who are you guys?
+L508535 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ I'm sorry -- I don't know what gets into him.
+L508533 +++$+++ u7636 +++$+++ m516 +++$+++ MIKE +++$+++ You found him -- but we're not open yet.
+L508532 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ We're looking for Mike.
+L509034 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ She's a broad!  Got it!  Just some broad!
+L509033 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ But, boss -- she's still, you know, a nun.
+L509030 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ Where is she?
+L509029 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Joey?
+L509022 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Willy -- hit the lights.
+L509021 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ I can't see anything in here!
+L509017 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ Which one?
+L509016 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ There she is!
+L509010 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ Which one!
+L509009 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Get her!
+L508981 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ Maybe pants.
+L508980 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ I'm telling you, she's not a nun!  Get her out of the nun outfit, and put her in some clothes.
+L508977 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ So, take it off.
+L508976 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ Right.
+L508973 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ You were both supposed to put your guns to her head and shoot.
+L508972 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ It didn't work, Vince.
+L508971 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Well?
+L508955 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ Yeah...
+L508954 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ I can't believe this.  Okay, I want both you guys to go back there, and both of you shoot her at the same time.
+L508951 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ It didn't happen.
+L508950 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ But, Vince, how do you know she didn't like, join up and become a nun when she was in that convent?
+L508947 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ What's the problem?
+L508946 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ Not... totally.
+L508945 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ It's done?
+L508261 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ You know so much.  They've got Christy, and we've got to find her.  Get her 8x10, from in front of the lounge.  Fax it to every contact we got.
+L508260 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ It's a bluff, Vince.
+L508259 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ He's so damn cocky.  This is different.
+L508105 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Take care of it.
+L508104 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ And if she runs?
+L508101 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Maybe. 
+L508100 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ Vince -- is she... okay?
+L508991 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ She's praying.
+L508990 +++$+++ u7642 +++$+++ m516 +++$+++ WILLY +++$+++ What's she doing?
+L508983 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ And then we can ice her.  No nun, no evil eye.
+L508982 +++$+++ u7642 +++$+++ m516 +++$+++ WILLY +++$+++ A sweater.
+L508979 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ For like, twelve zillion eternities?
+L508978 +++$+++ u7642 +++$+++ m516 +++$+++ WILLY +++$+++ Strip down a nun?  You want us to fry?
+L508964 +++$+++ u7642 +++$+++ m516 +++$+++ WILLY +++$+++ That's what I figured, too.
+L508963 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ I figured if you were gonna, then I wouldn't have to.
+L508962 +++$+++ u7642 +++$+++ m516 +++$+++ WILLY +++$+++ Neither did you!
+L508961 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ You didn't shoot!
+L508953 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ No smart-ass remarks or nothing.
+L508952 +++$+++ u7642 +++$+++ m516 +++$+++ WILLY +++$+++ She was real quiet and peaceful all the way back in the car.
+L508880 +++$+++ u7642 +++$+++ m516 +++$+++ WILLY +++$+++ Forget her!  We got the one we need! Step on it!
+L508879 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ She's gettin' away!
+L508847 +++$+++ u7642 +++$+++ m516 +++$+++ WILLY +++$+++ Yeah, right -- when I see it.
+L508846 +++$+++ u7630 +++$+++ m516 +++$+++ JOEY +++$+++ So that guy in the bar was right?  She's like... some kind of nun?
+L508898 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ We can't leave it up to the Feds!
+L508897 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ We've got to save her!
+L508892 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ That should have tipped us.
+L508891 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Look what she did with the choir.  She made us sing beautifully.
+L508860 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ We're losing it.
+L508859 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ We sound terrible   We need Mary Clarence.
+L508818 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Dress rehearsal at four, performance at 8:30.  Sharp.
+L508817 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ It should be here any minute.
+L508683 +++$+++ u7632 +++$+++ m516 +++$+++ MARY LAZARUS +++$+++ Is it worth it?  A lot of witnesses here.
+L508682 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Are you going to shoot us all, tough guy?
+L508921 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Measles.
+L508920 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ However, we can also pray for other things.
+L508919 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Peace on Earth.
+L508903 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ All right.  It's a beginning.  Las Vegas, Nevada.
+L508902 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ She told us about one.  The Little Sisters of the Moonlight.  In Las Vegas.
+L508884 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ But -- why would anyone kidnap a nun?
+L508883 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ She shouldn't have come back.  She knew she was in danger.
+L508655 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Really...
+L508654 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Bless her!  There are so many problems in this neighborhood that we could help solve.  That's why many of us became nuns.  It's marvelous, Reverend Mother.
+L508398 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Oh, she's doing just fine, Reverend Mother -
+L508397 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Mary Clarence -- how is your weaving progressing?
+L508330 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ I need to see you, at once.  Girls, please excuse Sister Mary Patrick for a few moments.  Mary Clarence?
+L508329 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Yes?
+L508328 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Sister Mary Patrick?
+L508238 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Reverend Mother, on behalf of the sisters, I'd like to welcome Mary Clarence to St. Katherine's.
+L508237 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Yes, Mary Patrick?
+L509048 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Impossible.
+L509047 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Not a note.
+L509038 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Christy.
+L509037 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Mary Clarence -- you're alive!
+L508998 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ A Benedictine.
+L508997 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Excuse me -- has anyone seen a nun?
+L508969 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ But how do we get there?
+L508968 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ The Little Sisters of the Moonlight!
+L508943 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ And what a lovely name.  Las Vegas...
+L508942 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ It's so beautiful...
+L508894 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ She's our inspiration!
+L508893 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Well, I don't care who she is.  We can't sing without her!
+L508888 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ She wasn't a nun?
+L508887 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ An... entertainer?
+L508882 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Yes -- two men -- and they had guns.
+L508881 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ You mean -- they kidnapped her?
+L508838 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ We'll pray -- and she'll be there.
+L508837 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ We can't sing without her!  What should we do?
+L508835 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ It's no use.  She just isn't here.
+L508834 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Mary Clarence!  Sister!
+L508797 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Maybe we can get some of the local kids to sing with us.
+L508796 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Mary Clarence, don't be silly.  You're an example to us all.  You've taught us so much.  We're singing for the Cardinals, and then -- who knows?  Maybe the choir can travel -- to schools, and nursing homes.
+L508790 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Mary Clarence -- you shouldn't have. Where did you get this?
+L508789 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Ice cream!
+L508752 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ It's brought people back to the church.
+L508751 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ But, Reverend Mother -- everyone loves our new style.
+L508742 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ It's better than springtime.
+L508741 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ It's better than ice cream.
+L508740 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ I'd rather sing than do anything!
+L508732 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ He's kind.
+L508731 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ He's decent.
+L508730 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ He's not like other guys.
+L508579 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ That was exciting!
+L508578 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ We did it!  We actually sang a chord!
+L508549 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Really, Mary Clarence?  Were you a choirmistress?
+L508548 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Mary Clarence has a background in music. That's what Reverend Mother said.
+L508294 +++$+++ u7633 +++$+++ m516 +++$+++ MARY PATRICK +++$+++ Which convent was that, Sister?
+L508293 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Is this like your old convent?
+L509063 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Since Mary Clarence came to St. Katherine's, I've been shot at, kidnapped by Mafia hit men, and I've tasted beer. Is that enough experience yet?  For final vows?
+L509062 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Yes?
+L509061 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Reverend Mother?
+L508966 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ But where?
+L508965 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ Las Vegas -- she's here somewhere.
+L508901 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ But... she was a showgirl.  She didn't have an old convent.
+L508900 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ She said they were from her old convent.
+L508899 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Calm down.  Think clearly.  Mary Robert, do you have any idea who those men were?
+L508862 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Her whereabouts are unknown, and we must proceed without her.  Pull yourselves together.
+L508861 +++$+++ u7635 +++$+++ m516 +++$+++ MARY ROBERT +++$+++ I don't understand.  Where is she?
+L508659 +++$+++ u7638 +++$+++ m516 +++$+++ O'HARA +++$+++ And you'll face that danger head-on.  As if I could stop you.  And you have my complete support in this matter. Anything you can do to revitalize this neighborhood would be a blessing.
+L508658 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ But, Bishop, surely you realize -- this is a most dangerous neighborhood.
+L508174 +++$+++ u7638 +++$+++ m516 +++$+++ O'HARA +++$+++ I know. 
+L508173 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ I lied.
+L508172 +++$+++ u7638 +++$+++ m516 +++$+++ O'HARA +++$+++ St. Katherine's is a Benedictine Order. You have taken a Vow of Hospitality.  To all in need.
+L508171 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ But, Bishop...
+L508170 +++$+++ u7638 +++$+++ m516 +++$+++ O'HARA +++$+++ Your small convent is in danger of closing, Reverend Mother.  The Las Vegas Police Department has offered to make a generous financial donation.
+L508169 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ We're a small convent, Bishop.  Surely there are... more appropriate shelters.
+L508168 +++$+++ u7638 +++$+++ m516 +++$+++ O'HARA +++$+++ And therefore an ideal prospect for rehabilitation.
+L508167 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ But she's been exposed to the underside of life.  She is the underside of life.
+L508166 +++$+++ u7638 +++$+++ m516 +++$+++ O'HARA +++$+++ We can save this young woman's life, and imprison a parasite -- all in one gesture.
+L508165 +++$+++ u7637 +++$+++ m516 +++$+++ MOTHER SUPERIOR +++$+++ Absolutely not.  I am very sorry, but no.
+L509024 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Find 'em!
+L509023 +++$+++ u7642 +++$+++ m516 +++$+++ WILLY +++$+++ Where?
+L508975 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Okay, so the problem is still the nun outfit, right?
+L508974 +++$+++ u7642 +++$+++ m516 +++$+++ WILLY +++$+++ We both missed.
+L508949 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Are you nuts?  She's not a nun.  It's Christy.  She's a babe!
+L508948 +++$+++ u7642 +++$+++ m516 +++$+++ WILLY +++$+++ She's... she's a nun.
+L508937 +++$+++ u7642 +++$+++ m516 +++$+++ WILLY +++$+++ She's acting weird, Vince.  Ever since we picked her up.
+L508936 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ And who are you to talk?  You were nothing.  You couldn't even sing.  I must have been out of my mind.
+L508933 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ I love you, Chris.  I always will.  I gave you so much.  My time.  My affection.  A big-time career.  And how do you repay me?  What's the thanks I get?  Where's the loyalty, huh?  Where's the love?
+L508932 +++$+++ u7642 +++$+++ m516 +++$+++ WILLY +++$+++ She's a nun, Vince.
+L508380 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Can you hold?  Can you try?
+L508379 +++$+++ u7642 +++$+++ m516 +++$+++ WILLY +++$+++ It's that call you were expecting, Vince.
+L508378 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ Soon, you gorgeous thing... tell me... how lonely?
+L508103 +++$+++ u7641 +++$+++ m516 +++$+++ VINCE +++$+++ She did.  Bring her back.  Now.  For a talk.
+L508102 +++$+++ u7642 +++$+++ m516 +++$+++ WILLY +++$+++ I mean, won't she talk? She seemed kind of upset.

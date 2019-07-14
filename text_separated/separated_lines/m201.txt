@@ -1,0 +1,577 @@
+L562602 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Testa?
+L562601 +++$+++ u3064 +++$+++ m201 +++$+++ CANDY +++$+++ To be honest, when I'm working, I don't look at faces much. He knew the guy's name.
+L562600 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Besides that.
+L562599 +++$+++ u3064 +++$+++ m201 +++$+++ CANDY +++$+++ Um... he was older.
+L562598 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Was this him?
+L562506 +++$+++ u3065 +++$+++ m201 +++$+++ DAITZ +++$+++ Of course. He knows everything about Dick Low.
+L562505 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Does Koessler know about the Suspect Zero theory?
+L562502 +++$+++ u3065 +++$+++ m201 +++$+++ DAITZ +++$+++ You got that right. Low became obsessed with the Green River murders, the case had been inactive for ten years at that point. He argued the Green River Killer had actually become Suspect Zero, this master murderer who killed without pattern, killed literally hundreds of victims -- male, female, old, young, straight, gay -- and who was still killing, even though there were no bodies. It went against everything we knew. Low became increasingly paranoid. Every suspect was potentially Suspect Zero. Anybody tried to talk sense into him, he'd accuse them of being out to get him. Deputy Director Koessler was "out to get him." The decision was made to relieve him.
+L562501 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Pacific Northwest is a hotbed for serials.
+L562500 +++$+++ u3065 +++$+++ m201 +++$+++ DAITZ +++$+++ ...well, there was some friction: I wanted to write up my work, educate the public, but Koessler wouldn't allow it. Low felt Koessler was more interested in career advancement than catching killers. Koessler had Low reassigned to the Pacific Northwest, Seattle. You know when they say, stick it where the sun don't shine? That's where they stuck Dick Low.
+L562499 +++$+++ u3065 +++$+++ m201 +++$+++ DAITZ +++$+++ Before your time. It was Richard Low's brainchild, or, lack-of-brain child. The Behavioral Sciences Unit at Quantico is essentially the product of three men: David Koessler, Dick Low and myself. Low was a field agent, Koessler administrative, I was teaching criminology. Low came up with the concept of a serial killer's signature. He invented profiling. Everything we know about profiling started with Richard Low...
+L562498 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ No.
+L562497 +++$+++ u3065 +++$+++ m201 +++$+++ DAITZ +++$+++ Zorro. Yes, ran it through my files, even asked around: came up completely blank. Thought there might be a Mexico connection, El Paso and all, but nothing. Fooled around with the letter "Z," turned it on it's side, got "N" -- there Ng, he's Vietnamese. The only thing that came to mind was zero, not Zorro. Remember Suspect Zero?
+L562496 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Have you had a chance to think about --
+L562262 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ The diner?
+L562261 +++$+++ u3066 +++$+++ m201 +++$+++ DUNCAN +++$+++ No, sir.
+L562260 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Anybody talk to the press?
+L562259 +++$+++ u3066 +++$+++ m201 +++$+++ DUNCAN +++$+++ Just mopping up. Nine bodies in all.
+L562258 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Agents Duncan, Mackelway.  Anything new?
+L562221 +++$+++ u3066 +++$+++ m201 +++$+++ DUNCAN +++$+++ I'm babysitting the DEA guys this afternoon, Casio and I. You said that was top priority.
+L562220 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Agent Duncan, there's an interstate issue up on 54, run out there.
+L562200 +++$+++ u3066 +++$+++ m201 +++$+++ DUNCAN +++$+++ Yeah.
+L562199 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Takes four days to chill, then its time to come back.  Is that...?
+L562198 +++$+++ u3066 +++$+++ m201 +++$+++ DUNCAN +++$+++ Welcome back, sir. How was the vacation?
+L562812 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ Winona.
+L562811 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I want the autopsy report, where is it, Minnesota?
+L562810 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ She's buried.
+L562809 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ You have the body?
+L562808 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ Her body turned up. In a Minnesota cemetery. They brought her back.
+L562807 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ What?
+L562806 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ You heard?
+L562805 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I want to talk about the Karen Sumpter case.
+L562804 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ Hi there.
+L562803 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Sheriff Dylan, this is FBI Agent Thomas Mackelway. Remember me?
+L562802 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ Dylan here.
+L562389 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ Got a sister like this, what they call it, anal? That's her.
+L562388 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Tape it off, we'll want to fine-tooth- comb it. My guess is that the UNSUB is having us on. He checks in, pays, picks up the key, but never walks inside. Tell me if I'm wrong.
+L562387 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ Show's over, boys. Nobody home.
+L562385 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ And it's getting dark. I'm not going to run this into the night.  Eddie, we're walking in. Everything covered?
+L562384 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ The room key's in the car. On the seat.
+L562382 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Let's take a look.
+L562381 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ I sent a female in. The room in question was rented by an Anglo, cash; since then, nothing -- no activity, no phone response.
+L562380 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ What does the Manager say?
+L562379 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ Down the road a piece is the Golden Sunset, the no-tell motel, Socorro's contribution to international relations. The car's just sitting there, no activity. I've had a couple Hispanic officers casing it all day. Want to take a look?
+L562378 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Hey, Sheriff.
+L562377 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I'm on my way.
+L562376 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ No bad news. You know the Be On the LookOut you asked me to send on the diner car -- we got a hit on it. A little town on the border, Socorro. We got it staked out -- you interested?
+L562375 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ You tell me.
+L562374 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ What's the bad news?
+L562373 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Oh Jesus, Sheriff, I am sorry. I meant to call you -- I got distracted -- the Sumpter girl was not one of Speck's victims. That's the good news.
+L562372 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ Mack, this is Sheriff Dylan.
+L562371 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Agent Mackelway.
+L562296 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ I just assumed she ran away. Happens a lot around here. Look around. This place is an invitation to run away.
+L562295 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ This isn't in our database?
+L562294 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ Who knows.
+L562293 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ You're thinking...?
+L562292 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ Her name is Karen Sumpter, from near Dell City. Just disappeared a couple weeks back. Vanished.
+L562291 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ I know how the Feds like to sit on information. I got something in the car to show you.
+L562290 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I'd appreciate it if you kept this to yourself.
+L562289 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ Nine bodies in Roswell, now this -- it's getting a little hairy, huh?
+L562280 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ That's right, Jan.
+L562279 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I hope that wasn't a joke because I can assure you, from personal experience, the FBI does not have a sense of humor.
+L562243 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ Ten miles back on the Texas side.
+L562242 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Where's the Nuevo American Diner?
+L562230 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ Well, the victim was killed at the turn-around over there, then his car was pushed over here...  ...right across the state line. That makes it Federal. This is Officer Wallace, he's out of Alamogordo.
+L562229 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Excuse me, a salesman gets done in his car and you call the FBI?
+L562228 +++$+++ u3067 +++$+++ m201 +++$+++ DYLAN +++$+++ Fella's name is Harold Speck, travelin' man out of Roswell.
+L562227 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ You run the plates?
+L562844 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ We need to run this through VICAP, search for similar burns.
+L562843 +++$+++ u3068 +++$+++ m201 +++$+++ EAGLEFOOT +++$+++ A grill pattern.
+L562842 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Turn the body over. There was something in the autopsy report, yes, here.  These burn marks.
+L562841 +++$+++ u3068 +++$+++ m201 +++$+++ EAGLEFOOT +++$+++ The body was embalmed. I don't understand --
+L562840 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I'm sorry. This won't take long.
+L562839 +++$+++ u3068 +++$+++ m201 +++$+++ EAGLEFOOT +++$+++ The family has gone through a lot. Their daughter missing, the search, her body found, the funeral -- then this order to exhume the corpse.
+L562313 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ That's the thing. Don't know if it connects, but Harold here had a thing about eyes. Two of the victims had their eyes gouged out, another punctured. Took polaroids after.
+L562312 +++$+++ u3068 +++$+++ m201 +++$+++ EAGLEFOOT +++$+++ Ripped off. By hand, my guess. Perimortal: victim was alive at the time, there's blood on his throat.
+L562306 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ This is Agent Mackelway.
+L562305 +++$+++ u3068 +++$+++ m201 +++$+++ EAGLEFOOT +++$+++ Be my guest, Agent Kulok, scrub suits are in the back.
+L562300 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ I appreciate it, doctor. You know how it is, press screaming for answers, Washington's all over me.  Ever handle a serial case?
+L562299 +++$+++ u3068 +++$+++ m201 +++$+++ EAGLEFOOT +++$+++ We had to bring staff in from the whole county to handle this.
+L562298 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ I'm not in the mood for Native American wisdom.
+L562297 +++$+++ u3068 +++$+++ m201 +++$+++ EAGLEFOOT +++$+++ Ligature strangulation, just like his victims. A cord, nylon, you can tell by the indentation signature -- again, like his victims.  Look at that little thing and look at all the trouble it got him in. Should have cut it off.
+L562880 +++$+++ u3078 +++$+++ m201 +++$+++ ZERO +++$+++ Not as much as you'd think.
+L562879 +++$+++ u3069 +++$+++ m201 +++$+++ FOREMAN +++$+++ Oh yes, I see. You must get asked this a lot.
+L562878 +++$+++ u3078 +++$+++ m201 +++$+++ ZERO +++$+++ It's been customized for sleeping capacity.
+L562877 +++$+++ u3069 +++$+++ m201 +++$+++ FOREMAN +++$+++ You can't imagine how many men have told me that.
+L562876 +++$+++ u3078 +++$+++ m201 +++$+++ ZERO +++$+++ Mam, it's my truck. I know my own capacity.
+L562875 +++$+++ u3069 +++$+++ m201 +++$+++ FOREMAN +++$+++ I have 6 tons.
+L562874 +++$+++ u3078 +++$+++ m201 +++$+++ ZERO +++$+++ Not a discrepancy, an error. My capacity is 5.5 tons, not 6.
+L562873 +++$+++ u3069 +++$+++ m201 +++$+++ FOREMAN +++$+++ There seems to be a discrepancy.
+L562196 +++$+++ u3070 +++$+++ m201 +++$+++ HAROLD +++$+++ Why me? What do you want from me!?
+L562195 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ I've been looking for you.
+L562192 +++$+++ u3070 +++$+++ m201 +++$+++ HAROLD +++$+++ What do you want from me?
+L562191 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ You're going to miss it. Pay attention.
+L562190 +++$+++ u3070 +++$+++ m201 +++$+++ HAROLD +++$+++ Oh God, mister, please leave me alone.
+L562189 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Calm down, Harold.  Okay, here's what we're going to do, Harold: there's a pull off up ahead, we're going to stop there.
+L562186 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ What's wrong with me?
+L562185 +++$+++ u3070 +++$+++ m201 +++$+++ HAROLD +++$+++ You're a... you're sick.
+L562184 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Not bad, huh?
+L562183 +++$+++ u3070 +++$+++ m201 +++$+++ HAROLD +++$+++ My God.
+L562181 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Take a look, Harold. Tell me if you see anything you want. You do like to look, don't you?
+L562180 +++$+++ u3070 +++$+++ m201 +++$+++ HAROLD +++$+++ Look, mister...
+L562179 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Fucking. I'm talking about fucking, Harold. You ever think of fucking other women?
+L562178 +++$+++ u3070 +++$+++ m201 +++$+++ HAROLD +++$+++ What are you...?
+L562177 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ You know, you ever think about other women?
+L562176 +++$+++ u3070 +++$+++ m201 +++$+++ HAROLD +++$+++ Excuse me?
+L562175 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ You must get lonely. You ever think about, you know... 
+L562174 +++$+++ u3070 +++$+++ m201 +++$+++ HAROLD +++$+++ Look...
+L562173 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ About your being away all the time. Must get lonely.
+L562172 +++$+++ u3070 +++$+++ m201 +++$+++ HAROLD +++$+++ What?
+L562171 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Just gettin' a jolt of java before headin' on home?  How does your wife feel about it?
+L562170 +++$+++ u3070 +++$+++ m201 +++$+++ HAROLD +++$+++ I don't mean to be rude, but...
+L562169 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Whole country or just hereabouts?
+L562168 +++$+++ u3070 +++$+++ m201 +++$+++ HAROLD +++$+++ Yeah.
+L562167 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ You must travel a lot, huh?
+L562166 +++$+++ u3070 +++$+++ m201 +++$+++ HAROLD +++$+++ Ah... restaurant supplies. I didn't get your name.
+L562165 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Sorry. I've seen you in here. Always lugging that case around.  Whatja sell?
+L562164 +++$+++ u3070 +++$+++ m201 +++$+++ HAROLD +++$+++ You... surprised me.
+L562163 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Hi. What's in the case?
+L562162 +++$+++ u3070 +++$+++ m201 +++$+++ HAROLD +++$+++ Jesus.
+L562286 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Put a BOLO out on that.
+L562285 +++$+++ u3071 +++$+++ m201 +++$+++ JANITA +++$+++ An old junker. Like a reservation car. Blue, side door with brown, you know, primer paint. New Mexico plates. A Ford or ah, yeah, a Ford.
+L562284 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ What kind?
+L562283 +++$+++ u3071 +++$+++ m201 +++$+++ JANITA +++$+++ There was a car in the lot when we closed. Gone today.
+L562282 +++$+++ u3071 +++$+++ m201 +++$+++ JANITA +++$+++ It's been wiped down a hundred times since then.
+L562281 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ He was sitting here?
+L562278 +++$+++ u3071 +++$+++ m201 +++$+++ JANITA +++$+++ He had an orange hat on.
+L562277 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ How did you know he was a construction worker?
+L562276 +++$+++ u3071 +++$+++ m201 +++$+++ JANITA +++$+++ I didn't wait on him. Fifty or so, white, regular build, needed a shave -- that's all I remember.
+L562275 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ What did he look like?
+L562274 +++$+++ u3071 +++$+++ m201 +++$+++ JANITA +++$+++ Yes.
+L562273 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ The man who was with him, he was a construction worker?
+L562416 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ This could all be a coincidence, but, you know something, I don't believe in coincidences. That's why I came back.  Do you think the UNSUB -- we're not going to mention the word Zorro -- met Harold Speck online?
+L562415 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Just hospital talk. Nothing that connects to Speck.
+L562414 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Don't say that. Don't even think that. The next thing we'll be hearing about "Zorro Killer" in the media -- this hasn't gotten out, has it?
+L562413 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Maybe something to do with Zorro.
+L562412 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ He said it was a clue?
+L562316 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Let's take a look at it.  Drop off my stuff at the hotel after you're done here.
+L562315 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ At the field office.
+L562314 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ You have the photo from the diner?
+L562311 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ What's with the eyelids?
+L562310 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Nada. Vague description, that's all. Fine-tooth-combed Speck's car, the diner: no fingerprints, no trace evidence.
+L562309 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ What about his killer?
+L562308 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Speck's the killer all right. We got box loads of evidence. Did 'em all the same way: torture, strangulation. Prostitutes. I don't think we'll be able to write off any outstandings on him -- this is probably the full body count.
+L562950 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Just step outside, sir. Now. Keep your hands where I can see them.
+L562949 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Mackelway, I could understand. He is over-emotional by nature, but you, Agent Kulok, you had a shining career in front of you.
+L562948 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Please.
+L562947 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ What are you doing?
+L562946 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Deputy Director, get out, sir.
+L562596 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Serial killer killed. In Ft. Myers. Cut up in his van. And this time we got a witness.
+L562595 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Another what?
+L562594 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ We have another one.
+L562593 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ What?
+L562592 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Sorry to interrupt you, sir, but I thought you'd like to know.
+L562345 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Smarter than us.
+L562344 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Maybe cause he's smart.
+L562343 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ We didn't know Speck was a serial, the police didn't know, his wife didn't know -- so how did the killer know?
+L562304 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Just an observer.
+L562303 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Chuck, hello.  This is Agent Kulok. She has a background in medical forensics.
+L562904 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ You're as crazy as he is! He's right! You don't give a damn about saving lives at all! Fuck you!
+L562903 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Dick Low's a killer too.
+L562902 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ There's a killer out there -- we know who he is. He could be stalking now.
+L562901 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Hawkins isn't the target, Richard Low's the target.
+L562900 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ What about Zero, Darryl Hawkins?
+L562899 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ We'll wait. Get online with Low, inform him of Zero's route -- we'll set a trap for him.
+L562898 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I can't. The chat room isn't open for another five days.
+L562897 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Have you told Richard Low about Amarillo?
+L562896 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I need to get to Amarillo immediately.
+L562895 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ He's got you believing in Zero now too.
+L562747 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ As far as the public knows, Richard Low is dead. And he will stay dead until we kill him.
+L562746 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I understand.
+L562745 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Watch out for Dick Low, he's a liar; he has his own world. There was a Junior Agent in Seattle, not unlike you, an Agent who fell under Dick's spell. He'd have done anything for Agent Low. Richard got this Agent to take a suspect to the crime scene, beat him up, force a confession -- all unauthorized, all illegal.  The Agent died that night, killed by the suspect. Richard Low got him killed. Worst of all, we had to hush it up, let the suspect go. The suspect was George Sheldon, the second man Richard killed.
+L562744 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ In Ft. Myers before your instruction. Nowhere else, sir.
+L562743 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ There was talk of a file photo.
+L562742 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I didn't use Low's name.
+L562741 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ That breaks my confidentiality stipulation.
+L562740 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I was looking for a pattern.
+L562739 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ I'm told you've asked for a Bureau cross-check of flight records to and from El Paso, Ft. Myers, Omaha, the Murman murder time frames.
+L562738 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ An oversight, sir, I apologize. I felt I needed to get away for a day. The pressure. Paid for my own ticket.
+L562737 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ You didn't tell anyone where you were?
+L562736 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I was visiting an old college friend.
+L562735 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Why did you go to Chicago?
+L562625 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ I want to catch Dick Low, more than you can imagine, but I cannot risk going public. What happens when the media finds out that a former FBI Special Agent, a founder of the Behavioral Sciences Unit, is not dead, but instead alive and killing people, not ordinary people, but, even worse, serial killers, making him some sort of white knight vigilante?  You keep at it. We'll find him, we'll find him in our own way.
+L562624 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Huh?, sir.
+L562623 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ How do you send out an APB on a dead man?
+L562622 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ We need to put out an NCIC inquiry.
+L562621 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ We're waiting for trace evidence results on the Rice killing.
+L562618 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Collected shoes too?
+L562617 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I got a look in Testa's computer. His screen name was "Imelda." Have to give him that, had a sense of humor.
+L562591 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ It was neither a valid concept nor a valid fact. Suspect Zero came to represent every killer Dick Low had not caught. The idea took root in his head like a wild irrational vine. For someone like Low, there would always be a Suspect Zero. We couldn't let Richard go where that idea was taking him.
+L562590 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ What did you think of the Suspect Zero theory?
+L562589 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ I suspected, but you were the one Low contacted. That's why I brought you back here.
+L562588 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ You knew the arm slash was not "Zorro."
+L562587 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Both in the last year. I suspected only someone as brilliant as Dick Low could find these guys.  Look, whatever Daitz told you, nobody wanted to strip Richard of his badge. You have to get close to be good at what he did, the trick is not to get too close.
+L562586 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ How long ago?
+L562585 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Dunlevy said there was another case, Ron Rice. In fact, there were two earlier cases where serials were murdered. The second was George Sheldon. I didn't enter it into VICAP -- I'll get you the file.
+L562584 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ You suspected all along, suspected he was alive. That's why you came to El Paso.
+L562583 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ We had every reason to believe he was on that plane. He was supposed to be on the plane. Everything was incinerated, it was two weeks before we reached the crash site. We, the Director and I, decided it was in everyone's best interest to declare Dick Low dead. That way he could exit a hero.
+L562582 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ "Was?"
+L562581 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ That gasbag. I can imagine what he said. I'm not ashamed to admit that most of what I know about criminal profiling started with Richard Low. I have also, over the years, I admit, taken credit for many of his accomplishments. He was the most brilliant law enforcement individual I ever met.
+L562580 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I spoke with Lloyd Daitz.
+L562579 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ "Murman" was the alter identity of William Heirens, the original "Catch Me Before I Kill Again" killer. Short for "Murder Man." It was the case that got Richard Low and I started in this field.
+L562558 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Mack the Mouth at a loss for words.
+L562557 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I'm hesitant to...
+L562556 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ I don't believe this.
+L562555 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Nothing concrete. Nothing I'd... well, nothing.
+L562547 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Okay, Harold Speck: who goes first?
+L562546 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Had trouble sleeping last night, sir.
+L562545 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ You feeling okay, Agent Mackelway?
+L562428 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ They like my stories. They like the way I think. They're into fantasy. I turn them on.
+L562427 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ I always meant to ask, what is it that makes you so special? Why is it you have this special rapport with multiple killers? Why you?
+L562426 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ What I do requires confidentiality.
+L562425 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ I'll take it into consideration.
+L562424 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ If my Reporting Agent could be someone outside Computer Crimes, perhaps Agent Kulok?
+L562423 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ You didn't like anyone looking over your shoulder -- why was that? What were you doing?
+L562422 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ This time, sir, if I may be so bold, would it be possible to set up my equipment outside CIIAC, perhaps in military housing at Quantico? I didn't get along very well with the other members of the Division. We thought differently.
+L562421 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Agent Mackelway, you're going to get your wish. You're going back to Washington. I want you back in Computer Crimes. Fire up those chat rooms.
+L562410 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Go ahead.
+L562409 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ The cut on your arm -- mind if we remove the bandage?
+L562405 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ No, just coincidence. He knew who I was, of course. He had my ID -- did he keep it?
+L562404 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Do you think he singled you out?
+L562403 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ He got away. I had him. He got away.
+L562402 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Agent Kulok and I were in O'Hare when we heard.
+L562401 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Pretty embarrassed, to be honest. I had him.
+L562400 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ How do you feel, Agent
+L562369 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Then why do I still have a badge?
+L562368 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Its called insubordination.
+L562367 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I was lucky to find, much less crack, the address code -- no way to be sure I could have done it again.
+L562366 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ You refused to comply with a direct order.
+L562365 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Let some by-the-book J. Edgar Agents go into the chat room, spook these guys with stupid questions, blow my cover? -- no way.
+L562364 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ The Federal Bureau of Investigation is not based on personal preference. We share information.
+L562363 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I had gotten their trust. We were sharing fantasies. I couldn't risk it.
+L562362 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ I might point out, Agent Mackelway, the reason we haven't been able to crack those rooms is that you refused to share that information with us -- which is also why you were reassigned.
+L562361 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ They don't know how to crack these secret chat rooms --
+L562360 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ I'll relay this to CIIAC.
+L562353 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ MyDick.
+L562352 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ From the grave?
+L562351 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Speck. Harold Speck.
+L562350 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Who?
+L562349 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I think I talked to him.
+L562347 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ This better be important.
+L562346 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Look, sorry. Don't say a word.  I know this is improper. I've been trying to speak with Deputy Director Koessler. I left a message. I must speak with you before you go back to Washington.
+L562945 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ You have to save this boy. Good exists in this world. I can prove it because you can, in your life, save this one person.
+L562944 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Shut the fuck up or I'll shut you up.
+L562943 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Agent Kulok, that boy, as we speak, is in Hawkins' truck, probably still alive, in a dark refrigerated compartment, shivering in just a T- shirt: put yourself in his mind, freezing, terrified, wanting his mother. Put yourself in his mother's place, desperate, imagining the worst is happening as she pleads, back there at the rest stop, for someone, anyone, to listen to her. This is not hypothetical, this is real. It is happening now and you can do something about it.
+L562942 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Listen to this guy? Can you believe this? He'll never change. Born a liar, first word out of his mouth was a lie. Make up a story, always a story, any goddamn story, to save his ass.
+L562941 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ When I was at the rest stop, there was a young boy, maybe ten, and his mother. Darryl Hawkins, Zero, abducted the boy in the men's room. I tried to stop him. He cold-cocked me --
+L562937 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Suspect Zero, now there's an idea that doesn't look good on paper --
+L562936 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ You are so fucked up.
+L562935 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ How did a girl like me end up in a place like this?  The Deputy Director here, he believes in Tough Love. A cop's cop. Shape up or ship out, righto? Agent Kulok, when you get a chance you might want to check the victims of the recent serials. You'll find that some of them have been credited to other killers, some years ago. That's a Dave Koessler trick, find a pliant sociopath, preferably a dead one, attribute to him unsolved cases, clean up the backlog-looks great in the yearly report.
+L562934 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ You're a disgrace to law enforcement, to the Bureau -- and to me.
+L562933 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ You better hope the Director doesn't stop abruptly one day, David, you might break your nose.
+L562932 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Don't you touch him.
+L562926 +++$+++ u3072 +++$+++ m201 +++$+++ KOESSLER +++$+++ Thank you, Rangers.  Put this man in the unmarked.
+L562925 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Miss me, Dave?
+L562907 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I'm going to Amarillo.
+L562906 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ What happened?
+L562872 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Get the routes of all refrigerated trucks over the last ten years. We've got three disappearance cities and dates, three parallel discovery cities. Get into the mainframe, let it crunch this information.
+L562871 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ How are we going to find him?
+L562870 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Zero abducts victims all over the country, kills them, keeps them refrigerated for days, weeks, even months, then buries them hundreds, thousands of miles away. Karen Sumpter was buried, washed up in a flood. Evans was buried. When we get Zero, we'll find boneyards all across the country.
+L562869 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ It's a truck. A refrigerated truck.
+L562868 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Jaime --
+L562867 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I've got to take a piss.
+L562866 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ I...
+L562865 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I haven't changed anything.  Damn.
+L562863 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ But it was your idea: "use Zero," you said, use Zero to get Low.
+L562862 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ You're assigned, we're assigned, to apprehend Richard Low, not Suspect Zero. I have to tell you, Mack, I'm not comfortable where you're going.
+L562861 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ That's what Koessler wants us to believe. To discredit Low.
+L562860 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Suspect Zero is a crackpot theory. You said so.
+L562859 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Low calls him Suspect Zero.
+L562858 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ All the same killer?
+L562857 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Burn marks. The original M.E. listed it as "burn residue." Same place, the outer thigh, as Karen Sumpter. The UNSUB is able to abduct, kill, transport and bury without detection.
+L562856 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ It's quite advanced.
+L562853 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ What's going on?
+L562852 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Yeah, of course.
+L562851 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ You okay?
+L562850 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Hardly anyone calls me Tom. Everybody calls me Mack. I always liked that.
+L562849 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Tom, you okay?
+L562848 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Could be a lot of things. Depends on the freezer.  I'm sorry, Mack, but I don't think this is the answer.
+L562847 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ But why this pattern?
+L562832 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Mack, I'm just trying to keep up with now.
+L562831 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Jaime, do you think, when this is all over, when we're in different divisions, you think maybe you and me, we could try again?
+L562830 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I got an autopsy report from El Paso that doesn't seem right. A girl on Low's list. Karen Sumpter. We're getting a court order to exhume to body. I'd like you to come and look at it.  Don't worry, I've cleared it.
+L562829 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ You're putting me in a difficult position.
+L562828 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ They say Richard Low is wrong, but because of him, women, innocent women, are alive who would be dead.
+L562827 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ It's okay to be wrong, just don't be dead wrong.
+L562826 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ It's too late for that. I've gone ahead of the curve on this one. There's no turning back. When this is over, Koessler is going to be right or Low is going to be right or I'm going to be right, but not all of us.
+L562825 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ I'd be real careful if I were you.
+L562824 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I've decided to investigate Low's plane crash. While I'm at it, I thought I'd look at the cases Koessler worked with Low.
+L562823 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Koessler doesn't know any of this?
+L562822 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Probably. I told him Koessler had ordered the report, kept it secret.
+L562821 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Does one exist?
+L562820 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I need something tangible. To hook him. I told him I'd found the confidential file on the Suspect Zero theory.
+L562819 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ And you're working with him?
+L562818 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ You were right. He found me.
+L562817 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Slow down a second, you met with Low --
+L562816 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I met with Richard Low.  These are names of missing persons he has flagged. I'm double-checking every case, but I don't want to be too obvious about it. I marked the ones I'd like you to work on.
+L562815 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ What's going on?
+L562814 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I guess I'm a little paranoid.
+L562813 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ This feels like something out of a spy novel.
+L562714 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ But he believes in it. That's all that matters. He toyed with you, you toy with him. Convince him you've got a lead on Suspect Zero. Use Zero, you'll find Low.
+L562713 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ That's a crackpot theory. Everybody says so.
+L562712 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Suspect Zero.
+L562711 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Start killing people for real?
+L562710 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ You want to get him? Find something he wants. Get him to come to you.
+L562709 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ My watch. He toyed with me. He sent me to Chicago.
+L562696 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ I'm in Omaha. Get to the airport. There's been another one.
+L562695 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ What's up?
+L562694 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Where are you? Everybody's looking for you.
+L562693 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Jaime? Where are you?
+L562692 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Hello?
+L562657 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ I just need to go a little slow.
+L562656 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Don't confuse what we do with who we are.
+L562655 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ That's my point. Remember, you're a cop pretending to be a deviant. It's not the other way around.
+L562654 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Not the way I can.
+L562653 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ And nobody else can do that?
+L562652 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I found a peephole into Deviant World. I'm gonna reach in and yank some of those creeps out.
+L562651 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ You need time to think. About the case, about you and me.
+L562650 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ What's that?
+L562649 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Then there's the other issue.
+L562648 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ That's true.
+L562647 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ There's the Agency issue. I think Koessler may suspect something already. We're not on the best footing with him as it is.
+L562646 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Oh.
+L562645 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ No, I mean maybe we should back off a bit, you and me.
+L562644 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I can't. They trust me, they accept me. I've got their confidence.
+L562643 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Maybe we should back off a bit.
+L562642 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ You did.
+L562641 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ I came over because I couldn't sleep and was lonely. I wanted to see you. I thought I'd surprise you.
+L562640 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ No, Jaime, I apologize. I didn't... I had no right to speak to you like that.
+L562639 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Mack, I'm sorry. I apologize. I should have called. I had no right to sneak in on you like that.
+L562620 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Murman and Imelda had been slipping into a private chat room. Low had poor old Testa drooling on the keyboard. Abduction fantasies, voyeurism, mutilation, teasing him with fetish elements. He is very good. I think it's safe to say Richard Low is Murman.
+L562619 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ You should have seen the store manager at Parade of Shoes. She was inconsolable.
+L562615 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Not yet. This time they're waiting for you.
+L562614 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Did they disconnect Testa's computer?
+L562613 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ You found the body. She was one of Harold Speck's victims. In El Paso.  They're not just talking to each other, Mack, they're trading souvenirs.
+L562612 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ You mean --
+L562611 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Sue Ann Hanson.
+L562610 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ The tattoo?
+L562609 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ We're trying to match them with dump site bodies.  This we know is Carol Delview from Tampa, found her last Spring. This one --
+L562608 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Jesus.
+L562607 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ We did find these, however.
+L562606 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ We got an UNSUB walking around with four feet?
+L562605 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ No. Cut off while he was still alive, look at his wrists, damn near ripped his hands off trying to get free. Must have been screaming real loud when the killer chain-sawed his throat. Unfortunately, he'd soundproofed his van.
+L562604 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Find the feet?
+L562528 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Not yet. Not about this, either.
+L562527 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Not about coming to see Daitz?
+L562526 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Just routine stuff.
+L562525 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ What did you tell him?
+L562524 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ He's called a couple times.
+L562523 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Does Koessler ask about me?
+L562522 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ I've been thinking about this.
+L562521 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I know.
+L562520 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ It's a no-no.
+L562519 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ "Intra-Agency fraternizing."
+L562518 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ There are Agency regulations about this.
+L562517 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Oh yeah, I forgot.
+L562516 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Because you asked him to, stupid.
+L562515 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Why did Koessler assign you as my liaison?
+L562514 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ No, Mack, I do not think you're a square and definitely not a nerd.
+L562513 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ You must really think I'm a square, a computer nerd.
+L562512 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Of course he did. He came on to every attractive student. Which bothers you most: that he exploits suffering or that he came on to me?
+L562511 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ When you were his student? Did he come on to you?
+L562510 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Huh?
+L562509 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I saw him on a talk show once, talking about these killers like they were his friends. Not the victims, not the families of the victims, he doesn't talk about them. Blood money, that's what it is.  Did he hit on you?
+L562508 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Don't be too harsh.
+L562507 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I ever get like that, just take me out in back and shoot me.
+L562473 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ He's a consultant to a network TV program on Profilers. He gets a check every episode.
+L562472 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ That's because he's a fucking wacko. Never met a self-promotion scheme he didn't like. What's he doing now?
+L562471 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ I was thinking, maybe we should ask Professor Daitz. Nobody knows this stuff better.
+L562470 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ None. Can't find a thing. Nothing on file, nothing online. It's not a part of any known killer's signature.
+L562469 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Me too.  Make any headway with "Zorro"?
+L562468 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Every cop has a story and every story has a girl. The girl in my story was fifteen years-old. She wore a pink angora sweater -- I can still see it -- one day, she disappeared. I told the police she wouldn't run away, I told them who to look for, but I was just a kid. I sat in the police station crying and crying. My parents took me home. The girl was my cousin and the man who abducted her was a teacher I'd had. He kept her alive a week before he killed her. The police could have saved her. Every time I see a photo of a victim I see her. That's what I want to do. I want to save her.
+L562465 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ My guess: he's wondering whether to get more fries or go straight to the chocolate sundae.
+L562464 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Take it to the next level. What are his fantasies, what turns him on, what kind of pornography does he like? If he could act out his fantasies, what would he do? Imagine yourself one of his victims, realizing your life is in his hands. What is he thinking?
+L562463 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ What's this country coming to?
+L562462 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ He thinks he looks young.
+L562461 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Grown man dressed like a clown. Does he really think he looks good?
+L562460 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Look at this fellow... or this one.
+L562458 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Sex.
+L562457 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ What's that?
+L562456 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ And one other thing.
+L562455 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I was interested in two things: computers and crime. They sort of came together.
+L562454 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ I was going to be a physician, I am a physician, but I kept drifting over to criminal psych. This seems to be the best of both. My parents still haven't forgiven me.
+L562453 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ People end up in occupations for a reason. They may think not, but they do: occupations define us.
+L562452 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ You got a point there.
+L562451 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Taking a Stryker saw, cutting off the top of someone's cranium, pulling the brain out -- what's that, a day in Spring?
+L562450 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ This is some serious shit.
+L562449 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Chat jargon for moving from fantasy to real victims: "I went live last month."
+L562448 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ "Gone live?"
+L562447 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ No, no, no, most of them -- I used to think all of them -- are just fantasists, guys who get off telling degrading stories. When I came across this fugitive chat room, listened in, I started to think some might actually be real, that they'd gone live. The challenge was to figure out which was which. Then I had my disagreement with Koessler.
+L562446 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ They're all criminals?
+L562445 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Working the net isn't that different from ordinary undercover work. You go into the community, walk their walk, talk their talk, gain their confidence.
+L562444 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ You want to have dinner?
+L562443 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ The other reason?
+L562442 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ That's part of the reason I dropped by. I need to learn this stuff.
+L562441 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ That's the beauty of the system. This is a fugitive chat room. It moves from place to place, chat rooms that are normally empty at certain hours: a gardening website, Chaucer buffs, a dating service. A pre- arranged code shows up in one of fifty porn rooms -- that's where I stumbled across it -- notifying "friends" to meet at a certain time, usually midnight to three Eastern Standard, at a certain website -- a deserted chat room, say, "How to Plant Perennials." Come Tuesday, twelve a.m., bingo, these like-minded deviates log on and start yakking it up: explicit sex crime gossip, who did what to whom, who wants to do what, when, why and how.
+L562440 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ What about the chat rooms themselves?
+L562439 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Setting up. Technically, anyone in a chat room can be traced back to a screen address. But, by using punters, a correspondent literally punts his address around the world, through computers in countries that have no communication treaties. The correspondent becomes "ghosted," invisible.
+L562438 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Don't even go there. What's up?
+L562437 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ The man knew how to dress.
+L562436 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Relax.  J. Edgar's greatest fear: a female with a badge.
+L562418 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ It explains a lot.
+L562417 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Yes I do.
+L562408 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Where's my watch? It's gone.
+L562407 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Some kids found you in a garbage dump.
+L562336 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ A very sexy case.
+L562335 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ That information's being withheld from the media.
+L562334 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ And who kills in the manner of his victim.
+L562333 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ This is no random killing, no one shot deal. The UNSUB has killed before; he's good at it. So what do we have?  We have someone who has killed before who kills someone who kills: a serial killer of a serial killer -- and who wants the FBI to know he exists.
+L562332 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Doesn't fit.
+L562331 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Yeah, you know the vic's car, he was killed this side of the state line, the car then pushed across the border. This by an Unknown Subject, presumably the killer, who left no fucking evidence except the snapshot, which may or may not have been accidental.
+L562330 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ This is a sexy case.
+L562329 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Beats me. He just asked me to come along, double-check the forensics.  What did you do to piss him off?
+L562328 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Why did he come out here? What's going on?
+L562327 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Not especially.
+L562326 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ You work with Koessler?
+L562325 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Five months. I love it.
+L562324 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ How long have you been downtown?
+L562323 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ I read your white paper. It's sort of like the Bible for what they're trying to do in Computer Crime.
+L562322 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ The Academy, then CIIAC.
+L562321 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ You used to be in the Behavioral Science Unit, right?
+L562320 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Maybe I shouldn't put it that way. I'm on my best behavior. I've got to watch what I say.
+L562319 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ None taken.
+L562318 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ They sort of got me on shit detail, no offense.
+L562317 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Thanks for the ride.
+L562986 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ I'll be back.
+L562985 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Bitch! Cunt! Please, please, please don't do this, Agent Kulok. You need me.
+L562983 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Turn around. Stretch your arms over the seat.
+L562982 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ No weapon.
+L562981 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Okay, I'll unhook you. No weapon.
+L562963 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ I want to protect the boy. I also want to protect Suspect Zero -- from you.
+L562962 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Uncuff me. What's wrong with you? Don't you want to save the boy?
+L562961 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Of course he does. Now get the key, get these things off me.  Unhook me.
+L562960 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Mack must think Zero has a police band.
+L562955 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Sit back.
+L562954 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Unlock these cuffs.
+L562931 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Agent Kulok, could you wipe my face?
+L562930 +++$+++ u3073 +++$+++ m201 +++$+++ KULOK +++$+++ Kulok.
+L562929 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Agent...
+L562994 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Yeah.
+L562993 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Was it Zero?
+L562992 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ The boy's okay. I saw him...
+L562991 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Yeah.
+L562990 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Is he dead?
+L562799 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Yeah, problem was, I had the only copy. See ya.
+L562798 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ You? You went by the book?
+L562797 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ This guy, Zero, he drifts around, that's how they all start, drifting around, their minds filling up with fantasies. He thinks he's real smart, laughs at us, laughs at his victims. But he has left a trail, and the trail is somewhere in those names. You know how to reach me.  Take my advice, when dealing with these FBI tight-asses, go by the book. That's what I did.
+L562796 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Maybe you should back off.
+L562795 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ We're alike. We are hunters. We have the gift. It's ancient times all over again. We stand between order and chaos. I need help. I can't carry on alone.
+L562794 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Those were just fantasies.
+L562793 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ I know you, Lionheart. I watched your mind work, heard your dirty thoughts --
+L562792 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ It was the mall.
+L562791 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ You did. You were with her when she disappeared, right? She took you to the mall or the movies, you turn around and she's gone.
+L562790 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Who told you about her?
+L562789 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ If you won't do it for me, do it for your cousin, Nadine, right? The girl in the pink sweater.
+L562788 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I already have an employer.
+L562787 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ There's someone out there, Mack, I know, some man killing for the fun of it, sniffing human glue, without regard to age or sex, without predicable M.O. Someone who has a way to dispose of the bodies. You have access, you can call up local authorities, check morgues, conduct interviews. Be my man.
+L562786 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Please. You can't hide from me, sonny. I invented the questionnaire. I can tell those who talk from those who do it in the time it takes you to fart.
+L562785 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ You knew it was me all along?
+L562784 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ And who else did I find? Agent Thomas Mackelway, crackerjack FBI techie. I was greatly disappointed when you were re-assigned.
+L562783 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ How do you know who's real and who's not?
+L562782 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ After my hiatus, after I got my priorities readjusted, I drifted online, started tracking porn chat rooms, looking for Zero. Got accepted, came across these boys swapping stories, pictures, downloads. Never found Zero, but I did come across some Class A scumbags.
+L562781 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Daitz hinted it existed. It was a matter of forming the request in the proper terms.
+L562780 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Of course not. They're possibles. I've checked them against Bureau records, check them against your file. How did you get it?
+L562779 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Zero killed them all?
+L562778 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ It's my master list of missing persons: men, boys, girls, children over the last ten years. Two hundred and eighty-five names. A pool of possible victims.
+L562776 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ The file, however, was kept open after your death. NPE disappearances, No Plausible Explanation, were sometimes filed there, deleted if the bodies were found.
+L562775 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Hum a tune and I'll sing to it.
+L562774 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ "Agent Low's theory of Suspect Zero, the undetected serial killer, is delusional, the product of good intentions, paranoia and obsession..."
+L562773 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ You're a smart guy. Tell me what it says.
+L562772 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I don't carry it with me.
+L562771 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Was I afraid of Dave Koessler? Not likely. I told you, I'd gotten a bit obsessive. It was an opportunity to back off, think things through.  Where's the file?
+L562770 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ So you went underground?
+L562769 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Deputy Director Koessler opposed the theory because it meant pressing the legal envelope, risking high-profile failure. Better to get rid of me. Then he could be Mr. Serial Killer, Mr. Authority on Deviant Behavior -- no embarrassing questions about the contribution of one Richard Low. Do you really think that plane crashed by accident? Do you really think I wasn't on it by accident? I've always had a good sense of intuition.
+L562768 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Suspect Zero?
+L562767 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ I'm not sure, exactly. I had monsters on the brain. I wanted to get these guys, every one of them. I got obsessive.
+L562766 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ What was your weakness, sir?
+L562765 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ He always had a weakness in that area. I saw it the first time I met him. We all had our weaknesses, I guess. Daitz wanted the money. With Dave it was the glory. Koessler saw the Behavioral Sciences Unit as a stepping stone to bigger and better bureaucratic things. He had his eye on the Director's job, even then. Catching killers was a means to an end for them.
+L562764 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ He's moved on to TV.
+L562763 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ He couldn't break an egg with a hammer. He still writing those crime porn books?
+L562762 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I've been reading, hearing about you. I spoke to Koessler, Professor Daitz.
+L562761 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ How's the arm?
+L562760 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I believe it is you, sir, who has us jumping through hoops.
+L562759 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Dave Koessler must have you jumping through hoops.
+L562752 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ When you exit, head east on 10th.
+L562751 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Yes, sir.
+L562750 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ This is Richard Low. Stay on the phone. Do not disconnect. I'm watching you. I will instruct you where to drive.
+L562749 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Yes.
+L562748 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ Agent Mackelway?
+L562398 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ I'll give you a little hint. You're a smart guy, figure it out.
+L562397 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Who are you?
+L562396 +++$+++ u3074 +++$+++ m201 +++$+++ LOW +++$+++ The little piggie speaks.
+L562395 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ How did you know Speck was a killer?
+L562734 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [I don't think so. We want the same thing. See ya.]
+L562733 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Leave this room, I'll go back with you, blow your cover.
+L562732 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [And I want to go back to Needlepoint.]
+L562731 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I want to go live with you.
+L562730 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [What does the file say?]
+L562729 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ George Sheldon? The second serial killer killed in the manner of his killings. The crime scene profile was never entered into VICAP. At whose request? David Koessler.
+L562728 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [You tell me.]
+L562727 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Not everything is imputed to memory. The most confidential stuff is kept top secret hard copy. Why would the Zero file be kept secret?
+L562726 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [Don't jerk a jerk-off. There's nothing in the Bureau mainframe.]
+L562725 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I've located the Suspect Zero file. Did you know there was one? Koessler ordered it as part of your evaluation.
+L562724 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [Not the heart, the watch.]
+L562723 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I want to help you.
+L562722 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [Hello, Agent Mackelway. How's the watch? Maybe you can do one of those TV commercials, I found my watch under a serial killer's heart and it was still ticking.]
+L562721 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Let's talk about Zero.
+L562717 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Let's go someplace private, Murman, I have something for you.
+L562716 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [If you wanted a good steak, you should have gone to Omaha.]
+L562674 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [Ask for Leslie. Eight days from tonight, exactly one a.m. Be there if you dare. You cannot fool the Murman.]
+L562673 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Haven't had any, but I'm willing to try.
+L562672 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [The address is 147 South Rane. It's a lively address. You got a problem with dark meat?]
+L562671 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ If I owe, I will go.
+L562670 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [Not this way. Call it a little favor, call it a little thing I'm going to do for you. I'm going to make Chicago come alive for you. You'll owe me one.]
+L562669 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I've been to Chicago.
+L562667 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [Follow me.]
+L562666 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Lead the way, Murman.
+L562665 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [You want to talk, Lionheart, or you want to take this a little more personal?]
+L562659 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Something came up, Murman, my man.
+L562658 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [Lionheart, what happened?]
+L562532 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Whatever happened to MyDick?
+L562531 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [Reality very risky.]
+L562478 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Lionheart here. I'm back. Sorry about the absence. I had to do some therapy at the crossbar hotel.
+L562477 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [Fantasy time, girls, give it up, give it up.]
+L562894 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Perhaps you can explain it to him.  It's Agent Mackelway.
+L562893 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Deputy Director Koessler doesn't want Zero. All he cares about is Low.
+L562892 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ What is it exactly I don't understand, Agent Mackelway?
+L562891 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I don't think you understand.
+L562887 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ This man, Hawkins, has killed dozens of people. Suspect Zero.
+L562886 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Excuse me, Agent Mackelway?
+L562885 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Locate a jet, we're going to Amarillo.
+L562884 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Now, Mr. Hawkins, when last in Amarillo, where did you get gas?
+L562883 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ 350 miles.
+L562882 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ How far is Amarillo?
+L562420 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ He wants us to know he's out there, what he's doing. It's not enough just to kill somebody like Speck, he wants us to know he did it.
+L562419 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ But why attack an Agent?
+L562359 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I talked to him.
+L562358 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Speck is dead.
+L562357 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Eight, nine months ago. When I was at Computer Crime. I got into a chat room with someone named MyDick. I'd talked to him before. Everything I saw yesterday, everything in the autopsies, it's identical. The forensics are dead on. MyDick's fantasies involved a hog-tie rig, nylon cord, torture with pliers, rip the nipples -- when the "item" screams, she chokes. He had a thing about eyes, always the eyes -- stab their eyes. It's the same guy. Speck was MyDick.
+L562356 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ I don't...
+L562355 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ MyDick. As in my dick. That was his screen name.
+L562354 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ "MyDick?"
+L562302 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Hope you never do. At first it feels like a sauna, by the time you hit victim four it's a fucking burning shirt factory.
+L562301 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ No.
+L562266 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ The same.
+L562265 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Koessler?
+L562264 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ This case has sent bells and alarms ringing all the way to Washington. Your old boss is coming out.
+L562263 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Headed there now. The same shift will be on at noon.
+L562224 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Got a vehicle?  Head north on 54. When you get to New Mexico you've gone too far.
+L562223 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Yes, sir.
+L562222 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Agent Mackelway, you want to get off your ass and do something for a change?
+L562219 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Jesus, just what I need, another blue flamer.  Johnny, get this boy some sun screen.
+L562218 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I like working for the Bureau, sir. I like catching bad guys. It's all I care about.
+L562217 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ This is a first. You criticized the Deputy Director to his face and you still have a badge? You must have some one-of-a-kind skills.  Why don't you just quit? I mean, you're not going to get promoted, not wearing this jacket.
+L562216 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I wished to be reinstated at Computer Crimes. I was undiplomatic in my request.
+L562215 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ "Attitude Adjustment Issues" -- what the fuck is that supposed to mean?
+L562214 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Four hundred and sixty, sir.
+L562213 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ I see that. Washington to Philadelphia to here. Philly's a nice station. How many agents?
+L562212 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I screwed up twice, sir.
+L562211 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ "Computer Investigation and Infrastructure Assessment Center." Quantico out of MIT -- you're a techie?  Okay, you screwed up once. So did half the guys here. That's why they're here.
+L562210 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Sounds like fun.
+L562209 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Updating the condition of all Bureau- owned vehicles in the southwest sector, sir.
+L562208 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Hot enough for you, Agent Mackelway? Hell's doorknob. What they got you doing?
+L562207 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Thomas Mackelway.
+L562206 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Johnny, get this man's file. Mackelway, right?
+L562205 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I believe it's in my file, sir.
+L562204 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ What did you do to end up here?
+L562203 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Yes, sir.
+L562202 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ So you're the new meat?
+L562201 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Good morning, sir. Agent Salinas, sir.
+L562978 +++$+++ u3078 +++$+++ m201 +++$+++ ZERO +++$+++ Take your shirt off.
+L562977 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ It's over for you.
+L562976 +++$+++ u3078 +++$+++ m201 +++$+++ ZERO +++$+++ You want to "profile" me? Find out what makes me "tick"? Write about me, go on a talk show, give me a nickname?
+L562972 +++$+++ u3078 +++$+++ m201 +++$+++ ZERO +++$+++ Brilliant? You think he caught any of them because he was brilliant? Hardboy? MyDick? Imelda? Ripper? Think about it, how did he locate them?  He found them as Murman. And how did Murder Man find them? With sweet talk and brains? No. He did it with souvenirs. He took them into private rooms, swapped goodies: pictures, panties, jewelry, body parts. Snuff downloads. As bait. That's why I never exchanged with him. He killed girls, oh yeah, harvested them. He had the best stuff. Richard Low is Murman and Murman is one of us.
+L562971 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ He's a brilliant man. Brilliant enough to catch you.
+L562970 +++$+++ u3078 +++$+++ m201 +++$+++ ZERO +++$+++ Murman!
+L562969 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I'm Agent Thomas Mackelway, FBI. There is no way you will escape. Assistant Deputy Director Richard Low is en route with another Agent.  You may know Low by another name. You may know him by the name Murman. I am Lionheart.

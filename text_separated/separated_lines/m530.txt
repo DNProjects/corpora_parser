@@ -1,0 +1,521 @@
+L544517 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Saddle up, Roughnecks !
+L544456 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Yes, sir !
+L544455 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Mr. Barcalow, save power, don't waste it on workers... Ace, tell Aardvark we're on our way...
+L544408 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Down there on the flats, eh ? Listen up, Roughnecks ! Our primary objective is to assist our friends from the Fleet...
+L544407 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Got it. Fleet tactical wants to know where they can deploy the skimmers.
+L544406 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ We'll take this high ground. Lookouts there and therte and up there. If the bugs come upstairs in this neighbor-hood, we'll be the first to know.
+L544405 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ We're the old men, Ace.
+L544404 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ We got reinforced. Most of'em just got outa boot...
+L544323 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Not enough, I guess.
+L544322 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Jeez, we musta killed a million already...!
+L544205 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What about it, Diz ?
+L544204 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ No way. Big K taught me I ain't executive material.
+L544167 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Yeah, well, I hear he's a real nutbuster.
+L544166 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ He was our teacher... He was great.
+L544165 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Dizzy says you two knew this Rasczak character in Buenos Aires...
+L544113 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ I didn't see him !
+L544112 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Lieutenant's bought the farm. Where's the Sarge...?
+L544085 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Death to all bugs !
+L544084 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Mobile Infantery rules !
+L544082 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ YAAAAAAAA !
+L544081 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ No, this hurts.
+L544051 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What do I want with a scar ?
+L544050 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ I say we all go to the laser parlor and get cut together.
+L543907 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ You made squad leader on your own, and, hey, you still got me to kick around.
+L543906 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I joined up for her. I wouldn't even be here if it wasn't for her. I'm a fool.
+L543905 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Whad'ya talkin  about ?
+L543904 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ It's what I deserve.
+L543903 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Funny how they always want to be your friends after they kick your guts out.
+L543842 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Bye ! Write me ! I'm gonna kill you guys !
+L543841 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Our love will grow, dear, year by year...
+L543824 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Well, maybe you better look again.
+L543823 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Oh, yeah ? I don't see anyone else here with the chops to lead.
+L543822 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Wanting it doesn't make you the best one for the job.
+L543812 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ It isn't about rich... It's about who's best...!
+L543811 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ You rich kids... are all the same !
+L543810 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Something... I've got...you don't.
+L543809 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ What makes you think... you'll make... squad leader, Rico ?
+L543801 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Hey, don't laugh. Everyone oughta have a friend like me !
+L543800 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What an honor...
+L543799 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ You got some guts for a rich kid. I guess you and me could be buddies.
+L544019 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Sir, i know it was wrong. I didn't learn from one mistake and I made another, sir.  Sir, my family... my whole family was in Buenos Aires, sir.
+L544018 +++$+++ u7829 +++$+++ m530 +++$+++ C.O. +++$+++ Sorry, son. I can't do it. You signed the 1240/A. It would be illegal.
+L544017 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Sir, I wish to reconsider my request to drop out, sir.
+L543934 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Sir... I guess I do, sir.
+L543933 +++$+++ u7829 +++$+++ m530 +++$+++ C.O. +++$+++ Do you freely admit to the charges made against you ?
+L543930 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Sir, I needed everyone in my squad operational, sir... I... I wanted to win, sir.
+L543929 +++$+++ u7829 +++$+++ m530 +++$+++ C.O. +++$+++ Then why did you order your man to remove his helmet during a live fire exercise ?
+L543928 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Sir, no, sir.
+L543927 +++$+++ u7829 +++$+++ m530 +++$+++ C.O. +++$+++ Are you rated to repair a Marauder power suit, Rico ?
+L543926 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Sir, yes, sir. Breckinridge reported a helmet malfunction, and I asked him to show it to me, sir.
+L543925 +++$+++ u7829 +++$+++ m530 +++$+++ C.O. +++$+++ Rico, did you give the recruit permission to remove his helmet ?
+L544506 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ I can't... but like I told you, it's a number's game. The Federation needs all the pilots it can get...
+L544505 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ You always told me you couldn't do human...
+L544393 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I'll take it... until I get killed or you find someone better.
+L544392 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ I hear they need a new Lieutenant... Want the job ?
+L544391 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ The Roughnecks are always ready, sir.
+L544390 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ Hope you're ready for more. We're going back to P to capture that Brain.
+L544389 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Didn't they tell you, Colonel ? That's what cap troopres are good for.
+L544388 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ You don't approve. Well, too bad. We're in this for the species, boys and girls. It's simple numbers, they have more, and everyday I have to make decisions that send hundreds of people like you to their deaths.
+L544385 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ Elegant proof of intelligence, isn't it ? We thought there might be a brain on P.
+L544384 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Bugs laid a trap, didn't they ?
+L544383 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ Johnny, I'm sorry it had to be your unit on Planet P. That mission had a very low survival probability...
+L544378 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Dizzy wouldn't want our tears. She'd want us to remember her... with a vengeance. So go out and kill a bug for Dizzy. Kill as many as you can. You are her revenge, and every bug you kill honors her death.
+L544377 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ Please continue, Sergeant.
+L543706 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ I got Games & Theory.
+L543705 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I don't believe it !
+L543558 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ Love... how excruciatingly pathetic. Now try and pay attention.
+L543557 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ All I know is Carmen's going to be a citizen, and I don't think it'll work out for us if I'm not.
+L543556 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ If you can't do those numbers, you haven't got a chance.
+L543555 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Eight point... no, uh, seven...
+L543554 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ Only 1 in 14 male applicants make it through stellar navigation. So what do you think your chances are ?
+L543553 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I'm eighteen. It's my decision, I think I'd make a pretty good pilot. I've good great reflexes. You need that for maneuvering, you know.
+L543552 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ Your father will never let you.
+L543551 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I've been thinking about applying for Federal Service, too. Fleet, maybe.
+L543550 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ Passport to the Universe. Who wouldn't want that ?
+L543549 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Ten of clubs. You still gonna sign up for Starside R&D ?
+L543545 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ I gave him the impression that there was a fly crawling up my mom's leg. He is going to go eat it.
+L543544 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ How do you make him do that ?
+L543538 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ In addition to "psychic dolt" this test also proves I'm unlucky ? Two of hearts.
+L543537 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ Statistically speaking you should've accidentally guessed right by know.
+L543536 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Ace of spades.
+L543535 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ Don't think about it... go on instinct.
+L543499 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ You got it bad.
+L543498 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Yeah, but I want Carmen.
+L543497 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ Don't have to... Some mating semaphore is pretty hard to miss.
+L543496 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Did you read her mind ?
+L543495 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ Others are waiting.
+L543494 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What's the hurry ?
+L543493 +++$+++ u7830 +++$+++ m530 +++$+++ CARL +++$+++ You still haven't kissed her yet ? Don't lie.
+L544492 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Zander, no...!
+L544491 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Just giving you something to remember me by, baby.
+L544490 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Zander, what are you doing ?
+L544479 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Is it true ?
+L544478 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ It wasn't luck. Rico ignored the mission objective to rescue you...
+L544477 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ I thought I was dead. Lucky for me you jokers showed up, eh ?
+L544374 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ I do.
+L544373 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ I don't know, Zander.
+L544372 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ How do you feel about him now ?
+L544371 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Yeah.
+L544370 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ That girl who died on the way up ...his girl ?
+L544369 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ A funeral.
+L544368 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Where are you going ?
+L544162 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ You're upset, that's alright.
+L544161 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ No, I... Oh, Zander, I'm a fool.
+L544160 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Please, I... Everybody's lost someone by now. This shouldn't be any different...
+L544159 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ I'm sorry, Carmen.
+L544158 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Excuse me...!
+L544157 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Carmen...?
+L544155 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Hey, bugs don't take prisoners.
+L544154 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ No, funny there's almost no wounded at all.
+L544153 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ I'm not kidding. Marriage is -
+L544152 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Funny...
+L544151 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Fleet encourages marriages among flight officers. You'd probably get a promotion out of it.
+L544150 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ So who's got time to get married ?
+L544149 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ So ?
+L544148 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ There's a war on. I want a command, I want my own ship, you do, too...
+L544147 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ If we're gonna be a team, why not be a real team ?
+L544146 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ You weren't thinking...you were dreaming !
+L544145 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ I was thinking. Maybe we should get married, Carmen.
+L544074 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Zander, please... Let's go !
+L544073 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Let's disregaed rank... Everybody hear that ? Rank is not an issue here.
+L544069 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Forget it, Carmen. The Mobile Infantery does a thankless, dirty job, so they naturally tend to be short-tempered, thoughtless and rude.
+L544068 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Johnny, wait...
+L544065 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Zander, you remember Johnny ? Zander and I are a flight team now.
+L544064 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Everything coposetic, Lieutenant ?
+L543967 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ It looks like an... asteroid.
+L543966 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ THERE !	GRAVITY FIELD... IT'S BIG !
+L543965 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ WHERE IS IT ?
+L543962 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Me, too... Day and Night-Cycle.
+L543961 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ I want to be part of the best flight team in the Fleet...
+L543958 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ You and me, huh ?
+L543957 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ She got a command... and she thinks we oughta team up officially and crew for her. She thinks we're good together.
+L543956 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Don't mess with the boss. So what'd the captain say ?
+L543955 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Well, whad'ya know...
+L543954 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Don't change the subject. Am I right ?
+L543953 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ You know I was talking to Captain, Deladier, and she said...
+L543952 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Hey, check it.
+L543951 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Three weeks aboard a starship and you know it all, huh ?
+L543950 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ No, I replotted the course. It's more efficient this way.
+L543949 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Profile's wrong... there.
+L543948 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Oh, I don't know... Depends on who you are spending it with.
+L543947 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Thanks. You read my mind. Third watch always seems to last forever.
+L543868 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Oh, I see... teamwork.
+L543867 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ They revoke our flight status.
+L543866 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Or...?
+L543865 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Twenty-five by five, roll seven. And don't exceed port speed.
+L543864 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Oh, yes, sir. Vector ?
+L543863 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ This isn't simulation anymore. Take'er out easy, cadet.
+L543862 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ In simulation, my supervisors could never keep up.
+L543859 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Maybe not. I heard about this crazy girl coming through the academy, solid math, a little wild on the stick, but a natural. When it turned out it was you, I made sure we'd run into each other...
+L543858 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ It's amazing, us running into each other like this. Maybe it's fate.
+L543856 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Only when I give you an order.
+L543855 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Assistant insructor... You must be some kind of a hot stick. Should I call you "sir" ?
+L543854 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ I'm the guy who's gonna teach you to fly this crate.
+L543853 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Hey ! What are you doing here ?
+L543642 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Yeah, we know each other from the game. No hard feeling, eh, chum ?
+L543641 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Johnny, this is Zander.
+L543574 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Don't you have to finish the game ?
+L543573 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ I'm all ears.
+L543571 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ I don't know. It's my last night as acivilian. I ship out for Tereshkova tomorrow.
+L543570 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Everyone is going to the dance. Aren't you ?
+L543569 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ So what are you doing later ?
+L543568 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ I'm getting better.
+L543567 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Are you alright ?
+L544482 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Up. We gotta be near A Company by now.
+L544481 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Which way ?
+L544433 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ We've gotta go get her !
+L544432 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ AAAAAAAAAAAAAA !
+L544397 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ See you on the bounce !
+L544396 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Take care, wilya Johnny ?
+L544382 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ How are you, Carl ?
+L544381 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Well, look at this. The three of us back together again.
+L544367 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I like it. It's kinda...you.
+L544366 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Almost got knocked out of the sky over Big K.
+L544365 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What happened to your eye ?
+L544364 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ You look so... I don't know, you look like you've really been in it.
+L544363 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ That was just a mix up.
+L544362 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ I thought you were KIA, Johnny...
+L544361 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ No, I think something's up. The Sky Marshall's here.
+L544360 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ We gotta choke on the mud and the blood and Fleet can't be bothered to spit.
+L544359 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ ...I'm sorry.
+L544355 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I'm not, but alot of my soldiers are. Glass the planet !
+L544354 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Johnny...! I thought you were dead !
+L544078 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Hey, it's just a vestigal response to procreation... bitch.
+L544077 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ What's wrong with you ?
+L544063 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Johnny... Life is so different from the way it was. One day you'll see what I did was best for both of us.
+L544062 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Should I be ?
+L544061 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ You don't look very happy to see me.
+L544060 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I try just to be happy I'm still alive.
+L544059 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ It's funny. Sometimes I forget. Then it hits me, and I can't stop crying.
+L544058 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ It's alright, I guess. You hear from anyone made it out of B.A. alive ?
+L544057 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ What do you think ? Everyone did it when we got our wings. You don't like it, do you ?
+L544056 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What happened to your hair ?
+L543899 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ I'm glad you're doing so well. If they haven't made you squad leader by now, I'm sure you will.
+L543898 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Shhhh...!
+L543744 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ I said it. Isn't that enough ? Don't forget to write !
+L543743 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Do you mean it ?
+L543742 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Alright, I love you.
+L543741 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Com'on, just say it. Try it on for size.
+L543738 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I love you.
+L543737 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ I'll miss you, too, Johnny.
+L543736 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I'm gonna miss you.
+L543734 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ He left this morning. He couldn't say where.
+L543733 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ You talk to Carl ?
+L543732 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Who cares ! The Federation'll give me everything I need for the next two years, right ?
+L543731 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Poor boy. I'm sorry your parents were so mad.
+L543729 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ My Dad had to help me pack. Suddenly he's afraid he's never gonna see me again or something. It was sweet, but it took forever. Anyway, I guess I'm ready to go.
+L543728 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ You're late.
+L543713 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I'll go for that.
+L543712 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Let's all make a vow. Let's swear we'll always be friends no matter what.
+L543708 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Whoa ! Way to go, boy-yo !
+L543707 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Games & Theory ? That's Military Intelligence... Oh, Carl !
+L543703 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Did you get Starside R&D ?
+L543702 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Hey, Carl, what's wrong ?
+L543698 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Shhh ! Don't make him feel worse.
+L543697 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ He was in the group with me. I guess he didn't...
+L543696 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Naw, I made it, Carl made it.
+L543695 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ I wonder where Carl is. You don't suppose...?
+L543664 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Shhh...
+L543663 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I love you, Carmen.
+L543661 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ You're right. Let's never stop...
+L543660 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Who cares ?
+L543659 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Everyone's looking... we shouldn't...
+L543657 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I'm gonna do it, Carmen. I'm gonna sign up for Federal Service.
+L543656 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Are you the boy for me ?
+L543655 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I don't even know if you're my girl.
+L543654 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ He's nothing like you.
+L543653 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I can't help it.
+L543652 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Johnny Rico, you're jealous !
+L543651 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ You two have so much in common.
+L543650 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Zander is going for pilot, too.
+L543649 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What are you talking about ? We both know you're gonna be a pilot.
+L543648 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ No, I mean if he can get in, maybe I have a chance.
+L543647 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Yeah, sure, I guess.
+L543646 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ He just got accepted to the Fleet Academy. Isn't that great ?
+L543644 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Good luck at the academy.
+L543643 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ None at all... We won.
+L543632 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ I'll meet you outside.
+L543631 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Wait, I want to talk to Mr. Rasczak.
+L543630 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Aw, you're in love with me... You just dont know it yet.
+L543629 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Romance is just a vestigial biological response to procreation...
+L543627 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ It wouldn't be so romantic if we weren't...
+L543626 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ How do I know if this is love ?
+L543625 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Isn't it great to be in love ?
+L543534 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Sometimes I do what I want, eh ?
+L543533 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Well, if your dad doesn't like me, how come we're such good friends ?
+L543532 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ It's not you, Johnny. Your parents are rich they don't need to be citizens, and that stuff means a lot to my dad. He's a veteran.
+L543531 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What's he got against me... I mean, I 'm a teenager. You can't be a citizen when you're only a teenager !
+L543530 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Johnny, my Dad's home today.
+L543529 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Carl can wait.
+L543528 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ I thought you were going to help Carl.
+L543527 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Why not ?
+L543526 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ You can't walk me home.
+L543525 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ It's all I think about anymore.
+L543524 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ How come that's all you talk about anymore ?
+L543523 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Why won't you kiss me when we're all alone ?
+L543522 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ I don't want everyone to see.
+L543521 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Then how come you won't hold hands with me at school ?
+L543520 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Don't be so sure. I like you even if you are dumb with numbers.
+L543519 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Who cares about bugs ? You can't go anywhere if you don't know math.
+L543518 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Well, at least you didn't lose your lunch over a bug. How embarassing.
+L543517 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ 35% on the math final !  No one could be that dumb with numbers.
+L543516 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Excuse me...!
+L543515 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Well, if that's the crop, that must be the gastric caecal...
+L543508 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Aw, c'mon, it's just a bug.
+L543507 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Eeuch !
+L543504 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I have good reflexes.
+L543503 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Marco's sister. Can you imagine maneuvering half a million tons through crwoded space lanes... You gotta have nerves of steel ! Reflexes are critical
+L543502 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Who ?
+L543501 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ She's flying starships !
+L543491 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Your turn...
+L543490 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Good for you.
+L544424 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ No way, ma'am !
+L544423 +++$+++ u7832 +++$+++ m530 +++$+++ DELADIER +++$+++ Leave me, Lieutenant ! That's an order !
+L544421 +++$+++ u7832 +++$+++ m530 +++$+++ DELADIER +++$+++ Ibanez...LET'S GO !
+L544420 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ This is Rodger Young, we're going down... Repeat, this is Rodger Young, we're going down...!
+L544399 +++$+++ u7832 +++$+++ m530 +++$+++ DELADIER +++$+++ He requested a combat assignment. There's always a need for experienced pilots on the ground. I had no choice but to let him go... He said you'd understand.
+L544398 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Where's Lieutenant Barcalow ?
+L544101 +++$+++ u7832 +++$+++ m530 +++$+++ DELADIER +++$+++ Bug Batteries... According to Military Intelligence, it'll be random and light. Drop status ?
+L544100 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Plasma, ma'am... from the planet.
+L543977 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Thank you, ma'am.
+L543976 +++$+++ u7832 +++$+++ m530 +++$+++ DELADIER +++$+++ Good work, Number 1. You'll do.
+L543861 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Yes, ma'am.
+L543860 +++$+++ u7832 +++$+++ m530 +++$+++ DELADIER +++$+++ Alright, take her out, Ibanez.
+L543852 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Yes, ma'am !
+L543851 +++$+++ u7832 +++$+++ m530 +++$+++ DELADIER +++$+++ Take the number one chair, Ibanez. Follow all instructions of you supervisor.
+L543850 +++$+++ u7831 +++$+++ m530 +++$+++ CARMEN +++$+++ Pilot Trainee Ibanez reporting for duty, ma'am.
+L544106 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ That's it, we're empty ma'am !
+L544105 +++$+++ u7832 +++$+++ m530 +++$+++ DELADIER +++$+++ This isn't random or light. Someone made amistake...!
+L543972 +++$+++ u7832 +++$+++ m530 +++$+++ DELADIER +++$+++ Number 4, contact Fleet and tell 'em there's a loose asteroid headed their way.
+L543971 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Trajectory indicates it came out of the Arachnid Quarantine Zone.
+L543970 +++$+++ u7832 +++$+++ m530 +++$+++ DELADIER +++$+++ Where'd it come from ?
+L543964 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Captain, we are in the path of an unidentified object moving at near light speed...
+L543963 +++$+++ u7832 +++$+++ m530 +++$+++ DELADIER +++$+++ Report.
+L543870 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Yes, ma'am. Star drive in three... two... one...
+L543869 +++$+++ u7832 +++$+++ m530 +++$+++ DELADIER +++$+++ Steady as she goes, number one. Prepare for warp. Number two, design for Jupiter orbit.
+L544350 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ It's alright 'cause I got to have you, Johnny...
+L544349 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ No, you're gonna be alright, Diz !
+L544348 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ I bought the farm, didn't I, Johnny ?
+L544313 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ Roughneck patrol to battle group... Roughneck patrol to battle group...
+L544312 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ All bands.
+L544311 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ What frequency ?
+L544282 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ I'm on it !
+L544281 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Diz, see what you can do.
+L544263 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ They ran out of names a long time ago in this part of the galaxy.
+L544262 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ Planet P ? What kind of name is that ?
+L544246 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ What ?
+L544245 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Hey, Diz...
+L544240 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ Well, excuse me, sir...
+L544239 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I said no. Want me to pull rank ?
+L544238 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ You used to dance...
+L544237 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Nah, I don't do that anymore...
+L544236 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ C'mon...
+L544203 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I'm gonna need a squad leader.
+L544202 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ Way to go, amigo !
+L544001 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ That you don't have what it takes to be acitizen !
+L544000 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What's that, Diz ?
+L543999 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ You take the stroll down Washout Lane, you're only proving one thing, Johnny.
+L543998 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Well, see ya.
+L543981 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Hey, they humiliated me in front of everyone ! I'm just supposed to take it, huh ? Well, I'm not gonna, and I guess that proves I just can't cut it.
+L543980 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ If they didn't want you, they woulda kicked you out, amigo.
+L543979 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I don't stay where I'm not wanted.
+L543978 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ It stinks, you goin.
+L543882 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ You got it.
+L543881 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Cover me.
+L543880 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ High school... remember ? Run a flip six, three hole play, and you might score...
+L543879 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What ?
+L543878 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ Flip six, three hole.
+L543877 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Man, they're defended... no way in.
+L543808 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ You saying you didn't ?
+L543807 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ What ? You think I joined the Mobile Infantery because of you ?
+L543806 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ You are. I joined up to get out on my own. And you had to tag along.
+L543805 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ What's your malfunction, Rico ?
+L543804 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ No thanks, Diz.
+L543803 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ Hey, amigo, come chow with me.
+L543624 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ You're the best.
+L543623 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ Guess you gotta go.
+L543622 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Uh, look, Diz...
+L543621 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ Sure.
+L543620 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Can't we just be friends, Diz ?
+L543619 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ How come we never got together ?
+L543618 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Well, anyone who gets you is lucky.
+L543617 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ Looks like, unless Tokyo lets me start.
+L543616 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ You still gonna play for Brazil ?
+L543614 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ Too bad for her if she's not around.
+L543613 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Actually, Diz, I promised Carmen...
+L543612 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ Hey, Rico, wanna dance ?
+L543581 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Just throw me the ball, Diz.
+L543580 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ You were drifting. Flip six, three hole. On one, got it ?
+L543579 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What ?
+L543566 +++$+++ u7833 +++$+++ m530 +++$+++ DIZZY +++$+++ Hut... hut !
+L543565 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ A lot can happen in three minutes.
+L543996 +++$+++ u7838 +++$+++ m530 +++$+++ MOTHER +++$+++ This time of the year...?
+L543995 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ Looks like rain.
+L543994 +++$+++ u7838 +++$+++ m530 +++$+++ MOTHER +++$+++ Oh, my, what's that ?
+L543993 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ Yeah ! We'll talk it out and have a good glass of wine ... and... well, we love you, son.
+L543992 +++$+++ u7838 +++$+++ m530 +++$+++ MOTHER +++$+++ We'll all have dinner. I'll fix your favorite.
+L543991 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ Don't talk like that. Get yourself home as fast as you can.
+L543723 +++$+++ u7838 +++$+++ m530 +++$+++ MOTHER +++$+++ Johnny, why won't you change your mind ? Does citizenship mean so much to you ?
+L543722 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ ...CUT OFF !
+L543610 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ Teenagers !
+L543609 +++$+++ u7838 +++$+++ m530 +++$+++ MOTHER +++$+++ Why did you go and do that ? He was all ready to go Zegema Beach !
+L543603 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ A year at Harvard and you'll  see this "Federal Service" is just menial training for inferior people so they can call themselves "citizens" and take airs for the rest of their lives.
+L543602 +++$+++ u7838 +++$+++ m530 +++$+++ MOTHER +++$+++ Good good, then it's all settled.
+L543591 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ Who gave you this idea ? It's that teacher. What's his name ? You know the one I mean.
+L543590 +++$+++ u7838 +++$+++ m530 +++$+++ MOTHER +++$+++ Johnny, people get hurt... people get killed in the Federal Service. If something happened to you I don't know what I would do...
+L543988 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ It's not really working out for me here, dad. I was thinking... I was hoping it would be alright if I came home.
+L543987 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ Well, it's just good to hear from you. What's up, son ?
+L543720 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I'm not going on vacation ! I want to be acitizen ! It's my decision. I made it.
+L543719 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ I'm telling you, you will ! You're not going back. You're going to go on vacation !
+L543718 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I won't quit !
+L543717 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ You'll resign, and that's all there is to it. It might look bad, but if that's the worst you suffer...
+L543605 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ Sorry. Carl's a fine boy...
+L543604 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Wait a minute ! Carl is doing his Federal and he isn't inferior. He's the smartest kid at school !
+L543601 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Wow ! Santori and Zegema Beach, I've always wanted to go there.
+L543600 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ A trip to the Outer Rings. Whad'ya think of that ?
+L543597 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ Oh, is that how it is ?
+L543596 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I'm eighteen. It's my decision.
+L543595 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ Good, because you're going to Harvard, and that's the end of it.
+L543594 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ No, Mr. Rasczak doesn't do that at all. He sorta discourages you really.
+L543593 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ Rasczak... Silly name. There ought to be a law against using a school as a recruiting station !
+L543592 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Mr. Rasczak.
+L543589 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ It's aterm of service, not a career. I just want to get out on my own and see the Galaxy for a couple of years.
+L543588 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ Have you lost you lost your mind ? I'd rather take ten lashes in Public Square than see you ruin your life.
+L543586 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ A lot of my friends are doing Federal Service...
+L543585 +++$+++ u7834 +++$+++ m530 +++$+++ FATHER +++$+++ This came for you today. I presume on your request.
+L544270 +++$+++ u7835 +++$+++ m530 +++$+++ GILLESPIE +++$+++ AAAAAAAAAAA !
+L544269 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Gillespie, put in call for retrieval. We're off this rock. Gillespie, do you read me ?
+L544265 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Keep trying, Sergeant.
+L544264 +++$+++ u7835 +++$+++ m530 +++$+++ GILLESPIE +++$+++ I don't understand it, Lieutenant. It's not getting anything from 4th Brigade... not even their transponder.
+L544217 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ They'd rather spend our lives than risk their ships. Who's got the nuke ?
+L544216 +++$+++ u7835 +++$+++ m530 +++$+++ GILLESPIE +++$+++ Fleet's pulling the battle group back to safe distance... They'd like us to knock out those batteries, sir.
+L544215 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Corporal, I want pulse cannons there and there ! Rifle teams, spread out along the ridge ! Sugar, bring up that flame thrower !
+L544214 +++$+++ u7835 +++$+++ m530 +++$+++ GILLESPIE +++$+++ Yes, sir ! Fleet, this is Roughneck patrol, over ...?
+L544213 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ We must be right over the colony. Let's get some air support, eh ?
+L544254 +++$+++ u7836 +++$+++ m530 +++$+++ INTELLIGENCE OFFICER +++$+++ Bugs don't lay traps... They aren't intelligent ! Unlike you, they're stupid enough to follow orders !
+L544253 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ My job is to protect the lives of my soldiers so they can kill bugs, Major, and if you're walking me into a trap-
+L544252 +++$+++ u7836 +++$+++ m530 +++$+++ INTELLIGENCE OFFICER +++$+++ Take your group down to P and have a look see. Leave the thinking to us, Lieutenant. That's not your job.
+L544251 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Sounds more like some idiot at Military Intelligence Command wants to get me and my cap troopers killed...
+L544250 +++$+++ u7836 +++$+++ m530 +++$+++ INTELLIGENCE OFFICER +++$+++ Owen reported the eradication of a low generation colony a month ago. That's why MICOM wants onsite assessment.
+L544249 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ I thought 4th brigade cleaned out P.
+L544248 +++$+++ u7836 +++$+++ m530 +++$+++ INTELLIGENCE OFFICER +++$+++ At 0821 we received a distress call from Planet P, priority code, requesting reinforcement...
+L544230 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Must fill your bottle up real quick when your wife and kids get smeared.
+L544229 +++$+++ u7842 +++$+++ m530 +++$+++ SUGAR WATKINS +++$+++ Geez, I don't think I've ever seen him smile.
+L544228 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ He was a teacher , kind of a know it all... Always had this little smile.
+L544227 +++$+++ u7842 +++$+++ m530 +++$+++ SUGAR WATKINS +++$+++ You knew the Lieutenant before the war... What was he like ?
+L544176 +++$+++ u7842 +++$+++ m530 +++$+++ SUGAR WATKINS +++$+++ Good luck. It's not there anymore.
+L544175 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I always wanted to go to Zegema Beach.
+L544171 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I wouldn't mind.
+L544170 +++$+++ u7842 +++$+++ m530 +++$+++ SUGAR WATKINS +++$+++ Are you kidding ? They always get killed. You want the job ?
+L544169 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Seeing as how we're about all that's left of  1st Brigade, you'd have to call that an improvement.  You top kick ?
+L544022 +++$+++ u7844 +++$+++ m530 +++$+++ ZIM +++$+++ Doesn't look like it to me.
+L544021 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Sir, yes it is, sir.
+L544020 +++$+++ u7844 +++$+++ m530 +++$+++ ZIM +++$+++ Is that your signature, Rico ?
+L543913 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Sir, yes, sir !
+L543912 +++$+++ u7844 +++$+++ m530 +++$+++ ZIM +++$+++ The Marauder power suit will prevent serious injury, but if you are hit, you will be non-operational and your team score will suffer accordingly. Rico, has each member of your squad completed a weapons safety check ?
+L543887 +++$+++ u7844 +++$+++ m530 +++$+++ ZIM +++$+++ Don't stand there dumb... GO !
+L543886 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Sir, thank you, sir !
+L543885 +++$+++ u7844 +++$+++ m530 +++$+++ ZIM +++$+++ Smith, GO ! McIntire, GO ! Flores, GO ! Rico, I'm making you sqaud leader !
+L543685 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I want to be a citizen because... well, because of my girl, sir.
+L543684 +++$+++ u7839 +++$+++ m530 +++$+++ PSYCH OFFICER +++$+++ Please complete this sentence. I want to be citizen because...
+L543683 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Courage, I guess.
+L543682 +++$+++ u7839 +++$+++ m530 +++$+++ PSYCH OFFICER +++$+++ Which do you think is more important, courage or confidence ?
+L543681 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ No, sir.
+L543680 +++$+++ u7839 +++$+++ m530 +++$+++ PSYCH OFFICER +++$+++ Are your parents currently citizens ?
+L543679 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Here in Buenos Aires.
+L543678 +++$+++ u7839 +++$+++ m530 +++$+++ PSYCH OFFICER +++$+++ No talking please. I'm going to ask you some questions. Please answer all questions truthfully. We'll know if you don't. Birthplace ?
+L543990 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I've made a mess of things. I've been so stupid...
+L543989 +++$+++ u7838 +++$+++ m530 +++$+++ MOTHER +++$+++ Well, of course you should come home immedietly !
+L543985 +++$+++ u7838 +++$+++ m530 +++$+++ MOTHER +++$+++ Bill... pick up... it's Johnny ! You little rat. You haven't called, you haven't written. It's been so lonely here without you...
+L543984 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Hi, mom.
+L543983 +++$+++ u7838 +++$+++ m530 +++$+++ MOTHER +++$+++ Hello... Oh, Johnny...!
+L543725 +++$+++ u7838 +++$+++ m530 +++$+++ MOTHER +++$+++ I hope so. I hope you don't ruin your life over some silly little girl who wants to look handsome in a uniform.
+L543724 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Well, yeah, sure...
+L543608 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Well, that's what you're saying ! You're saying that I'm not good enough the way I am now !
+L543607 +++$+++ u7838 +++$+++ m530 +++$+++ MOTHER +++$+++ Johnny, please. Calm yourself.
+L543606 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I don't know what they teach at Harvard, but I think I'm pretty good enough the way I am !
+L543599 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Uh, no.
+L543598 +++$+++ u7838 +++$+++ m530 +++$+++ MOTHER +++$+++ Wait you two. Dad and I have a surprise for you that will settle this. Can you guess what it is ?
+L543584 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Aw, don't get mushy.
+L543583 +++$+++ u7838 +++$+++ m530 +++$+++ MOTHER +++$+++ Who said you could grow up so fast ? Last time I checked you were only five years old. You had such a bright little face...
+L544489 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ This is my farm. Now c'mon, give me what you got and get out of here...
+L544488 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Don't be a hero...
+L544487 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Nah, I figureyou folks oughta get upstairs before it's too late... Gimmee the nuke.
+L544486 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Alright, we're gonna carry you...
+L544485 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Been better, buddy.
+L544484 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ How bad are you, pal ?
+L544476 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Let's get some armor on her, and the we'll get outa this stinkin bug hole !
+L544475 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Not a problem.
+L544474 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Can you walk ?
+L544452 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Move out.
+L544451 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Let's go.
+L544450 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Yeah, that's right.
+L544449 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ That would mean a comlete disregard for the mission objective. They hang you for that, Rico.
+L544448 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I'm gonna save Carmen.
+L544447 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ What do you think you're doing ?
+L544437 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Hey, just calm down, I'm giving the orders here-
+L544436 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ We're outa here. Lieutenant, get your men into the skimmers. This real estate's about to go buggy.
+L544427 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ The Rodger Young just burned up...
+L544426 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What's your problem now, Lieutenant ?
+L544416 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Saddle up, boys, that's our trash !
+L544415 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Rodger Young, prepare to receice outgoing fire...!  I'll take the first group.
+L544414 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ You heard the Sky Marshall... Move it all down -
+L544413 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ This is a Fleet-driven operation, son, and the Fleet thinks my boat will be safer on the high ground. You can have everything else, eh ?
+L544412 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ You're standing on my H.Q., Lieutenant !
+L544353 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ This would be mine, sir. Acting Sergeant John Rico. I've assumed command on this mission.
+L544352 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ On whose authority, Corporal ?
+L544072 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Not with an officer, no, sir. The M.I. doesn't mint stupid cap troopers.
+L544071 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ You heard me. Wanna make something out of it, private ?
+L544070 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ You got something to say about the Mobile Infantery ?
+L544067 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I get it. This is the part that's best for both of us. Don't do me anymore favors, eh ?
+L544066 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ Best in the Fleet !
+L543576 +++$+++ u7843 +++$+++ m530 +++$+++ ZANDER +++$+++ You can never be sure.
+L543575 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Don't get any ideas. She's my girl.
+L544319 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Then I hope you have a crazy pilot ! Keep the line open, Dizzy !
+L544318 +++$+++ u7841 +++$+++ m530 +++$+++ RODGER YOUNG +++$+++ Inside 4th brigade compound ? That's crazy !
+L544317 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Landing zone is extremely hostile. Come down on this transmission !
+L544316 +++$+++ u7841 +++$+++ m530 +++$+++ RODGER YOUNG +++$+++ What is your position ?
+L544315 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ SHUT UP, SIR ! We need pick up now !
+L544314 +++$+++ u7841 +++$+++ m530 +++$+++ RODGER YOUNG +++$+++ This is Rodger Young... What's going on down there ? We're taking plasma ! We have Orion P-11 as clear !
+L544344 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Give'em hell, sir !
+L544343 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ This is my farm. Get on the boat, NOW ! That's an order, Sergeant.
+L544342 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ We're not leaving you here, sir !
+L544341 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Rico, tell'em to glass this goddam planet. I've never seen so many bugs upstairs at the same time...
+L544340 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ I can't My legs are gone... Get on the boat...
+L544339 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Hit your jets, sir !
+L544338 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Cover us, Ace !
+L544337 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ AAAAAAAAAAAA !
+L544333 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Yes, sir !
+L544332 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Sergeant, secure the boat !
+L544308 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What's going on, Diz ?
+L544307 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Warm it all up ! Everything you got ! Levy, collect the big guns from the towers. Watkins, put General Owen with the wounded. Rico, where's my communications ?
+L544284 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Looks like a bug was in his brain, sir.
+L544283 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ What's that look like to you, Rico ?
+L544279 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Yes, sir.
+L544278 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Rico, you're acting Sergeant now. My last Sergeant lost the com pack. Put together a search team and find the radio shack. We need retrieval.
+L544260 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Who's that with you ?
+L544259 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Yes, sir !
+L544258 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Corporal, the Roughnecks are moving out for Planet P immediately. Get yourself squared away and report to Gillespie for logistics.
+L544243 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Never pass up a good thing, eh ?
+L544242 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Yes, sir...
+L544241 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Yopu asked me some advice once, Rico. Want some now ?
+L544233 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Yes, sir.
+L544232 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Kill the bitch.
+L544231 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ All dead except one, sir.
+L544200 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ I'm not interested in nostalgia, Rico, I need a corporal. You're it until you're dead or I find someone better.
+L544199 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Uni High Tigers, sir. Don't you remember ? I was captain of the team.
+L544198 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Where'd you learn to do that, soldier ?
+L543640 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Figuring things out for yourself is the only freedom anyone really has. Use that freedom. Make your own choice, Rico.
+L543639 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Well, my parents are against it, and I know it's my choice, but I was wondering... What would you do if you were me ?
+L543638 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Good for you. Go find out.
+L543637 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I wanna join up, Mr. Rasczak. I think I have what it take to be a citizen.
+L543636 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Well, it's not really my job to please. Hope you learned something.
+L543635 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I just wanted to say thanks 'cause History and Moral Philosophy was the best class I had this year.
+L543634 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ What is it, Rico ?
+L543633 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Mister Rasczak ?
+L543483 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ Of course you don't. I doubt if any of you here would recognize 'civic virtue' if it bit you in the ass.
+L543482 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Uh, I don't know.
+L543481 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ The exact words of the text. But do you understand it ? Do you believe it ?
+L543480 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ The difference lies in the field of civic virtue. A citizen accepts personal responsibility for the safety of the body politic, of which he is a member, defending it, if need be, with his life. The civilian does not.
+L543479 +++$+++ u7840 +++$+++ m530 +++$+++ RASCZAK +++$+++ You. Tell me the moral difference, if any, between the citizen and the civilian ?

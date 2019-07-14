@@ -1,0 +1,829 @@
+L603448 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Right back to California.  We've got to go home and rest up from our vacation.
+L603447 +++$+++ u8388 +++$+++ m569 +++$+++ 1ST REPORTER +++$+++ What's your next step, Nick?
+L603445 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Sorry.  Don't know a thing.
+L603444 +++$+++ u8388 +++$+++ m569 +++$+++ 1ST REPORTER +++$+++ What about this Rosebreen?
+L603439 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ No.
+L603438 +++$+++ u8388 +++$+++ m569 +++$+++ 1ST REPORTER +++$+++ Have the police got any idea where Wynant is?
+L602915 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I never tried to kid you reporters -- I'm telling you the truth.
+L602914 +++$+++ u8388 +++$+++ m569 +++$+++ 1ST REPORTER +++$+++ Come on, gimme a break.
+L602913 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Sorry.  I don't know anything about it.
+L603021 +++$+++ u8393 +++$+++ m569 +++$+++ GILBERT +++$+++ Of course.
+L603020 +++$+++ u8388 +++$+++ m569 +++$+++ 1ST REPORTER +++$+++ Is that what it means?
+L603019 +++$+++ u8393 +++$+++ m569 +++$+++ GILBERT +++$+++ Then just say he was sixty years old.
+L603018 +++$+++ u8388 +++$+++ m569 +++$+++ 1ST REPORTER +++$+++ You know how they are... sex...
+L603017 +++$+++ u8393 +++$+++ m569 +++$+++ GILBERT +++$+++ Why not?
+L603016 +++$+++ u8388 +++$+++ m569 +++$+++ 1ST REPORTER +++$+++ Sexogerarian, eh?  Yes.  Yes.  But I can't put that in the paper.
+L603015 +++$+++ u8393 +++$+++ m569 +++$+++ GILBERT +++$+++ Yes.  He admitted it.
+L603014 +++$+++ u8388 +++$+++ m569 +++$+++ 1ST REPORTER +++$+++ He was?
+L603013 +++$+++ u8393 +++$+++ m569 +++$+++ GILBERT +++$+++ There's a physiological as well as a psychological angle in my father's relationship with Julia Wolf that the police have overlooked.  And I think it explains everything.  You see, my father was a sexogenarian.
+L602665 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ He's just around the corner.
+L602664 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ Any luck?
+L602631 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ I can't find him.  I've tried everything.  I thought you might know.
+L602630 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ Now don't say that -- he's just off somewhere working.
+L602612 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Just a minute...
+L602611 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ What could happen to him, darling? You mustn't worry....  What is it?
+L602610 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ He's never forgotten a promise to me.  I'm worried about him.  I know something's happened to him.
+L602609 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ He's just forgotten.  You know he forgets everything.
+L602608 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ But tonight is Christmas Eve!
+L602607 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ Darling, your father's all right. He'll turn up in time.
+L602606 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ It's all right.
+L602605 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ What's the matter, darling ... not sweet enough?
+L602602 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ I'm sorry.
+L602601 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ Cheer up, darling.
+L602514 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ Oh.  I'll do my own typing!
+L602513 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Wel-l-l, it seems he has a secretary.
+L602512 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ All settled?  Grand!  Why did your mother ever divorce him?  He's swell.
+L602504 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Look -- those are the first metals that came through. 
+L602503 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ I didn't know you invented that Smelting Process.
+L602645 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You better take a drink.
+L602644 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ Nothing.
+L602643 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ What?
+L602642 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ Do you suppose.....  ?
+L602641 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Said he stole his invention.
+L602640 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ Why did that man want to kill him?
+L602639 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Don't start worrying about him. He's a good guy, but screwy.
+L602638 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ She's got me worrying, too.
+L602468 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Help yourself.  Oh, Tom, show this gentleman... 
+L602467 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ Mind if I look around?
+L602463 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ And if it isn't?
+L602462 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ That is, if it's all right with you.
+L602461 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Well!
+L602457 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ It's the same one.
+L602456 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Another young man.
+L602455 +++$+++ u8389 +++$+++ m569 +++$+++ ANDREW +++$+++ How are you?
+L603585 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Oh, Andy, Andy!
+L603584 +++$+++ u8390 +++$+++ m569 +++$+++ ANDY +++$+++ Darling, don't cry.  Please.  I know it's terrible.  But isn't it really better this way?
+L603516 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Why not?
+L603515 +++$+++ u8390 +++$+++ m569 +++$+++ ANDY +++$+++ You're high enough.
+L603514 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ This is a pretty dead bunch, isn't it?
+L603327 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Go away!
+L603326 +++$+++ u8390 +++$+++ m569 +++$+++ ANDY +++$+++ Dorothy.... listen to me. I love you.  Don't you understand that? I love you.
+L603325 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Why not? I am crazy....the whole family's crazy.
+L603324 +++$+++ u8390 +++$+++ m569 +++$+++ ANDY +++$+++ You're talking like a crazy person,
+L603323 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ How would you like to have a couple of little murderers for your children?  It'd be fun, wouldn't it?  Maybe they'd murder each other...  keep it all in the family. That's what Father should have done.  He should have killed me and Gilbert... then we wouldn't have had this to go through.
+L603322 +++$+++ u8390 +++$+++ m569 +++$+++ ANDY +++$+++ Dorothy!
+L603321 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ I can't marry you!  I can't ever marry you!
+L603320 +++$+++ u8390 +++$+++ m569 +++$+++ ANDY +++$+++ I only know I want to marry you... right now, and --
+L603319 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ You don't understand.  You don't know what's going to happen.
+L603318 +++$+++ u8390 +++$+++ m569 +++$+++ ANDY +++$+++ Do you think I care
+L603317 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Please!  You can't get mixed up in this.
+L603316 +++$+++ u8390 +++$+++ m569 +++$+++ ANDY +++$+++ What are you talking about?
+L603315 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ And don't ever try to see me again.
+L603314 +++$+++ u8390 +++$+++ m569 +++$+++ ANDY +++$+++ Go!
+L603313 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ You're sweet, but the only thing that you can do for me is to go.
+L603312 +++$+++ u8390 +++$+++ m569 +++$+++ ANDY +++$+++ You've got to get your mind off this.
+L603311 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ I can't.
+L603310 +++$+++ u8390 +++$+++ m569 +++$+++ ANDY +++$+++ Darling, you can't go through any more of this.  Now you get together your clothes and your skates and we'll go out to my family's in the country.
+L603309 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ I can't help it.  You don't know.....
+L603308 +++$+++ u8390 +++$+++ m569 +++$+++ ANDY +++$+++ Don't cry.
+L603307 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Oh, Andy.
+L603305 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ And I'll give then proof!
+L603304 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Mother!
+L602876 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Now do you believe me!
+L602875 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Oh!
+L602874 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ There!
+L602873 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ I don't believe it! You're lying!
+L602872 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ I don't think you will.  It's your father's.
+L602871 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ All right, then.  I'll tell them.
+L602870 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ I'll do nothing of the sort.
+L602869 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ You hand that over to the police.
+L602868 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ It's a piece of evidence that's worth a great deal more than that.
+L602867 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Then what are you hiding?
+L602866 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ I didn't.
+L602865 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ You took that money from Julia's hand.
+L602832 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Nonsense! She got at she deserved.
+L602831 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Don't.  It's horrible.
+L602743 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Shush!
+L602742 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Did it ever occur to you that Chris might work?
+L602741 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ I didn't say I would.  But we've got to have money.
+L602740 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Mother ....  you couldn't do that. You couldn't go to her.
+L602732 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ I won't have you hounding him any more for money.
+L602731 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ That's gone long ago.  I've got to see him.  Where is he?
+L602730 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ You just want money -- and you haven't any right to any more.  He made a big settlement on you.
+L602729 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ No.
+L602728 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ He's all right.  Isn't that enough?
+L602727 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ That isn't true.  It was about your father.  Where is he?
+L602726 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Nothing.
+L602725 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ What is it?
+L602724 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Do you know where he's living?  Oh....  Well, at least I'm glad he's all right.  Thank you for calling. Goodbye.
+L602723 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ What is it? Has he found him?
+L602720 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Oh, here she is.
+L602719 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Give it to me.
+L602718 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ How are you?....  Oh, I'm Mrs. Jorgensen now....  No, she isn't here.  Is it about her father?  Well, can I take the message?
+L603568 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ What do you mean?
+L603567 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ He didn't do it -- Nick!
+L602523 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Tch-tch-tch --  Well, goodbye, Miss Wynant.  You wouldn't drive slowly, so you don't get a tip.
+L602522 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ He wouldn't say.
+L602521 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Did he tell you where he was going?
+L602520 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ He's waiting for you.
+L602519 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Is your father still in there?
+L602518 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Thanks...  we're taking your cab.
+L602517 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ How are you?  Here.  Get under this.
+L603583 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ He's been dead for three months.
+L603582 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Dead?
+L603505 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Hello, Nick!  And a party - celebrating father's third murder - 
+L603504 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Hello, Dorothy. 
+L602964 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ That's the truth.
+L602963 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Don't lie to me.
+L602962 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ I bought it in a pawn shop.
+L602961 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Where did you get this gun?
+L602960 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Oh, yeah?  People fall toward a shot, you know...  not back from it.  I knew you were lying.
+L602959 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ She... she fell over backwards.
+L602958 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Which way did she fall?
+L602957 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ I don't know.
+L602956 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Did she make any sound?  Didn't scream?
+L602955 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ She fell down.
+L602954 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Pretty good shot you are. What did she do?
+L602953 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Why... in the heart.
+L602952 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Where did you hit her?
+L602951 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Yes.  I hated her for coming between my mother and father.  She kept me from seeing my father.  I went down there to ask her where he was.  She wouldn't tell me, and I shot her.
+L602950 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ What are you trying to tell me? That you did it?
+L602949 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ There. 
+L602948 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Yes.
+L602947 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ You heard about Julia Wolf?
+L602940 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ I've got to see you alone!
+L602939 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Come on in.
+L602722 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Oh, thank heaven.
+L602721 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I just wanted to relieve your mind. Your father's alive and all right.
+L602671 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Thanks.  We will.  Goodbye.
+L602670 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ We're at the Normandie for a couple of weeks.  Why don't you drop around?
+L602669 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ How do you do?  I'm sorry we have to rush.
+L602667 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ No.  The lawyer -- I'm going to see him.
+L602666 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Your father?
+L602636 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Why don't you try him again?
+L602635 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ tried him once -
+L602634 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ That's it...  Herbert Macaulay.
+L602633 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Macaulay.
+L602632 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I don't know anything -- I've been in California for four years. What about his lawyer? Used to be a guy named Mac-- something.
+L602629 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Disappeared!
+L602628 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ That's what I was going to ask you.  he's disappeared!
+L602627 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Yes.  Some nut who wanted to kill him.  How is your father?
+L602626 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Andy...  this is Nick Charles.  He worked on a case for father.
+L602625 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Probably not.
+L602624 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ was fascinated with you....  a real live detective....  You used to tell me the most wonderful stories.  Were they true?
+L602623 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ How did you ever remember me?
+L602622 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Yes.
+L602621 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Not that scrawny little....? 
+L602620 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ You don't remember me.....  I'm Dorothy Wynant.
+L602619 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Yes.
+L602618 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Aren't you Nick Charles?
+L602617 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Of course we do! We've been friends for years.
+L602616 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ You know, we know each other.
+L602614 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Hello, there!
+L602613 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Another Martini --
+L602510 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Goodbye, my boy.  Take care of Dorothy.  Show her that there is such a thing as a happy marriage.
+L602509 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Goodbye, darling.  Don't you dare forget...  December 30th.
+L602508 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Better get home before it is.
+L602507 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ But it isn't bad weather now.
+L602506 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Only in bad weather.
+L602505 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Poor Dad, does that still bother you?
+L602502 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ He's a brave man.
+L602501 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ And he still wants to marry me!
+L602500 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Like all the rest of us.  Has this fellow...  ...has he seen the whole family?
+L602499 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ You're not missing much.  He's cuckoo.
+L602498 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ I know -- I know --
+L602497 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ You know how it is, Dad.  He's sort of under Mother's thumb.
+L602496 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ I'd like to see him.  Why don't you bring him down?
+L602495 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ He's all right.
+L602494 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ How's your brother?
+L602493 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ That's one thing I won't forget.  Where's Macaulay?  I ought to be starting.
+L602492 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ It's a promise?
+L602491 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Oh, I'll be back before Christmas.
+L602490 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ We were planning to be married right after Christmas.
+L602489 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Yes.  And I don't want anybody to steal it from me.
+L602488 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ A new invention?
+L602487 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ It's a secret.  I can't even tell you, my dear.  I've got an important idea to work on.
+L602486 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Where are you going?
+L602485 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Wait a minute.  When is it going to be? I'm leaving town tonight.
+L602484 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ If you think it'll be all right.
+L602483 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ He can stay home.  Please, Dad, won't you?
+L602482 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Wouldn't it be a little embarrassing ...  all of us there ...  your other and me and your stepfather?
+L602481 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ This is my wedding.
+L602480 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ What would your mother say to that?
+L602479 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ I hate all that fuss.  But I'll do it on one condition -- that you're there to give me away.
+L602478 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Yes, she would.
+L602477 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Mother's set her heart on a big church wedding.
+L602466 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Dad, this is what I really wanted to ask you....
+L602465 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ You see how much we have to say.
+L602464 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ He'll still be your son-in-law!
+L602460 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ Take a good look at him, Dad.  Now please try to remember him... 'cause he's going to be your son- in-law.
+L602459 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Forgive me.  How are you?
+L602458 +++$+++ u8391 +++$+++ m569 +++$+++ DOROTHY +++$+++ It's been the same one for three months.
+L603434 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Yes... yes.
+L603433 +++$+++ u8392 +++$+++ m569 +++$+++ DR. WALTON +++$+++ Must have been in the war.  That might account for the cane and his limp.
+L603432 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Shrapnel!
+L603423 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I'm very interested in that body.
+L603422 +++$+++ u8392 +++$+++ m569 +++$+++ DR. WALTON +++$+++ Not at all.
+L603421 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Do you mind if I come down and see it?
+L603420 +++$+++ u8392 +++$+++ m569 +++$+++ DR. WALTON +++$+++ Yes.
+L603419 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Going to run him through the fluoroscope?
+L603418 +++$+++ u8392 +++$+++ m569 +++$+++ DR. WALTON +++$+++ You can take that out to the car.
+L603558 +++$+++ u8393 +++$+++ m569 +++$+++ GILBERT +++$+++ know.  But I saw him -
+L603557 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ What are you talking about, Gilbert? You weren't there!
+L603556 +++$+++ u8393 +++$+++ m569 +++$+++ GILBERT +++$+++ I saw him too... he was wearing a green suit with a white tie...
+L602840 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Children, will you go into the next room? I want to talk to Chris alone.
+L602839 +++$+++ u8393 +++$+++ m569 +++$+++ GILBERT +++$+++ Well, I've got my alibi.  I was at the Public Library.  Where were you?
+L602836 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ I hope you won't talk that way to the police when they come here.
+L602835 +++$+++ u8393 +++$+++ m569 +++$+++ GILBERT +++$+++ Why not? You had a perfectly good motive.
+L602834 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Gilbert!
+L602833 +++$+++ u8393 +++$+++ m569 +++$+++ GILBERT +++$+++ Did you kill her?
+L602830 +++$+++ u8393 +++$+++ m569 +++$+++ GILBERT +++$+++ Was there much blood?
+L602829 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Not a thing.
+L602828 +++$+++ u8393 +++$+++ m569 +++$+++ GILBERT +++$+++ Did they find any clues...  a gun or fingerprints or anything?
+L602739 +++$+++ u8393 +++$+++ m569 +++$+++ GILBERT +++$+++ She could tell you where father is.
+L602738 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ That woman!
+L602737 +++$+++ u8393 +++$+++ m569 +++$+++ GILBERT +++$+++ He said that father's in town. He's been seeing Julia right along.
+L602736 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ What is it, Gilbert? Tell mother! What did he say?
+L603618 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You see, he'd been very clever. Everybody, even our astute friend Guild, thought that Wynant was alive and that he was the murderer. But our hero had just one weak link in his chain.  The telegrams, wires and telephones were all very well - but no one had seen Wynant. So he picked on poor Mimi here to strengthen his case.  Mimi is the only one at the table who can tell us who the real murderer is.  Mimi, who was it that told you to say you'd seen Wynant?
+L603617 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Shut up.
+L603594 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ --was Wynant's.
+L603593 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ You mean that body-----?
+L603566 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Because I found out for certain that he didn't commit the murders.
+L603565 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Why didn't you tell me? .... Why didn't you hold him?
+L603564 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ No.
+L603563 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Are you kidding?
+L603426 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I'll take care of him.
+L603425 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ What're you doing here?
+L603414 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Just the same, Wynant wouldn't mind having him out of the way, would he?  How long should you say this body'd been here, Doc?
+L603413 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Yes.  But we figured it was just blackmail...
+L603412 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ He said Wynant tried to steal an invention.
+L603411 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I never saw him.  I don't think anyone saw him.
+L603410 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Could this be him?
+L603409 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Rosebreen.
+L603408 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ "D.W.R."  That case you worked on... the guy who threatened to kill Wynant... what what was his name?
+L603401 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Extraordinarily lucky.
+L603400 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Lucky thing for us they weren't in that lime.
+L603399 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Just rolled them up and threw them in.
+L603337 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ This is enough for me.
+L603336 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Fifty will still get you a hundred.
+L603335 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ I guess that cinches it, eh, Mr. Charles?  He killed them both - Julia Wolf and Nunheim.
+L603331 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ She's ready to talk.  It won't do any harm, though - to find out where he is.
+L603330 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Get anything?
+L603280 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Nunheim!
+L603279 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Trail him!  Trail who?
+L603278 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I'm calling your office so you can send out a man to trail him. I want to see where he goes.
+L603277 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Who're you calling?
+L603276 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I think we're on the right track.
+L603275 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Well, what'd you think?
+L603243 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Let's go and see.  Taxi!
+L603242 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ He's holding out on you.
+L603241 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ No.
+L603240 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Did you know he was hanging around Julia?
+L603239 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Oh, he's all right.  We know all about him.  He does a little stooling for us every once in a while.
+L603238 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ What about this Nunheim?
+L603236 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ I'll check on that.  I'm afraid this is kinder dull for you.
+L603235 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ What about Jorgensen?
+L603234 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ They're all O.K.  Mrs. Jorgensen, the boy, Dorothy, Macaulay... even Morelli... we had to let him go.
+L603233 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I haven't got that far yet.  But I don't think that everything points to Wynant.  What about the alibis?
+L603232 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Who's your candidate?
+L603231 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ For one thing, he was too absent- minded to hold a grudge.
+L603230 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ What do you mean?
+L603229 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Fifty will get you a hundred that he didn't do it.
+L603228 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Nothing yet to cinch it.
+L603227 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ No proof?
+L603226 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Yeah. Couldn't find a thing. This is the way we figure it.  Wynant goes to Julia's apartment. He finds Morelli there... sees she's two- timing him.  They have a fight. But he figures he don't want to do anything then.... Morelli might squeal.  So he goes away. He don't let his lawyer know anything has happened... he lets him go ahead and and hand over money to Julia to give to him, so that Julia will think it's all blown over. Then, when she don't expect it... he lets her have it.
+L603225 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You've been there?
+L603222 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I thought it might be.  From now on, they're going to think that every thin man over six feet with white hair is Wynant.
+L603221 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Oh, that's a phoney.  The men didn't even have to go down.
+L603220 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ What about the suicide?
+L603219 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ It's a bargain then.  Anything you want to know?
+L603218 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ So would I.
+L603215 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Man to man, I'm not.
+L603214 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Man to man, Mr. Charles, are you working on this case?
+L603213 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ That ain't a gun any more.  The firing pin's busted - the -  Don't waste time talking about that.
+L603212 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You mean about that gun?
+L603211 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ You oughtn't to play this trick on me.  Running out when I was giving you time to rest up before I asked you those questions.
+L603134 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Okay.  There's plenty of time. I guess we got to ask you a lot more questions than we counted on. We'll come up tomorrow when you're feeling better.  Come on.
+L603133 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I'll have to try to remember.
+L603132 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Who's is it?
+L603131 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ No.
+L603130 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ This gun yours?
+L603128 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Ever heard of the Sullivan Act?
+L603127 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ No.
+L603126 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Have you got a pistol permit?
+L603121 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ So you say -  Go on, Bob.
+L603120 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Not without a warrant.
+L603119 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Keep on asking.
+L603118 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ I'm asking you.
+L603117 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Ask him.  I don't know.
+L603116 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ What'd he think it was to you?
+L603115 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Nothing.
+L603114 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ What's that to you?
+L603113 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Wanted to tell me he didn't kill Julia Wolf.
+L603112 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ What's he want of you?
+L603111 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I never saw him before.
+L603108 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ We were looking for this bird.
+L603107 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Yes.  I might not have been shot.
+L603106 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ We hear this is getting to be sort of a meeting place for the Wynant family, so we figure we'll stick around in case the old man himself shows up.  Then we seen him...  ...sneak in and we decide to come up.  And pretty lucky for you.
+L603105 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ How'd you people happen to pop in?
+L602822 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Well, thanks.  We'll call you when we need you again.
+L602821 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ I didn't know they had a fight.
+L602820 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Do you know what they fought about that night he went away?
+L602819 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ I know he'll turn up as soon as he sees this in the papers.  You can't think he had anything to do with it, Mr. Guild.  He wasn't the kind of man that....
+L602815 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Yes.  But he didn't show up.
+L602814 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Did you go?
+L602813 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ About three.
+L602812 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ When was that?
+L602811 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ I wasn't in.  My secretary took the message.  He left word for me to meet him at the Plaza.
+L602810 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ He did!
+L602809 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ He telephoned me today.
+L602808 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Well, what?
+L602807 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Well....
+L602806 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Oh, then you did hear from him?
+L602805 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ I said he hadn't written me.
+L602799 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Seen any signs of it, Bill?
+L602798 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Yesterday.  I gave her a thousand dollars.
+L602797 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ When was the last time you gave her money for Wynant?
+L603572 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Let him have his say out.
+L603571 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ That's ridiculous.
+L603555 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Tell 'em.
+L603554 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ A brown suit, brown shoes and a white shirt and a grayish tie with red, or reddish brown figures on it.
+L603553 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ What kind of clothes was he wearing?
+L603548 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ That's nothing.  I saw him myself.
+L603547 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ You did!
+L602858 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Goodbye.
+L602857 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Goodbye.
+L602856 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ That's all right.  Well, we'll be going.
+L602853 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ The Medical Examiner seems to think that the body was touched.  He says it looks as if the girl's hand had been forced open after she was killed....
+L602852 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ I don't think so.  Of course I was terribly upset...  I hardly knew what I was doing.
+L602851 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Are you sure you didn't leave the room...  that one of the bellhops or maids might not have been in there alone?
+L602850 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ No.
+L602849 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Did you see anything in Miss Wolfe's hand?
+L602848 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Why yes.
+L602847 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ You say you were in the room with the body from the time you discovered it 'til we came?
+L602846 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ I see.
+L602845 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ There are a few things we want to check up on.
+L603529 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ You're a great help to a hostess. I wish I always had you for my dinner parties.
+L603528 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ They'll be here.  Don't worry.  My men are picking them up.
+L603527 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Mr. Guild means guests!  Oh, there are two more to come.
+L603526 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ I guess all the suspects are here.
+L603525 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I think we may as well sit down.
+L603224 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Looks like he planned, something. He shut up his apartment and his shop.
+L603223 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Do you think that Wynant did it?
+L603217 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ I don't mind telling you I'd rather have you working with us than against us.
+L603216 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ But he's interested!
+L603210 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Good morning, Lieutenant -  Sorry.
+L603209 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Good morning --
+L603274 +++$+++ u8402 +++$+++ m569 +++$+++ NUNHEIM +++$+++ Just give me a minute....  I'll remember. I'm not stalling, Lieutenant.  You know I always come clean with you.  Gee, it'd serve me right if you had pinched me...  that's the afternoon I was.... wait, I'll show you...!
+L603273 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ How'd you like to be thrown in the can on account of not remembering?
+L603272 +++$+++ u8402 +++$+++ m569 +++$+++ NUNHEIM +++$+++ I can't remember offhand, Lieutenant.  Maybe I was over at Charlie's shooting pool. Maybe I was here.  She'd remember.
+L603271 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Sit down!  We didn't come here to watch you and that broad dance around a May pole.  Where were you the afternoon the girl was killed?
+L603270 +++$+++ u8402 +++$+++ m569 +++$+++ NUNHEIM +++$+++ Let me go!  Let me bring her back. I can't get along without her. I'll bring her right back and I'll tell you anything you want to know. Let me go!
+L603269 +++$+++ u8402 +++$+++ m569 +++$+++ NUNHEIM +++$+++ Marian!  Marian! Don't go! I'll behave!  I'll do anything!  Don't go, Marian!
+L603268 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Where were you?
+L603265 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Where were you?
+L603264 +++$+++ u8402 +++$+++ m569 +++$+++ NUNHEIM +++$+++ You don't think I had anything to do with it?
+L603263 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ You'd done better to have told me that in the beginning.  Where were you the afternoon she was knocked off?
+L603260 +++$+++ u8402 +++$+++ m569 +++$+++ NUNHEIM +++$+++ I didn't mean you, Mister.
+L603259 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Want to take a poke at him?
+L603258 +++$+++ u8402 +++$+++ m569 +++$+++ NUNHEIM +++$+++ That's a lie, Lieutenant...  Anybody that says that is a liar.
+L603257 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ Maybe if you quit running around after other women you wouldn't have so much trouble with this one.
+L603256 +++$+++ u8402 +++$+++ m569 +++$+++ NUNHEIM +++$+++ She drives me nuts.  She's been ragging me all day.
+L603253 +++$+++ u8402 +++$+++ m569 +++$+++ NUNHEIM +++$+++ That's all I did, Lieutenant. That's the God's truth.  Maybe I said hello to her or how are you or something like that when I saw her, but that's all I knew her. That's the truth.  All right.  Put your mouth in and I'll pop a tooth out of it.
+L603252 +++$+++ u8394 +++$+++ m569 +++$+++ GUILD +++$+++ What's the idea of telling me you just knew the Wolfe girl by sight?
+L603251 +++$+++ u8402 +++$+++ m569 +++$+++ NUNHEIM +++$+++ Have a shot?
+L602827 +++$+++ u8395 +++$+++ m569 +++$+++ JORGENSEN +++$+++ Never mind.
+L602826 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Why, you said...
+L602825 +++$+++ u8395 +++$+++ m569 +++$+++ JORGENSEN +++$+++ I thought you said you weren't going there.
+L602824 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ and there she was lying dead.  The police said she'd probably been killed about ten minutes before I got there.
+L602764 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Chris -- Chris -- !
+L602763 +++$+++ u8395 +++$+++ m569 +++$+++ JORGENSEN +++$+++ Wouldn't I.  Just watch me.
+L602762 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ You wouldn't do that...  you wouldn't!
+L602761 +++$+++ u8395 +++$+++ m569 +++$+++ JORGENSEN +++$+++ Just what I said I'd do.
+L602760 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ What are you going to do?
+L602759 +++$+++ u8395 +++$+++ m569 +++$+++ JORGENSEN +++$+++ I said all right!
+L602758 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ I couldn't go near that woman.
+L602757 +++$+++ u8395 +++$+++ m569 +++$+++ JORGENSEN +++$+++ All right.  All right.
+L602756 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Chris!
+L602755 +++$+++ u8395 +++$+++ m569 +++$+++ JORGENSEN +++$+++ Why don't you go to see Julia? She handles his money.
+L602754 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ I know.
+L602753 +++$+++ u8395 +++$+++ m569 +++$+++ JORGENSEN +++$+++ You've said that for weeks.
+L602752 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ I'll get some.
+L602751 +++$+++ u8395 +++$+++ m569 +++$+++ JORGENSEN +++$+++ How can I help but mind? I'm constantly humiliated...  just because I haven't money.
+L602750 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Don't mind what she says, Chris.
+L602597 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Then someone was in with you.  Who was it? -- Who was it?  I'll answer that --  Hello ...  hello ...
+L602596 +++$+++ u8396 +++$+++ m569 +++$+++ JULIA +++$+++ I never had it.
+L602595 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ What did you do with the rest?
+L602594 +++$+++ u8396 +++$+++ m569 +++$+++ JULIA +++$+++ I can't! I haven't got it!
+L602593 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ You're going to return every cent of it!
+L602592 +++$+++ u8396 +++$+++ m569 +++$+++ JULIA +++$+++ I'll give it back to you ....  all I've got ....twenty-five thousand...
+L602591 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Hello ....  give me ....  Well ....  ?
+L602590 +++$+++ u8396 +++$+++ m569 +++$+++ JULIA +++$+++ That's a fine thing to throw up to me after all I've been to you....
+L602589 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ They'll be pretty rough with you....with your record.
+L602588 +++$+++ u8396 +++$+++ m569 +++$+++ JULIA +++$+++ Go ahead!
+L602587 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ I want that money right now, or I'll hand you over to the police.
+L602586 +++$+++ u8396 +++$+++ m569 +++$+++ JULIA +++$+++ supporting that gang of loafers! There's not one of them that cares a damn for you.  A wife who threw you out the first time your foot slipped.  They wouldn't raise a hand to help you.  And I've given my whole life for you.  If you kicked off tomorrow, where'd I be? Out in the gutter!  Sure I took those bonds.  Who has a better right -- ?
+L602585 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ That's my business.
+L602584 +++$+++ u8396 +++$+++ m569 +++$+++ JULIA +++$+++ What if I did take them? I'm sick and tired of seeing you hand out thousands of dollars to that family of yours....
+L602583 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ No one else had the combination of that safe.  You took them.  What did you do with them?
+L602582 +++$+++ u8396 +++$+++ m569 +++$+++ JULIA +++$+++ Do you realize that you're accusing me of ....
+L602581 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Now see here, Julia.  You're counting a little too much on my being absent-minded.  You've been taking a little here and there for some time, and I haven't said anything about it.  But this is fifty thousand dollars!
+L602580 +++$+++ u8396 +++$+++ m569 +++$+++ JULIA +++$+++ Don't you remember....
+L602579 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ I'd never tell you to sell those. I bought them for my daughter.
+L602578 +++$+++ u8396 +++$+++ m569 +++$+++ JULIA +++$+++ Oh yes.  Why, you told me to sell them a long time ago.
+L602577 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ The government bonds.  The ones you took from the office safe.
+L602576 +++$+++ u8396 +++$+++ m569 +++$+++ JULIA +++$+++ What bonds?
+L602575 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ No.  I just came back for a second. I wanted to get those bonds.
+L602574 +++$+++ u8396 +++$+++ m569 +++$+++ JULIA +++$+++ Don't worry.  You won't see him again.  What happened? Did you change your mind about going?
+L602573 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ I don't like him.
+L602572 +++$+++ u8396 +++$+++ m569 +++$+++ JULIA +++$+++ This is the first time I've seen him in years.  I didn't want him to think I was high-hatting him.
+L602571 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ I thought you'd given up that sort of friend.
+L602570 +++$+++ u8396 +++$+++ m569 +++$+++ JULIA +++$+++ He's not anybody.  Just a fellow I used to know.
+L602569 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Who's that man?
+L602566 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ So I see.
+L602565 +++$+++ u8396 +++$+++ m569 +++$+++ JULIA +++$+++ We're just having a little drink.
+L603187 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Would it help any if I could persuade him to meet you?
+L603186 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Oh, please, Nick.
+L603183 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ So did we.  I mean, Sherlock here.
+L603182 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ I got word from Wynant this morning...
+L603178 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ That's all right.
+L603177 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Asta - don't bother Mr. Macaulay.
+L603172 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Good.
+L603171 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Oh, he's sitting up.
+L603170 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Good morning. I'm afraid this isn't a very "Merry Christmas" for you.
+L603169 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Oh, hello.  Come on in.
+L602709 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Yes?
+L602708 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Is there a Mr. Macaulay in the house?  Oh, it's you.
+L602546 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ I left instructions with Julia. She'll get it from you.  Goodbye.
+L602545 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ But what if you need more money?
+L602544 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ No.
+L602543 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Is Julia going with you?
+L602542 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Settle it yourself.  What have I got a lawyer for?
+L602541 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ What'll I do if something comes up?
+L602540 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Thanks, and goodbye.
+L602539 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ You might do that.  Get me a ticket for...  No, you don't!
+L602538 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Well, let me do that for you.
+L602537 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ No.
+L602536 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Isn't there anything else I can do for you? Have you bought your ticket?
+L602535 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ I trust you.
+L602534 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ I wish you'd count them.  There's a thousand dollars there.
+L602533 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Never mind.
+L602532 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ One hundred...  two hundred... three...
+L602531 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ That's just why I'm going.
+L602530 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ But suppose some business comes up...
+L602529 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ I'm not telling anyone.
+L602528 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ I do wish you'd tell me where you're going.
+L602527 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Did you get my money?
+L603626 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ What about it, Tanner.  Isn't that the truth?
+L603625 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ I have no right to answer that.
+L603608 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Oh he as clever about that.  He called when you were out.  That same afternoon, Julia telephoned to him. She said that you were coming, Mimi, to ask about Wynant. He got terrified. He was afraid that Julia would break down and tell... so he went to Julia and killed her and left Wynant's watch chain in her hand.
+L603607 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ But it must have been Wynant.  I should have known if it weren't his voice.
+L603193 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Hello....  Where?  In Allentown.  Yes... When is the next train? Right - I'll get that.  Wynant's tried to commit suicide. They want me to come down and identify him.  I guess this changes the whole story, doesn't it?  That looks like an admission of guilt.  And I had such hopes.  I thought if you got on the case, you'd be able to clear him.  I thought that Mimi.... the way she acted... I was sure that....  Oh, well, well... it's no use thinking of it now.  I'm sorry to have wasted so much of your time.
+L603192 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Hello.... oh, just a minute.  Police department?
+L603191 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ I've done that already. He should appear, you know.  It doesn't look well... his staying away at a time like this.
+L603190 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ It wouldn't hurt to put it in.
+L603189 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ He gave me a code message to insert in the Times, in case I wanted to get in touch with him.
+L603188 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ It might.
+L603185 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Slim.
+L603184 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ What are the chances of getting you to do what he wants?
+L603175 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ That's all right.
+L603174 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ I hate to bother you when you're laid up.
+L603173 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ How are you?
+L602712 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ S'long.
+L602711 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ How do you do?  What did you say?....  He is?.... Where is he?  Very well.  He's back in town....  Wynant.  Thank heaven.  He's waiting for me now.  Forgive me, Mrs. Charles...  but I've been so upset.  It's no joke working for a man like that.  I must be off.  Goodbye....  Goodbye,
+L602710 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ My wife.
+L602704 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ He sends word through Julia Wolf when he wants money...  I give it to her and she gives it to him.
+L602703 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ No word at all?
+L602702 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ You know as much about it as I do. I haven't seen him in three months.
+L602701 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ What's all the fuss about? Is he in hiding?
+L602700 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ I see.  I see.
+L602699 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ My wife's father died and left her a lumber mill and a narrow guage railroad and a couple of other things.  And I'm looking after them.
+L602698 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ You don't say --
+L602697 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I haven't been a detective for four years.
+L602696 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ She usually is.  Trying one way or another to get money out of Wynant. I wanted to find out if you were er - er -  --sleuthing for her.
+L602695 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Mimi?  ...  Oh, Dorothy's mother.  Does she have to be up to something?
+L602694 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Nothing, thank you.  Nothing.  I wanted to see you...  What's Mimi up to, Charles?
+L602693 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ That's all right.  What are you drinking?
+L602692 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ Dorothy told me you were here.  I was going to telephone but....
+L602691 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Hello, Macaulay.  Come in.
+L602690 +++$+++ u8397 +++$+++ m569 +++$+++ MACAULAY +++$+++ How are you?
+L603624 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Macaulay, you drew up Wynant's will.  Mimi was cut off, wasn't she, if she re-married?
+L603623 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ I'm lot going to stay here to be insulted - 
+L603622 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You're lying, Mimi.  But then, you'd do anything for money.  You're getting a good price for saying you saw Wynant and you figure you won't get anything if he's dead.
+L603621 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ It isn't a story - it's true.  I did see Wynant.  He's not dead.
+L603620 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ What did he pay you, Mimi, to stick to that story?
+L603619 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Nobody told me.  I did see him!
+L603596 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ And the murderer is right here in this room tonight... he's sitting at this table.  You may serve the fish.
+L603595 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Perfectly absurd.
+L603592 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ So I did.  I saw him lying buried in his shop.
+L603591 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Because I don't believe that Clyde's dead!  Why, you said yourself you saw him last night.
+L603552 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ He didn't say very much.  Wanted to know how I was and how the children were.
+L603551 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Oh, did he?  What did he say?
+L603550 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Last night.  He came to see me at my apartment.
+L603549 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You did... where?
+L603546 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I've got some very important news - I've seen Wynant.
+L603545 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ This is all very pleasant but why are here?
+L603303 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ All right, then -- I'll tell them who did do it!
+L603302 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ They'll want more than your word for that.
+L603301 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ I tell you -- he didn't do it.
+L603300 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ That's not for you to decide. Everybody's under suspicion - especially running off like this --  The police will want his description.  Is this a picture of him?
+L603299 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ But he has nothing to do with it!
+L603298 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You should have told them he'd disappeared.
+L603297 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Chris may be at the club -- or somewhere -- I don't see that it's important --
+L603012 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Gilbert!  Is he here too?  We might as well be living in the lobby.
+L603011 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Where's Gilbert?
+L603003 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Yes...
+L603002 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Dorothy!  Is she here?
+L603001 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I tell you again, I don't want any part of it.  Now you take Dorothy home and...
+L603000 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ But he knows you.  All you have to do is get in touch with him, and tell him that Mimi says everything is all right... but that I've got to see him.
+L602999 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Now, Mimi, there are a thousand detectives in New York.  Hire one of them.
+L602998 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Nick, you will help me find Clyde -- won't you?
+L602996 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ You're always teasing.
+L602995 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Well, don't you?
+L602994 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Oh, I know he didn't, but I wish I could find him...  I have something very important to tell him. Macaulay won't help at all.  He thinks I just want money.
+L602993 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ What do you think?
+L602992 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Clyde Wynant's crazy... absolutely crazy to stay away at a time like this. No wonder the police think he has something to do with it.
+L602986 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ want to talk to you about something very important.
+L602985 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Hello, Mimi.
+L602984 +++$+++ u8398 +++$+++ m569 +++$+++ MIMI +++$+++ Oh, Nick... Nick!
+L603599 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I hope you won't let this news spoil your dinner.  Nice food, isn't it?
+L603598 +++$+++ u8399 +++$+++ m569 +++$+++ MORELLI +++$+++ What am I?  The fall guy?
+L603577 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Thank you.  Now I'll tell you why I know Wynant didn't commit those murders -  Three months ago - the night that he caught you in Julia's apartment, he found out that Julia was cheating him, and was splitting with some man.  He went to find the man. That man was.... Tanner, don't you...?
+L603576 +++$+++ u8399 +++$+++ m569 +++$+++ MORELLI +++$+++ Once I wanted five grand --  Cash -
+L603575 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Why do you say that?
+L603574 +++$+++ u8399 +++$+++ m569 +++$+++ MORELLI +++$+++ She don't say she is, but I figure she is -
+L603573 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Morelli -  You knew Julia.  Was she gypping Wynant?
+L603085 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ This is your party.
+L603084 +++$+++ u8399 +++$+++ m569 +++$+++ MORELLI +++$+++ What's that?
+L603083 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I am on the level. If I knew anything I'd....
+L603082 +++$+++ u8399 +++$+++ m569 +++$+++ MORELLI +++$+++ That'd be very smart.  That'd be the smartest thing I ever did. Me that a police captain's been in a hospital three weeks on account we had an argument.  The boys would like to have me come in and ask questions.  They'd like it right down to the end of their blackjacks. Now I come to you on the level. Studsy says you're on the level. Be on the level.
+L603081 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I'd tell you if I knew. But I'm not in this.  Ask the police.
+L603080 +++$+++ u8399 +++$+++ m569 +++$+++ MORELLI +++$+++ He's all right. He'd like to see you. But listen...  What's the law doing to me?  Do they think I did it, or is it just something else to pin on me?
+L603079 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ How is Studsy?  I didn't know he was out of stir.
+L603078 +++$+++ u8399 +++$+++ m569 +++$+++ MORELLI +++$+++ Listen.  "Studsy" Burke told me you used to be O.K. That's why I'm here. Do  they....
+L603077 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ That's all swell.  Only you're peddling your fish in the wrong market. I've got nothing to do with it.
+L603076 +++$+++ u8399 +++$+++ m569 +++$+++ MORELLI +++$+++ I wouldn't have any reason to hurt her.  She was always on the up and up with me.  But that dirty little Nunheim -- he got sore cause I clicked with her and he didn't, so he put the finger on me.
+L603075 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Why tell me?
+L603074 +++$+++ u8399 +++$+++ m569 +++$+++ MORELLI +++$+++ I haven't seen her in three months. We were all washed up.
+L603073 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ All right - you didn't.
+L603072 +++$+++ u8399 +++$+++ m569 +++$+++ MORELLI +++$+++ I didn't knock Julia off.
+L603071 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I've never heard about you.
+L603067 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Do you mind putting that gun away? My wife doesn't care, but I'm in a delicate condition.
+L603066 +++$+++ u8399 +++$+++ m569 +++$+++ MORELLI +++$+++ I gotta talk to you.  I want you to tell me something and I want you to give it to me straight. Get me?
+L603614 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ His plan was still working beautifully. Wynant was established as being in town.  The watch chain was handed over....  ...with a slight delay...to the police. The only hitch was a man named Nunheim who had found out something.  Our hero paid Nunheim once to keep his mouth shut, and when Nunheim threatened him again, he bumped him off.
+L603613 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I hope you're well.
+L603612 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ It's the only way it makes sense.
+L603611 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Why are you saying it?
+L603610 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I don't know.
+L603609 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Is that true?
+L603606 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ After our hero had killed Wynant, he got a brilliant idea.  He realized that he and Julia could still collect money.  Wynant was supposed to be on a trip - no one knew where - so our dinner guest wrote letters to Macaulay, signing Wynant's name, so that Macaulay would continue to send the money to Julia.  He even telephoned Macaulay --  Do you remember?.... the first day that you came to see me... he telephoned that he was in town?
+L603605 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ If that knife is missing, I'll look for it in your back.
+L603581 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Let's see... where was I?  Oh, yes.  He went to find the man. That man was desperate!  He knew that he was caught dead to rights -- and with prison staring him in the face, he took the only way out. He killed Wynant.  It's terrible to tell you this way but your father's dead, Dorothy.
+L603580 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ You're going to drive me crazy!
+L603562 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I'm afraid you're lying, Mimi. You see, I really did see Wynant last night.
+L603561 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Serve the nuts - I mean, serve the guests the nuts.
+L603544 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I wish you'd tell me.
+L603543 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I wish you'd tell me who.
+L603542 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Yes.
+L603541 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I can't wait any longer.  Tell me, do you think one of them did it?
+L603540 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Thank you, Mrs. Charles.
+L603539 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ You give such charming parties, Mr. Charles.
+L603499 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Mimi, Jorgensen, Morelli, Tanner..... 
+L603498 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Mimi!
+L603497 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Mimi...
+L603496 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Who do you think did it?
+L603495 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Oh, they'll come.  I'll have Guild issue the invitations. 
+L603494 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ The suspects!  They won't come.
+L603493 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I'm going to give a party, and invite all of the suspects.
+L603492 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I've got a lulu -- why?
+L603491 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Got a nice evening dress?
+L603490 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Now Nick, what's that got to do with it?
+L603489 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Got a nice evening dress?
+L603488 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Yes!
+L603487 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I'm going to get the real murderer. I've got an idea.  Want to see me take him?
+L603486 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ What are you going to do?
+L603485 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I want to lie low till I get the whole dope.  I don't want to go off half-cocked.
+L603484 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Why not?
+L603483 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I can't help it. I can't tell a soul.  I didn't even tell Guild.
+L603482 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ But the poor kid's going crazy. She'd rather know her father was dead than that...
+L603481 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Hey... hey.  Don't do that.
+L603480 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I'm going to tell her.
+L603479 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ No.  Nobody but you.
+L603478 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Wynant dead?  Does Dorothy know?
+L603477 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Smart gal.
+L603476 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Then he couldn't have committed those other murders.
+L603475 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Couple of months anyway.
+L603474 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ How long has he been dead?
+L603473 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I remembered that Wynant had some shrapnel in his shin.  It often bothered him.  So I looked for it and I found it.  Gimme.
+L603472 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ You don't get another swallow 'til you really open up.
+L603471 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Sure.
+L603470 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Well, don't they?
+L603469 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Oh.  Well, the clothes for instance. They were carefully preserved, and the body was just as carefully destroyed.  The person who killed him counted on one thing... that all skeletons look alike.
+L603468 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ What things made you so sure?
+L603467 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Huh?
+L603466 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Nick, you'll drive me crazy.  What things?
+L603465 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Several things.  Hello, Fred.  We're hungry again. Yeah, and lots of onions.  Oh, and coffee.
+L603464 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ What makes you so sure it's Wynant's body?
+L603463 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ That's what they think... Guild and all of them.  They take it for granted that it's just another of Wynant's victims.  Guild's hot-footing it around now, looking for Wynant. That's all that troubles him.
+L603462 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ But they all said it was Rosebreen's.
+L603461 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Yup.  Don't you want something to eat?
+L603460 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Wynant's body?
+L603459 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ That's a fact.
+L603458 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Nick, you'd better lay off that liquor.
+L603457 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ It was his body that was buried there.
+L603456 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Nick!
+L603455 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ He was down in the shop.
+L603454 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ What do you mean?
+L603453 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I did find him!
+L603452 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I want you to stay and find Wynant.
+L603451 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ My soul, woman.  I give you three murders and you aren't satisfied.
+L603450 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Back to California
+L603366 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I don't care - I'm just used to you, that's all --  If you let anything happen to him, you'll never wag that tail again!
+L603365 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Why, I believe the little woman cares.
+L603364 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Don't say it that way. Say it as if you meant it.
+L603363 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Sure I will.
+L603362 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Nickie, take care of yourself won't you?
+L603361 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Goodbye, darling.
+L603360 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ You dog!
+L603359 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Not with all your money!
+L603358 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ You bet I wouldn't.
+L603357 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You wouldn't be a widow long.
+L603356 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Go on - go on - see if I care. But it's a dirty trick bringing me all the way to New York just to make me a widow.
+L603355 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I'll be all right.  I've got Asta to protect me.
+L603354 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I know but this is different. He's a crazy man. He might kill you.
+L603353 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Say you're the one who got me in this!
+L603352 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Nick - I won't have you going down there.
+L603351 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I don't know...  This thing has got my goat. I've got to find out.
+L603350 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ You mean, he might be hiding there?
+L603349 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ He went away lots of times when I knew him - but he never closed his shop. I've got a hunch something is up.
+L603348 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Why shouldn't be close it? He went away.
+L603347 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I've got hunch.  I'm going down to look at Wynant's shop, I want to find out why it's closed.
+L603346 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ What are you going to do?
+L603345 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Looks like a hold-up!
+L603344 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ What's that?  What are you up to?  Nickie - what is this?
+L603343 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ We're going sightseeing -- aren't we, Asta?
+L603342 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ He's just been for a walk.
+L603341 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I'm going to take Asta for a walk.
+L603340 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I wish they'd stop that.  It makes me fidgety. Do you think they'll find him, Nick?  He must be in New York....  Where do you think you're going?
+L603245 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Catch me letting you go alone!
+L603244 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ This may be a little rough - you'd better let us go alone.
+L603208 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Come on, Watson, we're going places.
+L603207 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ So am I.
+L603206 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ No reason.  Just a hunch.  But I'm going to find out.  I'm tired of being pushed around.
+L603205 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Why don't you?
+L603204 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I don't believe he did it.
+L603203 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ But Wynant --- ?
+L603202 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Maybe I will.
+L603201 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ The mystery's all gone. And I wanted you to find out who did it.
+L603200 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ What's the matter with you?
+L603199 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ What's the trouble, Asta?  Your balloon busted?  So's mine.
+L603198 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ All right, hard guy.  Get up and bleed on the rugs.
+L603197 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You talk as if I were Asta.
+L603196 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Sit down!
+L603195 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ It's not going to hurt me to get up.
+L603194 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Well, that's that.  Stay there, Nick!
+L603181 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Yes.  It's Asta's Christmas present.
+L603180 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Oh, it's a fire hydrant.
+L603168 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Oh take it!  Please take it!
+L603167 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Your guess is as good as mine.
+L603166 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ He wouldn't ask you to handle it if he were guilty.
+L603165 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I don't know.
+L603164 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Philadelphia.  Then he didn't do it, did he, Nick?
+L603163 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Let's see.  Where's it from?
+L603162 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Nick, listen.  From Clyde Wynant!  "Will you take charge of investigation on Julia Wolf murder. Communicate with Herbert Macaulay".
+L603160 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Yes.
+L603159 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Did I give it to you?
+L603158 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Yes.
+L603157 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Is that another Christmas present?
+L603156 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I'm stifling, but it's so pretty.  The Kirbys.
+L603155 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Aren't you hot in that?
+L603153 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Macaulay.
+L603152 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Who's that?
+L603151 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Hello... send him up.
+L603150 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ That's not true.  He never came near my tabloids.  That's one thing I always protect... my tabloids.
+L603149 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I read you were shot five times in the tabloids.
+L603148 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Yes.  I know all they know about the murder. And I'm a great hero. The Tribune said I was shot twice.
+L603147 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Finished with these?
+L603146 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You must admit I have good taste.
+L603145 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ You did.
+L603144 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Who gave it to you?
+L603143 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ No.  It's a Christmas present.
+L603142 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I never saw that before.
+L603140 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Well, didn't you?
+L603139 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ On it!  I'm in it ... They think I did it!
+L603138 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ He's got more sense than you have. Thank Heaven you're not on this case.
+L603137 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You're a fine watch dog.
+L603136 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ He'll be here.  Give him time to get his trousers on.  Where's Asta?  Asta!  Asta!
+L603135 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I wish that doctor'd come.  How do you feel?
+L603104 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Yeah.
+L603103 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Want a drink?
+L603102 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I'll be all right. Don't let's fuss till the doctor comes.
+L603098 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I'll get some towels. 
+L603097 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Sure -- I don't even feel it.
+L603096 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Well, quick -- get into bed.  Are you all right?
+L603095 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ There's one coming.
+L603094 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Someone get a doctor.
+L603093 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ It's all right.  It just grazed me.
+L603069 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ All right... shoot!  I mean... what's on your mind?
+L603068 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ You idiot!  Asta! Stop that!  Get down!  Now, stay there.
+L603064 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ That's great.  I was afraid I'd have to go to sleep.
+L603063 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Nick!  Nick!  There's someone to she you,
+L603057 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You'll have to keep them anyway. The man at the Aquarium said that he wouldn't take them back.
+L603056 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ What are you going to give me?  I hope I don't like it.
+L603055 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Breakfast.
+L603054 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ But it's Christmas now.
+L603053 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ At breakfast.
+L603052 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I think I would like that drink.  I'll give you your Christmas present now if you'll give me mine.
+L603051 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Darling, my guess is that Wynant killed Julia and Dorothy knows it. And the police'll catch him without my help.
+L603050 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ She thinks you can. It wouldn't hurt you to find out if you could, would it?
+L603049 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ There's nothing I can do to help her.
+L603048 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ That poor girl is in a tough spot.
+L603047 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Tomorrow I'll buy you a whole lot of detective stories.
+L603046 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I'd like to see you work.
+L603045 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ They were kidding you.
+L603044 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Everybody says you were a grand detective.
+L603043 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Maybe it would if I took it.
+L603042 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ No thanks.
+L603041 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Maybe a drink would help you.
+L603040 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ No.
+L603039 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Can't you get to sleep?
+L603038 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Don't you think you'd like to go back to detecting once in a while, just for the fun of it?
+L603037 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ That's jolly.
+L603036 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Good. I want to talk to you.
+L603035 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Yes.
+L603034 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Nick!  Nick!  Are you asleep?
+L603007 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Too bad you didn't bring your whip.
+L603006 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ She didn't tell me a thing.
+L602973 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Nothing, 'til I find out if it's the gun Julia Wolf was killed with.  Keep her in here, and don't let those reporters see her. They might believe her.
+L602972 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ What are you going to do with it?
+L602971 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ She brought it in.  Trying to make me believe she did it.
+L602970 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Where did you get that?
+L602931 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Rye.
+L602930 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ What are you drinking?
+L602929 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Isn't that my drink?
+L602928 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I wonder if they've --  I don't want to hear anything about it.
+L602927 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Sounds like a good case.  Girl mysteriously murdered.  No one knows who did it.  They haven't found any clues yet -- no gun -- no fingerprints --
+L602926 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Room service, please -
+L602925 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I haven't the time.  I'm much too busy seeing that you don't lose any of the money I married you for.
+L602924 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I'd better order some food.  That sounds like an interesting case.  Wouldn't you like to take it?
+L602918 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ We need ice.
+L602917 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Come on -- relax --  Give them a drink.
+L602689 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Santa Claus.
+L602688 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Who's that?
+L602687 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Take it easy.
+L602686 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I can't lie here.  I've got to get up and trim that darned Christmas tree.
+L602685 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ That last Martini.
+L602684 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ What hit me?
+L602683 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Six Martinis.  You're not going to have anything on me.
+L602682 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Six Martinis.
+L602681 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ How many drinks have you had?
+L602680 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Much better, thanks.
+L602679 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ By the way, how is your father's side?
+L602678 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I was hoping I wouldn't have to tell you.  Dorothy is really my daughter.  You see, it was Spring in Venice, and I was so young.  I didn't know what I was doing.  We were all like that on my father's side.
+L602677 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Who is she?
+L602676 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Only you, darling...  lanky brunettes with wicked jaws.
+L602675 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ You got types?
+L602674 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ If you like 'em like that.
+L602673 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Pretty girl.
+L602661 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ As long as there isn't a fire hydrant.  What I've gone through --
+L602660 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ He's well-trained.  He'll behave himself.
+L602659 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ You might have mentioned me first.
+L602655 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Oh, this is Andy --
+L602654 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I thought so.  He even tried to drag me into the gentlemen's --
+L602653 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I had him out this morning.
+L602652 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ He's dragged me into every gin mill on the block.
+L602651 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Hello, baby.
+L602650 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ So it's you he was after!
+L603628 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You shouldn't let that keep you from telling truth, Mimi.  Mrs. Jorgensen -  Were you ever divorced from Chris Jorgensen?
+L603627 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ That's what Mr. Wynant said to me. If she re-married, all the money was to go to the children.
+L603579 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ No... no.
+L603578 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I'm sorry.  Tanner, don't you want some wine?
+L603392 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ Police!
+L603391 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You can save that and tell it to the police.  They'll be here in a minute.
+L603390 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ Mr. Charles - she did - that's why he got sore at her and killed her. Listen, Mr. Charles --  I did do a little chiseling.  I come to bring it back and fix up the books.  I didn't want him to find out and come after me -
+L603389 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Trying to put it off on her?
+L603388 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ Honest, Mr, Charles.  I never touched that safe.  Them bonds that were missing... Julia took them.
+L603387 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Somewhere's where they might go out and leave the safe open?
+L603386 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ That time you sent me up last ... I learned book-keeping at Sing Sing.  I figured it might be an in for me somewhere's.
+L603385 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Well, that's a hot one.  You a bookkeeper!  When were you ever a bookkeeper?
+L603384 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ Yes, sir.  Julia Wolf got me a job as bookkeeper.
+L603383 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You worked here?
+L603382 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ I had a key. I worked here... till they closed the shop.
+L603381 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ How did you get in here?
+L603380 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ No, Mr. Charles.
+L603379 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Come on out, now.  He won't hurt you.  Back to your old tricks, eh, Tanner?
+L602895 +++$+++ u8403 +++$+++ m569 +++$+++ PEPPLER +++$+++ I wouldn't know.  That time he caught me was a accident.  I led with my right.
+L602894 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Was he a good detective?
+L602890 +++$+++ u8403 +++$+++ m569 +++$+++ PEPPLER +++$+++ He's a good guy.  He sent me up the river once.  Hey, Nick!
+L602889 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Yes.
+L602888 +++$+++ u8403 +++$+++ m569 +++$+++ PEPPLER +++$+++ You his wife?
+L602887 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Yes.  Nick!
+L602886 +++$+++ u8403 +++$+++ m569 +++$+++ PEPPLER +++$+++ Nick Charles here?
+L602556 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Oh, yes -- yes -- that's right -- 
+L602555 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ You're forgetting the check for your suitcase.  It's at the Grand Central.
+L602554 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Maybe she has.
+L602553 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ Maybe Miss Wolf has them.
+L602552 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ I know I left them there.
+L602551 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ Bonds, sir?
+L602550 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ I'm going to give her a wedding present.  Thought I'd better do it now, before I forget it.  I can drop them on my way to...  That's funny....  Where are those bonds?
+L602549 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ Well, congratulations.
+L602474 +++$+++ u8405 +++$+++ m569 +++$+++ TOM +++$+++ You did.
+L602473 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Who fired you?
+L602472 +++$+++ u8405 +++$+++ m569 +++$+++ TOM +++$+++ I'm fired.
+L602471 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Home?
+L602470 +++$+++ u8405 +++$+++ m569 +++$+++ TOM +++$+++ Home!
+L602469 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Where are you going?
+L602447 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ I don't care what you wanted to tell me.  You're through!  Get your things and get out!
+L602446 +++$+++ u8405 +++$+++ m569 +++$+++ TOM +++$+++ I just wanted to tell you...
+L602445 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Two weeks work gone for nothing.
+L602444 +++$+++ u8405 +++$+++ m569 +++$+++ TOM +++$+++ I'm sorry...  but...

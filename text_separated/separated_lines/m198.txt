@@ -1,0 +1,578 @@
+L540854 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Indefinitely.
+L540853 +++$+++ u3023 +++$+++ m198 +++$+++ B-9 +++$+++ For how long?
+L540852 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ No. I must deactivate you.
+L540851 +++$+++ u3023 +++$+++ m198 +++$+++ B-9 +++$+++ No. Can I move now?
+L540850 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Do you have any knowledge of the tactical abi1ities of this ship?
+L540849 +++$+++ u3023 +++$+++ m198 +++$+++ B-9 +++$+++ No.
+L540848 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Do you know anything about Shinzon's plans against the Federation?
+L540847 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ I know.
+L540846 +++$+++ u3023 +++$+++ m198 +++$+++ B-9 +++$+++ I do not understand.
+L540845 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ You have been programmed to gather information that can be used against this ship.
+L540844 +++$+++ u3023 +++$+++ m198 +++$+++ B-9 +++$+++ Why?
+L540843 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Because you are dangerous.
+L540842 +++$+++ u3023 +++$+++ m198 +++$+++ B-9 +++$+++ Why?
+L540841 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ No, I have only activated your cognitive and communication subroutines.
+L540840 +++$+++ u3023 +++$+++ m198 +++$+++ B-9 +++$+++ Brother. I cannot move.
+L540519 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Is that your final answer?
+L540518 +++$+++ u3023 +++$+++ m198 +++$+++ B-9 +++$+++ No.
+L540517 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Do you know the name of the Captain of this vessel?
+L540516 +++$+++ u3023 +++$+++ m198 +++$+++ B-9 +++$+++ No.
+L540515 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Can you remember our father?
+L540514 +++$+++ u3023 +++$+++ m198 +++$+++ B-9 +++$+++ I am in a room with lights.
+L540513 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Do you know where you are?
+L540449 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ No. My name is Data... I am your brother.
+L540448 +++$+++ u3023 +++$+++ m198 +++$+++ B-9 +++$+++ You are me.
+L540447 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Do you know who I am?
+L540445 +++$+++ u3023 +++$+++ m198 +++$+++ B-9 +++$+++ I was in space for a long time. Then a ship belonging to the “Talosians" picked me up. They asked me where I came from. I told them people called the “Pakleds" took me from my homeworld. They are fat…
+L540444 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Yes, please continue.
+L540443 +++$+++ u3023 +++$+++ m198 +++$+++ B-9 +++$+++ Fuzzy face is gone.
+L540436 +++$+++ u3023 +++$+++ m198 +++$+++ B-9 +++$+++ I was taken from my homeworld by people called the "PakJeds." They are fat. They traded me to a ship belonging to the "Bolians." The "Bolians" are blue. They put me in a seat and asked me questions. Then they were attacked by another ship...
+L540435 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Can you tell me how you came to be on the planet where we found you?
+L541108 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ Soon then.  I’ll save the last dance for you.
+L541107 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Not tonight, I have work here.
+L541106 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ They're running me ragged. Nothing but question day and night... I love it! Come to dinner and 1'1 tell you all about it. There's a Bajoran band at the officer's mess.
+L541105 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Reminds me of a young doctor I used to know...
+L541104 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ You can' t imagine them, Jean Luc. They're kids! All with advance degrees in xenobiology and out to conquer every disease in the quadrant.
+L540878 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ How far we've come. Let me know if you need anything.
+L540877 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ That was another time.
+L540876 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ To seek out new life and new civilizations. Zephyr. Cochran’s own words. When Charles Darwin set out on the H.M.S. Beagle, on his journey into the unknown... he sailed without a single musket.
+L540869 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I'm counting on it... We've been ordered to head to sector 3274. Starfleet is diverting the fleet to meet us there.
+L540868 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ But we do have one advantage.  He needs your blood to live. He might come after you first.
+L540838 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ I can't be sure but the rate of decay seems to be accelerating.
+L540837 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ How long does he have?
+L540832 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Dying?
+L540831 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ As a result the temporal sequencing was never activated. Remember, he was supposed to replace you at nearly your current age. He was engineered to skip thirty years of life. But since the RNA sequencing was never activated, his cellular structure has started to break down. He's dying.
+L540830 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ But the Romulans abandoned the plan.
+L540829 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ The more I studied his DNA the more confusing it got. Finally I could only come to one conclusion... Shinzon was created with temporal RNA sequencing. He was designed so that at a certain point his aging process could be accelerated to reach your age more quickly, so he could replace you.
+L540729 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Can you describe it, Deanna?
+L540728 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ Aside from slightly elevated adrenalin and serotonin levels, you're completely normal.
+L540709 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I wish I could believe that, Doctor.
+L540708 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ Jean Luc, Whatever you were... Right now you're the man you've made yourself. He's someone else.
+L540705 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Yes.
+L540704 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ Is he very much like you were?
+L540703 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I so wanted to believe Shinzon. But the Thalaron radiation can't be explained away. Whatever he's after, it's not peace.
+L540702 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ He turned out all right.
+L540701 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ He was a damn fool. Selfish and ambitious. Very much in need of seasoning.
+L540700 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ He was a bit proud as I recall.
+L540699 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Remember him?
+L540698 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ You're working late.
+L540697 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Beverly, come in.
+L540694 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Understood. Keep on it. I need to know what he has and how to neutralize any threat. Give me options.
+L540693 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ It has the ability to consume organic material at the subatomic level. I can't overestimate the danger of Thalaron radiation, Jean Luc. A microscopic amount could kill every living thing on this ship in a matter of seconds.
+L540604 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I think a skin cell’s the more likely of the two.
+L540603 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ About twenty-five years ago. They probably used a hair follicle or skin cell.
+L540602 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ When was he... created?
+L540269 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ If you start tearing up I promise to beam you out. Level one medical emergency.  There’s no crying in Starfleet.
+L540268 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Please, Beverly, this is hard enough.
+L540267 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ Sort of like losing a son and gaining an empath, isn't it?
+L540264 +++$+++ u3024 +++$+++ m198 +++$+++ BEVERLY +++$+++ It'll serve you right.
+L540263 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I notice Dr. Crusher laughing along with the rest of you. As most of you know, the doctor will also soon be leaving the Enterprise, to assume command of Starfleet Medical. Again, I'm forced to ask, Beverly, have you considered what you're doing to little ole’ me?! I'll probably get some old battle-axe of a doctor who'll tell me to eat my vegetables and put me on report if I don’t show up for my physical on time!
+L541055 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Sir.
+L541054 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Negative.
+L541053 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Sir, allow me to go. You are needed here.
+L541022 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Deanna, stand by.  Open a channel.
+L541021 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ We are being hailed.
+L541006 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Divert power and compensate.
+L541005 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Captain, we have lost ventral shielding on deck twenty nine.
+L540915 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Full axis rotation to port! Fire all ventral phasers!
+L540914 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ We are losing dorsal shields.
+L540903 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Commander Riker, evasive maneuvers!
+L540902 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Yes, sir. The Rift effects all long-range communications.
+L540901 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ It's interfering with our uplink from Starfleet cartography?
+L540900 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ We are passing through the Bassen Rift. The projections will return when we have cleared it.
+L540898 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ I aspire, sir. To be better than I am. The B-9 does not. Nor does Shinzon.
+L540897 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ How can you be sure?
+L540896 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ No, sir, it is not possible. The B-9 is physically identical to me, although his neural pathways are not as advanced. But even if they were, he would not be me.
+L540895 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ He may have already rejected my humanity, but you also have a twin
+L540894 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ He would deny a "human" connection is possible. He considers himself entirely Reman.
+L540893 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ But so much is the same. On a biological level he is... and I will not accept the idea that there is nothing I can do. I have a responsibility to try to make a human connection with him.
+L540892 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ I do not agree. Although you share the same genetic structure, the events of your life have created unique individual.
+L540891 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Yes.
+L540890 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Of you?
+L540889 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ "For now we see but through a glass darkly..." He said he's a mirror.
+L540888 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ At our current velocity we will arrive at sector 3274 in approximately 40 minutes.
+L540887 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ How long until we reach the fleet?
+L540811 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Fire!
+L540810 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Ready, Captain.
+L540809 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ We're about to find out... Power up disruptors and fire on my mark.
+L540808 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Do you think this is a wise course of action?
+L540807 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Well then... only one way to go.
+L540806 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Affirmative, sir. Negative, sir. They have instigated security overrides and erected a force field around the external portals.
+L540805 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Can you open the shuttlebay doors?
+L540804 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Port thrusters, sir. Would you like me to drive?
+L540803 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ What do you imagine this is?
+L540801 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ While I find that fascinating, Data, we really need that Goddamned door open!
+L540800 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ They are trying to override the access codes. Reman is really a most complex language with pictographs representing certain verb roots and...
+L540799 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Alacrity would be appreciated, Commander.
+L540795 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ There is a shuttlebay 948 meters from our current location.
+L540794 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ We'll find a way off together. Recommendations?
+L540793 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Yes, sir.
+L540792 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ It'll only work for one of us.
+L540791 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Geordi equipped me with the prototype for the Emergency Transport Unit. I recommend you use it to return to the Enterprise.
+L540790 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ It would appear so.
+L540789 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ A weapon.
+L540787 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Aye, sir... This way.
+L540786 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ A bit less florid, Data.
+L540784 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ He believes he has our communications protocols. But they will give him inaccurate locations for all Starfleet vessels.
+L540783 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Good work. The download?
+L540782 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ My mission was a success, sir. I have discovered the source of the Thalaron radiation.
+L540707 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ On my way.
+L540706 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Data to Captain Picard. Geordi and I have identified the source of the unauthorized computer access. And, I believe, we have also discovered an opportunity to gain a tactical advantage.
+L540503 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Well... it seems we're truly sailing into the unknown. Keep at it. Anything you can give me would be appreciated. Dismissed.
+L540502 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Starfleet intelligence was only able to provide a partial account of his military record. We can infer he is relatively young and a capablecommander. He fought seventeen major engagements in the war. All successful. Beyond that, we know nothing.
+L540423 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Sorry, sir.
+L540422 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Data!
+L540414 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I can see that.
+L540413 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ He is very observant.
+L540392 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Mister Worf, accompany Data please.
+L540391 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ The final signature is approx- imately 300 meters up that incline.
+L540383 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Thank you, Data.  Let's see what she can do.
+L540382 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ The closest signature is two kilometers to the west... that direction, sir.
+L540314 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ New worlds. Yes Data, brave new worlds...
+L540313 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ To new worlds...
+L540312 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Now, you make a toast.
+L540311 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ If I were... I believe my memory engrams would sense the absence of your specific reactions and behavior. I would "miss you."
+L540310 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ You never know what's over the horizon, Data. Before too long you'll be offered a command of your own.
+L540309 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ The choices I made have led me here as well. This is the only home I have ever known. I cannot foresee a reason for leaving.
+L540307 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Yes. And, frankly, I envy them as well. They've made important choices; they're going to have great challenges ahead of them. New worlds to conquer...
+L540306 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ That is because you have a familiarity with them. You can predict specific reactions and behavior and are comfortable in that knowledge.
+L540305 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Well. I suppose it does a bit. I'm very happy for them, of course, but I'm going to miss them. The ship will seem... incomplete without them.
+L540304 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ And this makes you "sad"?
+L540303 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Will and Deanna joining the Titan. Dr. Crusher going to Starfleet Medical...
+L540302 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ And you were particularly aware of this feeling because Commander Riker will be leaving to assume command of the Titan?
+L540301 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I understand why it would seem confusing. Certain human rituals... like weddings, birthdays or funerals evoke strong and very complex emotions. These rites carry great weight with us because they denote the passage of time.
+L540300 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Sir.  I noticed an interesting confluence of emotion at the wedding. I am familiar with the human concept of tears through laughter and its inverse, laughter through tears, but I could not help wondering about the human capacity for expressing both pleasure and sadness simultaneously.
+L540299 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ To happy endings.
+L540298 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ So... To happy endings.
+L540421 +++$+++ u3029 +++$+++ m198 +++$+++ HEAD +++$+++ Why?
+L540420 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Because the captain has to concentrate on piloting the vehicle.
+L540419 +++$+++ u3029 +++$+++ m198 +++$+++ HEAD +++$+++ Why?
+L540418 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ This is not an appropriate time for a conversation.
+L540417 +++$+++ u3029 +++$+++ m198 +++$+++ HEAD +++$+++ You have a red shirt.
+L540401 +++$+++ u3029 +++$+++ m198 +++$+++ HEAD +++$+++ You do not look like me.
+L540400 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ You are not looking at your- self. You are looking at me.
+L540399 +++$+++ u3029 +++$+++ m198 +++$+++ HEAD +++$+++ Why am I looking at me?
+L541062 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ 
+L541061 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ What is our approximate distance?
+L540989 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ Emergency force fields are holding.
+L540988 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ We have lost structural integrity on decks twelve through seventeen, sections four through ten.
+L540530 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ I am not.
+L540529 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ Don't give up hope, Data. I know, I know, you're not capable of hope.
+L540528 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ But I believe he will prove incapable of performing higher functions.
+L540527 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ No, I do not mind.
+L540526 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ It's possible the extra memory port is interfering with the engram processing. Mind if I keep him here and run some diagnostics?
+L540525 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Dr. Soong must have found it unnecessary in later versions.
+L540524 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ It seems to be a redundant memory port.  Maybe it's for provisional memory storage in case his neural pathways overload?
+L540523 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ What purpose does this serve?
+L540511 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ Maybe he's not supposed to be like you. Maybe he's supposed to be just like he is.
+L540510 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Yes.
+L540509 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ An individual more like you, you mean.
+L540508 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ I feel nothing, Geordi. It is my belief that with my memory engrams he will be able to function as a more complete individual.
+L540507 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ He'd have all your memories too. You feel comfortable with that?
+L540506 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Captain Picard agrees that the B-9 was probably designed with the same self-actualization parameters as myself. If my memory engrams are successfully integrated into his positronic matrix, he should have all my abilities.
+L540505 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ I can't believe the Captain went along with a memory download.
+L540504 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ At present he serves no useful function. Dr. Soong created us to become active and useful members of society. I do not believe he would have wanted the B-9 to live out his life in his present state.
+L540430 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Do you have a name, sir?
+L540429 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ Well, he seems to have the same internal mechanics as Data but not as much positronic develop- ment.  The neural pathways aren't nearly as sophisticated. I’d say he's a prototype. Something Dr. Soong created before Data .
+L540375 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ Captain, I don't recommend transporting, that ion storm doesn't look very neighborly. -It could head this way with- out much warning .
+L540374 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Isolated pockets of humanoids. It appears to be a pre-warp civilization at an early stage of industrial development.
+L540360 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ I thought only me, myself and Lore.
+L540359 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ How many of you did Dr. Soong make?
+L540358 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Since positronic signatures have only been known to emanate from androids such as myself, it is logical to theorize that there is an android such as myself on Kolarus III.
+L540411 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Thank you.
+L540410 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ If you wouldn't mind.
+L540403 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ I would like to pick you up now. May I do that?
+L540402 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ No.
+L540398 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ The resemblance is... striking.
+L540397 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ It's you.
+L540388 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ Like me, it has been designed with modular power sources.
+L540387 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ Why is it moving?
+L540386 +++$+++ u3025 +++$+++ m198 +++$+++ DATA +++$+++ It appears to be...  ... an arm.
+L541049 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ This isn't about me anymore.
+L541048 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ But how can he? He'll kill you.
+L540994 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Make it so.
+L540993 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ The one thing he may have forgotten in the course of battle: me.
+L540992 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Counselor?
+L540991 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ Captain -- I might have a way to find them.
+L540864 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I know how he thinks.
+L540863 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ How can you be certain?
+L540732 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Permission denied. If you can possibly endure any more of these assaults.  I need you at my side. Now more than ever I...
+L540731 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ Shinzon's Viceroy seems to have the ability to reach into my thoughts. I've become a liability... I request to be relieved of my duties.
+L540612 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I not only know him, Deanna, I am him.. and he is me!
+L540611 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ Captain, don't assume he's anything like you are. You should resist the urge to think you know him.
+L540610 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ How could I not?
+L540609 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ Sir, the strongest sense I had was that he's more than urious about you. He very much wants to know you.  The same way you want to know him.
+L540608 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ I don't know.
+L540607 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Is he sincere about wanting peace?
+L540606 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ I would say he's been trained to resist telepathy. What I could sense of his emotions were erratic, very hard to follow.
+L540471 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ And I you.
+L540470 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I'm going to miss you.
+L540469 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ I don't believe that, sir. We’ve shared many disappointing journeys.
+L540468 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ As much as we care for him, Deanna... we have to remember that Data isn't capable of disappointment.
+L540467 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ The B-9 is like a slow child, sir. And Data, in his own way, has assumed the position of a parent or guardian. I'm afraid he has expectations based on his own experiences. He'll be disappointed when the BI-9 cannot meet those expectations.
+L540466 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ You're speaking of emotional investment?
+L540465 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ It's about Data  I've watched him with the B-9 and I'm troubled. Data's desire for a "family" is very strong. I'm afraid he may be investing too much in the B-9.
+L540464 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Of course, sit down.
+L540463 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ Do you have a moment, sir?
+L540462 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Counselor.
+L540289 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ With pleasure, Captain.
+L540288 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ May I have this dance?
+L540281 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ The hell you will. You know too much about me as it is ... Now you promised there are no speeches during the ceremony on Betazed.
+L540280 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ And you needn't worry. I'll brief your new counselor on everything she needs to know.
+L540279 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ The least I could do for you, Deanna.  Besides, you know me... I’m a talking head.
+L540278 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ Really, Captain, it was a lovely toast.
+L540714 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I can feel your desire, Deanna.
+L540713 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ No.
+L540712 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Very logical, Deanna... But your heart doesn't constrain itself to mere logic.  To leave all of this behind and be with me.
+L540711 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ You're not here.
+L540625 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ You sick bastard!
+L540624 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I'll always be with you now. Now and forever.
+L540622 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Can you feel my hands... are they real? Can you feel my lips, my loins?
+L540621 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ This isn't real.
+L540620 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ He can never know you as I know you... He can never touch you as I touch you.
+L540619 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ No!
+L540618 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Imzadi. This is so good.
+L540570 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Deanna Troi of Betazed. Empathic and telepathic abilities, ship's counselor. All of this I knew... But I didn't know you were so beautiful.
+L540569 +++$+++ u3026 +++$+++ m198 +++$+++ DEANNA +++$+++ I'm only half human.
+L541078 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Thank you, Commander.
+L541077 +++$+++ u3027 +++$+++ m198 +++$+++ DONATRA +++$+++ This is Commander Donatra of the Valdore. We're dispatching shuttles with medical personnel and supplies.
+L541076 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Open a channel.
+L540987 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Understood.
+L540986 +++$+++ u3027 +++$+++ m198 +++$+++ DONATRA +++$+++ 
+L540985 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Do you have life support?
+L540984 +++$+++ u3027 +++$+++ m198 +++$+++ DONATRA +++$+++ I'm afraid that drink will have to wait, Captain.
+L540965 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ When this is over, I owe you a drink.
+L540964 +++$+++ u3027 +++$+++ m198 +++$+++ DONATRA +++$+++ The Empire considers this a matter of internal security. We regret you've become involved.
+L540963 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Your timing is impeccable, Commander.
+L540962 +++$+++ u3027 +++$+++ m198 +++$+++ DONATRA +++$+++ Captain Picard, Commander Donatra of the Warbird Valdore. Might we be of assistance?
+L541081 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Number One.  You have the bridge.
+L541080 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ I'll take care of it, sir.
+L541079 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Geordi... prepare the shuttle- bay for arrivals. They don't know our procedures so just... open the doors.
+L541075 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ On screen.
+L541074 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ Sir, we're being hailed.
+L541058 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ Aye, sir.
+L541057 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ You have the bridge, Commander. Use all available power to move away from the Scimitar.  Now, Mister La Forge.
+L541052 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ That's an order, Commander.
+L541051 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ Sir, we won’t be able to bring you back. It’s a one way trip. Captain, I don't know if the transporter...
+L541050 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Prepare for a site-to-site transport.
+L541047 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ The targeting sequence should take about four minutes.
+L541046 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ How long until he can fire?
+L541031 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ Ready, sir!
+L541030 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Deanna, on my mark.
+L541029 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ Aye, sir.
+L541028 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Geordi, put 211 power to the engines.  Take it from life support if you have to -- everything you can give me.
+L541019 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ We’ve got him!
+L541018 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ Sir?
+L541017 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ He thinks he knows exactly what I'm going to do.
+L541016 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ He wants to look me in the eye.
+L541015 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ What's he doing?
+L541012 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ What if we target all phasers in a concentrated attack?
+L541011 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ He's getting his cloak back. We have exhausted our compliment of photon torpedoes. Phaser banks are down to four percent.
+L540858 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ And that's exactly what he's going to do.
+L540857 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ It's called a Cascading Bio- genic Pulse. The unique properties of Thalaron radiation allow the energy beam to expand almost without limits. Depending on the radiant intensity it could encompass a ship... or a planet.
+L540692 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ As I remember, Thalaron research was banned in the Federation because of its bioqenic properties.
+L540691 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ Which is why our initial scans didn't pick it up. But he's got it, Captain.
+L540690 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I thought Thalaron radiation was theoretical.
+L540688 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ There's something else. I was reviewing the sensor logs.
+L540687 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Set up a security program to detect any unusual data stream rerouting. If it happens again, we want to be ready.
+L540686 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ That's what I don't get -- it's mostly basic stellar cartography: star charts; communications protocols; some uplinks from colony tracking stations. It's not even restricted material.
+L540685 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ What programs were accessed?
+L540684 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ It's going to take some time to find out -- the data stream was rerouted through substations all over the ship.
+L540497 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ Then how did a Reman get to be Praetor? I don't get it.
+L540496 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Cannon fodder.
+L540373 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ What do we know about the population?
+L540372 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ I read six distinct positronic signatures, spread out over a few kilometers on the surface.
+L540357 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Theories?
+L540356 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ Uncharted. We'll have to get closer for a more detailed scan.
+L540355 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ What do we know about the planet?
+L540354 +++$+++ u3028 +++$+++ m198 +++$+++ GEORDI +++$+++ It's very faint but I've isolated it to the third planet in the Kolarin system.
+L540487 +++$+++ u3030 +++$+++ m198 +++$+++ JANEWAY +++$+++ Let's hope that luck holds. Janeway out.
+L540486 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Just lucky, Admiral.
+L540485 +++$+++ u3030 +++$+++ m198 +++$+++ JANEWAY +++$+++ 
+L540484 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Not with the Romulans.
+L540483 +++$+++ u3030 +++$+++ m198 +++$+++ JANEWAY +++$+++ 
+L540482 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Understood.
+L540481 +++$+++ u3030 +++$+++ m198 +++$+++ JANEWAY +++$+++  Believe me, we don't under- stand it either. You're the closest ship so I want you to high tail it over there and hear what he has to say. Get the lay of the land, If the Empire becomes unstable, it could mean trouble for the entire quadrant.
+L540480 +++$+++ u3030 +++$+++ m198 +++$+++ JANEWAY +++$+++ There's more... as always. He's Reman.
+L540479 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ New Praetor?
+L540478 +++$+++ u3030 +++$+++ m198 +++$+++ JANEWAY +++$+++ A diplomatic mission. We've been invited, believe it or not. Seems there's been some kind of internal political shakeup. The new Praetor, someone called Shinzon, has requested a Federation envoy.
+L540477 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ With or without the rest of the fleet?
+L540476 +++$+++ u3030 +++$+++ m198 +++$+++ JANEWAY +++$+++ 
+L540475 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Admiral Janeway. Good to see you.
+L540778 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ I look forward to the sport.  Take him.
+L540777 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ There'll be another after me. And another after that. You'll find we're a resilient species.
+L540776 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ It would take me but an instant to tear that valiant heart from your chest.
+L540775 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ Listen to him, android. Such a small and weak creature. Yet he roars so valiantly...
+L540774 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ That will never happen.
+L540773 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ I'm preparing her for Shinzon. To sooth him as she soothes you. To stand at his side as she does at yours.
+L540772 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ What are you doing to Counsellor Troi?
+L540771 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ So, human... you've met your better self!
+L540555 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ I am not Shinzon. I am his Viceroy. We are sending transport coordinates.
+L540554 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Praetor Shinzon, I'm pleased to...
+L540553 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ Enterprise. We are the Reman Warbird Scimitar.
+L541118 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ Your new chair, sir.
+L541117 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ What's this?
+L541089 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ On my way. Please notify Commander Riker.
+L541088 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ Captain, the Hemingway has arrived to tow us to spacedock.
+L540969 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ Aye, sir.
+L540968 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Coordinate our attack with the Valdore's tactical officer. Triangulate fire on any shield impacts.
+L540922 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ On screen.
+L540921 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ Sir, we're being hailed.
+L540911 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ Aye, sir
+L540910 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Worf, prepare a full phaser spread, zero elevation. All banks on my mark. Scan for shield impacts and stand by photon torpedoes.
+L540683 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Who was it?
+L540682 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ Sir, we've had an unauthorized access into the main computer.
+L540552 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ On screen.
+L540551 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ We're being hailed.
+L540548 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ Fifty-two disruptor banks, twenty-seven photon torpedo bays, primary and secondary phased shields.
+L540547 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Tactical analysis, Mister Worf.
+L540546 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ Captain!
+L540545 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ No!
+L540539 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Not yet, Mister Worf.
+L540538 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ Sir, I recommend we raise shields.
+L540394 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ If you don't mind.
+L540393 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ To find the head, sir?
+L540352 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ What sort of signature?
+L540351 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ I'm picking up an unusual electromagnetic signature from the Kolarin system.
+L540350 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Come now, a big, strapping fellow like you? What are you afraid of?
+L540349 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ Captain. I think it is inappropriate for a Starfleet officer to appear...  Naked.
+L540348 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Won’t do what, Mister Worf?
+L540347 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ I won't do it.
+L541101 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ The honor was mine. Captain Riker.
+L541100 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Serving with you has been an honor.
+L541099 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ I intend to.
+L541098 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ When your first officer insists that you can't go on away missions... Ignore him.
+L541097 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Anything.
+L541096 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I promise you in time, she'll become your home ...If I could offer you one piece of advice?
+L541095 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ But she's not the Enterprise.
+L541094 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ She's the most beautiful ship I’ve ever seen.
+L541093 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ The Titan's a fine ship, will. And she's getting a captain worthy of her.
+L540920 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Agreed.
+L540919 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Unless we can disable his cloak we're just going to be firing in the dark.
+L540918 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Counselor Troi, report to the bridge.
+L540907 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ He's firing through his cloak. We can't get a lock.
+L540906 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Report.
+L540871 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ We can only hope so.
+L540870 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Strength in numbers?
+L540862 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ And the Romulans invade.
+L540861 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Oh boy. Destroy humanity and the Federation is crippled.
+L540860 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ His hatred of the Federation is apparent. He would have built a weapon of that scope for one reason. He is going after Earth.
+L540859 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Sir?
+L540834 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Can anything be done for him?
+L540833 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ He wasn't designed to live a complete, human life span.
+L540557 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Away team. Transporter room four.
+L540556 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Not very chatty.
+L540550 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ She's a predator.
+L540549 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ She's not out for a pleasure cruise.
+L540541 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Patience. Diplomacy is a very exacting occupation. We can wait.
+L540540 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Captain, with all due respect to diplomatic protocols  -- the Federation Council's not sitting out here, we are.
+L540536 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Counselor?
+L540535 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ It's working.
+L540534 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ It's an old psychological strategy, Number One. To put him in a position of dominance and make us uneasy.
+L540533 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Why don't they answer our hails?
+L540500 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ The Praetor's power has always been the Romulan fleet. They must be behind him.
+L540499 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ A coup d'etat?
+L540498 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ We have to assume he had Romulan collaborators.
+L540473 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Acknowledged ...  ...I'll talk to Data.
+L540472 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Captain, you have an Alpha Priority communication from Starfleet Command.
+L540380 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Captain's prerogative, Will. There's no foreseeable danger... and your wife would never forgive me if anything happened to you.
+L540379 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Sir --
+L540378 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I appreciate your concern, Number One, but I've been itching to try out the Argo.
+L540377 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Captain, I hope I don't have to remind you --
+L540365 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Where we will all honor the Betazoid traditions. No cold feet, or any other parts of our anatomy. Now, if you’ll excuse me.  I’ll be in the gym.
+L540364 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Thank you, sir...
+L540363 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I think it's worth a look. Don't worry, Number One, we'll get you to Betazed with time to spare.
+L540362 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Still well on our side...
+L540361 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Diverting to the Kolarin system takes us awfully close to the Romulan Neutral Zone.
+L541025 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Don't you think it's time to surrender? I'll have my cloak back in a matter of minutes and your poor ship is shot to pieces. Why should the rest of your crew have to die?
+L541024 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I am.
+L541023 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I hope you're still alive, Jean Luc.
+L540954 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I have no choices! I can't fight what I am!
+L540953 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ You can still make a choice! Make the right one now!
+L540952 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ It’s too late.
+L540951 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Please.
+L540950 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ That's your life... not mine.
+L540948 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ But you want to.
+L540947 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I don't know.
+L540946 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ So if I gave you my life, what would you do with it? Would you spend the years in a blaze of hatred as you are now? Or could you change? Could you try to remember a mother's touch you never felt? A father's words you never heard? Could you do that?
+L540945 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Yes.
+L540941 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ He is what his life has made him!
+L540940 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ The man who is Jean Luc Picard and Shinzon of Remus won't exterminate the population of an entire planet! He is better than that!
+L540938 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I see more than what you are.
+L540937 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Childish dreams, Captain. Lost in the dilithium mines of Remus. I'm what you see now.
+L540936 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Not so long.
+L540935 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Long ago.
+L540934 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I know you as well as I know myself, Shinzon. There was a time you looked at the stars and dreamed of what might be.
+L540933 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Look at me, Shinzon! Do you feel the blood pumping inside you? Your hands, your eyes, your nature, are the same as mine. Buried deep inside you beneath the years of pain and anger is a capacity you've forgotten. It's the one way our mirror can reflect the two of us exactly because it's the very thing that truly defines us. To be human is to try to make yourself better than you are.
+L540932 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I know... you'll all gladly die to save your home world.
+L540931 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ You know that's not possible.
+L540930 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I have little interest in your quaint vessel, Captain. If the Enterprise will withdraw to a distance of one hundred light years, it will not be harmed.
+L540929 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ And what of the Enterprise?
+L540928 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ To accept your surrender. I can clearly destroy you at any time. Lower your shields and allow me to transport you to my ship.
+L540927 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Why are you here?
+L540926 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ It's just the two of us now, Jean Luc, as it should be... Your ship and mine... You and me.
+L540925 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ We are.
+L540924 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ You can't trace my holographic emitters, Captainn. So don't bother. And you can't contact Starfleet. We're quite alone.
+L540759 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I think the facts speak for themselves. The same noble Picard blood runs in our veins. Had you lived my life, you'd be doing exactly as I am. Look in the mirror, and see yourself.
+L540758 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I'm incapable of such an act, and so are you.
+L540757 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ It amazes me how little you know yourself.
+L540756 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Think about what you're doing, Shinzon. Are you ready to plunge the entire quadrant into war to satisfy your own personal demons?
+L540755 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Oh, but it does.  We will no longer bow like slaves before anyone. Not the Romulans and not your mighty Federation. We're a race bred for war. For conquest.
+L540754 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ If your issues are with me... This has nothing to do with my ship and nothing to do with the Federation.
+L540753 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ My life is meaningless as long as you're alive. What am I while you exist? A shadow? An enigma?
+L540752 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I won't defend my life to you.
+L540751 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I see an old man, set in his ways, afraid to live without a uniform to prop him up and a Starfleet regulation to tell him what to do. I see the man I will never be.
+L540750 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I see a young man trying desperately to deny who he is.
+L540749 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ And I'm not quite human. So what am I? What do you see?  Do you see a life you might have led? Lost youth never to be recaptured?
+L540748 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ You're not Reman.
+L540747 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ It's about destiny, Picard. About a Reman outcast who...
+L540746 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ What's this all about?
+L540745 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Maybe I'll train it to do little tricks for me like your robot does.  Or maybe I’ll snap its ugly head off.
+L540742 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Don't be so vain. After we found it, we made a few modifications. An extra memory port, a hidden transponder. Perhaps your eyes will be a bit less confident when you learn I've gained access to Starfleet's communications protocols. I now know the location of your entire fleet ...  You may go.
+L540741 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ All of this so you could capture me?
+L540739 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I need a sample of your blood. What do your Borg friends say? Resistance is futile. 
+L540738 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ What are you doing?
+L540736 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I was lonely...
+L540735 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Why am I here?
+L540734 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Hello, Jean Luc.
+L540676 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ In time.
+L540675 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ In time, Jean Luc.
+L540674 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I'm honored to think I might someday speak with such eloquence.
+L540673 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ If there's one ideal the Federation holds most dear it's that all men, all races, can be united. From the first time the Vulcans came to Earth we've sought a future of peace. Nothing would make me more proud than to take your hand in friend- ship. In time. When trust has been earned.
+L540672 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I know.
+L540671 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Shinzon... I'm trying to believe you.
+L540670 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ There is that.
+L540669 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ With a full head of hair.
+L540668 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I always hoped I would hit two meters.
+L540667 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ So I'm not as tall as you expected?
+L540666 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Age before rank, Jean Luc.
+L540665 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ After you, Praetor.
+L540664 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ New worlds.
+L540663 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ And you dreamed about what was up there. About...
+L540662 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Yes.
+L540661 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Looking up at the stars.
+L540660 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ No. I was the first Picard to leave Earth.  It caused quite a stir, In fact. But I had spent my whole life...
+L540659 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Were we always explorers?
+L540658 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ There's so much, and so much of it is dull...
+L540657 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I want to know  where I come from. The Remans gave me a future. You can tell me about my past.
+L540656 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ All I have is my personal feelings.  I wasn't raised with the ideals of the Federation. But I'm trying to understand them now. To live up to them. To live up to you.
+L540655 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ And if you had lived my life you would understand that there is a great respons- ibility in representing the Federation. I can't let my personal feelings unduly influence my decisions.
+L540654 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Of course you do. If you had lived my life and experienced the suffering of my people... you’d be sitting where I am now. At least I hope you would.
+L540653 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I have no reason to.
+L540652 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ You don't trust me.
+L540651 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ No race should be a slave to another.
+L540650 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ You're doing this to liberate the Remans?
+L540649 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ For thousands of years the Romulan Senate has met in this chamber and dictated the fate of its sister-planet... But the time has come for us to live as equals.
+L540648 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ They sent me there to die. How could a mere human survive the dilithium mines? It was...  I was a slave. And a monster. The only thing the Romulan guards hated more than the Remans was me. But one man took pity on me: the man who became my Viceroy. He taught me how to survive. And in that dark place, where there was nothing of myself, I found my Reman brothers. They showed me the only kindness I ever knew.
+L540647 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ How did you end up on Remus?
+L540646 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Our eyes reflect our lives, don't they? Yours are so confident.
+L540645 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Yes. The eyes have it.
+L540644 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ A lifetime of violence will do that. My nose was broken four times. And my jaw... But so much is the same. The eyes, you recognize the eyes.
+L540643 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Not quite. I envy the hair- line.
+L540642 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ It's not quite the face you remember.
+L540641 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ You'll acquire a taste for it.
+L540640 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Romulan ale -- I'm surprised. I can't stand it.
+L540639 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ As happens so frequently here on Romulus, a new government came to power. They decided to abandon the plan -- frankly, I think they were afraid I'd be discovered and it would lead to war. They weren't ready for that.
+L540638 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ What happened?
+L540637 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ And when I was ready they were going to replace you with me, an exact biological duplicate. Put a Romulan agent at the heart of Starfleet to.influence your command structure. It was a bold plan.
+L540598 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I know.
+L540597 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ You know I need to verify this.
+L540596 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Come to dinner on Romulus tomorrow. Just the two of us. Or just the one of us.
+L540595 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ We need to talk, just you and I.
+L540590 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ You know I do.
+L540589 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ No one knew what to do. Finally I was taken to a doctor who had some experience with Terran illnesses and I was finally diagnosed with Shalaft's syndrome. Do you know of it, Captain?
+L540587 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Then perhaps the time has come to add some illumination to our discussion. Computer, raise lighting four levels.
+L540586 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Yes.
+L540585 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ But you're also thinking the chance for peace is too promising to ignore. Above allyou're trying to decide if you can trust me.
+L540584 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ And you're wondering why the Scimitar is so well armed. Is this the ship of a peacemaker? Or a predator?.
+L540583 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Yes.
+L540582 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Right now, you’re thinking this all sounds too good to be true?
+L540581 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I have dissolved the Senate.
+L540580 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ And the Senate supports you?
+L540579 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I want to end the centuries of mistrust. I want to be your ally, not your enemy. As a first step I propose we eliminate the Neutral Zone and begin a free and open exchange of goods and ideas.
+L540578 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Unity, Captain! Tearing down the walls between us to recognize we are one people. Federation and Romulan. Human and Vulcan and Klingon and Reman. I'm speaking of the thing that makes us the same. We want peace.
+L540577 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ I would be interested to know what we are talking about.
+L540576 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Yes, I'm sorry, Captain.  There's so much we have to talk about.
+L540575 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Praetor Shinzon. We’re not here to discuss your lack of a social life.
+L540574 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ On the world I come from there's no light. No sun. Beauty isn't important. I see now there's a world elsewhere.
+L540573 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Praetor, we've come to Romulus on a matter we were -- assured was of great importance. If you have anything to say to us as representatives of the Federation, I suggest you do so now.
+L540572 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I am, Commander Riker...  May I touch your hair?
+L540568 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I've never met a human woman.
+L540567 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Praetor?
+L540562 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ No?
+L540561 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ And you're not as we imagined you.
+L540559 +++$+++ u3031 +++$+++ m198 +++$+++ PICARD +++$+++ Praetor Shinzon?
+L540558 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I hope you'll forgive the darkness... we're not comfortable in the light.
+L541044 +++$+++ u3032 +++$+++ m198 +++$+++ REMAN OFFICER +++$+++ But, Praetor, you won't survive without him...
+L541043 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Our greater goal is more important, brother.
+L541042 +++$+++ u3032 +++$+++ m198 +++$+++ REMAN OFFICER +++$+++ What about Picard?
+L541041 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Deploy the weapon. Kill everything on that ship. Then set a course for Earth.
+L541040 +++$+++ u3032 +++$+++ m198 +++$+++ REMAN OFFICER +++$+++ Disruptors are off-line, sir.
+L541039 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Target disruptors. Destroy them.
+L540958 +++$+++ u3032 +++$+++ m198 +++$+++ REMAN OFFICER +++$+++ Two ships decloaking, sir! Romulan!
+L540957 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Report!
+L540722 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ On my way.
+L540721 +++$+++ u3032 +++$+++ m198 +++$+++ REMAN OFFICER +++$+++ Praetor, we've received the transponder signal.
+L541008 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Let's go.
+L541007 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ Intruder alert!
+L540960 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ We're being hailed.
+L540959 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Believe it or not, I think the cavalry has arrived.
+L540917 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Defensive pattern Kirk Epsilon. Geordi, get those shields online.
+L540916 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ Minimal damage to the Scimitar.
+L540544 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ Should I raise shields?
+L540543 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ My God...
+L540459 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Runs in the family.
+L540458 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ He's a very unusual android.
+L540457 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ So they’ve got him up and running.
+L540456 +++$+++ u3037 +++$+++ m198 +++$+++ WORF +++$+++ It is... invigorating.
+L540455 +++$+++ u3033 +++$+++ m198 +++$+++ RIKER +++$+++ Well, that sounds relaxing too.
+L540999 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ She is here.
+L540998 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ What is it?!! Focus on your job!!
+L540982 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ FULL STOP AND FIRE !
+L540981 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ Praetor...
+L540977 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ You heard me.
+L540976 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ What?!
+L540975 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Let her pursue -- drop cloak on the aft port quadrant and prepare for full emergency stop.
+L540885 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ Seven minutes.
+L540884 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ How long until we reach the Rift?
+L540882 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ A matter of hours now.
+L540881 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ How long?
+L540724 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Have the doctors prepare. I'll be on the bridge.'
+L540723 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ It's accelerating. You have no more time for games.
+L540720 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Do as I tell you!
+L540719 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ No -- this is wasting time.
+L540718 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Find her again.
+L540717 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ The bond is broken.
+L540680 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ My time. I'll spend it how I choose.
+L540679 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ Don't forget our mission, Shinzon. We should act. Now. Time is running out.
+L540678 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ He's gentler than I thought. And he has a sense of humor.
+L540677 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ This is a mistake.
+L540339 +++$+++ u3036 +++$+++ m198 +++$+++ VICEROY +++$+++ Yes, Praetor.
+L540338 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Are we prepared?
+L540821 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ And when I return... you and I shall have a little talk about showing proper respect!
+L540820 +++$+++ u3035 +++$+++ m198 +++$+++ SURAN +++$+++ For the moment.
+L540819 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Commander Suran, the games are over. In two days the Federation will be crippled beyond repair. Does that satisfy you?
+L540818 +++$+++ u3035 +++$+++ m198 +++$+++ SURAN +++$+++ And mine is wearing thin, young man! We supported you because you promised action. And yet you delay and you waste your time playing games with Picard while--
+L540817 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I thought we discussed patience, Commander.
+L540816 +++$+++ u3035 +++$+++ m198 +++$+++ SURAN +++$+++ 
+L540815 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ The Enterprise is immaterial! They won't make it back to Federation space.
+L540635 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Now go. I have some personal business.
+L540634 +++$+++ u3035 +++$+++ m198 +++$+++ SURAN +++$+++ Praetor.
+L540633 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ You must learn patience, Commander. Do you know where I learned it? In the dilithium mines of Remus. Spend eighteen hours every day under the ash of a Romulan guard’s whip and you'll soon understand patience.
+L540632 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Silence, Romulan!
+L540631 +++$+++ u3035 +++$+++ m198 +++$+++ SURAN +++$+++ Then perhaps you will enlight- en us?
+L540630 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I have a purpose.
+L540629 +++$+++ u3035 +++$+++ m198 +++$+++ SURAN +++$+++ And bringing the Enterprise here?! What possible purpose could that serve?
+L540628 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ You don't have to understand.
+L540627 +++$+++ u3035 +++$+++ m198 +++$+++ SURAN +++$+++ Then I don't understand the reason for the delay!
+L540336 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ I came this far alone ...
+L540335 +++$+++ u3035 +++$+++ m198 +++$+++ SURAN +++$+++ But surely...
+L540334 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ The Scimitar will serve my needs.
+L540333 +++$+++ u3035 +++$+++ m198 +++$+++ SURAN +++$+++ Praetor. You have the whole fleet at your disposal. They supported the coup, they'll follow you.
+L540332 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ None.
+L540331 +++$+++ u3035 +++$+++ m198 +++$+++ SURAN +++$+++ How many Warbirds will you need?
+L540325 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ It's imperative we retain their allegiance or our great mission will be strangled before it can truly draw breath.
+L540324 +++$+++ u3035 +++$+++ m198 +++$+++ SURAN +++$+++ They will obey, Praetor.
+L540323 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ And?
+L540322 +++$+++ u3035 +++$+++ m198 +++$+++ SURAN +++$+++ They're holding position.
+L540321 +++$+++ u3034 +++$+++ m198 +++$+++ SHINZON +++$+++ Join us, Commanders.  Now what's the disposition of the fleet?

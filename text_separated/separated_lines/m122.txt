@@ -1,0 +1,429 @@
+L352676 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ No cubs over fifteen, Billy! Ever heard of a cub with a green flower? You'll leave Cathedral then, Billy, when you're on green, because they won't let a green stay here.  If you try to stay the young ones will gut-rip you apart!
+L352675 +++$+++ u1853 +++$+++ m122 +++$+++ BILLY +++$+++ Nothing will happen! I make the rules as I go!! Cubs do what I say! Always have! Always will! I got Cathedral and I'll never let go!
+L352674 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Fourteen? Fifteen? Your days are running out. How long can you last? A year. Six months?  What happens when you're sixteen and you go green?
+L352673 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ No, for you! How old are you, Billy?
+L352672 +++$+++ u1853 +++$+++ m122 +++$+++ BILLY +++$+++ For me? Better feel sorry for yourself, Sandman!
+L352671 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I feel sorry for you, boy!
+L352670 +++$+++ u1853 +++$+++ m122 +++$+++ BILLY +++$+++ I cut up a Sandman yesterday. They said I'd never get him... but I cut him up good, I did.
+L352669 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I'm a Sandman!
+L352890 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ Fish and plankton, sea greens and protein from the sea.  It's all here -- ready -- fresh as harvest day. Fish and plankton, sea greens and protein from the sea... And then it stopped coming and they...  ...came instead. So I store them here. I'm ready. And you're ready. It's my Job -- protein, plankton, grass from the sea.
+L352889 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ What other food?
+L352888 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ Regular storage procedure... the same as the other food... The other food stopped coming and they started.
+L352887 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ How did they get in here?
+L352885 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ We're ready.
+L352884 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ Wait for the wind! Wait and hear the birds sing over you!
+L352883 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ All right. Now you keep your bargain.
+L352877 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ Up there.
+L352876 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ How do you want us?
+L352873 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ It'll be all right...
+L352872 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ Nude. Imagine, a pair.
+L352871 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ That's better.  How do you want us?
+L352870 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ Let me sculpt you and I will show you where the others have gone.
+L352869 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ There must be somebody else up here. I can't believe that he's --
+L352868 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ Do you know how long all this will last? Not thirty years... or thirty thousand years... but thirty thousand years... and you'll be part of it. Ages will roll... Ages. And you'll be here... the two of you... eternally frozen... frozen... beautiful.
+L352867 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Answer the question!
+L352864 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ You're a beautiful pair.
+L352863 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Where do you send them?
+L352862 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ Never a pair. I have never had a pair.
+L352861 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ You know about Sanctuary! I know you do! You have to help us! You don't have a choice! It isn't your decision!! Tell us.
+L352860 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ Is that the wind?  Not yet...  You must hear my birds sing.
+L352859 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Where do we go?!  Where do we go from here??!!
+L352858 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ Hiding? Yes! Hiding, hiding.
+L352857 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ We were sent here and you know it. Others have been sent here. Where are they? Hiding?
+L352856 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ From? From? From?
+L352855 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Where do you think we came from?
+L352854 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ You walked in. I saw you. Don't you remember?
+L352853 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ How do you think we got here??!!
+L352849 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ Anything to eat?
+L352848 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ We're hungry do you have anything to eat?
+L352845 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ Your turn.
+L352844 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ All right -- what are you?
+L352843 +++$+++ u1854 +++$+++ m122 +++$+++ BOX +++$+++ Are you too startled? Am I too removed from your ken?  I'm neither machine nor man... but a perfect fusion of the two... and better than either.  No human sculptor could match this greatness... don't you agree?
+L352751 +++$+++ u1855 +++$+++ m122 +++$+++ DOC +++$+++ Hurry... hurry... hurry.
+L352750 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I don't care... Just get it over with.
+L352749 +++$+++ u1855 +++$+++ m122 +++$+++ DOC +++$+++ Do you have anything special in mind?
+L352735 +++$+++ u1855 +++$+++ m122 +++$+++ DOC +++$+++ Fine... Holly will get you ready. You're in good hands, believe me.
+L352734 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Just the face.
+L352733 +++$+++ u1855 +++$+++ m122 +++$+++ DOC +++$+++ I designed it myself.  What'll it be... a face job or a full-body job?
+L352732 +++$+++ u1855 +++$+++ m122 +++$+++ DOC +++$+++ And I did it myself right on there.
+L352731 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Your own work?
+L352730 +++$+++ u1855 +++$+++ m122 +++$+++ DOC +++$+++ I am.
+L352729 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Thanks.  I thought you'd be older. I expected a Red.
+L352728 +++$+++ u1855 +++$+++ m122 +++$+++ DOC +++$+++ It's a real privilege, Sandman.
+L353025 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ Why did you do that???!!!
+L353024 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I didn't do anything, Francis! They've made us believe that...
+L353023 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ Why did you do that??!!
+L352767 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ What are you talking about?! I saw you let a Runner go?  I saw you, Logan?? Tell me!!
+L352766 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ It has nothing to do with you.
+L352765 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ What's going on, Logan?!
+L352559 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ At Carousel tonight?
+L352558 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I'm fine...  See you...
+L352557 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ Look... why don't you get into the water... you need it... more than I do.
+L352556 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Anybody we know?
+L352555 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ Of course.
+L352554 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Did you?
+L352553 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ I think you've been skulling out too much. First Nursery and now stupid questions.
+L352552 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Did you ever see anybody renew?
+L352551 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ What the hell took you so long?
+L352523 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ No -- it's that last Runner -- someone in 483 was trying to help him.
+L352522 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ You? Why? You're already beautiful.
+L352521 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I just might look in on New You 483 myself.
+L352460 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ Yes.  But you look a little rusty to me -- what were you doing, wondering?
+L352459 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ That was a great shot you made.
+L352457 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ I'm in my party mood.
+L352456 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Who invited you?
+L352449 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ Only a few? You're just not trying.
+L352448 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Now there's a few who could have been his seed-mother.
+L352444 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ Come on. I don't want to miss the filing-in. There'll be some I know tonight, I think...
+L352443 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ You should have been with us in Nursery, Daniel. I'm positive I recognized him --
+L352442 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ What an old, old man you're getting to be, Francis. Weren't you ever a Yellow? I bet you were even wilder than --  come on, Sandman.
+L352441 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ The damned Yellows are getting out of hand. Those three ought to be in Cathedral. No business scrambling in Arcade...
+L352439 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Well... you can't have them all.
+L352438 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ You missed something special.
+L352425 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Of course not! I'm curious, not sick. 
+L352424 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ I don't know what makes you so curious. You have any idea who his seed-mother was?
+L352423 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ I never even visited Nursery before tonight.  When you wonder, it slows you up -- you know?
+L352422 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Did you ever see Francis-8?
+L352416 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ Well the minute you get a better idea you can stop wondering.  You know, Logan -- you wonder a lot. Too much for a Sandman.
+L352415 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ No, but at least I wonder sometimes -- instead of doing that "one for one" song of yours. You sound like a sleepteacher with a stuck tape.
+L352414 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ Well, why not!? That's exactly how everything works. How else could the city stay in balance -- You have a better idea?
+L352413 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ But you don't know, you just say what everyone says. "One for one. One for one."
+L352412 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ Dunno... flameout maybe. Whatever happens, you can bet it's final. But who would want to find out?
+L352411 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Just wondered... what happens?
+L352410 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ Why?
+L352409 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ Not in my time...
+L352408 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Has anyone ever broken in to where the babies are?
+L352407 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ You need a lift. Let's go to Arcade and celebrate...  your alert successor... Logan-6.
+L352404 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Even the alarm didn't wake him.
+L352403 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ Had enough?
+L352396 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ Maybe, maybe not. What's the difference? Come on, Logan, let's get out of here before everybody finds out.
+L352395 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Open your eyes once, idiot.  It's not every day that a Sandman son is born. I'm telling you, Francis -- that's him!
+L352394 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ You should've seen me take my last Runner... perfect.  I backed him up against a residence pool and when he terminated... his hand...  So now you've seen him... what's the difference awake or asleep?
+L352393 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Turn this way.  No, no... not you... YOU!
+L352392 +++$+++ u1856 +++$+++ m122 +++$+++ FRANCIS +++$+++ You are here. I couldn't believe it when they told me. What are you doing?
+L352802 +++$+++ u1857 +++$+++ m122 +++$+++ HOLLY +++$+++ Yes. Oh yes.  He was after you. I remember. You're running!
+L352801 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ ...and he was hunting the first one, this one. Wasn't he? Wasn't he? This one was running, the other one was hunting him...
+L352800 +++$+++ u1857 +++$+++ m122 +++$+++ HOLLY +++$+++ That's right. The other one came after. The older one. Smashing, killing, burning!
+L352799 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Holly. Holly! Please... The other Sandman. Remember the one who came after --
+L352798 +++$+++ u1857 +++$+++ m122 +++$+++ HOLLY +++$+++ He's the one. You too. I remember. He was in a hurry. Just a face job. Dark hair, I said. Then he killed Doc and you grabbed me -- and the machine blew up and I ran... I ran.
+L352797 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ No, Holly -- wait! He's running. Tell them the rest!
+L352796 +++$+++ u1857 +++$+++ m122 +++$+++ HOLLY +++$+++ It's him! The first Sandman. He killed... Doc.
+L352664 +++$+++ u1861 +++$+++ m122 +++$+++ MARY +++$+++ I never go upstairs. You're a nice old lady.
+L352663 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ When do you go up?
+L352662 +++$+++ u1861 +++$+++ m122 +++$+++ MARY +++$+++ I'm very smart.
+L352661 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Why aren't you in Nursery?
+L352660 +++$+++ u1861 +++$+++ m122 +++$+++ MARY +++$+++ Here.
+L352659 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Where do you live, Mary?
+L352658 +++$+++ u1861 +++$+++ m122 +++$+++ MARY +++$+++ I'm Mary 2.
+L352657 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ What's your name?
+L353082 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Of course.  I don't know where...  I just took them for granted.  It's our only chance.
+L353081 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Is it inside the city?
+L353080 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ It's part of the hydrogalvanic system. The ocean tides are changed into energy somehow.
+L353079 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ What does that water do?
+L353078 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Beloved wife...
+L353077 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Beloved husband...
+L353076 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Sanctuary is the right to live... nothing more. But nothing less, either...
+L353075 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ And Sanctuary?
+L353074 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Yes. You and I, Jessica. 
+L353073 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ "Beloved son"...  So people stayed together for that feeling of love... They would live and raise children together and be remembered.  I think I feel that way, Logan. Can we be that way?
+L353051 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I want to be alive and with you, that's all I want.
+L353050 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Jessica... listen to me... listen to me...  The Lifeclocks made me kill Francis. They make people die or be killed every day. If I didn't try and destroy that... I couldn't live here or anywhere. Do you understand?
+L353049 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ You want to go back to kill, is that it?! Now, you'll want to kill your own!!! Kill Sandmen!!! Killing's all you ever...!!!
+L353048 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Things change!
+L353047 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Things won't change... you know that! We can live here together, Logan... have a life as long as his... together!
+L353046 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Do you expect me to let things go on without trying to change them?!
+L353045 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ You're lying! You'll never have the chance to tell anybody anything! You'll be killed the moment you're seen!
+L353044 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I'm going to try and tell people what we've seen and --
+L353043 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ To what?
+L353042 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ We can't. We're going back.
+L353041 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ He asked if we would bury him when his time comes.
+L353040 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ What are we promising him? What can we possibly give him?
+L353012 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ You're wrong!! It has to be!! It Just has to be!!
+L353011 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ No, there doesn't. Not really -- just so many want it to exist... so many who don't want to die... want it so much that a place called Sanctuary becomes "real". But it doesn't exist. It never existed. Just the hope.
+L353010 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ There has to be! I know it exists! It has to!!
+L353009 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ You want there to be one... that doesn't...
+L353008 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ There's a Sanctuary... there is!
+L353004 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ One in a million, I suppose
+L353003 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ He had a mother and father -- and he knew them.
+L353002 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ That sweet madman -- how could he come to exist?
+L352939 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ It could be...
+L352938 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Look at his face... and his hair...  Is that what it is to grow old?
+L352934 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ "Beloved Husband". "Beloved Wife". What can all that mean?
+L352933 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ They all have names and numbers on them. I wonder what they are?
+L352930 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Yes, do you think that's why he looks so sad?
+L352929 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I have never seen a face like that before. It must be the look of great age. Whoever he was he was terribly old.
+L352928 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Then the answer's yes...
+L352927 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Of course.
+L352926 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ ...But I still have the choice...?
+L352925 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ You know, Jessica.
+L352924 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ You can have any woman in the city. What do you really want?
+L352923 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ The Lifeclocks have no power outside.
+L352922 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ What does it mean?
+L352920 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Thirty thousand years didn't last very long, did they?
+L352919 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ You're right... it must be near now. We'll find it.
+L352918 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ How would anyone know? Even if we find it -- we can never go back.
+L352917 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Maybe we're the first ones to get through...  Maybe Sanctuary is near, now... another protected place. It couldn't be outside.
+L352916 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Do you think he was telling the Truth?
+L352915 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ It all seemed to make sense until Box.
+L352914 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I won't.
+L352913 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Don't ever let go.
+L352912 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I doubt it.
+L352911 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Do you think everything's going to turn to ice?
+L352909 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Why don't we rest here? We know we can eat these.
+L352908 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ It's getting dark and cold. I'm tired.
+L352906 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Sooner or later, we'll have to try something.
+L352905 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Don't!
+L352904 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ We'll be all right...  We will...
+L352903 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I hate outside! I hate it!
+L352901 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ And yours.
+L352900 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ It feels like breath. It makes everything move. Your hair is moving.
+L352899 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ What's that?
+L352841 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ For us.
+L352840 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I guess so... I know I felt something I never felt before... and I didn't like it... not a bit.  I'll tell you one thing... Sanctuary better be worth it. That's the last place for me to live now.
+L352839 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Because you felt like a Runner, didn't you.
+L352838 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I had to. I did kill... for the first time in my life I killed.
+L352837 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I wanted to...  ...And you... what made you kill Sandmen?
+L352836 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ You knew that I wasn't before, didn't you?  Why did you stay with me?
+L352835 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ You're really one of us now, aren't you?
+L352834 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ It doesn't make any difference anymore.
+L352833 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I don't know what's going to happen to us Logan but --  Are you glad you didn't kill him?
+L352831 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ It's brighter there... besides, we can't go back.
+L352830 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I'm afraid.
+L352826 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Ycch.  To kill things and then eat them. It must have been a savage world.
+L352825 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Some kind of breeding pens... I suppose... They say people used to breed animals, fish, anything...  ...to eat, of course.
+L352824 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ What do you suppose this was...?
+L352823 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ It's the only way.
+L352822 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ How do we know this is the right way?
+L352815 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Why, Jessica? You're still a green.
+L352814 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Will you take me with you?
+L352783 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ They're watching us now. They'll let us in when they're sure.
+L352782 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ How will they know we're coming?
+L352781 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Exactly four steps now. Let me lead you.  Now to the right. It's narrow here, you'll have to get behind me.
+L352779 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ We'll convince them.
+L352778 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ You think Sandmen will?  There's no other way for me,
+L352777 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ They won't listen.
+L352776 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I'd rather take my chances with them... than with Francis.
+L352775 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ They won't believe us.
+L352774 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Will he find us and kill us? Yes... or one of the others.  You know there's only one place to go now...
+L352773 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ He's good, isn't he?
+L352772 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Because he's my friend --  and I don't want to be killed by him -- or anyone.
+L352771 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Yes.  I don't know what else to do -- with him following us.  Why do you keep running from your --
+L352770 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Are you taking me to them?
+L352706 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ No. Not that either.
+L352705 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Then -- why don't you leave me -- go to them -- explain
+L352704 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I -- I can't.
+L352703 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ That's nothing... there's a Sandman behind us, too and there'll be more soon. Take me to them.
+L352702 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Yes, but they won't know that... or care. They're hunting you, Logan. Maybe me too, now...
+L352701 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ All right. But why? I didn't kill the Runner.
+L352700 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Logan, I don't know where Sanctuary is. But if I take you to them, they'll kill you.
+L352699 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Where? Sanctuary? Can you take me there?
+L352698 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I'm ashamed. I was bringing you to be killed.
+L352654 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Muscle? I don't know that one.
+L352653 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ The Cubs. When they're flying on muscle there's no way to catch up. Without the dazzle, they'd just go past us --  -- too fast
+L352652 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ But what is this -- why?
+L352651 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Just follow -- no matter how it seems...
+L352646 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Let's see -- how long has it been?
+L352645 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I don't remember exactly... except I was a Green.  What would you like to relive, Logan?
+L352644 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ When did you begin to question Lastday?
+L352643 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I have.
+L352642 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Uh-uh.
+L352641 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I'm only telling you what I've heard...  Haven't you ever wondered what your seed-mother was Like...?
+L352640 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Insane. Nurseries are better than any mother could be.
+L352639 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Some people say children need human mothering.
+L352638 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Instead of what? Nine months inside a woman:  We're all raised the same but most of us don't become cubs in Cathedral.
+L352637 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Maybe they're angry because they're grown in meccano-breeders.
+L352636 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ They're like beasts. Wild.
+L352634 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ That's nice.
+L352633 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I'd rather be with you.
+L352632 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Why not? Maybe she'll help me. You won't. You'd better stay here.
+L352631 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ You're not going, are you?
+L352630 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ A Runner... Cathedral. A woman.
+L352627 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ We're coming to Arcade.  Shall we Relive together?
+L352626 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ If you trusted me, you'd know.
+L352625 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Of course --
+L352624 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ If you did know, you'd tell me.
+L352623 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I wish I knew what you think I know.
+L352622 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Maybe you'll think of something...
+L352621 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I wish I could help you.
+L352620 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ That's tomorrow.
+L352619 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ What're you going to do?
+L352618 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ What do you need?
+L352617 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Are you here to help me?
+L352594 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ And I never heard of Sanctuary.
+L352593 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I never heard of a Sandman running... ever...
+L352592 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I don't have much time.
+L352591 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Please? What friends?
+L352590 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Speak to your friends for me, Jessica... please...
+L352589 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I don't..
+L352588 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I let him go... believe me.
+L352587 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ And then you killed him, right?
+L352586 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ A Runner gave it to me.
+L352585 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Where did you get that?
+L352584 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ How can I?
+L352583 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ It's different now. Help me.
+L352582 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I know what everyone knows. Try like hell for Renewal. You have the same chance everyone else has.
+L352581 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Both... running's what I'm interested in.
+L352580 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ About running, dying what?
+L352579 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ You know something.
+L352578 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Why tell me?
+L352577 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I'm going to run.
+L352576 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Why show me?
+L352575 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ All right.
+L352574 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I don't believe you. There has to be more.
+L352573 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ You know.
+L352572 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ You can have any woman in the city. What do you really want?
+L352571 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Then it's still no.
+L352570 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Of course.
+L352569 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Thanks... but I have the choice.
+L352568 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Maybe... sure...
+L352567 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I'm the most beautiful woman you've ever seen, I suppose?
+L352566 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I couldn't get you out of my mind.
+L352565 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Here I am.  Shall I come in?
+L352564 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ But I wasn't sure you'd come.
+L352563 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ You could have called me yourself.
+L352510 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ You're sure you don't want to try?
+L352509 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ K.
+L352508 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ What Quad do you live in?
+L352507 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ You're years away... I don't know why you're thinking of these things, much less talking about them.  Want to try?
+L352506 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Six. I go red next year.
+L352505 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Are you a 5 or a 6? 
+L352504 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I didn't say that I would run... I just...
+L352503 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ But if you're one of the misfits... that's where I come in.
+L352501 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ So? Do what everyone does. Try like hell for renewal.
+L352500 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I suppose. But what if you want to live?
+L352499 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ You shouldn't even think such things...  And you picked a strange person to say them to --
+L352498 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Why is it wrong to run?
+L352497 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I'm not armed.  Well?
+L352496 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I'm afraid to tell you.
+L352495 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I'm listening.
+L352494 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Not about that.
+L352493 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Let's have sex.  I thought you were curious.
+L352492 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ How a Sandman lives.
+L352491 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ About what?
+L352490 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Curious.
+L352489 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ And now?
+L352488 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I changed my mind.
+L352487 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ And?
+L352486 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I thought I had to do something.
+L352485 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ But you put yourself on the circuit!
+L352484 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ No.
+L352483 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Later.
+L352482 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ No.
+L352481 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ You're beautiful. Let's have sex.
+L352480 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Jessica.
+L352479 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ You felt sad. What's your name?
+L352478 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Nobody. I felt sad... I put myself on the circuit.
+L352477 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I never 'killed' anybody in my life. Sandmen terminate Runners.  Who brought you?
+L352476 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Isn't it right? Isn't that what you do? Kill.
+L352475 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Killed? Why do you use that word?
+L352474 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ He was killed.
+L352473 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Yes... probably he was renewed?
+L352472 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ A friend of mine went on Carousel tonight. Now he's gone.
+L352471 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Sad? What made you sad?
+L352470 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Nothing. I felt sad, I put myself on the circuit. It was a mistake.
+L352469 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Well then...?
+L352468 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ No.
+L352467 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ You prefer women?
+L352466 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ No.  Just no.
+L352465 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Please... no?  You mean "not here" -- that's it? You're a private Available but particular.  Don't worry. There's no one here but me. And you.
+L352464 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Please... No.
+L352463 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ What's wrong, Available?
+L353090 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Oh, my...
+L353089 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Goodbye.
+L353056 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Where are you going?
+L353055 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Come with us.
+L353039 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ We'll remember. But that's a long time off...
+L353038 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Of course... that's settled then. But just you remember your promise...
+L353033 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ At least it's over...
+L353032 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ I'll make the arrangements.
+L353031 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ They're put into the ground so they can be visited by the living...
+L353030 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ What's that?
+L353029 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ We'll have to bury him.
+L352999 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ I don't know... but it does.
+L352998 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ What people?
+L352997 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ All this. All of it.
+L352996 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ What belongs to the people?
+L352989 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ "Macavity, Macavity, there's no one like Macavity, There never was a cat of such deceitfulness and suavity."
+L352988 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ No.
+L352987 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ You're both full of secrets like Macavity.  Did you steal this?
+L352986 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I don't know.
+L352985 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ What kind of jewel is this?
+L352973 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Mother and Father said so... you know?
+L352972 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Are you sure?
+L352971 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Yes...
+L352970 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ And... and how were you grown? Inside your mother?
+L352954 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Yes indeed, everyone. Actually, they all have three.  "The naming of cats is a difficult matter. It isn't just one of your holiday games. You may think at first I'm mad as a hatter when I tell you a cat must have THREE DIFFERENT NAMES."  An ordinary name and a fancy name. That's two. Do you want to guess what the third one is?
+L352953 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ But there are so many of them. Do you know each one separately.
+L352952 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Yes, cats, of course. What else could they be? Cats. Of course each one has his own name too.
+L352720 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ No -- Look, I'm in a hurry.
+L352719 +++$+++ u1863 +++$+++ m122 +++$+++ RECEPTIONIST +++$+++ My name's Holly... Holly 13. In ancient times they said my number was unlucky. Do you believe in luck?
+L352718 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ It's all right with me. Is he here?
+L352717 +++$+++ u1863 +++$+++ m122 +++$+++ RECEPTIONIST +++$+++ I like your face. Would you mind if Doc took a picture? I'd like him to give your face to somebody else.
+L352716 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ A Sandman can get as sick of his face as anyone else. Where's the doctor?
+L352715 +++$+++ u1863 +++$+++ m122 +++$+++ RECEPTIONIST +++$+++ We don't get many Sandmen. I think we've only had one other since I've been here.
+L352714 +++$+++ u1863 +++$+++ m122 +++$+++ RECEPTIONIST +++$+++ Do you want to see Doc?
+L352713 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Hello.
+L352712 +++$+++ u1863 +++$+++ m122 +++$+++ RECEPTIONIST +++$+++ Hello, Sandman.
+L353088 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Oh my... I'll try.
+L353087 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Can you make it back?
+L353086 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Yes...
+L353085 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I'm sorry.
+L353084 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Oh... I did so look forward to seeing all those people.
+L353083 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I know...  We're going to try and get in this way. I don't think you can make it.
+L353072 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Oh, yes... I think...
+L353071 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Stay? They lived together all their years?
+L353070 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ My father was the husband and my mother was the wife. "Beloved" is a word they used -- to stay together.
+L353069 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Thank you.  Tell me -- what do those words mean? "Beloved husband"... "Beloved son"... "Beloved wife"...
+L353068 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ That's better than gold when it's cold.
+L353066 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I promise. We'll go on as soon as it's light.
+L353065 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Is that really it? It doesn't seem very far. Will we be there soon?
+L353061 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ And all alive you say?
+L353060 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ More... many more.
+L353059 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Thousands and thousands... as many as my cats?
+L353058 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Alive?
+L353057 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ To a city with thousands and thousands of people.
+L353054 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ What a pity. I was hoping you'd be here to bury me.
+L353053 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ We're leaving.
+L353036 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ All right.
+L353035 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Not yet.
+L353034 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Are you ready to put him in?
+L352995 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Of course you can stay. This belongs to the people.
+L352994 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ May we stay here for a while? We'd like to rest.
+L352993 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Never, never, ever. Nothing.
+L352992 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Did your Mother or Father ever mention another place?
+L352991 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ No, no, no
+L352990 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ What's beyond this place -- do you know?
+L352982 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I'm sorry but I don't have anything to give you.
+L352981 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ It isn't fair. I'll give you one of my favorite cats... a Jellicle cat.  "Jellicle cats have cheerful faces, Jellicle cats have bright black eyes; They like to practice their airs and graces And wait for the Jellicle Moon to rise."
+L352980 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ No -- I'm sorry. It's not possible.
+L352979 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ They're beautiful. May I have one too please?
+L352975 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Dead... they're dead... and buried.
+L352974 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Where are they?
+L352969 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Mother and -- ? You knew your mother and father?
+L352968 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ My parents thought so. Mother and Father. You know?
+L352967 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ What makes you think so?
+L352966 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ But there may be a few around somewhere.
+L352965 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Have any other people ever passed through?
+L352964 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Gracious... no.
+L352963 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Are there any other humans?
+L352962 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ I have always been here...
+L352961 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ How did you get here?
+L352960 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Just a place, I suppose... who knows?
+L352959 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ What kind of place is this?
+L352958 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ For as long as I can remember.
+L352957 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ How long have you been living here?
+L352810 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ No. Jessica goes back now. Take her back.  Now! Go on back. Back outside, Jessica.
+L352809 +++$+++ u1864 +++$+++ m122 +++$+++ VOICE +++$+++ Someone will follow. When you come to the lock, he will tell you how to go on the other side. Jessica may go with you as far as the lock.
+L352808 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Will there be someone to tell us where to go from there...?
+L352807 +++$+++ u1864 +++$+++ m122 +++$+++ VOICE +++$+++ It doesn't matter who we are. Follow the tunnel to the end.
+L352806 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I don't know who you are. I'd like to thank someone.
+L352402 +++$+++ u1864 +++$+++ m122 +++$+++ VOICE +++$+++ Clear Logan-5 and Francis-7.
+L352401 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Logan-5... Francis-7, authorized duty quadrant. Intrusion accidental.
+L352400 +++$+++ u1864 +++$+++ m122 +++$+++ VOICE +++$+++ Break-in scanners report intrusion, identify.
+L352611 +++$+++ u1865 +++$+++ m122 +++$+++ WOMAN +++$+++ You don't seem quite sure, Jessica.  Can you do it? Will you?
+L352610 +++$+++ u1860 +++$+++ m122 +++$+++ MAN +++$+++ No -- just there -- on the first level.  Don't look for us. We'll see you.
+L352421 +++$+++ u1860 +++$+++ m122 +++$+++ MAN +++$+++ Too little?  Too little. Okay, wait for me.
+L352420 +++$+++ u1865 +++$+++ m122 +++$+++ WOMAN +++$+++ Too little.
+L352419 +++$+++ u1860 +++$+++ m122 +++$+++ MAN +++$+++ Cheeks? Cheeks? Right. Too much, you think?
+L352418 +++$+++ u1865 +++$+++ m122 +++$+++ WOMAN +++$+++ I don't know. The cheeks maybe... look a little --
+L352417 +++$+++ u1860 +++$+++ m122 +++$+++ MAN +++$+++ Well? How do you like it?

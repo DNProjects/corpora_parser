@@ -1,0 +1,610 @@
+L197638 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What honey?
+L197406 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Hiding?
+L197405 +++$+++ u5136 +++$+++ m341 +++$+++ BURKE +++$+++ Shall we summon the writer? He's in Paris I believe.
+L197404 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Well why are they tearing the building down?
+L197403 +++$+++ u5136 +++$+++ m341 +++$+++ BURKE +++$+++ Well what's wrong?
+L197402 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ C'mon I can read for Christ sake.
+L197401 +++$+++ u5136 +++$+++ m341 +++$+++ BURKE +++$+++ Why it's perfectly plain, your the teacher at the college, you don't want the building torn down.
+L197400 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Burke take a look at this damn thing it just doesn't make sense.
+L198082 +++$+++ u5149 +++$+++ m341 +++$+++ PRESIDENT +++$+++ Ten maybe twelve years ago, in Africa. The exorcism supposedly lasted for months. I heard it damn near killed him.
+L198081 +++$+++ u5137 +++$+++ m341 +++$+++ CARDINAL +++$+++ I didn't know that.
+L198080 +++$+++ u5149 +++$+++ m341 +++$+++ PRESIDENT +++$+++ It must be alright. He's still running around digging up tombs. Besides, he's had experience.
+L198079 +++$+++ u5137 +++$+++ m341 +++$+++ CARDINAL +++$+++ Don't you think he's too old, though? How's his health?
+L198078 +++$+++ u5149 +++$+++ m341 +++$+++ PRESIDENT +++$+++ No, he's working on another book.
+L198077 +++$+++ u5137 +++$+++ m341 +++$+++ CARDINAL +++$+++ What's he doing there? Teaching?
+L198076 +++$+++ u5149 +++$+++ m341 +++$+++ PRESIDENT +++$+++ That's right Mike. But he's finished and came back around three ot four months ago, He's in Woodstock now.
+L198075 +++$+++ u5137 +++$+++ m341 +++$+++ CARDINAL +++$+++ Merrin? I had notion he was over in Iraq. I think I read he was working on a dig around Nineveh.
+L198074 +++$+++ u5149 +++$+++ m341 +++$+++ PRESIDENT +++$+++ How about Lankaster Merrin.
+L198073 +++$+++ u5137 +++$+++ m341 +++$+++ CARDINAL +++$+++ And what about the exorcist? Any ideas?
+L198072 +++$+++ u5149 +++$+++ m341 +++$+++ PRESIDENT +++$+++ Well, he does know the background. I doubt there's any danger in just having him assist. There should be a psychiatrist present, anyway.
+L198071 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Thank you your excellency.
+L198070 +++$+++ u5137 +++$+++ m341 +++$+++ CARDINAL +++$+++ Let's see whose around. In the meantime I'll call you as soon as I know.
+L198069 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ I see, your excellency.
+L198068 +++$+++ u5137 +++$+++ m341 +++$+++ CARDINAL +++$+++ It might be best to have a man with experience. Maybe someone who's spent time in the foreign missions.
+L198067 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Yes.
+L198066 +++$+++ u5137 +++$+++ m341 +++$+++ CARDINAL +++$+++ You'd want to do the exorcism yourself?
+L198065 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ I don't know. No, not really I suppose. But I've made a prudent judgement that it meets the conditions set down in the Ritual.
+L198064 +++$+++ u5137 +++$+++ m341 +++$+++ CARDINAL +++$+++ You're convinced that it's genuine.
+L197857 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ You're telling me that, I should take my daughter to a witch doctor? Is that it?
+L197856 +++$+++ u5139 +++$+++ m341 +++$+++ CLINIC DIRECTOR +++$+++ It's a stylized ritual in which rabbis or priests try to drive out the so-called invading spirit. It's pretty much discarded these days, except by the Catholics who keep it in the closet as a sort of embarrassment. It has worked, in fact, although not for the reason they think, of course. It was purely the force of suggestion. The victim's belief in possession helped cause it; and just in the same way this belief in the power of exorcism can make it disappear.
+L197849 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ You're sorry. Christ, eighty-eight doctors and all you can tell me is all of your bullshit...
+L197848 +++$+++ u5139 +++$+++ m341 +++$+++ CLINIC DIRECTOR +++$+++ I'm sorry.
+L197847 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ And I don't care what you call it! I'm not putting her away!
+L197846 +++$+++ u5139 +++$+++ m341 +++$+++ CLINIC DIRECTOR +++$+++ It's-
+L197845 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Look, I'm telling you again and you'd better believe it, I'm not about to put her in a goddamn asylum!
+L197844 +++$+++ u5139 +++$+++ m341 +++$+++ CLINIC DIRECTOR +++$+++ Quite frankly, we don't know much about it except that it's starts with some conflict or guilt that eventually leads to the patient's delusion that his body's been invaded by an alien intellegence; a spirit if you will.
+L198198 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Sure you won't change your mind?
+L198197 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ Me too.
+L198196 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ I'm gonna miss you.
+L198195 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Storage.
+L198194 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ Phonograph.
+L198193 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What is it?
+L198192 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ Where do you want this?
+L197863 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ Of course I didn't.
+L197862 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ This was under Regan's pillow. Did you put it there?
+L197765 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ I can't believe it.
+L197764 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh Burke! Poor Burke!
+L197755 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ We have to start looking for a shrink.
+L197754 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ What did the doctor say?
+L197753 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Yeah, well I guess you should've.
+L197752 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ Well, when I went to get the Thorazine I had him to stay with her and... Oh, I should of known better.
+L197751 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What's Burke got to do with it?
+L197750 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ Burke.
+L197749 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Didn't who tell me?
+L197748 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ What didn't he tell you?
+L197747 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What the hell do you mean going out and leaving Regan by her self! What are you kidding her window's wide open...
+L197554 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ Why don't you let me?
+L197553 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh circuit my ass, he doesn't give a shit!
+L197552 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ Maybe the circuit is busy?
+L197551 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Hello? Yes this is Mrs. MacNeil. Operator you have got to be kidding I have been on this line for twenty minutes.  Jesus Christ, can you believe this, he doesn't even call his daughter on her birthday for christ sake.
+L197433 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ No kidding.
+L197432 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ Just five or six people.
+L197431 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Your kidding me. What is it a big party or something?
+L197430 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ Dinner at the White House.
+L197429 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What's this?
+L197428 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ And you got an invitation.
+L197427 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh great, anything else?
+L197426 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ Here.
+L197424 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh not to bad, kinda like the Walt Disney version of the Ho Chi Minh story, but other than that it was terrific.
+L197423 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ Hi, how'd your day go?
+L197422 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Hi
+L197421 +++$+++ u5153 +++$+++ m341 +++$+++ SHARON +++$+++ In here!
+L197420 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Hello?
+L197905 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ You're a nice man.
+L197904 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Thank you.
+L197902 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Really? wow.
+L197901 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ I lied. It's for me. The spelling is on the back, Kinderman. You know that film you made called Angel? Isaw that six times.
+L197900 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What's her name?
+L197899 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Oh, she'd love it.
+L197898 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Of course. Have you got a pen?
+L197897 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ I hate to ask you this but... for my daughter could you maybe give an autograph?
+L197896 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Couldn't hurt. In the meantime...
+L197895 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ When she's well enough, I'll ask.
+L197894 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ I know that. I realize. But if a certain British doctor never asked "What's this fungus?" we wouldn't today have penicillin. Correct?
+L197893 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Look, he wouldn't have any reason to be up there in the first place.
+L197892 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Incidentally, just a chance in a million, I know; but your daughter - you could possibly ask her if she saw Mr. Dennings in her room that night?
+L197889 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Please.
+L197888 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Would you like some more coffee?
+L197887 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Never mind.
+L197886 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Want to ask him?
+L197885 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Oh, I see.
+L197884 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ I really wouldn't know, you see Karl takes care of that.
+L197883 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Groceries maybe? A package?
+L197882 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Not that I know of.
+L197881 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ You were expecting a deliver y that day?
+L197880 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ No. Not at all,
+L197879 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Strange...strange...so baffling. The deceased comes to visit, stays only twenty minutes, and leaves all alone a very sick girl. And speaking plainly Mrs. MacNeil, as you say, it's not likely he would fall from a window. Besides that, a fall wouldn't do to his neck what we found except maybe a chance in a thousand. My hunch? My opinion? I believe he was killed by a very powerful man: point one. And the fracturing of the skull - point two - plus the various things I have mentioned, would make it very probable - probable, not certain - that the deceased was killed and then pushed from your daughter's window. But no-one was here except your daughter. So how could this be? It could be one way: if someone came calling between the time Miss Spencer left and the time you returned. The servants, they have visitors?
+L197875 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Watch out for drafts. A draft in the fall when the house is hot is a magic carpet for bacteria.
+L197874 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ We still don't know.
+L197873 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ May I ask...?
+L197872 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Yes, I'm affraid it is.
+L197871 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ It's serious?
+L197870 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ No, she was heavily sedated.
+L197869 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Does your daughter remember if perhaps Mr. Dennings was in her room in her room that night?
+L197877 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ No thanks Karl.
+L197876 +++$+++ u5143 +++$+++ m341 +++$+++ KARL +++$+++ Excuse me Madame? Will there be anything else?
+L197868 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What man?
+L197867 +++$+++ u5143 +++$+++ m341 +++$+++ KARL +++$+++ A man to see you.
+L197866 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What!
+L197865 +++$+++ u5143 +++$+++ m341 +++$+++ KARL +++$+++ Excuse me Miss?
+L197861 +++$+++ u5143 +++$+++ m341 +++$+++ KARL +++$+++ No. It wasn't me. I didn't.
+L197860 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Karl if you put this in Regan's room I want you to tell me, now did you?
+L197859 +++$+++ u5143 +++$+++ m341 +++$+++ KARL +++$+++ She is going to be well?
+L197858 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Karl? Did you put this in Regan's bedroom?
+L197633 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Karl!!
+L197632 +++$+++ u5143 +++$+++ m341 +++$+++ KARL +++$+++ Bastard! I will kill you.
+L197563 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ No rats. Thanks a lot that's terrific.
+L197562 +++$+++ u5143 +++$+++ m341 +++$+++ KARL +++$+++ Very sorry, but you see, no rats!
+L197561 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh Karl, Jesus Christ Karl, don't do that.
+L197560 +++$+++ u5143 +++$+++ m341 +++$+++ KARL +++$+++ There is nothing.
+L197394 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Well don't go now Karl the stores aren't open yet.
+L197393 +++$+++ u5143 +++$+++ m341 +++$+++ KARL +++$+++ Yes, I go now.
+L197392 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Yeah or maybe rats now will you just get those traps.
+L197390 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ I just heard them Karl.
+L197389 +++$+++ u5143 +++$+++ m341 +++$+++ KARL +++$+++ No. No rats.
+L197388 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ All right then we've got clean rats.
+L197387 +++$+++ u5143 +++$+++ m341 +++$+++ KARL +++$+++ But it's clean?
+L197386 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Uh huh. 'Fraid so.
+L197385 +++$+++ u5143 +++$+++ m341 +++$+++ KARL +++$+++ Rats?
+L197384 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Good morning Karl. Oh Karl, we've got rats in the attic you better get some traps.
+L197383 +++$+++ u5143 +++$+++ m341 +++$+++ KARL +++$+++ Good morning Madame.
+L197655 +++$+++ u5155 +++$+++ m341 +++$+++ WILLIE +++$+++ Yes, I think so.
+L197654 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Is it coming out Willie?
+L197381 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ That's good.
+L197380 +++$+++ u5155 +++$+++ m341 +++$+++ WILLIE +++$+++ Fine thank you.
+L197379 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ How are you today?
+L197378 +++$+++ u5155 +++$+++ m341 +++$+++ WILLIE +++$+++ Good morning Mrs. MacNeil.
+L197377 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Morning.
+L197741 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ I think it's time we started looking for a psychiatrist.
+L197740 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ No. I'm building a new house, the old one's been sold. I was going to take Regan to Europe for a while, after she finished school here. Why d'you ask?
+L197739 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Are you planning to be home soon? LA, I mean.
+L197738 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Well of course I'm sure. I'd tell you. Christ, I don't even smoke grass.
+L197737 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Are you sure?
+L197736 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ No. Of course not, nothing like that.
+L197735 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Do you keep any drugs in your house?
+L197728 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh. What are you talking about for Christ sake! Did you see her or not? She's acting like a fucking out of her mind psychotic or a split personality or...
+L197727 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ We still think the temporal lobe...
+L197724 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What was going on in there, how could she jump off the bed like that?
+L197723 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ She's heavily sedated. She'll probably sleep through tomorrow.
+L197687 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Don't be alarmed. If it's a lesion in a way she's fortunate. All we have to do is remove the scar.
+L197686 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Hey do me a favour will ya'. Tell me something good.
+L197685 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ The temperal lobe is very common. Could last for days, even weeks. It isn't rare to find destructive or even criminal behaviour.
+L197684 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Look doc, I really don't understand how her whole personality could change.
+L197683 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Lesion, Lesion in the temperal lobe. It's a kind of seizure disorder.
+L197682 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ So, what causes this?
+L197681 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Mrs. MacNeil the problem with your daughter is not her bed, it's her brain.
+L197680 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh no, that was no spasm. I got on the bed, the whole bed was thumping and rising off the floor and shaking. The whole thing, with me on it!
+L197679 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ The shaking of the bed, that's doubtless due to musuclar spasms.
+L197678 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Convulsion?
+L197677 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Well, It's a symptom of a type of desturbance in the chemico- electrical activity of the brain. In the case of your daughter in the temperal lobe, up here in the lateral part of the brain. It's rare, but it does cause bizarre hallucinations and usually just before a convulsion.
+L197613 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ The best explanation is always the simplest one. Let's wait. Let's wait and see. In the meantime try not to worry.
+L197612 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Yeah, I guess. Maybe not. You don't think a psychiatrist-?
+L197611 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ She used those words. Look, I doubt that she even understood what she was saying.
+L197610 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ She used those words?
+L197609 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Well, specifically, Mrs. MacNeil, she advised me to keep my fingers away from her goddam cunt.
+L197608 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Hey, come on, I'm grown-up. What'd she say? I mean specifically, Doctor.
+L197607 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Well, what, for example? I mean, give me a for instance!
+L197606 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Well, I'd say her vocabulary's rather extensive.
+L197605 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ You're kidding! Like what?
+L197604 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Well, she let loose quite a string while I was examining her, Mrs. MacNeil.
+L197603 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Wait a minute. What are you talking about?
+L197602 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Well, you see, that's quite similar to things like her lying- uncharacter-
+L197601 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Never.
+L197600 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Have you ever known your daughter to swear and use obscenities?
+L197599 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Ya know, those things to get attention, like saying that her bed shakes and stuff.
+L197598 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Lies?
+L197597 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ And those lies she's been telling?
+L197596 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Oh no. I'd wait and see what happens with the Ritalin. I think that's the answer. Wait two or three weeks.
+L197595 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Do you think I should take her to see a psychiatrist?
+L197594 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Well, you mentioned her father... the divorce.
+L197593 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Depression?
+L197592 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Her condition isn't quite what it seems. Nobody knows the cause of her hyperkinetic behaviour in a child. The Ritalin sems to work to relieve the condition, but we really don't know how or why, frankly. Your daughter's symptoms could be an overreaction to depression- but that's out of my field.
+L197591 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Stimulant? She's higher than a kite right now!
+L197590 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ A stimulant.
+L197589 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What is it? A tranquilizer?
+L197588 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ Now this is for Ritalin. Ten miligrams a day.
+L197587 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ It affects concentration.
+L197586 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Why the math?
+L197585 +++$+++ u5140 +++$+++ m341 +++$+++ DR. KLEIN +++$+++ A disorder of the nerves. At least we think it is. We don't know yet exactly how it works, but it's often seen in earl adolescence. She shows all the symptoms: the hyperactivity; the temper; her performance in math.
+L198184 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ No.
+L198183 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Is she gonna die?
+L198089 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Father?
+L198088 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Yes. He's already here.
+L198051 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ She killed Burke Dennings. She pushed him out of the window.
+L198050 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ What?
+L198049 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ She...killed Burke Dennings.
+L198048 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Holy water's blessed. And that doesn't help support a case for possession.
+L198047 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What's the difference?
+L198046 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ I told Regan that was holy water, I sprinkled some on her and she reacted very violently. It's tap water.
+L198045 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Well I think you should.
+L198044 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ No
+L198043 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Have you told him what's happening?
+L198042 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ In Europe.
+L198041 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Where's Regan's father?
+L198040 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ It's fine really, sit.
+L198039 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Are you sure?
+L198038 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ No it's alright I'll take it straight.
+L198035 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What do you drink?
+L198034 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Please.
+L198033 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Wanna drink.
+L198001 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ It's not important good night.
+L198000 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Not at all. Why d'you ask?
+L197999 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ No, is Regan aware of it?
+L197998 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Yes I did, I'm sorry.
+L197997 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Did you know my mother died recently?
+L197996 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ No.
+L197995 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Did Regan know a priest was coming over?
+L197994 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ You show me Regan's double: same face, same voice, same everything. I'd know it wasn't Regan. I'd know in my gut and I'm telling you that that thing upstairs isn't my daughter! And I want you to tell me that you know for a fact that there's nothing wrong with my daughter except in her mind! You tell me you know for a fact that an exorcism wouldn't do any good! You tell me that!
+L197993 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ There are no experts. You probably know as much about possession than most priests. Look your daughter doesn't say she's a demon, she says she's the devil himself and if you've seen as many psychotics as I have, you'd know it's like saying you're Napoleon Bonaparte. You ask me what I think is best for your daughter. Six months, under observation in the best hospital you can find.
+L197992 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ I thought you were supposed to be an expert.
+L197991 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ I don't know. I'll have to look it up.
+L197990 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What else?
+L197989 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Like her speaking in a language that she's never known or studied.
+L197988 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Like what?
+L197987 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ I can't do it. I need evidence that the church would accept as signs of possession.
+L197986 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Nothing you could do would make it any worse.
+L197985 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Thanks. Look, I'm only against the possibility of doing your daughter more harm than good.
+L197968 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh, will you help her! Just help her!
+L197967 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ No, you don't understand. Your daughter-
+L197966 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Not a psychiatrist! She needs a priest! She's already seen every fucking psychiatrist in the world and they sent me to you, now you're gonna send me back to them! Jesus Christ, won't somebody help her!
+L197965 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Yes I could, I could see her as a psychiatrist...
+L197964 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Could you see her?
+L197963 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ No I couldn't, I have to have church approval, and frankly, that's rarely given,-
+L197962 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ You could do it yourself...
+L197961 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Well before the church approves an exorcism, it conducts an investigation to see if it's warranted. That takes time. In the meantime...
+L197960 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ But how?
+L197959 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ To begin with it could make things worse.
+L197958 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Why, I don't understand?
+L197957 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ That's all the more reason to forget about exorcism.
+L197955 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Yeah well, it just so happens that somebody very close to me is probably possessed, and needs an exorcist.
+L197954 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Since we learned about mental illness, paranoia, schizophrenia. All the things they taught me in Harvard. Mrs. MacNeil since the day I joined the Jesuits, I've never met one priest who has performed an exorcism, not one.
+L197953 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh yeah, since when?
+L197952 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Well it just doesn't happen anymore Mrs. MacNeil.
+L197951 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ I didn't get you?
+L197950 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Well, the first thing I'd do is put them into a time macine and send them back to the sixteenth century.
+L197949 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ If a person was possessed by a demon of some kind, how do you go about getting an exorcism?
+L197948 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ I beg your pardon?
+L197947 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ And how do you go about getting an exorcism?
+L197946 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ No I wouldn't. But I'd try to persuade him to turn himself in.
+L197945 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ You wouldn't.
+L197944 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ If he came to me for spritual help, I'd say no.
+L197943 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ I mean, what if a person, let's say, was a criminal, like maybe a murderer or something, you know? If he came to you for help, would you have to turn him in?
+L197942 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ The priest.
+L197941 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ On what?
+L197940 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ That depends.
+L197939 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Priests keep pretty tight mouthed then?
+L197938 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ He didn't mention her.
+L197937 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Didn't tell you of what she did?
+L197936 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ No.
+L197935 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ He didn't mention?
+L197934 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ No I didn't know you had one.
+L197933 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ About my daughter?
+L197932 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Sure did.
+L197931 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Did he tell you about my party?
+L197930 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Pretty close.
+L197929 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Pretty close?
+L197928 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Yes am.
+L197927 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ You're a friend of Father Dyer, right?
+L197926 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Harvard, Bellevue, John Hopkins.
+L197925 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Where?
+L197924 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ It's the other way around. The society sent me through med school.
+L197923 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ So, how'd a shrink ever get to be a priest?
+L197922 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Yeah, it would've helped. Have you gotta cigarette Father?
+L197921 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ That's okay. I should've told you I wouldn't be in uniform.
+L197920 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh, I'm very sorry Father. Hi.
+L197919 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ I'm Father Karras.
+L197918 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Please go away.
+L197917 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Chris MacNeil?
+L198206 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Hi Father.
+L198205 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Honey this is Father Dyer.
+L198204 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ All done.
+L197715 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Make it stop,it really hurts! Mother! Make it...
+L197714 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ So something please Doctor, Help her!
+L197713 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Mother please! Oh please mother make it stop! It's burning, it's burning please mother!
+L197673 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Honey it's to help you.
+L197672 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ I don't want it.
+L197658 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Make it stop! What's wrong!! I'm scared!!!
+L197657 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh my God!
+L197559 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh, honey.
+L197558 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ My bed was shaking, I can't get to sleep.
+L197557 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What are you doing here?
+L197550 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ God gets lonesome for us, Rags. He wants us back.
+L197549 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Why does God let us get tired?
+L197548 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ People get tired.
+L197540 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Okay.
+L197539 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Cause Burke and I are just friends. Okay, really.
+L197538 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ How do you know?
+L197537 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Well your thinking's not so good.
+L197536 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ I don't know, I just thought.
+L197535 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh you did. What did you hear?
+L197534 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Well I heard differently.
+L197533 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh Regan I love your daddy. I'll always love your daddy. Burke just comes around here a lot because he's lonely, don't got nothin' to do.
+L197532 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Do you not like him like daddy?
+L197531 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Course I like him, I like pizzas to but I'm not gonna marry one.
+L197530 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ But you like him.
+L197529 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Where'd you ever get an idea like that?
+L197528 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ What?
+L197527 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh my god, you kidding, me marry Burke Dennings don't be silly, of course not.
+L197526 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Your not gonna marry him are you?
+L197525 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Yeah I like him. Don't you like him? Hey what's going on? What is this?
+L197524 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ You like him.
+L197523 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Well thank you very much but why on earth would I want to bring Burke on your birthday?
+L197522 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Well you know it's okay.
+L197521 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Mr. Dennings?
+L197520 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ You can bring Mr. Dennings if you like.
+L197519 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ I love you Rags. We'll have a good day yeah?
+L197518 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Oh I love you.
+L197517 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Okay. And tomorrow night, I'll take you to a movie, okay?
+L197516 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Yeah
+L197514 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Well what would you like to do? Got any ideas?
+L197513 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ I don't know
+L197512 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What are we gonna do on your birthday, isn't that nice it's on a Sunday this year, what can we do?
+L197509 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh you wouldn't talk, well I didn't have my make up man there.
+L197508 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ I wouldn't talk.
+L197507 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ It's not even a good picture. Looks to mature.
+L197506 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Cause I like it.
+L197505 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Regan, why are you reading that?
+L197504 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ You think?
+L197503 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Well, maybe he's sleeping.
+L197502 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Captain Howdy, Do you think my mom's pretty? Captain Howdy? Captain Howdy that isn't very nice.
+L197501 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Here I'll show you.
+L197500 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh I bet he is.
+L197499 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ He's nice.
+L197498 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh, Captain Howdy....
+L197497 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ You know, I make the questions and he does the answers.
+L197496 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Who's Captain Howdy?
+L197495 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Captain Howdy.
+L197494 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Captain who?
+L197493 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ No I do, Captain Howdy said no.
+L197492 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ You really don't want me to play huh?
+L197491 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh yeah, well let's both play.
+L197490 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ No you don't. I do it all the time.
+L197489 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Wait a minute you need two.
+L197488 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Here I'll show you.
+L197487 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ You know how?
+L197486 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Yeah.
+L197485 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ You've been playing with it?
+L197484 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ The closet
+L197483 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Where?
+L197482 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ I found it.
+L197481 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Hey, where'd this come from?
+L197479 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh it's so funny.
+L197478 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ You like it?
+L197477 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh look at that.
+L197449 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ We'll see Regan.  Now about those party invitations.......
+L197448 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ When can I have one?
+L197447 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ We'll see when we get home okay.
+L197446 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Oh............
+L197445 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Well, not while we're in Washington.
+L197442 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Your kidding?
+L197441 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Think it was a guilding. It was grey. Oh it was so beautiful, the guy let me ride it all around.
+L197440 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Really, what kind was it a mair or guilding?
+L197439 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Oh mom, you should have seen this man came along on this beautiful grey horse.  Wasn't it pretty?
+L197438 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Well, me and Sharon played a game in the back yard, and we had a picnic down by the river.
+L197437 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What kind of stuff?
+L197436 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Um........Stuff.
+L197435 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What did you do today?
+L198210 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ Okay.
+L198209 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Goodbye Father. I call you.
+L198203 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ That's good.
+L198202 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ She doesn't remeber a thing.
+L197642 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ Listen, I don't need any encouragement, but my idea of heaven is a solid white night club, with me as the head liner, for all eternity and they love me.
+L197641 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Yeah, don't stop. Keep going.
+L197640 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ Hi Chris. Great party.
+L197630 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ That's his office back of St. Mike's. He's our psychiatric counsellor. He had a pretty rough knock last night poor guy, his mother passed away. She was living by herself and I guess she was dead a couple of days before they found her.
+L197629 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Karras.
+L197628 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ Damien Karras.
+L197627 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ What goes down there? I mean who's the priest I keep seeing, he's there all the time. He has black hair and he's very intense looking?
+L197626 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ St. Mike's.
+L197625 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Over behind the church, you know where I mean over there, it's a red brick wing?
+L197733 +++$+++ u5141 +++$+++ m341 +++$+++ DR. TANNEY +++$+++ What we missed in the EEG and the arteriogram could conceivably turn up there. At the least, it would eliminate certain other possibilities.
+L197732 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ Oh, Christ.
+L197731 +++$+++ u5141 +++$+++ m341 +++$+++ DR. TANNEY +++$+++ A pneumoencephelogram, I would think, pin down that lesion. It will involve another spinal.
+L197730 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ So what's next?
+L197729 +++$+++ u5141 +++$+++ m341 +++$+++ DR. TANNEY +++$+++ There haven't been more than a hundred authenticated cases of so- called split personality, Mrs. MacNeil. Now I know the temptation is to leap to psychiatry, but any reasonable psychiatrist would exhaust the somatic possibilities first.
+L197726 +++$+++ u5138 +++$+++ m341 +++$+++ CHRIS +++$+++ So what's wrong with her?
+L197725 +++$+++ u5141 +++$+++ m341 +++$+++ DR. TANNEY +++$+++ Pathological states can induce abnormal strength, accelerated motor performance. For example, a ninety-pound women sees her child pinned under the wheel of a truck, runs out and lifts the wheels half a foot up off the ground. You know the story, same thing here. Same principle, I mean.
+L197671 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Stealing is a sin.
+L197670 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ Goodnight Dims.
+L197669 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ No, I tell fortunes by reading the crease, now shut up and go to sleep.
+L197668 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Are you gonna steal my shoes now?
+L197667 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ Think you can sleep?
+L197666 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ There was nothing you could do. Lye down. C'mon.
+L197665 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Oh Christ! I should of been there and I wasn't there, I should've been there.
+L197664 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ College president shouldn't drink. Tends to set a bad example, I figure I saved them from a big temptation.
+L197663 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ I believe you.
+L197662 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ I stole it.
+L197661 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Where'd you get it then?
+L197660 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ That's an insult, I got a vow of poverty.
+L197659 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Where'd you get the money for the Chivas Regal? The poor box?
+L198234 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ No.
+L198233 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Another one. Had your lunch?
+L198232 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ I've seen it.
+L198231 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Heathcliff, Jackie Gleason, and in the role of Catherine Earnshaw, Lucille Ball.
+L198230 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ Who's in it?
+L198229 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Withering Heights.
+L198228 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ What's playing.
+L198227 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ I get passes. In fact I got a pass for The Crest tomorrow night. Would you like to go?
+L198226 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ Sure.
+L198225 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Do you like films?
+L198223 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ Good bye.
+L198222 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Ah, that's good. That's all that's important. Back to business. Back to work. Bye now, Father.
+L198221 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ She seemed fine.
+L198220 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ How's the girl?
+L198219 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ You just missed them.
+L198218 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ I came to say goodbye.
+L198217 +++$+++ u5142 +++$+++ m341 +++$+++ FATHER DYER +++$+++ Lieutenant?
+L198060 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Uoy era ohw.
+L198059 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ I am no one! I am no one! He is a priest!
+L198058 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ Merrin! Merrin!
+L198057 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Uoy era ohw.
+L198056 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ I am no one! I am no one! He is a priest!
+L198031 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ Tseirp a si eh! Eno on ma I! Eno on ma I! Ahhhhhhhhhhh!
+L198030 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Who are you?
+L198029 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ Ydob eht ni mraw si ti! Uoy ees I! Tseirp a si eh! Emit su evig! Nirrem! Nirrem!
+L198025 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Holy water.
+L198024 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ What's that?
+L198023 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ Until she rots and lie stinking in the earth.
+L198022 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ How long are you planning to stay in Regan?
+L198021 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ La plume de ma tante.
+L198020 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Quod nomen mihi est?
+L198019 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ Bon Jour.
+L198018 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Quod nomen mihi est?
+L198017 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ Ego te abslovo.
+L198016 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ You speak Latin?
+L198015 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ In time. But mirabile dictu, don't you agree?
+L198014 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ No now.
+L198013 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ In time.
+L198012 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Do it again.
+L198011 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ Uh Huh.
+L198010 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Did you do that?
+L198009 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ You and us.
+L198008 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ You and Regan?
+L198007 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ It would bring us together.
+L198006 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ But wouldn't that drive you out of Regan?
+L198005 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ Intensely.
+L198004 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ You'd like that?
+L198003 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ What an excellent day for an exorcism.
+L198002 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ He broke the bread, gave it to his disciples and said "Take this, all of you and eat. For this is my body." When the supper had ended, he took the cup, again he gave you thanks and praise. Gave the cup to his disciples and said "Take this, all of you will drink from it, this is the cup of blood, the blood of the new and ever lasting covenant and the mystery of faith".
+L197983 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ If that's true, then you must know my mother's maiden name. What is it?
+L197982 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ Your mother's in here with us Karras, would you like to leave a message? I'll see that she gets it.
+L197980 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Show me Regan and I'll loosen one of the straps.
+L197979 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ In here. With us.
+L197978 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Where's Regan?
+L197977 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ That's much to vulgar a display of power Karras.
+L197976 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ If you're the devil, why not make the straps disappear?
+L197975 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ And I'm the Devil! Now kindly undo these straps!
+L197974 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ I see. Well then let's introduce ourselves, I'm Damien Karras.
+L197973 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ I'm not Regan.
+L197972 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ I'm affraid you might hurt yourself Regan.
+L197971 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ You might loosen the straps then.
+L197970 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Hello Regan. I'm a friend of your mother, I'd like to help you.
+L197475 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Momma, I'm all right, I'm fine, really I am.
+L197474 +++$+++ u5147 +++$+++ m341 +++$+++ MRS.KARRAS +++$+++ You are not happy. Tell me what is the matter?
+L197473 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ No momma.
+L197472 +++$+++ u5147 +++$+++ m341 +++$+++ MRS.KARRAS +++$+++ Dimmy, you worry for something?
+L197470 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Momma I can take you somewhere to a place where you wouldn't be alone. There'd be people around, you know you won't have to sit here listening to the radio.
+L197469 +++$+++ u5147 +++$+++ m341 +++$+++ MRS.KARRAS +++$+++ Okay
+L197468 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Now momma you have to stay off it, you can't keep go up and down those stairs you have to give it rest.
+L197467 +++$+++ u5147 +++$+++ m341 +++$+++ MRS.KARRAS +++$+++ No.
+L197466 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Is that too tight?
+L197465 +++$+++ u5147 +++$+++ m341 +++$+++ MRS.KARRAS +++$+++ Last month.
+L197464 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Oh really, when?
+L197463 +++$+++ u5147 +++$+++ m341 +++$+++ MRS.KARRAS +++$+++ Your Uncle John stopped by to visit me.
+L197460 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ How's your leg?
+L197459 +++$+++ u5147 +++$+++ m341 +++$+++ MRS.KARRAS +++$+++ I'm all right.
+L198176 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ Don't listen.
+L198175 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ You're not my mother!!!
+L198174 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ She'll go into coma.
+L198173 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ Can you give her something?
+L198172 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Her heart.
+L198171 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ What is it?
+L198165 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ I think the point is to make us dispair... To see our selves as... animal and ugly... To reject the possibillity that God could love us.
+L198164 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Why this girl it makes no sense?
+L198149 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ ... upon this your servant, Regan Teresa MacNeil.
+L198148 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Shut up!!
+L198145 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ Defender of the human race...
+L198144 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Amen.
+L198134 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ And also with you.
+L198133 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ The Lord be with you.
+L198132 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ And let my cry come unto thee.
+L198131 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ See the cross of the Lord. Be gone you hostile power. O'Lord hear my prayer.
+L198130 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Amen
+L198129 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ ...and the power to confront this cruel demon.
+L198126 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ And let my cry come unto thee.
+L198125 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ Father Karras? Father Karras? Damien? The reponse please Damien!
+L198124 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ O'Lord hear my preyer.
+L198123 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Amen
+L198122 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ ...and to redeem through your son. Who lives and reigns with you, in the unity of the holy spirit, God forever and ever.
+L198120 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ Let us pray. Holy Lord, almighty Father, everlasting God and Father of our Lord Jesus Christ, who once and for all consigned that fallen tyrant to the flames of hell. Who sent your only begotten son into the world to crush that roaring lion.
+L198119 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ And also with you.
+L198118 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ The Lord be with you.
+L198117 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ And let my cry come unto thee.
+L198114 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ And the son of iniquity be powerless to harm her.
+L198113 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ Let the enemy have no power over her.
+L198112 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ In the face of the enemy.
+L198111 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ Be unto her o' Lord a fortified tower.
+L198110 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Who places her trust in thee, my God.
+L198109 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ Save your servant
+L198108 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ As it was in the begin is now and ever shall be, world without end, amen.
+L198107 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ Save me o' God by thy name, by thy might defend my cause, proud men have risen up against me, men of violence seek my life, but God is my helper, the Lord sustains my life and every need he has delivered to me, glory be to the Father, the Son and the Holy Spirit.
+L198106 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ But deliver us from the evil one.
+L198105 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ Hallowed be thy name. Thy kingdom come, thy will be done, on earth as it is in heaven. Give us this day, our daily bread, and forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation.
+L198101 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ There's only one.
+L198100 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ I think it would be helpful if I gave you some background on the different personalities Regan has manifested. So far, there seems to be three. She's convinced-
+L198099 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ We may ask what is relevant, but anything beyond that is dangerous. He is a liar, the demon is a liar. He will lie to confuse us. But he will also mix lies with the truth to attack us. The attack is psychological , Damien. And powerful. So don't listen, remember that, do not listen.
+L198097 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ Why?
+L198096 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Do you want to hear the background of the case, first?
+L198095 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ I would like you to go quickly over to the resdence Damien, and gather up a cassock for myself, two surplices, a purple stole, and some holy water, and your copy of The Roman Ritual. The Large one. I believe we should begin.
+L198094 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ No.
+L197839 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ I could have you deported, you know that?
+L197838 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ The Dominicans. Go pick on them.
+L197837 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Who?
+L197836 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Alright. You know who I think really did it?
+L197835 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Answer the question, Father Paranoia.
+L197834 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Come on!
+L197833 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ One last time: Can you think of some priest who fits the bill?
+L197832 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ I've seen it.
+L197831 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Who's in it? Debbie Reynolds, Desdemona, and Othello, Groucho Marx. You're happy?
+L197830 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Who's in it?
+L197829 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Yeah, I hate to go alone. You know, I like to talk film; discuss the critique. D'you wanna see a film with me? I got passes to The Crest. It's Othello.
+L197828 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ That's to bad.
+L197827 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ I get passes to the best shows in town. Mrs. K though, she gets tired and never likes to go.
+L197826 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Very much.
+L197825 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Hey, Father? You like movies?
+L197824 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Incidentally I mention only in passing that I could tell the judge that it was a matter of confession.
+L197823 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ No, I mentioned it only in passing.
+L197822 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Is that a threat?
+L197821 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Not to bother you with trivia, but a psychiatrist in sunny California was thrown in jail for not telling the judge what he knew about a patient.
+L197820 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ No I probably wouldn't.
+L197819 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Ah, doctor's ethics. If you knew you wouldn't tell, huh?
+L197818 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ I don't know anyone who fits the description.
+L197817 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Look, Father this is hard for you- please. But for priests on the campus here, you're the psychiatrist; you'd know who was sick at the time, who wasn't. I mean this kind of sickness. You'd know that.
+L197816 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Sick priest, is that it?
+L197815 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Maybe somebody crazy, someone with a spite against the church, some unconscious rebellion, perhaps.
+L197814 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ You think the killer and the desecrator are the same?
+L197813 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Exactly. So on the one hand we've got a witchcraft type of murder and a Black Mass style of desecration in the church.
+L197812 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Unlikely.
+L197811 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ It's possible. Possible however…
+L197810 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Couldn't it of happened on the fall.
+L197809 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Let me tell you how Father, and please confidential. Burke Dennings, good Father, was found at the bottom of those steps leading to 'M' Street, with his head turned completely around. Facing backwards.
+L197808 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Yeah, a fall.
+L197807 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ And Dennings, you read how he died?
+L197806 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Maybe. Some rituals used in Black Mass. Maybe.
+L197805 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ I know. I read it. These desecration's in the church…you think they have anything to do with witchcraft?
+L197804 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ From the psychiatric end.
+L197803 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Really?
+L197802 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ I once did a paper on it
+L197801 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Papers. Tell me, what do you know about the subject of witchcraft? From the witching end, not the hunting.
+L197800 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Only what I read in the papers.
+L197799 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ You've seen him. You're also familiar with how last week he died?
+L197798 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ I've seen him.
+L197797 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ You this director was doing a film here, Burke Dennings?
+L197796 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Always.
+L197795 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Do people tell you look like Paul Newman?
+L197794 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ Yeah, it's true. You do look like a boxer. John Garfield, in Body and Soul. Exactly John Garfield anyone told you that Father?
+L197793 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ What's this about?
+L197792 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ William F. Kinderman. Homicide.
+L197791 +++$+++ u5145 +++$+++ m341 +++$+++ KINDERMAN +++$+++ No we haven't met, but they said I could tell; that you looked like a boxer.
+L197790 +++$+++ u5144 +++$+++ m341 +++$+++ KARRAS +++$+++ Have we met?
+L198147 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ You killed your mother!!! You left her alone to die!!!! She'll never forgive you!!! Bastard!!!
+L198146 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ ...look down in pity...
+L198141 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ ...from this creature of God!!!
+L198140 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ Fuck him Karras!!! Fuck him!!!
+L198139 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ ...Be gone!!
+L198138 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ Fuck him!!!
+L198137 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ ...in the name of the Lord Jesus Christ!!! It is he who commands you! He who flung you from the heights of Heaven to the depths of hell!
+L198136 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ Shove it up your ass you faggot!
+L198135 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ I cast you out!!! Unclean spirit...!
+L198128 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ Bastards! Stop!
+L198127 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ Almighty Lord, word of God the father Jesus Christ, God and Lord of all creation, who gave to your holy apostle the power to tramp underfoot serpents and scorpions. Grant me, your unworthy servant pardon for all my sins...
+L198116 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ O'Lord hear my prey.
+L198115 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ Your mother sucks cocks in hell Karras, you faithless slime!
+L198103 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ Be silent!
+L198102 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ Stick your cock up her ass! You mother fucking, worthless cocksucker!
+L198093 +++$+++ u5146 +++$+++ m341 +++$+++ MERRIN +++$+++ Are you tired?
+L198092 +++$+++ u5152 +++$+++ m341 +++$+++ REGAN/DEMON +++$+++ MERRIN!!!!!!!
+L197574 +++$+++ u5148 +++$+++ m341 +++$+++ NURSE +++$+++ Just a minute.
+L197573 +++$+++ u5154 +++$+++ m341 +++$+++ UNCLE +++$+++ Yes I am her brother, he's the son
+L197572 +++$+++ u5148 +++$+++ m341 +++$+++ NURSE +++$+++ Are you a relative?
+L197571 +++$+++ u5154 +++$+++ m341 +++$+++ UNCLE +++$+++ Yes
+L197570 +++$+++ u5148 +++$+++ m341 +++$+++ NURSE +++$+++ Do you have an appointment?
+L197569 +++$+++ u5154 +++$+++ m341 +++$+++ UNCLE +++$+++ We want to see Mrs. Karras.
+L197568 +++$+++ u5148 +++$+++ m341 +++$+++ NURSE +++$+++ Yes?
+L197567 +++$+++ u5154 +++$+++ m341 +++$+++ UNCLE +++$+++ Miss?
+L197784 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Yes.
+L197783 +++$+++ u5150 +++$+++ m341 +++$+++ PSYCHIATRIST +++$+++ If he talks to me, I think he'll leave you. Do you want him to leave you?
+L197782 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ I'm afraid.
+L197781 +++$+++ u5150 +++$+++ m341 +++$+++ PSYCHIATRIST +++$+++ Why not?
+L197780 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ No.
+L197779 +++$+++ u5150 +++$+++ m341 +++$+++ PSYCHIATRIST +++$+++ If I ask him to tell me, will you let him answer?
+L197778 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ I don't know.
+L197777 +++$+++ u5150 +++$+++ m341 +++$+++ PSYCHIATRIST +++$+++ Is it Captain Howdy?
+L197776 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ I don't know.
+L197775 +++$+++ u5150 +++$+++ m341 +++$+++ PSYCHIATRIST +++$+++ Who is it?
+L197774 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Sometimes.
+L197773 +++$+++ u5150 +++$+++ m341 +++$+++ PSYCHIATRIST +++$+++ Is there someone inside you?
+L197772 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Twelve.
+L197771 +++$+++ u5150 +++$+++ m341 +++$+++ PSYCHIATRIST +++$+++ How old are you?
+L197770 +++$+++ u5151 +++$+++ m341 +++$+++ REGAN +++$+++ Yes.
+L197769 +++$+++ u5150 +++$+++ m341 +++$+++ PSYCHIATRIST +++$+++ Are you comfortable Regan?

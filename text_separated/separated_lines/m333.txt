@@ -1,0 +1,877 @@
+L183291 +++$+++ u5011 +++$+++ m333 +++$+++ "BRILL" +++$+++ 209 to anyone! I need some help here!
+L183289 +++$+++ u5011 +++$+++ m333 +++$+++ "BRILL" +++$+++ Maybe you bumped into someone who took it and you didn't even know.
+L183288 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Someone else?
+L183287 +++$+++ u5011 +++$+++ m333 +++$+++ "BRILL" +++$+++ Don't know. Did you check everywhere? Maybe it was hidden in something. Maybe there was someone else--
+L183286 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Um...who's that?
+L183285 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Nothing. Two nights later I was robbed. I'm pretty sure they were pros.
+L183284 +++$+++ u5011 +++$+++ m333 +++$+++ "BRILL" +++$+++ He didn't give you an address? He didn't give you a phone number?
+L183283 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I just gave him my card.
+L183282 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I'm telling you, I--
+L183281 +++$+++ u5011 +++$+++ m333 +++$+++ "BRILL" +++$+++ Don't bullshit me, I can save your life.
+L183280 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Nothing.
+L183279 +++$+++ u5011 +++$+++ m333 +++$+++ "BRILL" +++$+++ What'd he give to you?
+L183278 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Nothing.
+L183277 +++$+++ u5011 +++$+++ m333 +++$+++ "BRILL" +++$+++ What'd he say to you?
+L183276 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Yes.
+L183275 +++$+++ u5011 +++$+++ m333 +++$+++ "BRILL" +++$+++ And you were the last one to talk to him.
+L183274 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ <u>They</u> said he was behind an extortion scheme.
+L183273 +++$+++ u5011 +++$+++ m333 +++$+++ "BRILL" +++$+++ You said he was behind an extortion scheme.
+L183272 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't know anything about Zavitz.
+L183271 +++$+++ u5011 +++$+++ m333 +++$+++ "BRILL" +++$+++ They found him yesterday folded neatly in a car trunk. What about Zavitz?
+L183270 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Oh Jesus.
+L183269 +++$+++ u5011 +++$+++ m333 +++$+++ "BRILL" +++$+++ DePinto's dead.
+L183268 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It started with the information you gave me on DePinto. After we talked, he agreed to resign. Next, a phony detective asked me about Daniel Zavitz. Then an investigator questioned me about an extortion scheme they claimed Zavitz was behind. The FBI started looking into mob connections. A doctored picture in the paper. Overnight, I'm ruined. Wife. job, bank accounts, everything gone.
+L183267 +++$+++ u5011 +++$+++ m333 +++$+++ "BRILL" +++$+++ What happened?
+L183263 +++$+++ u5011 +++$+++ m333 +++$+++ "BRILL" +++$+++ Brill's dead. He died of small pox when he was two and he was buried in a Kansas field.  My name doesn't matter.
+L183262 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Brill?
+L183819 +++$+++ u5012 +++$+++ m333 +++$+++ ALBERT +++$+++ You're not.
+L183818 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't want any money. And believe me, I have no interest in ruining your life. I'm not interested in this tape.
+L183817 +++$+++ u5012 +++$+++ m333 +++$+++ ALBERT +++$+++ So...how much money do you want in exchange for not ruining my life?
+L183816 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Me neither, but the upshot is I've got color live-action footage of you and Ms Hawkins and it doesn't look good.
+L183815 +++$+++ u5012 +++$+++ m333 +++$+++ ALBERT +++$+++ I don't know what that means.
+L183814 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It's actually DH-1 Digitech Pinpoint scanning with a frequency modulator.
+L182793 +++$+++ u5013 +++$+++ m333 +++$+++ ALFONSO +++$+++ Be careful, Danny.
+L182792 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ I'll come straight there.
+L182791 +++$+++ u5013 +++$+++ m333 +++$+++ ALFONSO +++$+++ Come straight here. Don't talk to anyone.
+L182790 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ I'm doing a transfer now.
+L182789 +++$+++ u5013 +++$+++ m333 +++$+++ ALFONSO +++$+++ When can you get it here?
+L182788 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ No one. But I'm a little nervous.
+L182787 +++$+++ u5013 +++$+++ m333 +++$+++ ALFONSO +++$+++ Who else have you told?
+L182786 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ Clear as day.
+L182785 +++$+++ u5013 +++$+++ m333 +++$+++ ALFONSO +++$+++ You've got it on tape?
+L182782 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ Do it!
+L182781 +++$+++ u5013 +++$+++ m333 +++$+++ ALFONSO +++$+++ Alright, I made a joke about squirrels, don't get so--
+L182780 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ Goddammit, shut the fuck up and turn on CNN!
+L182779 +++$+++ u5013 +++$+++ m333 +++$+++ ALFONSO +++$+++ They keep taking the bird seed. I thought since you're the expert on--
+L182778 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ Turn on CNN.
+L182777 +++$+++ u5013 +++$+++ m333 +++$+++ ALFONSO +++$+++ Lemme ask you something. I put a bird feeder out in the yard, but the squirrels, they keep taking--
+L182776 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ Listen--
+L182775 +++$+++ u5013 +++$+++ m333 +++$+++ ALFONSO +++$+++ Tired of chasing squirrels around the park?
+L182774 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ Listen to me--
+L182773 +++$+++ u5013 +++$+++ m333 +++$+++ ALFONSO +++$+++ Zavitz, what? You want your old job back?
+L183127 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Well considering what a colossal douche bag you are, David, maybe I'd do best to simply kick your ass all over the capitol.
+L183126 +++$+++ u5014 +++$+++ m333 +++$+++ BLAKE +++$+++ Yes.
+L183125 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Really?
+L183124 +++$+++ u5014 +++$+++ m333 +++$+++ BLAKE +++$+++ Considering the enormous exposure to which you've subjected this firm, I'd think you'd do best to simply answer my questions.
+L183123 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Told by whom?
+L183122 +++$+++ u5014 +++$+++ m333 +++$+++ BLAKE +++$+++ I'm told you had an affair with Rachel Banks four years ago.
+L183121 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't know who he is.
+L183120 +++$+++ u5014 +++$+++ m333 +++$+++ BLAKE +++$+++ Why don't you just call Brill directly.
+L183117 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I have a professional relationship with Rachel Banks. She's the go- between for a private investigator I use.
+L183116 +++$+++ u5014 +++$+++ m333 +++$+++ BLAKE +++$+++ A direct one.
+L183115 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What kind of a question is that?
+L183112 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Rachel Banks?
+L183111 +++$+++ u5014 +++$+++ m333 +++$+++ BLAKE +++$+++ Tell us about Rachel Banks.
+L183108 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Except for the part about my setting up a company in Zurich and knowing anyone named Sam Vollotti and having any relationship whatsoever with the Gambino family.
+L183107 +++$+++ u5014 +++$+++ m333 +++$+++ BLAKE +++$+++ It is?
+L183104 +++$+++ u5014 +++$+++ m333 +++$+++ BLAKE +++$+++ They want to hold you in Contempt for ethics violations.
+L183103 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Why?
+L183102 +++$+++ u5014 +++$+++ m333 +++$+++ BLAKE +++$+++ We've also been informed that the Grand Jury is going to call for an investigation into your affairs.
+L183716 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Not particularly, no.
+L183715 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Feeling lucky?
+L183713 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ C'mon.
+L183712 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ He came in four minutes ago.
+L183665 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ AmeriTech's data-base.  There's Albert's D.C. office address and his phone's identity code. Now we just reprogram out phone with his ID code and you know what we've got?
+L183664 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What are you dialing?
+L183654 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Shit.
+L183653 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I know my phone number and I know the number for SportsPhone. Beyond that--
+L183652 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ What do you know about locking cellular phone signals?
+L183650 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ We'll have to re-stock some basics.
+L183649 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Pretty fast.
+L183648 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ How fast can you learn?
+L183647 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ We're gonna lead Albert by the nose to one conclusion. And then when he's pissed as hell, we're gonna drop the tape in his lap. How fast can you teach me what I need to know?
+L183646 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No, I want the NSA to get caught spying on Albert.
+L183645 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ You wanna get caught spying on Albert?
+L183642 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Who?
+L183641 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No.
+L183640 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Reynolds.
+L183639 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Same way they did with you and me. We take their biggest guy and turn him into one of us.
+L183638 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ How?
+L183637 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What if we just fucked with 'em?
+L183636 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ What if <u>what</u>?
+L183635 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What if--
+L183634 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ They've done it before. Takes maybe two minutes.
+L183633 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What if--
+L183632 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ If they couldn't do that, they'd shut down the whole system, all the relays.
+L183631 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What if--
+L183630 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Nah, they'd shut down the pin number.
+L183629 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Listen--
+L183628 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ What if we transmitted it over cellular?
+L183622 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ <u>I</u> know. <u>I</u> know what they're looking for and I'm telling you.
+L183621 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Well how do <u>I</u> know what they're--
+L183620 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ The area's wired for surveillance, they'll be <u>looking</u> for those moves.
+L183619 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What if we hand deliver to their homes or office?
+L183618 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ It'd never get through. All packages are screened, x-rayed and then hand-searched for explosives. You didn't like my "give-me-my- money" idea?
+L183617 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What if we do a mailing to Congressmen.
+L183616 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ I was thinkin' about asking for my hundred and fifty grand and calling it quits.
+L183615 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ So what do we do now?
+L183614 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Same thing?
+L183613 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What about newspapers and magazines?
+L183612 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Listen to you, "directly". You're not gonna get <u>near</u> the News Department. And if you did, it'd never get on the air. Time-Life buried the Zapruder film for 15 years.
+L183593 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ We're honest people and we need your help. I'll give you two- hundred dollars if you--
+L183592 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Goddammit--
+L183591 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No he won't.
+L183590 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Drive or I'll blow your fuckin' head off.
+L183589 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Tell him we're not gonna hurt him.
+L183588 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Drive.
+L183587 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ We're not gonna hurt you.
+L183586 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Drive.
+L183585 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Tell me about it.
+L183584 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ These guys are incredibly persistent.
+L183583 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Yeah, I can see where that'd--
+L183582 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Let's not do the tire thing anymore, okay?
+L183581 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Fuckin-A.
+L183580 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ That wasn't so hard.
+L183579 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ We lost 'em.
+L183578 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Oh my God...
+L183577 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Think we let out enough air?
+L183576 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I didn't see a warrant. Did you see a warrant?
+L183575 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Those are Feds.
+L183574 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You're driving.
+L183573 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ You sure?
+L183572 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Gimme that.
+L183569 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ They shouldn't have come without calling first.
+L183568 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What the fuck?!
+L183567 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Why?
+L183566 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Empty 'em 'till they're almost flat. And turn your head. There might be some debris flying your way.
+L183563 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ 'Kay, well, could you walk faster, please.
+L183562 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ In the warehouse. They're hiding in a duct on the third floor. When we go back inside, they're gonna kill us. When they notice that we're moving toward the car, they'll come running out of the building.
+L183561 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ <u>Here</u>?!
+L183560 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Here?
+L183559 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Where?
+L183558 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Them.
+L183557 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Who?
+L183556 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ They're here.
+L183555 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What's going on?
+L183554 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Well, actually, <u>you</u> have proof. Could you walk a little faster please.
+L183553 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Jesus. Do you have proof?
+L183552 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ The NSA killed him.
+L183551 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Yeah.
+L183550 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Remember when Senator Hamersley died in an accident up near Shenandoah?
+L183549 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Yeah.  Take a walk with me.
+L183548 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It really is.  Did you find anything?
+L183547 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ That is one ugly sunrise.
+L183544 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Welcome to Santa's Workshop.
+L183543 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Looks like Detroit.
+L183542 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ What do you think?
+L183541 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Well...there'd be too much disclosure to prosecute me. So they ruined my records and made sure I'd never hold a real job again.
+L183540 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ They come after you?
+L183539 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ It was '72. I figured we had enough problems without monitoring a Berkeley kid's class schedule. So I sold my story to <u>Ramparts</u> and split.
+L183538 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Why'd you leave?
+L183537 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ That was twenty years ago. With digital? They can suck a salt grain off a beach.
+L183536 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Jesus.
+L183535 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Meade has 18 underground acres of computers. They scan <u>every</u> phonecall for target words like "bomb" or "President". We red-flag phone numbers or voice prints...whatever we wanted. When the computers found something, it was bounced to comparative analysis.
+L183534 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ How'd you have the manpower to--
+L183533 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ They can tap anything as along as it's an airwave intercept. Cellulars and pagers your kid can do.  Hard-line calls we'd pick off the relays as they were being fed into ground cables or fired up to the SATs. We'd suck in everything. All foreign, most domestic.  Domestic was my group. Druggies, radicals, loud-mouths. Anyone we wanted.
+L183532 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ How'd you get around the tap orders?
+L183531 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ I intercepted phone calls.
+L183530 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ I was a traffic analyst.
+L183529 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You used to work for 'em, didn't you?
+L183528 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ None of your business.
+L183527 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ How do you know so much?
+L183526 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ The NSA's been in bed with the entire tele-communications industry since the 40's. They've infected everything: Banks, computers, phones, mail, name it.  The more technology we buy into, the easier it is keeping tabs on us. It's a brave new world.  At least it better be.
+L183522 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Oh, I'll bet <u>that</u> threw 'em off the scent. I sure hope you covered the mouthpiece with a handkerchief and used a funny voice!
+L183521 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I didn't use my name.
+L183520 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ You don't get it. They go through your phone records. They fuckin' monitor everyone you called in the last--
+L183519 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Sorry.
+L183518 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ I told you no calls.
+L183517 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You told me no calls.
+L183516 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ What'd I tell you?
+L183515 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I called from a payphone!
+L183514 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ What'd I tell you?
+L183513 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I didn't use my name.
+L183512 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ What'd I tell you?
+L183511 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I called my wife!
+L183510 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Jesus!
+L183509 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Look, my wife is understandably--
+L183508 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ I mean did you call anyone.
+L183507 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What do you mean?
+L183506 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Did you call anyone?
+L183505 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ One-twenty.
+L183504 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ The price rises with the temperature and right now you're smokin'. But you're right, you should shop around and get the best price. I'll just let you out here.
+L183503 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ We said a hundred.
+L183502 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ I was worried about my hundred and twenty 'K'.
+L183501 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ And you were worried about me. That's nice, I appreciate--
+L183500 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ I taped it off the 11 o'clock news.
+L183497 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Move it.
+L183496 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You could knock on the door, you know, and I'd open it.
+L183495 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Get dressed. We're leaving.
+L183365 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ If you find something, chalk the Baltimore Sheraton mailbox and go to Temperanceville. It's South of Salisbury.  And take this.
+L183364 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ How many years have <u>you</u> been hiding from them? How many years have you been running?  What'd they do to you?
+L183362 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ They froze your accounts. Get outa my way.
+L183361 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I'll pay you.
+L183360 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ And you won't. Now move--
+L183359 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What if I find out what they're after. You know these people, I don't.
+L183358 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Look, you gave me some work over the last year. We'll call it even.
+L183357 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What if--
+L183356 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Hey, if you live another week I'll be impressed.
+L183355 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What am I gonna do?! I mean, like, for the rest of my <u>life</u>?!
+L183354 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ No shit.
+L183353 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't know <u>anything</u>.
+L183352 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Exposure. They can't have it. They wanna learn what you know and then deal with it.
+L183351 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't know what that--
+L183350 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ They're spooks.
+L183349 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Why don't they just identify themselves and tell me what they want?
+L183348 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Pal, you're cooked. It's over. What you did, who you were...that's done. I'd find a quiet job somewhere shoveling snow.
+L183347 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Wait. What do I do?
+L183346 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ If I knew, they'd be after <u>me</u>. Which they probably are right now. 'Bye.
+L183345 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Why are they after <u>me</u>?
+L183344 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ It means the NSA can read the time off your wristwatch.
+L183343 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't know what that means.
+L183342 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ 230 Giga-Hertz. They use that band for the Aquacade Spy-SAT uplinks.
+L183341 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't know what that means.
+L183340 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Like a LowJack, but two generations ahead of what the police use. It pulses at 230 Giga-Hertz.
+L183339 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't know what that means.
+L183338 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ It's a SAT-tracker.
+L183337 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What <u>is</u> that?
+L183336 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ I clipped this from your wheel well just before they towed your car away.
+L183335 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Yeah.
+L183334 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ You drive a black BMW, license plate SRK1339?
+L183333 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Wait.
+L183332 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Okay.
+L183331 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You're crazy.
+L183330 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Yes.
+L183329 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ The NSA?
+L183328 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ That's who they are.
+L183327 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What do they have to do with this?
+L183326 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ You've heard of the National Security Agency?
+L183325 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Who are they?
+L183324 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ One of many people who would live a word with you.
+L183323 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Who was that other guy?
+L183322 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ You knew the deal. No contact.
+L183690 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ My name's Neil. Maybe I can help you.
+L183689 +++$+++ u5034 +++$+++ m333 +++$+++ PATRICK +++$+++ The thing is...it really can't wait.
+L183688 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Jerry's on vacation 'till Monday. I can give him the message when he gets back. That was Patrick and the last name--
+L183687 +++$+++ u5034 +++$+++ m333 +++$+++ PATRICK +++$+++ It's Pat Cary. I work for Senator Sam Albert and I was given Jerry's name.
+L183686 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Who's calling?
+L183685 +++$+++ u5034 +++$+++ m333 +++$+++ PATRICK +++$+++ Is Jerry Delsano in?
+L183684 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Baudmore Consultants.
+L183709 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Anytime.
+L183708 +++$+++ u5040 +++$+++ m333 +++$+++ SENATOR ALBERT +++$+++ Neil, thank you for your help.
+L183707 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ With spy satellites. I don't like saying these things Senator...
+L183706 +++$+++ u5040 +++$+++ m333 +++$+++ SENATOR ALBERT +++$+++ With what?
+L183705 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Tracks your location to the inch and works directly with--you know...
+L183704 +++$+++ u5040 +++$+++ m333 +++$+++ SENATOR ALBERT +++$+++ Oh my God.
+L183703 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ I yanked this off your RV. It's a Global Positioning Tracker.
+L183702 +++$+++ u5040 +++$+++ m333 +++$+++ SENATOR ALBERT +++$+++ Are you sure about this?
+L183701 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ FBI, CIA, NSA, local cops.
+L183700 +++$+++ u5040 +++$+++ m333 +++$+++ SENATOR ALBERT +++$+++ Law enforcement?
+L183699 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Most of this stuff's only available to law enforcement.
+L183698 +++$+++ u5040 +++$+++ m333 +++$+++ SENATOR ALBERT +++$+++ What are you saying?
+L183697 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ The thing is, Senator, and I don't want to get in the middle of nothing, but--
+L183696 +++$+++ u5040 +++$+++ m333 +++$+++ SENATOR ALBERT +++$+++ What do you mean? Who can buy this kind of equipment.
+L183695 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Ah, sir, you know, it's not for me to say.
+L183694 +++$+++ u5040 +++$+++ m333 +++$+++ SENATOR ALBERT +++$+++ Well then who can?
+L183693 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ Well, sir, I'm afraid it's not as simple as that. Your average newspaper guy or Hard Copy lady or whatever, they can't buy this stuff.
+L183667 +++$+++ u5015 +++$+++ m333 +++$+++ BRILL +++$+++ A receiver tuned permanently to the Senator's phone.
+L183666 +++$+++ u5040 +++$+++ m333 +++$+++ SENATOR ALBERT +++$+++ --Don't think it could've gone any better. Tell me, how's Deb? How're my grandchildren?
+L183493 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You're a tough nut to crack, Dylan.
+L183492 +++$+++ u5019 +++$+++ m333 +++$+++ DYLAN +++$+++ Oh, God, I <u>knew</u> it was stupid, I <u>knew</u> we'd get caught. But the Gameboy was just <u>sitting</u> there. Right on top of the bag. Yes. Yes. We took the GameBoy out of the bag, but with every intention of putting it back.
+L183491 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Dylan, I was just asking Eric if--
+L183490 +++$+++ u5019 +++$+++ m333 +++$+++ DYLAN +++$+++ Hey, Mr. D., what's happenin'?
+L182884 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You got any money?
+L182883 +++$+++ u5019 +++$+++ m333 +++$+++ DYLAN +++$+++ Is it okay?
+L182871 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Hello. Hello, Maria.
+L182870 +++$+++ u5019 +++$+++ m333 +++$+++ DYLAN +++$+++ Hi, Mr. Dean.
+L182863 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Could you give me just a moment to talk to a friend of mine here? Not about this, but...Daniel?
+L182862 +++$+++ u5039 +++$+++ m333 +++$+++ SALES CLERK +++$+++ For that matter, I think you will too.
+L182861 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Listen, Daniel, hang on one second.
+L182860 +++$+++ u5039 +++$+++ m333 +++$+++ SALES CLERK +++$+++ I think she'll like this very much.
+L182847 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Okay.
+L182846 +++$+++ u5039 +++$+++ m333 +++$+++ SALES CLERK +++$+++ Remain calm.
+L182845 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Thanks.
+L182844 +++$+++ u5039 +++$+++ m333 +++$+++ SALES CLERK +++$+++ I'll be right back.
+L182843 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Eight.  Size eight.
+L182842 +++$+++ u5039 +++$+++ m333 +++$+++ SALES CLERK +++$+++ What size?
+L182841 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Pardon?
+L182840 +++$+++ u5039 +++$+++ m333 +++$+++ SALES CLERK +++$+++ What size?
+L182839 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I'll say.
+L182838 +++$+++ u5039 +++$+++ m333 +++$+++ SALES CLERK +++$+++ It's a little late for that.
+L182837 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't know anything about this. Well, I mean, I know a <u>little</u> about--from a certain perspective. My point is, I don't want to do anything foolish.
+L182836 +++$+++ u5039 +++$+++ m333 +++$+++ SALES CLERK +++$+++ Very good.
+L182835 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Is that good?
+L182834 +++$+++ u5039 +++$+++ m333 +++$+++ SALES CLERK +++$+++ How 'bout Christian Dior?
+L182833 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Can you help me?
+L182832 +++$+++ u5039 +++$+++ m333 +++$+++ SALES CLERK +++$+++ It's okay. I think it's a wonderful gift.
+L182831 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Yes. I have her permission.
+L182830 +++$+++ u5039 +++$+++ m333 +++$+++ SALES CLERK +++$+++ You'd like to buy your wife some lingerie as a Christmas gift.
+L182829 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I'm married to my wife...of several years...and I'd like to buy...as a Christmas present...
+L182828 +++$+++ u5039 +++$+++ m333 +++$+++ SALES CLERK +++$+++ That's fine.
+L182827 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I'm married.
+L182826 +++$+++ u5039 +++$+++ m333 +++$+++ SALES CLERK +++$+++ Do you see anything you like?
+L183211 +++$+++ u5032 +++$+++ m333 +++$+++ MEG +++$+++ Daniel's life is already ruined. Maybe if you guys stopped thinking about yourselves for a change and--
+L183210 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Because my life is being ruined.
+L183209 +++$+++ u5032 +++$+++ m333 +++$+++ MEG +++$+++ Why?
+L183208 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Well, I need to find out as much about Daniel as possible.
+L183207 +++$+++ u5032 +++$+++ m333 +++$+++ MEG +++$+++ <u>What's</u> your point.
+L183206 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ That's my point.
+L183205 +++$+++ u5032 +++$+++ m333 +++$+++ MEG +++$+++ <u>Wildlife</u> footage, for God's sake. I don't see how he could've slipped you something that the FBI would be interested in.
+L183204 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I know, but--
+L183027 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ Yes sir.
+L183026 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't know what's goin' on with Zavitz, but that was way, <u>way</u> outa line.  You understand?
+L183025 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ I thought maybe it might be for Rachel Banks.
+L183024 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ <u>Yes</u>, for my wife, what the hell kinds of questions are these.
+L183023 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ For your wife?
+L183022 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ To buy lingerie.
+L183021 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ Why'd you go to Harrison's?
+L183020 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No.
+L183019 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ Nobody gave you <u>anything</u>?
+L183018 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Not that I could see.
+L183017 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ Was he with anyone?
+L183016 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No, sir.
+L183015 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ Anything at all?
+L183014 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No.
+L183013 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ Did he give you anything?
+L183012 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I'm happy to help you all I can. But I didn't see the accident and I barely knew Daniel Zavitz. I've gotta go to work.
+L183011 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ We'd appreciate your cooperation.
+L183010 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Somebody took my blender.
+L183009 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ Why so edgy, Mr. Dean?
+L183008 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Than why don't you talk to the bus driver?
+L183007 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ I'm just trying to determine if Mr. Zavitz was involved in something more than a simple bus accident.
+L183006 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Because I don't know.
+L183005 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ Than why can't you tell me.
+L183004 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I'm not his attorney.
+L183003 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ Are you invoking attorney/client privilege.
+L183002 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I can't.
+L183001 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ You tell me.
+L183000 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What kind of trouble.
+L182999 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ Mr. Zavitz was in trouble.
+L182998 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I'm no expert, but I'm assuming that the impact of a moving bus against his body caused--
+L182997 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ About the accident.
+L182996 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ About what?
+L182995 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ Someone said you spoke to Mr. Zavitz before he died. I thought you might know something.
+L182994 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I was <u>in</u> the store, the accident was outside. It was a bus.
+L182993 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ You weren't at Harrison's Department Store the night before--
+L182992 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ That's 'cause I <u>wasn't</u> there.
+L182991 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ A police report.
+L182990 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ A report?
+L182989 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ Witnesses said you were there, but I notice you didn't file a report.
+L182988 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Oh...yeah, I didn't see the accident.
+L182987 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ No, sir, I'm not involved with that. I'm doing a quick follow-up on a bus accident took place a few nights ago. Your name keeps coming up.
+L182986 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ The robbery.
+L182985 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ Your stuff?
+L182984 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Hey, did you guys find my stuff?
+L182983 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ I'm sorry. Detective Morelos.
+L182982 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Thanks.  Who are you?
+L182981 +++$+++ u5033 +++$+++ m333 +++$+++ MORELOS +++$+++ I didn't want to bother you during your racquetball game.
+L182980 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Yes?
+L183855 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ You did good.
+L183854 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ A friend of mine. I don't know his real name. He's dead now.
+L183853 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Who?
+L183852 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Yeah.  I wish you could've met...
+L183851 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ I'm sorry about Rachel.
+L183850 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Albert's gonna get me my job back.
+L183849 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ It's really over?
+L183841 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It's over.
+L183840 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Is it over?
+L183765 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ That's gonna end tonight.
+L183764 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ They're saying you killed that policeman.
+L183763 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Yeah.
+L183762 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Are you sure you're safe?
+L183471 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Oh Christ.
+L183470 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ What is it?
+L183469 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ ...who root through...uh...presents, and...
+L183468 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You're as bad as Eric. I've got an entire family of people who root through--
+L183467 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ I was missing you.
+L183466 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ That was for Christmas.
+L183465 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ The lingerie.
+L183464 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You opened the thing?
+L183463 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ I opened the present you got me from Harrison's.
+L183462 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ That's okay.
+L183461 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ I'm sorry I didn't believe you.
+L183460 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Stacy...Stacy...maybe now isn't the best time for the I-Told-You-So speech.
+L183459 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ I <u>told</u> you they could do this. I <u>told</u> you they had this kind of capability and that with this anti- terrorism it would be just another--
+L183458 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Stacy--
+L183457 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Good.
+L183456 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Well...yeah.
+L183455 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Does that hurt?
+L183454 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I was in a car chase and a small explosion. Now listen to me: The NSA is behind this. They think that guy I told you about, Daniel Zavitz, they think Zavitz gave me a tape or computer chip of some kind that could be damaging to them. So they're doing all these things <u>electronically</u>. The bank records, the surveillance. They're the ones who broke into the house. Now I know there's no reason to believe me. But I love you. And I love our son. So just believe me anyway.  Please.
+L183453 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ What happened to your head?
+L183452 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't think anybody wants the drapes, Stacy, I think the drapes are okay.
+L183451 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ This is my house. Nobody's kicking me out of my house. I picked those drapes.
+L183450 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I wish you'd gone to your parents like I asked you.
+L183449 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Just reporters.
+L183448 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Has anyone been by? Police? FBI?
+L183447 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Yes.
+L183446 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Is Eric in school?
+L183309 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ My father's put me in touch with an attorney. He'll be--
+L183308 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Stacy, somebody's trying to kill me. Now goddamit--
+L183307 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ This is science-fiction Robert! The manager showed me the transfer notice with your signature on it.
+L183306 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It wasn't me.
+L183305 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ I went to the bank to see why. They said you emptied our accounts--
+L183304 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I know.
+L183303 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ I went to the grocery store. My ATM and credit cards didn't work. I couldn't buy food.
+L183302 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No, I was with her yesterday. I want you to take Eric and go to our parents house. I want you to do it right now.
+L183301 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Was that doctored-up, too?
+L183300 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I know, but listen--
+L183299 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ I'm looking at a picture of you and Rachel taken <u>yesterday</u>.
+L183298 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Stacy--
+L183297 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Do you know what I'm looking at Robert?
+L183296 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Stacy, don't hang up.
+L183169 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Leave this house.
+L183168 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Stacy--
+L183167 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ I think you should leave now, Robert.
+L183166 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It's not a real picture, Stacy, it's been doctored-up.
+L183165 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Oh, please--
+L183164 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It's not real...  That's not me.
+L183163 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ The date stamp on the picture is last <u>month</u>. Is that where you and Rachel conduct business.
+L183162 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I didn't want you to be upset. I shouldn't have lied. Stacy, there's nothing between me and Rachel Banks.
+L183161 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ You told me you weren't seeing her at <u>all</u>.
+L183160 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I see her for business.
+L183159 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ You had an affair with this woman, Robert, we went to a fucking <u>counselor</u> for a year.
+L183158 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I know.
+L183157 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ I told you I didn't want you seeing her.
+L183156 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I have lunch with Rachel once a month. She's my connection to an investigator.
+L183155 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ You <u>swore</u>!
+L183154 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Yeah...look--
+L183153 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ "At the center of the investigation are well-known Washington-area attorneys Robert Dean and Rachel Banks."
+L183152 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I've seen it.
+L183151 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ "Sources revealed an FBI investigation into a possible money laundering scheme that may have sent millions of dollars--
+L183150 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It's not true.
+L183149 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Robert--
+L183148 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Stacy, I found out like this. This is the first I'm <u>hearing</u> of--
+L183147 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ How could you let me find out like this?
+L183146 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Stacy?
+L183089 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ There's just, clearly, some administrative snafu. I'm sure this is the worst of it.
+L183088 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ He's got his priorities?
+L183087 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Well, you know--
+L183086 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ I don't understand why Jerry couldn't clear this up.
+L182959 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It's okay.
+L182958 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Sorry.
+L182957 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No.
+L182956 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Have you been working with Rachel?
+L182955 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Honey, I don't like to talk about this stuff in front of Eric.
+L182954 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Yeah, but you said you've never met him. How did you--
+L182953 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ A guy named Brill. Same guy as always.
+L182952 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Who did you work with to get the--
+L182951 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What do you mean?
+L182950 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ How'd you get the information on DePinto?
+L182949 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Yeah.
+L182948 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Bobby?
+L182912 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ A toaster. And no terrorist talk at dinner. You're spookin' the kids.
+L182911 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ What'd you buy at Harrison's?
+L182910 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ The thing is, when I saw him, it seemed like he wanted to tell me...  ...he was upset about something and he said...  Doesn't matter now.  I'm gonna wash up.
+L182909 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ I'm sorry.
+L182908 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ In front of Harrison's, he got hit by a bus. I knew him. The firm did some pro bono work for his organization a few years back.
+L182907 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ What do you mean?
+L182906 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I saw a man die.
+L182905 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ What?
+L182904 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Something bad happened tonight.
+L182903 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ You're a lawyer. Don't you care what's going on around you?
+L182902 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I think you're taking it seriously enough for both of us.
+L182901 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ You should take this seriously.
+L182900 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Right.
+L182899 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ We won't suspend the civil rights of the good people.
+L182898 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Just for the criminals.
+L182897 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ So you tap everyone's phone? You use computers to probe financial records? New Search and Seizure laws?
+L182896 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Not a very good one, but--
+L182895 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Bobby!
+L182892 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ Listen to him.
+L182891 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Uh-oh.
+L182890 +++$+++ u5043 +++$+++ m333 +++$+++ STACY +++$+++ This guy's a fat-assed Rotarian gasbag.
+L182889 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Hey.
+L183179 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Don't count on it.
+L183178 +++$+++ u5018 +++$+++ m333 +++$+++ DESK CLERK +++$+++ I'm sure we can locate it for you, sir.
+L183177 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ My suitcase is gone.
+L183176 +++$+++ u5018 +++$+++ m333 +++$+++ DESK CLERK +++$+++ Sir?
+L183175 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ My suitcase--
+L183173 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Here, you can use this.
+L183172 +++$+++ u5018 +++$+++ m333 +++$+++ DESK CLERK +++$+++ Maybe it's not connected yet.
+L183171 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It's a brand new card.
+L183170 +++$+++ u5018 +++$+++ m333 +++$+++ DESK CLERK +++$+++ I'm sorry, sir, this card's been declined.
+L182765 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Good news there, Mr. DePinto, you're talking to one.
+L182764 +++$+++ u5017 +++$+++ m333 +++$+++ DEPINTO +++$+++ I want to talk to a goddam lawyer.
+L182763 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ That's probably not you in the picture. I tell you what, I'll just run the thing by the Grand Jury, see if they can't--
+L182762 +++$+++ u5017 +++$+++ m333 +++$+++ DEPINTO +++$+++ You're goddam right you jumped the gun.
+L182761 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You're right, Mr. DePinto, and maybe I jumped the gun.
+L182760 +++$+++ u5017 +++$+++ m333 +++$+++ DEPINTO +++$+++ This is fucked. You don't know <u>who's</u> in that--
+L182759 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ That's not you having a whiskey sour with Carmine Morada.
+L182758 +++$+++ u5017 +++$+++ m333 +++$+++ DEPINTO +++$+++ You don't know who the fuck--
+L182757 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It's not?
+L182756 +++$+++ u5017 +++$+++ m333 +++$+++ DEPINTO +++$+++ That ain't me.
+L182755 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I've got photographs of you at the Trenton Ramada looking very--
+L182754 +++$+++ u5017 +++$+++ m333 +++$+++ DEPINTO +++$+++ Why the hell would I--
+L182753 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't believe it is, no.
+L182752 +++$+++ u5017 +++$+++ m333 +++$+++ DEPINTO +++$+++ Is this a fuckin' joke?
+L182751 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Well, I was hoping you might stop by my office to swear out a criminal deposition against some of your friends and co-workers.
+L182750 +++$+++ u5017 +++$+++ m333 +++$+++ DEPINTO +++$+++ What can I do for you?
+L183197 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I'll see if I can, you know, work things out.
+L183196 +++$+++ u5038 +++$+++ m333 +++$+++ SAL +++$+++ And then what?
+L183193 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ My wife's Jewish. But that probably doesn't matter right now.
+L183192 +++$+++ u5038 +++$+++ m333 +++$+++ SAL +++$+++ Oh.
+L183191 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No, I meant I'm Presbyterian.
+L183190 +++$+++ u5038 +++$+++ m333 +++$+++ SAL +++$+++ You didn't squeeze DePinto?
+L183189 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Actually, that's not true.
+L183186 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I'd like to speak to someone about what's happening to me.
+L183185 +++$+++ u5038 +++$+++ m333 +++$+++ SAL +++$+++ I'm sorry. I'm not sure I understand. You wanna fuckin' <u>what</u>?
+L183254 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ My guess is male, somewhere in his 40's or 50's.
+L183253 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Any idea what he looks like?
+L183248 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Yeah.
+L183247 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ You're a moron, you know that?
+L183246 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It's not me?
+L183245 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ What makes you think it's you?
+L183244 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I'm sorry about that.
+L183243 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ I don't <u>have</u> a life, Bobby. I'm in love with a married man.
+L183242 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What're you gonna do, Rachel? You gonna sit in a bar in Baltimore? You want your job back? You want a life?
+L183241 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ This conversation's over.
+L183240 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I <u>did</u> care how.
+L183239 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ Fuck you. When you needed information, I got it. You didn't care how.
+L183238 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Goddammit, Rachel, you assured me--
+L183237 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ I've never met him?
+L183236 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You have to.
+L183235 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ I can't.
+L183234 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Tell me about Brill.
+L183233 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ How?
+L183232 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I'm gonna fix it.
+L183231 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ We're screwed.
+L183230 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Rachel--
+L183229 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ Bullshit.
+L183228 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ That's temporary.
+L183227 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ You don't work there anymore, Bobby.
+L183226 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ My firm'll represent you. Free of charge.
+L183225 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ For the last four years.
+L183224 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You being audited?
+L183223 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ The IRS contacted me this morning. They say my lifestyle and receipts exceed my income.
+L183222 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I know.
+L183218 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Will you hang on just a second.
+L183217 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ I gotta go.
+L183216 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Who's doing this?
+L183215 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ It's really not a good idea for me to be seen with you.
+L183214 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You got a minute?
+L183213 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ Good. You're just what I need right now.
+L183096 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ All right, look--
+L183095 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ There are reporters wanting to know about my relationship with you and how long I've worked for the mob. The <u>mob</u>, Bobby!
+L183094 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Why?
+L183093 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ I got a call from my firm this morning saying don't come in.
+L182749 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Mr. DePinto? My name's Robert Dean. I'm an attorney with Seth, Silverberg.
+L182748 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ Eat your fish.
+L182747 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Thank you.
+L182746 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ I wouldn't let you. Good luck with DePinto.
+L182745 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ How can I be sure.
+L182744 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ You're not.
+L182743 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I just want to make sure I'm not breaking the law.
+L182742 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ He doesn't work that way.
+L182741 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I <u>like</u> our history. And I like you. I'd probably like <u>Brill</u> if I ever got to--
+L182740 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ Someone with whom you don't have quite so personal a--
+L182739 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Why would I--
+L182738 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ Other than me.
+L182737 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Other than Brill.
+L182736 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ I take a straight 15 percent. Brill's fee varies with risk. Perhaps you'd be more comfortable using someone else.
+L182735 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Ten thousand cash. I don't know if it's Brill's prices going up or your commission.
+L182734 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ So you've said.
+L182733 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ Yes.
+L182732 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Brill?
+L182731 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ It's how he works.
+L182730 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ "Soon". Or at least sooner than never.
+L182729 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ What answer were you--
+L182728 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ That wasn't the answer I was hoping for.
+L182727 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ Never.
+L182726 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Brill.
+L182725 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ DePinto?
+L182724 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ When do I get to meet him?
+L182723 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ Here's what you asked for. Brill's note said it was everything you'd need to, shall we say, coax DePinto--
+L182722 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Not that much.
+L182721 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ Do you like fish?
+L182720 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I mean it tastes like every other fish I've ever had. Every fish tastes the same.
+L182719 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ It is fish.
+L182718 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It tastes like fish.
+L182717 +++$+++ u5036 +++$+++ m333 +++$+++ RACHEL +++$+++ How's the trout?
+L183070 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Fuck you. You may have to--
+L183069 +++$+++ u5035 +++$+++ m333 +++$+++ PRATT +++$+++ We'd rather not--
+L183068 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Otherwise you may have to what?
+L183067 +++$+++ u5035 +++$+++ m333 +++$+++ PRATT +++$+++ --otherwise we may have to--
+L183066 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ He didn't <u>give</u> me--
+L183064 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Fuck you. You may have to what?
+L183063 +++$+++ u5035 +++$+++ m333 +++$+++ PRATT +++$+++ We'd rather not--
+L183062 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Otherwise you may have to what?
+L183061 +++$+++ u5035 +++$+++ m333 +++$+++ PRATT +++$+++ --otherwise we may have to--
+L183060 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ He didn't <u>give</u> me--
+L183059 +++$+++ u5035 +++$+++ m333 +++$+++ PRATT +++$+++ We'd like to recover any materials Mr. Zavitz may have given you--
+L183058 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ If he passed me materials, I'd have them. I don't.
+L183057 +++$+++ u5035 +++$+++ m333 +++$+++ PRATT +++$+++ We have good reason to believe that he passed you--
+L183056 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You're wrong.
+L183055 +++$+++ u5035 +++$+++ m333 +++$+++ PRATT +++$+++ We believe he did.
+L183054 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ He didn't.
+L183053 +++$+++ u5035 +++$+++ m333 +++$+++ PRATT +++$+++ Mr. Zavitz was involved in an extortion scheme. We believe he passed you sensitive materials, possibly with your knowledge, and we need to--
+L183052 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I went through this with an investigator this morning. If I could--
+L183051 +++$+++ u5035 +++$+++ m333 +++$+++ PRATT +++$+++ I'm an investigator with Pro-Tech Security.
+L183050 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Who <u>are</u> you people?
+L183049 +++$+++ u5035 +++$+++ m333 +++$+++ PRATT +++$+++ We'd like to ask you some questions about Daniel Zavitz.
+L183048 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Yeah?
+L183321 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You're Brill.
+L183320 +++$+++ u5029 +++$+++ m333 +++$+++ MAN +++$+++ Seat 74.
+L183319 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't <u>know</u> you, I don't <u>know</u> your name, I don't know <u>what</u> the hell you did for me except hang up on my wife and slam me into a wall, but I'm getting pretty fuckin' <u>sick</u> of this! Get it?!
+L183318 +++$+++ u5029 +++$+++ m333 +++$+++ MAN +++$+++ Forget me, forget what I did for you. Don't <u>ever</u> mention my name or try to contact me again. Get it?
+L183317 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Hey!
+L183261 +++$+++ u5029 +++$+++ m333 +++$+++ MAN +++$+++ Gimme the shoe.
+L183260 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ My shoe?
+L183259 +++$+++ u5029 +++$+++ m333 +++$+++ MAN +++$+++ Your shoe.
+L183258 +++$+++ u5029 +++$+++ m333 +++$+++ MAN +++$+++ Shut the fuck up.
+L183257 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Jesus! What?! You want money?!
+L183137 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Fuck off.
+L183136 +++$+++ u5042 +++$+++ m333 +++$+++ SILVERBERG +++$+++ Bobby--
+L183135 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Put David on it. He seems anxious to clear my name.
+L183134 +++$+++ u5042 +++$+++ m333 +++$+++ SILVERBERG +++$+++ A leave of absence. Until we've sorted this all out.
+L183133 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You're firing me.
+L183132 +++$+++ u5042 +++$+++ m333 +++$+++ SILVERBERG +++$+++ Well until we find, you're gonna have to take a leave of absence.
+L183131 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Maybe Bellmoth. Maybe the unions. I don't know.
+L183130 +++$+++ u5042 +++$+++ m333 +++$+++ SILVERBERG +++$+++ Who would do that?
+L183129 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ This is <u>bullshit</u>. Someone's mixing up a bunch of half-truths to ruin me and to ruin my case.
+L183128 +++$+++ u5042 +++$+++ m333 +++$+++ SILVERBERG +++$+++ Gentlemen--
+L183119 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Brill.
+L183118 +++$+++ u5042 +++$+++ m333 +++$+++ SILVERBERG +++$+++ What's his name?
+L183110 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Gimme a week and four guys from litigation and I'll have the Post pleading with us not to sue for libel.
+L183109 +++$+++ u5042 +++$+++ m333 +++$+++ SILVERBERG +++$+++ Robert--
+L183106 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Oh, well, that's true.
+L183105 +++$+++ u5042 +++$+++ m333 +++$+++ SILVERBERG +++$+++ They claim you helped create a shell company for Sam Vollotti in Zurich and that through your continuing relationship, the Gambino family's been able to exert influence and provide false witnesses to discredit our case.
+L183101 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't under--
+L183100 +++$+++ u5042 +++$+++ m333 +++$+++ SILVERBERG +++$+++ I got a call this morning from a source I trust. The Post is running a lead this afternoon about your involvement in the Bellmoth investigation.
+L183099 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Listen--
+L182809 +++$+++ u5042 +++$+++ m333 +++$+++ SILVERBERG +++$+++ Merry Christmas, son.
+L182808 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Diane, maybe you didn't hear Mr. Silverberg. They've got models that'll try on the garments.  Thank you, sir.
+L182803 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I have to go lingerie shopping.
+L182802 +++$+++ u5042 +++$+++ m333 +++$+++ SILVERBERG +++$+++ And may I ask what could possibly be more important than Fawell Oil v. U.S. Environmental Agency?
+L182801 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ God knows I would, sir, but I have a previous engagement this evening.
+L182714 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ My name's Bobby. I'm your lawyer. Don't do anything 'till I talk to you.
+L182713 +++$+++ u5027 +++$+++ m333 +++$+++ L.T. +++$+++ Mr. Dean--
+L182712 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Because they've been paid off by Bellmoth.
+L182711 +++$+++ u5027 +++$+++ m333 +++$+++ L.T. +++$+++ Why would the Union--
+L182710 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ The Union's trying to railroad you into accepting terms worse than what you have now.
+L182709 +++$+++ u5027 +++$+++ m333 +++$+++ L.T. +++$+++ I don't under--
+L182708 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ That's because your Union bosses <u>are</u> those Guido mother-fuckers.
+L182707 +++$+++ u5027 +++$+++ m333 +++$+++ L.T. +++$+++ I'm sorry, Mr. Dean. But Larry's in St. Lukes now, so I'm a little--I'm not myself. The Union bosses say unless we take Bellmoth's offer, it'll only get worse.
+L182706 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ L.T., in this office I'd prefer you say Italian-Americans.
+L182705 +++$+++ u5027 +++$+++ m333 +++$+++ L.T. +++$+++ Last night, Larry Spinks, he works the Steel Press, he goes to a bar with his wife Rosalie to have a glass of chianti 'cause it's his birthday, and these two guys, these Guido mother-fuckers, they jump him when he goes to the bathroom.
+L182704 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Good point.
+L182703 +++$+++ u5027 +++$+++ m333 +++$+++ L.T. +++$+++ Well that's why I'm here, Mr. Dean. 'Cause you're a labor lawyer.
+L183145 +++$+++ u5025 +++$+++ m333 +++$+++ JENNY +++$+++ Because she's reading the newspaper, you asshole.
+L183144 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Why?
+L183143 +++$+++ u5025 +++$+++ m333 +++$+++ JENNY +++$+++ She can't talk to you right now.
+L183142 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What are you talking--
+L183141 +++$+++ u5025 +++$+++ m333 +++$+++ JENNY +++$+++ She doesn't want to talk to you.
+L183140 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Where's Stacy?
+L183139 +++$+++ u5025 +++$+++ m333 +++$+++ JENNY +++$+++ Robert--
+L183848 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No "900" numbers.
+L183847 +++$+++ u5020 +++$+++ m333 +++$+++ ERIC +++$+++ Alright!
+L183846 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It's okay to use the phone.
+L183843 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I'm not goin' anywhere, Eric. I live here.
+L183842 +++$+++ u5020 +++$+++ m333 +++$+++ ERIC +++$+++ How long can you stay?
+L183488 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Did you take <u>anything</u>--anything at all--out of those Christmas bags I brought home last week.
+L183487 +++$+++ u5020 +++$+++ m333 +++$+++ ERIC +++$+++ Yeah.
+L183486 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Men don't win fights with women, son, I'll tell you about that sometime, too. In the meantime, I've got a question for you, and it's incredibly important that you tell me the truth. Under no circumstances will I be angry with you. This is a total Get-Out-Of- Jail-Free card. Ready?
+L183485 +++$+++ u5020 +++$+++ m333 +++$+++ ERIC +++$+++ Who won the fight?
+L183484 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No. We're never getting a divorce. We were having a fight. It happens sometimes.
+L183483 +++$+++ u5020 +++$+++ m333 +++$+++ ERIC +++$+++ Are you and mom getting a divorce?
+L183482 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Having an adventure. I can't tell you about it right now, but I'll tell you about it soon.
+L183481 +++$+++ u5020 +++$+++ m333 +++$+++ ERIC +++$+++ Where've you been?
+L183480 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Do I know you?
+L183479 +++$+++ u5020 +++$+++ m333 +++$+++ ERIC +++$+++ Dad!
+L182887 +++$+++ u5020 +++$+++ m333 +++$+++ ERIC +++$+++ She's in the kitchen.
+L182886 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Where's mom?
+L182885 +++$+++ u5020 +++$+++ m333 +++$+++ ERIC +++$+++ He's kidding.
+L182882 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You staying for dinner?
+L182881 +++$+++ u5020 +++$+++ m333 +++$+++ ERIC +++$+++ Dad!
+L182880 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ In your dreams.
+L182879 +++$+++ u5020 +++$+++ m333 +++$+++ ERIC +++$+++ Really?
+L182878 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Sure, go ahead.
+L182877 +++$+++ u5020 +++$+++ m333 +++$+++ ERIC +++$+++ Can I open 'em up?
+L182876 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Some of 'em.
+L182875 +++$+++ u5020 +++$+++ m333 +++$+++ ERIC +++$+++ Are those my Christmas presents?
+L182874 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You're learning a cruel lesson.
+L182869 +++$+++ u5020 +++$+++ m333 +++$+++ ERIC +++$+++ Hi, dad.
+L182868 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Excuse me, have any of you seen an eight year old boy, good looking, about yea-big.
+L183443 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Go fuck yourself.
+L183442 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Yeah?
+L183441 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Jerry?
+L183440 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Turn yourself in.
+L183439 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Yeah?
+L183438 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Bobby? Piece of advice?
+L183437 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No. No, it's okay.
+L183436 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ I'm sorry, man.
+L183435 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ So do I!
+L183434 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ I have a family.
+L183433 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Go to 'em, Jerry.
+L183432 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Bobby, you're in way over your head.
+L183431 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ To the NSA. Make a deal. Tell 'em to stop. Tell 'em I don't have what they're after. Make a deal.
+L183430 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ To the cops?
+L183429 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I won't <u>make</u> it to the police. They won't let me get there. You go.
+L183428 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ You gotta let me bring you in to the police.
+L183427 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No, I--
+L183426 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ No, listen to me. You gotta let me bring you in.
+L183425 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You gotta--
+L183424 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Listen to me.
+L183423 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Jerry--
+L183422 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ You're tired.
+L183421 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't know!
+L183420 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Why would the NSA--
+L183419 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't know. I mean--
+L183418 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Why would they--
+L183417 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ They're framing me.
+L183416 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Bobby--
+L183415 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ My stuff's all over her apartment.
+L183414 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Jesus.
+L183413 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Yes.
+L183412 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Rachel's dead?
+L183411 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ They killed Rachel.
+L183410 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Calm down.
+L183409 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ The NSA's doing this 'cause they think I have something. And they killed--
+L183408 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Bobby--
+L183407 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It's the NSA. They're the ones doing this.
+L183406 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Bobby--
+L183405 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Ssh!
+L183404 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Christ!
+L183403 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Jerry--
+L183085 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Just be cool.
+L183084 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I'm a labor lawyer. There are <u>always</u> mob ties.
+L183083 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Your Bellmoth case. The FBI thinks there might be mob ties.
+L183082 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Into what?
+L183081 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ He's heard that it's escalated.
+L183080 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ An investigation? It was a bus accident.
+L183079 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ The Congressman's very happy to have your support, but he's heard that there's an investigation.
+L183078 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I wrote a check for a thousand dollars. You guys didn't have a table that was in the kitchen?
+L183077 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ That's what I want to talk to you about?
+L183076 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Table 122?
+L183075 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Can I talk to you a second?
+L182978 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Serve the ball.
+L182977 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ They only took electrical appliances.
+L182976 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ What?
+L182975 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Sounds like they didn't want anything that wasn't electric?
+L182974 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No, but they took my blender.
+L182973 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ They didn't take the silverware?
+L182972 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I love my blender.
+L182971 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ The blender?
+L182970 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ They didn't take the jewelry. They took the computers. They took the big-screen TV, they took my blender.
+L182969 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ What about jewelry?
+L182968 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Why don't you give 'em a call.
+L182967 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Usually they take clothes.
+L182966 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No.
+L182965 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ You've got a bunch of Armani suits, they didn't take 'em?
+L182964 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ No.
+L182963 +++$+++ u5026 +++$+++ m333 +++$+++ JERRY +++$+++ Did they take your clothes?
+L182962 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ They took the espresso machine. The <i>espresso</i> machine, Jerry! Which makes sense, you know, because the crooks probably wanted to make themselves a latte before fencing the stereo.
+L182859 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Yeah, what's going on?
+L182858 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ Are you still in Crystal City?
+L182857 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Are you okay?
+L182856 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ How can I reach you?
+L182855 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Tell me about it.
+L182854 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ I need help.
+L182853 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I'm just doing some Christmas shopping. It's for my wife, no kidding. Though, this isn't the <i>main</i> present, it's just, you know, a little--
+L182852 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ Yeah.
+L182851 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It's been a few years.
+L182850 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ Bobby--
+L182849 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ It's me, Robert Dean.  From Seth, Silverberg. I worked on--
+L183046 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Jesus! I just told you. I don't know.
+L183045 +++$+++ u5028 +++$+++ m333 +++$+++ LEVIN +++$+++ You think there was a connection to--
+L183044 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I don't know.
+L183043 +++$+++ u5028 +++$+++ m333 +++$+++ LEVIN +++$+++ Was Zavitz in trouble?
+L183042 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ I honestly don't know.
+L183041 +++$+++ u5028 +++$+++ m333 +++$+++ LEVIN +++$+++ What does that have to do with you?
+L183040 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ He got hit by a bus.
+L183039 +++$+++ u5028 +++$+++ m333 +++$+++ LEVIN +++$+++ Yeah.
+L183038 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You remember Daniel Zavitz?
+L183037 +++$+++ u5028 +++$+++ m333 +++$+++ LEVIN +++$+++ No. He said they were doing a credit check. Are you refinancing a loan?
+L183036 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ The police?
+L183035 +++$+++ u5028 +++$+++ m333 +++$+++ LEVIN +++$+++ Dick Burns got a phone call this morning from someone wanting information on you.
+L183202 +++$+++ u5022 +++$+++ m333 +++$+++ FRANKIE +++$+++ Because we, and our associates, have paid out hundreds of thousands of dollars to shyster lawyers like you, <u>because</u> of shyster lawyers like you, and we'd just as soon sit back and sip a beer while you get ass-banged by as many people as possible.
+L183201 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Why not?
+L183200 +++$+++ u5022 +++$+++ m333 +++$+++ FRANKIE +++$+++ Yes. But we can't.
+L183199 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ You would?
+L183198 +++$+++ u5022 +++$+++ m333 +++$+++ FRANKIE +++$+++ Well we'd sure like to help you.
+L183195 +++$+++ u5016 +++$+++ m333 +++$+++ DEAN +++$+++ Someone's trying to destroy my life, and I'd like to find out who.
+L183194 +++$+++ u5022 +++$+++ m333 +++$+++ FRANKIE +++$+++ What is it you want?
+L182945 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Get it.
+L182944 +++$+++ u5021 +++$+++ m333 +++$+++ FIEDLER +++$+++ Zavitz had digital compression equipment. He could've downloaded into something. A disk, a chip, anything small enough to put in his pocket and run with. Whatever he put it in, he dropped it in that bag.
+L182943 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Then what's your goddam opinion?
+L182942 +++$+++ u5021 +++$+++ m333 +++$+++ FIEDLER +++$+++ Yes sir.
+L182941 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ I'm not asking you to say for certain. This is what you're trained to do, right?
+L182940 +++$+++ u5021 +++$+++ m333 +++$+++ FIEDLER +++$+++ It's hard to say for certain, these things are--
+L182939 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ What's your opinion?
+L182699 +++$+++ u5023 +++$+++ m333 +++$+++ HAMERSLEY +++$+++ We're not gonna hand you and your band of lunatics the keys to the kingdom. I'm not gonna sit in Congress and write a law that allows the NSA to point a camera and a microphone at anything they damn well feel like. And the next time you have something to say to me, we do it above-board, in my office, like everyone else. Now get outa my car, I've got a committee meeting on the hill.
+L182698 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ There are planes falling out of the sky, buildings blowing up. <i>American</i> buildings. <i>Americans</i> getting bombs in the mail. What are we gonna do!?
+L182697 +++$+++ u5023 +++$+++ m333 +++$+++ HAMERSLEY +++$+++ You're gonna finger me as soft on terrorism? <i>Terrorism,</i> you unconscionable asshole?
+L182696 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Is that anyway to talk to an old school chum?
+L182695 +++$+++ u5023 +++$+++ m333 +++$+++ HAMERSLEY +++$+++ I said fuck you.
+L182694 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ What?
+L182693 +++$+++ u5023 +++$+++ m333 +++$+++ HAMERSLEY +++$+++ Fuck you.
+L182692 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ It's a bi-partisan issue. Everyone needs to swallow hard. No one, including you, wants to be fingered as the one obstructing efforts to crack down on terrorism, and--
+L182691 +++$+++ u5023 +++$+++ m333 +++$+++ HAMERSLEY +++$+++ You didn't ask me to meet you 30 miles from my office for a Bible study class.
+L182690 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ It means who's side are you on?
+L182689 +++$+++ u5023 +++$+++ m333 +++$+++ HAMERSLEY +++$+++ What the hell does it mean?
+L182688 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ "I know thy works and thy labour and how thou canst not bear them that are evil. And thou hast tried them who say they are apostles and hast found them to be liars". Revelations II.
+L183778 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ He walked right up to me in church. At the holiest time of the wear. He approached me in a sanctified place.  Kill him now.
+L183777 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ Three minutes. We're going in light. Myself and two others. Everyone else is held back in reserve.
+L183776 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ What's your ETA?
+L183775 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ Not yet. He's near "M" and 34th. I've got an ELSUR unit on the scene now. A residential building. Twelve units.
+L183774 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Do you have visual?
+L183773 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ Found him. Kent Island nailed the call five minutes ago. He's stationary.
+L183750 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ And if it wasn't?
+L183749 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ We think it was on Brill. If it was, it's destroyed now.
+L183748 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ What about the tape?
+L183747 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ Jones had to flee the scene before we could locate the second body.
+L183746 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Explain that.
+L183745 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ We don't know.
+L183744 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ What about--
+L183610 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Resources, that's a good point. He's got resources. All we've got is a <i>six-hundred billion dollar</i> <i>organization!</i> Now god<u>dammit</u>, Hicks, you find 'em. You find 'em and you end it now!
+L183609 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ If he's with Lyle it means he's got resources.
+L183608 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Oh, let's assume that they have.
+L183607 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ If they've looked at the video.
+L183606 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ So they know everything.
+L183605 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ And they have the video. That's confirmed.
+L183604 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Dean's with Lyle.
+L183603 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ No sir.
+L183602 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ You're kidding me.
+L183601 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ Yes sir.
+L183600 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Lyle?!
+L183599 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ Well...his real name's Edward Lyle.
+L183598 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ We believe?
+L183597 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ We found two sets of latent prints in the rubble of Brill's studio. One was Dean's. The other, we believe, belongs to Brill.
+L183389 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ I don't care if he's Solomon with Saint Joseph sitting in his <u>lap</u>. I want the tape and I want him. Now is--
+L183388 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ I just meant--
+L183387 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ No, no, I'm sorry. I didn't realize you were hoping to be transferred to a weathership outside Greenland.
+L183386 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ Sir--
+L183385 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ He's clever? He had help?  Oh.
+L183384 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ He's clever. He had help.
+L183383 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ I sit on top of the greatest intelligence gathering organization in human history. Why can't I bring in a man whose name <i>is in the</i> <i><u>fucking</i></u> <i><u>phonebook</i></u>?!
+L183316 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Help from whom?  Christ.
+L183315 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ He had help.
+L183314 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ 30 minutes ago you said we had him. What in hell's goin' on out there?
+L183074 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Destroy his credibility before he goes public. Neutralize him. I don't want anyone listening to a word he has to say. Tell me about Rachel Banks.
+L183073 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ It was in his bag. Now it's not.
+L183072 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Hiding something?
+L183071 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ He's arrogant and threatening. Voice stress points suggest he's worrying.
+L182947 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Get it.
+L182946 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ We'd have to--
+L182926 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Contact COINTEL. Profile. Assess the threat. Then cross-check against Zavitz. Red-flag the intersects and anything we can exploit. Also NRO. Pull up the keyhole tapes. I need to own him. I need to own him <u>now</u>.
+L182925 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ Several indiscriminates and one primary who we've ID'd as Robert Dean. A Crystal City attorney.  Mr. Reynolds?  Sir?
+L182924 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Who?
+L182923 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ He never made it to the newspaper, but there was private sector contact.
+L182922 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Am I to understand--
+L182921 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ There was a transfer.
+L182920 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ The originals?
+L182919 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ We found the originals.
+L182918 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ What about the tapes?
+L182917 +++$+++ u5024 +++$+++ m333 +++$+++ HICKS +++$+++ He's dead. An accident. Hit by a bus.
+L182916 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ What happened?
+L182815 +++$+++ u5030 +++$+++ m333 +++$+++ MAN'S VOICE +++$+++ The door was open, sir. I just need a signature.
+L182814 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ How'd you get in the building?
+L182813 +++$+++ u5030 +++$+++ m333 +++$+++ MAN'S VOICE +++$+++ For Daniel Zavitz. I just need a signature.
+L182812 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ Federal Express?
+L182811 +++$+++ u5030 +++$+++ m333 +++$+++ MAN'S VOICE +++$+++ Federal Express for 'Zavitz'.
+L182810 +++$+++ u5045 +++$+++ m333 +++$+++ ZAVITZ +++$+++ Yes?
+L183742 +++$+++ u5041 +++$+++ m333 +++$+++ SHAFFER +++$+++ I don't know what's going on, but if you people have tripped over your own asshole again, you're not gonna get any help from us. It's ending at your doorstep.
+L183741 +++$+++ u5031 +++$+++ m333 +++$+++ MARSHAL +++$+++ It was pulsing on your SAT frequencies.
+L183736 +++$+++ u5041 +++$+++ m333 +++$+++ SHAFFER +++$+++ He's carrying the damn <u>flag</u>.
+L183735 +++$+++ u5031 +++$+++ m333 +++$+++ MARSHAL +++$+++ You have any idea what kind of position this--
+L183734 +++$+++ u5041 +++$+++ m333 +++$+++ SHAFFER +++$+++ This guy's carrying the <u>flag</u> for the damn terrorism bill. You think this is the best time to piss him off?
+L183733 +++$+++ u5031 +++$+++ m333 +++$+++ MARSHAL +++$+++ The fuck do you have goin' on with Sam Albert?
+L183732 +++$+++ u5041 +++$+++ m333 +++$+++ SHAFFER +++$+++ We're not stupid, Reynolds.
+L183399 +++$+++ u5044 +++$+++ m333 +++$+++ WAITER +++$+++ Yes sir.
+L183398 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Now is that clear?
+L183397 +++$+++ u5044 +++$+++ m333 +++$+++ WAITER +++$+++ Yes sir.
+L183396 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Then let's assume I don't.
+L183395 +++$+++ u5044 +++$+++ m333 +++$+++ WAITER +++$+++ No.
+L183394 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Do I look like I want a tiny pizza?
+L183393 +++$+++ u5044 +++$+++ m333 +++$+++ WAITER +++$+++ I also have tiny pizzas and mushrooms stuffed with--
+L183392 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ No thank you.
+L183391 +++$+++ u5044 +++$+++ m333 +++$+++ WAITER +++$+++ Puffed cheese?
+L183390 +++$+++ u5037 +++$+++ m333 +++$+++ REYNOLDS +++$+++ Yes?

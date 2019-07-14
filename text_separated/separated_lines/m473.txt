@@ -1,0 +1,415 @@
+L443796 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Seal the cave?
+L443714 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Well? For a time the ancients kept humans as household pets.	Until the Lawgiver proved that man could not be tamed. Keep digging Cornelius. You'll find evidence of the master of this house: an ape.
+L443713 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ No sir, I haven't forgotten.
+L443712 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Your conclusion is premature. Have you forgotten your Scripture? The Thirteenth Scroll?  'And Proteus brought the upright beast into the garden, and chained him to a tree, and the children made sport of him.'
+L443711 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ A doll alone proves nothing. True. But the doll was found beside the jawbone of a man -- and no trace of simian fossils has turned up in this deposit.
+L443702 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ To begin with, your methods of dating the past are crude, to say the least. There are geologists on my staff who would laugh at your speculations.
+L443701 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ I apologize.
+L443700 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Don't speak to me in absolutes. The evidence is contestable.
+L443699 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Indeed, the very fact that these tools are unknown to us could suggest a culture in certain ways almost equal to our own. Some of the evidence is uncontestable ...
+L443678 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ I've seen some of your fossils and artifacts. They're worthless.
+L443677 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ We've never meant to be treasonable, sir.  But up there, in the face of that Cliff, is a vast cave -- and in that cave a fabulous treasure of fossils and artifacts.
+L443676 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ I ask you to reconsider the rash course you've taken. If you're convicted of heresy, the most you'll get is two years. But if you persist in pointing guns in my direction, you'll hang for high treason.
+L443674 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ It wasn't difficult. Only an apostate or a lunatic would flee to the Forbidden Zone.  I see you brought along the female of your species.  I didn't realize a man could be monogamous.
+L443673 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ How did you know we'd come here?
+L443520 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Yes, sir, so it was -- thanks to you. But not before I discovered evidence of a simian culture that existed long before the Sacred Scrolls were written ...
+L443519 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ He exceeded his orders. His travel permit was promptly revoked.
+L443377 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Certainly, sir. It's a pleasure to see you again.
+L443376 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ You know Dr. Maximus, our Commissioner for Animal Affairs?
+L443375 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Oh., no., sir. I was just assembling my notes.
+L443374 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Did you forget our appointment, Cornelius?
+L443373 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Dr. Zaius --
+L443319 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Certainly, sir. I'll get my notes and come right over.
+L443318 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Cornelius, if you have a moment today, I'd like to discuss this expedition of yours in more detail.
+L443774 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Good luck then.
+L443773 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ They can't convict us of that. You proved our innocence. Besides...  ... his culture is our culture.
+L443751 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ And now you know the truth.  Cornelius has beaten you, Doctor. He proved it. Man preceded you here. You owe him your science, your language, whatever knowledge you have.
+L443750 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ That was different. We thought you were .... inferior.
+L443718 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Reconstructing a life. Care to have a look?
+L443717 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ What are you doing there?
+L443716 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Yes. I have to agree. From all you've found so far, his position's as good as yours.
+L443685 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ No. You saved me from this fanatic. Maybe I can pay you back.
+L443684 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Taylor, I'd rather you -
+L443670 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Shut up.
+L443669 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Taylor, you're not in command here. Put down that gun.
+L443668 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ If there's any shooting, Dr. Zaius, you'll be the first to die. Depend on it.
+L443662 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Right now, if you like.
+L443661 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ When are you going to show me what's in the cave?
+L443651 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ No one really knows. It's an ancient taboo. Set forth in the Sacred Scrolls. The Lawgiver pronounced the area deadly.
+L443650 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ You've never told me why this region's called the Forbidden Zone.
+L443647 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ It empties into a sea some miles from here. That's where the cave is.
+L443646 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Where does the river lead?
+L443625 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ I know ... Nevertheless, I thank you for saving us. You'll be in trouble for going there.
+L443624 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Sorry, Taylor. The terrain around that lake is poisonous. There is no fresh water, no vegetation. Nothing.
+L443623 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Nothing much. The remnants of a life raft. Maybe a small flag. The emblem of my countrymen.
+L443622 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ It's a long detour to Dead Lake. What would we find?
+L443621 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ You still don't believe me, do you?
+L443620 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ To the diggings I worked at a year ago. It's a three day ride across the eastern desert, near where you claim you landed from that planet of yours.
+L443617 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Zaius seems to think there might be another jungle beyond the Forbidden Zone. That's what  we'll try for. What about you?
+L443616 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ As you wish.
+L443613 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Just the same, I want one.
+L443612 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ The best. But we won't need them.
+L443611 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Do you have any weapons?
+L443610 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Well, Taylor -- we're all fugitives now.
+L443631 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Right.  Let's put the water and provisions in the wagon.
+L443630 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ We'd better get started. If the mounted police pick up our trail, they'll come this far at least.
+L443607 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ There was one bad moment -- some hunters stopped us.
+L443606 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ How did it go?
+L443390 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Zira....
+L443389 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ A toy. It floats on the air.  Try it.
+L443372 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Zira, listen to me. We've got a fine future ahead of us. Marriage. Stimulating careers. I'm up for a raise --
+L443371 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Oh, Cornelius, show some strength!
+L443370 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ No, thank you'. I won't get into that battle.
+L443369 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Well, maybe they're not.
+L443368 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Because if he is a missing link, it means the Sacred Scrolls aren't worth their parchment.
+L443367 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ 'I am not a missing link.'
+L443365 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ How can scientific truth be heresy? What if Taylor is exactly the proof you needed? A mutation. A missing link between the unevolved primate and the ape -
+L443364 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ That was before Dr. Zaius and half the Academy said the idea was heresy.
+L443363 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ You didn't think so then.
+L443362 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ The evidence was very meager --
+L443361 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ -- that the ape evolved from a lower order of primate, possibly man. In his trip to the Forbidden Zone he discovered traces of a culture older than recorded time -
+L443360 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ It's probably wrong --
+L443359 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Cornelius has developed a brilliant hypothesis -
+L443358 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ No, they won't -
+L443357 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Don't be foolish. If it's true, they'll have to accept it.
+L443356 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Zira, are you trying to get my head cut off?
+L443355 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ But what about your theory? The existence of someone like Taylor might prove it.
+L443354 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ I don't. And I'm not going to try.
+L443353 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ 'Then how do you account for me?,
+L443352 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ No creature can survive in that part of the Forbidden Zone. I've been there. I've seen it.
+L443351 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Cornelius, why do you insist on provoking him?
+L443345 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ And even if it weren't, why fly? Where would it get you?
+L443344 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Flight is a scientific impossibility.
+L443342 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ And they fell out of the sky with you?
+L443341 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ 'Dodge was killed in the hunt. What happened to Landon?'  I don't know.
+L443340 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Oh, Cornelius, be quiet.
+L443339 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Now, just a minute --
+L443335 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Where did you learn to do this?
+L443334 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Dear, you're a scientist. Don't you believe your own eyes?
+L443333 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ It's a stunt. Humans don't write.
+L443308 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Zira, come on. You know they can't --  Oh oh. Here comes Number One.
+L443307 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ The blood transfusion.
+L443306 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Remembers what?
+L443305 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Look -- she remembers.
+L443304 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Watch.  Hello, Bright Eyes. How's our throat today?
+L443303 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ What's so special about him?
+L443302 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ That's Bright Eyes. The one I was telling you about.
+L443301 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Neither do I.
+L443300 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ No.
+L443299 +++$+++ u7063 +++$+++ m473 +++$+++ CORNELIUS +++$+++ Do you have to work tonight?
+L443218 +++$+++ u7064 +++$+++ m473 +++$+++ DODGE +++$+++ Blessed are the vegetarians.
+L443217 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Well, at least they haven't tried to bite us.
+L443191 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Let's find them all.
+L443190 +++$+++ u7064 +++$+++ m473 +++$+++ DODGE +++$+++ Where there's one there's another. And another. And another.
+L443172 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ You're more than three hundred light years from your precious planet. Your loved ones have been dead and forgotten for twenty centuries. Even if you could get back, they'd think you were something that fell out of a tree.
+L443171 +++$+++ u7064 +++$+++ m473 +++$+++ DODGE +++$+++ Taylor -- quit riding him.
+L443162 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ None at all.
+L443161 +++$+++ u7064 +++$+++ m473 +++$+++ DODGE +++$+++ Any particular reason?
+L443160 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ That way.
+L443159 +++$+++ u7064 +++$+++ m473 +++$+++ DODGE +++$+++ Which direction?
+L443158 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Okay. If there's no life here, we've got just seventy-two hours to find it. That's when the groceries run out.
+L443157 +++$+++ u7064 +++$+++ m473 +++$+++ DODGE +++$+++ No.
+L443156 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Any sign of dangerous ionization?
+L443155 +++$+++ u7064 +++$+++ m473 +++$+++ DODGE +++$+++ Nothing will grow here .... there's just a trace of hydrocarbons, and most of the nitrogen is locked into nitrates.
+L443142 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Good question.  Landon -- check your communications kit.
+L443141 +++$+++ u7064 +++$+++ m473 +++$+++ DODGE +++$+++ But how long is a day?
+L443140 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ One pistol... twenty-four rounds of ammo. two medical kits.. one camera... one TX9.  We've enough food and water for three days.
+L443139 +++$+++ u7064 +++$+++ m473 +++$+++ DODGE +++$+++ Yo!
+L443138 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Geiger counter?
+L443137 +++$+++ u7064 +++$+++ m473 +++$+++ DODGE +++$+++ Yo!
+L443136 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Got your sensors?
+L443245 +++$+++ u7065 +++$+++ m473 +++$+++ GALEN +++$+++ They're still dirty. And their bite is septic. Look at that ...
+L443244 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ The foundations of scientific brain surgery are being laid right here - in studies of cerebral function in these animals.
+L443243 +++$+++ u7065 +++$+++ m473 +++$+++ GALEN +++$+++ Hmph.
+L443242 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ That's because Dr. Zaius realizes our work has value.
+L443241 +++$+++ u7065 +++$+++ m473 +++$+++ GALEN +++$+++ You do pretty well when it comes to getting space and equipment.
+L443240 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ What do you mean, made it? I'm an animal psychologist, that's all. We don't have any authority.
+L443239 +++$+++ u7065 +++$+++ m473 +++$+++ GALEN +++$+++ But the quota system's been abolished! You made it. Why can't I?
+L443234 +++$+++ u7065 +++$+++ m473 +++$+++ GALEN +++$+++ These animals are dirty, doctor. They stink, and they carry communicable diseases. Why aren't they cleaned up before they're brought here?
+L443233 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ This place is dirty, doctor.
+L443230 +++$+++ u7065 +++$+++ m473 +++$+++ GALEN +++$+++ I don't know. This beast lost a lot of blood.
+L443229 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Will he live?
+L443228 +++$+++ u7065 +++$+++ m473 +++$+++ GALEN +++$+++ Him.
+L443227 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Which one was wearing the strange clothes?
+L443539 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Be it so ordered. The Tribunal will examine all the evidence presented here and in due time render a verdict on the proposed indictment and on the disposition of the deviate in question.  This hearing is adjourned.
+L443538 +++$+++ u7066 +++$+++ m473 +++$+++ HONORIUS +++$+++ Yes, sir. The State charges Doctors Zira and Cornelius with contempt of this Tribunal, malicious mischief and scientific heresy.
+L443528 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Sustained.
+L443527 +++$+++ u7066 +++$+++ m473 +++$+++ HONORIUS +++$+++ Objection!
+L443522 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Sustained.  Your archeological theories have no bearing on the disposition of this creature.
+L443521 +++$+++ u7066 +++$+++ m473 +++$+++ HONORIUS +++$+++ Objection! These remarks are profane and irrelevant.
+L443499 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Very well. I suggest we go and look at them.
+L443498 +++$+++ u7066 +++$+++ m473 +++$+++ HONORIUS +++$+++ That's true, Dr. Zaius. My witnesses -- correction -- my exhibits are on display in the amphitheater.
+L443473 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Proceed. But don't turn this hearing into a farce.
+L443472 +++$+++ u7066 +++$+++ m473 +++$+++ HONORIUS +++$+++ He can reason? With the Tribunal's permission, let me expose this hoax by direct examination.
+L443468 +++$+++ u7066 +++$+++ m473 +++$+++ HONORIUS +++$+++ Directly, Mr. President. This wretched man, the accused, is only a pawn in the conspiracy. We know that he was wounded in the throat at the time of his capture. The State charges that Dr. Zira and a corrupt surgeon named Galen experimented on this wounded animal, tampering with his brain and throat tissues to create a speaking monster ...
+L443467 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Come to the point, Dr. Honorius.
+L443466 +++$+++ u7066 +++$+++ m473 +++$+++ HONORIUS +++$+++ There is a conspiracy afoot to undermine the very cornerstone of our Faith
+L443464 +++$+++ u7066 +++$+++ m473 +++$+++ HONORIUS +++$+++ Learned Judges: My case is simple. It is based on our first Article of Faith: that the Almighty created the ape in his own image; that He gave him a soul and a mind; that He set him apart from the beasts of the jungle, and made him the lord of the planet.
+L443463 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ State your case, Mr. Prosecutor.
+L443448 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Well, Dr. Zira? This is a man, is he not?
+L443447 +++$+++ u7066 +++$+++ m473 +++$+++ HONORIUS +++$+++ Objection. The accused is indeed a man. Therefore, he has no rights under ape law.
+L443479 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Show this to the President.
+L443478 +++$+++ u7066 +++$+++ m473 +++$+++ HONORIUS +++$+++ Ridiculous. That answer is a contradiction in terms. Tell us, Bright Eyes, why do men have no souls? What is the proof that a divine spark exists in the simian brain?
+L443477 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Some apes, it seems, are more equal than others.
+L443476 +++$+++ u7066 +++$+++ m473 +++$+++ HONORIUS +++$+++ Of course he doesn't know our culture - because he cannot think.  Tell us why all apes are created equal.
+L443475 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ I admit, I know nothing of your culture.
+L443474 +++$+++ u7066 +++$+++ m473 +++$+++ HONORIUS +++$+++ Tell the court, Bright Eyes -- what is the second Article of Faith?
+L443331 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Do as I say.
+L443330 +++$+++ u7067 +++$+++ m473 +++$+++ JULIUS +++$+++ He's vicious, Doctor. Besides, it's against the rules.
+L443329 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Get me a collar and leash. I'm taking him to the infirmary.
+L443324 +++$+++ u7067 +++$+++ m473 +++$+++ JULIUS +++$+++ I'll see.
+L443323 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Those fools and their torches! Do you have any ointment?
+L443322 +++$+++ u7067 +++$+++ m473 +++$+++ JULIUS +++$+++ What happened?
+L443266 +++$+++ u7067 +++$+++ m473 +++$+++ JULIUS +++$+++ Well, you know what they say. Human see, human do.
+L443265 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ He's trying to form words.
+L443264 +++$+++ u7067 +++$+++ m473 +++$+++ JULIUS +++$+++ Huh?
+L443263 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Did you see that? It's remarkable!
+L443261 +++$+++ u7067 +++$+++ m473 +++$+++ JULIUS +++$+++ See? He keeps pretending he can talk.
+L443260 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Awww, it still hurts, doesn't it?
+L443256 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Don't be silly. He's perfectly tame.
+L443255 +++$+++ u7067 +++$+++ m473 +++$+++ JULIUS +++$+++ You could get hurt doing that, Doctor.
+L443252 +++$+++ u7067 +++$+++ m473 +++$+++ JULIUS +++$+++ No change. The minute you open the door, he goes into his act.
+L443251 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Good morning, Julius. How's our patient today?
+L443250 +++$+++ u7067 +++$+++ m473 +++$+++ JULIUS +++$+++ Good morning, Dr. Zira.
+L443220 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ You're our optimist Look at the bright side. If that's the best there is around here, in six months we'll be running this planet.
+L443219 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ We got off at the wrong stop.
+L443209 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ Try telling them our names.
+L443208 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ No cigar.
+L443201 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Okay.
+L443200 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ Can we take a dip?
+L443197 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Let's take a look.
+L443196 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ Scarecrows?
+L443186 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ I'd like to know why not. You thought life on Earth was meaningless. You despised people. So what did you do? You ran away.
+L443185 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ But I'm not prepared to die.
+L443184 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ Dodge ... he's not like me at all. But he makes sense. Held walk naked into a live volcano if he thought he could learn something no other man knew. I understand why  he's here. But you...You're no seeker. You're negative.
+L443183 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Don't bother
+L443182 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ Okay. You read me well enough. Why can't I read you?
+L443181 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Oh, and one last item. Immortality. You wanted to go on forever.  Well, you damn near made it. Except for Dodge and me, you've lived longer than anybody. And with Stewart dead, it looks like we're the last of the strain. You got what you wanted, kid. How does it taste?
+L443180 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ Taylor.	I'm telling you --
+L443179 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ And the glory, don't forget that. There's a life-sized bronze statue of you somewhere. It's probably turned green by now, and nobody can read the name plate. But never let it be said we forget our heroes.
+L443178 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ Climb off me, will you!
+L443177 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Straighten me out on something. Why did you come along at all? You volunteered. Why?  I'll tell you. They nominated you for the Big One and you couldn't turn it down. Not without losing your All-American standing
+L443175 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ I'm prepared to die.
+L443174 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ There's only one reality left. We're here and it's now. You get ahold of that and hang on tight, or you might as well be dead.
+L443173 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ All right --
+L443170 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ What would you learn? I've told you where you are and when you are.
+L443169 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ If only we could get a fix.
+L443154 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ It's a fact, Landon. Buy it. You'll sleep better.
+L443153 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ Prove it. If we can't get back, it's still just a theory.
+L443152 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Because time has wiped out everyone and everything you cared for -- they're dust.
+L443151 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ long pause) You know it.
+L443150 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Apart from that, you look pretty chipper for a man who's two thousand and thirty one years old.  I read the clocks. They bear out Hasslein's hypothesis. We've been away from Earth for two thousand years, give or take a decade.  Still can't accept it, huh?
+L443149 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ By our time.  You've turned gray.
+L443148 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ Then we've been away from Earth for eighteen months.
+L443147 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ It's a little late for a wake. She's been dead nearly a year.
+L443146 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ You don't seem very cut up about it.
+L443145 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Air leak. Died in her sleep.
+L443144 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ Sorry...  I was thinking of Stewart. What d'you suppose happened?
+L443143 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Landon! Join the expedition.
+L443130 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ We're some three hundred and twenty light years from Earth. On an unnamed planet in orbit around a star in the constellation of Orion.  That could be Bellatrix.
+L443129 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ Well? Where are we? Have any notion, skipper?
+L443128 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ We're here to stay.
+L443127 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ Gone.
+L443123 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Forget it. Abandon ship.
+L443122 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ It's no use ... there she goes.
+L443118 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ To Earth! That we've landed!
+L443117 +++$+++ u7068 +++$+++ m473 +++$+++ LANDON +++$+++ What signal?
+L443116 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Landon! Send a last signal.
+L443783 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ The flags of discontent. It's the only way anything ever gets changed.  Don't try to follow us.  I'm pretty handy with things like this.
+L443782 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ What?
+L443781 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ That's the boy. Keep 'em flying.
+L443780 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ I think you're making a mistake.
+L443779 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Lucius.
+L443762 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ I'll start by following the shoreline.  And my nose.
+L443761 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ They think you're behaving foolishly. I must say I agree. Where will you go?
+L443738 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ Yes, I can do that.
+L443737 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ I want you to go around the bend and tell those gorillas their leader is my prisoner.
+L443736 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ What is it?
+L443735 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ All right, all right. Will You do me a favor? No orders.
+L443734 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ Disillusioned...  But vindicated! I've been right all along. You can't trust the older generation. It's a matter of values --
+L443733 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Not everything. They left a hostage.  How do you feel, Lucius?
+L443694 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Relax. You'll see it all later.
+L443693 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ Always giving orders. Just like every other adult.
+L443692 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Sorry, Lucius. You'll have to stay here and guard the horses.
+L443659 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ In my world -- before I left it - only youngsters of your age wore un- scraped hair.
+L443658 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ Why did you do that? Scrape off your hair?
+L443653 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ I'm for that.
+L443652 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ Shouldn't we be moving on?
+L443585 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Fine. Just let her out.
+L443584 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ If you insist. But I'm not taking any orders --
+L443583 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ I want her.
+L443582 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ Zira doesn't want your female.
+L443581 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ She comes along too.
+L443579 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Come on. Get me out of here.
+L443578 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ So you can talk.  I'm Dr. Zira's nephew. This abduction was her idea. You're not really going to the zoo. That's just our cover story in case we're stopped.  Although I do feel that if it ever came down to a question of whether something like you should be public or private property --
+L443577 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Who are you?
+L443640 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ To scare off humans?
+L443639 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ The Hunt Club.
+L443638 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ Who put them up?
+L443592 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Keep moving. We can't turn back now.
+L443591 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ Gorilla hunters ...
+L443588 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ All right...  Get in...hurry.  Put this on.
+L443587 +++$+++ u7069 +++$+++ m473 +++$+++ LUCIUS +++$+++ He wouldn't leave her.
+L443586 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ I told you not to bring the other one.
+L443446 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ At the very least, this man has the right to know whether there's a charge against him.
+L443445 +++$+++ u7070 +++$+++ m473 +++$+++ MAXIMUS +++$+++ And our purpose is to settle custodial and jurisdictional questions concerning this beast, and determine what's to be done with him.
+L443444 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ My own purpose is to save this exceptional creature from mutilation.
+L443443 +++$+++ u7070 +++$+++ m473 +++$+++ MAXIMUS +++$+++ You asked for the opportunity to present your case. Surely you must know why you're here.
+L443383 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ We're -- conducting a new experiment.
+L443382 +++$+++ u7070 +++$+++ m473 +++$+++ MAXIMUS +++$+++ Why special?
+L443381 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Yes, Sir. But this -- creature is a special case.
+L443380 +++$+++ u7070 +++$+++ m473 +++$+++ MAXIMUS +++$+++ I know it's a man. And you know the rules. No animals outside the compound, and most certainly not without a leash.
+L443379 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ A man, Dr. Maximus.
+L443378 +++$+++ u7070 +++$+++ m473 +++$+++ MAXIMUS +++$+++ What is that?
+L443514 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Bailiff! Stop this outburst! Gag that monstrosity!
+L443513 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ You destroyed his memory! His mind! His identity! And, you want to do the same to me!
+L443494 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Dr. Zira! Silence that man!
+L443493 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ One is in a museum!
+L443462 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Bailiff! Make the animal be quiet.
+L443461 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ This hearing is absurd! Let me tell my story...
+L443460 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ It says here that his name is Bright Eyes. You gave him that name yourself.
+L443459 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ My name is Taylor.
+L443458 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Dr. Zira -- tell Bright Eyes to sit down.
+L443532 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Sustain all objections, but face the truth!
+L443531 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Sustained.
+L443526 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Let us assume, as common sense dictates, that the prisoner's story is false. But if he does not come from another planet, then surely he sprang from our own. Yes, sprang.  As an animal psychologist, I have found no physiological defect to explain why humans are mute.
+L443525 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ How so?
+L443485 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Is it a joke to seek the truth about this man?
+L443484 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ This is a joke in very poor taste.
+L443483 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Stop right there. Bring me that paper.
+L443482 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ 'I have come to you from a planet in a different solar system. I am an explorer in space, with no hostile intentions against your civilization. On my planet it was the primate Man who evolved Into a thinking animal, while the apes remained..."
+L443481 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Read it yourself.
+L443480 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Since the defendant is forbidden to speak in his own defense, he asks that this statement be read into the record.
+L443471 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Did we create his mind too? Not only can this man speak. He can write. He can reason.
+L443470 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Mind your tongue, madame.
+L443469 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ That’s a lie!
+L443454 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Then why is he called the accused Your Honors must think him guilty of something.
+L443453 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Sustained. In all fairness, Dr. Zira, you must admit the accused is a nonape, and therefore has no rights under ape law.
+L443442 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ By your leave, Mr. President -- the Tribunal has not yet defined the purpose of this inquiry.
+L443441 +++$+++ u7071 +++$+++ m473 +++$+++ PRESIDENT +++$+++ Let it be clear at the outset that all matters pertaining to this inquiry are confidential, and anyone discussing them outside this chamber will be held in contempt of the Tribunal.  You may proceed, Dr. Honorius.
+L443790 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Don't look for it, Taylor. You may not like what you find.
+L443789 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ We're back at the beginning. I still don't know the why. A planet where apes evolved from men. A world turned wrong side up. A puzzle with one piece missing.
+L443788 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ The Forbidden Zone was once a paradise. Your breed made a desert of it, ages ago.
+L443787 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ What evidence? No weapons were found in the cave.
+L443786 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Because you are a man. And you were right -- I have always known about man. From the evidence, I believe his wisdom must walk hand in hand with his idiocy. His emotions must rule his brain. He must be a warlike animal who gives battle to everything around him -- even himself.
+L443785 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Why? From the first, I've terrified you, Doctor. And in spite of every sign that I'm an intelligent being who means no harm, you continue to hate and fear me. Why?
+L443769 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ No, thanks. I'll take freedom.
+L443768 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Where else, but in a cage, does man belong?
+L443767 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Sure.	In a cage.
+L443766 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Of course, you could return with us. Our society might find a place for you and your mate.
+L443765 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Then there is another jungle?
+L443753 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ He might have been wiped out by a plague. Natural catastrophe. Like a fiery storm of meteors. From the looks of this part of your planet, I'd say that was a fair bet.
+L443752 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Then answer this: If ran was superior, why didn't he survive?
+L443729 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Cease fire! Withdraw!
+L443728 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Tell him to pull back!
+L443723 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ That's lunacy. I can give an alternate description for everyone of those objects that's equally as inventive as yours. But it would be conjecture, not proof.
+L443722 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ I don't say he was a man like an Earthman, but I'd call him a close relative, for he was plagued by most of man's ills.  Yet, fragile as he was, he came before you -- and was superior to you.
+L443691 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Okay.Up to the cave.
+L443690 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Of course.
+L443689 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Very well. If Zira and Cornelius can prove that those scrolls don't tell the whole truth of your history; if they can show you definite evidence of another culture from an unrecorded past -- will you exonerate them?
+L443688 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Twelve hundred years ago.
+L443687 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ When were the Sacred Scrolls written?
+L443686 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ What is your proposal?
+L443683 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ All right, let's see if you're willing to put that statement to a test.
+L443682 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ There is no contradiction between faith and science. True science.
+L443667 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Don't be a fool. You're outnumbered and outgunned.
+L443666 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Stop right there.
+L443566 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ You're a menace! A walking pestilence. I do know who you are, Taylor. As I know that others of your kind must live in the Forbidden Zone.  You have just six hours to make a full confession. After that I'll employ surgery to obtain one.  Guards!
+L443565 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ I'm not protecting anybody! That hearing was a farce. What have I done?
+L443564 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ If you are protecting others of your kind, it will cost you your identity.
+L443563 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ I don't know.
+L443562 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ You may well call it upside down, since you occupy its lowest level. And deservedly.  The eastern desert has never been explored -- because we've always assumed that no life can exist there.  Save yourself, Taylor. Tell me -- is there another jungle beyond the Forbidden Zone?
+L443561 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Thank you for calling me Taylor.  Dr. Zaius, I know who I am. Who are you? How did this upside down civilization ever get started?
+L443560 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ I admit that where there's one mutant there's probably another. And another. A nest of them. Where's your nest, Taylor? Where are your women?
+L443559 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Then you admit --
+L443558 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Because you're not unique. There was the one you call Landon --
+L443557 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ All right, suppose I am a mutant? Why does the appearance of one mutant send you into a panic?
+L443556 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Of course.
+L443555 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ That's exactly what Zira and Cornelius claim. You're talking heresy, doctor.
+L443554 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Certainly not.	You're a mutant.
+L443553 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ I take it you don't believe the prosecutor's charge -- that I'm a monster created by Dr. Zira.
+L443552 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ A fort! Unconsciously, you chose a name that was belligerent.  Where were you nurtured?
+L443551 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ What about it?
+L443550 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Then how is it we speak the same language?  Even in your lies, some truth slips through! That mythical community you're supposed to come from -- Fort Wayne'?
+L443549 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ My tribe, as you call it, lives on another planet in a distant solar system.
+L443548 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ You lied. Where is your tribe?
+L443547 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ I told the truth at that 'hearing'of yours.
+L443546 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ However, it's within my power to grant You a reprieve.  That is why I summoned you here tonight.  Tell me who and what you really are and where you come from, and no veterinary will touch you.
+L443545 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Emasculation, to begin with. Then experimental surgery. On the speech centers. On the brain. Ultimately, a kind of living death.
+L443544 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ No.
+L443543 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Oh, your case was preordained. In a way, you performed a service for the State ...  Because your hearing made it possible for us to expose Zira and Cornelius.  And now the Tribunal has placed you in my custody for...final disposition. Do you know what that means?
+L443542 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ What about me?
+L443505 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Identify him, then. Speak to him.
+L443504 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ With one of them.
+L443503 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Well...do you acknowledge kinship with any of these creatures?
+L443778 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ God bless you.
+L443777 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Go with God, Taylor.  That's an old expression. it comes from both ape and man.
+L443776 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ All right, but....  ...you're so damned ugly!
+L443775 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Dr. Zira, I'd like to kiss you good-bye.
+L443772 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ It's better than going to prison for heresy.
+L443771 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ We can't.
+L443770 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Would you like to come along?
+L443749 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Wasn't I humiliated? By all of you? Didn't you lead me around on a leash?
+L443748 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ It's humiliating.
+L443747 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Why not?
+L443746 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Taylor, please -- don't treat him that way.
+L443742 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Taylor, you can't.
+L443741 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Then tell them Dr. Zaius won't leave here alive.
+L443710 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ He has a point. On my planet children often play with ape dolls.
+L443709 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Taylor! Tell him.
+L443681 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Except that he's also the Chief Defender of the Faith.
+L443680 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Taylor, please --
+L443679 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ And that's your Minister of Science. Honor- bound to expand the frontiers of knowledge.
+L443655 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ She's not sick at all.  She's pregnant.
+L443654 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ What's the diagnosis, doctor? A touch of the sun?
+L443637 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ You threw us together, remember? And you guessed right. Men, like apes, get despondent without a mate.
+L443636 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ You want her that much?
+L443635 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Maybe not.
+L443634 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Actually, you're a different breed. This creature will never evolve.
+L443633 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Yes.
+L443632 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Are you going to take her with you?
+L443619 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ You're going back to the Forbidden Zone?
+L443618 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Cornelius and I have been indicted for heresy. Unless we can prove our theories, we don't stand a chance of acquittal.
+L443590 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Taylor -- just keep quiet and we may get away with this. Remember that men all look alike to most apes.
+L443589 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Listen-
+L443510 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ You did this to him! You've removed his frontal lobes!
+L443509 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ No, I swear -- I never saw this man before.
+L443508 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ You! ... You knew about this?
+L443502 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Second from the left.
+L443501 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Which one?
+L443500 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ It's him...Landon.
+L443436 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ A hearing.
+L443435 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ What is this?
+L443434 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Shhhh!
+L443433 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Where have you been? Why didn't you come to see me?
+L443281 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Dr. Zaius, I could have sworn he was answering you!
+L443280 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ I'm not acting! I can talk! How much proof do you want?
+L443278 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ There! Can you believe it? I looks like he's talking.
+L443277 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ My - name - isn't - Bright Eyes It's Taylor!
+L443276 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Speak! Go on.	Speak again.
+L443259 +++$+++ u7072 +++$+++ m473 +++$+++ TAYLOR +++$+++ Listen, listen -- I can speak --
+L443258 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Well, Bright Eyes, is our throat feeling better?
+L443799 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ In a few minutes there will be no doll. There can't be.  I'm sorry.
+L443798 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ But the proof? The doll?
+L443764 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ He won't survive.  Do you know what sort of life awaits you out there, Taylor? That of an animal. If you aren't eventually hunted down and killed by apes, some jungle beast will devour you.
+L443763 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ But suppose you find nothing but a wasteland. How will you survive?
+L443706 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ What?
+L443705 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ But there's the doll, sir.
+L443704 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Secondly, if these 'tools' as you call them, are unidentified, why are they introduced as 'evidence' of anything?
+L443524 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Sirs: our theories have a bearing on his identity.
+L443523 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Let them talk, Mr President. Let them talk.
+L443497 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Mr. President, I believe the Prosecutor has reassembled all he surviving humans captured in the hunt along with Bright Eyes.
+L443496 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ He doesn't know.
+L443495 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ How sad. Stuffed and mounted, eh? Dead men, like sunken ships, can tell no stories. And his other companion?
+L443492 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Where are they now?
+L443491 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ This is his assertion.
+L443490 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ But how convenient that the proof of his arrival has vanished?  You also state that Bright Eyes had two intelligent companions at the time of his capture.
+L443489 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Like you, I find it difficult.
+L443488 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Do you believe him?
+L443487 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ I do not state it, sir. The prisoner does.
+L443486 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Dr. Zira -- you state here that a ship from outer space sank in an inland sea of our eastern desert.
+L443385 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ Yes, Sir.
+L443384 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Wouldn't it more properly be done in your office?
+L443288 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ But perhaps he understood --
+L443287 +++$+++ u7073 +++$+++ m473 +++$+++ ZAIUS +++$+++ Of course. He saw you moving yours.
+L443286 +++$+++ u7074 +++$+++ m473 +++$+++ ZIRA +++$+++ He's moving his fingers!

@@ -1,0 +1,509 @@
+L613584 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Well, have you found it?
+L613583 +++$+++ u8433 +++$+++ m573 +++$+++ BOLSHEVIK +++$+++ Diamonds all over.
+L613582 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Yes.
+L613581 +++$+++ u8433 +++$+++ m573 +++$+++ BOLSHEVIK +++$+++ And diamonds in the front.
+L613580 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Yes.
+L613579 +++$+++ u8433 +++$+++ m573 +++$+++ BOLSHEVIK +++$+++ And it had diamonds in the back.
+L613578 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Yes.
+L613577 +++$+++ u8433 +++$+++ m573 +++$+++ BOLSHEVIK +++$+++ So you lost a handbag, madame?
+L613576 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ What?  I may lose it again? But I haven't found it yet! I'm sorry. Goodbye!  Yes?
+L614124 +++$+++ u8434 +++$+++ m573 +++$+++ BUTLER +++$+++ Yes, M'sieu Laval!
+L614123 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Tell M'sieu Giron I can't see him now. Impossible!  And, Jacques. Dismiss the car! Madame is not going. 
+L614122 +++$+++ u8434 +++$+++ m573 +++$+++ BUTLER +++$+++ M'sieu Giron is downstairs.
+L614090 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Madame has changed her mind. She'll be down in a minute.
+L614089 +++$+++ u8434 +++$+++ m573 +++$+++ BUTLER +++$+++ Yes, M'sieu Laval?
+L614088 +++$+++ u8434 +++$+++ m573 +++$+++ BUTLER +++$+++ on staircase; from Gaston's point of view. He stops.
+L613986 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ In a moment.
+L613985 +++$+++ u8434 +++$+++ m573 +++$+++ BUTLER +++$+++ M'sieu Laval, M'sieu Filiba would like very much to see you.
+L613932 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ At once, Jacques.  We'll continue later.
+L613931 +++$+++ u8434 +++$+++ m573 +++$+++ BUTLER +++$+++ Pardon me, m'sieu. Madame Colet would like to see you in the living room.
+L613782 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Very well, Jacques.
+L613781 +++$+++ u8434 +++$+++ m573 +++$+++ BUTLER +++$+++ M'sieu Laval, Madame would like to talk to Mademoiselle Gautier for a moment.
+L614341 +++$+++ u8435 +++$+++ m573 +++$+++ CLOSE SHOT  GASTON +++$+++ He bows, goes. Door shuts behind him.
+L614340 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ With the compliments of Colet and Company!
+L614149 +++$+++ u8435 +++$+++ m573 +++$+++ CLOSE SHOT  GASTON +++$+++ A man in love, completely shaken. He sits on bed, thinks, then takes telephone slowly, decisively.
+L614148 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Eleven o'clock! 
+L614076 +++$+++ u8435 +++$+++ m573 +++$+++ CLOSE SHOT  GASTON +++$+++ in doorway. He bows, returns into office; door shuts.
+L614075 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ No!
+L613762 +++$+++ u8435 +++$+++ m573 +++$+++ CLOSE SHOT  GASTON +++$+++ erect in sweater, arms folded.
+L613761 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Is this what you mean, M'sieu Laval?
+L613611 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Where did you find it?
+L613610 +++$+++ u8435 +++$+++ m573 +++$+++ CLOSE SHOT  GASTON +++$+++ still studying the vase. Mariette appears. He turns to her.
+L613343 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ So I said to myself, "All right, if he wants to look at them, let him look at them. No harm in that." And then he said, "Say ah." And then I said, "Ah." And that's all I remember ... And when I woke up, I still had my tonsils, but my pocketbook was gone.
+L613342 +++$+++ u8442 +++$+++ m573 +++$+++ MANAGER +++$+++ <u>Tonsili!</u>
+L613341 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ About tonsils.
+L613340 +++$+++ u8442 +++$+++ m573 +++$+++ MANAGER +++$+++ What did you talk about?
+L613339 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ That's just what I tried to tell him. Well, one word led to another. He really was a very charming fellow. So we talked for about ten minutes.
+L613338 +++$+++ u8442 +++$+++ m573 +++$+++ MANAGER +++$+++ <u>Niente!</u>
+L613337 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ No!
+L613336 +++$+++ u8442 +++$+++ m573 +++$+++ MANAGER +++$+++ The representative of the police wants to know if there is anything wrong with your tonsils.
+L613335 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ I said, "Come in." And there he was. A fine-looking man with a moustache and long sideburns. He said, "Good evening. I'm the doctor." I said, "Doctor?" He said, "Yes, the doctor. I came to see about your tonsils."
+L613334 +++$+++ u8442 +++$+++ m573 +++$+++ MANAGER +++$+++ And then what happened, M'sieu Filiba?
+L613333 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ Well, he knocked at the door. You see, I was expecting two--uh--two business associates.
+L613332 +++$+++ u8442 +++$+++ m573 +++$+++ MANAGER +++$+++ Why did you let this man in, M'sieu Filiba?
+L613331 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ I had exactly twenty thousand lire. I had just cashed a traveler's check and put it in my wallet.
+L613330 +++$+++ u8442 +++$+++ m573 +++$+++ MANAGER +++$+++ The representative of the police wants to know how much money you had, M'sieu Filiba.
+L614012 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ <u>All</u> <u>kinds</u>.
+L614011 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ And harems ... ?
+L614010 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I don't care <u>what</u> you say! In Constantinople at least you have streets, sultans, pashas--
+L614009 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ But--
+L614008 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Let me tell you, Venice <u>can't</u> <u>compare</u> with Constantinople.
+L614007 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ Yes!
+L614006 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ But you <u>have</u> been in Venice?
+L614005 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ No!
+L614004 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You've never been in Constantinople?
+L614003 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ No.
+L614002 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Constantinople?
+L614001 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ No.
+L614000 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Amsterdam?
+L613999 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ No.
+L613998 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ No ...  Have <u>you</u> ever been in Vienna?
+L613997 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ You've <u>never</u> been in Venice?
+L613996 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ No.
+L613995 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ But before I say goodbye I want to ask you one question: Have you ever been in Venice?
+L613994 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Goodbye, M'sieu Filiba. 
+L613993 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ I wanted to say goodbye to you.
+L613930 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ You see--  No, no! And <u>yet</u>--  <u>Did</u> I--did--now <u>where</u> could we have--
+L613929 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Yes, M'sieu Filiba?
+L613908 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Well--then it must be my mistake.  I beg your pardon.
+L613907 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ I'm sorry, but I don't seem to recall the occasion. No, I'm afraid ...
+L613906 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Pardon me, m'sieu, but I have the feeling we have met somewhere before.
+L614168 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ Doc--!
+L614167 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ Funny--the first time I saw him I thought he was a doctor!
+L614166 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ Insignificant ... He's a secretary, always <u>was</u> a secretary, always <u>will</u> be.
+L614165 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ Just dull.
+L614164 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ He's really not a bad fellow.
+L614163 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ I thought so.
+L614162 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ Ogilvie and Oglethorpe.
+L614161 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ Smart. London, eh?
+L614160 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ Like it?
+L614159 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ Nice suit.
+L614158 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ You know, I'm not the marrying type. I like to take my fun and leave it.
+L614157 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ The type they marry.
+L614156 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ No color, no sparkle--but dependable.
+L614155 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ Funny, the kind of men women fall for.
+L614154 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ No doubt about it--it's that secretary.
+L613513 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ Now see here, my good man. I've had just about enough of your insulting remarks!
+L613512 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ You're looking fine, Major.
+L613511 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ Umm.
+L613510 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ Nice day, Major.
+L613508 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ Good morning.  I'd-I'd-I'd like to look at some cuff links.
+L613507 +++$+++ u8436 +++$+++ m573 +++$+++ FRANÇOIS +++$+++ Good morning, Major.
+L613350 +++$+++ u8445 +++$+++ m573 +++$+++ WAITER +++$+++ Yes, Baron. Thank you. 
+L613349 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You can trust me.
+L613348 +++$+++ u8445 +++$+++ m573 +++$+++ WAITER +++$+++ But please, Baron. We're not supposed to breathe a word of it. You won't tell anybody I told you?
+L613347 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You're not safe anywhere nowadays.
+L613268 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Thank you.
+L613267 +++$+++ u8445 +++$+++ m573 +++$+++ WAITER +++$+++ No, Baron!  I beg your pardon.
+L613266 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I don't want to see you at all!
+L613265 +++$+++ u8445 +++$+++ m573 +++$+++ WAITER +++$+++ Yes, Baron?
+L613264 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ And as for you, waiter--
+L613263 +++$+++ u8445 +++$+++ m573 +++$+++ WAITER +++$+++ Yes, Baron.
+L613262 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I want to see-- 
+L613261 +++$+++ u8445 +++$+++ m573 +++$+++ WAITER +++$+++ Yes, Baron.  Moon in champagne.
+L613260 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I want to see that moon in the champagne.
+L613259 +++$+++ u8445 +++$+++ m573 +++$+++ WAITER +++$+++ Yes, Baron.
+L613258 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ And, waiter--you see that moon?
+L613257 +++$+++ u8445 +++$+++ m573 +++$+++ WAITER +++$+++ Yes, Baron.
+L613256 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ It must be the most marvelous supper. We may not eat it, but it must be marvelous.
+L613253 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Um-hum. Very good. Excellent!
+L613252 +++$+++ u8445 +++$+++ m573 +++$+++ WAITER +++$+++ I would start with cocktails.
+L613251 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ If Casanova suddenly ... turned out to be Romeo ... having supper with Juliet--who might become Cleopatra ... How would you start?
+L613250 +++$+++ u8445 +++$+++ m573 +++$+++ WAITER +++$+++ Yes, Baron.
+L613249 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Oh, yes ... Well, that's not so easy.  Beginnings are always difficult.
+L613248 +++$+++ u8445 +++$+++ m573 +++$+++ WAITER +++$+++ Yes, sir?  What shall we start with, Baron?
+L614204 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Just call me Gaston.
+L614203 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ M'sieu Monescu!
+L614202 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Monescu.
+L614201 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ M'sieu ...
+L614200 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Then why didn't you call the police? Why <u>don't</u> you call the police?  I'll tell you why--you crook, you.
+L614199 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ I know it!
+L614198 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You say I am a crook.
+L614197 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ What do you mean?
+L614196 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You have enjoyed the confidence of this family for more than forty years. You must be a man of about-- about sixty-five.  Let's see--  You will be exactly eighty-seven when you come out of prison.
+L614195 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ What is it?
+L614194 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Yes, m'sieu.  M'sieu Giron!
+L614193 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ Otherwise I'll call the police
+L614192 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Very well, m'sieu.
+L614191 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ And you will be out by tomorrow morning.
+L614190 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Yes, m'sieu.
+L614178 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ No, to you--M'sieu <u>Monescu</u>.
+L614177 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ It may be important to you, M'sieu Giron--
+L614176 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ Right now! It's very important, M'sieu Laval.
+L614175 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ But not now.
+L614174 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ I've got to see you.
+L614173 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I'm very sorry, but this is no time, M'sieu Giron--
+L613970 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I don't <u>know</u>, M'sieu Giron!
+L613969 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ Nervous! Why should I be nervous?
+L613968 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I am only insinuating that you are nervous.
+L613967 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ Are you insinuating that this is not an honest report?
+L613966 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ And I don't see any reason for any man getting nervous when somebody checks over the figures of his report.
+L613965 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ I don't see why any man should get excited when he is asked about his hometown.
+L613964 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ And I was only asking you if you would let me examine your report without interruption.
+L613963 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ I was only asking if you are related to the Lavals of Marseilles.
+L613962 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Well, that's fine. Then you are not insinuating that I am avoiding questions. And I am not insinuating that you won't let me examine this report.
+L613961 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ No, not at all!
+L613960 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Are <u>you</u> insinuating anything, M'sieu Giron?
+L613959 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ Um-hum!
+L613958 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Two weeks and three days.
+L613957 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ Examination! M'sieu Laval, what are you insinuating? I have enjoyed the confidence of this family for more than forty years. How long have you enjoyed Madame's confidence? Three weeks, I believe.
+L613956 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ And you, M'sieu Giron, seem to be disturbing my examination of <u>this</u> <u>report</u>.
+L613949 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ And I have known the Lavals of Marseilles for more than thirty years.
+L613948 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ For more than forty years. So Madame told me.
+L613947 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ M'sieu Laval, I have enjoyed the confidence of this family--
+L613946 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I hope so, too.
+L613945 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ I hope you find the figures correct.
+L613944 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Just a second.
+L613943 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ You must be related to the Lavals of Marseilles.
+L613942 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Um-hum ...
+L613941 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ M'sieu Laval, there are several things I've wanted to ask you for quite a while. I understand you are from Marseilles.
+L613895 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ No, Captain, I tell you--
+L613894 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Now just a minute, Major--
+L613893 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ No, no, no! I disagree with you absolutely. That's the trouble with you artillery men.
+L613664 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Good day, Major.
+L613663 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ Good day, Doctor.
+L613662 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Thank you, Major. 
+L613661 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ Just as you say, Doctor.
+L613660 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You see, the bag has just been found, and the reaction of relief from her former excitement and strain is just a little too much for her. It's not very serious, but just the same we'd better not take any chances.
+L614320 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Lily!
+L614319 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Goodbye--Madame Colet and Company! 
+L614316 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Leave me alone! You were willing to sacrifice a hundred thousand francs for her.  Well--  she's worth it! [ You were willing to pay a hundred and twenty-five thousand for a <u>handbag</u>. You can pay a <u>hundred</u> thousand for him!]
+L614315 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Lily-- 
+L614314 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ And you--
+L614231 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Don't you dare lie to me!  I know you love me.  Well, why don't you say something? Come on--be brilliant. Talk yourself out of it--bluff yourself in!  Shut up, you liar, you!  That's what I want!  This is real! Money! Cash!
+L614230 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ But, Lily--
+L614229 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Shut up! Don't make up any stories!
+L614228 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Lily, you must listen to me.
+L614227 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Thirty-five to the left--sixty- three, eight ... I wouldn't fall for another man if he were the biggest crook on earth ... Seventy-six, eighty-four, fifty-five--  What has she got that I haven't got?
+L614226 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Don't you <u>realize</u>--
+L614225 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ That's what I'm here for--to get out! I want to get away from here, from you--as fast as I can and as far as a hundred thousand francs will take me.  Sixty-five, ninety-four--
+L614224 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You <u>have</u> to get out of here!
+L614223 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Yes, <u>M'sieu</u> <u>Colet</u>?
+L614222 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Now, Lily--
+L614221 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ What time is your rendezvous?
+L614220 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Are you insane? You've to get out of here at once! She may come back any minute.
+L614033 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ <u>Auf</u> <u>wiedersehn</u>.
+L614032 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ <u>Auf</u> <u>wiedersehn</u>.
+L614031 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ <u>Am</u> <u>Berliner</u> <u>Zug</u>.
+L614030 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ <u>Also</u>, <u>um</u> <u>zwoelf</u> <u>Uhr</u>.
+L614029 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ <u>Grossartig</u>--<u>kolossal</u>!
+L614028 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ By the way, how is your German?
+L614027 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Well, see you at the Berlin Express.
+L614026 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I don't know. Fortunately, she has a dinner engagement tonight. I'll meet you at the station--midnight.  Hello ... Yes? What? ... You found a handbag? Well, you're three weeks too late! 
+L614025 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Hello ... Is this the Spanish consulate? This is Doña Ignacio Fernandez.  My husband and I are leaving tonight for Berlin ... Is it too late to get a visa this afternoon ... ? Thank you, thank you.  How long will it take you?
+L614024 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Well, we'll have to take what's here. A bird in hand is worth two in jail.
+L614023 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ At twelve twenty. I know.  Lyons two, four, seven, one.  Two more days and we'd have seven hundred and fifty thousand francs more!
+L614022 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Correct. Now the train leaves--
+L614021 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Spanish passports?
+L614020 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ No--not yet--but--  Two tickets to Berlin--first class and sleeper--night train ... Right ... Right ... Leave them in the name of--Don Ignacio Fernandez ... Right ... Thank you. 
+L614019 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ He recognized you!
+L614018 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Éysée seven, eight, nine, two.  We have to clear out.  Railroad station? Ticket office, please.
+L613990 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Yes!  Now don't worry!
+L613989 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Five, seven, and nine--
+L613988 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Yes--Filiba! Venice--Grand Hotel-- room two fifty-three--
+L613987 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Filiba ...
+L613853 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Darling, remember you're Gaston Monescu. You're a crook. I want you as a crook. I love you as a crook. I worship you as a crook. Steal, swindle, rob--but don't become one of those useless, good-for-nothing gigolos!
+L613852 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Oh, no, darling. There's <u>more</u> sex appeal coming on the first of the month.  It's only ten days ...  Eight hundred and fifty thousand francs.
+L613851 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Gaston. Let's open it--right now! Let's get away from here!  I don't like this place!
+L613850 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Beautiful. And what of it?  Let me tell you something: so far as I'm concerned, her whole sex appeal is in that safe!
+L613849 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ They're all right, aren't they?
+L613848 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Certainly!
+L613847 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Did you ever take a good look at her--uh--
+L613846 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Ah!
+L613845 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ <u>This</u> <u>woman</u> <u>has</u> <u>more</u> <u>than</u> <u>jewelry</u>.
+L613840 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ But it's not enough!
+L613839 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ What?
+L613838 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ You! And she's willing to pay as high as fifty francs!
+L613777 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ No jewelry! Hands off jewelry! If we're broke--all right. I might pick up a million-franc necklace. But in times like <u>these</u> when we're doing a <u>cash</u> <u>business</u>--why take a chance on jewelry?
+L613776 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ And her <u>jewelry</u> is worth a fortune!
+L613775 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ --the other half, contrary to custom, shall be delivered in cash into Madame's personal custody.  Darling, that means that on the second of June we'll have eight hundred and fifty thousand francs.
+L613550 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Darling!
+L613549 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ And we'll celebrate the second anniversary of the day we didn't get married!
+L613548 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Seven and nine!
+L613547 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Two fifty-three, five--
+L613546 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ We'll take the Royal Suite!
+L613545 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ We'll go to Venice, to the same hotel!
+L613544 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ The six--
+L613543 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ And tomorrow is the fifteenth. And the day after tomorrow--
+L613542 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ The fourteenth of May.
+L613541 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Sweetheart, what day is today?
+L613540 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Right.
+L613539 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ And take the twenty thousand francs ...
+L613538 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Darling, then let's be honest and return it to the lady.
+L613522 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Yes! Don't you remember the day you took that Chinese vase from the Royal Palace  and made it into a lamp for my night table?
+L613521 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Last year? It can't be that long.
+L613520 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ I always liked him. Especially last year in Munich ...
+L613376 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Gaston!
+L613375 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Gaston Monescu.
+L613374 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Monescu!
+L613373 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You remember the man who walked into the Bank of Constantinople and walked out <u>with</u> the Bank of Constantinople?
+L613372 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Darling!  Now tell me--tell me all about yourself. Who are you?
+L613369 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ What time is it?
+L613368 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Not at all, Countess ... There's one very good stone in it.
+L613367 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Thank you, Baron.
+L613366 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I'm crazy about you.  By the way, your pin.
+L613365 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ I like you, Baron.
+L613359 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You're very welcome.  Countess, believe me, before you left this room I would have told you everything ... And let me say this with love in my heart-- Countess, you are a thief.  The wallet of the gentleman in two fifty-three, five, seven, and nine is in your possession. I knew it very well when you took it out of my pocket.  In fact, you tickled me.  But your embrace was so sweet ... 
+L613358 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ No, thank you.
+L613357 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ The pepper, too?
+L613356 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Thank you.
+L613355 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Please.
+L613354 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Please.  When I came here it was for a little adventure--a little game which you play tonight and forget tomorrow. But something has changed me--and it isn't the champagne.  The whole thing is new to me. Very new. I've got a confession to make to you.  Baron, you are a crook.  You robbed the gentleman in two fifty-three, five, seven, and nine.  May I have the salt?
+L613353 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ That's hotel life. In one room a man loses his wallet  and in another room a man loses-- his head. 
+L613306 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ No--proud. Very proud!
+L613305 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Disappointed?
+L613304 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Someone from another world--so entirely different. One gets so tired of one's own class--princes and counts and dukes and kings--ah! And everybody talking shop--always trying to sell jewelry ... And then I heard your name and found you were just one of us.
+L613303 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Thank you!
+L613302 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ You know, when I first saw you, I thought you were an American.
+L613301 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Don't stop. Keep right on complaining. It's beautiful.
+L613300 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ But she talks a lot. And before this night is over, all Venice will know it. And tomorrow it will be Grand Canal gossip! ... Oh!
+L613299 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Why should you?
+L613298 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ You'd better not. He's really very dull. But anyhow, when the king tells the marquis he saw me, the marquis will tell the marchesa. And the marchesa is the best friend of the Duchess of Chambro. And <u>she</u> will phone the Princess de Costa. The princess doesn't like me--but I don't care!
+L613297 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I would like to.
+L613296 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Do you know the Marquis de la Tours?
+L613295 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ No--no.
+L613294 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Do you <u>know</u> King Boris?
+L613291 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ But you came. And you must forget everything--  except that you are here, Countess.
+L613290 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ The tennis player. He saw me. He bowed. What could I do? I nodded.  Baron, I shouldn't have come!
+L613289 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ The tennis player?
+L613288 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ The Marquis de la Tours. He was in the lobby. But I don't think he saw me. I'm positive he didn't. Thank heaven! ... But when I came up here, right out in the hall there was King Boris of Alconia!
+L613287 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Who?
+L614333 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Goodbye ... 
+L614332 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Divine ... But that terrible policeman!
+L614331 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Lovely.
+L614330 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ But it could have been glorious.
+L614329 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Wonderful ... But tomorrow morning, if you should wake out of your dreams and hear a knock, and the door opens, and there, instead of a maid with a breakfast tray, stands a policeman with a warrant--then you'll be glad you're alone.
+L614328 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Divine ...
+L614327 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ It could have been marvelous ...
+L614326 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Goodbye.
+L614325 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Goodbye...
+L614287 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Yes, Giron! Chairman of the board of Colet and Company. Honorary president of the Orphans' Asylum. Adolph J. Giron--distinguished citizen! ... Well, shall I call the police?  I see! You have to be in the social register to keep out of jail. But when a man starts at the bottom and works his way up--a self-made crook --then you say, "Call the police! Put him behind bars! Lock him up!" 
+L614286 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Giron...!
+L614285 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ It would be a terrible scandal, wouldn't it?
+L614284 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Then why are you afraid to let me prove it?
+L614283 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ I don't believe it!
+L614282 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Why not? He's a thief--he's a criminal.
+L614277 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Naturally not. But I expect the police to believe it. 
+L614276 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ And you expect me to believe that?
+L614275 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Adolph J. Giron.
+L614274 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ <u>Adolph</u>?
+L614273 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You have been robbed--for years. And not a hundred thousand francs, but millions. And you know who did it? Adolph.
+L614272 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Yes, Gaston?
+L614271 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Mariette!
+L614270 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Thank you.  Seventy-six, eighty--
+L614269 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You look beautiful.
+L614268 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ But why talk about robbery on a night like this?
+L614267 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Um-<u>hum</u> ...
+L614266 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Instantly.
+L614265 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Call the police?
+L614264 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ I wouldn't say anything--I would act.
+L614263 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ What would you say if you found your safe had been robbed?
+L614262 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Yes, Gaston?
+L614253 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ No--thirty-five! 
+L614252 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Thirty-three--
+L614249 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Please! 
+L614248 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Ah, let me have a little fun.
+L614243 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ But I don't want to be a lady.
+L614242 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ On the night table.
+L614241 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ When a lady takes her jewels off in a gentleman's room, where does she put them?
+L614138 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Because I want to make it tough for you.
+L614137 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Then why do you want to go?
+L614136 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ I <u>believe</u> you.
+L614135 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ <u>I</u> <u>love</u> <u>you</u>.
+L614134 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ I know it.
+L614133 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I'm crazy about you!
+L614132 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ I <u>must</u> go.
+L614131 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I want you to stay, Mariette. You've <u>got</u> to stay. You can't go now!
+L614113 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ <u>Shut</u> <u>up</u>--<u>kiss</u> <u>me</u>!  Wasting all this marvelous time with arguments! 
+L614112 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ <u>Now</u>, <u>let</u> <u>me</u> <u>tell</u> <u>you</u>--
+L614111 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ But attractive--
+L614110 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You're conceited--
+L614109 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Any minute I want!
+L614108 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ So you think you can get me?
+L614107 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ And you're going to fall for them.
+L614106 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I know all your tricks.
+L614105 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Like that!
+L614104 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Like that?
+L614103 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Yes, I would!
+L614102 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You would?
+L614101 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ But incidentally, let me tell you, <u>I</u> don't like <u>you</u>. I don't like you at all!  I wouldn't hesitate one instant to ruin <u>your</u> reputation--like that! 
+L614099 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ M'sieu Laval, I've got a confession to make to you ...
+L614098 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ No--yours, madame.
+L614097 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Afraid I'm ruining your reputation, M'sieu Laval?
+L614096 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Precisely.
+L614095 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Talk? About me--about us?
+L614094 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ But you have an engagement, and I don't want people to talk.
+L614061 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Goodbye.
+L614060 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Good night.
+L614059 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Good night. 
+L614058 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Correct!  Good night.
+L614057 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Crimson!
+L614056 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Lipstick?
+L614055 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Marvelous.
+L614054 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Hair?
+L614053 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Beautiful.
+L614052 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ How do you like my dress?
+L614051 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Then a little nap--
+L614050 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Together.
+L614049 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Then lunch in the Bois--
+L614048 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Um-hum ...
+L614047 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Then riding together.
+L614046 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Um-hum ...
+L614045 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Well, we'll have breakfast in the garden.
+L614044 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ What are you going to do with my day tomorrow, M'sieu Laval?
+L614043 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Yes, madame?
+L613938 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ And so will M'sieu Giron.
+L613937 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I'll be delighted.
+L613936 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Will you be good enough to run through these papers with M'sieu Giron?
+L613935 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Madame.
+L613740 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ You're hired!
+L613739 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ The same thing.
+L613738 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ What would you do if you were my <u>secretary</u>?
+L613737 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ And you made any attempt to handle your own business affairs, I would give you a good spanking--in a business way, of course.
+L613736 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Ye-es?
+L613735 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Everything! ... Madame Colet, if I were your father--  which, fortunately, I am not--
+L613734 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Tell me, M'sieu Laval, what else is wrong?
+L613733 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ It's disgraceful!
+L613732 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ And how I handle my <u>money</u>!
+L613731 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Then you use the wrong lipstick--
+L613730 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Then I mislay my checkbook--
+L613729 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Madame Colet, I think you deserve a scolding. First, you lose your bag--
+L613726 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ That sounds sensible. 
+L613725 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ No! Not enough!  In times like these, when everything is uncertain, every conservative person should have a substantial part of his fortune within arm's reach.
+L613724 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ You think that's too much?
+L613723 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ But, madame, you keep a hundred thousand francs--in your safe--at <u>home</u>?
+L613714 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Isn't that wonderful!  You see, madame-- 
+L613713 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Too happy. That's why I discharged her.
+L613712 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ I see.  She must have been very happy here.
+L613711 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ This used to be my secretary's room.
+L613710 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Oh? 
+L613709 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ It <u>is</u> beautiful. But I got a little tired of sleeping in antiques, so I gave it to my secretary.
+L613708 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Beautiful specimen.
+L613707 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Right!
+L613706 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Early eighteenth century. I should say around--seventeen thirty.
+L613705 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Yes!
+L613704 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Eighteenth century.
+L613692 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ As you like. 
+L613691 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Make it out to cash!
+L613690 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ What?
+L613689 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ And do you know what I'd like to have you do with that check?
+L613686 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ No. What is it? Tell me.
+L613685 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Do you know my first name?
+L613680 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Then I'm glad I lost the bag! I'll write you the check immediately. 
+L613679 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Don't be embarrassed, madame. I'll take it. I need the money. I wish I were in a position to ignore the whole matter. But you know, madame, the stock market, bank crash ... To make a long story short--a member of the nouveaux poor.
+L613678 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Yes.
+L613677 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ In other words, madame, it embarrasses you to offer me the twenty thousand francs reward.
+L613676 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Goodbye, M'sieu La-- Oh, yes ... This is a rather delicate matter and I don't want to ... You see, if you read my advertisement carefully, you must have noticed that there was ...
+L613653 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ But, Madame Colet, that's a matter of eye shadow. I can straighten that out in two seconds.
+L613652 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Do you realize I have light eyes?
+L613651 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ That's too dark.
+L613650 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Peaches and cream.
+L613649 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ What shade of powder do you use?
+L613648 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ No, no, no!  I disagree with you completely! I tried it once--
+L613647 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ That's what you need!
+L613646 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Too much blue in crimson.
+L613645 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ With your skin, I prefer crimson.
+L613644 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ What's wrong now?
+L613643 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ But one suggestion, madame.  Not the major.  I don't  mind his grammatical mistakes. I'll overlook his bad punctuation. But the letter has no mystery--no bouquet--no ...  And one lipstick ...  Scarlet number four.
+L613642 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ M'sieu Laval!
+L613641 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You needn't be embarrassed, madame. A lady as charming as you would, and <u>should</u>, get love letters.
+L613640 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Oh!
+L613639 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Naturally I did.
+L613638 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Oh! You didn't read it!
+L613637 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Please, Madame Colet, I believe in doing things correctly. Shall we continue?  Two hairpins, one cigarette lighter, one box of real matches, and-- Oh, yes, this letter from Major--
+L613636 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ But really, m'sieu, this isn't necessary.
+L613635 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ One purse--  empty. One vanity case-- 
+L613632 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ The pleasure is mine, madame.
+L613631 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Well--how do you do, M'sieu Laval?
+L613630 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ And I am M'sieu Laval--if you will allow me to introduce myself.
+L613629 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Well--I am Madame Colet.
+L613628 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Not in the least, madame. But you see, it's a very expensive bag--one has to be careful.
+L613627 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Of course it is! Are you doubting me?
+L613626 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Oh ... That's strange. Maybe--are you sure this is your bag?
+L613625 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ I don't know how I could have lost it there.  I was nowhere near that niche.
+L613624 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Neither do I.  That's where I found it.
+L613623 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Not particularly.
+L613622 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You like that statue?
+L613621 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ I remember.
+L613620 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ And in that niche, there is a statue of Venus.
+L613619 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ I know that niche.
+L613618 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ And as you leave the foyer, there is a little niche.
+L613617 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Yes.
+L613616 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Then you go into the foyer.
+L613615 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Yes.
+L613614 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Then you go to the left. There's a landing.
+L613613 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Yes.
+L613612 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ You know the main staircase in the opera?
+L613598 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ That's it! Yes, that's it! ... Jacques!
+L613597 +++$+++ u8437 +++$+++ m573 +++$+++ GASTON +++$+++ Will you be good enough to look at this bag, madame? 
+L613596 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Yes...?
+L613874 +++$+++ u8444 +++$+++ m573 +++$+++ MARIETTE'S VOICE +++$+++ Well, the evening is still young. Let's go down to the living room and talk it over.  It's only ten o'clock.
+L613873 +++$+++ u8438 +++$+++ m573 +++$+++ GASTON'S VOICE +++$+++ Yes, madame!
+L613872 +++$+++ u8444 +++$+++ m573 +++$+++ MARIETTE'S VOICE +++$+++ No, m'sieu!
+L613871 +++$+++ u8438 +++$+++ m573 +++$+++ GASTON'S VOICE +++$+++ No, madame, it's the way you <u>follow</u>.
+L613870 +++$+++ u8444 +++$+++ m573 +++$+++ MARIETTE'S VOICE +++$+++ Oh, no, it's the way you lead.
+L613866 +++$+++ u8444 +++$+++ m573 +++$+++ MARIETTE'S VOICE +++$+++ I wanted to ask her to ask you if you'd be good enough to go out to dinner with me tonight.
+L613865 +++$+++ u8438 +++$+++ m573 +++$+++ GASTON'S VOICE +++$+++ What is it, madame?
+L613864 +++$+++ u8444 +++$+++ m573 +++$+++ MARIETTE'S VOICE +++$+++ Oh, that's too bad. You see, I wanted her to do something.  Well, I guess I'll have to do it myself.
+L613863 +++$+++ u8438 +++$+++ m573 +++$+++ GASTON'S VOICE +++$+++ Yes--uh--
+L613862 +++$+++ u8444 +++$+++ m573 +++$+++ MARIETTE'S VOICE +++$+++ Has Mademoiselle Gautier gone?
+L613861 +++$+++ u8438 +++$+++ m573 +++$+++ GASTON'S VOICE +++$+++ Yes, Madame Colet?
+L613860 +++$+++ u8444 +++$+++ m573 +++$+++ MARIETTE'S VOICE +++$+++ Oh, M'sieu Laval ...
+L613919 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Jacques!
+L613918 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ You know what Paris is saying about the Countess Falconier and her chauffeur?
+L613917 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ He is my secretary! I hope that answers all your questions, M'sieu Giron.
+L613916 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ Madame, let me ask you: Who is M'sieu Laval, anyhow? Where does he come from? What is he?
+L613915 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ I know!
+L613914 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ Madame Colet, I've enjoyed the confidence of your family for more than forty years.  I was a school friend of your husband's ...
+L613913 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ To M'sieu Laval?
+L613912 +++$+++ u8439 +++$+++ m573 +++$+++ GIRON +++$+++ I'm sorry, madame, but there are still certain matters which I think you should attend to yourself. And I, personally, would not care to refer them to--to-- 
+L613911 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ But my dear M'sieu Giron, I'm having a tea party. Must I be bothered with all these papers now?
+L614309 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ I don't want your money!
+L614308 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Mademoiselle Gautier--or whatever your name is--I thank you for your advice, but I must ask you to go. You've got your money--
+L614307 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Let me give you a little advice. When you embrace him, be sure to put on your gloves. It would be too bad if your fingerprints were found ...
+L614306 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ I beg your pardon!
+L614305 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Ever had a romance with a crook?
+L614304 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ I think you'd better go.
+L613835 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Oh, madame, you're just too sweet for words! 
+L613834 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Well, in times like these most people are cutting salaries, but suppose we say, in your case, three hundred and fifty?
+L613831 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ How much is your salary?
+L613830 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Yes, madame?
+L613827 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Very well, madame. Thank you. 
+L613826 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Oh, no, no, no, no, my dear child! That's ridiculous. You go home as usual--five o'clock every day. Now I'm going to be a little bit of a tyrant--I insist. It'll be nice for your little brother, too. <u>Five</u> <u>o'clock</u>--remember!
+L613825 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ I'll do my best, madame, even if I have to work every night.
+L613824 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Right!
+L613823 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ For all the really important things--
+L613822 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Yes! And he would have a little more time for--
+L613821 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ So he wouldn't be confined so much to his office--
+L613820 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ No, he <u>works</u> too much.  He's chained to his desk. Too much detail. Now, if you could take over some of his work--
+L613819 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Nervous?  Um-hum. He smokes too much!
+L613818 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ To me he seems rather nervous.
+L613817 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Well--uh--yes and no.
+L613816 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Now. Uh--mademoiselle--in the short time you have been M'sieu Laval's secretary, have you noticed any change in him?
+L613815 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Naturally not!
+L613814 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Potatoes. He doesn't want me to eat them--  and naturally I don't want to upset him.
+L613813 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ About what?
+L613812 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ You see--  Oh, not a word to M'sieu Laval!
+L613811 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Yes, madame?
+L613806 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ May I?
+L613805 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Please!  Thank you.
+L613804 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Two lumps, madame?
+L613794 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Yes, that's the trouble with mothers. First you get to like them and then they die.
+L613793 +++$+++ u8440 +++$+++ m573 +++$+++ LILY +++$+++ Yes, madame. You see, I have to get up very early.  My little brother goes to school--  You see, Mother is dead.
+L613792 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ You've had your breakfast--oh, but of course you have.
+L613493 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Well, where is it?
+L613492 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ Yes, I saw it--but--
+L613491 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ But you saw it here.
+L613490 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ No--I'm sorry.
+L613489 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Apparently not. Don't you know where it is?
+L613488 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ Didn't you take it with you?
+L613487 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Yes, my bag!
+L613486 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ Your bag?
+L613466 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ Well, he was in the navy.
+L613465 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ You should have more self-control. You were in the army.
+L613464 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ Because I hate him--because I love you!
+L613463 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ Then why did you do it?
+L613462 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ That's true.
+L613461 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ But you're the more intelligent one.
+L613460 +++$+++ u8441 +++$+++ m573 +++$+++ MAJOR +++$+++ He started it.
+L613459 +++$+++ u8443 +++$+++ m573 +++$+++ MARIETTE +++$+++ You should be ashamed of yourselves. Two men of your standing, always quarreling.

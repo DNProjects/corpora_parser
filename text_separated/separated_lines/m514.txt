@@ -1,0 +1,481 @@
+L502637 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Yes, Dad.
+L502636 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I love you, Danny.  I love you more than anything else in the whole world, and I'd never do anything to hurt you, never... You know that, don't you, huh?
+L502635 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Yes, Dad.
+L502634 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Are you sure?
+L502633 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ No, Dad.
+L502632 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Did your mother ever say that to you - that I would hurt you?
+L502631 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ What do you mean?
+L502630 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ You wouldn't ever hurt Mummy and me, would you?
+L502629 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ What?
+L502628 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Dad?
+L502627 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Good.  I want you to like it here. I wish we could stay here for ever, and ever... ever.
+L502626 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ I guess so.
+L502625 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Yes I do.  I love it.  Don't you?
+L502624 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Do you like this hotel?
+L502623 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Yes?
+L502622 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Dad?
+L502621 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I can't.  I have too much to do.
+L502620 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Then why don't you go to sleep?
+L502619 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ No.  I'm just a little tired.
+L502618 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Do you feel bad?
+L502617 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Yes.
+L502616 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ I am, Dad.  Dad?
+L502615 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Good.  I want you to have a good time.
+L502614 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Yes, Dad.
+L502613 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Are you having a good time?
+L502612 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Okay.
+L502611 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ How's it going, Doc?
+L502610 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Come here for a minute, first.
+L502609 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Can I go to my room and get my fire-engine?
+L502332 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ They had to, in order to survive.
+L502331 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ You mean they ate each other up?
+L502330 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ There were a party of settlers in the covered wagon times.  They got snowbound one winter in the mountains.  They had to resort to cannabilism in order to stay alive.
+L502329 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ What was the Donner party?
+L502328 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I think that was farther west in the Sierras.
+L502324 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Well you should have eaten your breakfast.
+L502323 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ I'm hungry.
+L502322 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Yes?
+L502321 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Dad?
+L502507 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Nothing.  There ain't nothing in Room 237, but you ain't got no business going in there anyway, so stay out!  You understand, stay out!
+L502506 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Mr. Halloran, what is in Room 237?
+L502505 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ No I ain't.
+L502504 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ You're scared of Room 237, ain'tcha?
+L502503 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Room 237?
+L502502 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ What about Room 237?
+L502501 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Not things that anyone can notice, but things that people who shine can see.  Just like they can see things that haven't happened yet. Well, sometimes they can see things that happened a long time ago... I think a lot of things happened right here in this particular hotel - over the years, and not all of them was good.
+L502500 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Well, maybe things that happened... leave other kinds of traces behind.
+L502499 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Well, you know Doc, when something happens it can leave a trace of itself behind... say like is someone burns toast.
+L502498 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Is there something bad here?
+L502497 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ No, I'm scared of nothing here. It's just that you know some places are like people, some shine and some don't.  I guess you could say the Overlook Hotel here has something about it that's like shining.
+L502495 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Try to think what it was.
+L502494 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Maybe he showed me something.
+L502493 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Now think real hard, Doc.  Think.
+L502492 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ I don't know.
+L502490 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Do they know he tell you things?
+L502489 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Yes.
+L502488 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Does your Mum and Dad know about Tony?
+L502487 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ It's like I go to sleep, and he shows me things but when I wake up, I can't remember everything.
+L502486 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ How does he tell you things?
+L502485 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Yes.
+L502484 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Is Tony the one that tells you things?
+L502483 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Tony's the little boy who lives in my mouth.
+L502482 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Who's Tony?
+L502481 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Tony.
+L502480 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Who says you ain't supposed to?
+L502479 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ I'm not supposed to.
+L502478 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Why don't you want to talk about it?
+L502466 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Chocolate it shall be.  Come on son.
+L502465 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Chocolate.
+L502455 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Yeah.
+L502454 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Do you like ice cream, Doc?
+L502428 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ French Fries and Ketchup.
+L502427 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ You don't?  Well what's your favorite food then?
+L502426 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ No.
+L502425 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Now this is where we keep all of out meat.  You got fifteen rib roasts - thirty ten pound bags of hamburgers.  You got twelve- turkeys, two dozen pork roasts and twenty legs of lamb.  Do you like lamb, Doc?
+L503069 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Oh!
+L503068 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Mommy!
+L503067 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Danny!
+L503066 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Mommy... Mommy...!
+L503065 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Danny, come here!
+L503064 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Mommy...
+L503023 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Red Rum.  Red Rum.  Red Rum.  Red Rum.
+L503022 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Danny.  Danny, stop it.  Danny!
+L502832 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Are you having a bad dream?
+L502831 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Red Rum.
+L502830 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Danny... what's the matter, hon?
+L502829 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Red Rum.
+L502828 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Red Rum.  Red Rum.  Red Rum.
+L502827 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Danny?
+L502825 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Red Rum.  Red Rum.
+L502824 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ If Jack won't come with us, we'll just have to tell him that we are going by ourselves.  That's all there is to it.
+L502608 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Okay, Mom.
+L502607 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Make sure you come right back, 'cause I'm going to make lunch soon. Okay?
+L502606 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ I won't, Mom.
+L502605 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Well all right.  But really don't make a sound.
+L502604 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ I won't make a sound, I promise. I'll tip-toe.
+L502603 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Come on, Doc.  He only went to bed a few hours ago.  Can't you wait till later?
+L502602 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ I won't make any noise.
+L502601 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Not right now, Daddy's asleep.
+L502600 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Can I go to my room and get my fire-engine?
+L502599 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Yes?
+L502598 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Mom?
+L502540 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ No.
+L502539 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ I didn't think it was going to be this big, did you?
+L502538 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Yeah.
+L502537 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ It's so pretty.
+L502536 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Yeah.
+L502535 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Oh what a Maze.  Isn't it beautiful.
+L502533 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Yeah.
+L502532 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Give me your hand.  Oh, isn't it beautiful.
+L502531 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Okay...oh!
+L502530 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Okay Danny, you win.  Let's take the rest of this walking, huh?
+L502528 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ And you're gonna lose.  And I'm gonna get you - you betta run fast! Look out - I'm coming in close. All right?
+L502527 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ All right.
+L502526 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ The loser has to keep American clean, how's that?
+L502463 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Okay.  You behave yourself.
+L502462 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Yeah.
+L502407 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Danny, come on over here.
+L502406 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Yeah.
+L502334 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Don't worry, Mom.  I know all about cannabilism, I saw it on T.V.
+L502333 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Jack...
+L502327 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Hey, wasn't it around here that the Donner party got snowbound?
+L502326 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Okay, Mom.
+L502325 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ We'll get something as soon as we get to the hotel, okay?
+L502290 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Okay.
+L502289 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ We're just going to go into one of the other rooms for a few minutes and talk - then I'll come back and check on you, okay?
+L502190 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ What about Tony?  He's looking forward to the hotel, I bet.
+L502189 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Yeah, I guess so.
+L502188 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Yeah, I know.  It always takes a little time to make new friends.
+L502187 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Yeah, I guess so.  Anyway, there's hardly anybody to play with around here.
+L502186 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Sure, Danny, it will be lots of fun.
+L502185 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Do you really want to go and live in that hotel for the winter?
+L502184 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Yeah.
+L502288 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Yes, I'd like you to.
+L502287 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Do I have to?
+L502286 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Now I'm going to ask you to do me a favor, and stay quietly in bed for the rest of the day.  Okay?
+L502283 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Does Tony ever tell you to do things?
+L502282 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ To my stomach.
+L502281 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Where does he go?
+L502280 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Because he hides.
+L502279 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Why not?
+L502278 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ No.
+L502277 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ if you were to open your mouth now, could I see Tony?
+L502276 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Oh,
+L502274 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ No.  It's the little boy that lives in my mouth.
+L502273 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Is Tony one of your animals?
+L502272 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Talking to Tony.
+L502271 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Now Danny, can you remember what you were doing just before you started brushing your teeth?
+L502270 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Mommy saying, 'Wake up, wake up, wake up Danny, wake up.'
+L502269 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ What's the next thing you remember after you were brushing your teeth?
+L502268 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ Yes.
+L502267 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Do you remember when you were brushing your teeth?
+L502266 +++$+++ u7608 +++$+++ m514 +++$+++ DANNY +++$+++ No.
+L502265 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Now Danny, when you were brushing your teeth, do you remember if you smelled anything funny, or saw any bright flashing lights, or anything at all strange?
+L502316 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Well it's just one of those things. You know... purely an accident, um. My husband had oh... been drinking, and he came home about three hours late, so he wasn't exactly in the greatest mood that night.  And well Danny had scattered some of his school papers all over the room... and my husband grabbed his arm, you know, and pulled him away from them. It's...it's just the sort of thing you do a hundred times with a child - you know, in a park or on the streets - but on this particular occasion my husband just... used too much strength and he injured Danny's arm.
+L502315 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ How did he manage to do that?
+L502314 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Ah he dislocated his shoulder.
+L502313 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ What sort of injury did he have?
+L502310 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ No, um let's see I guess Danny started talkin to Tony about the time we put him into nursery school.
+L502309 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Did Tony's first appearance happen to coincide with your arrival here?
+L502308 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Tony.
+L502307 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Did the appearance of Danny's imaginary friend...?
+L502306 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Only about three months.  Eh we're from Vermont.  My husband was teaching school there.
+L502305 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Have you been in Boulder long, Mrs. Torrance?
+L502300 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Mrs. Torrance, most of the time these episodes with kids are never explained.  They are brought on by emotional factors, and they rarely occur again.
+L502299 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ But eh what was the matter with him?
+L502297 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Oh, yeah.  Oh, yeah, he seems absolutely fine now, but you should have seen him.
+L502296 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Mrs. Torrance, I don't think you have anything to worry about.  I'm quite sure there is nothing physically wrong with Danny.
+L502295 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Thank you.
+L502294 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Please...
+L502293 +++$+++ u7609 +++$+++ m514 +++$+++ DOCTOR +++$+++ Yes.
+L502292 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Shall we go into the living room?
+L502597 +++$+++ u7610 +++$+++ m514 +++$+++ DOROTHY +++$+++ Great.  Sit down.  Oh these marvellous doughnuts, help yourself. Coffee will be ready in a few minutes.
+L502596 +++$+++ u7613 +++$+++ m514 +++$+++ HERMIE +++$+++ Sure.
+L502595 +++$+++ u7610 +++$+++ m514 +++$+++ DOROTHY +++$+++ Well I'm going to have some coffee. Would you like some?
+L502594 +++$+++ u7613 +++$+++ m514 +++$+++ HERMIE +++$+++ It's okay, really.
+L502593 +++$+++ u7610 +++$+++ m514 +++$+++ DOROTHY +++$+++ Well how can I repay you?
+L502592 +++$+++ u7613 +++$+++ m514 +++$+++ HERMIE +++$+++ Oh I wouldn't think of it.
+L503004 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ You give your word on that do you, Mr. Torrance?
+L503003 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ There's nothing I look forward to with the greater pleasure, Mr. Grady.
+L503002 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ I fear that you will have to deal with this matter in the harshest possible way, Mr. Torrance.  I fear that is the only thing to do.
+L503001 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ For the moment, Mr. Grady.  Only for the moment.
+L503000 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ Your wife appears to be stronger than we imagined, Mr. Torrance. Somewhat more resourceful, she seems to have got the better of you.
+L502999 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Just give me one more chance to prove it, Mr. Grady.  That's all I ask.
+L502996 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ Will you indeed, Mr. Torrance.
+L502995 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ No need to rub it in, Mr. Grady. I'll deal with that situation as soon as I get out of here.
+L502990 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Grady... oh.
+L502989 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ It's Grady, Mr. Torrance.  Delbert Grady.
+L502819 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ Perhaps they need a good talking to, if you don't mind my saying so. Perhaps a bit more.
+L502818 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ She eh... interferes.
+L502815 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Well, he is a very willful boy.
+L502814 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ Your son has a very great talent. I don't think you are aware how great it is, but he is attempting to use that very talent against your will.
+L502813 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ How?
+L502812 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ A nigger cook.
+L502811 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ A nigger!
+L502810 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ A nigger.
+L502809 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Who?
+L502808 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ He is, Mr. Torrance.
+L502807 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ No.
+L502802 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ Oh, they're somewhere around.  I'm not quite sure at the moment, sir.
+L502801 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ And, er... where are they now?
+L502800 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ Yes, sir.  I have a wife and eh two daughters, sir.
+L502798 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ Why no, sir.  I don't believe so.
+L502797 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Eh... Mr. Grady... weren't you once the caretaker here?
+L502796 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ Ah ha, it's coming off now, sir.
+L502795 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ Why no, sir.  I don't believe so.
+L502794 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ haven't I seen you somewhere before?
+L502792 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ That's right, sir.
+L502791 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Delbert Grady.
+L502790 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ Yes, sir.
+L502789 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Grady?
+L502786 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Fine.
+L502785 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ Won't keep you a moment, sir.
+L502778 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Awfully nice of you to say.  Of course I intend to change my jacket this evening before the fish and goose soiree.
+L502777 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ That doesn't matter, sir.  You're the important one.
+L502774 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ Yes sir.  Look um... I think the best thing is to come along to the gentlemen's room, sir, and eh...
+L502773 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Advocaat is it?
+L502772 +++$+++ u7611 +++$+++ m514 +++$+++ GRADY +++$+++ I'm afraid it's advocaat sir.  It tends to stain.
+L502847 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Hallo, this is Dick Halloran again. I called a while ago about the folks at the Overlook Hotel.
+L502846 +++$+++ u7616 +++$+++ m514 +++$+++ RANGER +++$+++ Good evening.  Forest Service.
+L502748 +++$+++ u7616 +++$+++ m514 +++$+++ RANGER +++$+++ All right, sir.
+L502747 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Thank you very much.  I'll do that.
+L502746 +++$+++ u7616 +++$+++ m514 +++$+++ RANGER +++$+++ I'd be glad to do that, sir.  Oh why don't you call me back in about eh twenty minutes?
+L502741 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Sir, I've been trying to make an urgent phone call up there,
+L502740 +++$+++ u7616 +++$+++ m514 +++$+++ RANGER +++$+++ Good evening, Mr. Halloran.  What can I do for you?
+L502739 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Hallo.  My name's Dick Halloran. I'm the Head Chef up at the Overlook Hotel.
+L502738 +++$+++ u7616 +++$+++ m514 +++$+++ RANGER +++$+++ Good evening.  Forest Service.
+L502453 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ No problem, Mr. Ullman.  I was just getting to the ice cream.
+L502452 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Dick, can we borrow Mrs. Torrance for a few minutes?  We're on our way through to the basement - I promise we won't keep her very long.
+L502411 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ It will be a pleasure.  Right this way Mrs. Torrance.
+L502410 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Dick, if you're ready to do it now, I think it would be a good idea if you could show Mrs. Torrance the kitchen, while I continue on with Jack.
+L502401 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Oh, that's just great.  How do you folks like our hotel so far?
+L502400 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ The Torrances are going to take care of the Overlook for us this winter.
+L502395 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ This is Dick Halloran, our Head Chef.
+L502394 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Sure.
+L502393 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Oh Dick, come on over and say hello to Mr. and Mrs. Torrance.
+L502461 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Sound good to you, Danny?
+L502460 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Good.
+L502459 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ No, we don't mind.
+L502436 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Well I guess I probably heard you call him that.
+L502435 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Yeah.  We call him Doc sometimes, you know, like in the Bugs Bunny cartoons.  But how did you know that?
+L502434 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ I did?
+L502433 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Doc.  You called Danny 'Doc' twice just now.
+L502432 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Beg pardon?
+L502423 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Well one thing for sure, you don't have to worry about food because you folks could eat up here a whole year and never have the same menu twice.
+L502422 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ I wouldn't know what to do with it if I did.
+L502421 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Don't let it get you down Mrs. Torrance - it's big but it still ain't nothing but a kitchen... a lot of the stuff you'll never have to touch.
+L502418 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Yeah, this is it.  How do you like it, Danny?  Is it big enough for you?
+L502417 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ God.  This is the kitchen, huh?
+L502416 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Oh Wendy.  That's nice.  That's the prettiest.
+L502415 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ I'm a Wendy.
+L502414 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Mrs. Torrance, your husband introduced you as Winifred.  Now are you a Winnie or a Freddie?
+L502399 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Nice to meet you.
+L502398 +++$+++ u7612 +++$+++ m514 +++$+++ HALLORAN +++$+++ Glad to meet you, Winifred.
+L502210 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Well, I'm looking for a change.
+L502209 +++$+++ u7618 +++$+++ m514 +++$+++ WATSON +++$+++ Well this ought to be quite a change for you.
+L502208 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I'm a writer um... Teaching has been more or less a way of making ends meet.
+L502207 +++$+++ u7618 +++$+++ m514 +++$+++ WATSON +++$+++ What line of work are you in now?
+L502206 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Eh - formerly a school-teacher.
+L502201 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Pleasure to meet you.
+L502200 +++$+++ u7618 +++$+++ m514 +++$+++ WATSON +++$+++ Pleased to meet you.
+L502199 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Bill, how do you do?
+L502766 +++$+++ u7615 +++$+++ m514 +++$+++ LLOYD +++$+++ It's not a matter that concerns you, Mr. Torrance - at least not at this point.
+L502765 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I'm the kind of man likes to know who's buying their drinks, Lloyd.
+L502761 +++$+++ u7615 +++$+++ m514 +++$+++ LLOYD +++$+++ Your money's no good here.
+L502760 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ No charge?
+L502755 +++$+++ u7615 +++$+++ m514 +++$+++ LLOYD +++$+++ What'll it be, sir?
+L502754 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ It's good to be back, Lloyd.
+L502753 +++$+++ u7615 +++$+++ m514 +++$+++ LLOYD +++$+++ It's good to see you.
+L502752 +++$+++ u7615 +++$+++ m514 +++$+++ LLOYD +++$+++ Good evening Mr. Torrance.
+L502751 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Hi Lloyd.  I've been away.  Now I'm back.
+L502686 +++$+++ u7615 +++$+++ m514 +++$+++ LLOYD +++$+++ Women!  Can't live with 'em.  Can't live without 'em!
+L502685 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Nothing that I can't handle though, Lloyd.  Thanks.
+L502682 +++$+++ u7615 +++$+++ m514 +++$+++ LLOYD +++$+++ I hope it's nothing serious.
+L502681 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Things could be better, Lloyd. Things could be a whole lot better.
+L502680 +++$+++ u7615 +++$+++ m514 +++$+++ LLOYD +++$+++ How are things going, Mr. Torrance?
+L502678 +++$+++ u7615 +++$+++ m514 +++$+++ LLOYD +++$+++ Thank you for saying so.
+L502677 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Best goddamned bartender from Timbuctoo to Portland Maine - Portland Oregon for that matter.
+L502676 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ That's swell.  I like you, Lloyd. I always liked you.  You were always the best of them. 
+L502675 +++$+++ u7615 +++$+++ m514 +++$+++ LLOYD +++$+++ Your credit's fine, Mr. Torrance.
+L502674 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ How's my credit in this joint anyway?
+L502668 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Now I'm awfully glad you asked me that, Lloyd, because I just happen to have two twenties and two tens right here in my wallet.  I was afraid they were going to be there until next April.  So here's what: you slip me a bottle of Bourbon, a glass and some ice.  You can do that, can't you, Lloyd?  You're not to busy, are you?
+L502667 +++$+++ u7615 +++$+++ m514 +++$+++ LLOYD +++$+++ What'll it be?
+L502980 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Wendy...
+L502979 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ I'm gonna go now.
+L502978 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Wendy...
+L502977 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ I'll bring back a doctor.
+L502959 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Give me the bat.
+L502958 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Go away.
+L502957 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Give me the bat.
+L502956 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Go away.
+L502955 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Wendy...
+L502954 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Go away from me.
+L502953 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Give me the bat.
+L502952 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Get down.
+L502951 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Stop swinging the bat.
+L502950 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Jack, stay away from me!
+L502949 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Give me the bat.
+L502948 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Stay away from me.
+L502947 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Give me the bat.
+L502946 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Stay... stay away!
+L502945 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Wendy give me the bat.
+L502944 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Stop it!
+L502943 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Put the bat down, Wendy.
+L502942 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Stay away from me.
+L502941 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Stop swinging the bat.
+L502940 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Stay away from me!  Please...
+L502939 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Stay away from me!
+L502938 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I'm not going to hurt you.
+L502937 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Stay away from me!
+L502935 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Darling, light of my life, I'm not going to hurt you.  You didn't let me finish my sentence.  I said 'I'm not going to hurt you... I'm just going to bash your brains in!'  I'm going to bash them right the fuck in.
+L502934 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Stay away...!
+L502933 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Wendy!
+L502932 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Stay away from me,
+L502931 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I'm not going to hurt you.
+L502930 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Don't hurt me!  Don't hurt me!
+L502926 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Why?
+L502925 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ I just want to go back to my room.
+L502924 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Why?
+L502923 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Stay away from me!
+L502917 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Have you ever had a single moment's thought about my responsibilities? Have you ever thought for a single solitary moment about my responsibilities to my employers?
+L502916 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Oh Jack, what are you talking about?
+L502915 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Have you ever thought about my responsibilities?
+L502914 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Of course you are.
+L502913 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Of course I am.
+L502906 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Jack...
+L502905 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ As soon as possible.
+L502903 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ When do you think maybe he should be taken to a doctor?
+L502902 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Yes...
+L502901 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ You think maybe he should be taken to a doctor?
+L502900 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Well I... I think maybe he should be taken to a doctor.
+L502899 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I don't think that's true.  I think you have some very definite ideas about what should be done with Danny... and I'd like to know what they are.
+L502898 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ I don't know.
+L502892 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ You can't remember.
+L502891 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ I can't really remember.
+L502890 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ I...
+L502884 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ How do you like it?
+L502883 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Jack!
+L502737 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Wendy, I have let you fuck up my life so far, but I'm not going to let you fuck this up!
+L502736 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Jack...
+L502735 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Shovellings out driveways, work in a car wash - any of that appeal to you?
+L502733 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Yes.
+L502732 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ You mean just leave the hotel?
+L502731 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Yes.
+L502730 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Get him out of here?
+L502725 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I think he did it to himself.
+L502724 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Somebody did that to him.
+L502718 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Good.
+L502717 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ He's still asleep.
+L502716 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Absolutely nothing.  How is he?
+L502715 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ And you didn't see anything at all?
+L502714 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Yes, I did.
+L502713 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ You went into the room Danny said - to 237?
+L502711 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ No, nothing at all.
+L502710 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Did you find anything?
+L502699 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Which room was it?
+L502698 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ No.  It's the truth, really.  I swear it.  Danny told me.  He went up into one of the bedrooms, the door was open, and he saw this crazy woman in the bath-tub.  She tried to strangle him.
+L502648 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I dreamed that I... that I killed you and Danny.
+L502647 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ It's okay.  It's okay, now.  Really.
+L502646 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I had... I had the most terrible nightmare I ever had.  It's the most horrible dream I ever had.
+L502563 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Fine.  Why don't you start right now and get the fuck out of here, hmm?
+L502562 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Yes.
+L502561 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ or whether you don't hear me typing, whatever the fuck you hear me doing in here, when I am in here that means that I am working - that means don't come in.  Now do you think you can handle that?
+L502560 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Fine.  Now we're going to make a new rule.  Whenever I am in here and you hear me typing,
+L502559 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Yes.
+L502558 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ and it will then take me time to get back to where I was, understand?
+L502556 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Wendy,  let me explain something to you. Whenever you come in here and interrupt me, you're breaking my concentration.
+L502555 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Okay.  I understand.  I'll come back later on with a couple of sandwiches for you and... maybe you'll let me read something then.
+L502554 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I'm not being grouchy.  I just want to finish my work.
+L502553 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Ah, come on hon.  Don't be so grouchy.
+L502552 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ What do you want me to do about it?
+L502524 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Yeah.  It's amazing how fast you get used to such a big place.  I tell you, when we first came up here, I thought it was kinda scarey.
+L502523 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I love it.  I really do.  I've never been this happy, or comfortable anywhere.
+L502522 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ It's really nice up here, isn't it?
+L502521 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Yeah... that's all it is.
+L502520 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Well, something'll come.  It's just a matter of settling back into the habit of writing every day.
+L502519 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Lots of ideas.  No good ones.
+L502518 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Any ideas yet?
+L502517 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Oh I suppose I oughta try to do some writing first.
+L502516 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ It's really pretty outside.  How about taking me for a walk after you've finished your breakfast?
+L502515 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Hmm, nice.
+L502514 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ I made 'em just the way you like 'em, sunny side up.
+L502513 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I know it.
+L502512 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ I guess we've been staying up too late.
+L502511 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Eleven thirty - Jesus!
+L502510 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ It's about eleven thirty.
+L502509 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ What time is it?
+L502508 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Good Morning, hon.  Your breakfast is ready.
+L502369 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Yeah.
+L502368 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Perfect for a child.
+L502355 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ God, I've never seen anything like this before.  Are all of these Indian designs authentic?
+L502354 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Sure is.
+L502320 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Uh...huh.
+L502319 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Boy, we must be really high up. The air feels so different.
+L502253 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Great.  Look, I'm at the hotel and I still have an awful lot to go through.  I don't think I can get home before nine or ten.
+L502252 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Hi, hon.  How's it going?
+L502251 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Hi, babe.
+L502374 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Well, it's very... homely.
+L502373 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Yes, very cosy for a family, and if you feel like spreading out you have the rest of the hotel to move around in.
+L502351 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Oh...
+L502350 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I'd better collect my family first.
+L502347 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Oh fine.  Well in view of all the ground that we to cover today, I suggest we go and have a quick look at your apartment and then get started straight away.
+L502346 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Right there.
+L502345 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Oh... Has your luggage been brought in?
+L502344 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ No, my son's discovered the games room.
+L502343 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Good.  Glad you made it before they shut down the kitchen.  Is your family having a look around?
+L502342 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ No problem.  In fact we had time to grab a bite to eat.
+L502341 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Good morning Jack.  I hope you haven't been waiting too long.
+L502247 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Well, you can rest assured Mr. Ullman, that's not going to happen with me, and eg as far as my wife is concerned, I am sure she'll be absolutely fascinated when I tell her about it.  She's a confirmed ghost story and horror film addict.
+L502246 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ put off by the idea of staying alone in a place where something like that actually happened.
+L502245 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Well, obviously some people can be
+L502242 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Well, that is eh quite a story.
+L502241 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ shut in together over long periods of time.
+L502240 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ The police eh... they thought that it was what the old-timers used to call cabin-fever, a kind of claustrophobic reaction which can occur when people are
+L502236 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Well, my predecessor in this job
+L502235 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I don't believe they did.
+L502234 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ I don't suppose they eh told you anything in Denver about the tragedy we had up here during the winter of 1970?
+L502233 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I'm intrigued.
+L502232 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ been known to give a few people second thoughts about the job.
+L502230 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Great...
+L502229 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ They'll love it.
+L502228 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ How about your wife and son?  How do you think they'll take to it?
+L502227 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Not for me.
+L502226 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ can of itself be a problem.
+L502225 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ That's very good Jack, because eh... for some people eh solitude and isolation...
+L502224 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ five months of peace is just what I want.
+L502223 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Well, that just happens to be exactly what I'm looking for.  I'm eh... I'm outlining a new writing project, and eh... 
+L502222 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Physically, it's not a very demanding job.  The only thing that can get a bit trying up here during the winter is eh... the tremendous sense of isolation.
+L502221 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Well, that sounds fine to me.
+L502220 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ ...the winters can be fantastically cruel, and the basic idea is to...to cope with the very costly damage and depreciation which can occur.  And this consists mainly of running the boiler, heating different parts of the hotel on a daily rotating basis, repairing damage as it occurs and doing repairs, so that the elements can't get a foothold.
+L502219 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Well...
+L502218 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Only in a very general way.
+L502214 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Oh, it sure would be
+L502213 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Do you mind if I ask why you do that?  It seems to me that the skiing up here would be fantastic.
+L502212 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Let's see, where were we?  Yes.  I was about to explain that eh... our season here runs from oh May 15th to October 30th and then we close down completely until the following May.
+L502178 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Susie.
+L502177 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Well, if you are going to have some, I wouldn't mind.  Thanks.
+L502176 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ JAck, just make yourself at home. Would you like some coffee?
+L502175 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Well, that's very good time, very good.  Please sit down a minute.
+L502174 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Oh, no problem at all.  I made the trip in three and a half hours.
+L502173 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Have any trouble finding us?
+L502169 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Nice to meet you, Mr. Ullman.
+L502168 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Very nice to meet you.
+L502167 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Oh, well - come on in Jack.
+L502166 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ I'm Jack Torrance.
+L502165 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Yes?
+L502164 +++$+++ u7614 +++$+++ m514 +++$+++ JACK +++$+++ Mr. Ullman?
+L502471 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Yes.
+L502470 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Just like a ghost ship, huh?
+L502469 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ By five o'clock tonight, you'll never know anybody was ever here.
+L502468 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Yes, well the guests and some of the staff left yesterday, but the last day is always very hectic - everybody wants to be on their way as early as possible.
+L502467 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ It's amazing how much activity is going on today.
+L502450 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ How're you getting on?
+L502449 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Hi.
+L502448 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Hi.
+L502409 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Thank you, Susie.
+L502408 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Thanks.
+L502388 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Boy, I bet you we could really have a good party in this room, huh hon?
+L502387 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ We can accommodate up to three hundred people here very comfortably.
+L502386 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Oh, I'll say.
+L502385 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Oh...well this is our gold ballroom.
+L502384 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Oh well he sure did a beautiful job. Pink and gold are my favorite colors.
+L502383 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ As a matter of fact we eh... brought a decorator in from Chicago just last year to refurbish this part of the hotel.
+L502363 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Oh!
+L502362 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ This is the staff wing of the hotel. None of the other bedrooms are heated during the winter.
+L502361 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ All the best people.
+L502360 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Royalty?
+L502359 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ even before anybody knew what a jet set was.  We've had four presidents who stayed here, lots of movie stars.
+L502357 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Oh well they're really gorgeous. As a matter of fact this is probably the most gorgeous hotel I've ever seen.
+L502356 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Yes, I believe they are based mainly on Navajo and Apache motifs.
+L502353 +++$+++ u7619 +++$+++ m514 +++$+++ WENDY +++$+++ Oh, it's beautiful.  My God, this place is fantastic, isn't it hon?
+L502352 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ This is our Colorado Lounge.
+L502349 +++$+++ u7618 +++$+++ m514 +++$+++ WATSON +++$+++ Fine.
+L502348 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Bill, would you have the Torrances' things brought in their apartment.
+L502338 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Well, that still gives up plenty of time to go over everything first.
+L502337 +++$+++ u7618 +++$+++ m514 +++$+++ WATSON +++$+++ Eight thirty.
+L502336 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ What time does the plane leave?
+L502205 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Jack is a schoolteacher.
+L502204 +++$+++ u7618 +++$+++ m514 +++$+++ WATSON +++$+++ Fine.
+L502203 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Jack is going to take care of the Overlook for this winter.  I would like you to take him around the place as soon as we are through.
+L502198 +++$+++ u7618 +++$+++ m514 +++$+++ WATSON +++$+++ How do you do?
+L502197 +++$+++ u7617 +++$+++ m514 +++$+++ ULLMAN +++$+++ Bill, I'd like you to meet Jack Torrance.

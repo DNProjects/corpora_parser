@@ -1,0 +1,1186 @@
+L29035 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ I call myself Phoebe.
+L29034 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Phoebe?
+L29033 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ Phoebe.
+L29032 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ And what is your name?
+L29031 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ It's a very famous name, Mr. deWitt.
+L29030 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ How do you know my name?
+L29029 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ We won't disturb her rest. It seems she left her award in the taxicab. Will you give it to her?
+L29028 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ Miss Harrington's resting, Mr. deWitt. She asked me to see who it is...
+L29027 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Hello, there. Who are you?
+L28993 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Very well. I shall drop you and go on to the party. I have no intention of missing it...
+L28992 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'm tired. I want to go home.
+L28991 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You're being childish.
+L28990 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Exactly.  Here. Take it to the party instead of me.
+L28989 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ It's the same thing, isn't it?
+L28988 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ No, it's not.  It's for this.
+L28987 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Max has gone to a great deal of trouble, it's going to be an elaborate party, and it's for you.
+L28986 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Because I don't want to.
+L28985 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Why not?
+L28984 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I don't think I'm going.
+L28983 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You can have one at Max's.
+L28982 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I don't suppose there's a drink left...
+L28962 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Couldn't go on? You'll give the performance of your life.
+L28961 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I won't play tonight.  I couldn't. Not possibly. I couldn't go on...
+L28960 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Take your nap, now. And good luck for tonight.
+L28959 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Yes, Addison.
+L28958 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ And you realize - you agree how completely you belong to me?
+L28957 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Yes, Addison.
+L28956 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Then say so.
+L28953 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I had lunch with Karen not three hours ago. As always with women who want to find out things, she told more than she learned...  ... do you want to change your story about Lloyd beating at your door the other night?
+L28952 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ No-no-no...
+L28951 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You used my name and my column to blackmail Karen into getting you the part of "Cora" - and you lied to me about it!
+L28950 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I was there, I saw you and heard you through the dressing room door!
+L28949 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ That's not true!
+L28948 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ She did like you, she helped and trusted you! You paid her back by trying to take Bill away!
+L28947 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I had to get in, to meet Margo! I had to say something, be somebody, make her like me!
+L28945 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Answer my question! Weren't you paid to get out of town?
+L28944 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ She was a liar, she was a liar!
+L28942 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ But the $500 you got to get out of town brought you straight to New York - didn't it?
+L28941 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ She never proved anything, not a thing!
+L28940 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ A matter of opinion. Granted. It is also true that you worked in a brewery. But life in the brewery was apparently not as dull as you pictured it. As a matter of fact, it got less and less dull - until you boss's wife had your boss followed by detectives!
+L28939 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ What of it?
+L28938 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ It is true that your parents were poor. They still are. And they would like to know how you are - and where. They haven't heard from you for three years...
+L28937 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ What of it?
+L28936 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Your name is not Eve Harrington. It is Gertrude Slescynski.
+L28933 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Then if you won't get out, I'll have you thrown out.
+L28932 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You're too short for that gesture. Besides, it went out with Mrs. Fiske.
+L28929 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ ... taken it for granted? That you and I...
+L28928 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ So does the history of the world for the past twenty years. I don't enjoy putting it as bluntly as this, frankly I had hoped that you would, somehow, have known - have taken it for granted that you and I...
+L28927 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Belong - to you? That sound medieval - something out of an old melodrama...
+L28926 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ A dull cliche.
+L28925 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I can't believe my ears...
+L28924 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Everything. Because after tonight, you will belong to me.
+L28923 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ What have you got to do with it?
+L28922 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ More plainly and more distinctly? I Have not come to New Haven to see the play, discuss your dreams, or to pull the ivy from the walls of Yale! I have come to tell you that you will not marry Lloyd - or anyone else - because I will not permit it.
+L28921 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ What do you mean by that?
+L28920 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Very well, plainly and distinctly. Although I consider it unnecessary - because you know as well as I, what I am about to say.  Lloyd may leave Karen, but he will not leave Karen for you.
+L28919 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Addison, will you please say what you have to say plainly and distinctly - and then get out so I can take my nap!
+L28918 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Not with me, you're no champion. You're stepping way up in class.
+L28917 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Champion to champion.
+L28916 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ - it's important right now that we talk. Killer to killer.
+L28915 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I still don't know what you're getting at. Right now I want to take my nap. It's important that I-
+L28914 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Yes, you did. You still do.
+L28913 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I never intended you to be.
+L28912 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Look closely, Eve, it's time you did. I am Addison deWitt. I'm nobody's fool. Least of all - yours.
+L28911 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'm sure you mean something by that, Addison, but I don't know what...
+L28910 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ It is possible - even conceivable - that you've confused me with that gang of backward children you've been playing tricks on - that you have the same contempt for me that you have for them?
+L28909 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I don't know what I take you for anything...
+L28908 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ What do you take me for?
+L28907 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Well, say something - anything! Congratulations, skol - good work, Eve!
+L28906 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ There never was, there'll never be another like you.
+L28905 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ We sat and talked, Addison. I want a run of the play contract.
+L28904 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You sat and talked until it was light...
+L28903 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ The setting wasn't romantic, but Lloyd was. He woke me up at three in the morning, banging on my door - he couldn't sleep, he told me - he's left Karen, he couldn't go on with the play or anything else until I promised to marry him... we sat and talked until it was light. He never went home...
+L28902 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Was the setting properly romantic - the lights on dimmers, gypsy violins off stage?
+L28901 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ We decided the night before last, before we came up here...
+L28900 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I see. And when was this unholy alliance joined?
+L28897 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ She doesn't know.
+L28896 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ ... and Karen.
+L28895 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Addison, won't it be just perfect? Lloyd and I - there's no telling how far we can go... he'll write great plays for me, I'll make them be great!  You're the only one I've told, the only one that knows except Lloyd and me...
+L28894 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ - and artistically, the most promising! Eve dear, this is Addison.
+L28893 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You have no right to say such things!
+L28892 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Lloyd Richards is commercially the most successful playwright in America-
+L28891 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'm in love with Lloyd!
+L28890 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I know nothing about Lloyd and his loves - I leave those to Louisa May Alcott. But I do know you.
+L28889 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ It's nothing of the kind! Lloyd loves me, I love him!
+L28888 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ So that's it. Lloyd. Still just the Theater, after all...
+L28886 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ What else?
+L28885 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I didn't mean just the Theater.
+L28884 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ - something about an old road ending and a new one starting - paved with stars...
+L28883 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Addison, just a few minutes ago. When I told you this would be a night to remember - that it would bring me everything I wanted-
+L28882 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ She's always been so fantastically devoted to Lloyd. I would imagine that only death or destruction could keep her-
+L28881 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Addison...
+L28879 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Lloyd and I.
+L28878 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ We're?
+L28877 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ That's for tonight. You're invited. We're having everyone up after the performance.
+L28876 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Some plain soda.  Lloyd must be expecting a record run in New Haven...
+L28875 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Lloyd. I never have any, and he likes a couple of drinks after we finish - so he sent it up...
+L28874 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Also with the reluctant compliments of Max Fabian.
+L28873 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Max is paying for it. He and Lloyd had a terrific row but Lloyd insisted... well. Can I fix you a drink?
+L28872 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Suites are for expense accounts. Aren't you being extravagant?
+L28870 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Did I say killer? I meant champion. I get my boxing terms mixed.
+L28869 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Why'd call me a killer?
+L28868 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ The mark of a true killer.  Sleep tight, rest easy - and come out fighting...
+L28867 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Why not?
+L28866 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You could sleep, too, couldn't you?
+L28865 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Plenty of time for a nice long nap - we rehearsed most of last night...
+L28864 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Almost four.
+L28863 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ What time?
+L28862 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Stars.
+L28861 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Paved with what, then?
+L28860 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You know me better than that.
+L28859 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ All paved with diamonds and gold?
+L28858 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ It'll be a night to remember. It'll bring to me everything I've ever wanted. The end of an old road - and the beginning of a new one...
+L28857 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Frankly - yes.
+L28856 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Aren't you?
+L28855 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Are you that sure of tomorrow?
+L28854 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Stop rehearsing your column... Isn't it strange, Addison? I thought I'd be panic-stricken, want to run away or something. Instead, I can't wait for tonight to come. To come and go...
+L28853 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ And tomorrow morning you will have won your beachhead on the shores of Immortality...
+L28852 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Just like it.
+L28851 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ D-day.
+L28850 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ What a day - what a heavenly day...
+L28784 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I hope you mean what you say, Eve. I intend to hold you to it.
+L28783 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I confide in you and rely on you more than anyone I've ever known! To say a thing like that now - without any reason - when I need you more than ever...
+L28782 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ It wasn't meant to be.
+L28781 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I don't think that's funny.
+L28780 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Do you know, Eve - sometimes I think you keep things from me.
+L28779 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Just like that.
+L28778 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Just like that, eh?
+L28777 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Oddly enough - she didn't say a word about Margo. Just that she'll be happy to do what she can to see that I play the part.
+L28776 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ She mentioned, of course, that Margo expects to play the part?
+L28775 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I discussed it very openly. I told her that I had spoken to Lloyd - and that he was interested.
+L28774 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Heart to heart? Woman to woman? Including a casual reference to the part of "Cora" - and your hopes of playing it.
+L28773 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Nothing of the kind. Karen and I had a nice talk.
+L28772 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I'm not surprised. After all that humble pie...
+L28771 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Just some coffee.
+L28770 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Hungry?
+L28602 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I believe I will.
+L28601 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You take charge.
+L28600 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I can wait. Where would you like to go? We'll make this a special night...
+L28599 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'm about to go into the shower, I won't be able to hear you...
+L28598 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Eddie what?
+L28597 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Eddie...
+L28596 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ A fine old theater, the Shubert. Full of tradition, untouched by the earthquake - so sorry - fire... by the way, what was your husband's name?
+L28595 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Yes. The Shubert.
+L28594 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ And that memorable night when Margo first dazzled you from the stage - which theater was it in San Francisco? Was it - the Shubert?
+L28593 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Yes. I do.
+L28592 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ San Francisco. An oasis of civilization in the California desert. Tell me, do you share my high opinion of San Francisco?
+L28591 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ That's right.
+L28590 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ - perhaps more than one. There's so much I want to know. I've heard your story in bits and pieces... your home in Wisconsin, your tragic marriage, your financial attachment to Margo - it started in San Francisco, didn't it?  I say - your idolatry of Margo started in San Francisco, didn't it?
+L28589 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'm not enough for a paragraph.
+L28588 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Let's have a minimum of pretending. I'll want to do a column about you-
+L28587 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'd love to! Or should I pretend I'm busy?
+L28586 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ After you change, if you're not busy elsewhere, we can have supper.
+L28583 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I am somebody.
+L28582 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Even if I wanted to - as you say - be less humble, blow my own horn... how would I do it? I'm less than nobody.
+L28581 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ It needn't be.
+L28580 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Even so. One isolated pretty good performance by an understudy. It'll be forgotten tomorrow.
+L28579 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ We all come into this world with our little egos equipped with individual horns. If we don't blow them - who will?
+L28578 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I don't think I've done anything to sound off about.
+L28577 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I think the time has come for you to shed some of your humility. It is just as false not to blow your horn at all as it is to blow it too loudly...
+L28576 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Please do.
+L28575 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ A revolutionary approach to the Theater. However, if I may a suggestion...
+L28574 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ It's not modesty. I just don't try to kid myself.
+L28573 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You're more than modest.
+L28572 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You're more than kind. But it's still Miss Channing's performance. I'm just a carbon copy you read when you can't find the original...
+L28571 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Of course your performance was no surprise to me. After the other day I regarded it as no more than - a promised fulfilled.
+L28570 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I consider myself lucky they didn't throw things.
+L28569 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I expected to find this little room overcrowded, with a theater full of people at your feet...
+L28568 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Certainly, Mr. deWitt...
+L28567 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ May I come in?
+L28338 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ That's all television is, my dear. Nothing but auditions.
+L28337 +++$+++ u3608 +++$+++ m238 +++$+++ MISS CASWELL +++$+++ Tell me this. Do they have auditions for television?
+L28336 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You next move, it seems to me, should be toward television.
+L28335 +++$+++ u3608 +++$+++ m238 +++$+++ MISS CASWELL +++$+++ Like I just swam the English Channel. Now what?
+L28334 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Feeling better, my dear?
+L28222 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Because that is what they are. Go make him happy.
+L28221 +++$+++ u3608 +++$+++ m238 +++$+++ MISS CASWELL +++$+++ Why do they always look like unhappy rabbits?
+L28220 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Claudia dear, come closer.  This is Max Fabian. He is a producer. Go do yourself some good.
+L28212 +++$+++ u3608 +++$+++ m238 +++$+++ MISS CASWELL +++$+++ That's how you met me. In passing.
+L28211 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ This must be, at long last, our formal introduction. Until now we have met only in passing...
+L28208 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Miss Caswell is an actress. A graduate of Copacabana School of Dramatic Arts.  Ah... Eve.
+L28207 +++$+++ u3608 +++$+++ m238 +++$+++ MISS CASWELL +++$+++ We never met. That's why.
+L28118 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You have me confused with Dan Dailey. You go sit by the piano.  And you come sit by me.  Good night.
+L28117 +++$+++ u3608 +++$+++ m238 +++$+++ MISS CASWELL +++$+++ Let's go sit by the piano.
+L28070 +++$+++ u3608 +++$+++ m238 +++$+++ MISS CASWELL +++$+++ I don't want to make trouble. All I want is a drink.
+L28069 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You have a point. An idiotic one, but a point.
+L28068 +++$+++ u3608 +++$+++ m238 +++$+++ MISS CASWELL +++$+++ Well, I can't yell "Oh, butler," can I? Maybe somebody's name is Butler...
+L28067 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ That isn't a waiter, my dear. That's a butler.
+L28050 +++$+++ u3608 +++$+++ m238 +++$+++ MISS CASWELL +++$+++ Now there's something a girl could make sacrifices for.
+L28049 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Every now and then, some elder statesman of the Theater or cinema assures the public that actors and actresses are just plain folk. Ignoring the fact that their greatest attraction to the public is their complete lack of resemblance to normal human beings.
+L28980 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ As soon as the peasants stop pawing her.
+L28979 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ I'm giving her a very high-class party. It ain't like a rehearsal, she don't have to be late.
+L28116 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ And too many of them are produced.
+L28115 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ In my case it's necessary. Too many taxi drivers write plays.
+L28062 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ We all have abnormality in common. We are a breed apart from the rest of the humanity, we Theater folk. We are the original displaced personalities...
+L28061 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ This answer satisfies me a hundred percent.
+L28060 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ What makes a man walk into a lion cage with nothing but a chair?
+L28059 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ Answer me this. What makes a man become a producer?
+L28056 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ Gable. Why a feller like that don't come East to do a play...
+L28055 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ It is senseless to insist that theatrical folk in New York, Hollywood and London are no different from the good people of Des Moines, Chillicothe and Liverpool. By and large, we are concentrated gatherings of neurotics, egomaniacs, emotional misfits, and precocious children-
+L28622 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ She may be later than you think...
+L28621 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ It's new Margo. But she's just as late as the old one.
+L28620 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Margo? Lunching in public?
+L28619 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Margo.
+L28618 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ From the smartness of your dress, I take it your luncheon companion is a lady?
+L28613 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ A happy coincidence.
+L28612 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ You were there? At the play - last night?
+L28611 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I was there. An eyewitness.
+L28610 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Then you've heard too.
+L28609 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ She was magnificent.
+L28094 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Hear, hear...
+L28093 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Then stop being a star - start treating your guests as your supporting cast!
+L28333 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ To the best of my recollection, neither your name nor your performance entered the conversation.
+L28332 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ The implication being that I have not been reading them as written.
+L28331 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Eve was incredibly modest. She insisted that no credit was due her, that Lloyd felt as he did only because she read lines exactly as he had written them.
+L28330 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ How nice for Lloyd. And how nice for Eve. How nice for everybody.
+L28329 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Bill didn't say - but Lloyd was beside himself. He listened to his play as if someone else had written it, he said, it sounded so fresh, so new, so full of meaning...
+L28328 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ A mass of music and fire. That's me. An old kazoo and some sparkles. Tell me - was Bill swept away, too, or were you too full of Revelation to notice?
+L28327 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ In time she'll be what you are.
+L28326 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ How nice.
+L28325 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ It wasn't reading, it was a performance. Brilliant, vivid, something made of music and fire...
+L28324 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I take it she read well.
+L28323 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Margo, as you know, i have lived in the Theater as a Trappist monk lives in his faith. I have no other world, no other life - and once in a great while I experience that moment of Revelation for which all true believers wait and pray. You were one. Jeanne Eagels another... Paula Wessely... Hayes - there are others, three or four. Eve Harrington will be among them...
+L28322 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Was she that bad?
+L28321 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Completely. Nor, I am sure, could anyone else present tell you how Miss Caswell read or whether Miss Caswell read or rode a pogo stick.
+L28320 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Just slipped your mind.
+L28319 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Frankly, I don't remember.
+L28318 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ How... how was Miss Caswell?
+L28317 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ It just slipped your mind.
+L28316 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Of course I knew.
+L28315 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Didn't you know?
+L28314 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Eve! My understudy...
+L28313 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I refer to your new and unpregnant understudy. Eve Harrington.
+L28312 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I consider it highly unnatural to allow a girl in an advanced state of pregnancy-
+L28311 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Naturally enough, your understudy.
+L28310 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Is it really? I must start wearing a watch, I never do, you know... who read with Miss Caswell? Bill?  Lloyd?  Well, it couldn't have been Max! Who?
+L28309 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ The audition was called for 2:30. It is now nearly four.
+L28308 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Over? It can't be. I've come to read with her. I promised Max.
+L28307 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Miss Caswell got lucky too late. The audition is over.
+L28306 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ It's good luck before an audition. She'll be all right once it starts.
+L28305 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Being violently ill to her tummy.
+L28304 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ The ladies' - shall we say - lounge?
+L28303 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Miss Caswell, at the moment, is where I can lend no support - moral or otherwise.
+L28302 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Why so remote, Addison? I should think you'd be at the side of your protegee, lending her moral support...
+L28224 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Amen.
+L28223 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You mustn't worry about your little charge. She is in safe hands.
+L28217 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Then you two must have a long talk-
+L28216 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ We have that in common.
+L28215 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You've heard of her great interest in the Theater-
+L28214 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ It could only have been your natural timidity that kept you from mentioning it...
+L28213 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Eve, this is an old friend of Mr. deWitt's mother - Miss Caswell, Miss Harrington...  Addison, I've been wanting you to meet Eve for the longest time-
+L28206 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I do not. How do you do?
+L28205 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Dear Margo. You were an unforgettable Peter Pan - you must play it again, soon. You remember Miss Caswell?
+L28204 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I distinctly remember striking your name from the guest list. What are you doing here?
+L28827 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Everything... everything's so funny...
+L28826 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Nothing?
+L28693 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Tomorrow we meet at City Hall at ten-  - and you're going to be on time.
+L28692 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ When? When are you going to do it?
+L28634 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Maybe just a little around the edges.
+L28633 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I guess at this point I'm what the French call 'de trop'...
+L28199 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ We know you, we've seen you before like this. Is it over - or just beginning?
+L28198 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Macbeth.
+L27813 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Geniuses don't need good luck.  I do.
+L27812 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Good luck, genius...
+L27799 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ That's nice.
+L27798 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Right here. A minute ago.
+L27797 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Where?
+L27796 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ You've already met.
+L27791 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ This is Eve Harrington.
+L27790 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Huh?
+L27789 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Bill!
+L27785 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Bill-
+L27784 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ The air lines have clocks, even if you haven't! I start shooting a week from Monday - Zanuck is impatient, he wants me, he needs me!
+L27783 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Bill...
+L28815 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ A foursquare, upright, downright, forthright married lady... that's for me. And no more make believe! Off stage or on... remember, Lloyd.  I mean it, now. Grown-up women only, I might even play a mother - only one child, of course, not over eight...  Lloyd, will you promise not to be angry with me?
+L28814 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Often enough to keep the franchise.
+L28811 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I'm going to have a home. Not just a house I'm afraid to stay in... and a man to go with it. I'll look up at six o'clock - and there he'll be... remember, Karen?
+L28810 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ With the paper to prove it.
+L28809 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ A married lady.
+L28808 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ A cowboy.
+L28807 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You know what I'm going to be?
+L28806 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Yes, dear.
+L28805 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Groom.
+L28804 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Never try to outguess Margo.
+L28800 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You know why I forgive Eve? Because she's left good behind - the four of us, together like this, it's Eve's fault - I forgive her...
+L28799 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ You've got it backwards. Even for Wilkes-Barre.
+L28798 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ There goes Eve. Eve evil, Little Miss Evil. But the evil that men do - how does it go, groom? Something about the good they leave behind - I played it once in rep in Wilkes Barre...
+L28797 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I want everybody to shut up about Eve. Just shut up about Eve, that's all I want. Give Karen more wine...  ... never have I been so happy. Isn't this a lovely room? The Cub Room. What a lovely, clever name. Where the elite meet. Never have I seen so much elite - and all with their eyes on me. Waiting for me to crack that little gnome over the noggin with a bottle. But not tonight. Even Eve. I forgive Eve... there they go.
+L28796 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ What would you like? Texas?
+L28795 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Groom-  - may I have a wedding present?
+L28711 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Pass me the empty bottle. I may find her... why, look. There's Rasputin.
+L28710 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I understand she is now the understudy in there.
+L28709 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ "Please forgive me for butting into what seems such a happy occasion - but it's most important that I speak with you. Please" - it's underlined - "meet me in the Ladies' Room. Eve."
+L28701 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ The point is - in the cathedral, a ball park or a penny arcade - we want to have you two beside us our nearest and dearest friends.
+L28700 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Something simple. A fur coat over a nightgown...
+L28697 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I'll marry you if it turns out you have no blood at all.
+L28696 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ It's only for the license. There's a three-day wait - blood tests, things like that...
+L28688 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Glory Hallelujah.
+L28687 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ To Margo. To my bride-to-be.
+L28681 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ You were great.
+L28680 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ He does not exaggerate. I was good.
+L28679 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ But you may quote me as follows. Quote. Tonight Miss Margo Channing gave a performance in your cockamamie play, the like of which I have never seen before and expect rarely to see again. Unquote.
+L28678 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Hear, hear...
+L28677 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ The so-called art of acting is not one for which I have a particularly high regard...
+L28446 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ That suddenly makes the whole thing believable.
+L28445 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Bill...  ... where are you going? To find Eve?
+L28444 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I think you do know but you won't or can't tell me.  I said before it was going to be my last try, and I meant it. I can't think of anything else to do. I wish I could.  We usually wind up screaming and throwing things as the curtain comes down. Then it comes up again and everything's fine. But not this time.  You know there isn't a playwright in the world who could make me believe this would happen between two adult people. Goodbye, Margo.
+L28443 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I - I don't know, Bill. Just a feeling, I don't know...
+L28442 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ You've had so many reasons for not wanting to marry me... Margo, tell me what's behind all this.
+L28441 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I wouldn't want you to marry me just to prove something.
+L28440 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Then what would be enough?  If we were married?
+L28439 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I wish it were.
+L28438 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ But if I tell you it is - as I just did. Were you listening to me?  Isn't that enough?
+L28437 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ It's not nonsense.
+L28436 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Just being happy? Just stopping all this nonsense about Eve - and Eve and me?
+L28435 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ The terms are too high. Unconditional surrender.
+L28434 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Margo, let's make peace.
+L28433 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I admit I may have seen better days, but I am still not to be had for the price of a cocktail - like a salted peanut.
+L28432 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Come on, get up. I'll buy you a drink.
+L28431 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Don't be condescending.
+L28430 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I'll say.
+L28429 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Well, I am.
+L28428 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I've been aware of that for some time.
+L28427 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ It's obvious you're not a woman.
+L28426 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ It's time you found out. I love you.  I love you. You're a beautiful and intelligent woman-  - a beautiful and intelligent woman and a great actress-  - at the peak of her career. You have every reason for happiness-  - every reason, but due to some strange, uncontrollable, unconscious drive you permit the slightest action of a kid-  - kid like Eve to turn you into a hysterical, screaming harpy! Now once and for all, stop it!
+L28425 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ That word again! I don't even know what it means...
+L28424 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ No, I'll tell it to you! For the last time, I'll tell it to you. Because you've got to stop hurting yourself, and me, and the two of us by these paranoiac tantrums!
+L28423 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Tell that to Dr. Freud! Along with the rest of it...
+L28422 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I didn't know Eve Harrington was your understudy until half past two this afternoon!
+L28421 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Paranoiac!
+L28420 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I am sick and tired of these paranoiac outbursts!
+L28419 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ The playwright doesn't make the performance - and it doesn't just happen! And this one didn't - full of fire and music and whatnot, it was carefully rehearsed I have no doubt, over and over, full of those Bill Sampson touches!
+L28418 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ You've been all through that with Lloyd-
+L28417 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ - shows up for an audition when everyone knew I'd be here... and gives a performance! Out of nowhere - gives a performance!
+L28416 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Now don't get carried away-
+L28415 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Such nonsense, what do you all take me for - little Nell from the country? Been my understudy for over a week without my knowing, carefully hidden no doubt-
+L28414 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Here we go...
+L28413 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Well, you needn't. I will not be tolerated. And I will not be plotted against!
+L28412 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I'm trying terribly hard.
+L28411 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You're being terribly tolerant, aren't you?
+L28410 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Don't calm down.
+L28409 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I will not calm down!
+L28408 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ The gong rang. The fight's over. Calm down.
+L28407 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ The ex-ship news' reporter. No body, no voice, all mind!
+L28406 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ What a body, what a voice.
+L28405 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I'm nothing but a body with a voice. No mind.
+L28404 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Okay. Mix.
+L28403 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I mix what I like.
+L28402 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Don't mix your metaphors.
+L28401 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Poor little flower. Just dropped her petals and folded her tent...
+L28400 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I wouldn't be surprised. Sometimes you frighten me.
+L28399 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I must have frightened her away.
+L28398 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Gone.
+L28397 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ The kid. Junior.
+L28396 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Who?
+L28395 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ And you, I take it, are the Paderewski who plays his concerto on me, the piano?  Where is Princess Fire-and-Music?
+L28370 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ So full of meaning, fire and music!
+L28369 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Addison-!
+L28357 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You wouldn't understand.  How was Miss Caswell?
+L28356 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ What fire and music?
+L28345 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Eve?  How enchanting...  Wherever did you get the idea of having Eve read with Miss Caswell?
+L28344 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ The audition.
+L28343 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ What's all over?
+L28342 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ It's all over.
+L28243 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Everybody has a heart - except some people.  Of course I've got bicarb. There's a box in the pantry. We'll put your name on it. Max Fabian. It'll say there. Always. Just for you.
+L28242 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ No heart to burn.
+L28239 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ If my guests do not like it here, I suggest they accompany you to the nursery where I'm sure you will all feel more at home.
+L28238 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Then without feeling, your guests were also wondering whether the music couldn't be a shade more on the - shall we say, happier side?
+L28237 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You know nothing about feelings, natural or unnatural.
+L28236 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Wouldn't you feel more natural taking a bow?
+L28235 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ It hasn't been laid out, we haven't finished with the embalming. As a matter of fact, you're looking at it. The remains of Margo Channing. Sitting up. It is my last wish to be buried sitting up.
+L28234 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Many of your guests have been wondering when they may be permitted to view the body. Where has it been laid out?
+L28195 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I can always get a fresh one. Karen - you're a Gibson girl...
+L28194 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ The kid - junior, that is - will be right down. Unless you'd like to take her drink up to her...
+L28193 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Nothing, really...
+L28192 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Thank you.
+L28171 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Cut! Print it! What happens in the next reel? Do I get dragged off screaming to the snake pit?
+L28170 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ She hasn't cut them yet, and you know it! So when you start judging an idealistic dreamy-eyed kid by the barroom, Benzedrine standards of this megalomaniac society - I won't have it! Eve Harrington has never by word, look, thought or suggestion indicated anything to me but her adoration for you and her happiness at our being in love! And to intimate anything else doesn't spell jealousy to me - it spells a paranoic insecurity that you should be ashamed of!
+L28169 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ What about her teeth? What about her fangs?
+L28168 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Mad! Darling, there are certain characteristics for which you are famous - on stage and off. I love you for some of them - and in spite of others. I haven't let those become too important to me. They're part of your equipment for getting along in what is laughably called out environment - you've got to keep your teeth sharp. All right. But you will not sharpen them on me - or on Eve...
+L28167 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ - guilty.
+L28166 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ This is my cue to take you in my arms and reassure you - but I'm not going to. I'm too mad-
+L28165 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ For instance - you!
+L28164 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ For instance what?
+L28163 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Stop calling her a kid! It so happens there are particular aspects of my life to which I would like to maintain sole and exclusive rights and privileges!
+L28162 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Now how can you take offense at a kid trying in every way to be as much like her ideal as possible!
+L28161 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Stage-struck kid... she's a young lady - of qualities. And I'll have you know I'm fed up with both the young lady and her qualities! Studying me as if - as if I were a play or a set of blueprints! How I walk, talk, think, eat, sleep!
+L28160 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Thirty minutes, forty minutes! What of it?
+L28159 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Twenty minutes!
+L28158 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Of course it's funny - this is all too laughable to be anything else. You know what I think about this - this age obsession of yours - and now this ridiculous attempt to whip yourself up into a jealous froth because I spent ten minutes with a stage-struck kid-
+L28157 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I don't think that's funny!
+L28156 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I've always denied the legend that you were in 'Our American Cousin' the night Lincoln was shot...
+L28155 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Clyde Fitch, thought you may not think so, was well before my time!
+L28154 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I can't believe you're making this up - it sounds like something out of an old Clyde Fitch play...
+L28153 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ So you've pointed out, so often. So many qualities, so often. Her loyalty, efficiency, devotion, warmth, affection - and so young. So young and so fair...
+L28152 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ So she seems.
+L28151 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ She's a girl of so many rare qualities.
+L28150 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ It's a pretty rare quality these days.
+L28149 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ She's a girl of so many interests.
+L28148 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Well, we started talking, she wanted to know all about Hollywood, she seemed so interested...
+L28147 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ That never stopped you before.
+L28146 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I ran into Eve on my way upstairs; she told me you were dressing.
+L28145 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I had no idea you were even here.
+L28144 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ When I'm guest of honor?
+L28143 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I thought you were going to be late-
+L28142 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Looks like I'm going to have a very fancy party...
+L28138 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Remind me to tell you about when I looked into the heart of an artichoke.
+L28137 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ You've heard it. About when I looked through the wrong end of a camera finder.
+L28136 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Don't let me kill the point. Or isn't it a story for grownups?
+L28099 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ To put me to bed? Take my clothes off, hold my head, tuck me in, turn off the lights, tiptoe out...? eve would. Wouldn't you, Eve?
+L28098 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Need any help?
+L28092 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ This is my house, not a theater! In my house you're a guest, not a director-!
+L28091 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Cut it out.
+L28090 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Happy little housewife...
+L28088 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ It won't play.
+L28087 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ It's a good thought.
+L28081 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You're in a beehive, pal, didn't you know? We're all busy little bees, full of stings, making honey day and night-  - aren't we, honey?
+L28080 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Outside of a beehive, Margo, your behavior would hardly be considered either queenly or motherly!
+L27978 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ See you...
+L27977 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I love you too. Good night, darling-
+L27976 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ What?
+L27975 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I'll check with Eve...
+L27974 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I love you...
+L27973 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Okay.
+L27972 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ How is Eve? Okay?
+L27971 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Yeah... I will.
+L27970 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ She hasn't missed a week since I left - but you know all that, you probably tell her what to write... anyway, I sent her a list of people to ask - check with her.
+L27969 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ She did...?
+L27968 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ It's no secret, I know all about the party - Eve wrote me...
+L27967 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Of course, birthday and welcome home... who'll I ask?
+L27966 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I get a party, don't I?
+L27965 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Many happy returns of the day...
+L27964 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ The reading could have been better, but you said it - now "many happy returns of the day..."
+L27963 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Happy birthday, darling...
+L27962 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ And who remembered it? Who was there on the dot, at twelve midnight...?
+L27961 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Bill... Bill, it's your birthday.
+L27960 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Sure! Like the Western Union boys used to do...
+L27959 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Sing it?
+L27958 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Kid stuff or not, it doesn't happen every day, I want to heat it - and if you won't say it, you can sing it...
+L27957 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Bill, you know how much I do - but over the phone, now really, that's kid stuff...
+L27956 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Wait a minute! You can't hang up, you haven't even said it-
+L27955 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ A big hurry, be quick about it - so good night, darling, and sleep tight...
+L27954 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ You in a hurry?
+L27953 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ - in a tin can, cellophane or wrapped in a Navajo blanket, I want you home...
+L27952 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I leave in a week - the picture's all wrapped up, we previewed last night... those previews. Like opening out of town, but terrifying. There's nothing you can do, you're trapped, you're in a tin can-
+L27951 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ When - when are you coming back?
+L27950 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Then you're crazy.
+L27949 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ That I am...
+L27948 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ You're my girl, aren't you?
+L27947 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Bill? Have I gone crazy, Bill?
+L27946 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ What a thoughtful, ever-lovin' thing to do-
+L27897 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Call me when you get in...
+L27896 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Knit me a muffler.
+L27892 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ As of this moment you're six years old...
+L27891 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Am I going to lose you, Bill? Am I?
+L27890 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ And cut that out right now.
+L27889 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I don't want to be childish, I'd settle for just a few years-
+L27888 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ How childish are you going to get before you quit it?
+L27887 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ - you're a setup for some gorgeous wide-eyed young babe.
+L27886 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Everybody can't be Gregory Peck.
+L27885 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You're not such a bargain, you know, conceited and thoughtless and messy-
+L27884 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I'll try.
+L27883 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Don't get stuck on some glamour puss-
+L27882 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Huh?
+L27881 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Bill...
+L27880 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I understand they've got the Indians pretty well in hand...
+L27879 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Take care of yourself out there...
+L27878 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ All the religions in the world rolled into one, and we're Gods and Goddesses... isn't it silly, suddenly I've developed a big protective feeling for her - a lamb loose in our big stone jungle...
+L27877 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I told her. I sounded off.
+L27876 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Did she tell you about the Theater and what it meant?
+L27875 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ The lack of pretense, that sort of strange directness and understanding-
+L27874 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Eve. I'd forgotten they grew that way...
+L27873 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ She's quite a girl, that what's-her name...
+L27863 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Byron couldn't have said it more graciously... here we go-
+L27862 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Like a nylon lemon peel-
+L27861 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Can't keep his eyes off my legs.
+L27858 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Where's my coat?
+L27857 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Real diamonds in a wig. The world we live in...
+L27856 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Oh well...  ... look through the wigs, maybe it got caught-
+L27793 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Heaven help me, I love a psychotic.
+L27792 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Hi.  My wonderful junk yard. The mystery and dreams you find in a junk yard-
+L27788 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I'm a junk yard.
+L27787 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Only in some ways. You're prettier...
+L27782 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Show me a human and I might have!
+L27781 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Is it sabotage, does my career mean nothing to you? Have you no human consideration?
+L27780 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Thank you so much.
+L27779 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Forty-five minutes from now my plane takes off and how do I find you? Not ready yet, looking like a junk yard-
+L28565 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Only thing, what I go after, I want to go after. I don't want it to come after me.
+L28564 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Find out.
+L28563 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I'm only human, rumors to the contrary. And I'm as curious as the next man...
+L28562 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You hear all kinds of things.
+L28561 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I'm in love with Margo. Hadn't you heard?
+L28560 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You think?
+L28559 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ You're quite a girl.
+L28558 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ - and for you.
+L28557 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Your make-up's a little heavy.
+L28556 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ When you told me that whatever I became, it would be because of you-
+L28555 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ When I told you what every young actress should know.
+L28554 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Then face it. I have. Since that first night - here - in the dressing room.
+L28553 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I'm for it.
+L28552 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You're always after truth - on the stage. What about off?
+L28551 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ From what would I be running?
+L28550 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Don't run away, Bill.
+L28549 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ The names I've been called. But never Svengali.  Good luck.
+L28548 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Everything.
+L28547 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ What have I got to do with it?
+L28546 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ So am I.
+L28545 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I'm talking about you. And what you want.
+L28544 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Is that what you want me to be?
+L28543 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ - after all, the other day was one scene, the woods are full of one scene sensations. But you did it. With work and patience, you'll be a fine actress. If that's what you want to be.
+L28542 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You shouldn't have had any doubts.
+L28541 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I'll admit I was worried when Max called. I had my doubts.
+L28540 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Are you proud of me, Bill?
+L28539 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ - little things here and there, it doesn't matter. You can be proud of yourself, you've got a right to be.
+L28076 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ It means concentration of ambition, desire, and sacrifice such as no other profession demands... And I'll agree that the man or woman who accepts those terms can't be ordinary, can't be - just someone. To give so much for almost always so little...
+L28075 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Yes. Yes, it does.
+L27895 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Goodbye, Mr. Sampson.
+L27894 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Thanks for your help... good luck.
+L27872 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Of course not.
+L27871 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I think we'd like very much. Sure you won't mind?
+L27870 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I have a suggestion.  There's really not much time left - I mean, you haven't had a minute alone yet, and - well, I could take care of everything here and meet you at the gate with the ticket... if you'd like.
+L27869 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Ah...
+L27851 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ You didn't have to tell me.
+L27850 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Every day.
+L27849 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Also Addison deWitt.
+L27848 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I read George Jean Nathan every week.
+L27847 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Yeah. They keep you under drugs out there with armed guards...
+L27846 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ So few come back...
+L27845 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ It's only one picture deal.
+L27844 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ But Hollywood. You mustn't stay there.
+L27843 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ And I shot my mouth off. Nothing personal, junior, no offense...  ... it's just that there's so much bushwah in this Ivory Green Room they call the Theatuh - sometimes it gets up around my chin...
+L27842 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I just asked a simple question.
+L27841 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ The Theatuh, the Theatuh-  - what book of rules says the Theater exists only within some ugly buildings crowded into one square mile of New York City? Or London, Paris or Vienna?  Listen, junior. And learn. Want to know what the Theater is? A flea circus. Also opera. Also rodeos, carnivals, ballets, Indian tribal dances, Punch and Judy, a one-man band - all Theater. Wherever there's magic and make-believe and an audience - there's Theater. Donald Duck, Ibsen, and The Lone Ranger, Sarah Bernhardt, Poodles Hanneford, Lunt and Fontanne, Betty Grable, Rex and Wild, and Eleanora Duse. You don't understand them all, you don't like them all, why should you? The Theater's for everybody - you included, but not exclusively - so don't approve or disapprove. It may not be your Theater, but it's Theater of somebody, somewhere.
+L27840 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Then why? Why, if you're the best and most successful young director in the Theater-
+L27839 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Eighty percent of it will go for taxes.
+L27838 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Is it the money?
+L27837 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I don't have to. I want to.
+L27836 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Why you have to go out there.
+L27835 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Why what?
+L27834 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Why.
+L27833 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Just wondered what?
+L27832 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I just wondered.
+L27831 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Why?
+L27825 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ I told you a lie. We'll make it easily. Margo's got no more conception of time than a halibut.
+L27824 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You said forty-seven minutes. You'll never make it.
+L27795 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Eve. Eve Harrington.
+L27794 +++$+++ u3600 +++$+++ m238 +++$+++ BILL +++$+++ Hello, what's your name?
+L28048 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ They can always grab oranges off trees. This you can't do in Times Square...
+L28047 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Bill says actors out there eat just as infrequently as here-
+L28046 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ A diamond collar, gold sleeves - you know, picture people...
+L28045 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ What did you expect - live sables?
+L28044 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ She's on her way. With half the men in the joint.  It's only a fur coat...
+L28043 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ But she just got here...
+L28042 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ The bed looks like a dead animal act. Which one is sables?
+L27702 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ I know. She just keeps hearin' her dead father play the banjo.
+L27701 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Margo does not play a lunatic, Birdie.
+L27688 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ No thanks, Birdie.
+L27687 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ Lemme fix you a drink.
+L28134 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Well, I certainly think it's odd he hasn't even come up...
+L28133 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ I ain't dense. And he's been here twenty minutes.
+L28132 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Don't be dense. The party.
+L28131 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ Late for what?
+L28130 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ The only thing I ordered by mistake is the guests.  They're domestic, too, and they don't care what they drink as long as it burns... where's Bill? He's late.
+L28129 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ There was nothing he didn't know.  There's a message from the bartender. Does Miss Channing know we ordered domestic gin by mistake?
+L28128 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ That French ventriloquist taught you a lot, didn't he?
+L28127 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ The caterer had to back for hors d'oeuvres-  Voila.
+L28126 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You're not being funny, I could get actors for less. What about the food?
+L28125 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ There's some loose characters dressed like maids and butlers. Who'd you call - the William Morris Agency?
+L28124 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ My back's open.  Did the extra help get here?
+L28123 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ You all put together?
+L27995 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I'm sure that's very flattering, Birdie, and I'm sure there's nothing wrong with that!
+L27994 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ I'll tell you how. Like - let's see - like she was studyin' you, like you were a play or a book or a set of blueprints. How you walk, talk, think, eat, sleep-
+L27993 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ How do you mean that?
+L27992 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ Well... let's say she thinks only about you, anyway...
+L27991 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ She thinks only for me...  ... doesn't she?
+L27990 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ Like an agent with one client.
+L27989 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ She's loyal and efficient-
+L27988 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ Night an' day.
+L27987 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ She works hard.
+L27986 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ Now you want an argument.
+L27985 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Why not?
+L27984 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ No.
+L27983 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ An answer.
+L27982 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ Do you want an argument or an answer?
+L27981 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You don't like Eve, do you?
+L27980 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ Hmm?
+L27979 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Birdie-
+L27934 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ She's got two things to do - carry clothes an' press 'em wrong - an' just let anybody else muscle in...
+L27933 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Oh-oh.
+L27932 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ But the wardrobe women have got one. And next to a tenor, a wardrobe woman is the touchiest thing in show business-
+L27931 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Well?
+L27930 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ I haven't got a union. I'm slave labor.
+L27929 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Behind in your dues? How much?
+L27928 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ If I may so bold as to say something - did you ever hear the word "union"?
+L27924 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Just because you can't even work a zipper. It was very thoughtful, Eve, and I appreciate it-
+L27923 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ Adorable. We now got everything a dressing room needs except a basketball hoop.
+L27918 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ I couldn't get into the girdle in two an' a half hours...
+L27917 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ When we get home you're going to get into one of those girdles and act for two and half hours.
+L27916 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ Something maybe grew a size bigger.
+L27915 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You bought the new girdles a size smaller. I can feel it.
+L27867 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ See you home...
+L27866 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ Kill the people.  Got your key?
+L27801 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ Imagine. All this admiration in just one room.
+L27800 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ She, too, is a great admirer of yours.
+L27776 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ You don't have to apologize for me!  I'm sorry if I hurt your feelings. It's just my way of talkin'...
+L27775 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ There are some human experiences, Birdie, that do not take place in a vaudeville house - and that even a fifth-rate vaudevillian should understand and respect!  I want to apologize for Birdie's-
+L27738 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ If I haven't, I'll find something till you're normal.
+L27737 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I'm sure you must have things to do in the bathroom, Birdie dear.
+L27734 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Miss Coonan...
+L27733 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ Oh, brother.
+L27732 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ And this is my good friend and companion, Miss Birdie Coonan.
+L27727 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ Oh, brother.
+L27726 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ How do you do, my dear.
+L27700 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ Well. I guess a real tight girdle help when you're playin' a lunatic.
+L27699 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Of course!
+L27698 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ The same size?
+L27697 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Buy some.
+L27696 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ You need new girdles.
+L27692 +++$+++ u3601 +++$+++ m238 +++$+++ BIRDIE +++$+++ I never played Fort Sumter.
+L27691 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ It was Fort Sumter they fired on-
+L29026 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ You rest. I'll get it...
+L29025 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ That's the door.
+L29024 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ I don't care if I never get home.
+L29023 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ It's after one now. You won't get home till all hours.
+L29022 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ With changing and everything, a little over an hour.
+L29021 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ How long does it take?
+L29020 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ Subway.
+L29019 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ How'd you get all the way up here from Brooklyn?
+L29018 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Don't bother.
+L29017 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ I'll just pick up the broken glass.
+L29016 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ The maid'll fix it in the morning.
+L29015 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ That spilled drink is going to ruin your carper.
+L29014 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I might.
+L29013 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ You're going to Hollywood - aren't you?  From the trunks you're packing, you must be going to stay a long time.
+L29012 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ Lots of actresses come from Brooklyn. Barbara Stanwyck, Susan Hayward - of course, they're just movie stars.
+L29011 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Erasmus Hall. That's in Brooklyn, isn't it?
+L29010 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ Ours was one of the first. Erasmus Hall. I'm the president.
+L29009 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I've heard of them.
+L29008 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ About how you live, what kind of clothes you wear - what kind of perfume and books - things like that. You know the Eve Harrington clubs - that they've got in most of the girls' high schools?
+L29007 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ What report? To whom?
+L29006 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ It was for my report.
+L29005 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Probably not.
+L29004 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ You probably won't believe me.
+L29003 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ What for?
+L29002 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ That's all.
+L29001 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You were just looking around...
+L29000 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ I hid outside in the hall till the maid came to turn down your bed. She must've forgot something and when she went to get it, she left the door open. I sneaked in and hid till she finished. Then I just looked around - and pretty soon I was afraid somebody'd notice the lights were on so I turned them off - and then I guess, I fell asleep.
+L28999 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ How did you get in here?
+L28998 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ Please don't have me arrested, please! I didn't steal anything - you can search me!
+L28997 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ I - I guess I fell asleep.
+L28996 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ What are you doing here?
+L28995 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ Miss Harrington...
+L28994 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Who are you?
+L28978 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Thank you, Karen.
+L28977 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Congratulations, Eve.
+L28899 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ But not all of it - not that Lloyd and I are going to be married.
+L28898 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ She knows enough not to be here.
+L28769 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'd do much more - for a part that good.
+L28768 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ A part in a play. You'd do all that - just for a part in a play.
+L28767 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ That won't be necessary. Addison knows how Margo happen to miss that performance - how I happened to know she'd miss it in time to call him and notify every paper in town...  ... it's quite a story. Addison could make quite a thing of it - imagine how snide and vicious he could get and still write nothing but the truth. I had a time persuading him...  ... you'd better sit down. You look a bit wobbly.  If I play "Cora," Addison will never tell what happened - in or out of print. A simple exchange of favors. And I'm so happy I can do something for you - at long last...  Your friendship with Margo - your deep, close friendship - what would happen to it, do you think, if she knew the chap trick you'd played on her - for my benefit? And you and Lloyd - how long, even in the Theater, before people forgot what happened - and trusted you again?  No... it would be so much easier on everyone concerned, if I were to play "Cora." And so much better theater, too...
+L28766 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Over my dead body...
+L28765 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Addison wants me to play it.
+L28764 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I don't think anything in the world could make me say that.
+L28763 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ "Cora" is my part. You've got to tell Lloyd it's for me.
+L28762 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ You talk just as Addison said you did.
+L28761 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ It could have been - fifteen years ago. It's my part now.
+L28760 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ After all you've said... don't you know the part was written for Margo?
+L28759 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ If you told him so, he'd give me the part. He said he would.
+L28758 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ You want to play "Cora." You want me to tell Lloyd I think you should play it.
+L28757 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Something most important you can do.
+L28756 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I think I know...
+L28754 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Give yourself time. Don't worry too much about what people think, you're very young and very talented...  ... and, believe it or not, if there's anything I can do-
+L28753 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I wish I could believe that.
+L28752 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Yes, you will. You Theater people always do. Nothing is forever in the Theater. Love or hate, success or failure - whatever it is, it's here, it flares up and burns hot - and then it's gone.
+L28751 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'll never get over it.
+L28750 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Eve. I - I don't think you meant to cause unhappiness. But you did. More to yourself, perhaps - as it turned out - than to anyone else...
+L28749 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I wish I'd never met him, I'd like him to be dead... I want my friends back.
+L28748 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ He can help you.
+L28747 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ He's not my friend. You were my friends...
+L28746 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Well. I think you're painting the picture a little darker than it is, really. If nothing else - and don't underestimate him - you have a powerful friend in Addison.
+L28745 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ - an understudy's performance.
+L28744 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ But the raves about your performance-
+L28743 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Some vague promises of a test, that's all - if a particular part should come along, one of those things-
+L28742 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Tell me. How did your lunch turn out - with the man from Hollywood?
+L28741 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'm not crying.
+L28740 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Eve... don't cry.
+L28739 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You've really got a low opinion of me, haven't you? We'll I'll give you some pleasant news. I've been told off in no uncertain terms all over town. Miss Channing should be happy to hear that. To know how loyal her friends are - how much more loyal they are than she had a right to expect me to be...
+L28738 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Let's not get over-dramatic.
+L28737 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ No! I don't expect you to believe anything. Except that the responsibility is mine. And the disgrace.
+L28736 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Do you expect me to believe that you didn't say any of those things - that they were all Addison?
+L28735 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ In a way. You find yourself trying to say what you mean, but somehow the words change - and they become his words - and suddenly you're not saying what you mean, but what he means-
+L28734 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ - and you felt just like that talking to Addison.
+L28733 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You know, I've always considered myself a very clever girl. Smart. Good head on my shoulders, that sort of thing, never the wrong word at the wrong time... but then, I'd never met Addison deWitt.  I remember once I had a tooth pulled. They gave me some anaesthetic - I don't remember the name - and it affected me in a strange way. I heard myself saying things I wasn't even thinking... as if my mind were someplace outside of my body, and couldn't control what I did or said-
+L28732 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Why shouldn't you?  Please sit down.
+L28731 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ - and easy or not, I won't believe a word.
+L28730 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Oh, but there is-
+L28729 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ There can't be very much-
+L28728 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I've got a lot to say. And none of it is easy.
+L28727 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Can't we sit down? Just for a minute...
+L28726 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I don't intend to be.
+L28725 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I don't expect you to be pleasant.
+L28724 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Don't get up.  And don't act as if I were the queen mother.
+L28723 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I was wondering whether you'd come at all..
+L28616 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Nothing definite yet - it's just to have lunch.
+L28615 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ They certainly don't waste much time.
+L28614 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ We're having lunch with a movie talent scout.
+L28608 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Mostly relief that I managed to stagger through it at all...
+L28607 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Eve. I've heard the most wonderful things about your performance-
+L28180 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Please...
+L28179 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Don't bother, I can take it up myself...
+L28178 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ May I have your coat?
+L28120 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ No, Eve, I won't forget...
+L28119 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Karen...  ... you won't forget, will you? What we talked about before?
+L28112 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Well - if she's got to pick on someone, I'd just as soon it was me.
+L28111 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Eve. I'm fond of Margo too. But I know Margo. And every now and then there is nothing I want to do so much as to kick her right square in the pants.
+L28110 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ If I thought I'd offended her, of all people-
+L28109 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ The reason is Margo and don't try to figure it out. Einstein couldn't.
+L28108 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ But there must be some reason, something I've done without knowing...
+L28107 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ You mustn't mind Margo too much, even if I do...
+L28041 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I seem to be forever thanking you for something, don't I?
+L28040 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I won't forget.
+L28039 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You won't forget it?
+L28038 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Of course.
+L28037 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Then - would you talk to Mr. Fabian about it?
+L28036 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ They'll do as they're told.
+L28035 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ But Mr. Richards and Mr. Sampson-
+L28034 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I think she would cheer.
+L28033 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Do you think Miss Channing would approve?
+L28032 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ No, dear. Margo must go on.  As a matter of fact, I see no reason why you shouldn't be Margo's understudy...
+L28031 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ The show must go on.
+L28030 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Don't worry too much about that. Margo just doesn't miss performances. If she can walk, crawl or roll - she plays.
+L28029 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I don't let myself think about it, even-  - but I do know the part so well, and every bit of the staging, there'd be no need to break in a new girl-  - but suppose I had to go on one night? To an audience that came to see Margo Channing. No, I couldn't possibly...
+L28028 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ ... you want to be Margo's new understudy.
+L28027 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Well... Miss Channing's affairs are in such good shape... there isn't enough to keep me as busy as I should be, really - not that I've ever considered anything that would take me away from her... but the other day - when I heard Mr. Fabian tell Miss Channing that her understudy was going to have a baby, and they'd have to replace her...
+L28026 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Nobody's done so much, Eve, you've got to stop thinking of yourself as one of the Hundred Neediest Cases... what is it?
+L28025 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Karen...  ... isn't it awful, I'm about to ask you for another favor - after all you've already done.
+L28024 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Karen.
+L28023 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Mrs. Richards.
+L28022 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Lloyd says Margo compensates for underplaying on the stage by overplaying reality...  ... next to that sable, my new mink seems like an old bedjacket...  ... you've done your share, Eve. You've worked wonders with Margo...
+L28021 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ There should be a new word for happiness. Being here with Miss Channing has been - I just can't say, she's been so wonderful, done so much for me-
+L28020 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Tell me, Eve - how are things with you? Happy?
+L28019 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Hollywood.
+L28018 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Discouraging, isn't it? Women with furs like that where it never gets cold...
+L28017 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Some Hollywood movie star, her plane got in late.
+L28016 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Now who's show up at this hour? It's time people went home - hold that coat up...  ... whose is it?
+L27819 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'd like that.
+L27818 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Not just that way. As a friend...
+L27817 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'll be at the old stand, tomorrow matinee-
+L27816 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Good night, Eve. I hope I see you again soon-
+L27804 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I think I'd better. It's been - well, I can hardly find the words to say how it's been...
+L27803 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ You're not going, are you?
+L27769 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ It couldn't possibly interest you.
+L27768 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Eve... why don't you start at the beginning?
+L27762 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Well...
+L27761 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Try...
+L27760 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ If I only knew how...
+L27729 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ My husband...
+L27728 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Hello, Miss Channing.
+L27725 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Not at all.  Margo, this is Eve Harrington.
+L27724 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I thought you'd forgotten about me.
+L27679 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Eve. Eve Harrington.
+L27678 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ You look just fine...  ... by the way. What's your name?
+L27677 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ But if I'd known... maybe some other time... I mean, looking like this.
+L27676 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ There isn't another like you, there couldn't be-
+L27675 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ No, I'd be imposing on her, I'd be just another tongue-tied gushing fan...
+L27674 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ She's got to meet you-
+L27673 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Oh, no...
+L27672 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I'm going to take you to Margo...
+L27671 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Standing room doesn't cost much. I manage.
+L27670 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ You see the play? You've seen the play every performance?  But, don't you find it - I mean apart from everything else - don't you find it expensive?
+L27669 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Oh, no. I see the play.
+L27668 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ He'll agree with you. Tell me, what do you between the time Margo goes in and comes out? Just huddle in that doorway and wait?
+L27667 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ He's the best.
+L27666 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Bill Sampson? He's - he's a director.
+L27665 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You're Margo Channing's best friend. You and your husband are always with her - and Mr. Sampson... what's he like?
+L27664 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ To speak to just a playwright's wife? I'm the lowest form of celebrity...
+L27663 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I've seen you so often - it took every bit of courage I could raise-
+L27662 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Not at all.
+L27661 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I hope you don't mind my speaking to you...
+L27660 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Why should you be? After all, six nights a week - for weeks - of watching even Margo Channing enter and leave a theater-
+L27659 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Why should you think I wouldn't be?
+L27658 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ So there you are. It seemed odd, suddenly, your not being there...
+L28359 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I was dreadful, Miss Channing, believe me - I have no right to be anyone's understudy, much less yours...
+L28358 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Back to Copacabana. But Eve. Margo, let me tell you about Eve-
+L27821 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I hope so, Mr. Richards. Good night...
+L27820 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ It's been a real pleasure, Eve.
+L27773 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Farmers were poor in those days, that's what dad was - a farmer. I had to help out. So I quit school and I went to Milwaukee. I became a secretary. In a brewery.  When you're a secretary in a brewery - it's pretty hard to make believe you're anything else. Everything is beer. It wasn't much fun, but it helped at home -  and there was a Little Theater Group... like a drop of rain in the desert. That's where I met Eddie. He was a radio technician. We played 'Liliom' for three performances, I was awful - then the war came, and we got married. Eddie was in the air force - and they sent him to the South Pacific. You were with the O.W.I., weren't you Mr. Richards?  That's what 'Who's Who' says... well, with Eddie gone, my life went back to beer. Except for a letter a week. One week Eddie wrote he had a leave coming up. I'd saved my money and vacation time. I went to San Francisco to meet him.  Eddie wasn't there. They forwarded the telegram from Milwaukee - the one that came from Washington to say that Eddie wasn't coming at all. That Eddie was dead...  ... so I figured I'd stay in San Francisco. i was alone, but couldn't go back without Eddie. I found a job. And his insurance helped... and there were theaters in San Francisco. And one night Margo Channing came to play in 'Remembrance'... and I went to see it. And - well - here I am...
+L27772 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Not at all...
+L27771 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I guess it started back home. Wisconsin, that is. There was just mum, and dad - and me. I was the only child, and I made believe a lot when I was a kid - I acted out all sorts of things... what they were isn't important. But somehow acting and make-believe began to fill up my life more and more, it got so that I couldn't tell the real from the unreal except that the unreal seemed more real to me... I'm talking a lot of gibberish, aren't I?
+L27764 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ 'Remembrance'.
+L27763 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Well... it started with the play before this one...
+L27754 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Let's get back to this one. Have you really seen every performance?  Why? I'm curious...
+L27753 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ There was an item in the Times. i like the title. 'Footsteps on the Ceiling'.
+L27752 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ How'd hear about it?
+L27747 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'd like anything Miss Channing played...
+L27746 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Every performance? Then - am I safe in assuming you like it?
+L27745 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ No, thank you.  Yes. I've seen every performance.
+L27731 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ How do you do, Mr. Richards.
+L27730 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Hello, Miss Harrington.
+L28355 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ What a pity, all that fire and music being turned off...
+L28354 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ ... and if you'd come in the middle, I'd have stopped, I couldn't have gone on-
+L28353 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Why not?
+L28352 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Well, if you'd been here to begin with, I wouldn't have dared to read at all...
+L28351 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Really, Eve? Why?
+L28350 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Miss Channing, I can't tell you how glad I am that you arrived so late.
+L28341 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ How are you making out in Mr. Fabian's office?  I don't want you working the child too hard, Max - just because you promised. As you see, I kept my promise, too...
+L28340 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Hello, Miss Channing.
+L28339 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Terribly sorry I'm late, lunch was long and I couldn't find a cab - where's Miss Caswell, shall we start? Oh, hello, Eve...
+L28210 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I had no idea you knew each other.
+L28209 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Good evening, Mr. deWitt.
+L28174 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Thank you, Eve. I'd like a Martini - very dry.
+L28173 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ The hors d'oeuvres are here. Is there anything else I can do?
+L28141 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Of course.
+L28140 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Some snowy night in front of the fire... in the meantime, while we're on the subject, will you check about the hors d'oeuvres? The caterer forgot them, the varnish wasn't dry or something...
+L28139 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'd like to hear it.
+L28101 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I wouldn't like.
+L28100 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ If you'd like.
+L28079 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'm sorry, I didn't mean to-
+L28078 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Don't get up. And please stop acting as if I were the queen mother.
+L28013 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Mr. Sampson's birthday. I certainly wouldn't forget that. You'd never forgive me.  As a matter of fact, I sent him a telegram myself...
+L28012 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Yes, I guess you were. It - it was very thoughtful of you, Eve.
+L28011 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Well, I was sure you'd want to, of course, being his birthday, and you've been so busy these past few days, and last night I meant to tell you before you went out with the Richards - and I guess I was asleep when you got home...
+L28010 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Yes, dear. You forgot all about it.
+L28009 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Oh, golly. And I forgot to tell you-
+L28008 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Eve...  ... by any chance, did you place a call from me to Bill for midnight California time?
+L28007 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ That's my job.  See you at tea time...
+L28006 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ It seems I can't think of a thing you haven't thought of...
+L28005 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Right here.
+L28004 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ - and those checks or whatever it is for the income tax man.
+L28003 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I've got it.
+L28002 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ There's the script to go back to the Guild-
+L28001 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Oh, come now, as though you were an old lady... I'm on my way. Is there anything more you've thought of-?
+L28000 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Quite sure. I find it just a bit too - too "Seventeenish" for me...
+L27999 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I can imagine... you know, all it needed was some taking in here and letting out there - are you sure you won't want it yourself?
+L27998 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Very becoming. It looks better on you than it did on me.
+L27997 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Well - what do you think of my elegant new suit?
+L27927 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ No trouble at all.
+L27926 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Don't bother. Mrs. Brown'll be along for it in a minute.
+L27925 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ While you're cleaning up, I'll take this to the wardrobe mistress-
+L27922 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ They are lovely. Aren't they lovely, Birdie?
+L27921 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ The curtains. I made them myself.
+L27920 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Well, you've done so much... what's new?
+L27919 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You haven't noticed my latest bit of interior decorating...
+L27914 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ When he gets too close, I'll spit in his eye.
+L27913 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ During your second act scene with your father, Roger Ferraday's supposed to stay way upstage at the arch. He's been coming closer down every night...
+L27912 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Well, teacher's away and actors will be actors...
+L27911 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I mean the performance. Except for you, you'd think he'd never even directed it - it's disgraceful the way they change everything around...
+L27910 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You certainly can. Especially if you're me between now and tomorrow morning...
+L27909 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I must say you can certainly tell Mr. Sampson's been gone a month.
+L27908 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Performance number one thousand of this one - if I play it that long - will take place in a well-padded booby hatch...
+L27907 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I could watch you play that last scene a thousand times and cry every time-
+L27906 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ What - again?
+L27809 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I won't be a minute.
+L27808 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Well - if I'm not in the way...
+L27807 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Stick around. Please. Tell you what - we'll put Stanislavsky on his plane, you and I, then go somewhere and talk.
+L27806 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ The four of you must have so much to say to each other - with Mr. Sampson leaving...
+L27805 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ No, don't go...
+L27766 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ San Francisco. It was the last week. I went one night... the most important night in my life - until this one. Anyway... I found myself going the next night - and the next and the next. Every performance. Then, when the show went East - I went East.
+L27765 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Did you see it here in New York?
+L27757 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Not with you in them. Not by Mr. Richards...
+L27756 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ There are other plays...
+L27755 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Well. If I didn't come to see the play, I wouldn't have anywhere else to go.
+L27751 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Of course it is.
+L27750 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Please, don't misunderstand me, Mr. Richards. I think that part of Miss Channing's greatness lies in her ability to choose the best plays... your new play is for Miss Channing, isn't it, Mr. Richards?
+L28813 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You'll be there, won't you.
+L28812 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I remember.
+L28792 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Very classy stuff, lots of technique-
+L28791 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Check.
+L28790 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ But not right away? First the business of fighting them off, chin up, stout fella...
+L28789 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ With tears.
+L28788 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ With tears?
+L28720 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Well... all right.
+L28719 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Karen, in all the years of our friendship, I have never let you go to the Ladies' Room alone. But now I must. I am busting to know what goes on in that feverish little brain waiting there...
+L28630 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ The little witch must have had Indians runners out snatching critics out of bars, steam rooms and museums or wherever they hole up... well, she won't get away with it! Nor will Addison deWitt and his poison pen! If Equity or my lawyer can't or won't do anything about it, I will personally stuff that pathetic little lost lamb down Mr. deWitt's ugly throat...
+L28629 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Lloyd says it's a publicity release...
+L28628 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ In this rat race, everybody's guilty till they're proved innocent! One of the differences between the Theater and civilization...  ... what gets me is how all of those papers in town happened to catch that particular performance!
+L28627 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I can't believe Eve said those things!
+L28626 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ It get better! "- About the understandable reluctance on the part of our entrenched First Ladies of the Stage to encourage, shall we say - younger - actresses; about Miss Harrington's own long and unsupported struggle for opportunity-"
+L28625 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I just can't believe it.
+L28624 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ "... my hat which has, lo, these many seasons become more firmly rooted about my ears, is lifted to Miss Harrington. I am once more available for dancing in the streets and shouting from the housetops." ... I thought that one went out with Woollcott...  Down here... here, listen to this- "... Miss Harrington had much to tell - and these columns shall report her faithfully - about the lamentable practice in our Theater of permitting, shall we say - mature - actresses to continue playing roles requiring a youth and vigor of which they retain but a dim memory-"
+L28534 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Don't give it another thought, one of destiny's many pranks. After all, you didn't personally drain the gasoline out of the tank...
+L28533 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ This. I can't tell you how sorry I am!
+L28532 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ About what?
+L28531 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Margo.  Margo, I want you to know how sorry I am about this...
+L28530 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Let's not fumble for excuses, not here and now with my hair down. At best, let's say I've been oversensitive to... well, to the fact that she's so young - so feminine and helpless. To so many things I want to be for Bill... funny business, a woman's career. The things you drop on your way up the ladder, so you can move faster. You forget you'll need them again when you go back to being a woman. That's one career all females have in common - whether we like it or not - being a woman. Sooner or later we've all got to work at it, no matter what other careers we've had or wanted... and, in the last analysis, nothing is any good unless you can look up just before dinner or turns around in bed - and there he is. Without that, you're not woman. You're something with a French provincial office or a book full of clippings - but you're not a woman...  ... slow curtain. The end.
+L28529 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Well...
+L28528 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ About Eve. I've acted pretty disgracefully toward her, too.
+L28527 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Silly, isn't it? You'd think they'd fix it so people could just sit in a car and keep warm...
+L28526 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I don't suppose the heater runs when the motor doesn't?
+L28525 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Isn't that what they always say?
+L28524 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Not to you. Not to Bill.
+L28523 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Those years stretch as the years go on. I've seen it happen too often.
+L28522 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Margo. Bill is all of eight years younger than you.
+L28521 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Bill's in love with Margo Channing. He's fought with her, worked with her, loved her... but ten years from now - Margo Channing will have ceased to exist. And what's left will be... what?
+L28520 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Why should he - and why should you?
+L28519 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ More than anything in this world, I love Bill. And I want Bill. I want him to want me. But me. Not Margo Channing. And if I can't tell they apart - how can he?
+L28518 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ He's in love with you.
+L28517 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ What about Bill?
+L28516 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ What about Bill?
+L28515 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ And what is that? Besides something spelled out in light bulbs, I mean. Besides something called temperament, which consists mostly of swooping about on a broomstick creaming at the top of my voice... infants behave the way I do, you know. They carry on and misbehave - they'd get drunk if they knew how - when they can't have what they want. When they feel unwanted and insecure - or unloved.
+L28514 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ You're Margo. Just - Margo.
+L28513 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ So many people - know me. I wish I did. I wish someone would tell be about me...
+L28512 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ We're never deeply angry, we just get sore. The way you do. We know you too well...
+L28511 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Come to think of it, I haven't been very pleasant for weeks. For that, I'm truly sorry. More than any two people I know, I don't want you and Lloyd to be angry with me...
+L28510 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ We've all seemed a little tense lately...
+L28509 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Karen.  I haven't been pleasant this weekend.
+L28508 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I detest cheap sentiment.
+L28507 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ It doesn't matter.
+L28506 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Do you want it on?
+L28505 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Be brave. He'll come back - with or without gas.
+L28504 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I just never think of Lloyd as anywhere but indoors and anything but sitting down.
+L28503 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ It seems to me that walking, for most people, is not very dangerous.
+L28502 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ He always looks so pathetic whenever he does anything physical-
+L28494 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Not many car either, not much chance of a lift...
+L28493 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ None in sight, there aren't many along this back road...
+L28492 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Any houses or farms around where we can borrow gas?
+L28491 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Three or four miles...
+L28490 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ How far to the station?
+L28489 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Roughly ten minutes.
+L28488 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ How much time have we?
+L28478 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Peace and quit is for libraries.
+L28477 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Of all people you should know what it means to want some peace and quiet-
+L28476 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ That little place just two hours form New York. It's on my list of things-I'll-never-understand. Like collecting shrunken Indian heads...
+L28184 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I'm so happy you're happy.
+L28183 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Margo, nothing you've ever done has made me as happy as your taking Eve in...
+L28083 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Please don't play governess, Karen, I haven't your unyielding good taste, I wish I'd gone to Radcliffe too but father wouldn't hear of it - he needed help at the notions counter...  I'm being rude now, aren't I? OR should I say "ain't I"?
+L28082 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Margo, really...
+L27744 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I was telling Margo and Lloyd about how often you'd seen the play...
+L27743 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Would you like a drink? It's right beside you...
+L27741 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I'm so sorry... Harrington. Won't you sit down?
+L27740 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Harrington.
+L27739 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Dear Birdie. Won't you sit down, Miss Worthington?
+L27718 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ The heave-ho.
+L27717 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ She's just outside the door.
+L27716 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You've what?
+L27715 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Well... there's one indoors now. I've brought her back to see you.
+L27714 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ They're nobody's fans! They're juvenile delinquents, mental detectives, they're nobody's audience, they never see a play or a movie, even - they're never indoors long enough!
+L27713 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ They're your fans, your audience-
+L27712 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Autograph fiends! They're not people - those little beast who run in packs like coyotes-
+L27711 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Yes, it is! You're talented, famous, wealthy - people waiting around night after night just to see you, even in the wind and rain...
+L27710 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Ain't it the truth?
+L27709 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ It's just that you get me so mad sometimes... of all the women in the world with nothing to complain about-
+L27708 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Relax, kid. It's only me and my big mouth...
+L27704 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I find these wisecracks increasingly less funny! 'Aged in Wood' happens to be a fine and distinguished play-
+L27703 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ It's the tight girdle that does it.
+L27684 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Hi.  "Well, now Mis' Channin', ah don't think you can rightly say we lost the wah, we was mo' stahved out, you might say - an' that's what ah don' unnerstand about all these plays about love-stahved Suth'n women - love is one thing we was nevah stahved for the South!"
+L27683 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Hi.  Hello, darling-
+L28847 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Then tell me this isn't true! That your concern for your play and career is one thing - and that poor frightened hysterical girl another - and that your concern for her has nothing to do with either your play or your career!
+L28846 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Old wives' tales, born of envy and jealousy! And a phobia against truth!
+L28845 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Have you forgotten about Eve? What she is, what she's done?
+L28844 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ - and for my feelings in particular! For my play, my career - and now for a frightened, hysterical girl on the eve of her first night in the Theater!
+L28843 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I'm a human being, I've got some!
+L28842 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ I didn't think you would! It seems to me, Karen, that for some tine, now, you've been developing a deep unconcern for the feeling of human being in general-
+L28833 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Did Miss Harrington tell you to call Mr. Richards?
+L28832 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Who is it? What's it all about?
+L28825 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Nothing...
+L28824 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ What's so funny?
+L28794 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Not much.
+L28793 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ You mean - all this time - she'd done nothing but apologize? What'd you say?
+L28787 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Nothing much. She apologized.
+L28786 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ - well? What happened?
+L28716 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I have no possible interest in anything she'd have to say.
+L28715 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ After all, maybe she just wants to apologize...
+L28699 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ What are you going to wear?
+L28698 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Three days, that's for the bourgeois - I see a midnight elopement, waking up a village person...
+L28690 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Margo!
+L28689 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Well of all-
+L28675 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ You - for one. I told her you were set on Margo playing the part - and I certainly wouldn't make a change without your approval.
+L28674 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Such as?
+L28673 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Darling, I didn't promise Eve anything. Just said I thought she'd be fine for the part, but there were some practical difficulties...
+L28672 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ They'd die without each other.
+L28671 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ I'm glad Bill's back.
+L28670 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Margo in the Cub Room. I couldn't be more surprised if she'd said Grant's Tomb.
+L28669 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Margo - and Bill - want us to meet them at the Cub Room tonight, after theater. For a bottle of wine.
+L28667 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ The cynicism you refer to, I acquired the day I discovered I was different from little boys!
+L28666 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ That bitter cynicism of yours is something you've acquired since you left Radcliffe!
+L28665 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ On her knees, I have no doubt! Very touching, very Academy-of-Dramatic Arts!
+L28664 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ All this fuss and hysteria because an impulsive kid got carried away by excitement and the conniving of a professional manure slinger named deWitt! She apologized, didn't she?
+L28663 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ It strikes me that Eve's disloyalty and ingratitude must be contagious!
+L28662 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Now just a minute!
+L28661 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Margo Channing has not been exactly a compromise all these years, half the playwrights in the world would give their shirts for that particular compromise!
+L28660 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Now just a minute-
+L28659 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Lloyd Richards, you are not to consider giving that contemptible little worm the part of "Cora."
+L28658 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ For once, to write something and have it realized completely. For once, not to compromise-
+L28657 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ With gestures, of course.
+L28656 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ No, I got the idea myself - while she was talking to me...
+L28655 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Eve would ask Abbott to give her Costello.
+L28654 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Eve did mention the play, you know. But just in passing - she's never ask to play a part like "Cora," she'd never have the nerve...
+L28653 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Now you're quoting Addison. Or Eve.
+L28652 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ You've got to admit it would be a novelty.
+L28651 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Maybe get some younger actress for the part? Someone who'd look the part as well as play it?
+L28650 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ If we could cast it properly, that is...
+L28649 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I'm beginning to catch up.
+L28648 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ If - instead of waiting until next season to do 'Footsteps on the Ceiling', which is in pretty good shape - and if Margo can be talked into going on tour with 'Aged in Wood' - we could put 'Footsteps...' into production right away...
+L28647 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I'm trying hard to follow you.
+L28646 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ What with taxes coming up - and since I'm a playwright and not an oil well operator - well, I've been thinking...
+L28645 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ That's quite a change of subject.
+L28644 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ You know, I've been going over our financial condition - if you'll pardon the expression...
+L28642 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I wonder why.
+L28641 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ She wanted to explain about her interview, wanted to apologize to someone - and didn't dare face Margo...
+L28640 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ That was a pity...
+L28639 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ She's been to see me, as a matter of fact she left just before you came in - you just missed her...
+L28638 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Eve?
+L28637 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Eve.
+L28636 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Where'd you get all that information?
+L28635 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ - it's Addison, from start to finish, it drips with his brand of venom... taking advantage of a kid like that, twisting her words, making her say what he wanted her to say-
+L28498 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Don't joke about such things.
+L28497 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ What a way to die - trying to get an actress to the theater in time. Tell Max I want to be buried with royalties...
+L28496 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ You'll break your neck on that ice.
+L28487 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Incredible.
+L28486 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I guess I didn't look. You know I don't pay attention to those things...
+L28485 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ But it can't be! We can't be out of gas! I filled it myself yesterday!  Wasn't it full when you drove to Brewster this morning?
+L28480 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Just a little skid, that's all. This road's like glass.
+L28479 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Lloyd, be careful...
+L28475 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Five-fifty-five. We'll be at the station in plenty of time...
+L28474 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ I just don't want Margo to miss her train. As it is, she'll barely make the theater...
+L28473 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ When you asked a minute ago it was five-forty-two. It is now five forty-three. When you ask a minute from no, it will be-
+L28472 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ What time is it?
+L28463 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Well. We've spent weekends before with nobody talking...  ... just be sure to lock up all blunt instruments and throwable objects...
+L28462 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ We're driving out to the country tomorrow night. Just the four of us. Bill, Margo, you and I...
+L28461 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ What is?
+L28460 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ It's going to be a cozy weekend.
+L28459 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Margo. Margo's great. She knows it. That's the trouble. She can play Peck's Bad Boy all she wants, and who's to stop her? Who's to give her that boot in the rear she needs and deserves?
+L28458 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Margo hasn't done badly by it.
+L28457 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ - everything a playwright first thinks of wanting to write about... until his play becomes a vehicle for Miss Channing...
+L28456 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ - don't run out of adjectives, dear.
+L28455 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Of course she knew! For one thing, Addison told her how superbly Eve had read the part-!  Karen, let me tell you about Eve. She's got everything - a born actress. Sensitive, understanding, young, exciting, vibrant-
+L28454 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ It's just possible she didn't...
+L28453 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Then a childish, heavy-handed routine about not knowing Eve was her understudy-
+L28452 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ That's on time for Margo.
+L28451 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ And again and again! Two hours late for the audition, to begin with-
+L28450 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Margo, again...
+L28449 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Up to here! That's where I've got it - up to here! Of all the star ridden, presumptuous, hysterical-
+L28448 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Lloyd, what happened...?
+L28106 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ In a minute...
+L28105 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Coming?
+L28096 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ It's about time we did! It's about time Margo realized that what's attractive on stage need not necessarily be attractive off.
+L28095 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Now let's not get into a big hassle-
+L27721 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ If you'd only see her, you're her whole life - you must have spotted her by now, she's always there...
+L27720 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ That book is out of print, Karen, those days are gone. Fans no longer pull the carriage through the streets - they tear off clothes and steal wrist watches...
+L27719 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ You can't put her out, I promised... Margo, you've got to see her, she worships you, it's like something out of a book-
+L27707 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Easy, now...
+L27706 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ The critics thought so, the audiences certainly think so - packed houses, tickets for months in advance - I can't see that either of Lloyd's last two plays have hurt you any!
+L27705 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ - 'at's my loyal little woman.
+L27686 +++$+++ u3604 +++$+++ m238 +++$+++ KAREN +++$+++ Loud.
+L27685 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ How was the concert?
+L28823 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ It means I've finally got a life to live! I don't have to play parts I'm too old for - just because I've got nothing to do with my nights!  I know you've made plans. I'll make it up to you, believe me. I'll tour a year with this one, anything - only you do understand - don't you, Lloyd?
+L28822 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ What's your being married got to do with it?
+L28821 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Now wait a minute, you're always so touchy about his plays, it isn't the part - it's a great part. And a fine play. But not for me anymore - not a foursquare, upright, downright, forthright married lady.
+L28819 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Well. I don't want to play "Cora."
+L28818 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ I don't think I could be.
+L28817 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I mean really, deeply angry...
+L28816 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ That depends.
+L28803 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ She is a louse.
+L28802 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ You know, she probably means well, after all...
+L28801 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ ... and Bill. Especially Bill. Eve did that, too.
+L28707 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Lloyd, I want you to be big about this... the world is full of love tonight, no woman is safe...
+L28706 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Very discreet. A note right out in the open like that. Next time tell your lover to blow smoke rings - or tap a glass...
+L28695 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ City Hall, that's for prize fighters, and reporters - I see a cathedral, a bishop, banks of flowers...
+L28694 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Yes, sir.
+L28683 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Too bad.
+L28682 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ It's been quite a night. I understand that your understudy - Miss Harrington - has given her notice.
+L28501 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Thank you, Lloyd. Godspeed.
+L28500 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ The audience will want its money refunded, believe me.
+L28499 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ How fortunate that I have an understudy so ready, so willing and so able to go on.
+L28483 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ It's not important whether you do. We are wearing long underwear.
+L28482 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ I have no intention of having an accident!
+L28481 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Karen and I just don't want an accident-
+L28394 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ It's about time the piano realized it has not written the concerto!
+L28393 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Usually at the point when she's got to rewrite and rethink them to keep the audience from leaving the theater!
+L28392 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ I shall never understand the weird process by which a body with a voice suddenly fancies itself a mind! Just when exactly does an actress decide they're her words she's saying and her thoughts she's expressing?
+L28378 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Then you listened as if someone else had written you play - whom did you have in mind? Sherwood? Arthur Miller? Beaumont and Fletcher?
+L28377 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ I never said it was!
+L28376 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Perfectly innocent! Man have been hanged for less! I'm lied to, attacked behind my back, accused of reading your silly dialogue inaccurately - as if it were Holy Gospel!
+L28375 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ You have a genius for making barroom brawl out of a perfectly innocent misunderstanding at most!
+L28374 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Not mouse, never mouse! If anything - rat!
+L28373 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ You knew when you came in that the audition was over, that Eve was your understudy! Playing that childish game of cat and mouse...
+L28372 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ - in this case, apparently, as trustworthy as the World Almanac!
+L28371 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ You've been talking to that venomous fishwife, Addison deWitt-
+L28368 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ It's right to the point. Also that it must have sounded so new and fresh to you - so exciting to have the lines read as you wrote them!
+L28367 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ That's beside the point.
+L28366 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I mean, among other things, that it must have been a revelation to have your twenty-four-year-old character played by twenty-four-year-old actress...
+L28365 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ What do you mean?
+L28364 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ To you, too?
+L28363 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ She was a revelation...
+L28362 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I'm sure.
+L28361 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ You'd have been proud of her.
+L28360 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I'm sure you underestimate yourself, Eve. You always do.  You were about to tell me about Eve...
+L28349 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ It seems almost inconceivable that I haven't seen her backstage, but with so many people loitering around... well, well. So Eve is not working for Max after all-  - Max you sly puss.
+L28348 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ I thought you knew... She was put on over a week ago-
+L28347 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Eve? Eve, my understudy? But I had no idea...
+L28346 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ She's your understudy.
+L28297 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Just one person. Isn't that so?  You know what this is all about, don't you? It has very little to do with whether you should play "Cora" - it has everything to do with the fact that you've had another fight with Bill.
+L28296 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ ... as young as they want, you mean. And I'm not interested in whether thousands of people think I'm six or six hundred-
+L28295 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Week after week, to thousands of people, you're as young as you want...
+L28294 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Spoken like an author.  Lloyd, I'm not twentyish. I am not thirtyish. Three months ago, I was forty years old. Forty. Four oh.  That slipped out, I hadn't quite made up my mind to admit it. Now I feel as if I'd suddenly taken all my clothes off...
+L28293 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ I know what I'm talking about, after all they're my plays...
+L28292 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Miss Channing is ageless. Spoken like a press agent.
+L28291 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Margo, you haven't got any age.
+L28290 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Don't be evasive.
+L28289 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ How do you mean?
+L28288 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Don't you think it's about time it became important?
+L28287 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Twentyish. It isn't important.
+L28286 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ "Cora." She's - still a girl of twenty?
+L28285 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ The play? All right, I guess...
+L28284 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ How's the new one coming?
+L28283 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ I will.
+L28282 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ When you do, let me in on it.
+L28281 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Not exactly. Sometimes, though, I wish I understood you better.
+L28280 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You disapprove of me when I'm like this, don't you?
+L28279 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Shucks. And my autograph book is at the cleaners.
+L28278 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Too many. And you've got a new guest. A movie star from Hollywood.
+L28277 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Who's left out there?
+L28275 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ Up in the room.
+L28274 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Where is she?
+L28273 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ There you are, both of you. Max, Karen has decided it's time to go.
+L28197 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ What is he talking about?
+L28196 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ The general atmosphere is very Macbethish. What has or is about to happen?
+L28182 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ ... Among so many quiet qualities.
+L28181 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ I like that girl. That quality of quiet graciousness...
+L28086 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ And you pose as a playwright. A situation pregnant with possibilities - and all you can think of is everybody to go to sleep...
+L28085 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ How about calling it a night?
+L27749 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ I doubt very much that you'd like her in 'The Hairy Ape'.
+L27748 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Would you, really? How sweet-
+L27695 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Within your time, buster. Lloyd, honey, be a playwright with guts. Write me one about a nice, normal woman who shoots her husband.
+L27694 +++$+++ u3605 +++$+++ m238 +++$+++ LLOYD +++$+++ That was way back...
+L27693 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Honey chili had a point. You know, I can remember plays about women - even from the South - where it never even occurred to them whether they wanted to marry their fathers more than their brothers...
+L27944 +++$+++ u3609 +++$+++ m238 +++$+++ OPERATOR'S VOICE +++$+++ Go ahead, please...
+L27943 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I placed...?
+L27942 +++$+++ u3609 +++$+++ m238 +++$+++ OPERATOR'S VOICE +++$+++ We are ready with the call you placed for 12 midnight, California time, to Mr. William Sampson in Beverly Hills...
+L27941 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ That's right, but I don't understand-
+L27940 +++$+++ u3609 +++$+++ m238 +++$+++ OPERATOR'S VOICE +++$+++ It this Templeton 89970? Miss Margo Channing?
+L27939 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Call, what call?
+L27938 +++$+++ u3609 +++$+++ m238 +++$+++ OPERATOR'S VOICE +++$+++ We are ready with your call to Beverly Hills...
+L27937 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Hello..
+L28233 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ My dear Horowitz. In the first place, I'm paying you union scale. Second, it's my piano. Third, if everybody doesn't like kind of dying on the vine, they can get off the vine and go home. "Liebestraum."
+L28232 +++$+++ u3610 +++$+++ m238 +++$+++ PIANIST +++$+++ Look, Miss Channing... it's kind of depressing. If you don't mind my saying so, everybody's kind of dying on the vine...
+L28231 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ "Liebestraum."
+L28230 +++$+++ u3610 +++$+++ m238 +++$+++ PIANIST +++$+++ No. You're just crazy about "Liebestraum."
+L28229 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Then this will be five. I suppose you think I'm too drunk to count.
+L28228 +++$+++ u3610 +++$+++ m238 +++$+++ PIANIST +++$+++ But that was the fourth straight time.
+L28227 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Play it again.
+L28226 +++$+++ u3610 +++$+++ m238 +++$+++ PIANIST +++$+++ I just played it.
+L28225 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ "Liebestraum."
+L28391 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Not until the last drugstore has sold its last pill!
+L28390 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ I said I'm a dying man!
+L28389 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I didn't hear you.
+L28388 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ Who am I to threaten? I'm a dying man.
+L28387 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Answer my question!
+L28386 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ Are you breaking the contract?
+L28385 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Are you threatening me with legal action, Mr. Fabian?
+L28384 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ This is for lawyers to talk about, this concerns a run-of-the-play contract, and this you can't rewrite or ad lib!
+L28272 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ That's my Max.
+L28271 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ I promise.
+L28270 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Promise.
+L28269 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ I don't know if this would be a wise move...
+L28268 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Think of your health, Max - more time to relax out in the fresh air at a race track...
+L28267 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ Well...
+L28266 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ She'd be a great help - read scripts, interview people you have to see, get rid of the ones you don't have to... you'd be a man of leisure-
+L28265 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ But what could she do?
+L28264 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You said yourself my inventory was in good shape - all of my merchandise put away. To keep her here with nothing to do - I'd be standing in her way... and you need her, Max.
+L28263 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ Margo, I wouldn't think of taking that girl away from you...
+L28262 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ You get quick action, don't you?
+L28261 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Give Eve Harrington job in you office.
+L28260 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ All you got to do is name it.
+L28259 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Not at all. And you could do me a big favor, if you would-
+L28258 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ This is real cooperation. I appreciate it.
+L28257 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Anything to help you out, Max.
+L28256 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ Would you?
+L28255 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I tell you what. Why don't I read with her?
+L28254 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ A couple of weeks.
+L28253 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ When's the audition?
+L28252 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ I feel right now like there's one burning in me.
+L28251 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Well, if she can act, she might not be bad. She looks like she might burn down a plantation...
+L28250 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ An audition for the part we're replacing. What's-her-name, your sister...
+L28249 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Miss Caswell?  What?
+L28248 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ The situation I'm in ain't the kind you can belch your way out. I made a promise...
+L28247 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Here you are, Maxie dear. One good burp and you'll be rid of that Miss Caswell...
+L28245 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ I love you, Max. I really mean it. I love you. Come to the pantry.
+L28244 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ Let the rest of the world beat their brains out for a buck. It's friends that count. And I got friends.
+L28241 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Poor Max. Heartburn?  It's that Miss Caswell. I don't know why she doesn't give Addison heartburn.
+L28240 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ Margo. You by any chance got bicarbonate of soda in the house?
+L28190 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ I ain't gonna die. Not with a hit.
+L28189 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Supposed you dropped dead. What about your inventory?
+L28188 +++$+++ u3607 +++$+++ m238 +++$+++ MAX +++$+++ How about me what?
+L28187 +++$+++ u3606 +++$+++ m238 +++$+++ MARGO +++$+++ Make it Bergdorf Goodman... and now everything is on its proper shelf, eh, Max? Done up in little ribbons. I could die right now and nobody'd be confused. How about you, Max?

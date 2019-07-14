@@ -1,0 +1,379 @@
+L232131 +++$+++ u5478 +++$+++ m365 +++$+++ ANTON +++$+++ Vincent, where's the shore?  We're too far out. We have to go back!
+L232130 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Now is your chance to find out.
+L232129 +++$+++ u5478 +++$+++ m365 +++$+++ ANTON +++$+++ How are you doing this, Vincent?  How have you done <i>any</i> of this?
+L232119 +++$+++ u5478 +++$+++ m365 +++$+++ ANTON +++$+++ I will prove it to you.  Come swim with me now, Vincent.  Now--tonight.
+L232118 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Who are you trying to convince?
+L232117 +++$+++ u5478 +++$+++ m365 +++$+++ ANTON +++$+++ You didn't beat me that day.  I beat <i>myself</i>.
+L232116 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Well?  You have all the answers.  How is that possible?
+L232115 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ God, even <i>you</i> want to tell me what I <i>can't</i> do. In case you hadn't noticed, Anton, I don't need rescuing.  But <i>you</i> did, once.
+L232114 +++$+++ u5478 +++$+++ m365 +++$+++ ANTON +++$+++ It's for the best.
+L232113 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Is that the only way you can succeed, Anton, to see me fail?
+L232112 +++$+++ u5478 +++$+++ m365 +++$+++ ANTON +++$+++ It's over.
+L232111 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ There are a few million miles to go yet.
+L232110 +++$+++ u5478 +++$+++ m365 +++$+++ ANTON +++$+++ Come with me now, Vincent.  You've gone as far as you can go.
+L232109 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ You almost sound like you believe that.
+L231628 +++$+++ u5484 +++$+++ m365 +++$+++ GENETICIST +++$+++ Don't worry.  You'll probably do just as well singing to him in the womb.  We can implant the most successful pre-embryo tomorrow afternoon.
+L231627 +++$+++ u5479 +++$+++ m365 +++$+++ ANTONIO +++$+++ I'm sorry, there's no way we can.
+L231626 +++$+++ u5484 +++$+++ m365 +++$+++ GENETICIST +++$+++ It would be five thousand more.
+L231625 +++$+++ u5479 +++$+++ m365 +++$+++ ANTONIO +++$+++ How much extra?
+L231619 +++$+++ u5484 +++$+++ m365 +++$+++ GENETICIST +++$+++ I have to warn you, Mr Luca, he's going to be at least a head taller than you. Prepare for a crick in the neck in sixteen years time.
+L231618 +++$+++ u5479 +++$+++ m365 +++$+++ ANTONIO +++$+++ I like football.
+L231617 +++$+++ u5484 +++$+++ m365 +++$+++ GENETICIST +++$+++ Some believe it is associated with creativity, although there's no evidence.  Also for sports like baseball it can be an advantage.
+L231616 +++$+++ u5479 +++$+++ m365 +++$+++ ANTONIO +++$+++ Er, no...
+L231615 +++$+++ u5484 +++$+++ m365 +++$+++ GENETICIST +++$+++ Is there any reason you'd want a left-handed child?
+L231614 +++$+++ u5479 +++$+++ m365 +++$+++ ANTONIO +++$+++ He's right, Maria.  That's right.
+L231613 +++$+++ u5484 +++$+++ m365 +++$+++ GENETICIST +++$+++ You want to give your child the best possible start.  Believe me, we have enough imperfection built-in already.  Your child doesn't need any additional burdens.  And keep in mind, this child is still you, simply the <i>best</i> of you. You could conceive naturally a thousand times and never get such a result.
+L231612 +++$+++ u5479 +++$+++ m365 +++$+++ ANTONIO +++$+++ We were wondering if we should leave some things to chance.
+L232102 +++$+++ u5480 +++$+++ m365 +++$+++ CAESAR +++$+++ I'll take care of it.
+L232101 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ By the way, I left some trash in your locker.
+L232100 +++$+++ u5480 +++$+++ m365 +++$+++ CAESAR +++$+++ And don't go getting everybody lost out there. You'll give us a bad name.  You won't have me to keep an eye on you, you know.
+L232099 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ I'll see what I can do.
+L232098 +++$+++ u5480 +++$+++ m365 +++$+++ CAESAR +++$+++ I guess so.  Well, while you're up there, maybe you could tidy the place up a bit.
+L232097 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ I guess I'm a slow learner.
+L232096 +++$+++ u5480 +++$+++ m365 +++$+++ CAESAR +++$+++ No?  What's keeping you?
+L232095 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Not yet, I'm afraid.
+L232094 +++$+++ u5480 +++$+++ m365 +++$+++ CAESAR +++$+++ So you've finally seen sense and come back to your old job, Vincent.
+L232092 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ Where did you get this?
+L232091 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ It's not <i>exactly</i> him.
+L232084 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ Luca could still be an accomplice.
+L232083 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ We found his spit in the dead director's eye. He's signed a confession--supplied us with the suit he wore on the night.  What more do you want?
+L232038 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ So we have two choices.  Either our suspect came back to the murder scene for a drink of water and I don't know anybody that thirsty or...  ...he <i>is</i> here.  We test again.  You're right, Hugo, this was a desperate act.  Someone had a lot to lose that night--perhaps their place in line.  I'd like the profiles of everyone with an upcoming mission.
+L232037 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ Positive saliva match.  The cup was definitely used since the original sweep.
+L232021 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ We'll vacuum these streets if we have to.
+L232020 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ Where do we start?
+L232019 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ What are you waiting for?
+L231967 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ I'll take it out of your damn <i>pension</i> if you question my authority one more time!
+L231966 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ From what budget?
+L231965 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ Get it.  From outside, if you have to.
+L231964 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ We don't have the manpower.
+L231963 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ No, we've missed something.  We Hoover again.
+L231962 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ He's not here.  It's a blind alley.
+L231961 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ Something's not right.
+L231960 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ That's the last.
+L231939 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ Blood.  From the vein.
+L231938 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ You know their workforce.  Two-thirds at least fall into the category.  We'll be closing down their operation for days.  At least go with a fingertip sample or urine.
+L231937 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ A man can change his face--but blood is forever. Sample every employee within the parameters I gave you.  Intravenous.
+L231936 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ None of the ID photos match the enhancement.
+L231935 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ Don't underestimate these imposters.
+L231934 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ It is hard to believe he could be one of their elite workers.  You've seen their security system.  They know who works there.  Even if you ignore the man's expiration date, his profile suggests that he doesn't have the mathematical propensity let alone the stamina to pass their physicals.
+L231933 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ He was afraid of being exposed.  That's why he did it.
+L231932 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ It's still possible the eyelash specimen came from a janitor, delivery man--it could have blown in through an open window.
+L231931 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ Of course.  He's a "de-gene-erate".  He works at Gattaca.  Why else would we find the eyelash near the washroom?  Nobody stops to take a leak during a murder.
+L231929 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ No.  But one or two "borrowed ladders" have shown up there in the past.
+L231928 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ A customer?  Does this Michael's cater to misfits?
+L231927 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ The skin flake was found in Michael's Restaurant. The employees are all accounted for.
+L231889 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ This is a murder investigation.  The public should be happy to co-operate, to get this disease off the streets.
+L231888 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ We're already getting complaints about frivolous search.
+L231887 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ I don't like anybody <i>this</i> unlucky.  Widen the sweep.  The West side.  Draw a five mile radius around Gattaca.  Hoover some of the classier establishments.  Random car stops.
+L231886 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ With respect, Sir, many perfectly innocent citizens have left specimens at as many crime scenes.  Maybe he's just unlucky.
+L231885 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ Since going underground, traces of this In-Valid have shown up at the scene of four serious felonies.  Do you need any more than that?
+L231884 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ Is there something more we should know about this suspect, Sir?  I mean besides what's on his sheet.
+L231883 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ --There's that word again.  I have a feeling This man doesn't play the odds, Detective.  Not exactly a slave to probability.  Is it "likely" that a man who has successfully eluded authorities for fifteen years--a brutal killer--is going to come to us now like a lamb?
+L231882 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ This <i>is</i> the most likely location--
+L231881 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ We're in the wrong place.  We're wasting time.
+L231805 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ Detective Hugo, it's a simple case of lost and found.  All we have to do is locate the man who's minus an eyelash and this murder will solve itself.
+L231804 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ What a pity.
+L231803 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ --I've already run it.  There's no record of any living relative.
+L231802 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ I'll run a crossover on the eyelash for any family or associate connections--
+L231801 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ Who knows with these "deficients"?  His profile indicates a proclivity for violence.
+L231800 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ Of course that doesn't jibe with what we found.  This was an angry killing.
+L231798 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ No.  Not <i>likely</i>.
+L231797 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ Even if this Vincent Luca <i>is</i> alive, is it likely he could bludgeon a man to death?
+L231796 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ So there's a 20 percent chance he's <i>not</i> dead.
+L231795 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ According to this, he's a sick man.  Congenital heart condition.  Who knows how long the specimen has been here but there's an 80 percent chance the owner of that eyelash has already died himself from natural causes.
+L231794 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ --What <i>about</i> his profile?
+L231793 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ With respect, Sir--it may be the only unaccountable specimen but the profile suggests--
+L231792 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ No, <i>this</i> is your man.
+L231791 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ I look around, I see a lot of dry eyes. The Director was not...  ...universally loved.  He was leading the cut-backs in the program.  You're looking at a room full of motives.
+L231790 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ Grudges?
+L231789 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ Of course, Sir.  We're checking the entry log, alibis, grudges...
+L231788 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ A man's dead, Detective.
+L231787 +++$+++ u5481 +++$+++ m365 +++$+++ DETECTIVE HUGO +++$+++ I don't understand why you were dragged out here, Sir.  It's hardly worth wasting your time--a no-nothing case like this.
+L232049 +++$+++ u5482 +++$+++ m365 +++$+++ DIRECTOR JOSEF +++$+++ I will not permit any further testing on the eve of a mission.  We're already counting backwards.
+L232048 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ At least it's nothing contagious.
+L232040 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ This time I will supervise each test personally.
+L232039 +++$+++ u5482 +++$+++ m365 +++$+++ DIRECTOR JOSEF +++$+++ Twelve have a mission within the week.
+L231973 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ No, but since there aren't too many <i>live</i> ones tonight either, you won't mind us conducting one further sweep.  If he does not work here, then there should be no other trace of him.  I think you'd better get some people out of bed, Detective.  In the meantime we can re-check his favorite haunt.
+L231972 +++$+++ u5482 +++$+++ m365 +++$+++ DIRECTOR JOSEF +++$+++ Right now, <i>your</i> presence is creating more of a threat.  I don't think you have any concept of what we do here--how meticulous our preparations must be.  We are about to send twelve people through 140 million miles of blackness to rendezvous with an object the size of a house and the color of coal.  So it's rather critical to point them in the right direction. And we certainly don't need you looking over our shoulders.  Besides, I don't believe there is any evidence that the killer <i>is</i> amongst us.  I don't see too many other dead bodies littering the place.
+L231971 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ You're so unconcerned that you have a killer in your midst.
+L231970 +++$+++ u5482 +++$+++ m365 +++$+++ DIRECTOR JOSEF +++$+++ One look through there and you would know why I can't possibly allow you to disrupt operations any further.
+L231969 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ Thank you, no.
+L231968 +++$+++ u5482 +++$+++ m365 +++$+++ DIRECTOR JOSEF +++$+++ Would you care to look--in the telescope?
+L231821 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ This unaccountable specimen was found in the south wing corridor.
+L231820 +++$+++ u5482 +++$+++ m365 +++$+++ DIRECTOR JOSEF +++$+++ What a relief.
+L231819 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ We believe we have a suspect.
+L231817 +++$+++ u5482 +++$+++ m365 +++$+++ DIRECTOR JOSEF +++$+++ We have to be certain.  Once they're up, we can hardly turn the boat around.
+L231816 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ Surely you know what you have.
+L231815 +++$+++ u5482 +++$+++ m365 +++$+++ DIRECTOR JOSEF +++$+++ Often.
+L231814 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ How often do you test, Director?
+L232127 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ You have more in common than you know.
+L232126 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ What's wrong with him?
+L232125 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Don't be deceived, Irene.  These are just the clothes.  He has to wear them. Something I could never do.
+L232124 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ He's probably leaving some more of me around the place before he goes.
+L232123 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ I've been looking for him.  Do you know where he is?
+L232122 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ That's where we get rid of the traces of him although we never truly succeeded.
+L232064 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Again?
+L232063 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ It's about the Director.
+L232062 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Now <i>you're</i> here.  Who are your "friends"?
+L232061 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ Good to see you're feeling better.
+L232059 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Hello, sweatheart.  Come on up.
+L232058 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ Jerome--?
+L232057 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Hello.
+L231685 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ At least you're honest.  Call me by my middle name--Eugene--If you're going to be Jerome, you may as well start getting used to it.
+L231684 +++$+++ u5493 +++$+++ m365 +++$+++ VINCENT +++$+++ I don't know exactly, Jerome.
+L231683 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ You're both going to a lot of trouble--  Maybe you can con somebody into believing you're me to get your foot in the door--but once you're inside, you're on your own.  I'm sure you're sincere...  ...but I was being groomed for something like this myself.  Even without the accident I don't think I would have made it.  My point is--how the hell do <i>you</i> expect to pull this off?
+L231682 +++$+++ u5493 +++$+++ m365 +++$+++ VINCENT +++$+++ German.
+L231681 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Listen, I don't want you to think I'm ungrateful --I know you and that little broker--what do you call him?
+L231680 +++$+++ u5493 +++$+++ m365 +++$+++ VINCENT +++$+++ Suit yourself.
+L231679 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ I think I'd better choose the menu.  After all, you're learning how to be me, I'm not learning how to be <i>you</i>.
+L231678 +++$+++ u5493 +++$+++ m365 +++$+++ VINCENT +++$+++ What's wrong with it?
+L231677 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Yeah.  You want to go dancing tonight?
+L231676 +++$+++ u5493 +++$+++ m365 +++$+++ VINCENT +++$+++ You okay, Jerome?
+L231672 +++$+++ u5493 +++$+++ m365 +++$+++ VINCENT +++$+++ He's too tall.
+L231671 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Six one.
+L231670 +++$+++ u5493 +++$+++ m365 +++$+++ VINCENT +++$+++ Okay, how tall did you <i>used</i> to be?
+L232150 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ I got the better end of the deal.  I just lent you my body--you lent me your dream.
+L232149 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Thank you.
+L232148 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ I'm travelling too.
+L232147 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Where are you going?
+L232146 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ In case you get back before I do.
+L232145 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Why have you done this?
+L232142 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ No, but you might need them when you get back.
+L232141 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Have you forgotten?  I don't need any samples where I'm going.
+L232140 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ I have your samples ready.
+L232080 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ I could always walk.  I've been faking it.
+L232079 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ How the hell did you get here.
+L232078 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Not bad, Jerome.
+L232077 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ How are you, Jerome?
+L232054 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ I was never very good at it, remember?
+L232053 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ How would you like to be yourself for the day?
+L232052 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Hello?
+L231989 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ I guess I'd better have something important to say if it takes that long to get an answer.
+L231988 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ By the time I'm at the Belt, you phone and say, "How are you?"  Forty-five minutes later I reply, "Not bad.  How are you?"
+L231987 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ How long?
+L231986 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ We'll still be able to talk when I'm away. The conversation will just keep getting longer.
+L231985 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Don't worry about your little pin cushion. To be honest, I'm looking forward to having the place to myself.
+L231984 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Will you be okay?
+L231983 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ You may as well invite her here.
+L231982 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Everybody goes there.
+L231981 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Michael's.
+L231980 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Where are you taking her?
+L231979 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ I'm sure you'll be very convincing.
+L231978 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ She's already got her doubts.  I have to act like nothing's wrong.
+L231977 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Again?
+L231976 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ I'm sorry.  I've got plans.
+L231975 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Where are we going?
+L231926 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ She doesn't <i>have</i> to know.  She doesn't <i>want</i> to know.
+L231925 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Of course not.  But she's have to know eventually.
+L231924 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ You're not thinking of telling her, are you?
+L231923 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ You know how it is with these altered births --somebody told her she's not going to live forever and she's been preparing to die ever since.
+L231922 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ You <i>are</i> a catch.  No doubt she's worried that she would lower the standard of your offspring. Everybody wants to "breed up".  What's wrong with her?
+L231921 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Complicated.  I couldn't stop her apologizing.
+L231920 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ How was your evening?
+L231874 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ If I were you I'd worry about myself.  Haven't you forgotten something?
+L231873 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Never stopped you before.  And for God's sake stop plucking your hair. Someone went to a lot of trouble to make sure you wouldn't go bald.
+L231872 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ I don't feel too good.  I think I'm still drunk from last night.
+L231871 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Not thirsty?  We've got enough virgin samples to last us the week.
+L231870 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Good choice.
+L231869 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ If you say so.  The stripe.
+L231868 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ I've got enough on my mind without that.
+L231867 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Is that all?
+L231866 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ You're the one who said not to change anything. She's my ear to the investigation.
+L231865 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ So it's not just the Hoovers who've got you rattled.
+L231863 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ I'm sure I could have.
+L231862 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ You really had other offers?
+L231860 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ I'm sorry.  I think I was crying.
+L231859 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ And keep your lashes on your lids where they belong.  How could you be so careless?
+L231858 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ How could they recognize you?  <i>I</i> don't recognize you.  Anyway, you don't have a choice.  You run, you may as well sign a confession, turn us both in right now.  No, we stick this out-- find out what we can but change nothing.  This is a minor inconvenience is all it is.  We've taken worse heat than this.  Jesus, if I'd known you were going to go belly up on me at the last fucking gasp, I wouldn't have bothered.  You can't quit on me now.  I've put too much into this.  Besides, this stuff is <i>mine</i>.  I had other offers, you know.  I could have rented myself out to somebody with a spine.  You want me to wheel in there and finish the job myself?  We'll take off all right, from pad 18 just like we planned.
+L231857 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ They'll recognize me.
+L231856 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Where is your head, Jerome?  You're acting like a guilty man.  They won't marry the eyelash to you.  They won't believe that one of their elite navigators could have suckered them for the last five years.
+L231855 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ --You don't understand, they'll make the connection, they'll hoover again.  We should cut our losses.
+L231854 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ I'm not going anywhere.  Less than a week to go. Not on your life--
+L231853 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Come on--we're taking off.
+L231852 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Could be worse.  They could have found it in your eye.
+L231851 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ In a corridor.
+L231850 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Where?
+L231849 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ They found my eyelash.
+L231848 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ What makes them think that?
+L231847 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ They think I offed the Director.
+L231846 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ What are you talking about?
+L231845 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ We can't stay here.
+L231844 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Any particular reason?
+L231843 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Call German.
+L231785 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ I'm proud of you, Vincent.
+L231784 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ It's all right.
+L231783 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ --I walked right in front of it.  I was never more sober in my life.
+L231782 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ --What car?--Go to sleep.
+L231781 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ You know I wasn't drunk--I knew what I was doing when I walked in front of that car--
+L231780 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ It's okay, Eugene.
+L231779 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ I'm sorry.  I'm sorry.
+L231771 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ You know I'm scared of heights.
+L231770 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Up there they wouldn't be a problem.
+L231768 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ I still can't believe they're sending you to the Belt--you of all people--never meant to be born, on a mission to discover the origin of life.
+L231767 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ A day or so.
+L231766 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ How long do you stay up there before you go?
+L231765 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ 11.15 to the port.  A maintenance crew.
+L231764 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ What <i>is</i> that one?
+L231763 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ And drinking it.  It's like Evian by the time it's filtered.
+L231762 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ At least up there your piss will be worth something.  You'll all be showering in it, right?
+L231760 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Keep going!!  Keep going!!
+L231759 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ I gotta stop!!  I gotta stop!!
+L231757 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ You're right, there's more atmosphere where you're going.
+L231756 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Let's get out of here.
+L231744 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ You're going to have to earn your supper.  I've got my final physical tomorrow.
+L231743 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Hey, how much of you can be there?  Even if the "J. Edgars" do find something, in a week--  you'll be slightly out of their jurisdiction.  Come on, we've got to get drunk immediately.
+L231742 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ That's not the point.
+L231741 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ So what?  You didn't kill him, did you?
+L231740 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ The place is crawling with Hoovers.
+L231739 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ This calls for a celebration.  Doesn't it?
+L231738 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ He was still warm when they confirmed.
+L231737 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ What an act of benevolence--a service to the community.  So that's it.  Now there's nothing between you and ignition.
+L231736 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ They found him in his office this morning-- beaten so bad they had to check his nametag.
+L231735 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ You wish.
+L231734 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ The Mission Director.
+L231733 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Who died?
+L231703 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Listen, I bag this stuff anyway.  It may as well pay my rent.
+L231702 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ What about you?  What's in this for you, Eugene?
+L231701 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ You don't know what a relief it is not to be me.  Are you sure <i>you</i> want the job?
+L231700 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ It's not too late to back out.
+L231699 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ God, you're serious, aren't you?
+L231698 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Leave?  Just a few million years ago every atom in this hair--in our bodies--was a part of a star. I don't see it as leaving.  I see it as going home.
+L231697 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ God, what <i>wouldn't</i> you do to leave the planet?
+L231696 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ <i>More</i> than that.  You'll get used to it.
+L231695 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ You really need that much?
+L231693 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Noone orders southpaws anymore.
+L231692 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ You had to be a right-hander.
+L231691 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ It needs work.
+L231690 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ Wrong color.  It's silver.  It's not easy living up to this.
+L231689 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ What about this?
+L231688 +++$+++ u5483 +++$+++ m365 +++$+++ EUGENE +++$+++ If anybody asks, tell them the truth-- your family disowns you.  You are a disappointment, Jerome.
+L231687 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ I have to know where you come from.
+L231630 +++$+++ u5484 +++$+++ m365 +++$+++ GENETICIST +++$+++ They are not babies, Maria, merely "human possibilities".
+L231629 +++$+++ u5491 +++$+++ m365 +++$+++ MARIA +++$+++ What will happen to the others?
+L231624 +++$+++ u5484 +++$+++ m365 +++$+++ GENETICIST +++$+++ I have to caution you it's not fool-proof. With multi-gene traits there can be no guarantees.
+L231623 +++$+++ u5491 +++$+++ m365 +++$+++ MARIA +++$+++ Antonio, the choir...
+L231622 +++$+++ u5484 +++$+++ m365 +++$+++ GENETICIST +++$+++ I understand.  That's already been taken care of.  Now you appreciate I can only work with the raw material I have at my disposal but for a little extra...I could also attempt to insert sequences associated with enhanced mathematical or musical ability.
+L231621 +++$+++ u5491 +++$+++ m365 +++$+++ MARIA +++$+++ We want him--we were hoping he would get married and have children.  We'd like grandchildren.
+L231620 +++$+++ u5484 +++$+++ m365 +++$+++ GENETICIST +++$+++ Anything I've forgotten?
+L231611 +++$+++ u5491 +++$+++ m365 +++$+++ MARIA +++$+++ --We didn't want--<i>diseases</i>, yes.
+L231610 +++$+++ u5484 +++$+++ m365 +++$+++ GENETICIST +++$+++ You've already specified blue eyes, dark hair and fair skin.  I have taken the liberty of eradicating any potentially prejudicial conditions - premature baldness, myopia, alcoholism and addictive susceptibility, propensity for violence and obesity--
+L231609 +++$+++ u5491 +++$+++ m365 +++$+++ MARIA +++$+++ We would like Vincent to have a brother... you know, to play with.
+L231608 +++$+++ u5484 +++$+++ m365 +++$+++ GENETICIST +++$+++ First, we may as well decide on gender. Have you given it any thought?
+L231675 +++$+++ u5485 +++$+++ m365 +++$+++ GERMAN +++$+++ There's a way.
+L231674 +++$+++ u5493 +++$+++ m365 +++$+++ VINCENT +++$+++ Even with lifts I'm never that tall.
+L231673 +++$+++ u5485 +++$+++ m365 +++$+++ GERMAN +++$+++ You can wear lifts.
+L231668 +++$+++ u5493 +++$+++ m365 +++$+++ VINCENT +++$+++ How tall are you?
+L231667 +++$+++ u5485 +++$+++ m365 +++$+++ GERMAN +++$+++ Why are you inventing problems?  You two are a couple of goddam clones.  You look so right together, I want to double my fee.
+L231666 +++$+++ u5493 +++$+++ m365 +++$+++ VINCENT +++$+++ I'd have to bleach my hair.
+L231665 +++$+++ u5485 +++$+++ m365 +++$+++ GERMAN +++$+++ Yeah.
+L231664 +++$+++ u5493 +++$+++ m365 +++$+++ VINCENT +++$+++ That's the hair color in his profile?
+L231663 +++$+++ u5485 +++$+++ m365 +++$+++ GERMAN +++$+++ 
+L231661 +++$+++ u5485 +++$+++ m365 +++$+++ GERMAN +++$+++ It happened in Australasia.  He checked in yesterday.  No family complications, no record he ever broke his neck.  As far as anybody's concerned, he's still a walking, talking, fully-productive member of society. You just have to get him off the pipe and fill in the last two years of his life.  Excuse me, <i>your</i> life.
+L231660 +++$+++ u5493 +++$+++ m365 +++$+++ VINCENT +++$+++ How do I square the accident?
+L231659 +++$+++ u5485 +++$+++ m365 +++$+++ GERMAN +++$+++ No problem.  Before he dropped out he was an honor student, the right majors--
+L231658 +++$+++ u5493 +++$+++ m365 +++$+++ VINCENT +++$+++ I hope he's not just a body.
+L231657 +++$+++ u5485 +++$+++ m365 +++$+++ GERMAN +++$+++ He has the heart of an ox.  He could run through a Goddamn wall--if he could still run. Actually, he was a big college swimming star.
+L231656 +++$+++ u5485 +++$+++ m365 +++$+++ GERMAN +++$+++ Vincent, come down.  I've found him.
+L231655 +++$+++ u5493 +++$+++ m365 +++$+++ VINCENT +++$+++ German, is that you?
+L231654 +++$+++ u5485 +++$+++ m365 +++$+++ GERMAN +++$+++ Vincent...Vincent...
+L231651 +++$+++ u5485 +++$+++ m365 +++$+++ GERMAN +++$+++ I think I could do something  provided you know what you're doing and you can meet the terms.
+L231650 +++$+++ u5493 +++$+++ m365 +++$+++ VINCENT +++$+++ What do you think?
+L232090 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ A fingerprint.  There's something to be said for nostalgia.  What did you find?
+L232089 +++$+++ u5486 +++$+++ m365 +++$+++ HUGO +++$+++ I've found him too.
+L232088 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ Hugo!  I've found him!
+L232035 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ They said the same thing about myopia and obesity.  You think your children would be less human if they were less violent, angry, spiteful?  Maybe they'd be <i>more</i> human.  From where I sit the world could stand a little improving.
+L232034 +++$+++ u5486 +++$+++ m365 +++$+++ HUGO +++$+++ Not that.
+L232033 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ You worried about the cost?
+L232032 +++$+++ u5486 +++$+++ m365 +++$+++ HUGO +++$+++ These new personality corrections I've been reading about.
+L232031 +++$+++ u5487 +++$+++ m365 +++$+++ INVESTIGATOR +++$+++ Why not?
+L232030 +++$+++ u5486 +++$+++ m365 +++$+++ HUGO +++$+++ My wife and I--we're thinking of starting a family.
+L232139 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ Not so long--just once around the sun.
+L232138 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ A year is a long time.
+L232045 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ We could go together one day.
+L232044 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ --when you go away.
+L232042 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ I forgot something--something at home. I'll see you later.
+L232041 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ What is it?
+L232029 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ That's precisely what <i>scares</i>me--that they won't do anything <i>foolish</i> or <i>courageous</i> or <i>anything</i>--worth a Goddamn.
+L232028 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ You hypocrite.  Do you think for one moment you'd be doing what you're doing if it wasn't for who you are--<i>what</i> you are?  Don't you get <i>any</i> satisfaction knowing that your children will be able to live to a ripe old age unless they do something foolish?
+L232027 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ But "if it came to it" then it couldn't have your--  --nose.  How perfect does your child have to be?
+L232026 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ So you're not so smart after all.  I want you to know--if it ever came to it-- I'd be willing to get an ovum from the Egg Bank.  In fact, I'd <i>rather</i> use a donor egg--  --<i>if</i> it came to it.
+L232025 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ You remember the '99 Chrysler LeBaron? It's the exact height of the front fender.  Looked right instead of left.
+L232024 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ What happened?
+L232006 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ We'll get it later.  Irene, please.
+L232005 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ My medication.  I left it back there.
+L232004 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Come on.
+L232003 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ I can't.
+L232002 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ It's not safe.  I shouldn't have brought you here.
+L232001 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ Who are they?
+L232000 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Let's walk.
+L231999 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ What about the car?
+L231997 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Those checks take forever.
+L231996 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ Why are we leaving?
+L231991 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ You've never been here?  Let me order for you.
+L231990 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ What <i>is</i> this place?
+L231959 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ I guess somebody beat me to it.
+L231958 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ So you didn't do it after all.
+L231919 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Of course.
+L231918 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ Of course I think about it every day.
+L231917 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ Nothing yet.  I'll start experiencing symptoms in my late-fifties.  But unless they come up with something between now and then, I won't live much past 67.
+L231916 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ What exactly is wrong?
+L231915 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ It's here.  My heart.  I'm careful--weekly check-ups.  I'm on a drug maintenance program, blood thinners, diet--  I just want you to know what you'd be getting yourself into.
+L231913 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ I don't think so.  The only trip I'll make in space is around the sun--  --on this satellite right here.
+L231912 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ You'll be next.
+L231911 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ I envy you, Jerome.
+L231893 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Why would I be angry?  It was beautiful.
+L231892 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ You're angry--
+L231891 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Yes...<i>yes</i>...
+L231890 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ You didn't know?
+L231841 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ You celebrate, Jerome?
+L231840 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Perhaps we ought to celebrate, Irene.
+L231839 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ Just some In-Valid.  Vincent--  --somebody.
+L231838 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Does it have a name?
+L231837 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ In the South Wing.
+L231836 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Where?
+L231835 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ They found an eyelash.
+L231834 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ It was a mercy-killing after all.
+L231833 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ Friend?
+L231832 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Have they found our friend?
+L231828 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ I know about you.
+L231827 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ We were just looking.
+L231826 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ I'm sorry.  I didn't mean anything.
+L231729 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ I have better things to do this week than answer the foolish questions of some flatfoot. Don't you?
+L231728 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ Why would we do that?
+L231727 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Why don't we say we were together?
+L231726 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ No.
+L231725 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ So we don't know for sure about you, either.
+L231724 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ Yes.
+L231723 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Were <i>you</i> alone?
+L231722 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ I was at home.
+L231721 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Looks bad, doesn't it, Irene?  What about <i>you?</i>  Where were you last night?
+L231720 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ No it can't be verified.  Yes I was alone.
+L231719 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ Can that be, er, verified?  Were you alone?
+L231718 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Last night?  I was at home.
+L231717 +++$+++ u5488 +++$+++ m365 +++$+++ IRENE +++$+++ I've been asked to compile a log for the investigators--they want to know everyone's whereabouts last night.
+L231716 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ No bother.
+L232158 +++$+++ u5490 +++$+++ m365 +++$+++ LAMAR +++$+++ --Unfortunately my son's not all that they promised.  But then, who know what he could do.
+L232157 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Just remember, Lamar, I could have gone up and back and nobody would have been the wiser--
+L232156 +++$+++ u5490 +++$+++ m365 +++$+++ LAMAR +++$+++ Did I ever tell you about my son, Jerome?  He's a big fan of yours.  He wants to apply here.
+L232155 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ There's a problem, Lamar.
+L232154 +++$+++ u5490 +++$+++ m365 +++$+++ LAMAR +++$+++ Flight got you nervous?
+L232153 +++$+++ u5490 +++$+++ m365 +++$+++ LAMAR +++$+++ New policy.
+L232152 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ What's this, Lamar?
+L231957 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Need any more, you can always get it off his shoes.
+L231956 +++$+++ u5490 +++$+++ m365 +++$+++ LAMAR +++$+++ I've got enough here.
+L231586 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ I'll tell you at the end of the week.
+L231585 +++$+++ u5490 +++$+++ m365 +++$+++ LAMAR +++$+++ If everything goes to plan, this could be the last time I see you for a while.  One week to go.  Please tell me you're the least bit excited.
+L231583 +++$+++ u5489 +++$+++ m365 +++$+++ JEROME +++$+++ Only every time I'm in here.
+L231582 +++$+++ u5490 +++$+++ m365 +++$+++ LAMAR +++$+++ Jerome...never shy.  Pisses on command. You've got a beautiful cock.  I ever told you that, Jerome?
+L231602 +++$+++ u5491 +++$+++ m365 +++$+++ MARIA +++$+++ Antonio--
+L231601 +++$+++ u5492 +++$+++ m365 +++$+++ NURSE +++$+++ The name?  For the certificate.
+L231596 +++$+++ u5492 +++$+++ m365 +++$+++ NURSE +++$+++ Honey, look around you.  The world doesn't want one like <i>that</i> one.
+L231595 +++$+++ u5491 +++$+++ m365 +++$+++ MARIA +++$+++ Not like <i>this</i> one.
+L231594 +++$+++ u5492 +++$+++ m365 +++$+++ NURSE +++$+++ --I've read your profile.  I don't know about the father but you carry enough hereditary factors on your own.  You can have other children.
+L231593 +++$+++ u5492 +++$+++ m365 +++$+++ NURSE +++$+++ Honey, you've made <i>one</i> mistake--
+L231592 +++$+++ u5491 +++$+++ m365 +++$+++ MARIA +++$+++ I'm not doing it.
+L231591 +++$+++ u5492 +++$+++ m365 +++$+++ NURSE +++$+++ The doctor will give you something.
+L231590 +++$+++ u5491 +++$+++ m365 +++$+++ MARIA +++$+++ No, you don't understand.  I <i>can't</i>.
+L231589 +++$+++ u5492 +++$+++ m365 +++$+++ NURSE +++$+++ I told you, the government pays.  It's all taken care of.
+L231588 +++$+++ u5491 +++$+++ m365 +++$+++ MARIA +++$+++ I can't do this.
+L231587 +++$+++ u5492 +++$+++ m365 +++$+++ NURSE +++$+++ What are you doing?

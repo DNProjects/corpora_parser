@@ -1,0 +1,415 @@
+L220480 +++$+++ u5361 +++$+++ m356 +++$+++ BAND +++$+++ I said, I ain't got you...
+L220479 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I said, I ain't got you...
+L220478 +++$+++ u5361 +++$+++ m356 +++$+++ BAND +++$+++ No, I ain't got you...
+L220477 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ No, I ain't got you...
+L220476 +++$+++ u5361 +++$+++ m356 +++$+++ BAND +++$+++ But I ain't got you...
+L220475 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ But I ain't got you...
+L220664 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Thanks, I needed that.
+L220663 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Art Mo-o-o-ney!
+L220661 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ What did these Vancouver factories do?
+L220660 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ That was close...
+L220658 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Hold that thought.  Are we being shot at?
+L220657 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ We invested in these factories. In Vancouver.
+L220656 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ What cheap shit... hey, waiter!
+L220655 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ But I am...
+L220654 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Damnit... you were right last night. Jonathan and I were into more than sex.  Along with Bobby Vomit, right after old Jack Grendel died, we took part in a scheme to rip off Grendel records... I didn't want you involved...
+L220652 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Drink your cappucino, you're giving me a headache...
+L220651 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Lots of things.  Her favorite yogurt.  The ten drummers she would take to a desert island...
+L220650 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Did she tell you anything?
+L220649 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Have what?
+L220648 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Zuzu Petals!  Did she have it?
+L220647 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I'll buy you a new one.  I found her.
+L220646 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ I ask you to find a girl and instead you steal a C.D. from me. Ford.  You suck.
+L220531 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Thanks for the information. Appreciate it.
+L220530 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Jonathan was such a beautiful man. No one knew him like I did... Excuse me.  I can't do this now. I'll call you tomorrow.
+L220529 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Question one:  Can I have some money?  Kidding.  Why didn't you tell me about you and Johnny?  You two were into something even more dangerous than sex, weren't you? Who?  What?  Where?  How?  Now.
+L220528 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ I'll do my best.
+L220527 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ They did one of these about my ex- wife.  It's called 'The Nutcracker.'  'The Nut-crack-er'... I don't need money.  I need some questions answered.
+L220526 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Nonsense.  After what you've been through, it sounds like I owe you.
+L220525 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Listen, Queen Collie, I have a code. I never, ever, drop a case.  Besides, I, uh, used all your money to pay my bills, so I kinda owe you.
+L220524 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ So you...
+L220523 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Ouch... Of course I want off the case.  Some monster from Woodstock tried and succeeded in killing me tonight.  The fact I'm alive's a technicality.
+L220520 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I'm sorry, that's gotta be a pair of tube socks he has down there.
+L220519 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ So you know about Johnny Crunch and myself.
+L220510 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Uh, let's go sit down.
+L220509 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Colleen and Johnny, sitting in a tree, k-i-s-s-i-n-g...
+L220508 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ My God, Mr. Fairlane, you look like the Fall of Saigon.
+L220442 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Nuthin'.
+L220441 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Who?
+L220440 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Ah, the Dorothy Chandler.  I was just there with my good friend Art Mooney the other night...
+L220439 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ I have no answers.  Thanks for the stain.  Find the girl.  In the envelope are tickets to the Dorothy Chandler.  We'll chat again, then.
+L220438 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Oh... I have some questions.
+L220437 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Actually, you may take it all now.
+L220436 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Yeah, but of course for now, I only get a twenty.
+L220435 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Five thousand should be enough to assuage any qualms you have about my family tree.
+L220434 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Let's see, you're her worried sister.  Yesterday I met her worried father who incidentally was about five years younger than you. In fact, I capped off the evening by watching him get electrocuted. They talk about cases like this in the private eye handbook... something about a ten-foot pole.
+L220433 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Excuse me?
+L220432 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ No thanks.  I carry my own.
+L220431 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ But how did you know?  Here, take this picture...
+L220430 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Zuzu Petals.  You want me to rescue her from the gorgeous hell that is L.A.
+L220429 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ I need you to find my little sister. She goes by the name Zuzu...
+L220428 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Now that we've broken the ice...
+L220427 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ I don't have a sense of humor, either.  Sorry.
+L220426 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Poor taste.  I know.  Listen, I respect homosexuals.  When I was young, my maid was a homosexual.  My maid was a homosexual.
+L220425 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Fag?  Ass?  I'm sorry, is that a joke?
+L220424 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Some fag.  Charged me up the ass.
+L220423 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Who's your decorator?
+L220422 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Oh, that!  Don't take it personally. He always wakes up before I do. Down boy!  Roseanne Barr naked!
+L220421 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I don't know, I never met your father.
+L220420 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Mr. Fairlane, I'm very rich.  The kind of rich that warps minds. Nothing offends me.  When I was eleven, I walked in on my father and the Shetland pony he had given me for my tenth birthday. Does that excite you?
+L220419 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Sorry about the glass.  And the house.  And the breath.
+L220418 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Please.
+L220417 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Don't say it.  Orange juice?
+L220416 +++$+++ u5362 +++$+++ m356 +++$+++ COLLEEN +++$+++ Ford Fairlane, I'm Colleen Sutton and I need your help.  I have a problem and it pertains to the music industry.  What is it they call you?  Mr. Rock and...
+L220922 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ No prob...
+L220921 +++$+++ u5363 +++$+++ m356 +++$+++ DON +++$+++ Thanks for the promotion, man.
+L220881 +++$+++ u5363 +++$+++ m356 +++$+++ DON +++$+++ Could somebody tell me what's going on?  <u>Like slo-owly</u>...
+L220880 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Hey, Don, how's the high blood pressure.
+L220484 +++$+++ u5363 +++$+++ m356 +++$+++ DON +++$+++ Right away!
+L220483 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Have a copy of that sent to me, will ya?
+L220463 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I never thought I'd be jealous of your handicap... Sorry to hear about Bobby Vomit.
+L220462 +++$+++ u5363 +++$+++ m356 +++$+++ DON +++$+++ Julian's happy as long as he doesn't see glass shatter.
+L220452 +++$+++ u5363 +++$+++ m356 +++$+++ DON +++$+++ Tell me about it. Name's Kyle Troy.  Can't we bring up the bass.
+L220451 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I've heard cars fuck with more harmony.
+L220450 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Great pipes.
+L220449 +++$+++ u5363 +++$+++ m356 +++$+++ DON +++$+++ I haven't seen her around, and as for who would want to kill Johnny Crunch, line forms to the left. You'd find less people on our planet who wanted him alive.
+L220270 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I guess I'm not interested in any club who'll have my member as a member.  Later, Don...
+L220269 +++$+++ u5363 +++$+++ m356 +++$+++ DON +++$+++ You gotta shave before you leave the house in a dress like that and I don't mean your legs.  Why didn't you jump on her?  What's happening to you?
+L220258 +++$+++ u5363 +++$+++ m356 +++$+++ DON +++$+++ Man, ever since old Jack Grendel died, Julian has got me into one yummy gig after the other.  Not only am I producing, he's got me in some lovely-bullshit-money-money executive position.  What are you looking at...
+L220257 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I'm not cynical.  Can I help it that life is a disease and everyone's a victim. So you're producing exclusively for Grendel Records now.  Hope you're taking Julian for a bundle.
+L220256 +++$+++ u5363 +++$+++ m356 +++$+++ DON +++$+++ Damn, Ford, you're the most cynical man in the industry and that's not easy.
+L220255 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ So many assholes, so few bullets.
+L220955 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Wha --
+L220954 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Let's get hitched.  I guess I, you know, love you.  It's a beautiful thing.
+L220953 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ I just can't deal with all this crap between us, I'm sorry.  I'm quitting.
+L220875 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ I can't believe I lost an eye for a bunch of phony C.D.s
+L220874 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ After their initial investment in the factory, Grendel didn't need them.  Told them to fuck off. They tried to get these C.D.s together in order to have proof of Grendel's involvement, so they could keep him in line.  Now's the fun part...
+L220869 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ But the funny thing is, take a look at these Swiss bank account numbers. We got Bobby, Johnny, Colleen... and Julian Grendel.
+L220868 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Without Grendel knowing about it. B-I-N-G-O and Bingo was his name-O. Counterfeit C.D.s.  Tape piracy has graduated to disc piracy, the sound quality's better, and so's the money.
+L220867 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ C.D.s.  The music kind.  From the Grendel label.
+L220866 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Yeah, Colleen mentioned it.  What do they make?
+L220865 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Seems to be information about a factory in Vancouver.
+L220864 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ What an interface!
+L220855 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Johnny's C.D.?
+L220854 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Your timing swallows the massive one. Grendel just tried to kill us, he's about to frame and kiss Don, and we can't do shit.  Don't even ask about those discs. Goddamn that Art Mooney with a star by his name!  It's tied to Johnny's C.D., I know.
+L220757 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Su-ure.  Two people hired me to find Zuzu in order to get hold of one of those discs and Colleen threw a tizz when we took hers.  Obviously, all this binary disc shit is pretty mighty.  But it's not necessary.  People are dead.  One was a friend.  The same people were involved in a scam to rip off Grendel Records. Bottom line's Julian Grendel is doing a little revenge number...
+L220756 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Hmmm, the first disc was putting out an incomprehensible stream of high bits.  This one is putting out low bits.  The data is in some fucked binary system.  The two discs need to interface simultaneously with a third decryptor disc.  Comprendo?
+L220751 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ You're not funny.
+L220750 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Aha, just what I suspected!
+L220748 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I've always said the one reason I'm the best detective in the industry is that I'm the only one... but hey, I never throw away a clue...
+L220747 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ I believe the last time we came across one of these, was at the ballet.  What were your words...  'A fucking C.D.  This case is closed.'
+L220743 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Oh, Jazz, those bastards... call an ambulance!  Get that music off!
+L220742 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ I came to warn you...
+L220721 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ What are you doing at the office? You wouldn't believe what I've gone through tonight... I'm calling from the Mega Beta Pogo Sorority.
+L220720 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Hello, Ford...
+L220678 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Let's get her out of here, before she starts a shoot-out.  Drop us at my place.
+L220677 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Ah, an obvious choice.
+L220676 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Who?
+L220675 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Lieutenant Anus has discovered the cold-blooded killer behind everything.
+L220674 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ You okay?
+L220645 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Hello...  It's Colleen.  With answers.  She wants to meet.  Down.  Way down-town.  Late.
+L220644 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Yeah, let's bury her.
+L220643 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ She's just a bundle of energy, a real treasure...
+L220638 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Then I guess her case is closed. Mine isn't.  I want to know why everybody wants Zuzu.  Why people are killing and dying for her.
+L220637 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Ms. Sutton hired you to find the girl.  Period.
+L220636 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I don't know, what was the case?
+L220633 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I like.
+L220632 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Contacts.
+L220631 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ What did you... Hey, where's your spex?
+L220562 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Celebrate?  Like we celebrated after solving the White Bluesman murders?  Forget it, man.
+L220561 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I'm sorry, that dress.  What do you say we...
+L220560 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Make eye contact when you say that.
+L220559 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I wish I knew.  You did good work...
+L220558 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ No, as a matter of fact you didn't. What about the girl, Zuzu Petals, how does she fit in?  I mean, she is what this case is about.
+L220557 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ A fucking C.D.  Wow, this case is closed.  So, she's got bad taste in music and in men... Did I tell you she and Johnny were lovers and that they were into something and he got killed for it?
+L220556 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ You don't want to know, believe me. But don't worry, I washed my hands...
+L220555 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ How'd you get this from her?
+L220554 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Shut up, goodies from the ice queen.
+L220553 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Why did you interrupt?  Maxwell seemed like he wanted to hire me.
+L220544 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Mmmmmmm.  Mmmm, mmm.
+L220543 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ And it's good to see you, Julian. This is my assistant, Jazz.
+L220518 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Go on, 'they're stahting.'
+L220517 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ You going to be okay?
+L220515 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ This Colleen Sutton woman I'm with. If she flees me to go powder her whatever, I need you to keep tabs...
+L220514 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ You're a fucking gentleman.  What do you want from me?
+L220513 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Sorry, Jazz.  After this, I'll throw a burger down your throat, okay?
+L220448 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Cool.  Jazz, meet me at the Dorothy Chandler Pavilion tonight. I'll have a ticket for you at the door.  Some concert.  Could be interesting.  Dress nice.
+L220447 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Spooky.  I'll process her.
+L220446 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Tonight after I see Don. Some Beverly Hillbilly just hired me to find you-know-fucking-who. Name's Colleen Sutton.
+L220445 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ I found a lot of Art Mooneys. None with a police record, though. Not even Synchronicity.  Have you checked out Johnny Pinzolo/Crunch's houseboat yet?
+L220444 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Quiet.  Tell me you tapped in the police computer and found out lots of good stuff about Art Mooney...
+L220344 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Keep it.  It's your paycheck this month.
+L220343 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ So what about this watch?
+L220342 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Ah -- ha... You know, you should think about dating Earthmen again.
+L220341 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ That's for me... Radio contests, really Ford, how tacky...
+L220338 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I love you, too, baby.  He wants to meet at six.  What time is it now?
+L220337 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ You're friends with the most obnoxious asshole on the airwaves. The King of the Shock Jocks.  I'm, I'm shocked.
+L220331 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Quit crying.  I think we've got a case if we can make it through the cavalcade of bimbos, here...
+L220330 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Car insurance costs money. Cavities cost money.  Doritos cost money.  I'm gonna eat that damn bear... come here!
+L220329 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ You're saying you need money.
+L220328 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Rock stars!  I'm going out of my mind.  All I get are perks.  I don't make money, I make gifts. How am I supposed to pay taxes with bathtub compact disc players and autographed drumsticks.  I want cash.  Moulah.  Wampum.  Dead Presidents.  Andrew Jackson. Gerald Ford.
+L220327 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Let's just declare war on the hellhole.  Before they make <u>Crocodile Dundee</u> three.
+L220326 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Fucking Australians!  I hate that country, continent, what is it? Don't we do nuclear testing there?
+L220325 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ G'day, they say it's worth three grand...
+L220324 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ 'Bye Ford...'  Hey, let me cheer you up.  I found the IN X S payment.
+L220323 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I do it for love.
+L220306 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Cash or check, Jazz?  Don't do this to me.
+L220305 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ You wish.
+L220302 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Exactly.
+L220301 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ All your friends call you Jazz.
+L220300 +++$+++ u5366 +++$+++ m356 +++$+++ JAZZ +++$+++ Assistant.  And don't call me Jazz.
+L220299 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Your tip paid off.  Jazz, this is Sam the Sleazebag.  Sam the Sleazebag, this is Jazz, my secretary.
+L220574 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Oh.  Three hundred coming right up.
+L220573 +++$+++ u5370 +++$+++ m356 +++$+++ SLEAZY GUY +++$+++ Hey, they blew me.
+L220572 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ You gave it to the girls for one.
+L220571 +++$+++ u5370 +++$+++ m356 +++$+++ SLEAZY GUY +++$+++ Three hundred.
+L220570 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ How much?
+L220569 +++$+++ u5370 +++$+++ m356 +++$+++ SLEAZY GUY +++$+++ Thanks.  You interested.  It's festival seating, so...
+L220568 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Scalping to a funeral, you're a pretty sleazy guy.
+L220567 +++$+++ u5370 +++$+++ m356 +++$+++ SLEAZY GUY +++$+++ Got those Vomit invites here...
+L220925 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Yeah, Ford.  I'm okay.
+L220924 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ So, Zuzu.  Are you okay?
+L220911 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Just be thankful he wasn't dissatisfied with his sex life.
+L220910 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Hoh graphic!  I'm going to dream of ears for a year!  Ugh!
+L220883 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I'll mail you a letter, come on!
+L220882 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ You-see-it-all-starts-with-this- factory-in-Vancouver-and there's these-C.D.s...
+L220861 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ ArtArtArtArtMooneyMooneyMooney Mooney.
+L220860 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Oh how sweet, your friend's got his own star.
+L220852 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ There's that question...
+L220851 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Are you okay?
+L220846 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ You wish.  Come on, let's get outta here.
+L220845 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Hello, Mr. Tongue!  What a perv.
+L220840 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ This is fucking unbelievable.  Zuzu, it's a long story, you see...
+L220839 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Who do you think you are, Ford? The tooth fairy.  Kill!  Kill!  Kill!
+L220838 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I can't kill this kid's father...
+L220837 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Let go of the belt!  What are you doing?  You got mad at me for trying to save the other guy.
+L220836 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Hey.  God.  You're an asshole.
+L220829 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I won't ask why you would want to help someone trying to kill you, but hey, good job.  Shall we?
+L220828 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Ick.
+L220821 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Why have you come to my planet?
+L220820 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Smooth.  I know this is dangerous and everything but it's kind of fun. Ever see "Batman," you know when Batman and Robin are climbing up the side of the building and somebody sticks their head outside the window and says... I forget what they said but it's pretty funny.
+L220819 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Pretty smooth, huh?
+L220816 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Ye-ah.
+L220815 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Reality-reality-reality -- Outrageous building, huh?
+L220814 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ As Clark Gable said to Ava Gardner in Mogambo:  'Fuck the purse, we're gonna die-e-e.'
+L220813 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Suck a dick, I left my purse...
+L220812 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ No, wait...
+L220811 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ This way...
+L220810 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Sorry, it was dark, now come on.
+L220809 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Nice left you got there, jerk.
+L220793 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ But you know, that was just a dream.  Doesn't really count.
+L220792 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I'm afraid so, you want her?
+L220769 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Ye-ah.
+L220768 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Ford, you were right!
+L220753 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Zuzu, be quiet.  Put in Colleen's disc.  Number two.
+L220752 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ This is boring, guys.
+L220718 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Ye-ah.  Sure.
+L220717 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ I know the feeling.  This must be hell.  Can you believe, a flucking sorority... I'm gonna vomit Day-Glo.
+L220692 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Ford, do you got something cooking in the microwave?
+L220691 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ My axe!
+L220689 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Okay?  I just blew up.  I feel orgasmic.
+L220688 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Are you okay?
+L220687 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Hah fluck, great video, huh?
+L220686 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Zuzu, wake up...
+L220684 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Who cares about people?
+L220683 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ People still watch that?
+L220682 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Let's watch some 'M.T.V.'
+L220681 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ What a perv...
+L220680 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Stop.  We still got serious detective stuff to do, but we've been up all night so we should hit the sack for...
+L220679 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Why are you depressed?  You get in all the clubs, you never pay cover...
+L220641 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ You didn't ask.  Have you ever thought about mousse?
+L220640 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Friends?  You didn't tell me that.
+L220639 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Yeah, it's weird.  Bobby and Johnny were such good friends...
+L220629 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ He's the lamest clue I've ever had in my life.  Here's our stop...
+L220628 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ No.  Who's Art Mooney?
+L220627 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Zuzu Petals, you're not bad.  In fact, I was discussing this whole rock-n-roll thing with my pal Art Mooney the other day.  You know him?
+L220626 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Come again?  B.FL.D., I have sex with rock stars; it's not like I'm doing something that I don't enjoy with them, like shuffleboard. Don't worry about me, I practice safe sex and next summer, I'm going to U.C.L.A.
+L220625 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ You know rock-n-roll?  Darlin', I've been in the music industry for as long as you've lived.  I've seen things you can't even have nightmares about... but then I guess I'm just not equipped to know the industry the way you do...
+L220624 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Because I know rock-n-roll.
+L220623 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ How is it you can look at that HairHead and see God, when all I see is a lucky asshole from Reseda.
+L220622 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Spunk, come back...
+L220621 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ It's Spunk Lewis, the lead singer for Dead Ribbit!  Mr. Bus Driver, stop!
+L220620 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ What?  Jesus, tell me!
+L220619 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ I dunno.  He was to sound what Cezanne was to image or at least I thought so.  Ever since he died, I've been chased... <u>Omigod</u>!
+L220618 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ You hung out with Bobby Vomit. Who would want him dead?
+L220617 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ I'm so sure!  I'm an only child and my parents are Bill and Shirley Petals of South Bend, Indiana. They run a hardware store and...
+L220616 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Uh... wha?  You're supposed to answer those questions, not ask 'em.  I take it a woman named Colleen Sutton is not your big sister and that the late D.J. Johnny Crunch ain't your daddy?
+L220615 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Why are all these people after me?
+L220614 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Let's get serious...
+L220610 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Peachy.
+L220609 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ You okay?
+L220608 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Give me your gum and grab the wheel.
+L220607 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Hello?
+L220606 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ What?
+L220605 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ It's red, Ford.
+L220582 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ Fluck you!
+L220581 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ A simple 'please' would suffice...
+L220580 +++$+++ u5373 +++$+++ m356 +++$+++ ZUZU +++$+++ I don't know.  I'm so scared. Help me.
+L220579 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Zuzu Petals!  Zuzu Petals!  Yes! Who killed Bobby Vomit?  Who killed Johnny Crunch?  Why do people want you so goddamn bad?
+L220952 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ Shut the heck up... Pop.
+L220951 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I need someone to help me with my case load, you interested?  This whole father/son thing, if you're not into it, I mean, it's okay. You know what I'm saying?
+L220950 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ He, he, lives in South America... he's doing that anthropologist- archeologist-dentist kind of thing ... he's real busy.
+L220949 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ Who's my real father, man?
+L220948 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Hey, I love you, too, you little jerk.  Jesus, guy tries to make a commitment and he's gotta eat shit.
+L220947 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ What kind of sentimental bullshit is this?
+L220946 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ It's me.
+L220945 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Good news is that yeah, I found him.  The bad news is...
+L220944 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ Yeah, go on...
+L220943 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Well, I got some good news and some bad news.
+L220942 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ So, did you find my dad?
+L220708 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ Liar!  You don't care!  About anything.
+L220707 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Yeah, uh, I got some pretty good leads...
+L220706 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ Where's my father?  Have you even looked?
+L220705 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ And hey, I appreciate it...
+L220704 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ I tried to help you...!
+L220703 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Jesus, how could you be so stupid?  Come on, we're going to a hospital.
+L220702 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ Fuck that, I mean, the heck with that.  I kicked their ass!  Well, I tried.  There were two of them you know...
+L220701 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Run to the nearest phone and call the police.
+L220700 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ These two guys in long cowboy coats and real nice suits.  I think Armani.  They were going through your stuff with screwdrivers and shit... I did what you would have done.
+L220699 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Shut up, you dummy.  Who did this to you?
+L220698 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ I'm sorry...
+L220414 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I don't need it that bad.
+L220413 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ You need it.
+L220412 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Holy Colonel Mustard.  Gosh, you didn't mention the big clue... Kid, I can't take your money.
+L220411 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ I've got a clue.  Look at my ring. Before my old lady ran off to Baja, she told me my dad had this same ring.
+L220410 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Did he just say what I think he said?
+L220409 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ This ain't no social call.  One hundred bucks.  To find my father.
+L220408 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Twelve pack?
+L220407 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ Who cares?  I got a case.
+L220406 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Hey, you, get off my cloud.  I'm talking to my friend.  1962 Fender Stratocaster with original humbucking pick-ups, maple neck, strung upside down for a left- handed motherfucking genius... Jimi Hendrix.
+L220405 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ Ouch.
+L220296 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ Forget it.
+L220295 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Well what is it?  I'm not Kreskin.
+L220294 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ I got something serious to dis-cuss.
+L220293 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Why am I what?  Excuse me?  I catch you saying the F-word again.  I'll kill you.  That's a fucking promise.  Now get the fuck out of here.
+L220292 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ When you going to let me work with you?  Why you always fucking with me?
+L220289 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I'll give you a gut feeling, you little... Hey... <u>hey</u>!  Get that stick out of your mouth.  These things are killers, man.  Don't you go to school, listen to Smokey the Bear and all that...
+L220288 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ Gut feeling.
+L220287 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Tell me, Dr. Watson, what makes you think he's not just another piece of shit overdose.
+L220286 +++$+++ u5372 +++$+++ m356 +++$+++ THE KID +++$+++ Fairlane, you gonna find out who killed the lead singer of Black Vomit?
+L220672 +++$+++ u5368 +++$+++ m356 +++$+++ LT. AMOS +++$+++ That's the difference between a great investigator like me and a piece of Spam like you.  You look at this picture and all you see is beauty.  I see the beast.
+L220671 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Once I got an anonymous letter saying that the world would be destroyed by a giant purple raindrop. I didn't even buy a fucking umbrella... You were in too many discos during the seventies.  The Village People rotted your brain.
+L220670 +++$+++ u5368 +++$+++ m356 +++$+++ LT. AMOS +++$+++ It's some psycho killer groupie. I got an anonymous letter that says she killed Bobby Vomit, Johnny Crunch, and now, this society dame.
+L220669 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Really?
+L220668 +++$+++ u5368 +++$+++ m356 +++$+++ LT. AMOS +++$+++ God, I wish I could prove you killed everybody.  Unfortunately, I know who the real killer is.
+L220667 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ That's okay.  I'm quitting the music detective business to become a cop killer.  Pay's the same, but it'll be much more fun.
+L220666 +++$+++ u5368 +++$+++ m356 +++$+++ LT. AMOS +++$+++ Have a problem, call Ford Fairlane.  He won't solve your case, but who cares, you'll be dead in a couple days anyway. Let's face it.  After today, the California Raisins aren't gonna hire you.
+L220404 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ You were the lead sing -- Lieutenant, I didn't think anyone could cheer me up tonight... Thanks.  Really.
+L220403 +++$+++ u5368 +++$+++ m356 +++$+++ LT. AMOS +++$+++ 'It's booty time, it's booty time, across the U.S.A.  It's booty time...'
+L220402 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I was about to say he looked like shit, but hey, sure, he looked like you.
+L220401 +++$+++ u5368 +++$+++ m356 +++$+++ LT. AMOS +++$+++ Like me.
+L220400 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Yeah, and that lead singer, Jesus, that white Van McCoy wanna-be with the six-inch platform shoes. He looked...
+L220399 +++$+++ u5368 +++$+++ m356 +++$+++ LT. AMOS +++$+++ 'Booty Time.'
+L220398 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Disco Ex -- man, that group sucked like a squid, they had some shitty single they wanted me to plug, back in my publicist days...
+L220397 +++$+++ u5368 +++$+++ m356 +++$+++ LT. AMOS +++$+++ Two words.  Disco Express.
+L220396 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Why do you hate me?  It's gotta be more than Me Private You, You Cop.
+L220395 +++$+++ u5368 +++$+++ m356 +++$+++ LT. AMOS +++$+++ If you're hiding something... oh, oh, I'll have so much fun.
+L220394 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Why shucks, Lt. Anus, you told me to get the fuck out of here...
+L220393 +++$+++ u5368 +++$+++ m356 +++$+++ LT. AMOS +++$+++ What are you running from?
+L220391 +++$+++ u5368 +++$+++ m356 +++$+++ LT. AMOS +++$+++ Get the fuck out of here, honey... What do we got?
+L220390 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ You gotta admit those are all pretty great reasons...
+L220389 +++$+++ u5368 +++$+++ m356 +++$+++ LT. AMOS +++$+++ You think you're so hot just because you can get into any club. You think you're so hot, just because you have sex with great- looking women.  You think you're so hot just because you broke the Ensenada tape piracy ring...
+L220388 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Nice tie, Lt. Anus, sir.
+L220940 +++$+++ u5371 +++$+++ m356 +++$+++ SMILEY +++$+++ Anyway you want it, asshole.
+L220939 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Let me go out like a man.
+L220938 +++$+++ u5371 +++$+++ m356 +++$+++ SMILEY +++$+++ The point?
+L220937 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ You gotta be kidding!  This is unfuckingbelievable!  I have to start the evening crawling down Capital Records, I shoulda chose suicide then, but oh no, the night was young!  Next up, my guitar! The second most important thing I own and now it's toothpicks for the homeless on Hollywood Boulevard!  Then, then, after I burned up your brother, Jazz... I should say as a fucking footnote I've usually treated women like shit -- used corsages, the wet spot, you know giving out Domino's Pizza's phone number and saying it's mine... Tonight was different. I felt respect.  I felt love.  Then Jazz left me... and <u>now</u> I get to die!
+L220936 +++$+++ u5371 +++$+++ m356 +++$+++ SMILEY +++$+++ How's it going?
+L220835 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Okay.  'B-y-e!
+L220834 +++$+++ u5371 +++$+++ m356 +++$+++ SMILEY +++$+++ <u>I'm.  The.  Biggest.  Sissy.  In</u>. <u>The.  Wide.  World</u>.
+L220833 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I want you to say that you're the biggest sissy in the whole wide world.
+L220595 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Say cheese...
+L220594 +++$+++ u5371 +++$+++ m356 +++$+++ SMILEY +++$+++ Oh, but I am.  Dianetics, Ford.  You should try it.
+L220593 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ You were saying, snapperhead?  I'll bet you're not smiling now!
+L220507 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ <u>I.  Am.  The.  Biggest.  Sissy.</u> <u>In.  The.  Whole.  Fucking.  World</u>.
+L220506 +++$+++ u5371 +++$+++ m356 +++$+++ SMILEY +++$+++ Oh.  One more thing.  This is personal.  I want you to tell me you're a big sissy.
+L220505 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ The case!
+L220504 +++$+++ u5371 +++$+++ m356 +++$+++ SMILEY +++$+++ Off what?  Twenty seconds...
+L220503 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I'm off it!
+L220502 +++$+++ u5371 +++$+++ m356 +++$+++ SMILEY +++$+++ What's fine?
+L220501 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Fine!
+L220500 +++$+++ u5371 +++$+++ m356 +++$+++ SMILEY +++$+++ Case closed, okay?  Thirty seconds.
+L220499 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I guess you never saw 'A Very Brady Christmas.'
+L220498 +++$+++ u5371 +++$+++ m356 +++$+++ SMILEY +++$+++ Feel my thumb?  I keep it there forty seconds more and a welt develops cutting off the oxygen to your brain.  I leave.  Twenty- one minutes later, you're dead. The slowest, most painful minutes a person can experience.
+L220496 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Whatever you're getting paid, I can give you twenty, maybe thirty bucks more.
+L220495 +++$+++ u5371 +++$+++ m356 +++$+++ SMILEY +++$+++ Polo.
+L220917 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Julian, you're fired.
+L220916 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ I'm still the king!
+L220909 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Accident?  Accident!  You naive pussball, when I realized my life of music could only be a life of music industry.  I <u>cut my fucking</u> <u>ears off</u> so I'd only hear <u>my</u> music. Here, look.
+L220908 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Man, Julian, that accident took away more than your hearing.
+L220903 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ What is this, are you holding a microphone behind my head?
+L220902 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Yeah, it's pretty amazing how much cash you gotta give to the actual artists who create the music.  Those ingrates really take a bite.  But seriously, when Pops died, you got Vomit, Crunch, and Sutton to help finance a C.D. Cleans operation. You got greedy and they tried to get the three discs together to threaten you, but...
+L220901 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ When I was young, I read <u>Billboard</u> and I could not believe how much Grendel Records and how little of it my idiot father Old Jack Grendel got.
+L220900 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Maybe later, but first I want like to know why you'd steal from your own company...
+L220899 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Fuck me...
+L220898 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ And may I suggest for dessert, the five copies I made...
+L220897 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Oh please, Ford, I'll do any --
+L220896 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ You'd said something about proof...
+L220804 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Ciao.
+L220803 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Shit.
+L220802 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Oh, wait.  One sec.  Open the window.
+L220801 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ When I say 'no,' run for the door.
+L220799 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Are you okay?
+L220798 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Kill them.  Not quickly.
+L220788 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Before Black Vomit starts its set, Don will have his head blown off. The papers next week will reveal that he was partners with Bobby, Johnny, and Collie in 'the Grendel Records scam.'  He killed them to pay off a debt to 'the mob' or something lame like that.  And then the mob iced him.  It's all more tasteful than it sounds.
+L220787 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ What about Don?
+L220786 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ I'm running a little late.  You see, I'm having a party at <u>THE</u> Club to introduce the new lead singer for Black Vomit.  Everyone in the industry will be there, including our friend, Don Cleveland.
+L220785 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I just gave up smoking.  A last drink?
+L220783 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Ah, I didn't say seven <u>P</u>.M., now did I?
+L220782 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ It's 7:30.  You really should get a watch.
+L220781 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ <u>Okay</u>!  Okay.  You got me.  Boy, you guys are tough.  I have the third disc.  Indeed.  I.  Do. Yes, sir.  Yeah you assholes, it's in a very safe place with instructions to have it sent directly to the police if I don't make a phone call by seven o'clock.  So if you'll excuse us...
+L220777 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Oh God, please, <u>don't</u>!
+L220776 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ It doesn't have to be like this?
+L220772 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Don't play games... ugh.  Did you say you don't have the third... ugh.  I'm not going to torture <u>you</u>, Ford.
+L220771 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Yeah, yeah, I know the third one unscrambles the high bits and the low bits.  Shit, just start torturing me, man.  I didn't even know Johnny had a disc and I can't deal with any 'Don't play games with me, Mr. Fairlane' bullshit.
+L220770 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Actually you're a bit off in the motivation department... I mean, revenge is so... Bronson.  Wait, where's the third C.D.?  How could you come here without proof? It's a three piece set here!  A computer disc from Colleen, Bobby's computer disc, and Johnny's computer disc.  Together they make, oh fucking forget it!
+L220765 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Golly, I'd probably faint.
+L220764 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ And if I told you that you already knew all that shit, and that you had them killed, what would you do then?
+L220763 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Shock.
+L220762 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Uh, nice piano.  Probably get a lot of complaints from the neighbors -- heh...  It's another time, Julian, another place.  If I told you Bobby Vomit, Johnny Crunch, and Colleen Sutton were the ones you were complaining about, the ones who tried to rip you off, what would your reaction be?
+L220552 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Go on, another time, another place.
+L220551 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Jazz, we're talking here.
+L220547 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Don't worry I can run every ballet note for note in my brain...
+L220546 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Yeah, I did, you condescending fuck, but I miss Snoopy coming out at the end.  Isn't your enjoyment impaired?
+L220545 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ So what did you think of the ballet? Was it like a warm Ice Capades?
+L220542 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ I must say you're an island of reality in an ocean of diarrhea.
+L220541 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Mmmmmmm.  Mmmm, mmm.
+L220540 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Well, hello, Ford.
+L220465 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I was just discussing this whole Vomit thing with my friend Art Mooney.  Do you know him?
+L220464 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Terrible thing, but good career move.  His record sales have gone way up.  I'll just have to create a new Black Vomit.
+L220461 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ An asshole?  A swine?  A ballistic turd?  Pick one.  I never knew what a blessing my accident was until he died and I had to take over the company.  You see the music is irrelevant in this industry.  I'm going to have to ship this 'wick-prick' platinum just so teenage girls can have a compact disc cover to get wet with.
+L220460 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I knew your father.  He was quite...
+L220459 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Why thank you.  It's a Christmas present.  That was my sense of humor, everyone.  I wish you would fake a laugh.  It's easy with a deaf person.
+L220458 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Boing.  You're one hell of a lip reader.
+L220457 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Good to meet you, Mr. Fairlane. Your mouth makes quite a reflection.  I'm Julian Grendel.
+L220456 +++$+++ u5365 +++$+++ m356 +++$+++ GRENDEL +++$+++ Actually that's rather an intriguing idea...
+L220455 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ How could Grendel Records sign such a wick-prick?  I guess Julian Grendel really is deaf as a fucking doorknob.  I hear Ray Charles is going to head up the video division.
+L220746 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ It is to us!  It's computerised.
+L220745 +++$+++ u5369 +++$+++ m356 +++$+++ MELODI +++$+++ This isn't music!
+L220716 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Hebedeebuh.  Hebedeebuh.  Maybe I did die in the explosion.
+L220715 +++$+++ u5369 +++$+++ m356 +++$+++ MELODI +++$+++ Hey, troops, here's that rock 'n' roll detective I told you about.
+L220713 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Hey, the poet...
+L220712 +++$+++ u5369 +++$+++ m356 +++$+++ MELODI +++$+++ Hi, private eye guy!
+L220267 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I'll tell you when somebody pays me to give a shit and stuff.
+L220266 +++$+++ u5369 +++$+++ m356 +++$+++ MELODI +++$+++ You heard that Bobby Vomit O.D.'d, right?  Do you suspect foul play and stuff?
+L220265 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ That's funny, you're cute.
+L220264 +++$+++ u5369 +++$+++ m356 +++$+++ MELODI +++$+++ That's cute.  You're funny.
+L220263 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Only on a first name basis.
+L220262 +++$+++ u5369 +++$+++ m356 +++$+++ MELODI +++$+++ Do you really know everybody in the industry?
+L220261 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ You're a poet and didn't know it.
+L220260 +++$+++ u5369 +++$+++ m356 +++$+++ MELODI +++$+++ You're that guy, the private eye.
+L220367 +++$+++ u5367 +++$+++ m356 +++$+++ JOHNNY +++$+++ I hope you solve the case and I know you will, because you're the best.  Ford, guys like you don't grow on trees.
+L220366 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Zuzu Petals.  Sounds like a drug. A lethal one.
+L220365 +++$+++ u5367 +++$+++ m356 +++$+++ JOHNNY +++$+++ I am told it is difficult to pay the phone bill with gold chains and V.C.R.s.  There's four thousand here.
+L220364 +++$+++ u5367 +++$+++ m356 +++$+++ JOHNNY +++$+++ Just find her, man.  She's my daughter, she's my sister, she's my mother, she's some little brat I stood in line with at Taco Bell last week.  Do whatever you want with my words.  And my money.
+L220363 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I don't take cases with foundations in bullshit.  They are very hard to walk around in.
+L220362 +++$+++ u5367 +++$+++ m356 +++$+++ JOHNNY +++$+++ So...
+L220359 +++$+++ u5367 +++$+++ m356 +++$+++ JOHNNY +++$+++ What?
+L220358 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ 'Bye, Johnny...
+L220357 +++$+++ u5367 +++$+++ m356 +++$+++ JOHNNY +++$+++ It's my daughter, man.  I know I never told you about her, but God, I love that girl.  She calls herself Zuzu Petals and she's been swallowed up by the gorgeous hell that is L.A. A fucking groupie partying with the pros.  You have to get my baby back, she's my pride and --
+L220356 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ How nice.
+L220355 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Friendship's a lot different out here.  A wrong number is a relationship.  But then this isn't a social call.
+L220354 +++$+++ u5367 +++$+++ m356 +++$+++ JOHNNY +++$+++ I don't remember any Arbor Day cards from Mr. Rock 'n' Roll Detective.
+L220353 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ Nice getting all those phone calls from you after you hit it big, you Redhook bastard.
+L220352 +++$+++ u5367 +++$+++ m356 +++$+++ JOHNNY +++$+++ Fucking amazing, huh?  Chevy Nova, you Bensonhurst shit!  Still in La-la land.  Look at us, two rock 'n' roll dicks.  Unfortunately, only one of us is a detective.
+L220351 +++$+++ u5364 +++$+++ m356 +++$+++ FORD +++$+++ I don't believe it.  Getting paid to be the asshole you always were.

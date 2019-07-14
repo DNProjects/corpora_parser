@@ -1,0 +1,499 @@
+L451721 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ You don't believe me?
+L451719 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ So it's to be torture.
+L451718 +++$+++ u7143 +++$+++ m480 +++$+++ ALBINO +++$+++ The Prince and the Count always insist on everyone being healthy before they're broken.
+L451717 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Then why bother curing me?
+L451716 +++$+++ u7143 +++$+++ m480 +++$+++ ALBINO +++$+++ Till they kill you. Yeah.
+L451715 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Then I'm here till I die?
+L451714 +++$+++ u7143 +++$+++ m480 +++$+++ ALBINO +++$+++ Don't even think --  -- don't even think about trying to escape. The chains are far too thick. And don't dream of being rescued either. The only way in is secret. And only the Prince, the Count, and I know how to get in and out.
+L451993 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Then why is there fear behind your eyes?
+L451992 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ I killed him myself.
+L451969 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ I do not marry tonight.
+L451968 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ Brides often are, I'm told.
+L451967 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Should I be?
+L451966 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ You don't seem excited, my little muffin.
+L451824 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Why not? You can't hurt me. Westley and I are joined by the bonds of love. And you cannot track that. Not with a thousand bloodhounds. And you cannot break it. Not with a thousand swords. And when I say you are a coward, that is only because you are the slimiest weakling ever to crawl the earth.
+L451823 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ I-would-not-say-such things-if- Iwere-you-
+L451822 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Yes, I am a silly girl, for not having seen sooner that you were nothing but a coward with a heart full of fear.
+L451821 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ You're a silly girl.
+L451820 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ You never sent the ships. Don't bother lying. It doesn't matter. Westley will come for me anyway.
+L451818 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ Yes. Yes, of course. Naturally, not those four.
+L451817 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Every ship but the four you sent.
+L451816 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Every ship but your four fastest, you mean.
+L451815 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ Ah! My dulcet darling. Tonight we marry. Tomorrow morning, your men will escort us to Florin Channel where every ship in my armada waits to accompany us on our honeymoon.
+L451770 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ Of course.
+L451769 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ He will come for me.
+L451749 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ I suggest a deal. You write four copies of a letter. I'll send my four fastest ships. One in each direction. The Dread Pirate Roberts is always close to Florin this time of year. We'll run up the white flag and deliver your message. If Westley wants you, bless you both. If not ... please consider me as an alternative to suicide. Are we agreed?
+L451748 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ My Westley will always come for me.
+L451703 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ I swear it will be done.
+L451702 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ He is a sailor on the pirate ship "Revenge." Promise to return him to his ship.
+L451701 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ May I live a thousand years and never hunt again.
+L451700 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ If we surrender, and I return with you, will you promise not to hurt this man?
+L451645 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Oh, my sweet Westley; what have I done?
+L451644 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ ... as ... you ... wish...
+L451642 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ You mocked me once, never do it again -- I died that day!
+L451641 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Faithfulness he talked of, madam. Your enduring faithfulness. Now, tell me truly. When you found out he was gone, did you get engaged to your prince that same hour, or did you wait a whole week out of respect for the dead?
+L451640 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ And what am I?
+L451639 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ I asked him what was so important for him. "True love," he replied. And then he spoke of a girl of surpassing beauty and faithfulness. I can only assume he meant you. You should bless me for destroying him before he found out what you really are.
+L451638 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ He died well, that should please you. No bribe attempts or blubbering. He simply said, "Please. Please, I need to live." It was the "please" that caught my memory.  ---------------------------------------------------------------------------                                                           53.
+L451637 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Nothing you can say will upset me.
+L451636 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Does it bother you to hear?
+L451635 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Life is pain, Highness. Anyone who says differently is selling something. I remember this farm boy of yours, I think. This would be, what, five years ago?
+L451634 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ You mock my pain!
+L451633 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ I can't afford to make exceptions. Once word leaks out that a pirate has gone soft, people begin to disobey you, and then it's nothing but work, work, work, all the time.
+L451632 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ On the high seas, your ship attacked, and the Dread Pirate Roberts never takes prisoners.
+L451628 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Hardly complimentary, Your Highness. Why loose your venom on me?
+L451627 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ You can die slowly cut into a thousand pieces.
+L451626 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ With pride. What can I do for you?
+L451625 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ You're the Dread Pirate Roberts; admit it.
+L451624 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ I know who you are -- your cruelty reveals everything.
+L451623 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Rest, Highness.
+L451619 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ I have loved more deeply than a killer like yourself could ever dream.
+L451618 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ "Are not capable of love" is what you mean.
+L451617 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ He knows I do not love him.
+L451616 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You admit to me you do not love your fiance?
+L451615 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ I never said he was my dearest love. And yes, he will save me. That I know.
+L451614 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You think your dearest love will save you? ---------------------------------------------------------------------------                                                           50.
+L451613 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ I was giving you a chance. No matter where you take me ... there's no greater hunter than Prince Humperdinck. He could track a falcon on a cloudy day. He can find you
+L451612 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ And what is that worth, the promise of a woman? You're very funny, Highness.
+L451611 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ If you'll release me ... whatever you ask for ransom ... you'll get it, I promise you...
+L451610 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Catch your breath.
+L451607 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ They were both poisoned. I spent the last few years building up an immunity to iocane powder.
+L451606 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ To think -- all that time it was your cup that was poisoned.
+L451605 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ I am no one to be trifled with, that is all you ever need know.
+L451604 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Who are you?
+L452050 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Then you're not married -- if you didn't say it, you didn't do it  -- wouldn't you agree, Your Highness?
+L452049 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Well, no, we sort of skipped that part.
+L452048 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Did you say, "I do"?
+L452047 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ But it did. I was there. This old man said, "Man and wife."
+L452046 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ It never happened. ---------------------------------------------------------------------------                                                          117.
+L452045 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ What?
+L452044 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ It never happened.
+L452043 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ I got married. I didn't want to. It all happened so fast.
+L452042 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ What hideous sin have you committed lately?
+L452041 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Oh, Westley, will you ever forgive me?
+L452023 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Gently!!
+L452022 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ At a time like this that's all you can think to say? "Gently?"
+L452021 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Gently.
+L452020 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Oh, Westley, darling.  Westley, why won't you hold me?
+L451687 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Now, was that so terrible? ---------------------------------------------------------------------------                                                           64.
+L451686 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ We did it.
+L451683 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Rodents of Unusual Size? I don't think they exist...
+L451682 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Westley, what about the R.O.U.S.'s?
+L451681 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ I mean, what are the three terrors of the Fire Swamp? One, the flame spurts. No problem. There's a popping sound preceding each, we can avoid that. Two, the Lightning Sand. But you were clever enough to discover what that looks like, so in the future we can avoid that too.
+L451680 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ No. No. We have already succeeded.
+L451679 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ We'll never succeed -- we may as well die here.
+L451674 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ What? -- go on --
+L451673 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Finally, Roberts decided something. He said, "All right, Westley, I've never had a valet. You can try it for tonight. I'll most likely kill you in the morning." Three years he said that. "Good night, Westley. Good work. Sleep well. I'll most likely kill you in the morning." It was a fine time for me. I was learning to fence, to fight, anything anyone would teach me. And Roberts and I eventually became friends. And then it happened.
+L451671 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ I myself am often surprised at life's little quirks. ---------------------------------------------------------------------------                                                           59.
+L451670 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ But how is that possible, since he's been marauding twenty years and you only left me five years ago?
+L451669 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ This will all soon be but a happy memory because Roberts' ship "Revenge" is anchored at the far end. And I, as you know, am Roberts.
+L451667 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ You? ---------------------------------------------------------------------------                                                           58.
+L451666 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Singed a bit, were you?
+L451663 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Nonsense -- you're only saying that because no one ever has. ---------------------------------------------------------------------------                                                           57.
+L451662 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ We'll never survive.
+L451654 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ There will never be a need.
+L451653 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ I will never doubt again.
+L451652 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Death cannot stop true love. All it can do is delay it for a while.
+L451651 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Well ... you were dead.
+L451650 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ I told you, "I would always come for you." Why didn't you wait for me?
+L451649 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Move? You're alive. If you want, I can fly.
+L451648 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Can you move at all?
+L451358 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ This is true love. You think this happens every day?
+L451357 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ But how can you be sure?
+L451356 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Hear this now: I will come for you.
+L451355 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ But what if something happens to you?
+L451354 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Of course you will.
+L451353 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ I fear I'll never see you again.
+L451339 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ As you wish.
+L451338 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Farm Boy. Fill these with water --  --please.
+L451336 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ As you wish.
+L451335 +++$+++ u7144 +++$+++ m480 +++$+++ BUTTERCUP +++$+++ Farm boy. Polish my horse's saddle. I want to see my face shining in it by morning.
+L451549 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Well ...  ... you see, you use different moves when you're fighting half a dozen people than when you only have to be worried about one.
+L451548 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Why should that make such a difference?
+L451546 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Well, I haven't fought just one person for so long. I've been specializing in groups. Battling gangs for local charities, that kind of thing.
+L451545 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Why is that, do you think?
+L451542 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Why do you wear a mask? Were you burned by acid, or something like that? ---------------------------------------------------------------------------                                                           39.
+L451541 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ And a good thing too.
+L451540 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ You're quick.
+L451539 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ I just want you to feel you're doing well. I hate for people to die embarrassed.
+L451538 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Look are you just fiddling around with me or what?
+L451537 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ It's not my fault being the biggest and the strongest. I don't even exercise. ---------------------------------------------------------------------------                                                           38.
+L451536 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Frankly, I think the odds are slightly in your favor at hand fighting.
+L451535 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ I could kill you now.
+L451534 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You mean, you'll put down your rock and I'll put down my sword, and we'll try to kill each other like civilized people?
+L451533 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ We face each other as God intended. Sportsmanlike. No tricks, no weapons, skill against skill alone.
+L451532 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ I believe you -- So what happens now?
+L451531 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ I did that on purpose. I don't have to miss.
+L451527 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Oh, good, my way. Thank you, Vizzini.  Which way is my way?
+L451526 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Finish him, finish him. Your way.
+L451525 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ What do I do?
+L451524 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Give her to me.  Catch up with us quickly.
+L451457 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ I'm waiting!
+L451456 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ You be careful.  -- people in masks cannot be trusted.
+L451445 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Don't say that, Vizzini. Please.
+L451444 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ -- I do not accept excuses.  I'm just going to have to find myself a new giant, that's all.
+L451443 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Well, I'm carrying three people. And he's got only himself.
+L451442 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ You were supposed to be this colossus. You were this great, legendary thing. And yet he gains.
+L451441 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ I thought I was going faster.
+L451440 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Faster!
+L451413 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Veer left. Left. Left!
+L451412 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ I only dog paddle.
+L451397 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Anybody want a peanut?
+L451396 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ No more rhymes now, I mean it.
+L451382 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Am I going mad or did the word "think" escape your lips? You were not hired for your brains, you hippopotamic land mass.
+L451381 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ I just don't think it's right, killing an innocent girl.
+L451380 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ I've hired you to help me start a war. That's a prestigious line of work with a long and glorious tradition.
+L451379 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ You never said anything about killing anyone.
+L451378 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Once the horse reaches the castle, the fabric will make the Prince suspect the Guilderians have abducted his love. When he finds her body dead on the Guilder frontier, his suspicions will be totally confirmed.
+L451377 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ The country across the sea. The sworn enemy of Florin.  Go!
+L451376 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Who's Guilder?
+L451375 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ It's fabric from the uniform of an Army officer of Guilder.
+L452009 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ I'll be right back.
+L452008 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ He's getting away from me, Fezzik. Please. FEZZIK!
+L451965 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ I hope we win...
+L451964 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ What?
+L451963 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Inigo.
+L451962 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Right, right, sorry.
+L451961 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Don't pester him, he's had a hard day.
+L451955 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ At Miracle Max's. It fit so nice, he said I could keep it.
+L451954 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Where did you get that?
+L451953 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Will this do?
+L451950 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Over the Albino, I think.
+L451949 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Where did we put that wheelbarrow the Albino had?
+L451934 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ We had Miracle Max make a pill to bring you back.
+L451933 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ You've been mostly dead all day.
+L451928 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ How long do we have to wait before we know if the miracle works?
+L451927 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Tilt his head back. Open his mouth.
+L451926 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ We can't wait -- the wedding's in half an hour and we must strike in the hustle and the bustle beforehand.
+L451925 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Has it been fifteen minutes?
+L451924 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ What's the difference?  We've got him. Help me here. We'll have to force feed him.
+L451923 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Inigo -- there's more than thirty --
+L451861 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I just hope it's enough to buy a miracle, that's all. ---------------------------------------------------------------------------                                                           91.
+L451860 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ I have a little.
+L451859 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Have you any money?
+L451858 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ The body?
+L451857 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Well, we Montoyas have never taken defeat easily. Come along, Fezzik. Bring the body.
+L451835 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Everybody ... MOVE!!
+L451834 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ -- Fezzik, please --
+L451832 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ His true love is marrying another tonight, so who else has cause for Ultimate Suffering?  Excuse me --
+L451831 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ The Man in Black?
+L451808 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Don't bother me with trifles; after twenty years, at last, my father's soul will be at peace.
+L451807 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ But you don't know where he is.
+L451806 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ To find the Man in Black, obviously.
+L451805 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ -- where?
+L451804 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ -- look, he bested you with strength, your greatness. He bested me with steel. He must have outthought Vizzini, and a man who can do that can plan my castle's onslaught any day. Let's go --
+L451803 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ -- what? --
+L451802 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ No -- not Vizzini -- I need the Man in Black --
+L451800 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ That leaves twenty for me. At my best, I could never defeat that many.  I need Vizzini to plan. I have no gift for strategy. ---------------------------------------------------------------------------                                                           82.
+L451799 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ I don't think more than ten.
+L451798 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ How many could you handle?
+L451797 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ He's with the Prince in the Castle. But the castle gate is guarded by thirty men.
+L451793 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Yeah?
+L451792 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Perhaps not. I feel fine.
+L451791 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ You don't look so good.  You don't smell so good either.
+L451790 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ True!
+L451789 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ It's you.
+L451788 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Hello.
+L451395 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ If there are, we'll all be dead.
+L451394 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ FEZZIK, are there rocks ahead?
+L451392 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ Yes, some of the time. 
+L451391 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Oh, you've a great gift for rhyme.
+L451390 +++$+++ u7145 +++$+++ m480 +++$+++ FEZZIK +++$+++ He's really very short on charm.
+L451389 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Probably he means no harm.
+L452098 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ As you wish...
+L452097 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ Maybe you could come over and read it again to me tomorrow.
+L452095 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ Okay. Okay. Okay. All right. So long. ---------------------------------------------------------------------------                                                          124.
+L452094 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ Okay.
+L452093 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ Now I think you ought to go to sleep.
+L452090 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ I don't mind so much.
+L452089 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ No, it's kissing again. You don't want to hear it.
+L452088 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ What? What?
+L451856 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ Okay.  All right, now, let's see. Where were we? Oh yes. In the Pit of Despair.
+L451855 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ No! I'm okay. I'm okay.  -- sit down. All right?
+L451852 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ Nobody. Nobody kills him. He lives. ---------------------------------------------------------------------------                                                           90.
+L451851 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ Who kills Prince Humperdinck? At the end, somebody's got to do it. Is it Inigo? Who?
+L451850 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ I don't understand.
+L451849 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ Who gets Humperdinck?
+L451848 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ You want me to read this or not?
+L451847 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ Westley's only faking, right?
+L451743 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ -- yes, you're very smart. Shut-Up.
+L451742 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ See? Didn't I tell you she'd never marry that rotten Humperdinck?
+L451741 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ It was ten days till the wedding. The King still lived, but Buttercup's nightmares were growing steadily worse.
+L451734 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ All right, then. No more interruptions.  ... at noon, she met her subjects again. This time as their Queen.
+L451733 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ Yes.
+L451732 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ Do you want me to go on with this?
+L451731 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ I'm telling you you're messing up the story, now get it right!
+L451730 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ Well, who says life is fair? Where is that written? Life isn't always fair.
+L451729 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ You read that wrong. She doesn't marry Humperdinck, she marries Westley. I'm just sure of it. After all that Westley did for her, if she does not marry him, it wouldn't be fair.
+L451660 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ Oh. You're sick, I'll humor you.  So now, where were we here? Yeah, yeah, yeah. Ah. Oh. Okay. Westley and Buttercup raced along the ravine floor.
+L451659 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ Skip on to the Fire Swamp -- that sounded good.
+L451658 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ Someday, you may not mind so much.
+L451657 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ They're kissing again, do we have to hear the kissing part?
+L451656 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ What is it? What's the matter? ---------------------------------------------------------------------------                                                           56.
+L451655 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ Oh no. No, please.
+L451422 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ No. You could read a little bit more ... if you want. ---------------------------------------------------------------------------                                                           17.
+L451421 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ Because I can stop now if you want.
+L451420 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ Well, maybe I was a little bit concerned. But that's not the same thing.
+L451419 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ Well, I wasn't nervous.
+L451418 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ The Eel doesn't get her. I'm explaining to you because you looked nervous.
+L451417 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ What?
+L451360 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ -- murdered by pirates is good --
+L451359 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ Westley didn't reach his destination. His ship was attacked by the Dread Pirate Roberts, who never left captives alive. When Buttercup got the news that Westley was murdered --
+L451352 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ I don't be-leeve this.
+L451351 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ It was a very emotional time for Buttercup --
+L451349 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ Keep your shirt on. Let me read.  Westley had no money for marriage. So he packed his few belongings and left the farm to seek his fortune across the sea.
+L451348 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ -- well, when does it get good?
+L451347 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ -- wait, just wait --
+L451346 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ What is this? Are you trying to trick me? -- Where's the sports? -- Is this a kissing book?
+L451345 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ -hold it, hold it-
+L451333 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ Nothing gave Buttercup as much pleasure as ordering Westley around.
+L451332 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ Yeah. It's really good.
+L451331 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ Her favorite pastimes were riding her horse and tormenting the farm boy that worked there. His name was Westley, but she never called him that.  Isn't that a wonderful beginning?
+L451330 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ Oh. Well, thank you very much. It's very nice of you. Your vote of confidence is overwhelming. All right.  The Princess Bride, by S. Morgenstern. Chapter One. Buttercup was raised on a small farm in the country of Florin.
+L451329 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ It doesn't sound too bad. I'll try and stay awake.
+L451327 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ Has it got any sports in it?
+L451326 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ That's right. When I was your age, television was called books. And this is a special book. It was the book my father used to read to me when I was sick, and I used to read it to your father. And today, I'm gonna read it to you.
+L451325 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ A book?
+L451324 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ Open it up.
+L451323 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ What is it?
+L451322 +++$+++ u7146 +++$+++ m480 +++$+++ GRANDFATHER +++$+++ I brought you a special present.
+L451814 +++$+++ u7157 +++$+++ m480 +++$+++ YELLIN +++$+++ The gate has but one key, and I carry that.
+L451813 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ Double it. My Princess must be safe.
+L451812 +++$+++ u7157 +++$+++ m480 +++$+++ YELLIN +++$+++ The Thieves' Forest is emptied. Thirty men guard the castle gate.
+L451811 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ Rise and report.
+L451775 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ Try ruling the world sometime.
+L451774 +++$+++ u7157 +++$+++ m480 +++$+++ YELLIN +++$+++ It won't be easy, Sire.
+L451773 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ Form a Brute Squad then. I want the Thieves' Forest emptied before I wed.
+L451772 +++$+++ u7157 +++$+++ m480 +++$+++ YELLIN +++$+++ Many of the thieves will resist. My regular enforcers will be inadequate.
+L451771 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ She will not be murdered. On the day of the wedding, I want the Thieves' Forest emptied and every inhabitant arrested.
+L451766 +++$+++ u7157 +++$+++ m480 +++$+++ YELLIN +++$+++ My spy network has heard no such news.
+L451765 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ As Chief Enforcer of all Florin, I trust you with this secret: killers from Guilder are infiltrating the Thieves' Forest and plan to murder my bride on our wedding night.
+L451764 +++$+++ u7157 +++$+++ m480 +++$+++ YELLIN +++$+++ Sire.
+L451763 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ Yellin.
+L452061 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Wrong! Your ears you keep, and I'll tell you why --
+L452060 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ -- and then my ears, I understand. Let's get on with it
+L452059 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ I wasn't finished -- the next thing you lose will be your left eye, followed by your right --
+L452058 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ -- and then my tongue, I suppose. I killed you too quickly the last time, a mistake I don't mean to duplicate tonight.
+L452055 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ That may be the first time in my life a man has dared insult me.
+L452054 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ I'll explain. And I'll use small words so that you'll be sure to understand, you wart-hog-faced buffoon.
+L452053 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ I don't think I'm quite familiar with that phrase.
+L452052 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ No.  To the pain.
+L452051 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ A technicality that will shortly be remedied. But first things first. To the death.
+L451696 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ DEATH FIRST!!
+L451695 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ For the last time -- SURRENDER!
+L451693 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ It will not happen!
+L451692 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ I tell you once again -- surrender!
+L451691 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Ah, but how will you capture us? We know the secrets of the Fire Swamp. We can live there quite happily for some time. So, whenever you feel like dying, feel free to visit.
+L451690 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ I give you full marks for bravery --don't make yourself a fool.
+L451689 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ You mean you wish to surrender to me? Very well, I accept.
+L451754 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ Tyrone, you know how much I love watching you work. But, I've got my country's five hundredth anniversary to plan, my wedding to arrange, My wife to murder, and Guilder to frame for it. I'm swamped. ---------------------------------------------------------------------------                                                           75.
+L451753 +++$+++ u7152 +++$+++ m480 +++$+++ RUGEN +++$+++ Now, where is that secret knot? It's impossible to find.  Are you coming down into the Pit? Westley's got his strength back. I am starting him on The Machine tonight.
+L451752 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ Oh, I know. The people are quite taken with her. It's odd, but when I hired Vizzini to have her murdered on our engagement day, I thought that was clever. But it's going to be so much more moving when I strangle her on our wedding night. Once Guilder is blamed, the nation will be truly outraged. They'll demand we go to war.
+L451751 +++$+++ u7152 +++$+++ m480 +++$+++ RUGEN +++$+++ Your Princess is really a winning creature. A trifle simple, perhaps, but her appeal is undeniable.
+L451747 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ Then we will simply alert him.  Beloved, are you certain he still wants you? After all, it was you who did the leaving in the Fire Swamp. Not to mention that pirates are not known to be men of their words.
+L451746 +++$+++ u7152 +++$+++ m480 +++$+++ RUGEN +++$+++ Yes.
+L451745 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ I could never cause you grief; consider our wedding off.  You returned this Westley to his ship?
+L451724 +++$+++ u7152 +++$+++ m480 +++$+++ RUGEN +++$+++ Of course.
+L451723 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ She's been like that ever since the Fire Swamp.  It's my father's failing health that's upsetting her.
+L451705 +++$+++ u7152 +++$+++ m480 +++$+++ RUGEN +++$+++ I swear it will be done.
+L451704 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ Once we're out of sight, take him back to Florin and throw him in the Pit of Despair.
+L451557 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ I always think everything could be a trap -- Which is why I'm still alive.
+L451556 +++$+++ u7152 +++$+++ m480 +++$+++ RUGEN +++$+++ Could this be a trap?
+L451555 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ The loser is nothing. -- Only the Princess matters --  -- clearly this was all planned by warriors of Guilder. We must be ready for whatever lies ahead. ---------------------------------------------------------------------------                                                           42.
+L451554 +++$+++ u7152 +++$+++ m480 +++$+++ RUGEN +++$+++ Shall we track them both?
+L451553 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ The loser ran off alone.  The winner followed those footprints toward Guilder!
+L451552 +++$+++ u7152 +++$+++ m480 +++$+++ RUGEN +++$+++ Who won? How did it end?
+L451551 +++$+++ u7147 +++$+++ m480 +++$+++ HUMPERDINCK +++$+++ There was a mighty duel -- it ranged all over. They were both masters.
+L452086 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Have you ever considered piracy? You'd make a wonderful Dread Pirate Roberts.
+L452085 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ You know, it's very strange -- I have been in the revenge business so long, now that it's over, I don't know what to do with the rest of my life.
+L452073 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ In that case --
+L452072 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ No.
+L452071 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ I thought he was with you.
+L452070 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Where's Fezzik?
+L451981 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Light him.
+L451980 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Now?
+L451978 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Not yet.
+L451977 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Now?
+L451960 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I'll say -- how do I find the Count? -- Once I do, how do I find you again? -- Once I find you again, how do we escape? --
+L451959 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ True, but that's hardly common knowledge, is it?  Thank you. Now, there may be problems once we're inside.
+L451958 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Why? You can't even lift one.
+L451952 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ There we cannot help you.
+L451951 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Well, why didn't you list that among our assets in the first place? What I wouldn't give for a holocaust cloak.
+L451944 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Your brains, Fezzik's strength, my steel.
+L451943 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ And our assets?
+L451942 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ And it is guarded by sixty men.
+L451938 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ That doesn't leave much time for dilly dallying.
+L451937 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Buttercup is marrying Humperdinck in a little less than half an hour, so all we have to do is get in, break up the wedding, steal the Princess, make our escape after I kill Count Rugen.
+L451936 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Let me explain --  -- No, there is too much. Let me sum up.  ---------------------------------------------------------------------------                                                           99.
+L451935 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ Who are you? -- Are we enemies? Why am I on this wall? -- Where's Buttercup? --
+L451930 +++$+++ u7156 +++$+++ m480 +++$+++ WESTLEY +++$+++ I'll beat you both apart. I'll take you both together.
+L451929 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Your guess is as good as mine --
+L452039 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I WANT MY FATHER BACK, YOU SON- OFA-BITCH!
+L452038 +++$+++ u7152 +++$+++ m480 +++$+++ RUGEN +++$+++ -- anything you want --
+L452037 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ -- offer me everything I ask for --
+L452036 +++$+++ u7152 +++$+++ m480 +++$+++ RUGEN +++$+++ -- all that I have and more please --
+L452035 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ -- power too -- promise me that --
+L452034 +++$+++ u7152 +++$+++ m480 +++$+++ RUGEN +++$+++ -- yes --
+L452033 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ -- offer me money --
+L452032 +++$+++ u7152 +++$+++ m480 +++$+++ RUGEN +++$+++ No --
+L452030 +++$+++ u7152 +++$+++ m480 +++$+++ RUGEN +++$+++ Stop saying that!
+L452029 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Hello. My name is Inigo Montoya. You killed my father. Prepare to die.
+L451917 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Okay. ---------------------------------------------------------------------------                                                           97.
+L451916 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Thank you for everything.
+L451910 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ That is a noble cause. Give me the sixty-five, I'm on the job.
+L451909 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Humiliations galore!
+L451892 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Sonny, true love is the greatest thing in the world. Except for a nice MLT, a mutton, lettuce and tomato sandwich, where the mutton is nice and lean and the tomato is ripe. They're so perky, I love that. But that's not what he said. He distinctly said "to blave." And, as we all know, "to blave" means "to bluff." So you're probably playing cards, and he cheated
+L451891 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ True love. You heard him. You could not ask for a more noble cause than that.
+L451887 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ What's that?
+L451886 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Now, mostly dead is slightly alive. Now, all dead...well, with all dead, there's usually only one thing that you can do.
+L451885 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Look who knows so much. Well, it just so happens that your friend here is only mostly dead. There's a big difference between mostly dead and all dead. Please open his mouth.
+L451884 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ He's dead. He can't talk.
+L451883 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Your first story was better.  Where's that bellows?  He probably owes you money, huh? Well, I'll ask him.
+L451882 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I need him to help avenge my father, murdered these twenty years.
+L451881 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Are you a rotten liar.
+L451880 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ This is noble, sir.  His wife is crippled. His children are on the brink of starvation.
+L451879 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Sheesh! I never worked for so little, except once, and that was a very noble cause. ---------------------------------------------------------------------------                                                           93.
+L451878 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Sixty-five.
+L451877 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Don't rush me, sonny. You rush a miracle man, you get rotten miracles. You got money?
+L451876 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ We're really in a terrible rush.
+L451875 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Hah?
+L451874 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Sir. Sir.
+L451872 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ He is, eh? I'll take a look. Bring him in.
+L451871 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ He's already dead.
+L451870 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Look, I'm retired. And besides, why would you want someone the King's stinking son fired? I might kill whoever you wanted me to miracle.
+L451865 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ The King's stinking son fired me. And thank you so much for bringing up such a painful subject. While you're at it, why don't you give me a nice paper cut and pour lemon juice on it? We're closed!
+L451864 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Are you the Miracle Max who worked for the King all those years?
+L451863 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ What? What?
+L451521 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ I would as soon destroy a stained glass window as an artist like yourself. However, since I can't have you following me either --
+L451520 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Kill me quickly.
+L451518 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Okay.
+L451517 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Get used to disappointment.
+L451516 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I must know.
+L451515 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ No one of consequence.
+L451514 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Who are you?!
+L451513 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ I am not left-handed either.
+L451512 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Tell me.
+L451511 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ There's something I ought to tell you.
+L451510 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I ought to be after twenty years.
+L451509 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You're amazing!
+L451507 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I am not left-handed.
+L451506 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ And what is that?
+L451505 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Because I know something you don't know.
+L451504 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Then why are you smiling?
+L451503 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I admit it -- you are better than I am.
+L451502 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Thank you -- I've worked hard to become so.
+L451501 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ You are wonderful!
+L451497 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Naturally, you must expect me to attack with Capo Ferro.
+L451496 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ I thought it fitting, considering the rocky terrain --
+L451494 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Begin!
+L451493 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You seem a decent fellow. I hate to die.
+L451492 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ You seem a decent fellow. I hate to kill you.
+L451491 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Whether I am or not, you've been more than fair. ---------------------------------------------------------------------------                                                           30.
+L451490 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ You are ready, then?
+L451489 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Well, I certainly hope you find him, someday.
+L451488 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ More pursuit than study lately. You see, I cannot find him. It's been twenty years now. I am starting to lose confidence. I just work for Vizzini to pay the bills. There's not a lot of money in revenge.
+L451487 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You've done nothing but study swordplay?
+L451486 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I was eleven years old. When I was strong enough, I dedicated my life to the study of fencing. So the next time we meet, I will not fail. I will go up to the sixfingered man and say, "Hello, my name is Inigo Montoya. You killed my father. Prepare to die."
+L451485 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ How old were you?
+L451481 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ My father was slaughtered by a sixfingered man. He was a great swordmaker, my father. And when the six-fingered man appeared and requested a special sword, my father took the job. He slaved a year before he was done.
+L451480 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Do you always begin conversations this way?
+L451478 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Again. Thank you.
+L451477 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ We'll wait until you're ready.
+L451473 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Nothing comes to mind.
+L451472 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ You don't know any way you'll trust me?
+L451471 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ No good. I've known too many Spaniards.
+L451470 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I hate waiting. I could give you my word as a Spaniard.
+L451469 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ That's very comforting. But I'm afraid you'll just have to wait.
+L451468 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ But I promise I will not kill you until you reach the top.
+L451467 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ That does put a damper on our relationship.
+L451466 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I could do that. In fact, I've got some rope up here. But I do not think that you will accept my help, since I am only waiting around to kill you.
+L451465 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ If you're in such a hurry, you could lower a rope, or a tree branch, or find something useful to do. ---------------------------------------------------------------------------                                                           26.
+L451464 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I do not suppose you could speed things up?
+L451463 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Thank you.
+L451462 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Sorry.
+L451461 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Look, I don't mean to be rude, but this is not as easy as it looks. So I'd appreciate it if you wouldn't distract me.
+L451460 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Slow going?
+L451455 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Oh, have it your way.
+L451454 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Well, it's the only way I can be satisfied. If I use my right -- tch -- over too quickly.
+L451453 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ You know what a hurry we're in.
+L451452 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I want to duel him left-handed.
+L451450 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ You keep using that word -- I do not think it means what you think it means.  My God! He's climbing.
+L451449 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ He didn't fall? Inconceivable!!
+L451438 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Inconceivable!
+L451437 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ He's climbing the rope. And he's gaining on us.
+L451435 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Whoever he is, he's too late --  -- see?  The Cliffs of Insanity. ---------------------------------------------------------------------------                                                           19.
+L451434 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Look! He's right on top of us. I wonder if he is using the same wind we are using.
+L451411 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I don't swim. ---------------------------------------------------------------------------                                                           15.
+L451410 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Go in, get after her!
+L451408 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ What?
+L451407 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ No reason. It's only, I just happened to look behind us, and something is there.
+L451406 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ As I told you, it would be absolutely, totally, and in all other ways, inconceivable. No one in Guilder knows what we've done. And no one in Florin could have gotten here so fast. Out of curiosity, why do you ask?
+L451405 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ You're sure nobody's following us?
+L451404 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Stop doing that. We can all relax, it's almost over-
+L451401 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ That would be inconceivable.
+L451400 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Making sure nobody's following us.
+L451601 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ You only think I guessed wrong --  -- that's what's so funny! I switched glasses when your back was turned. You fool.
+L451600 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You guessed wrong.
+L451599 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ I'll tell you in a minute. First, let's drink -- me from my glass, and you from yours.
+L451598 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ What's so funny?
+L451593 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ I will. And I choose --
+L451592 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Then make your choice.
+L451591 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ It has worked -- you've given everything away -- I know where the poison is.
+L451590 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You're trying to trick me into giving away something -- it won't work --
+L451589 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ You'd like to think that, wouldn't you?  You've beaten my giant, which means you're exceptionally strong. So, you could have put the poison in your own goblet, trusting on your strength to save you. So I can clearly not choose the wine in front of you. But, you've also bested my Spaniard which means you must have studied. And in studying, you must have learned that man is mortal so you would have put the poison as far from yourself as possible, so I can clearly not choose the wine in front of me.
+L451588 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You're just stalling now.
+L451587 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Yes -- Australia, and you must have suspected I would have known the powder's origin, so I can clearly not choose the wine in front of me. ---------------------------------------------------------------------------                                                           46.
+L451586 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Australia.
+L451585 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Wait till I get going! Where was I?
+L451584 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Truly, you have a dizzying intellect.
+L451583 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Not remotely. Because iocane comes from Australia, as everyone knows. And Australia is entirely peopled with criminals. And criminals are used to having people not trust them, as you are not trusted by me. So I can clearly not choose the wine in front of you.
+L451582 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You've made your decision then7
+L451581 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Now, a clever man would put the poison into his own goblet, because he would know that only a great fool would reach for what he was given. I'm not a great fool, so I can clearly not choose the wine in front of you. But you must have known I was not a great fool; you would have counted on it, so I can clearly not choose the wine in front of me.
+L451578 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Hmm.
+L451577 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ What you do not smell is called iocane powder. It is odorless, tasteless, dissolves instantly in liquid, and is among the more deadlier poisons known to man.
+L451576 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ I smell nothing.
+L451575 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Inhale this, but do not touch.
+L451574 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Good. Then pour the wine.
+L451573 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ I accept.
+L451571 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ For the Princess?
+L451570 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Really? In that case, I challenge you to a battle of wits.
+L451569 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Morons.
+L451568 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Yes.
+L451567 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Let me put it this way: have you ever heard of Plato, Aristotle, Socrates?
+L451566 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You're that smart?
+L451565 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ I'm afraid so -- I can't compete with you physically. And you're no match for my brains.
+L451564 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ But if there can be no arrangement, then we are at an impasse.
+L451563 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ There will be no arrangement --  -- and you're killing her!
+L451562 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Perhaps an arrangement can be reached.
+L451561 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ -- there's nothing to explain. You're trying to kidnap what I've rightfully stolen. ---------------------------------------------------------------------------                                                           43.
+L451560 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Let me explain-
+L451922 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ Bye.
+L451921 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ It would take a miracle. Bye!
+L451920 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ Think it'll work?
+L451919 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Have fun storming the castle.
+L451918 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ Bye-bye, boys.
+L451915 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ A good hour. Yeah.
+L451914 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ Yeah, an hour.
+L451913 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ An hour.
+L451912 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ The chocolate coating makes it go down easier. But you have to wait fifteen minutes for full potency. And you shouldn't go swimming after, for at least, what?
+L451905 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ Humperdinck. Humperdinck! Humperdinck!
+L451904 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Nobody's hearing nothing!
+L451903 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ A life expiring and you don't have the decency to say why you won't help --
+L451902 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ I'm not listening.
+L451901 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ What, Humperdinck? Humperdinck. Humperdinck. Ooo-ooo, Humperdinck
+L451900 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Why'd you say that name -- you promised me that you would never say that name --
+L451899 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ He's afraid. Ever since Prince Humperdinck fired him, his confidence is shattered.
+L451898 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Don't say another word, Valerie.
+L451897 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ "True love." He said, "true love," Max. My God --
+L451896 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ You never had it so good. ---------------------------------------------------------------------------                                                           95.
+L451895 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ I'm not a witch, I'm your wife. But after what you just said, I'm not even sure I want to be that anymore.
+L451894 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ -- get back, witch --
+L451319 +++$+++ u7151 +++$+++ m480 +++$+++ MOTHER +++$+++ Maybe he won't.
+L451318 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ He'll pinch my cheek. I hate that.
+L451317 +++$+++ u7151 +++$+++ m480 +++$+++ MOTHER +++$+++ You are sick, that's why he's here.
+L451316 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ Mom, can't you tell him that I'm sick?
+L451315 +++$+++ u7151 +++$+++ m480 +++$+++ MOTHER +++$+++ Your grandfather's here.
+L451314 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ What?
+L451313 +++$+++ u7151 +++$+++ m480 +++$+++ MOTHER +++$+++ Guess what.
+L451312 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ A little bit.
+L451311 +++$+++ u7151 +++$+++ m480 +++$+++ MOTHER +++$+++ You feeling any better?

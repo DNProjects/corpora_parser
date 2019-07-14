@@ -1,0 +1,449 @@
+L458973 +++$+++ u2558 +++$+++ m166 +++$+++ 1ST DEPUTY +++$+++ I don't run the joint. They just told me to bring you in.
+L458972 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ About what?
+L458971 +++$+++ u2558 +++$+++ m166 +++$+++ 1ST DEPUTY +++$+++ They wanna talk to you.
+L458970 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I know where you're from. You guys look the same every place.
+L458969 +++$+++ u2558 +++$+++ m166 +++$+++ 1ST DEPUTY +++$+++ We're from...
+L458968 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Huh? Whadda ya mean, get up?
+L458967 +++$+++ u2558 +++$+++ m166 +++$+++ 1ST DEPUTY +++$+++ Let's go, Jake, wake up!
+L458750 +++$+++ u2559 +++$+++ m166 +++$+++ COMO +++$+++ Ok, champ.
+L458749 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ No, we're all right. Thanks anyway, Tommy.
+L458748 +++$+++ u2559 +++$+++ m166 +++$+++ COMO +++$+++ Just come by to wish you luck.  Need anything?
+L458747 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I'm Ok.
+L458746 +++$+++ u2559 +++$+++ m166 +++$+++ COMO +++$+++ You just take it easy, now. You'll do all right. Feelin' Ok?
+L458745 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Tommy, thanks for coming over.
+L458744 +++$+++ u2559 +++$+++ m166 +++$+++ COMO +++$+++ Hey champ!
+L458683 +++$+++ u2559 +++$+++ m166 +++$+++ COMO +++$+++ Make it on his own? Does he know the kind of money involved? I mean the real money. He thinks he's gonna become champ on his own? We're gonna sit by and see some nut come in there and hold one of the most important titles in the world? A nut who don't listen to nobody or respect nobody? Is he really crazy? Listen, Joey, you understand, you tell him. I don't care how great he is or how colorful. He could beat all the Sugar Ray Robinsons and all the Janiros he wants to. He ain't gonna get a shot at the title without us. I'm not askin' you to do another thing except get that message into that thick head!
+L458682 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Tommy, Jake respects you. He won't even say hello to anybody else -- you know that. But you know when Jake gets set on somethin', Jesus Christ Almighty could get off the fuckin' cross and he ain't gonna talk him out of it. I'm his kid brother. I got no say with Jake on this. He thinks he can buck everybody and make it on his own.
+L458681 +++$+++ u2559 +++$+++ m166 +++$+++ COMO +++$+++ He's an embarrassment because Frankie and the other guys are expectin' me to do something about it, and I'm lookin' very bad. I can't deliver a kid from my own neighborhood. Why's he make it so hard on himself? He comes to me, I can make it easier for him.
+L458680 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ How can he embarrass you?
+L458679 +++$+++ u2559 +++$+++ m166 +++$+++ COMO +++$+++ Look Joey, I wanna tell you something. Your brother ain't gonna get nowhere without us -- nowhere. And I'm tellin' you between the two of us, it's gettin' to the point where it's gettin' to be a real embarrassment to me, a real embarrassment.
+L458678 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Aw, Tommy, c'mon, it ain't that.
+L458677 +++$+++ u2559 +++$+++ m166 +++$+++ COMO +++$+++ What is it with you? Can't you talk? You got like a funny attitude. I can't figure you out, Joey. What's with you and the quick answers? You wanna get outa here fast?
+L458676 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Yeah, they're good. They're good, Tommy.
+L458675 +++$+++ u2559 +++$+++ m166 +++$+++ COMO +++$+++ Aside from everything else, your family all right?
+L458673 +++$+++ u2559 +++$+++ m166 +++$+++ COMO +++$+++ All right, you guys, shake hands.
+L458672 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Yeah, I understand, Tommy.
+L458671 +++$+++ u2559 +++$+++ m166 +++$+++ COMO +++$+++ All right. I don't have to hear any more. I think I understand what happened. I understand it was your brother's wife and there was probably a misunderstanding. I'm not sayin' Salvy shouldn't have acted the way he did. But, Joey, you don't raise your hands. You don't do that kind of thing. This time we forget about it but no more after this. You understand?
+L458710 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You got any money you want to bet on Billy Fox, you can put it right here...  'cause Jake LaMotta don't go down for nobody.
+L458709 +++$+++ u2560 +++$+++ m166 +++$+++ EAGAN +++$+++ What?
+L458708 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I'm gonna kill him. That fuckin' jig's gonna wish he never came outa the jungle. You got any money?
+L458707 +++$+++ u2560 +++$+++ m166 +++$+++ EAGAN +++$+++ I want to believe you, LaMotta.
+L458706 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Believe what you want.
+L458705 +++$+++ u2560 +++$+++ m166 +++$+++ EAGAN +++$+++ Now the fight's off the books altogether. Meyer Lansky couldn't get a bet down on this fight. Some people are saying you're going into the tank.
+L458704 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I don't follow no gamblin' Commissioner. I'm just a fighter.
+L458703 +++$+++ u2560 +++$+++ m166 +++$+++ EAGAN +++$+++ You were a big favorite in this fight. Then two days ago the odds start jumping all over the place until you're a 12-5 underdog.
+L458702 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What who's been sayin'?
+L458699 +++$+++ u2560 +++$+++ m166 +++$+++ EAGAN +++$+++ I'd like to talk to Jake a minute.
+L458698 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What's up, Colonel?
+L458447 +++$+++ u2561 +++$+++ m166 +++$+++ IRMA +++$+++ None of your fuckin' business.
+L458446 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ And where you goin'?
+L458445 +++$+++ u2561 +++$+++ m166 +++$+++ IRMA +++$+++ You fuckin' worm, if you're going out, I'm going out.
+L458444 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What're you, a cop? I'm goin' out -- business.
+L458443 +++$+++ u2561 +++$+++ m166 +++$+++ IRMA +++$+++ Where you going at this hour?
+L458361 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ No, I can't wait. You know when I wait? When it's important to wait. It's not important to wait for no steak. It's important to wait for Reeves to leave the ring. It ain't important to wait for no steak! I won that fight. So, I stayed in the ring, and that way I made sure everybody knew it. I shoulda knocked him out earlier, sonofabitch.
+L458360 +++$+++ u2561 +++$+++ m166 +++$+++ IRMA +++$+++ Here's your carrots. You're in such a hurry. You can't wait.
+L458359 +++$+++ u2561 +++$+++ m166 +++$+++ IRMA +++$+++ Here's your steak. You can't wait for it to be done. Here.
+L458358 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ It looks done. I'll take it the way it is.
+L458357 +++$+++ u2561 +++$+++ m166 +++$+++ IRMA +++$+++ It's not done.
+L458356 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ This looks done.
+L458948 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Do you think I'd let her in a place like this with guys like you hangin' around?
+L458947 +++$+++ u2562 +++$+++ m166 +++$+++ J.R. +++$+++ Where's your wife, Jake?
+L458946 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Yeah, I really cleaned up on him.
+L458945 +++$+++ u2562 +++$+++ m166 +++$+++ J.R. +++$+++ I saw you fight Bob Satterfield in '46, Jake. In Chicago. You were great.
+L458944 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You're a good sport, lady.
+L458942 +++$+++ u2562 +++$+++ m166 +++$+++ J.R. +++$+++ You were great, Jake. Just like old times. Good thing Sugar Ray wasn't here tonight. Oh Jake, this is State's Attorney Bronson and his wife.
+L458941 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ J.R., glad you could make it.
+L458872 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Stop it. What're you, crazy?
+L458871 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Was Vickie part of the deal with Tommy? Was my wife part of the deal? Tell me, was that it?
+L458840 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ I gotta go. I gotta get outta here. I can't take this shit. Lenore is waitin' for me. I gotta go. You're a definite wacko. You're fuckin' crazy, you know that, crazy.
+L458839 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You're very smart, Joey, very smart. Nobody gives me a straight answer around here. You're givin' me these answers, but you still didn't answer my question. Did you fuck Vickie?
+L458838 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Whatsa matter with you?
+L458837 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Did you ever fuck my wife?
+L458836 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Whadda ya mean?
+L458835 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I don't mean now. I mean before -- before we met.
+L458834 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ What?
+L458833 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Did you ever fuck my wife?
+L458832 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ You're worried about this girl, you're gonna let this girl ruin you're life for you... You wanna worry, worry about your fuckin' stomach that you can't bend over -- that you gotta step in the ring in a month.
+L458831 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Eh, Joey, even you don't know what you meant. You mentioned Salvy, Tommy Como, you -- that means somethin'. Why'd you say them? You coulda said anybody.
+L458830 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ So what?
+L458829 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ But you said "you."
+L458828 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ I meant, kill everybody. You or me or anybody. You're a big shot. Kill, kill... g'head.
+L458827 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What do you mean, "you"?
+L458826 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ What?
+L458825 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What do you mean, "you"?
+L458824 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ So, go ahead. Kill everybody. Kill Salvy, kill Vickie, kill Tommy Como, kill me while you're at it. What do I care? You're killing yourself the way you're eating, the way you worry about things you don't have to worry about.
+L458823 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You givin' me that look. I gotta accept your word, but if I find out anythin', I'm gonna kill somebody...
+L458822 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Well, you're wrong Jack. I'm tellin" you what happened. He got outta line, we had a fight, and it's straightened out now.
+L458821 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ When it comes to her, I don't trust nobody. I'm askin' you somethin'.
+L458820 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ What bullshit? Hey, I'm your brother. You wanna believe me -- you trust me?
+L458819 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Don't bullshit me, Joey. You ain't tellin' me the truth.
+L458818 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Some things changed between us. Now, he thinks who the fuck he is. He's been passing certain remarks that I don't like.
+L458817 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Then why did you give him a beatin' if he didn't do anything? You and him been friends a long time.
+L458816 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ I did keep an eye...
+L458815 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You're supposed to keep an eye on her for me. I'm askin'...
+L458814 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ What?
+L458813 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Did Salvy fuck Vickie?
+L458812 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Whatever you touched, that's good now.
+L458810 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Well, I heard some things.
+L458809 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Jack, no. I just explained the whole thing to you. It was just between me and Salvy, if it had anything to do with you and Vickie, I woulda told you about it.
+L458808 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Who did it have anything to do with... Vickie?
+L458807 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ No, I just told you what happened.
+L458806 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Didn't it have nothin' to do with me?
+L458805 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ It didn't have nothin' to do with you.
+L458804 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Why didn't you tell me about it?
+L458803 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Nothin'. Salvy was out of line. He was drunk or somethin', I dunno. Anyway, the windup was I gave him a beatin'. Tommy called me down, and we straightened it out. It's all forgotten about.
+L458802 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You know, when you gave him a beatin'.
+L458801 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ When?
+L458800 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Answer me somethin'. What happened at the Copa with Salvy when I was out of town?
+L458798 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ I can't tell. You're stomach's in the way.
+L458797 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ How's that?
+L458796 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Well, that's what I mean.
+L458795 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Well, you're not supposed to kiss your mother on the mouth.
+L458794 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Ain't a cheek ever good enough for you? I never even kissed Mama on the mouth.
+L458793 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ What? I just said hello. Since when I can't kiss my sister-in-law?
+L458790 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Where you been?
+L458789 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Screw you, Jack.
+L458738 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What am I gonna do for 24 hours? I can't even eat!
+L458737 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ So eat just a little. You gotta eat something.
+L458736 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I can't eat a steak. If I eat a steak, I'm gonna have trouble making the weigh-in.
+L458735 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ I'm gonna order up some stuff. Have a steak.
+L458731 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ We did what we had to do. Tommy don't forget. Sooner or later you'll get your shot -- if Tommy don't die.
+L458730 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Jesus Christ! Seven months! What am I gonna do for seven months? I'm gonna go crazy. How do I keep my strength? By that time I'll be too weak to win the title. And my weight? Forget about it -- I'm gonna blow up like a balloon. I ain't never gonna hold my weight down. Seven months! I don't know...
+L458729 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ All right, you don't wanna fall down, so now you gotta take a rest. So, you enjoy the suspension. 'Cause there's nothin' you can do about it. Let the Commissioner and the D.A. jerk you around. So you wait.
+L458728 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Yeah, except fall down. That's right.
+L458727 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Except fall down like a normal person.
+L458726 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What the fuck they want? I took the dive. They want me to fall down too? I don't fall down for nobody. I never went down in my life. Joey, what do I gotta do? Crawl on my hands and knees? I made an asshole of myself in the fuckin' Garden! All the newspaper writers make fun of me. I'm the bum of the year. All I want is a shot. Just a fuckin' shot. What do I gotta do? I'll do anything.
+L458725 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ See? That's all there was to it.
+L458724 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ G'wan, do it.  Protect yourself, rummy.
+L458723 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ C'mon, Joey.
+L458722 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Stick out your hands, Jake.
+L458695 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Yeah, I know.
+L458694 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ I got good news, and I got bad news. The good news is you got your shot at the title. The bad news is...
+L458693 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What did Tommy say?
+L458692 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Sure, I'll keep an eye on her.
+L458691 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I want you to keep an eye on her when I'm not here. Understand?
+L458690 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Jack, if there was anything funny, I would tell you.
+L458689 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ When I'm away, did you ever notice anythin' funny with her? Tell me the truth.
+L458688 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Try talkin' to her. She's your wife -- ask her what's the matter.
+L458687 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What do you mean?
+L458686 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Maybe she's afraid you're gonna hit her so she can't talk to you the way she wants to.
+L458685 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I remember the first time I met Vickie... I know there's somethin' up. I know she's doin' somethin', but I can't catch her...
+L458684 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Whatcha doin'?
+L458587 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Don't be long. I'm afraid with all these tough guys here.
+L458586 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Excuse me for a minute. Be right back.
+L458583 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ C'mon, Jake. You know she's crazy about you.
+L458582 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Didn't you just see her lookin' at him? She told me no, but I don't believe her.
+L458581 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Nah, she would never...
+L458556 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ This Janiro's an up-and-coming fighter, this kid you gotta knock out. Knockout this fuckin' kid! I'm telling you, this is your step towards getting a shot at the title. Listen to me: I'm telling you. You been killin' yourself for three years. There's nobody left -- they're afraid to fight you. This Janiro's up-and- coming. He don't know. Fuckin' tear him apart, wipe him out! What are you worried about? Your weight? Look, even if you lose they're gonna think you're weak; they're gonna think you're not the fighter you used to be. They'll match you with guys they were afraid to match you with before, and then you'll kill them and you'll get your title shot. And if you beat this kid Janiro, they gotta give you a shot at the title because there's nobody else. Either way you win and you do it on your own -- just like you want it. All right?
+L458555 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Say what you gotta say. Don't be a smart ass.
+L458554 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ You want the title shot or not?
+L458553 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Say what you're gonna say.
+L458552 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ You want the title shot?
+L458551 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Well, sometimes you shouldn't listen to me! Now I don't know if I can make it down to 155. I'm having trouble making 160, and without telling me, you sign me for a fight at 155 pounds, and if I don't make 155, I forfeit $15,000! You're supposed to know what you're doin'. You're supposed to be a manager!
+L458550 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Jake, you're the one who said you could get down to 155! What did I do, pull it out of the fuckin' hat?
+L458549 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I just weighed myself -- I'm 161. No more deals like this Janiro bullshit. I didn't tell you to do it in the first place.
+L458548 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ No, take her home. I wanna be alone for a while. Everybody go.
+L458547 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ You want us to wait for you?
+L458543 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I dunno. Maybe I don't deserve to win. I've done a lot of bad things. I dunno...
+L458542 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ You won and was robbed! You didn't do nothin' wrong.
+L458541 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Whadda I gotta do, Joey? I knocked him down. What did I do wrong? I don't understand.
+L458540 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ They robbed us! Those fuckin' judges -- What the fuck fight were they watching? If I see them on the street, I'll break their heads. Decision Robinson, my fuckin' ass! Those judges give him the decision 'cause he's goin in the army next week! How else could this have happened?... What do you think they gave him the decision for, that's why.
+L458520 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I'm the only guy ever to beat Sugar Ray, and I still don't have a shot at the title.
+L458519 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ He fights the toughest guys around that everybody else is afraid to fight...
+L458462 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Give me a chance. Let me look.
+L458461 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Do you see her yet?
+L458454 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ How many times do I have to hit her? I hit her enough.
+L458453 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ No, but Jake... how much abuse can you take.
+L458452 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Hey, watch your mouth. Don't talk like that. She's still my wife.
+L458442 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ C'mon, hurry up. We're never gonna get outa here tonight.
+L458441 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I don't like all those other clowns around. That's all I know.
+L458440 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ I'm tellin' you, she'll be there, I know she'll be there. Dressed up and everything.
+L458439 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Nah, not now -- all those hard-ons around. I'll wait. Not now.
+L458438 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Ah, no, no. I didn't bang her. I know her from around here, that's all. You want to meet her or what?
+L458437 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You know, like bang her or anything?
+L458436 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ With her? How?
+L458435 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You wasn't with her?
+L458434 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Huh?
+L458433 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You wasn't with her, were you?
+L458432 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Ah, some piece of ass, I'm tellin' you.
+L458431 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Yeah, she's nice.
+L458430 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Probably. You know she talks to everybody, and not just him.
+L458429 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What does that have to do with it? She don't look 15 to me. I heard somethin' with Salvy. She was with him once or somethin', I think. It was like some blonde. That's the one...
+L458428 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Nah, she don't go with nobody. She's only 15 years old.
+L458427 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ She ever go with them? Like Salvy?
+L458426 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ How you gonna catch anybody alone at a dance?... I don't know if she'll be there alone... She'll probably be there with her girlfriends or something.
+L458425 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ 'Cause I wanna catch her alone.
+L458424 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ I'm tellin' you, she'll be there, I know she'll be there.
+L458423 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Nah, not now... I wanna wait. I don't feel right...
+L458422 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ No, I see her around the pool. I know her. I know her like that -- not like that.
+L458421 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ How do you know? You know her that good?
+L458420 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ You sure you wanna meet her? Don't make me go over there, you change your mind and you make me look bad, cause she's really a knockout. She's 15, this kid -- a great piece of ass.
+L458419 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Go 'head.
+L458418 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Cause I'll go right over there and bring her here.
+L458417 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Yeah --
+L458416 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ No, I'm not afraid. Why? You wanna meet her?
+L458415 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Whadda ya mean, whadda I care? Who is she? What's a matter? You afraid I'm gonna take her on you?
+L458414 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Whadda you care?
+L458413 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Who's that?
+L458409 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ I didn't tell them to come. Tommy Como...
+L458408 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Hey, I don't care about Tommy Como. I don't care about Jesus Christ on the fuckin' cross. I gotta give them a percentage of what I make! I'm in here breaking my ass, not them. Don't ever bring them up here again.
+L458407 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ What are you getting so hot about -- Tommy Como told him to come down here...
+L458406 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ And that hard-on, Salvy. Who's he think he is? I'm gonna let that fuckin' hard-on come up here and act like a big shot.
+L458403 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Don't ever bring those kids up here again! I'm working out, I'm killin' myself in here, and they walk around like they fuckin' own the neighborhood.
+L458402 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Yeah, yeah. They just wanted to talk to you. So I...
+L458401 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Answer me when I talk to you.
+L458397 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ See that, I don't feel it. I can take it. I know I can take anybody.
+L458396 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ What was that for? I know you can take punches. I can hit you from now to doomsday. What the fuck does that prove?
+L458395 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Go ahead.
+L458394 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Jack! Enough!
+L458393 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Harder.  Take the towel off.
+L458389 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Here's your glove.
+L458388 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Jack, I got no gloves.
+L458387 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Go ahead. I ain't drunk. Take your best shot. On the jaw.
+L458386 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ C'mon, Jack. You had a few drinks.
+L458385 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You heard me, I said hit me.
+L458384 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ You want me to do what?
+L458383 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Hit me in the face.
+L458382 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Sure. What is it?
+L458381 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Yeah. Do me a favor.
+L458380 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ You know?
+L458379 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I tell you one thing. Ok, I'll never be big enough to fight Louis, but I know Joey, I know...
+L458378 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ That's what I'm sayin'. You shouldn't even think like that. It's crazy.
+L458376 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ What're you talking about? He's a heavyweight. You're a middleweight.
+L458375 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I ain't ever gonna fight Joe Louis, that's what's the matter.
+L458374 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Hey, c'mon, what's the matter?
+L458373 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Nothing...
+L458372 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ What's wrong?
+L458937 +++$+++ u2565 +++$+++ m166 +++$+++ REPORTER +++$+++ What do you think of Jake's retirement, Mrs. LaMotta?
+L458936 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Ain't she beautiful? Coulda been Mrs. America if I didn't pull her outa the contest. Didn't want her wearing a swimsuit for nobody but me.
+L458935 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Why should I be bitter? Boxing's been good to me. I got a nice house, three kids, a beautiful wife -- take a picture of her. Vickie.
+L458934 +++$+++ u2565 +++$+++ m166 +++$+++ REPORTER +++$+++ You sound bitter.
+L458933 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ It means I'm through with boxing. I'm tired with tryin' to make the weight anymore. I'm sick of thinkin' about weight, weight, weight.
+L458932 +++$+++ u2565 +++$+++ m166 +++$+++ REPORTER +++$+++ Does that mean...
+L458931 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I'm pulling out of next Wednesday's TV bout 'cause I can't make the weight. I'm fighting at light heavyweight, and I still can't make the weight.
+L458522 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I tell you what. You hit me here.  Sugar Ray hits me here.  I can't tell the difference. I just fight.
+L458521 +++$+++ u2565 +++$+++ m166 +++$+++ REPORTER +++$+++ You just fought Sugar Ray two weeks ago and you're training like this right now... Are you afraid Sugar Ray might beat you this time?
+L458518 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You guys know more about that than I do. I just fight...
+L458517 +++$+++ u2565 +++$+++ m166 +++$+++ REPORTER +++$+++ Well, the word is to get a title shot you have to cooperate with the people who control boxing, in New York. And they're saying that you don't cooperate.
+L458516 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Why not? There's nobody else around who wants to fight me; they're all afraid. I don't see why I shouldn't have a shot at the title right now.
+L458513 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Maybe it wasn't you, but you know what I'm talkin' about.
+L458512 +++$+++ u2565 +++$+++ m166 +++$+++ REPORTER +++$+++ Jake, did I ever make you look bad before?
+L458511 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I'm tellin' you now, when I read this, it better not make me look bad.
+L458925 +++$+++ u2568 +++$+++ m166 +++$+++ TONY +++$+++ Don't talk. Keep at it. Jab, jab, jab. You're ahead on points.
+L458924 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ He ain't hurting me, but I can't get him down.
+L458893 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Are you outa your mind? If I come out, I'll lose the title.
+L458892 +++$+++ u2568 +++$+++ m166 +++$+++ TONY +++$+++ I'll give you anything you want, Jake. I think you should come out for a few minutes -- give yourself a break.
+L458891 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Just give me a chip of ice to put in my mouth. Just a chip of ice.
+L458890 +++$+++ u2568 +++$+++ m166 +++$+++ TONY +++$+++ Three more, I figure.
+L458889 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ How many pounds I gotta lose?
+L458888 +++$+++ u2568 +++$+++ m166 +++$+++ TONY +++$+++ Yeah. At night.
+L458887 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ At night?
+L458886 +++$+++ u2568 +++$+++ m166 +++$+++ TONY +++$+++ Nine o'clock.
+L458885 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What time is it?
+L458884 +++$+++ u2568 +++$+++ m166 +++$+++ TONY +++$+++ It ain't worth it, Jake. Get out.
+L458717 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Why did they have to stop it? Why did they have to stop it?
+L458716 +++$+++ u2568 +++$+++ m166 +++$+++ TONY +++$+++ Don't fight anymore!  It's a free country, don't fight anymore!
+L458996 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What friends?
+L458995 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Can't you get the money from your friends?
+L458994 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Don't make no difference no more.
+L458993 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Jake, be careful! What're you doing to the belt?!
+L458992 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Are you kiddin'? Did you ever see a 14-year-old testify in court? Did you see the papers? "LaMotta on Vice Rap." Everybody likes a shot at the Champ.
+L458991 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ But they don't have a case against you.
+L458990 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I need ten thousand dollars. My lawyer says if we can spread ten thousand bucks around, we can get the case dropped.
+L458989 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ What are you doing?
+L458988 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ All right, just don't make any noise.
+L458987 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I promise I just gotta pick up one thing.
+L458986 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ The kids are sleeping.
+L458984 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ No. Open the door.
+L458983 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Are you drunk?
+L458982 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Vickie, open up. I need to come in.
+L458965 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I'm sick of it. I can't watch you this way. You're too drunk all the time. There's too many girls. I can't... I don't wanna talk about it. I made up my mind.
+L458964 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Aw, c'mon, Vick --
+L458963 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I got a lawyer, Jake. We're getting a divorce. I'm getting custody of the kids.
+L458962 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Aw, c'mon. Don't say that.
+L458961 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ No. I won't talk to you where you can use your hands on me.
+L458960 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Open the door, Vickie.
+L458959 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ No. This time it's true. I didn't bother to tell you until I had everything worked out.
+L458958 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Sure, what else is new?
+L458957 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I'm leaving you Jake.
+L458956 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I'm sorry. I had to work late last night. Slept at the club.
+L458912 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Ok, all right. Telephone's in the hall. Dial his number.
+L458911 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Tell him how you feel -- you miss him. Tell him you're sorry.
+L458910 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I dunno.
+L458909 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Why don't you just call him?
+L458908 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I miss Joey. I wish Joey was here.
+L458904 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I don't know.
+L458903 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Then what?
+L458902 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ No, not that.
+L458901 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What do I say to him? Call him up on the phone and say, "Joey, I'm sorry about that little trouble we had. How about havin' dinner?" Is that what I say?
+L458900 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Why don't you just call him up?
+L458899 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ OK. Talk.
+L458898 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I want to say something to you without you blowing your stack.
+L458897 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What?
+L458896 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Jake --
+L458895 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I don't know what it is. I dunno, it's the kind of thing that -- the words won't come out.
+L458894 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Jake, why don't you just try lying down and get some rest.
+L458883 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Yeah --
+L458882 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ You know, if there's one thing -- I just don't understand you, not one single little bit. You love me?
+L458878 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ You're not only an animal, you're a stupid animal.  You're rotten.  Rotten.  Rotten.  You're a sick maniac. A maniac! You belong in a mental hospital.
+L458877 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You're the fuckin' animal! You ran around with every guy I knew while I was breakin' my ass for you.
+L458876 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Nothing is what I said! Go on, kill me.  Kill me.  I'm not afraid of you anymore. I don't care if you kill me like you're killing him. You're a sick animal.
+L458875 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Get the fuck outa here. Whadda you mean nothing'? You stupid bitch!
+L458874 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ You're killing him. You're killing him for nothing. Stop it.
+L458868 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Yeah, I sucked his cock.
+L458867 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You did?
+L458866 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I'll say anything you want me to say. I fuckled Salvy. I fucked Tommy. I fucked your brother. I fucked everybody! What do you want to hear? I sucked your brother's fuckin' cock!
+L458863 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You're a fuckin' liar.
+L458862 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Nobody, I tell you. Jake stop it.
+L458861 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Come out of there! Did you fuck Salvy?  Answer me. Open this fuckin' door, you fuckin' cunt!  Who've you been fuckin'?
+L458860 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I went with Sandy and Vera. Salvy was there.  Stop it. I just had a drink, that's all. I didn't do anything wrong. 
+L458859 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ With Salvy, eh?
+L458858 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I didn't do anything wrong. I swear. I just had a few drinks.
+L458857 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Do I have to kill you, eh?  Do I have to kill somebody to get an answer?  I know about you at the Copa. I know all about it.
+L458856 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Jake, no --
+L458855 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What do I have to do to get a straight answer around here.
+L458854 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I am answering...
+L458853 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Answer me when I talk to you. What happened that night?
+L458852 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ What're you talking about?
+L458851 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Did you ever go to the Copa when I was away?
+L458850 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Oh, c'mon. For Christsake, do I have to tell you everything?
+L458849 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What was it about?
+L458848 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ "Father of the Bride."
+L458847 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What'd you see?
+L458846 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I went to the movies.
+L458845 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What'd you see?
+L458844 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I got bored so I went to the movies.
+L458843 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I called. You weren't there.
+L458842 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I took the kids to my sister's.
+L458841 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Where you been all day?
+L458792 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What's that kissing on the mouth shit?
+L458791 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I went out.
+L458788 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Tryin' to get this fuckin' TV to work. Paid all this money for it and still can't get a station a mile away. And Mr. Wizard here ain't no help.
+L458787 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ What's the matter with you?
+L458763 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Jake...
+L458762 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Don't ever do that again. You don't  do it!
+L458761 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ But Jake... I didn't say anything...
+L458759 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ You're hurting my arm.
+L458758 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You know what I'm talking about. Don't ever make me look bad on the night of my big fight.
+L458757 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ All I did...
+L458756 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You don't kiss like that. Hello and goodbye, that's all you do.
+L458755 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ What did I do?
+L458754 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Hey, you don't say goodbye to him like that.
+L458617 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You're the one who said he was good looking. You think he's good looking 'cause I know you think he's good- looking. I'll smash his face inside out. I'll make him into dog meat. Nobody's gonna think he's good-looking when I get through with him. So you just go ahead and think about who you want.
+L458616 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Positive.
+L458615 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You sure you're not thinking of him right now?
+L458614 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I never noticed his face.
+L458613 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ That he's got a pretty face.
+L458612 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ What did I say?
+L458611 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Then why'd you say that thing about Tony Janiro?
+L458610 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Nobody. I love you, remember?
+L458609 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Tell me, you think of anybody else when I'm making love to you?
+L458608 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Yeah, what?
+L458607 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Huh?
+L458606 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Yeah.
+L458605 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You asleep?
+L458604 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ What?
+L458603 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Vickie?... Vickie, you asleep?
+L458580 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Look at this, all of a sudden everybody's a fuckin' Romeo around here. Did you see the way she was lookin' at him?
+L458579 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Jake, c'mon now. Don't start.
+L458578 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ In other words, you're not interested in him but you'd be interested in somebody else, right?
+L458577 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ No, I'm not.
+L458576 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You're not interested in him?
+L458575 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I'm not interested in him.
+L458574 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Don't tell me "No." I saw you lookin' at him. Why, you like him?
+L458573 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ No, I'm not. I'm looking at you.
+L458572 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What're you lookin' at? You lookin' at him?
+L458564 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Who asked you?
+L458563 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I was just...
+L458562 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Who asked you?
+L458561 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ But, Jake, I was just...
+L458560 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Who asked you?
+L458559 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Well, he's popular. A lotta people like Janiro. You beat him and it only figures they'll wanna see you get a title shot. But, what do I know? I should keep my mouth shut, I should...
+L458558 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ What do you mean, "good looking?"
+L458557 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Joey's right. Janiro's up-and coming, he's good looking...
+L458538 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Oh, Jake.
+L458537 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Now, touch me...  ...here.
+L458536 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Now take your panties off.
+L458535 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I like the gym smell.
+L458534 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Go 'head. Do it.
+L458533 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Jake, you made me promise not to get you excited.
+L458532 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Now take the rest off.
+L458531 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Do what I say.
+L458530 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Jake...
+L458529 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Take off my pants.
+L458528 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Come here.
+L458527 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ You said I couldn't. You've been good for two weeks...
+L458526 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ If you let me do it, I'll murder you. Come here.
+L458525 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ You said never to touch you before a fight.
+L458524 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Come over here.
+L458523 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Are you sure we should be doing this?
+L458505 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ It's OK.
+L458504 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Jake...
+L458503 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ That's all right. He don't mind.
+L458502 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Jake, this is your father's bedroom.
+L458492 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ What does that mean?
+L458491 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ No.
+L458490 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Can you see it?
+L458488 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Can you see it?
+L458487 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I can't find my ball.
+L458486 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Just give it a nice little tap.
+L458485 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Should I hit it?
+L458484 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Just keep your eye on the ball.
+L458483 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ It feels real good.
+L458482 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ That's it. Just grip up a little tighter. That's it. You're gonna be real good at this. How does that feel?
+L458481 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You don't get nothin' done by watchin'. You just gotta do it. Here, I'll help you.
+L458480 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ You go first. Let me watch how to do this.
+L458477 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Oh no? I thought you was a movie star.
+L458476 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I ain't no movie star. I'm just in high school.
+L458475 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I ain't ever talked to a movie star before.
+L458474 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ You don't talk very much.
+L458471 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Ya hear, Joey? She thinks this face is cute? Hey, whatcha doin' now? You wanna go for a ride?
+L458470 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I don't know. 'Cause you're cute.
+L458469 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ You wanted to say hello, eh? I can't believe it. When did you fall outa heaven? Anyone ever tell you you're the most beautiful one here, princess of the pool. You got a baby face. Look at mine. Whatcha wanna meet me for?
+L458468 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I just wanted to say hello.
+L458467 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Joey said you wanted to meet me. Is that right? You wanted to meet me?
+L458602 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ I'd tell you to bet a bundle.
+L458601 +++$+++ u2567 +++$+++ m166 +++$+++ TOMMY +++$+++ All right, lemme ask you something. Let's say I was a good friend of yours. And I was telling you I was gonna bet a lot of money on you in this Janiro fight. What would you tell me?
+L458600 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Yeah, the weight's Ok.
+L458599 +++$+++ u2567 +++$+++ m166 +++$+++ TOMMY +++$+++ How's the weight? Ok?
+L458597 +++$+++ u2567 +++$+++ m166 +++$+++ TOMMY +++$+++ This Janiro's a good fighter, pretty good-lookin' kid.
+L458596 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ He should.
+L458595 +++$+++ u2567 +++$+++ m166 +++$+++ TOMMY +++$+++ Tony Janiro's gotta watch out, eh?
+L458594 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Never felt better.
+L458593 +++$+++ u2567 +++$+++ m166 +++$+++ TOMMY +++$+++ How you feelin'? Ok? You feelin' good?
+L458592 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ C'mon, Tommy --
+L458591 +++$+++ u2567 +++$+++ m166 +++$+++ TOMMY +++$+++ Fuckin' kid! You're the best fuckin' fighter around. Loved what you did to Satterfield. Them "moulan yans" -- forget about it. They're all afraid to fight you.
+L458590 +++$+++ u2567 +++$+++ m166 +++$+++ TOMMY +++$+++ Jake, sit down for a minute.
+L458589 +++$+++ u2563 +++$+++ m166 +++$+++ JAKE +++$+++ Hi, Tommy. How are you?
+L458667 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ I'll suck your eyes out! I'll fuckin' take the two of you.
+L458666 +++$+++ u2566 +++$+++ m166 +++$+++ SALVY +++$+++ Hey Joey, whadda ya lookin' to die young?
+L458662 +++$+++ u2566 +++$+++ m166 +++$+++ SALVY +++$+++ Hey Joey, I'm here with Patsy and Vera and Sandy. And Vickie just happened to come along. We're just trying to have a good time. What do you want from me? So, why don't you just take it easy before this gets out of hand.
+L458661 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ What do you think, I'm blind? My brother's breaking his ass in a ring, and you're here with his wife.
+L458660 +++$+++ u2566 +++$+++ m166 +++$+++ SALVY +++$+++ Excuse me for living.
+L458659 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Excuse me, I'm talking to my sister in-law.
+L458658 +++$+++ u2566 +++$+++ m166 +++$+++ SALVY +++$+++ Joey, relax. You're taking this the wrong way. Why don't you sit down and have a drink?
+L458657 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ I said, let's go.
+L458368 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Right, the gym.
+L458367 +++$+++ u2566 +++$+++ m166 +++$+++ SALVY +++$+++ Tomorrow, at the gym. Don't forget.
+L458366 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ All right, I'll try. See you later.
+L458365 +++$+++ u2566 +++$+++ m166 +++$+++ SALVY +++$+++ Talk some sense into him, will ya? You're still his brother. If he ain't gonna listen to you, he ain't gonna listen to nobody!
+L458364 +++$+++ u2566 +++$+++ m166 +++$+++ SALVY +++$+++ Look, I'm just tellin' you how Tommy feels. Jake is makin' it hard on himself. Tommy wants him with us. It's as simple as that.
+L458363 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ I can't convince him. He's got such a thick head, I'd like to crack it open myself. Believe me, my own brother. It's very hard. You don't have to convince me -- I know we should be with Tommy. You talk to him. He don't listen to nobody.
+L458350 +++$+++ u2566 +++$+++ m166 +++$+++ SALVY +++$+++ Get lost.  Hey kids, "A cop is a rat." Remember that, "A rat."
+L458349 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Hey, leave the kids alone.
+L458348 +++$+++ u2566 +++$+++ m166 +++$+++ SALVY +++$+++ He ain't doin' the right thing. He's makin' beans compared to what he should be makin'. Can't you make him understand that?
+L458347 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ What do you want from my life, Salvy? He's my brother.
+L458346 +++$+++ u2566 +++$+++ m166 +++$+++ SALVY +++$+++ Hey but Joey, you're thinking nickels and dimes. The money's with your brother.
+L458345 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Salvy, would I steer you wrong? Let's say that's the truck; it's full of cigarettes, right? Now, two o'clock this morning we move the truck from here to there,  take the cigarettes out, sell 'em, make some cash.
+L458655 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ And I'm gonna finish my drink. And, I'm gonna have a good time, because I ain't doing nothing wrong.
+L458654 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ And you're drinking with them right now.
+L458653 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ That's right, take his part. You're his brother. He's never gonna be champ. Too many people are against him.
+L458652 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ Try to understand, Vickie. Jake's got a lotta aggravation. He's been a top contender too long.
+L458651 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ You don't sleep with him. I do. I don't get to breathe without tellin' him. He keeps me in a cage. If he thinks I'm lookin' at somebody the wrong way, I get used as a punching bag. He don't trust nobody. If he saw the two of us talking together right now, you'd be in trouble too -- believe me. Look at me, Joey. I'm 19 years old. I wanna enjoy my life. I love Jake, but you don't know. He gets crazy sometimes. I'm scared.
+L458650 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ I'm not gonna tell him nothing; but if he finds out, he will kill you. What's the matter with you? Aren't you happy? You got everything you want.
+L458649 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ Well, go ahead, tell Jake. He's gonna kill me anyway. It's a matter of time.
+L458648 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ It don't look right.
+L458647 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ I'm not doing anything wrong. I'm just trying to have a good time. Do I have to be cooped up in the house all the time?
+L458646 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ No, you're his wife.
+L458645 +++$+++ u2569 +++$+++ m166 +++$+++ VICKIE +++$+++ What the hell am I doing wrong? Just because Jake is training, I can't go out? What am I, a goddamn prisoner?
+L458644 +++$+++ u2564 +++$+++ m166 +++$+++ JOEY +++$+++ What're you doin' with Salvy? You shouldn't be here with him. Jake's away killin' himself. Suppose he found out.

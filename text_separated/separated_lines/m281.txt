@@ -1,0 +1,578 @@
+L106978 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ You're a dead man!  A fucking dead man!
+L106977 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ The next one blows off your dick.
+L106970 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ Caesar, I don't know what you're thinking here, but if you don't put down that gun --
+L106969 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ The money!
+L106968 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ Where's what?
+L106967 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Where is it?
+L106966 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ I think you're fucking crazy!
+L106965 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ You don't think I'll do it, do you?
+L106957 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ What are you talking about?
+L106956 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ The same way you did before.
+L106955 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ How the fuck can I open it?
+L106954 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ You don't need a key.
+L106953 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ All right!  Where's the key?
+L106952 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Open the case!
+L106951 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ Know what?
+L106950 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ That's right, I know.  I fucking know.
+L106945 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ That you overreacted.  That you lost it.  Not me.  It was your mistake.
+L106944 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Admit what?
+L106943 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ Just admit it, Caesar.
+L106942 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Where is this going, Johnnie?
+L106939 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ The money I bet it was nothing to get it clean, after you made such a fucking big deal ...
+L106938 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ What's that, Johnnie?
+L106937 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ Come on, Pop, all I want to know is one thing.  Just one thing after he made such a big deal out of it.  I bet it wasn't a big deal.  Was it, Caesar?
+L106934 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Two point one seventy-six.
+L106933 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ So Caesar, what did it total out at?
+L106915 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ I'll have whatever Violet's drinking.
+L106914 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Glenlivet, right, Gino?
+L106911 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ No, no, Caesar.  Not now.
+L106910 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ You want to get into this now?
+L106909 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ You shouldn't have hit me.
+L106628 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Here, put this in his mouth.
+L106627 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ You hear that, bitch?  Be quiet!
+L106626 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Whoa, whoa.  Come on, he's making too much noise.
+L106990 +++$+++ u4211 +++$+++ m281 +++$+++ GINO +++$+++ Give it to me.
+L106989 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ I can't.  I can't.
+L106988 +++$+++ u4211 +++$+++ m281 +++$+++ GINO +++$+++ Gimme the gun.
+L106987 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ No!
+L106986 +++$+++ u4211 +++$+++ m281 +++$+++ GINO +++$+++ We're family, Caesar.
+L106985 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Stay away!
+L106984 +++$+++ u4211 +++$+++ m281 +++$+++ GINO +++$+++ No, Caesar, gimme the gun.
+L106983 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Sit down, Gino!
+L106982 +++$+++ u4211 +++$+++ m281 +++$+++ GINO +++$+++ You aim a gun at me?!  Do you know who I am?!  I am Gino Marzzone.  You understand?
+L106981 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ No, Gino!
+L106973 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Gino, your son stole this money to set me up and I can prove it.  Violet!
+L106972 +++$+++ u4211 +++$+++ m281 +++$+++ GINO +++$+++ Caesar!
+L106963 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Ask Johnnie!  Ask your rat-fuck son!
+L106962 +++$+++ u4211 +++$+++ m281 +++$+++ GINO +++$+++ Caesar?  What is this?
+L106927 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Yeah, I know.
+L106926 +++$+++ u4211 +++$+++ m281 +++$+++ GINO +++$+++ We know how this was done, eh?
+L107280 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar, you don't know shit.
+L107279 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ What are you going to do, V?  Shoot me?  Kill me in cold blood?  I don't think so.  I'll tell you why.  If you had it in you to pull that trigger, you would have done it a long time ago.  If I was you, I would have killed me the minute I brought the money home.  But you didn't and I know why, because you don't want to kill me.  Do you, V?  Do you? No, I know you don't.
+L107278 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar, don't.
+L107257 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I knew I couldn't trust you.
+L107256 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ You know he would have done you, too.
+L107255 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I should have let him kill you.
+L107254 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Now that's teamwork.
+L107235 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Sure, Gino, sure.
+L107234 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Tell them I'm at St. Mary's off the Kennedy, in the waiting room, but stay on the phone until I come out.
+L107233 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Yes, I understand.
+L107232 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I want what's mine, half the money. We get rid of Mickey, no one else dies.  No one.  Say yes, I understand.
+L107231 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ I'm listening.
+L107230 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ We make a deal or I come out and hand this phone to Mickey.
+L107227 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Now you listen to me, asshole, I know your gun is behind the bar ...
+L107226 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ They're all fine.  Just bruises and shit.
+L107225 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ But everybody is all right.
+L107224 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ They were in a car accident.
+L107223 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ We were in a car accident --
+L107220 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Good boy.
+L107219 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Holy shit, I don't believe it!  We've been going crazy over here, Gino!
+L107218 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ You're blowing your only chance. Act like I'm Gino.
+L107217 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ What?
+L107155 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Shut up!
+L107154 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Bullshit, you killed him.  Not me. You did it because you couldn't stand the thought of Johnnie fucking you.
+L107153 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ I had to.  You made me.
+L107152 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ You murdered Gino!
+L107151 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ You betrayed me!
+L107150 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Saved me?  You don't even know me. You used me, Caesar, just like I used you.  All part of the business.
+L107149 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Ha!  What a load of crap.  Look at yourself, Caesar.  You're a thug. |You launder money for the mob.  You rent women like you rented this apartment.
+L107148 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ I saved you.
+L107144 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Everything you couldn't.
+L107143 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ What did she do to you?
+L107140 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Let us go and we'll make a deal.
+L107139 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Shut up, Violet.
+L107138 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ You need the money just like we do.
+L107137 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Don't try to tell me what to do.
+L107136 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar, stop acting like an asshole and think --
+L107135 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Stupid cunt!
+L107130 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Not until he has the money!
+L107129 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Violet!
+L107128 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ He can't kill you --
+L107127 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Shut up, Violet!
+L107126 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Don't tell him --
+L107125 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Where is the money?
+L107097 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Just hurry.
+L107096 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ I can use Johnnie's car, dump it in Lake Michigan ...  I need plastic bags ...  tape and rope ...
+L107081 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Who are you going to call?
+L107080 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ We're going to need some time.
+L107079 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ What are you doing?
+L107078 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I don't know.  it could be anywhere. We don't even know if he was alone. Please, Caesar, we don't have much time.  Let's get out of here.
+L107077 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Where, then?
+L107076 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ It's not here, Caesar.
+L107059 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar, someone could see us out here.
+L107058 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Fuck!  Fuck!  Fuck!
+L107011 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ They're just cops.  Stall them as long as you can.
+L107010 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar, what are we going to do?
+L107009 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Fuck.
+L107005 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ I don't know.  We may never know, but I'm going to guess it was a job, maybe the Karpoli family.
+L107004 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ What happened to them?
+L107003 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ No I didn't.  Not if his body disappears and not if the money is still here.  Then they never showed up.
+L107002 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar, you just killed Gino Marzzone.
+L107001 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Once we have the money, then none of this ever happened.
+L107000 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ What?
+L106999 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ What do you think we're going to do? We have to find the money.
+L106998 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar, what are you going to do?
+L106997 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ ...  maybe three hours.
+L106975 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ For Christ's sake, Johnnie, do what he says.
+L106974 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Tell them!  Tell them!
+L106948 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Shut up, Violet!  This is between me and Johnnie.
+L106947 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar ...
+L106946 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ All right, Johnnie, you want to play it this way, I can play it this way. You want to know who made a mistake, why don't you open the case.
+L106905 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ I've seen the way he looks at you. He's always wanted you.  Maybe two million dollars finally bought you.
+L106904 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ You don't, you can't believe that ...
+L106903 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ It would have been so easy to let him in as you went out.
+L106902 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Maybe it is, maybe it isn't.  Maybe you dropped the Scotch by accident. Maybe you didn't.
+L106901 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar, this is crazy.
+L106900 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ If you're not with me, Violet, then I have to assume you're against me.
+L106899 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Violet, I won't let you leave.
+L106898 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Bullshit!  You don't need me!  You've never needed me!  I can't help you! Understand?!  I have to get out.
+L106897 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ I need you ...
+L106896 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ The hell I can't!
+L106895 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ You can't leave.
+L106892 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ This is insane!
+L106891 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ See, right now he doesn't know that I know, that's why he put the paper in the case.  He wants me to hand the case to Gino.  Then there is no doubt it was me.  Gino will put a bullet in me himself.  But it ain't going to happen.  I won't let it! Johnnie ain't going to fuck me!  Not like this!  No way!
+L106890 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ No.
+L106889 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ He didn't see you, did he?
+L106888 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ He didn't have that much time.  He had to pick up Gino.  I bet you he's got it with him.  I bet it's in the car.
+L106887 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ But it could be anywhere.
+L106886 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ No.  Johnnie's got it.  All I got to do is get it back.
+L106885 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ The money?  The money's gone.
+L106884 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ I got it!  I know what I got to do! I got to get the money.
+L106870 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ All right, Caesar.
+L106869 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Goddammit, Violet!  Would you just leave me the fuck alone!  Please! Leave!  Now!
+L106868 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I mean it, Caesar, forget Johnnie, forget the money, let's just go now, before it's too late --
+L106867 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Violet, please!
+L106866 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar, maybe we should run --
+L106865 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Got to think this through ...
+L106857 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar, what are we going to do?
+L106856 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ So what?!  So fucking what?  Use your head, Violet.  The money is gone.  Gino is coming here to get it.  You think he's going to believe me if I tell him his piss-hole son stole it!  Is that what you think? I don't.  You know what I think?  I think I'm a dead man.  I'm one in the brain.  That's what I think!
+L106855 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ But you know he did it.
+L106854 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ I hate that little fuck!  I hate him!  I hate him!  I should've done him!
+L106853 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Jesus Christ, Violet!  Open your fucking eyes!  Johnnie hates me like I hate him!
+L106852 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Why?  Why would Johnnie do this?
+L106832 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar, I know Johnnie.  It was him. I screamed when I saw him.  I couldn't believe I missed them.  I knew you were going to be upset so I thought I'd apologize and give Gino the Scotch.  I honked a couple of times but he didn't stop.
+L106831 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ It's impossible!
+L106830 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ It was him.  I'm positive.
+L106829 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ It couldn't have been.
+L106828 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I was getting out of the car when I saw him in the Mercedes.
+L106827 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ What?
+L106826 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Because I just saw Johnnie downstairs.
+L106825 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Why?
+L106824 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ That doesn't make any sense.
+L106823 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ No!  They're still on their way.
+L106822 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ You mean they weren't up here?
+L106821 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ What are you, drunk?
+L106820 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ They just left, didn't they?
+L106819 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ What are you talking about?
+L106818 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ They were early.
+L106794 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Don't be silly, Caesar.  It'll take five minutes.
+L106793 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ There's no time.
+L106792 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Don't worry, I'll get some more.
+L106791 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I'm sorry.  It was an accident.
+L106790 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Fuck!  Fuck!  How did you ...  Awwww goddammit!
+L106707 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Ummm ...  in the linen closet.
+L106706 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Where the hell's the laundry detergent?
+L106705 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ I told them to run it through the cycles.  But I guess Gino has plans for it because he's coming here tomorrow night to pick this shit up.
+L106704 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ What are you going to do with it?
+L106703 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Just look at this mess I got to deal with.
+L106697 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ It was unbelievable!  Un-fucking- believable!
+L106696 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar, what happened?
+L106633 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Why?  'Cause you know him?
+L106632 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar, I'm serious.  This is too much.  I have to get out of here.
+L106631 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ What?  Oh, come on, I didn't use one of the good towels.
+L106630 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar, I'm leaving.
+L106530 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ You're right.  You don't have to tell me, if you don't want to.  I just hope you understand you're among good people here.
+L106529 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ That's none of your goddamn business, Caesar.
+L106528 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Not bad.  What for?
+L106524 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ What?  It ain't no big fuckin' deal. I know who Don hires.  Did you know he did time himself?
+L106523 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Jesus, Caesar!
+L106522 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ So, you just got out?
+L106520 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ No shit.  Bianchinni hired you?  You know he's a good friend of mine. |Family, really.
+L106519 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ She's doing the work herself.
+L106514 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ I'm sorry, Christ, I thought ... it's fucking dark in here.
+L106513 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar, this is Corky.  Corky, Caesar.
+L106512 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Oh, shit ...
+L106511 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ What the fuck is going on?
+L106510 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I didn't expect --
+L106385 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ All part of the business.
+L106384 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ All part of the business.
+L106383 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ We make our own choices, we pay our own prices.
+L107055 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Good idea.
+L107054 +++$+++ u4209 +++$+++ m281 +++$+++ COP #1 +++$+++ Try to keep the extra batteries for your aid around.
+L107049 +++$+++ u4209 +++$+++ m281 +++$+++ COP #1 +++$+++ Go right ahead, sir.
+L107048 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ I'm going to make myself a drink, if that's okay?
+L107044 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Oh, right.
+L107043 +++$+++ u4209 +++$+++ m281 +++$+++ COP #1 +++$+++ Not on duty, sorry.
+L107040 +++$+++ u4209 +++$+++ m281 +++$+++ COP #1 +++$+++ It's all right, sir.
+L107039 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Fuck, this happened before.  It's this shitty ear.  Born with it.  The batteries wore out in my aid.  I'm sorry.
+L107030 +++$+++ u4209 +++$+++ m281 +++$+++ COP #1 +++$+++ Pretty good, sir.
+L107029 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ How's it going tonight, fellas?
+L107175 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I could be lying.
+L107174 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Why?
+L107173 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ You can't kill me yet.
+L107165 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ When I reach ten, then I'll start with you.
+L107164 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ No.
+L107163 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ I'm going to ask you where the money is.  Every time you don't give me an answer, I'm going to cut off one finger.
+L107134 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Either pull the trigger or get that thing out of my face.
+L107133 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Where is it?
+L107132 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Lick me.
+L107131 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Now, where the fuck is my money?
+L106537 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Sure.
+L106536 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Another time.
+L106535 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ My brushes, I have to clean my brushes.  Thanks, though.
+L106534 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ What?  How about a drink?
+L106533 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I should be going.
+L106532 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Good.  I hate to worry.  I got ulcers.
+L106527 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Five.
+L106526 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ How many'd you do?
+L106518 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ No.  Rajeev's in India.
+L106517 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ You're helping Rajeev?
+L106382 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Where's the fucking money?
+L106381 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ You planned this whole thing, didn't you?
+L107253 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Leave your phone on the hook.
+L107252 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Call me as soon as you get him.
+L107248 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Oh yeah.  Violet!
+L107247 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ You got the key?
+L107229 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Ssh!  I can't hear Gino!
+L107228 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Un-fucking-believable.  I called those highway patrol dumb fucks.
+L107222 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Where in the hell is he?
+L107221 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ It's Gino!  It's Gino!
+L107211 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Fuck it, I don't need the key.
+L107210 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ The key, yeah, the key's in my pants in the bathroom.
+L107209 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Hey, Caesar, where's the key?
+L107205 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Yeah, that's it.
+L107204 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Is that the money?
+L107203 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Sure, Cease.  They make us do stupid things, don't they.
+L107202 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Actually, yeah, she was nervous about Gino coming, wanted everything to look right.  You know women, Mick.
+L107200 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Why'd you move all the furniture around?
+L107199 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Yeah.
+L107198 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Cease, can I ask you something?
+L107197 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Hey, if Violet was helping me relax, I'd probably do the same thing.
+L107196 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Oh Christ, the phone ...  That was a fucking stupid thing to do, wasn't it?
+L107195 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ I started thinking maybe it's about the money so I call you, but all I get is the busy signal.  I figure the phone is off the hook, that's why I come rushing over here.
+L107194 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ We went over to Johnnie's place just to check it out and it was busted up, Bad.
+L107193 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Me?  Why?
+L107192 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ We was worried about you, Cease.
+L107191 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Shit, Mick, come on in, let me get you a drink.  Sit down, Lou.
+L107190 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ That Violet is one nice lady.  Wish someone would help me relax.
+L107189 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Yeah, it was Violet's idea.  I was so wound up about Gino, she was trying to help me relax.
+L107188 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ I was buzzing, I was knocking, but I guess you couldn't hear me on account of being in the shower.
+L107187 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ I thought I heard someone knocking.
+L107186 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ No, Cease.  There was no answer.
+L107094 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Good.  Sit tight.  I'll call you.
+L107093 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Yeah, Mick.  I've got the money. I'm staring right at it.
+L107092 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Caesar, you still got the money?
+L107091 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Okay, sure, Mick.
+L107090 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Okay.  Let me call around.  I'll see what I can do.  Don't go anywhere, okay?
+L107089 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ No.  I don't know where they are.  I even called over at Johnnie's, but no answer.
+L107088 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ What?  They ain't there?
+L107087 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Mick, I know it's late, but there is a problem.  They haven't shown up yet.
+L107084 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Hey, Mickey.
+L107083 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Yeah?
+L106640 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Sure, Mickey.  Sure.
+L106639 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Caesar, didn't I tell you to get something?
+L106638 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Mickey, why is Johnnie here?  You know how I feel about that fucking psycho.
+L106637 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Are you okay, Violet?
+L106636 +++$+++ u4208 +++$+++ m281 +++$+++ CAESAR +++$+++ Now why don't you go watch some TV or something?
+L107051 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ ...  thank you.
+L107050 +++$+++ u4209 +++$+++ m281 +++$+++ COP #1 +++$+++ This is a beautiful place.
+L107027 +++$+++ u4209 +++$+++ m281 +++$+++ COP #1 +++$+++ You did the right thing.
+L107026 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I'm sorry, it's just you hear stories.
+L107025 +++$+++ u4209 +++$+++ m281 +++$+++ COP #1 +++$+++ See?  We're for real.
+L107021 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ All right.
+L107020 +++$+++ u4209 +++$+++ m281 +++$+++ COP #1 +++$+++ Ma'am, you have to open the door.
+L107019 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ How do I know you are cops?
+L107018 +++$+++ u4209 +++$+++ m281 +++$+++ COP #1 +++$+++ No joke, ma'am.  Please open the door.
+L107017 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Gunfire?  Is this a joke?
+L107016 +++$+++ u4209 +++$+++ m281 +++$+++ COP #1 +++$+++ We had a report of gunfire, so if you could --
+L107014 +++$+++ u4209 +++$+++ m281 +++$+++ COP #1 +++$+++ This is the police, ma'am.
+L107013 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Hello?
+L107295 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ ...  Me neither.
+L107294 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ No.
+L107293 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ You know what the difference is between us, Violet?
+L107290 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I'm here, aren't I?
+L107289 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ How'd it go?
+L107288 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Hey.
+L107287 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Hey.
+L107159 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Don't be sorry.  Help me.
+L107158 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I'm sorry, Corky ...
+L107102 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ You don't quit on me, Violet, and I won't quit on you.
+L107101 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I was so afraid you ...
+L107100 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I'm still here.
+L107099 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Oh, thank God.
+L106882 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ We're almost there, Violet.  just hang on.
+L106881 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ okay, all right.
+L106880 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Listen, if he doesn't run, all you have to do is break down, go to your bedroom and pack some things, start crying, saying you love him but you can't do it.  You're sorry but you have to leave and just walk out.
+L106879 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Oh, Christ, I got to get out of here!
+L106878 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ That means he probably will kill Johnnie.
+L106877 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ What if he doesn't run?
+L106876 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ It's all right, Violet.  It's working. All we got to do is wait him out and see what he does.
+L106875 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Believes it!  Jesus, it's driving him crazy.  He wants to kill him.  I don't know, Corky, I don't know what he is going to do.  I'm getting nervous, really nervous.
+L106874 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ That's okay, as long as he believes it was Johnnie.
+L106873 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ He totally freaked.  I've never seen him like this.  He's out of his fucking mind.
+L106872 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ What happened?
+L106871 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ It's me.
+L106845 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I think we're going to find out.
+L106844 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I won't.
+L106843 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I had a partner and she fucked me.
+L106842 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Every job like this has moments where things don't go so well and everyone starts thinking about their own ass. It's in those moments that everything comes together or falls apart.
+L106841 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ If you're this goddamn smart, how did you ever get caught?
+L106840 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Thank you.
+L106839 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Jesus, that's beautiful.
+L106838 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ You'll be clean and we'll be rich.
+L106837 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ If he runs, everyone will assume he took the money.
+L106836 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ He'll have to run.
+L106817 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ C!  Shit, I'm sorry!
+L106816 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ If it's real enough, he'll believe it, because deep down he'll want to.
+L106815 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Because of what you are going to tell him.  You have to make it as real as you can.  The moment you open the door with the Scotch in your hand, you will be covered, and that moment is the most important moment in the plan.
+L106814 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Why?
+L106813 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Not Caesar.
+L106812 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I still don't see how I'm going to get clean with the money in the apartment.  Everyone will think I did it.
+L106811 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ The same way I'll know that you went to Scotch.  Trust.
+L106810 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ When I get the Scotch, how do I know you won't take off?
+L106809 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ There is no going back.
+L106802 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ If he does ...
+L106801 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I'm just asking, what if?
+L106800 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Trust me, Violet.
+L106799 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ You can't know for certain that he won't see you.
+L106798 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ He won't.
+L106797 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ What if he sees you?
+L106784 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Shit!  Oh shit!
+L106783 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ An accident.
+L106782 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ And as you do, the bottle will slip from your hands.  -- and shatter against the hardwood floor.
+L106777 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Waiting in the apartment next door.
+L106776 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Where will you be?
+L106774 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Poor boy, has to work so hard.
+L106773 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ We want him to come down, to relax, feel in control again.
+L106769 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Fine.
+L106768 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Gino travels with a big man named Roy.  Caesar calls him the driver.
+L106767 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Any bodyguards?
+L106766 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ The plane is in at seven, so I'd say about eight.
+L106765 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ What time did you say they would be there?
+L106760 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Scotch, Glenlivet.  I remember that Caesar made a huge deal about it.
+L106759 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ What did Gino drink?
+L106758 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Gino doesn't know English, or at least he pretends he doesn't, so he doesn't talk much.  He gets right to the point.  Both times they talked for about five minutes, had one drink and then they left.
+L106757 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ It's getting better and better. Keep going.
+L106756 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ He does it right in front of him.
+L106755 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Has Caesar ever seen him?
+L106754 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Johnnie hits on anything in high heels.
+L106753 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Does Johnnie hit on you?
+L106752 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Not much, really.  Caesar was nervous, kept cleaning the apartment.  |The first time, he picked out the dress he wanted me to wear.
+L106751 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ What happened?
+L106750 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Yeah, twice.
+L106749 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Gino Marzzone is coming to your apartment.  It's a big deal, isn't it?  That means Caesar will be ready. He doesn't want to look like an idiot. Gino has been there before?
+L106747 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Sweet Jesus.
+L106746 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Yeah.
+L106745 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ And Johnnie is his son, that's Johnnie Marzzone?
+L106744 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Yeah.
+L106743 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Gino Marzzone is coming tonight to pick up the money?
+L106742 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ ...  shit.
+L106741 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ That's his brother.
+L106740 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Marzzone?  As in Angelo Marzzone, head of the Marzzone family?
+L106739 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Gino Marzzone.
+L106738 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Who is Gino?
+L106737 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ It started way before I was around. I think basically it's because he thinks Johnnie is a complete idiot. But Johnnie runs Chicago because Gino is his father.
+L106736 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Why?
+L106735 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Like each other?  They hate each other.
+L106734 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ It sounded like he and Caesar don't like each other.
+L106733 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Johnnie?
+L106732 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ All right, now, tell me about Johnnie.
+L106731 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Good.
+L106730 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Yes.
+L106729 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Does the case lock?
+L106728 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ It's in a case, on his desk.
+L106726 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ In his office.  I saw it this morning.
+L106725 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ And where is it now?
+L106716 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ To let it dry.
+L106715 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ What?
+L106714 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ He hung it up.
+L106713 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Then what?  Exactly.
+L106712 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Yeah.
+L106711 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ You said he washed the money?
+L106691 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I think ...
+L106690 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Do you think you know me like that?
+L106689 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ The difference is, I can have sex with someone I just met, someone I hardly know, but to steal I need to know someone like I know myself.
+L106687 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I'm just making a point.  You have no idea what you're asking.  How much trust two people need to do something like this.
+L106686 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Is that what you think?
+L106685 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ All you would need to keep yourself clean would be someone unconnected, someone like me.
+L106684 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I didn't say that, but since you did, let's say that you are.  It would have been easy to set Shelly up.  You could have got him killed knowing that Caesar would bring the money to the apartment.
+L106683 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ You think I'm lying?
+L106682 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ All right, let's say for the moment that I believe everything you are saying.
+L106681 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I am, but ...
+L106680 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ That's why I need your help.  You said you were good.
+L106679 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ These people are serious, Violet. If you want to know how serious, ask Shelly.  They're worse than any cop because they have lots of money and no rules.  You fuck them, you've got to do it right.
+L106678 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Wait a minute.  Wait a minute.  Do you have any idea what you are saying? You are asking me to help you fuck the mob.
+L106677 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar will bring it to the apartment to count and go through |Shelly's books to figure out how he did it.
+L106676 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Shelly said it was over two million dollars.
+L106675 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ How much money?
+L106674 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar is going to get the money and bring --
+L106672 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ If those quarters fell to the floor, would you still reach up to that cash register?
+L106671 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ What choice?
+L106670 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ You made a choice once.  Do you think you would make that same choice again?
+L106669 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ For what?
+L106668 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I want out.  I want a new life.  I see what I've been waiting for, but I need you, Corky.
+L106665 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ He's the part of the business that the rest of them pretend to be. |But Mickey doesn't like it like they do.  I suppose that's why he's good at it.
+L106664 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Mickey?
+L106663 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar lives for these moments.  He tells me it's just the business, but I know it's more than that.  He likes it.  The violence.  I'll catch him in the bathroom mirror touching his scars.  He says they remind him who he his.  They're all like that. Except maybe Mickey.
+L106662 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Maybe he did.  He would brag to me all the time.  He was never afraid of Caesar because he didn't know him.  Not like I do.
+L106661 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Sounds like he wanted to get caught.
+L106660 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ For Shelly, taking the money was a way to take from Caesar.  He could have run at any time, but he didn't because he didn't want out.
+L106659 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ That's what he told himself.  But it wasn't even about me, it was about Caesar.  He wanted what Caesar had. That's how they are.  I understand them.
+L106658 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ He was in love with you, right?
+L106657 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Yes.
+L106656 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Even though he knew about you?
+L106655 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Shelly was skimming from the business. He came to see me yesterday because he was afraid Caesar figured it out. He wanted to run but he wanted me to come with him.
+L106617 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I think so, too.
+L106616 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Fuck it!  I think you better leave.
+L106615 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I suppose he just wants to watch.
+L106614 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ No.  Shelly knows what I am.  He saw me in a bar with another woman.
+L106613 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Don't tell me, you're a workaholic.
+L106612 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ You mean Shelly?
+L106611 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ What about that guy this morning?
+L106610 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ We make our own choices and we pay our own prices.  I think we're more alike than you want to admit.
+L106608 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Work.
+L106607 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ What was it then?
+L106606 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ All my life, everyone has been telling me that when I have sex, I'm not really having sex.  Not real sex. But they're wrong.  I know what is and isn't sex and what you heard was definitely not sex.
+L106605 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ What the fuck was it?
+L106604 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ What you heard wasn't sex.
+L106603 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ For Christ's sake, Violet!  I heard you!  Thin walls, remember?
+L106602 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I don't.
+L106601 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ What are you saying?  That you don't have sex with men?
+L106600 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I know what I am.  I don't need to have it tattooed on my shoulder.
+L106599 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Is that what her daddy tells her?
+L106598 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Oh no, she's nothing like you.  She's a lot smarter than you.
+L106597 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Let me guess.  This is where you tell me that what matters is on the inside.  That inside you, there is a little dyke just like me?
+L106596 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Because it's the truth.
+L106595 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ How can you sit in that bed and say that?
+L106594 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ We're not that different, Corky.
+L106593 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I know!  You can't understand, because we're different, Violet.  We're different.
+L106592 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I don't understand - ?
+L106591 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I'm not afraid of anything.
+L106590 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ What are you afraid of?
+L106589 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ If there is one thing I can't stand about sleeping with women, it's all the fucking mind reading.
+L106588 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ You didn't want to see me, did you?
+L106587 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Shit, here we go.
+L106586 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Yes there is.  I felt it this morning when I brought you the coffee.
+L106585 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Nothing.
+L106584 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ What's wrong?
+L106578 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ So am I.
+L106577 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I'm glad you did.
+L106576 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I guess I wanted to.
+L106575 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ You didn't have to tell me if you didn't want to.
+L106568 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ My cellmate would say she did her time for getting caught.  She was always more honest than me.
+L106567 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I'm already in your bed.
+L106566 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ That's what I tell someone when I'm trying to get them in my bed.
+L106565 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ The redistribution of wealth?
+L106564 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Isn't that what you wanted to know? What I did time for?
+L106563 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ What?
+L106562 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ The redistribution of wealth.
+L106561 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Yes, it is.
+L106560 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Five years is a long time.
+L106559 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Almost five years.
+L106558 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ How long have you been with him?
+L106557 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Basically.
+L106556 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ He's a launderer?
+L106555 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ They took over a club I was working at.  Caesar started managing it.
+L106554 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ How did you meet him?
+L106553 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Funny, nobody calls it that anymore. Caesar calls it "The |Business."
+L106552 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ No.
+L106551 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ You have to ask?
+L106550 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Caesar's Mafia, isn't he?
+L106549 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Tell me about it.
+L106548 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ ...  I needed that.
+L106543 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Don't apologize, please.  I can't stand women who apologize for wanting sex.
+L106542 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I wanted to apologize.
+L106541 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Look, I don't think this is a good idea.
+L106540 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I had to see you.
+L106502 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ ...  yes.
+L106501 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ No.
+L106500 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ If I say yes, will you take your hand away?
+L106499 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ You dropped that earring down the drain on purpose, didn't you?
+L106493 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Because I want to.  I've wanted to since I first saw you in the elevator.
+L106492 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Why?
+L106491 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Isn't it obvious?  I'm trying to seduce you.
+L106484 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I have a tattoo, would you like to see it?
+L106483 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Maybe.
+L106482 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Are you surprised that I know what it is?
+L106479 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Curious?  That's funny, I'm feeling a bit curious myself right now.
+L106478 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Curious, maybe.
+L106476 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ No.
+L106475 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ You seem uncomfortable.  Do I make you nervous, Corky?
+L106472 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ A beer.  Of course.
+L106471 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ A beer?
+L106470 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ What do you want?
+L106469 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Okay, one drink.
+L106467 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ No.  Mr. Bianchinni asked me to do it.  I did it.
+L106466 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Thank you so much.  You have to let me pay you something --
+L106463 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Sure.
+L106462 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Do you have a pot or a bucket?
+L106461 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I told Bianchinni I would take a look.  Is it that sink?
+L106460 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I'm sorry, look, forget it.  I shouldn't have called...
+L106457 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Yeah, come on in.
+L106456 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ He said you lost something.
+L106455 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I'm sorry, I usually would call Rajeev, but I didn't know what to do so I called Mr. Bianchinni.
+L106454 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Not exactly.
+L106453 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Oh no.  Shit.  I didn't know he would call you.  God, you must think |I'm a total nuisance.
+L106429 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ My pleasure.
+L106428 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Thanks.
+L106427 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I should be going.  You can drop the cup off anytime.
+L106426 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Oh no, no.  I'm not the marrying kind.
+L106425 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Caesar is your husband?
+L106424 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ No, but Caesar does.  He likes him. Says he's a good Italian.
+L106423 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Do you know him?
+L106422 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Oh, really.
+L106421 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ I don't, really.  I was referred to him.
+L106420 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ So, how do you know the owner, Mr. Bianchinni?
+L106419 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I knew it.
+L106418 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ '63 Chevy.
+L106417 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Truck.  Of course.
+L106416 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Truck.
+L106414 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ That is so amazing.  I'm in awe of people who can fix things.  My dad was like that.  We never had anything new.  Whenever something broke he would open it up, tinker with it and it would work.  His hands were magic.
+L106413 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Yeah.
+L106412 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ You're doing everything yourself?
+L106411 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ No, no trouble.  There's other work to do.
+L106410 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Yes, it really causes problems. Sometimes it's like you're in the same room.  But if it's too much trouble, I understand ...
+L106409 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Are they really?
+L106408 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ No, it isn't your fault.  The walls here are just so thin.
+L106407 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Oh, I'm sorry --
+L106406 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Yeah, see, I'm kind of a night person, so I was wondering if it wasn't a terrible inconvenience if you could wait a bit before using power tools.
+L106405 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ A favor?
+L106404 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ My pleasure ...  but to be honest, I did have a slightly ulterior motive here.  I was wondering if I could ask a small favor?
+L106403 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Mmmm ...  thanks, I needed this.
+L106402 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Good guess.
+L106401 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I guessed you were straight black.
+L106400 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Pretty much.  One day at a time.
+L106399 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ So this is temporary for you?
+L106398 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Oh, he went home to India, but as far as I know he'll be back.
+L106397 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Rajeev, the man who usually works on the building.
+L106396 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Who?
+L106393 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I heard you working in here and I just wondered if you'd like a cup of coffee?
+L106392 +++$+++ u4210 +++$+++ m281 +++$+++ CORKY +++$+++ Yeah, sure.  I'm Corky.
+L106391 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Hi.  My name is Violet.  We sort of met in the elevator --
+L106941 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ Pop, this is important to me.  It's a simple question.  if he would just answer the question, that's the end of it.
+L106940 +++$+++ u4211 +++$+++ m281 +++$+++ GINO +++$+++ Johnnie, what did I say?
+L106936 +++$+++ u4211 +++$+++ m281 +++$+++ GINO +++$+++ Hey, Johnnie ...
+L106935 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ Unbelievable.  Can you believe that, Violet?
+L106931 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ Jesus Christ, Pop.  You got two hours until your plane leaves.
+L106930 +++$+++ u4211 +++$+++ m281 +++$+++ GINO +++$+++ Done.  We go now.
+L106923 +++$+++ u4211 +++$+++ m281 +++$+++ GINO +++$+++ Caesar, come here.  Sit.  We talk now.  You too, Johnnie.
+L106922 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ Pop?
+L106921 +++$+++ u4211 +++$+++ m281 +++$+++ GINO +++$+++ No, Johnnie.  No goddamned phones. Not now.
+L106913 +++$+++ u4212 +++$+++ m281 +++$+++ JOHNNIE +++$+++ You are as radiant as ever, Violet.
+L106912 +++$+++ u4211 +++$+++ m281 +++$+++ GINO +++$+++ Hey, Caesar!  You take care of this girl, or I find out!
+L107285 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Thanks, Mickey, but I need to get out, you know?  Get away from all of this.
+L107284 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Sure you're going to be okay?  I mean, if you're having second thoughts, my offer still stands.
+L107283 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I know you will.
+L107282 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ I told you, the family doesn't want the police around.  We want to take care of it ourselves and we will. I'll find him.  I swear I will.
+L107281 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ I will never understand it, Mickey. You didn't even call the police.
+L107269 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Violet?
+L107268 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Mickey!  Oh God, Mickey!
+L107240 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ I think everything is okay.
+L107239 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Oh my God.  Was anyone hurt?
+L107238 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Violet, it's Gino and Johnnie.  They were in a car accident.
+L107237 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Mickey?  What are you doing here?
+L107086 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Caesar?  What the fuck time is it?
+L107085 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Oh, God.
+L106643 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ Don't worry about Caesar.  I'll handle Caesar.  You just get out of here, okay?
+L106642 +++$+++ u4214 +++$+++ m281 +++$+++ VIOLET +++$+++ Caesar wants me to stay.
+L106641 +++$+++ u4213 +++$+++ m281 +++$+++ MICKEY +++$+++ You shouldn't have to see this.  Why don't you get out of here?  Go for a walk.

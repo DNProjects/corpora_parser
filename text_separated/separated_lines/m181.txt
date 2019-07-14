@@ -1,0 +1,598 @@
+L507930 +++$+++ u2767 +++$+++ m181 +++$+++ DETECTIVE +++$+++ We all know what happened.  In a fit of jealous rage you killed Simone and dumped her body off a boat she bought for you.
+L507929 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I am telling the truth.
+L507928 +++$+++ u2767 +++$+++ m181 +++$+++ DETECTIVE +++$+++ Why don't you just come clean, Viktor?  Tell the truth.  You'll feel better afterwards.
+L507927 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ It wasn't her body.  It was her body of work.
+L507926 +++$+++ u2767 +++$+++ m181 +++$+++ DETECTIVE +++$+++ Can you tell us why you were disposing of the body of a woman who didn't exist?
+L507919 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Who?
+L507918 +++$+++ u2767 +++$+++ m181 +++$+++ DETECTIVE +++$+++ But not everyone's imaginary, are they, Mr. Taransky?  I refer, of course, to Edith.
+L507917 +++$+++ u2767 +++$+++ m181 +++$+++ DETECTIVE +++$+++ And this Mr. Hank Aleno who you talk so much about, a renowned failure, who also happens to be so conveniently dead -- perhaps the "man" you claim helped invent Simone is an invention himself?
+L507916 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Of course.
+L507915 +++$+++ u2767 +++$+++ m181 +++$+++ DETECTIVE +++$+++ So, of course, you couldn't kill Simone because there never was a Simone.
+L507914 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Oh, no.  The fan club is real.  But they were worshipping computer code -- ones and zeros.
+L507913 +++$+++ u2767 +++$+++ m181 +++$+++ DETECTIVE +++$+++ A fan club with a worldwide membership in the millions -- also bogus?
+L507912 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ That's right.  You understand perfectly.  I will confess to fraud, not murder.
+L507911 +++$+++ u2767 +++$+++ m181 +++$+++ DETECTIVE +++$+++ -- Forgive me, Mr. Taransky.  I'm just trying to understand.  All these films, TV appearances, magazine covers, internet interviews, publicity photos, snapshots from her childhood -- all fake.  This is fake, this is fake -- fake, fake, fake, all fake.
+L507780 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ Good-bye.
+L507779 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I'm glad we talked.
+L507778 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ Thanks.  This is my exit so, I --
+L507777 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Okay -- for you.
+L507776 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ Christ --  Elaine, I know how it looks but...  ... it would mean a lot to Viktor if you'd go with him to the Oscars. If you won't do it for him, please do it for me.
+L507775 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Simone, I recognize the shirt you're wearing.  I gave it to Viktor on his birthday.
+L507774 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ I don't know how many times I have to say this, Elaine, but Viktor and I are not in love.  I only make love to the camera.
+L507773 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ We have a daughter together.  I just don't want to see Viktor get hurt.
+L507772 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ It sounds like you still have feelings for him.
+L507771 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Exactly.  You're a household name now.  You're moving in entirely different worlds.  That's why I hope you're not toying with Viktor.
+L507770 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ Damn --  Yes -- I --  -- I'm just a little tired. Listen, Elaine, Viktor and I -- it's strictly a working relationship.  We could never be anything else.  We're just so... different.
+L507769 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ My God, are you alright, Simone?
+L507768 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ I'm not --  He's not.
+L507767 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ You don't have to protect my feelings, Simone.  I don't blame Viktor for falling in love with the most desirable woman in the world.
+L507766 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ I want to reassure you, Elaine, there's absolutely nothing going on between Viktor and I.
+L507765 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I think he owes more to you.  But that's not important now.  I know what's going on between you two.
+L507764 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ I can't imagine how you ever let a man like that go.  I owe Viktor everything.
+L507763 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ No, I understand.  That's what I want to talk about.  I don't know if you know this, Simone, but Viktor and I were married once.
+L507762 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ I'd love to stop somewhere but I'm late.  I'm on my way to see Viktor now.
+L507974 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ No... it's life.
+L507973 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Don't look so glum, Viktor.  It's not a death sentence.
+L507969 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ That sounds wonderful.  How do you feel about all this, Lainey?
+L507968 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I was thinking -- what about you and... "Simone" moving back in with me and Lainey?
+L507967 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Exactly.  Now that you have the studio behind you, we can really do things.
+L507966 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Why stop at one character when you can have a whole cast?
+L507965 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Don't thank us too fast, Viktor. You know what we have to do?
+L507964 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Thank you!  I don't know how you did it but thank you.
+L507907 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ How can you bring that up at a time like this?
+L507906 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Can I see you later -- go away for the weekend?
+L507879 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ No!  Whatever talent Simone has comes from me -- me!  Me!  I swear, as God is my judge.  You don't know what I've been through.  Tens of thousands of mind-numbing hours in front of that screen, nights without end, and look what it's cost me.  Why do you think I've been wearing these?  I may have done irreparable harm to my eyesight, and why?  To extract and refine the infinite nuances of a human being -- a human soul.  Don't you see?  I made Simone!
+L507878 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ You're drunker than I thought.  Are you doing that again?
+L507877 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- She's a figment of my own imagination.  I, Viktor Taransky, have perpetrated the greatest hoax, the greatest sleight-of-hand, sleight-of-mouth, sleight-of- sleight in entertainment history! And still no one appreciates me, recognizes what I've done -- even you.
+L507876 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ How much wine have you had?
+L507875 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Who says that -- ?  -- Never mind.  You have to listen to me, Elaine.  Simone is thin air, pixels, molded by me from a mathematical equation.  I inherited it from a madman -- I can show you --
+L507874 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ -- You just got lucky that she's loyal enough to stay with you. Maybe she's staying out of pity, who knows?  She certainly doesn't need you.  Some people even say you're holding her back.
+L507873 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- No, no, I didn't trip over her. You don't understand --
+L507872 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Every actor is an invention, Viktor.  Don't embarrass yourself. No one's denying that you discovered Simone.  But it's like finding a diamond in the desert. Anyone can trip over it, but it's not the finder who sparkles.
+L507871 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I'm going to tell you a secret now, Elaine.  Simone is not a real person.  I invented her.
+L507870 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ You?
+L507869 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Not if I don't let her.
+L507868 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Of course she will.  Her public will demand it.
+L507867 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ No.  She'll never work again -- retire, never make a movie or a record, or appear ever again.
+L507866 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ But you don't understand.  She'll always be there -- at some party, on some magazine cover, some song on the radio, up on some screen.
+L507865 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ No, I will end my relationship with her -- totally.
+L507864 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Oh, Viktor.  You say that now -- because we're here, alone, like this.  But in the morning, you'd go back to her.  What man wouldn't?
+L507863 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ No, there isn't.  There's nothing to her.
+L507862 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ That's sweet, Viktor, but I couldn't let you do that -- make that kind of sacrifice.  It's strange.  I've stabbed people in the back, clawed and slept my way to where I am -- it goes with the territory -- but, for some reason, I can't betray Simone. There's... I don't know any other way to say it -- there's a goodness to her.
+L507861 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I would rather have you than Simone.  Believe me.
+L507860 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ This is crazy.  Who am I fooling? I can't compete with Simone.  What woman can?
+L507859 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I want you back too, Viktor.
+L507858 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- She already is.  Simone's not coming over, Elaine.  Not tonight, not ever.  I want you back, Elaine.
+L507857 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ -- And she was positively glowing at the awards.  I should be going, she'll be here soon --
+L507856 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I know.  I know.  They'll say anything.
+L507855 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I just read somewhere --
+L507854 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Impossible.
+L507853 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I'm sure you'll keep her focussed. She's lucky to have you, Viktor.  Is she really having your baby?
+L507852 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Not quite.
+L507851 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Is Simone back to earth yet?
+L507850 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I suppose I could stay, just until she arrives.
+L507849 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ About now.  Would you like a drink?
+L507848 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ When is she coming over?
+L507847 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ As a matter-of-fact I am.
+L507846 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Is it Wednesday?  It's Wednesday. How embarrassing.  I don't know what I was thinking.  With all the excitement lately...  Am I interrupting something?  Are you expecting company?
+L507845 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Elaine, it's Wednesday.
+L507729 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I can imagine.
+L507728 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ She's lying down.  She's exhausted.
+L507727 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ ... Simone.
+L507726 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Lainey and I just wanted to congratulate...
+L507725 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ My two favorite girls.
+L507660 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ It's a crowded summer.  We need every photo-opp, sound-byte and column inch we can get.  Good night, Viktor.
+L507659 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Excuse me?  Start?
+L507658 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Yes, you do...  Anyway, tonight was a good start.
+L507657 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I do?
+L507656 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Whenever I compliment Simone, you take the credit.
+L507655 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Do what?
+L507654 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Viktor, do you realize you always do that?
+L507653 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Thank you.
+L507652 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Well, yes.  From a studio point of view, it would be better if Simone stayed single.  Anyhow, I thought she came across great tonight.  Intelligent, well informed, a natural.  And touching. She was spectacular.
+L507651 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ No, of course not!  Why?  Would you care if we were?
+L507650 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Are you and Simone...  ... getting married?
+L507649 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ No.
+L507648 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ -- Viktor, are you with her?  Is she there?
+L507603 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Oh, yes.  Of course.  Don't I always?
+L507602 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I'd love to.  But aren't you supposed to meet up with Simone?
+L507601 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Elaine, what are you doing tonight? Would you like to go somewhere -- dinner?
+L507600 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Really?
+L507599 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ She said you were very beautiful.
+L507598 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ She was there.  She didn't by any chance happen to mention me?
+L507592 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I'll try.  Maybe live but remote. She'll never go to them.
+L507591 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Oh, make it live -- please, Viktor.
+L507590 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I'll tell you what.  I know how much this means to you.  I'll try to get her to plug the film.  I'm not promising anything but maybe she'll do a talk show -- taped.
+L507589 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ You're so good to protect her like this.
+L507588 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ She doesn't want pity.
+L507587 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Viktor, you should have said something.
+L507586 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ The premiere was the first time I've convinced her to venture out and it just confirmed her worst nightmares.
+L507580 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ -- I don't think that's necessary. I think it's perfectly clear.  I should have guessed -- it all makes sense now... it's why she never goes anywhere, never seen in public...
+L507579 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- I can explain.
+L507578 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ So, the secret's finally out, Viktor.
+L507573 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Not now.  She's emotional.  Her mother dies today.  Scene forty-two of "Good For Nothing".  It's not a good time.
+L507572 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ -- It's starting to look like she doesn't support the film or you, Viktor.  If you can't handle her, I will.
+L507561 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ -- We have to talk to her, Viktor!
+L507560 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- You can't go in there!
+L507502 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ That's true.
+L507501 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Everyone you know is lying.
+L507500 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Everyone I know has met her, Viktor.
+L507499 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Soon.  Soon.
+L507498 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I'd love to tell her myself.  When are you going to let me meet her?
+L507497 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Thank you.  I'll tell Simone you liked it.
+L507496 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Yes.  To be honest I never quite saw this film before -- maybe it's the way Simone is playing it -- but what it's saying about the illusion of permanence in everyday life, how that's the only way we can love -- I think it's really going to mean something.
+L507495 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You really think so?
+L507494 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I should fire you more often.  The film's looking wonderful.
+L507493 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Better late than never.
+L507492 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Maybe you're right.  Twelve years after your daughter's born you decide to become a father.
+L507486 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Who else?  It's always Simone's idea.
+L507485 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ That's genius, Viktor.  Was that Simone's idea?
+L507484 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I got them to remove the reflection.  The mirror's metaphor -- to show how her character's inwardly dead.
+L507479 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Thank you.  What did you think, Lainey?
+L507478 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Stunning, Viktor.  The Hollywood Foreign Press is going to eat this up.
+L507380 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Viktor, I have a feeling.  One of my feelings.  There's something about her I don't trust.
+L507379 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Simone does not control my destiny.
+L507378 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Experience, Viktor.  I've seen this a hundred times -- young stars destroying the very people who discovered them.  I'm worried about you, that's all.  This woman -- she controls your destiny.
+L507377 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Elaine, talking to you now, not as Viktor, director, but Viktor, ex husband... what the hell happened to you?
+L507376 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Listen, Viktor... I want to talk to you now, not as Elaine, studio head, but Elaine, ex-wife.  Second ex-wife.  You got lucky this last time but you need to be careful.  We both know you wouldn't be making this overblown art film of you hadn't convinced Simone to be in it.
+L507375 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I'll walk you out.
+L507374 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Not today.  She's learning her lines.  You can also take cue cards and teleprompter out of the budget.
+L507373 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Which accounts for your percentage.  When do I get to meet this dream?
+L507372 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ As I've tried to explain to you, Elaine.  Simone isn't like any other actress you've ever known. She's about the work and only the work -- lives for the work.  She wants all the money up there...  ... on the screen where it belongs. She'd work for scale except I know you only respect people you pay a fortune.
+L507371 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Well, shoot it on the last day.
+L507370 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Even the fall from the plane.
+L507369 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Even the fall from the plane?
+L507368 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ No need.  She does all her own stunts.
+L507367 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ There isn't one.
+L507366 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ What about it?
+L507365 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Well, we have to do something about this -- "stuntwoman".
+L507364 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- I guarantee she won't gain an once.  She's very disciplined.
+L507363 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Al least a contingency for wardrobe.  Any woman can go up a dress size.
+L507362 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I'll send you her resume.
+L507361 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ She was in the theater?  When? Where?
+L507360 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ She'll do her own.  Theater training.
+L507359 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Hair and make-up?
+L507358 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ She'll drive herself.
+L507357 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Well, something has to be done about this budget.  It's completely unrealistic.  You allowed nothing for limousine service.
+L507356 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ If it's on the page...
+L507355 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Really?  Oh, so she's really going to do all this nudity?
+L507354 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ There aren't any.  If the filmmakers are happy, Simone's happy.  She considers herself an... "instrument".
+L507353 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Whatever.  I still haven't received Simone's script notes.
+L507352 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ "Forever".
+L507351 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Viktor, we simply have to talk about "Eternity..."
+L507348 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Why not?
+L507347 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ No problem.  Do you want to come in?
+L507346 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Sorry I didn't get her back in time.
+L507218 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ She's my actor.  There are other studios, Elaine.  There's only one Simone.  Leave the press conference to me.
+L507217 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Viktor, it's my studio.
+L507216 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Out of the question.  A circus like that?
+L507215 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Don't be ridiculous.  I arranged a press conference.
+L507214 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ As I say, she's... something of a recluse.  That's how she's able to stay so pure -- by isolating herself in her art.
+L507213 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Why not?
+L507212 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I don't know if that's going to happen.
+L507211 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I can't wait to meet her.
+L507210 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Almost right.
+L507209 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I don't have it on me.  Anyway, it means a lot.  Have you read the reviews?  They're love letters.  Listen to this one.  "Simone has the voice of a young Jane Fonda, the body of Sophia Loren, the grace of, well, Grace Kelley, and the face of Audrey Hepburn combined with an angel".
+L507208 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Don't thank me.  It was entirely Simone's decision.  Do you have Simone's check?
+L507207 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Viktor... I want to thank you for convincing Simone to sign with the studio.
+L507205 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Why?  Because she would never show up at something like this.  She's intensely private.
+L507204 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Why isn't she with you?
+L507203 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Good to see you too, Elaine.
+L507202 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Where is she?
+L507085 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Even if you find her, you know the problem with unknowns, Viktor.  If they're good, they get known.  And then you're back to sorting their candy... and worse.  I'm sorry, Viktor.
+L507084 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I don't need a star.  All I need is an actor -- I'll reshoot the part, cut out Nicola and replace her with a real actor.  A real leading lady.
+L507083 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ They're yours.  But how are you going to finish it?  Without a star there's no movie.
+L507082 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ So there's no problem -- I can have the rights, the negative too?
+L507081 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ The picture's dead.
+L507080 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You can have everything -- office, car, assistants -- all I want is the picture.
+L507079 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I'm not taking away your daughter, just your deal.  You and I both know, after the divorce I kept you on for old time's sake, so you could still hold your head up in front of Lainey.  I called what's his name at Warner's.  He said he'd take a meeting -- in July.  I've fought for you Viktor...  You want to talk severance?
+L507077 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ How can I?  Your last three pictures tanked.  The board is giving me hell.  No bankable star will work with you after this.  If you just compromised... a little.
+L507076 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You're not renewing my contract.
+L507075 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ -- Christ, Viktor, look around. What do you think pays for all this?  This is about investment and return.  Those days in New York... that's... it's over.
+L507074 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Spare me.
+L507073 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Listen, Viktor, I have good memories of those days too -- but this isn't about that or you or me or some high-minded ideal.  This is business.
+L507072 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- Illuminate hearts and minds with a ray of truth.
+L507071 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ -- It's called a projector.
+L507070 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Well, I do remember why I started out in this business -- you seem to have forgotten -- working in New York with Cassevetes -- we were trying to do something important, shine a light in that darkened cinema --
+L507069 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ You realize you're nostalgic for an era you weren't even born in?
+L507068 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ We can hardly make a profit with them.  Up-front salary, back-end deal, perks, per diem, percentages -- They're mocking us, Elaine. We're at their mercy.  We always had movie stars but they used to be our stars.  We used to decide who would play what role. We told them what to wear, what to say, who to date.  When they were under contract, we could change their names if we wanted to -- more than once!
+L507067 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ It's the truth.  Those 17 superstars are our insurance policy.  We can't open -- can't make a profit without them.
+L507066 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Please.
+L507065 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ The public decides who's on that list.
+L507064 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Elaine, she doesn't have any children!  Don't you see?  We're being held hostage by 12 men and 5 women who someone somewhere has decreed are the A-list.
+L507063 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ -- What's wrong with that?
+L507062 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- I'll tell you why.  It is because Miss Nicola Anders, supermodel with a SAG card God's gift to cinema, has it written into her contract that all cherry Mike & Ike's be removed from her candy dish along with strict instructions that any room she walks into should have seven packs of cigarettes waiting for her three of them opened, that there be a personal jacuzzi within eighty paces of her dressing room, and that any time she travels, her nanny must fly with her first class.
+L507061 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ -- I have a feeling you're going to tell me.
+L507060 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- overseeing the most cherished movie project of my career, am walking around with a pocketful of cherry Mike & Ike's?
+L507059 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ -- Viktor, that was Short Subject.
+L507058 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Not just any Mike & Ike's -- cherry Mike & Ike's.  Do you know why I, Viktor Taransky, two-time Academy Award nominated director --
+L507057 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Hmm... Mike and Ike's.
+L507056 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- Do you know what these are, Elaine?
+L507055 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Difficult.  I'm difficult.
+L507054 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ God, Viktor.  Why do you always have to make things so difficult for yourself?
+L507053 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Excuse us.
+L507052 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ No!  You will not give in to that blackmailing bitch!
+L507049 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ We don't need a name.  We'll cast an unknown.
+L507048 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Of course she is.  No other name is going to sign on now and risk offending her.
+L507761 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ Right beside you.  I borrowed Viktor's car.
+L507760 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Where are you?
+L507759 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ Well, here I am.  You look pretty today.  Red suits you.
+L507758 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Yes -- oh my, God.  Is that you, Simone?!  I've been wanting to talk to you.
+L507757 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ Hello, is this Elaine?
+L507756 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Hello?
+L507951 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Listen to what you're saying, mom. Is there any evidence she is?
+L507950 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Lainey, there's no evidence that Simone isn't real.
+L507949 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ -- We don't believe daddy because we don't want to believe we were taken in too.
+L507948 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Well, I --
+L507947 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ I know it's embarrassing to admit it, mom, but when I think about it -- honestly, I haven't.  I mean, it feels like I have.  I know more about her than members of my own family.  She's even in my dreams. But I realized, going back through my diary, they were all TV appearances, near misses at parties, second-hand rumor, gossip on the internet.  I've never actually seen Simone up close, touched her, been in her physical presence.  Have you?
+L507946 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ I mean really meet her -- in the flesh.
+L507945 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Of course.  What are you suggesting?
+L507944 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ So you did meet her?
+L507943 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I know it as surely as you're sitting here, sweetheart.  She was the most vital woman I ever met.
+L507942 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Because obviously she existed, right?
+L507941 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ God, it's so like your father.  Why can't people take responsibility for their actions anymore?  I can almost forgive him for killing Simone -- but denying her existence.  I can never forgive that.
+L507940 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Just a minute.
+L507939 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Let's go, Lainey.  There's nothing here.
+L507731 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ It was a great show, Dad...
+L507730 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Thank Simone for the tickets.
+L507662 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Sometimes.  But, just when I think your father's changing for the better, I realize he's as self absorbed as ever.  He took the credit for Simone tonight.
+L507661 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Mom, do you miss Dad?
+L507737 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I have to talk to her.
+L507736 +++$+++ u2774 +++$+++ m181 +++$+++ KENT +++$+++ Elaine, do you realize you can't stop talking about Viktor?
+L507735 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ Obviously, this can't last.  She's going to dump him.  Viktor won't be able to take that.  He's too sensitive.  It'll destroy him.
+L507734 +++$+++ u2774 +++$+++ m181 +++$+++ KENT +++$+++ Why?
+L507733 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ I can't believe she's doing this -- taking advantage of him this way. It's cruel.
+L507097 +++$+++ u2768 +++$+++ m181 +++$+++ ELAINE +++$+++ He also happens to be the most talented man I've ever known.
+L507096 +++$+++ u2774 +++$+++ m181 +++$+++ KENT +++$+++ You had no choice, Elaine.  He's a liability.
+L507477 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Please put your clothes on
+L507476 +++$+++ u2769 +++$+++ m181 +++$+++ FAITH +++$+++ "Why are we here?  Is that what you're asking, Jack?... Why are we here?  No why.  Just here".
+L507475 +++$+++ u2769 +++$+++ m181 +++$+++ FAITH +++$+++ Is that a problem?
+L507474 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You're with me to be close to her?
+L507473 +++$+++ u2769 +++$+++ m181 +++$+++ FAITH +++$+++ Yes, yes, again, again.  Do what you do to Simone.  I want to know what it's like to be her just for one night.
+L507472 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Simone?
+L507471 +++$+++ u2769 +++$+++ m181 +++$+++ FAITH +++$+++ Yes, call me Simone.
+L507470 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ What I do to Simone?
+L507469 +++$+++ u2769 +++$+++ m181 +++$+++ FAITH +++$+++ Do what you do to Simone.
+L507468 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ What?... What did you say?
+L507465 +++$+++ u2769 +++$+++ m181 +++$+++ FAITH +++$+++ I do find myself physically attracted to you, Mr. Taransky.
+L507464 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Yes, of course, but very beautiful in your own right.
+L507463 +++$+++ u2769 +++$+++ m181 +++$+++ FAITH +++$+++ ... so much like her?
+L507462 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You look so, so...
+L507461 +++$+++ u2769 +++$+++ m181 +++$+++ FAITH +++$+++ Of course.
+L507460 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You understand you'll have to come back to my place to keep them off the, er...  ... scent.
+L507459 +++$+++ u2769 +++$+++ m181 +++$+++ FAITH +++$+++ No, thank God for you, Mr. Taransky.  How many men would go to so much trouble to protect a woman?
+L507458 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Thank God for you, Faith.  I know this is above and beyond the call of duty for a stand-in.  You don't know what a service you're performing for Simone -- shielding her from those animals.
+L507980 +++$+++ u2770 +++$+++ m181 +++$+++ FRANK BRAND +++$+++ And what may I ask brought this on?
+L507979 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ That's true.  I can reveal that I am considering a career in politics.
+L507978 +++$+++ u2770 +++$+++ m181 +++$+++ FRANK BRAND +++$+++ We all do.  But now I understand you're eager to get back to work -- and not the kind of work that we're all expecting.
+L507977 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ With everything that was going on in my life, I just needed to drop out of sight for a while -- I needed time.  Viktor bought me that time.  I owe him so much.
+L507976 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ Frank, you know as well as I do, living in a fish bowl, the insatiable appetite of the media...
+L507975 +++$+++ u2770 +++$+++ m181 +++$+++ FRANK BRAND +++$+++ -- Simone, the question on everyone's mind is simply... "why?"
+L507642 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ I suppose the thing I like most about the movies I'm in is that they're not about special effects.
+L507641 +++$+++ u2770 +++$+++ m181 +++$+++ FRANK BRAND +++$+++ What exactly was it that attracted you to your first two projects?
+L507640 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ Nudity has just never been an issue for me, Frank.  For me, clothes are just an option.
+L507639 +++$+++ u2770 +++$+++ m181 +++$+++ FRANK BRAND +++$+++ How about the nudity?
+L507638 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ Sure.  Where would you like to start?
+L507637 +++$+++ u2770 +++$+++ m181 +++$+++ FRANK BRAND +++$+++ Let's talk about the work that you care so much about.
+L507636 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ No, I'm okay.
+L507627 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ That's a good question.  As Nietzsche said, "Whenever a man strives long and hard to appear someone else..."
+L507626 +++$+++ u2770 +++$+++ m181 +++$+++ FRANK BRAND +++$+++ Who are you really?
+L507625 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ Because, you have to understand, Frank, these interviews -- none of this is real.  Who I am on screen and who I really am are two totally different people.
+L507624 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ I'm not even sure I deserve it. After tonight I'll have almost as much screen time on your show as I do in my movies.  How is that healthy for a performer?
+L507623 +++$+++ u2770 +++$+++ m181 +++$+++ FRANK BRAND +++$+++ You don't secretly want the attention?
+L507622 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ Don't I know it.  That's the only reason I'm here now -- to put the attention back where it belongs, on Mr. Taransky's film.
+L507621 +++$+++ u2770 +++$+++ m181 +++$+++ FRANK BRAND +++$+++ Of course, the only problem with shying away from publicity these days is that it tends to attract more.
+L507620 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ I just think actors talk too much. Does the world really want to hear your life story just because you've got a movie opening Friday?
+L507619 +++$+++ u2770 +++$+++ m181 +++$+++ FRANK BRAND +++$+++ Well, no one could accuse you of being over-exposed, Simone.  Why have you stayed so completely out of the limelight?
+L507530 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ Simone!
+L507529 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ No.  In fact, between us, she doesn't really exist.
+L507527 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ I have to talk to her about my experimental film.  It's very... experimental.
+L507526 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I know what you mean.
+L507525 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ You know I sometimes forget she has bodily functions.
+L507520 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ Somebody said she was here.
+L507519 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I'm fine, Hal.  How are you?
+L507518 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ Is she here?
+L507429 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I can't explain it to you now -- you'll see when it's all put together.  Anyway, we got it a couple of takes ago.  Let's move on.
+L507428 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ How did the wall get there?
+L507427 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- No.  No.  A real wall.  You ran right through it.
+L507426 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ -- an emotional wall, I know. That's why --
+L507425 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ There's... a wall between you --
+L507424 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ Why not?
+L507423 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You can't.
+L507422 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ But she's right there!  I must feel her!
+L507421 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Absolutely not!
+L507420 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ Viktor, Clyde simply has to get close to Simone in this scene!  He has to touch her.  He has to!
+L507419 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Hal, what are you doing?
+L507388 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ For you.  I want you to know, Simone appreciates you all working for scale.  But why am I thanking you? Simone can thank you herself.  She insisted on speaking with you before filming begins.  She's on the line now.
+L507387 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ For her?
+L507386 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Body double.
+L507385 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ How will you do our love scenes?
+L507303 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You're so far off!  Hal... Hal Sinclair... your co- star.  Remember now?... No, I don't think he's put on weight.  Anyway, you think he's right for "Eternity Forever"?... not the right type?... a different direction...  I'll try to talk her into it.
+L507302 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ It was more in passing.
+L507301 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You'll never guess who I'm with... you ran into him on the lot.
+L507299 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ I'm sure she's meeting with a lot of people right now.  She is just as you described her, Viktor... indescribable.  I strongly sensed she thought I was right for it.
+L507298 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Really?  She didn't mention it.
+L507297 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ Yes, perfect.  As a matter of fact, I ran into Simone on the lot the other day.
+L507296 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Clyde.
+L507295 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ And still the connection was undeniable.  I haven't read "Eternity Forever" but I know it's brilliant.  And I know I would be perfect for Clive.
+L507294 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You never were together, Hal.
+L507293 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ The film.  The chemistry.  No reflections on Nicola but Simone and I -- we were just so right together.
+L507292 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Hello, Hal.
+L507291 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ Viktor, I'm so happy for us!
+L507047 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ It's a re-make, Hal.  Anders is not bigger than this picture.
+L507046 +++$+++ u2771 +++$+++ m181 +++$+++ HAL +++$+++ Nicola Anders is the only actress who can play that role.
+L507135 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I'm already dead.
+L507134 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ I won't be here next week.  The tumor's inoperable.  I'll be dead.
+L507133 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Listen, Hank, it's been a rough day.  I'll call you about his next week.
+L507132 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ I've seen every frame of your work. You're the only filmmaker in Hollywood with the artistic integrity to realize my vision. You and me, art and science... we are the perfect marriage.
+L507131 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You saw that?
+L507130 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ "Straw God" changed my life.
+L507129 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You do?
+L507128 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ An eye -- for performance.  You know the truth when you see it.  I know.  I've seen your movies.  I love your movies.
+L507127 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ What's that?
+L507126 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ That's why you're so perfect.  You have something I don't have.
+L507125 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I don't know anything about computers.
+L507124 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ It can -- with my new computer code, you and me, we can do it together.
+L507123 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ That's the point, Hank.  No matter how good they are, they're still Mickey Mouse.  Everyone's tried. Everyone's failed.  It can't be done.
+L507122 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ You already do.  But my actor won't get old, fat, lazy or drunk -- won't throw tantrums, demand a body double, script changes or a bigger trailer.  The Disney Corporation has been using artificial actors for years.
+L507121 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- a living, breathing actor -- I can't work with a fake.
+L507120 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ -- Flesh is weak.
+L507119 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I need flesh and --
+L507118 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ -- We call them "vactors".
+L507117 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Come on, Hank.  A synthespian, virtual actor -- ?
+L507116 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ Not like this --
+L507115 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I've seen them all before.
+L507114 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ You have to see her.
+L507113 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ Don't be.  It was worth it.
+L507112 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I'm sorry.
+L507111 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ Good and bad.  They think that's what caused this.  Me eye tumor. Microwaves from the screen.  It's the size of a grapefruit.  Heavy too.
+L507110 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Good for you, Hank.
+L507109 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ -- Eight years ago.  In that whole time, I never left my computer.
+L507108 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ That's right.  You were booed off the stage.  That's got to be -- ?
+L507107 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ It's me, Mr. Taransky.  Don't you recognize me? -- The Future of Film conference in San Jose. Hank... Hank Aleno.  I was keynote speaker.  You must remember my speech... "Who Needs Humans?"
+L507106 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ I have your new leading lady...  ... right here in my pants.
+L507105 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I was misquoted.
+L507104 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ I have her, Mr. Taransky.  The answer to your prayers.  The answer to this.
+L507103 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You want me to call Security?
+L507102 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ I did it, Mr. Taransky.  I licked skin.  I licked hair.  I licked every part of her.
+L507101 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- Please, get away from me.
+L507100 +++$+++ u2772 +++$+++ m181 +++$+++ HANK +++$+++ -- Mr. Taransky, Mr. Taransky... thank God.  I've been trying to see you, calling -- Your assistant wouldn't put me through.  I told her it was a matter of life and death.  I was afraid I wouldn't get to you in time --
+L507515 +++$+++ u2773 +++$+++ m181 +++$+++ HARRY +++$+++ I can't believe you people!  No wonder she never comes to these things!
+L507514 +++$+++ u2780 +++$+++ m181 +++$+++ PREMIERE REPORTER 2 +++$+++ Do I hear the sound of... wedding bells?
+L507513 +++$+++ u2773 +++$+++ m181 +++$+++ HARRY +++$+++ We've been seeing each other, sure, but we'd rather keep our relationship private.
+L507512 +++$+++ u2780 +++$+++ m181 +++$+++ PREMIERE REPORTER 2 +++$+++ There's a rumor that you're more than just "good friends"?
+L507511 +++$+++ u2773 +++$+++ m181 +++$+++ HARRY +++$+++ I just came out to support my good friend, Simone.
+L507510 +++$+++ u2780 +++$+++ m181 +++$+++ PREMIERE REPORTER 2 +++$+++ Harry!  Harry!  Can we have a minute?  What brings you here tonight?
+L507972 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Your mistake wasn't making something fake, daddy.  We're fine with fake -- as long as you don't lie about it.
+L507971 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Me and Simone.  What I did.
+L507970 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ About you and mom?
+L507820 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Lainey...
+L507819 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ There you go again, blaming yourself.  Can't you see what she's done to you -- she's taking advantage, mocking you.  You deserve better than Simone.  I've got to go, Dad.
+L507818 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ No, that was me.
+L507817 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ The old Viktor Taransky.  I liked you better before -- before all this.  You were a loser, Dad, but at least you had integrity.  I can't stand to see you like this -- clinging to Simone's coattails -- it used to be about the work, and now it's all about her.  And then she's not even grateful enough to thank you.
+L507816 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Why not?  I can get you something else.  What do you want?
+L507815 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ -- I can't accept it.  I don't want a car, Dad.
+L507814 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ It's from both of us.  Of course you'll have to drive it around the lot until you get your permit --
+L507813 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ I know.  Thank her for me.
+L507812 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ It's the car she drove in "Eternity Forever".
+L507811 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ It's fantastic -- it's too much.
+L507810 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Happy birthday, Lainey.  Do you like it?
+L507789 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ She did... didn't she?
+L507788 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Why didn't she thank you?
+L507754 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ I love you too, daddy.
+L507753 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I love you, Lainey.
+L507751 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ I love her but that doesn't mean I need to meet her.
+L507750 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I'll see what I can do.  You know, Lainey.  I don't believe you've ever once asked to meet Simone.  Don't you like her?
+L507749 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Too impersonal.  They have to meet face-to-face.
+L507748 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Dinner?  Dinner's difficult.  A phone call?
+L507747 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ I know but Mom doesn't.  Maybe if it came from Simone, if Simone spoke to Mom -- she could straighten things out.  Dinner, maybe.
+L507746 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Lainey, you know Simone and I don't have a real relationship.
+L507745 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ She thinks you're with Simone.
+L507744 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Really?  Too bad.
+L507743 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Dad, you know I don't like to get between you and mom but she's feeling down right now.  She broke up with Kent.
+L507742 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ I noticed.
+L507741 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You know me -- married to my work.
+L507740 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ I do okay.  How about you?
+L507739 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Hey, Lainey.  How's your love life?
+L507490 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Night, Lainey.
+L507489 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Good-night, Daddy.
+L507488 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Precisely.
+L507487 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ So that accounts for the lack of a shadow in reel six?
+L507482 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ No, not that.  I was just wondering -- in the bedroom scene in reel two why did Simone have no reflection when she walked in front of that mirror?
+L507481 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I know, Hal is as stiff as always.
+L507480 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ One thing bothered me.
+L507345 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ I'm sure you'd tell me if you thought it was important.
+L507344 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Exactly.  Don't you wonder where I'm really hiding Simone?
+L507343 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ -- I know, I don't know anything.
+L507342 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ If anyone asks about Simone --
+L507341 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Okay, Dad.
+L507327 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You understood them.  That's what was amazing.  It's a nice day.  Let's eat outside.
+L507326 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ You were the one who insisted on it.  Reading me Dostoyevsky and Joyce when I was four.
+L507325 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You do?  Still?  I can't tell you how happy I am to hear that.
+L507324 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ I read.
+L507323 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ How?
+L507322 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ I do.
+L507321 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Okay.  But you have to find a way to escape that thing.
+L507320 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Dad, I can spot a middle-aged freak a mile away.
+L507319 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Really?  Who?  Where do you meet them?  In a chat room?  How do you know he's not some middle-aged freak?
+L507318 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ I know plenty of boys.
+L507317 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Those things can be dangerous. Staring at a screen all day -- you miss what's going on outside in the real world.  You can lose yourself. You should get out more.  How are you going to meet boys?
+L507316 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Why?
+L507315 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Can't you stop that?
+L507185 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Only her brilliance.  To be honest, with what you had to work with, I was expecting a train wreck.  You really pulled it off.
+L507184 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I saw her picture on the, er... internet.  You really didn't notice anything -- unusual?
+L507183 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ She's a miracle, Dad.  Where did you find her?
+L507162 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ She can't watch herself.
+L507161 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Is she here tonight?
+L507160 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You know, I... don't know.
+L507159 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Well, I can't wait to meet Simone... what's her last name?
+L507158 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Me too.
+L507157 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ I missed you.  I wondered if you were ever coming back.
+L507156 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ There was no other way.
+L507155 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ -- You finished the film on your own terms, that's what matters. Did you really do all the post yourself?
+L507154 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Not quite how I imagined it --
+L507153 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ This week anyhow.
+L507152 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ She still with Kent?
+L507151 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ She's at the premiere of "A Cold Day In Hell".  But I think she send someone from Acquisitions.
+L507150 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Your mother couldn't make it?
+L507149 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Hello, Lainey.
+L507148 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Hi, Dad.
+L507094 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ I know you'll do it, Dad.  You're Viktor Taransky.
+L507093 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I'm going to finish the picture, sweetheart.  It's important.
+L507091 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You look very grown up.  What are you doing?  You meeting your mom for dinner?
+L507090 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Don't feel too bad.  Mom runs the place and they still walk all over her.  You're better off out of it.
+L507089 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ It's really... not anything, Lainey.  It's just --
+L507088 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ I'm sorry Mom canned you.
+L507087 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Hello, sweetheart.
+L507086 +++$+++ u2775 +++$+++ m181 +++$+++ LAINEY +++$+++ Hi, Dad.
+L507957 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ It was premeditated -- I knew exactly what I was doing!  I strangled her!  I bludgeoned her! I set her on fire!  I did it!  I killed her!
+L507956 +++$+++ u2776 +++$+++ m181 +++$+++ LAWYER +++$+++ What?!
+L507955 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- No!  I can't go along with this horseshit!  Just tell them they can fry me!
+L507938 +++$+++ u2776 +++$+++ m181 +++$+++ LAWYER +++$+++ An insanity defence.
+L507937 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I didn't kill anyone, Bernard, there was no one to kill!
+L507936 +++$+++ u2776 +++$+++ m181 +++$+++ LAWYER +++$+++ You certainly will if you go to trial -- a jury in this kind of ugly mood.  You've killed an icon, for God's sake.
+L507935 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I could get the death penalty.
+L507934 +++$+++ u2776 +++$+++ m181 +++$+++ LAWYER +++$+++ -- Plead guilty and throw yourself on the mercy of the court.  It's the best deal you're going to get.
+L507809 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ This should take care of Mother.
+L507808 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Don't you?
+L507807 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You love her, don't you, Max?
+L507806 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ No.  Thanks.  Absolutely.
+L507805 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I wouldn't want you to compromise your ethics.
+L507804 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ I do?  Sure I do.  Can we speak off the record?  I'm a fair man.  I'm willing to sit down with her and tell her side of the story.
+L507803 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ That won't be necessary.  Sooner or later I knew you'd crack this thing, Max.  You got me.
+L507802 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ That doesn't prove a thing -- wait until I get a court order for a blood test.
+L507798 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ She hasn't uttered a word that whole time -- until she saw the big show.
+L507797 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ She looks a lot like you.
+L507796 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ I traced her to a nursing home.  A young woman fitting Simone's description dropped her off five years ago.
+L507795 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Looks familiar, doesn't she?  No one comes from nowhere, Taransky. You turn over enough rocks...
+L507794 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ What now, Sayer?
+L507699 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Er,... good.
+L507698 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Alright, Sayer, you've got a deal.
+L507697 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ I want to see her.  Unless you show me Simone live and in person I show these pictures to the authorities.
+L507696 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ What is it exactly you want, Sayer?
+L507695 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ I don't buy the whole recluse scam. How are you doing it?  What is it -- drugs?  Blackmail?  Mind-control? All three?  What do you do -- keep her locked in a box somewhere?
+L507694 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Abduction?
+L507693 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ I know that's what you'd like us to believe.  But I got to tell you -- embezzlement is a serious matter. Not to mention abduction.
+L507692 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I'm keeping it in trust.
+L507691 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ -- I've looked at every piece of publicity she's ever done, the video in the supermarket, there's no evidence she's ever left the studio.  Oh, and for some reason this woman leaves no paper trail.  But I have "obtained" a copy of your bank accounts.  I know you have power of attorney but so far you haven't transferred one single solitary cent to her.
+L507690 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- I bet you have.
+L507689 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ I've done my homework.  I've studied her.
+L507688 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ She was never in New Mexico.  She never left the studio.
+L507687 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ The background is.
+L507686 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ It's bogus.  You used an old library shot for the background.
+L507684 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ I think you do.  I know it's a fake.
+L507683 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I don't have time for this, Sayer.
+L507682 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ I know what you're up to.
+L507681 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ It's a yacht.
+L507680 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Nice boat, Taransky.
+L507338 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I'd like to see that, Sayer. Invite me.
+L507337 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Nice try.  If we can't get to her through you, maybe your family will be more co-operative.  I can guarantee you, Taransky, one way or another, Miss Simone and I are going to get acquainted.
+L507336 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I'm just trying to help you, Sayer. I don't want you to be disappointed.  It gets cold out here at night.
+L507335 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ The cops?  The cops read my column to know who to bust.  We're the only watchdog the public has.  None of this is going away.  We'll be here tomorrow and the day after that.  Until you slip up.  And you will.  You are looking at your shadow.  Because all these elaborate precautions with Simone -- every instinct in my body tells me, it's not natural.
+L507334 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Who's the hostage, Sayer, her or you?  You look kind of "captive" yourself.  While you're spending every waking hour obsessing over Simone, guess what, I guarantee she doesn't even know you exist.  Get off my property or I'll call the cops.
+L507333 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ She sounds like a prisoner, Taransky.  Are you holding her hostage?  Are you some kind of Svengali?
+L507241 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Maybe the reason she's with me is a little thing called integrity, Sayer.  Look it up.
+L507240 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ So they're probably here.  You might be able to sell this 'disappearing act' to the rest of the world, but I'm not buying it. What's really behind this Simone woman?  The public has a right to know.  Why is she staying out of sight?  And why the hell is she with you?  I don't want you to take this the wrong way, Viktor, but you're not exactly Cecil B. DeMille -- more run-of-the-mill.
+L507239 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ They are alive, Sayer.
+L507238 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Our leaders aren't presidents anymore -- they're pop stars and screen idols.  If Woodward and Bernstein were alive today, they'd be right here in Hollywood with me.
+L507237 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I remember when the Echo had class -- the paper that could bring down governments.
+L507236 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ This is the story.
+L507235 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Don't you have a real story to write?  Why aren't you in Latin America?
+L507234 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Max Sayer -- National Echo.
+L507233 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Do I know you?
+L507670 +++$+++ u2778 +++$+++ m181 +++$+++ MILTON +++$+++ Could they have built that hotel since yesterday?
+L507669 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ I don't understand.
+L507668 +++$+++ u2778 +++$+++ m181 +++$+++ MILTON +++$+++ It's a hotel.
+L507666 +++$+++ u2778 +++$+++ m181 +++$+++ MILTON +++$+++ Is that why she left you?
+L507665 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ -- I've been here before! -- On my honeymoon with my ex-wife.
+L507609 +++$+++ u2778 +++$+++ m181 +++$+++ MILTON +++$+++ We used to.
+L507608 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ -- Cashier's check went out to our anonymous tipster this morning -- worth every penny too.  Who says there's no place for checkbook journalism?  We'll be running stills of this for months, then release the whole tape -- we'll get our money back -- maybe show it on an exclusive pay-per-view event. Do you realize what we have here? We have the only independent footage of Simone in existence.
+L507607 +++$+++ u2778 +++$+++ m181 +++$+++ MILTON +++$+++ Mr. Sayer, did we pay the million bucks yet?
+L507606 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ What do you want -- ?
+L507605 +++$+++ u2778 +++$+++ m181 +++$+++ MILTON +++$+++ Mr. Sayer...
+L507559 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Sometimes you have to tell a small lie to get to the bigger truth.  As for a photo -- if you can't do it, I know twelve million people who can.
+L507558 +++$+++ u2778 +++$+++ m181 +++$+++ MILTON +++$+++ Long live the First Amendment.
+L507557 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Am I wasting my time with you? When she sues to protect her privacy, she'll have to appear in a public courtroom to do it.
+L507556 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ I will when you're finished writing it.
+L507555 +++$+++ u2778 +++$+++ m181 +++$+++ MILTON +++$+++ My God, you've got one?
+L507554 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Of course -- no one's that perfect, that pure.  You know I had something on Mother Teresa.  But then she died and it wasn't worth it anymore.  I know how to flush out this Simone -- a tell-all story from her childhood.
+L507553 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Which means they're significant.  Incriminating.  Perhaps, criminal.  She's hiding her past.  She's hiding her past.
+L507552 +++$+++ u2778 +++$+++ m181 +++$+++ MILTON +++$+++ Well, we got some of Taransky's fingerprints, a lot of your fingerprints... but none of hers.
+L507551 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Obviously the name isn't real -- she's using an assumed identity, travels under a false name, checks into hotels with an alias.  She never stays in the same place two nights in a row.  Anything on the satellite photos?  What about the fingerprints?  What happened when we dusted that hotel suite?
+L507550 +++$+++ u2778 +++$+++ m181 +++$+++ MILTON +++$+++ Shutter bugs camped outside any place he goes, every concierge and maitre d' on the take.  But this Simone woman is good.
+L507549 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ 24-hour tail on Taransky?
+L507548 +++$+++ u2778 +++$+++ m181 +++$+++ MILTON +++$+++ We've got our best people on it, Mr. Sayer.
+L507313 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Yes, very.
+L507312 +++$+++ u2778 +++$+++ m181 +++$+++ MILTON +++$+++ Dark?
+L507311 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Whatever it is, it's dark.
+L507310 +++$+++ u2778 +++$+++ m181 +++$+++ MILTON +++$+++ Why?
+L507309 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Taransky isn't that good an actor. No, they're taking special precautions.  Some kind of new encryption.
+L507308 +++$+++ u2778 +++$+++ m181 +++$+++ MILTON +++$+++ Maybe he's talking to himself.
+L507307 +++$+++ u2777 +++$+++ m181 +++$+++ MAX +++$+++ Is it a jamming device?
+L507837 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ No, of course not, you're right. That would be crazy.
+L507836 +++$+++ u2779 +++$+++ m181 +++$+++ NICOLA +++$+++ You'd cosmetically alter Simone to look like me?
+L507835 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Yes, of course it is.  You know you have a line here.  Not a wrinkle.  Actually, more of a dimple.  I've been thinking of incorporating something like that in Simone.
+L507834 +++$+++ u2779 +++$+++ m181 +++$+++ NICOLA +++$+++ But that's Simone's part.
+L507833 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You could play the lead.
+L507832 +++$+++ u2779 +++$+++ m181 +++$+++ NICOLA +++$+++ Thank you.
+L507831 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You know you're really very good. I take back what I said.  I mean, you're really good.
+L507829 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Yes, I'd like that.
+L507828 +++$+++ u2779 +++$+++ m181 +++$+++ NICOLA +++$+++ Would you like me to read?
+L507827 +++$+++ u2779 +++$+++ m181 +++$+++ NICOLA +++$+++ After I saw what Simone did with the role -- you know I fired all my people, went into rehab, took acting classes, changed my whole look.  She really inspired me.
+L507826 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Thank you.  It's not important.
+L507825 +++$+++ u2779 +++$+++ m181 +++$+++ NICOLA +++$+++ I never apologized properly for what happened on "Sunrise".
+L507824 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Yes.
+L507823 +++$+++ u2779 +++$+++ m181 +++$+++ NICOLA +++$+++ A lot's happened since we last saw each other.
+L507030 +++$+++ u2779 +++$+++ m181 +++$+++ NICOLA +++$+++ It wasn't working anyhow.  The scene with the thousand geese -- I don't understand this film.  I don't think anyone will understand it.  I already put out a press release -- citing "creative differences".
+L507029 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Then show some.  They'll shut me down!
+L507028 +++$+++ u2779 +++$+++ m181 +++$+++ NICOLA +++$+++ I had three other offers.  I only signed on to this picture out of... loyalty.
+L507027 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I beg you.  You can't do this to me.
+L507023 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Taller?  What?
+L507022 +++$+++ u2779 +++$+++ m181 +++$+++ NICOLA +++$+++ Taller, Viktor.
+L507021 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ It's the biggest on earth!  I swear!  It's a 50-foot Airstream -- they don't make them any longer than that.
+L507020 +++$+++ u2779 +++$+++ m181 +++$+++ NICOLA +++$+++ It's not the size of the role, Viktor.  Am I or am I not contractually entitled to the biggest trailer on the set?
+L507019 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- Is this about the new pages? -- I made the changes you wanted, you're in virtually every scene --
+L507018 +++$+++ u2779 +++$+++ m181 +++$+++ NICOLA +++$+++ You're in breach.
+L507017 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ -- Nicola!  How was your massage?
+L507248 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Let it burn.  Simone would rather go up in flames than give up her privacy.
+L507247 +++$+++ u2781 +++$+++ m181 +++$+++ SECURITY GUARD +++$+++ What if it catches on fire?
+L507246 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ She's already here.  She arrived before you and she'll leave long after you've gone.  Remember, under no circumstances are you or any other person to enter the set without my express permission.
+L507245 +++$+++ u2781 +++$+++ m181 +++$+++ SECURITY GUARD +++$+++ Is Miss Simone coming today?
+L507244 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Good.
+L507243 +++$+++ u2781 +++$+++ m181 +++$+++ SECURITY GUARD +++$+++ No one came in or went out just like you said, Mr. Taransky.
+L507434 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ -- What you don't understand --
+L507433 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Let's take it down a notch.
+L507390 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ I certainly am, Mr. Taransky.
+L507389 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Simone, are you there?
+L507284 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ I'll do anything to please you, Mr. Taransky.
+L507283 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I'm sorry, I didn't catch that. What did you say?
+L507282 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ I'll do anything to please you, Mr. Taransky.
+L507269 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Perfect.  God, I'm so relaxed around you.
+L507268 +++$+++ u2782 +++$+++ m181 +++$+++ SIMONE +++$+++ Hi.
+L507442 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Why do you have to bring that up? There's always risk -- life's a risk.  It's worth it.  Besides, how could something so lovely be a crime?  Well, I think we've done enough for today.  You've been cooped up in there too long.  How about you and me go out on the town?  They're expecting us.
+L507441 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ You're going to get in a lot of trouble, Mr. Taransky.
+L507281 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ I was hoping you'd say that.
+L507280 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ Not, "Eternity Forever"?  The legendary unproduced script that was too good ever to get made?  I'd kill for that part.
+L507279 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Speaking of which -- this is the project I'd like you to do next.
+L507278 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Yes.  Yes, I'm going to tell the truth about you, why wouldn't I...?  Of course, with Hank's tragic passing, the secret died with him.  I am going to tell the truth... after your next picture.
+L507277 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ You know what I'm talking about.
+L507276 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ The only real truth is in the work.
+L507275 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ Are you ever going to tell the truth about me, Mr. Taransky?
+L507274 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ See beyond that irrational allegiance to flesh and blood. -- See that with the rise in price of a real actor and the fall in price of a fake, the scales have tipped in favor of the fake.  -- See that if the performance is genuine, it doesn't matter if the actor is real.  Once a performance is committed to film, the blood and bones are gone anyway.  Only the spirit, the illusion remains. Besides, what's real anymore? These days most actors have digital work done to them so it's a gray area.
+L507273 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You're right.  You're right.  Of course, one doesn't want to boast. It's a classic case of technology in search of an artist.  That's all you've been waiting for, an artist with integrity, with a vision, who can see.
+L507272 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ Mr. Taransky, we both know I was nothing without you.  I was computer code -- ones and zeros.
+L507271 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ No.  I... just helped bring someone else's dream to life.
+L507270 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ You did create me.
+L507264 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Yes.  Yes, it is.
+L507263 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ Is that better, Mr. Taransky?
+L507261 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ And now look what you've started. And now look what you've started. And now look what you've started.
+L507260 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ You are birth of... what?  A Phenomenon.  A miracle.  A new era in show business.  All I wanted to do was finish the film.
+L507259 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ I am the death of real.
+L507258 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Do you have any idea what this means, Simone?  Our ability to manufacture fraud now exceeds our ability to detect it.
+L507257 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ Maybe he can.
+L507255 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Buy it?  They're paying for it. And around here that's how you really know they buy it.
+L507254 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ You mean they buy it?
+L507253 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ ... digitized.
+L507252 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ A star is...
+L507251 +++$+++ u2783 +++$+++ m181 +++$+++ SIMONE / VIKTOR +++$+++ Good morning, Mr. Taransky.
+L507250 +++$+++ u2784 +++$+++ m181 +++$+++ VIKTOR +++$+++ Good morning, Simone.

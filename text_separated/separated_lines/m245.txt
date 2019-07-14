@@ -1,0 +1,319 @@
+L45645 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ This colony needs another tunnel like a hole in the ground.  Why are we even digging this thing?
+L45644 +++$+++ u3716 +++$+++ m245 +++$+++ AZTECA +++$+++ Break's over.
+L45643 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Thank goodness.  Breaktime.
+L45642 +++$+++ u3716 +++$+++ m245 +++$+++ AZTECA +++$+++ No, Z.  The squeaky wheel gets <u>thrown</u> <u>away</u>, alright?  You're a good ant, Z, even though you are a pain in my rear- segment.  I don't wanna see anything happen to you.  So quit mouthing off, before you get in trouble.
+L45641 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ The squeaky wheel gets the oil.
+L45640 +++$+++ u3716 +++$+++ m245 +++$+++ AZTECA +++$+++ Z, old pal...  SHUT UP!!!  It's bad enough there's a food shortage without you complaining about it every day.
+L45639 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Sorry Azteca.  Here you go, fellas! Fresh dirt!  Alley oop!  Shouldn't we be wearing gloves?  I mean this dirt is very...dirty. Doesn't anyone think of hygiene?  Boy am I hungry.  I'm so hungry I'm seeing double.  It looks like there's <u>two</u> million ants in here.  When's lunch?  Tomorrow, or the day after?
+L45972 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Right...because every ant's important!
+L45971 +++$+++ u3716 +++$+++ m245 +++$+++ AZTECA +++$+++ Someone who follows his heart!
+L45968 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ No -- an <u>individual</u>!
+L45967 +++$+++ u3716 +++$+++ m245 +++$+++ AZTECA +++$+++ Invisible!
+L45966 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Well, because he's more than a worker...he's a...what did he call it, Azteca...
+L45963 +++$+++ u3716 +++$+++ m245 +++$+++ AZTECA +++$+++ That's right!  He slaughtered hundreds of termites single-handedly!
+L45962 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ You know, you're not just workers -- you can be whatever you want to be! Look at Z!  He started as a worker -- then he became a soldier!
+L45875 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Z?  <u>Our</u> Z?  The little guy made it!
+L45874 +++$+++ u3716 +++$+++ m245 +++$+++ AZTECA +++$+++ Wait a minute, that's no soldier -- that's Z!
+L45862 +++$+++ u3716 +++$+++ m245 +++$+++ AZTECA +++$+++ I'll make myself available...Listen, better watch out with the backtalk.  I don't know want you to end up like the guy who used to work next to me.  I'm afraid he got... <u>downsized</u>.
+L45861 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ No -- I mean yes -- I mean -- if you don't have other plans.
+L45860 +++$+++ u3716 +++$+++ m245 +++$+++ AZTECA +++$+++ Are you asking me out to dinner?
+L45859 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Sorry I got you in trouble.  But listen, you can share my rations.
+L45858 +++$+++ u3716 +++$+++ m245 +++$+++ AZTECA +++$+++ I don't know what came over me, talking back like that.  I must be going crazy...
+L45852 +++$+++ u3716 +++$+++ m245 +++$+++ AZTECA +++$+++ Mmm, yes, I see what you mean...
+L45851 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Nobody told me digging was so much fun!  You pick up the dirt, you move it, you pick it up again, you move it again -- lots of repetitions, you exercise the forceps, and the pincers --
+L45850 +++$+++ u3716 +++$+++ m245 +++$+++ AZTECA +++$+++ Tell me about it.
+L45849 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ I'm new...I was born yesterday.
+L45848 +++$+++ u3716 +++$+++ m245 +++$+++ AZTECA +++$+++ Hey, slow it down, big boy.  You're making the rest of us look bad...How come I haven't seen you around here before?
+L46149 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Because...because he's <u>twice</u> the ant that you are.  I could <u>never</u> go through with marrying you.  I'm -- I'm an <u>individual</u>, and when I get married, it'll be to someone <u>I</u> choose.
+L46148 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ You miss him?  <u>Why</u>?
+L46147 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Well you'll never be able to hurt him where he is now.  I miss him already.
+L46146 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ It's a shame he died prematurely...I was hoping to kill him myself.
+L46145 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ He's...he's dead.  You don't have to look for him anymore.  He was eaten by a praying mantis.
+L45677 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Oh...and I was afraid we had nothing in common...
+L45676 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Well...  I declared war!
+L45675 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ So, um...how was your day?  What did you do?
+L45672 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Very well.  Carpenter, is there a convenient time to talk vis-a-vis: relationship?
+L45671 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ General -- we have to talk sometime!
+L46263 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ A <u>few</u>?
+L46262 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ I mean, I've got the whole package, right?  A great life, a beautiful wife, and a few kids.
+L46181 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ I know it's crazy, but -- I can't just leave.  Don't argue with me.  If I've learned anything, it's that the problems of two people don't add up to a hill of ants in this world.  Or beans.  Something like that.  Anyway, I've <u>got to warn the others</u>.
+L46180 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Z!  what are you doing?
+L46179 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Oh no...
+L46178 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Bala, that -- that lake we found -- I think the tunnel's right underneath it!  -- Formica's going to <u>flood the</u> <u>colony</u>!!!  That's what he meant when said there were too many ants!
+L46176 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ There's something going on, Z --
+L46175 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Why do they have you tied up here?
+L46115 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Well, I...I know it's a little strange, but...I thought it might come in handy if I...needed a scarf someday.  Well, to be honest, I just liked having it.
+L46114 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ You held onto this all that time?
+L46113 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Sorry, it's been through a war, not to mention everything else...
+L46112 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Well, "trouble" is my middle name. Actually, my  middle name is .985, but I don't tell people.  Hey, Bala, I...I actually have something of yours...you left it at the bar that night.
+L46111 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Just looking for fun, adventure, trouble, I guess.
+L46110 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ So...you never did tell me...what made you come out to the worker bar that night?
+L46094 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Forget it.  You go ahead, I give up. I...I don't know what I was thinking. "Insectopia".
+L46093 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Come on, Z.
+L46079 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ <u>This is all your fault</u>!!!
+L46078 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Yes?
+L46077 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Z...if we don't make it...I just want you to know....
+L46043 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Let's dig in!
+L46042 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ You were right...you were right!  Z, it's <u>beautiful</u>!
+L46041 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ We've found it!  <u>Insectopia</u>!  Look at all this food'
+L46039 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ What difference does it make...we're both going to starve to death, or get squished, or set on fire...
+L46038 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Come on...tell me there wasn't just a little...something between us that first night at the bar.  The night we danced.
+L46037 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Face it, Z, we're lost!  We must have walked halfway across the world by now!  How did I get into this mess...
+L46004 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Well...I <u>am</u> the oldest.
+L46003 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ So what makes you so special?
+L46002 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Well...no, but --
+L46001 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ And only you can become a Queen?
+L46000 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Five thousand three hundred and ninety -- no.  About five thousand four hundred by now.
+L45999 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Look.  How many other Princesses are there?
+L45998 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ General Formica won't let me die out here.  I'm his fiancee.
+L45997 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Princess, has it ever occurred to you that they're <u>not going to rescue you</u>?
+L45994 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Stop fooling around in there.
+L45993 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Hlllllllp!
+L45992 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Out here I'm just what?
+L45991 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Listen, "Princess", you can't order me around.  Out here, you're not the boss anymore -- out here, you're just --
+L45990 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Cut me down a soft leaf so I can take a nap.
+L45989 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ This lake is huge!  And so close to the colony!  Think of the vacation potential!
+L45986 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Wait, I hear something!
+L45985 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Want a list?
+L45984 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Why didn't I listen to my mother ...why'd I have to go looking for trouble? Any ant would have given their left legs to be in my position...what's <u>wrong</u> with me?
+L45982 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Come on -- it's gone!  What are the chances of that happening again?
+L45981 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ We're going to die!
+L45979 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ <u>I</u> ruined <u>your</u> life?  Look, I was perfectly happy until I met you -- alright, I was miserable, but I was <u>happily miserable</u>.
+L45978 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ My skin's dry, my exoskeleton is cracking...I wish I'd never met you, you ruined my life.
+L45977 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Water...water -- oh, you already said that.
+L45976 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Water...water...
+L45958 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ That's not a name!  That's just a letter!
+L45957 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ I've got a <u>name</u>.  It's <u>Z</u>.
+L45956 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Worker!  Come back here now!
+L45955 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Yeah, well I have it on a reliable source...  that it exists.  Now you follow the yellow egg...  <u>That</u> direction.
+L45954 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ <u>Insectopia</u>?  You stupid worker, that's just a fairy tale!
+L45953 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Well, that's an appealing offer, but...considering the options...  You go back.  Me, I'm going to Insectopia.
+L45952 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Now, worker, you shall take me back to the colony, and have your head cut off and stuck on a sharp pole!
+L45951 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ I <u>didn't</u> choose him.  What kind  of <u>idiot</u> would...  ...<u>choose</u> who she wanted to marry?
+L45950 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Is that the same standard you used to choose General Formica?
+L45949 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ I was <u>slumming it</u>!  I danced with you because you were the most pathetic specimen in the place!
+L45948 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Oh come on, <u>you're</u> the one who came after me -- the swarthy, earthy, sensual worker!
+L45947 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Ha!  Don't make me laugh.  You're crazy about me!  That's why you lied and cheated to get near me!
+L45946 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Well I guess that makes us even.
+L45945 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ I -- <u>hate</u> -- you.
+L45944 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Look around, sweetheart.
+L45943 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ No!  There's no such thing as "just two ants."  You never see just two ants -- you see a million ants!
+L45942 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ But can there be a society composed of just two ants?
+L45941 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Of course!  It defines society!  To deny the precept is to say that order is an arbitrary distinction applied by the society itself!
+L45940 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Theoretically, yes.  But is the monarchical hierarchy applicable without the underlying social structure to support it?
+L45939 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ How dare you speak to me like that? I'm the Princess!
+L45938 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Who's the bigger idiot -- the idiot who gets kidnapped, or the idiot who lets herself get kidnapped by the idiot?
+L45937 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ I've been kidnapped by the village idiot.
+L45936 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Climb up that tree and get a better view!
+L45935 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Excuse me, I --  Pardon me --  And they call them social insects.
+L45934 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Alright, alright, I'll try to get directions from one of the locals.
+L45933 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ I order you to find out where we are!
+L45932 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ How should <u>I know</u>?
+L45931 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ What <u>was</u> that thing?
+L45918 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ SSHH!!!  SSHH!!!
+L45917 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ -- At the <u>worker bar</u>!  You were pretty hot to trot then!
+L45916 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Quiet -- sshhh!!
+L45915 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ That's not what you said the <u>other</u> <u>night</u> --
+L45914 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ I CAN'T DANCE WITH A WORKER!
+L45913 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Gee, uh, could you say it a little louder, I think there are some ants in the next colony who didn't hear you.
+L45912 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ OH MY GOD, IT'S YOU!  YOU'RE A WORKER!!!  A filthy, stupid, disgusting WORKER!
+L45911 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ No...as a matter of fact...
+L45910 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ He was a worker.  I danced with him at a <u>worker's bar</u> just the other day. I'm not shocking you, am I?
+L45908 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ No weirdly...You remind me of someone...
+L45907 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Divinely?
+L45906 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ You dance...
+L45905 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Uh, sorry, General, I...I've always had this animal magnetism, it --
+L45904 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ No, General.  I'm dancing with the war hero.
+L45898 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Oh...oh well then, one more won't matter.
+L45897 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Yes.
+L45896 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Ah, yes.  Well, charmed, I'm sure.  So, Princess, have you ever danced with a hero?
+L45895 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ I'm Princess Bala.
+L45894 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ And you are...?
+L45893 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Well, if single-handedly vanquishing the enemy and slaughtering a whole nestful of termites makes someone a hero, yes I am.
+L45892 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ You're the hero of the recent termite campaign, aren't you?
+L45761 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Let me think.  Hmmnn...  Never.  Bye!
+L45760 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Wait!  When can I see you again?
+L45759 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Uh oh.  Goodbye!  Gotta run!
+L45750 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Aren't you gonna stand up for yourself?
+L45749 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Oh, that's okay, I'll let him off this time.  Are you crazy?  This guy's built like a pebble!  You know they do great prosthetic antennas nowadays --
+L45748 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ You watch yours, soldier, or my worker friend will beat you up!
+L45746 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Why can't I just do whatever I want to do?  Why can't I just go wild?! Yahoo!
+L45745 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ You -- you think I'm right?
+L45744 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ You're right!
+L45743 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Why should everyone dance the same way?  It's as exciting as watching fungus grow.
+L45742 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Really?
+L45741 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Well, actually, uh -- I'm sort of making it up --
+L45740 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Are you sure this is a real dance?
+L45737 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ <u>What</u>?
+L45736 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ The palace, hunh?  I bet those royals really live it up.  Of course they're all a little, you know, from inbreeding --
+L45735 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ I work in the palace, I don't get out much.
+L45734 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ So uh -- how come I haven't seen you around here before?
+L45732 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Wanna dance?
+L45731 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ What a bunch of losers.  Mindless zombies capitulating to an oppressive system --
+L45721 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Then if I go to the worker bar, it isn't improper.  Anyway, don't worry. No one will recognize us in our disguises.
+L45720 +++$+++ u3721 +++$+++ m245 +++$+++ HANDMAIDEN #2 +++$+++ Of course not --
+L45719 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ And do Princesses do improper things?
+L45718 +++$+++ u3721 +++$+++ m245 +++$+++ HANDMAIDEN #2 +++$+++ Of course --
+L45717 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ I'm the Princess, aren't I?
+L45716 +++$+++ u3721 +++$+++ m245 +++$+++ HANDMAIDEN #2 +++$+++ We shouldn't be doing this -- it isn't proper!
+L45693 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ The worker bar!  Yes!  That's where I want to go!
+L45692 +++$+++ u3721 +++$+++ m245 +++$+++ HANDMAIDEN #2 +++$+++ There isn't anyplace else --  Except the worker bar.
+L45691 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ The Club's so <u>stuffy</u>.  I want to try someplace different.
+L46192 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Mom!
+L46191 +++$+++ u3723 +++$+++ m245 +++$+++ QUEEN +++$+++ Bala!
+L45794 +++$+++ u3723 +++$+++ m245 +++$+++ QUEEN +++$+++ Darling, you must encourage the troops -- wave!
+L45793 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Who is that idiot?
+L45684 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ Yes...he's wonderful...
+L45683 +++$+++ u3723 +++$+++ m245 +++$+++ QUEEN +++$+++ Yes -- but I did my duty and sorted out all those messy feelings.  The wonderful thing about ant life is that everything is arranged.  Even marriage.  You're lucky -- General Formica is a paragon of anthood.
+L45682 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ You did?
+L45681 +++$+++ u3723 +++$+++ m245 +++$+++ QUEEN +++$+++ I felt the same way before I got married.  Confused.  Scared.
+L45667 +++$+++ u3717 +++$+++ m245 +++$+++ BALA +++$+++ It's just that -- well, I'm honored that you selected me, and everything, I just thought the marriage might go a little more smoothly if -- we had a conversation?
+L45666 +++$+++ u3723 +++$+++ m245 +++$+++ QUEEN +++$+++ Bala has always been a hopeless romantic, General.
+L45847 +++$+++ u3718 +++$+++ m245 +++$+++ BARBATUS +++$+++ Don't make my mistake, kid... don't...be a grunt...your whole life...
+L45846 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Barbatus, hang on -- Barbatus!!
+L45845 +++$+++ u3718 +++$+++ m245 +++$+++ BARBATUS +++$+++ I wonder...what...was it all...for...
+L45844 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Hang in there, buddy!  You can make it!  Just -- take deep breaths, I'll try and find your body -- it's gotta be around here somewhere!
+L45843 +++$+++ u3718 +++$+++ m245 +++$+++ BARBATUS +++$+++ No -- I can see it in your eyes.  I'm a goner.  It's alright, Z.  In this ant's army, a soldier's life ain't worth a sack of fungus.  I can't feel my legs...
+L45842 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ No, no, you're...lookin' good. You've got good color in your cheeks.
+L45841 +++$+++ u3718 +++$+++ m245 +++$+++ BARBATUS +++$+++ Be honest, kid -- am I hurt bad?
+L45840 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Barbatus!
+L45839 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Barbatus?
+L45838 +++$+++ u3718 +++$+++ m245 +++$+++ BARBATUS +++$+++ Z!  Over here!
+L45826 +++$+++ u3718 +++$+++ m245 +++$+++ BARBATUS +++$+++ Don't get all sappy about it!
+L45825 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ BARBATUS!  You -- you saved my life!
+L45819 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Maybe they went out for the evening. Let's leave them a message and head home.
+L45818 +++$+++ u3718 +++$+++ m245 +++$+++ BARBATUS +++$+++ Don't be scared, kid.  Barbatus's got yer back.
+L45814 +++$+++ u3718 +++$+++ m245 +++$+++ BARBATUS +++$+++ Superior numbers, kid!
+L45813 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ So we're going back for more armor, right?  I mean, these guys are from outer space, how are we supposed to beat them?!
+L45811 +++$+++ u3718 +++$+++ m245 +++$+++ BARBATUS +++$+++ Our platoon has the best assignment of all.  We're the first into battle!
+L45810 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Well, what exactly does our platoon do?  Serve beverages?  Process paperwork?
+L45805 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Attack?  But -- I hate attacking! It's so hostile!
+L45804 +++$+++ u3718 +++$+++ m245 +++$+++ BARBATUS +++$+++ No -- we're going to attack the termites!
+L45803 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Yeah.  Well -- no.  She's kind of playing hard to get.  As a matter of fact, she's playing completely unattainable.  So, what's on the schedule?  A brisk walk?  a foraging expedition?
+L45802 +++$+++ u3718 +++$+++ m245 +++$+++ BARBATUS +++$+++ You just stick by old Barbatus. He'll watch out for you.  Whatsamatter, kid?  Leave a girl behind?
+L45799 +++$+++ u3718 +++$+++ m245 +++$+++ BARBATUS +++$+++ Trial membership?  Kid, when you join this ant's army, you're in for the full hitch.
+L45798 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ I just joined up.  But I'm quitting! I got a trial membership!
+L45797 +++$+++ u3718 +++$+++ m245 +++$+++ BARBATUS +++$+++ You new, kid?
+L46250 +++$+++ u3719 +++$+++ m245 +++$+++ CARPENTER +++$+++ Uh, actually, we <u>are</u> outnumbered sir...
+L46249 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ What are you doing?!  ATTACK!!  Come on, you yellow-bellies!  Don't just stand there, Carpenter! Make an example of yourself!
+L46035 +++$+++ u3719 +++$+++ m245 +++$+++ CARPENTER +++$+++ Ant Team Six...
+L46034 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Desperate times call for desperate measures.  Get me Ant Team Six.
+L46033 +++$+++ u3719 +++$+++ m245 +++$+++ CARPENTER +++$+++ Scattered reports, sir.  Rumors. Nothing reliable.
+L46032 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ What do we have on this "Insectopia"?
+L46014 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ No one should have to.  Have him brought to me.
+L46013 +++$+++ u3719 +++$+++ m245 +++$+++ CARPENTER +++$+++ Well, uh, who notices workers, sir?
+L46012 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Notice the big one, holding hands with the female?
+L46008 +++$+++ u3719 +++$+++ m245 +++$+++ CARPENTER +++$+++ I've never seen anything like it, General, they're they're...well, look!
+L46007 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Dammit, this tunnel is priority A-1! We can't afford <u>any delays</u> on this project!
+L45679 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Duty calls!
+L45678 +++$+++ u3719 +++$+++ m245 +++$+++ CARPENTER +++$+++ Fourteen-fifty hours, sir.
+L45674 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Outstanding.  Princess...?
+L45673 +++$+++ u3719 +++$+++ m245 +++$+++ CARPENTER +++$+++ Actually, sir, we're ahead of schedule.  We have thirty-six seconds available right now.
+L45664 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Princess!  You look -- outstanding. Is there anything I can do for you?
+L45663 +++$+++ u3719 +++$+++ m245 +++$+++ CARPENTER +++$+++ Princess Bala, sir.  Your fiancee.
+L46027 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ No, sir!
+L46026 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Not that one.  Or that one.
+L46025 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ That's correct, sir!
+L46024 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ We know what makes an ant colony strong, don't we?  We know that no ant can be an individual.  No <u>single</u> ant matters, right?
+L46023 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Okay, son.
+L46022 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ I...I have no idea, sir.
+L46021 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ So tell me.  Where's Z?
+L46020 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Thank you, sir.
+L46019 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Good.  You're a good soldier.
+L46018 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Oh, no, sir!
+L46017 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Well now <u>you</u> haven't fallen for this silly idea of individuality, have you?
+L46016 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Yeah...I mean...well...I don't know, really, sir.
+L46015 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ So this Z...he fancies himself an individual?
+L45922 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Can't we all settle this like adults -- we're not larvae anymore --
+L45921 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ ARREST HIM!
+L45920 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Well it wasn't a masquerade, really, it was more what I'd call a clever ruse --
+L45919 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ What's this?  A <u>worker</u> has been masquerading as a war hero?!
+L45903 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Oh, of course --
+L45902 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ May I cut in?
+L45889 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Oh, hey, that's great, I think I see an old war buddy over there, it's been fun chatting.  Good luck with the hallucinations.
+L45888 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ I tell you son, sometimes, at night, I see myself in battle, fighting a horrible, faceless enemy, with the future of our whole species at stake. And always, the dream ends with each of us plunging his sword into the other's heart...
+L45887 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Well I, I don't think "living it up" is the right term -- how about "working themselves to death"?
+L45886 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Negatory.  <u>Too many ants</u>.  And while we soldiers go out there, and fight, and bleed, and die for the colony, the namby-pamby workers live it up back home.
+L45885 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ ...Not enough food?
+L45884 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Yes, and do you know <u>why</u> there's a food shortage?
+L45883 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Wow, what a spread -- you know, there's a food shortage in the rest of the colony.
+L45882 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ In love?  I'm just a plain old soldier at heart.  I'll tell you what I love -- the field -- blood -- death -- orders...and the company of other warriors.
+L45881 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ So...you two are in love?
+L45880 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Affirmative.
+L45879 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Engaged?  As in you're getting married?
+L45878 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Well she better -- she's engaged to one.  <u>Me</u>!
+L45877 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Well, I generally just make belittling comments and snicker behind death's back.  So, tell me, fellow war-monger...do you think Princess Bala likes men in uniform?
+L45876 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Son, you're an ant after my own heart.  A warrior.  An ant that looks death right in the face and <u>laughs</u>.
+L45873 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ ONE TO NOTHING!
+L45872 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Of course.  The entire royal family will be there to honor you.
+L45871 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Royal victory party?  Will...will Princess Bala be there?
+L45870 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Damn, I'm proud of you, boy.  I wish I had a hundred ants of your caliber. The world would tremble.  Now, time for some R and R.  You're invited to the royal victory party!
+L45869 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ No -- you -- you don't understand!
+L45788 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Dammit, I'm proud to be an ant.  And I know each and every one of you boys will do your duty.  Dismissed.
+L45787 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Geez, and I forgot my toothbrush.
+L45786 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Now I've heard a lot of scuttlebutt about a <u>food shortage</u>.  Well you boys are gonna be taken care of.  But in the meantime we're gonna eat the enemy for <u>breakfast</u>, we are gonna eat the enemy for <u>lunch</u>, and we are gonna eat the enemy for <u>dinner</u>!
+L45785 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Lays it on a little thick, doesn't he?  If you ask me, he's one giant bore.
+L46188 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Alright, let's move out!
+L46187 +++$+++ u3723 +++$+++ m245 +++$+++ QUEEN +++$+++ Very well, General -- I know you -- all work and no play!
+L46186 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ 'Fraid not, your majesty.  Goodbye, your majesty.
+L46185 +++$+++ u3723 +++$+++ m245 +++$+++ QUEEN +++$+++ But General -- this tunnel is your baby!  You're sure you can't stay ?
+L46184 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Your majesty, I'm afraid matters of state keep me from attending the ceremony.
+L45901 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ They should be...  But there's something funny about that soldier.
+L45900 +++$+++ u3723 +++$+++ m245 +++$+++ QUEEN +++$+++ All these parties are so marvellously <u>alike</u>.
+L45670 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ I'll take your suggestion under advisement, Princess.  In the meanwhile --
+L45669 +++$+++ u3723 +++$+++ m245 +++$+++ QUEEN +++$+++ Look, General!  A darling baby soldier!  Don't try to be a hero!  Just make sure you come back in one piece!  Next!
+L45668 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Conversation...yes...well...  Wasn't she briefed?
+L45661 +++$+++ u3723 +++$+++ m245 +++$+++ QUEEN +++$+++ Yes, General Formica.  Carry on, my good man!  I don't know what we would do without you.
+L45660 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ I do not recollect, your majesty. Will that be all?
+L45659 +++$+++ u3723 +++$+++ m245 +++$+++ QUEEN +++$+++ No snacking between meals!  Off you go!  Now -- what were we saying?
+L45658 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ Please don't worry, your majesty. Leave the worrying to me.  As you know, I'm not an ant of half- measures.  I don't pussyfoot around. This crisis is my number one priority, and I promise you it's being dealt with swiftly, and decisively.
+L45657 +++$+++ u3723 +++$+++ m245 +++$+++ QUEEN +++$+++ Yes, what else?
+L45656 +++$+++ u3720 +++$+++ m245 +++$+++ FORMICA +++$+++ We are launching a major offensive to expand our foraging territory...
+L45655 +++$+++ u3723 +++$+++ m245 +++$+++ QUEEN +++$+++ General, the severe food shortage that faces the colony...<u>pains</u> me. The thought of any of my children going hungry...  Who's the cutest widdle worker?  You are!  Yes, you!  Don't forget to brush your teeth!  Ship 'er out.  What steps are you taking to remedy the situation?
+L45635 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ But -- but I've always felt life was about finding meaning...and then sharing it with someone special, someone you love.
+L45634 +++$+++ u3722 +++$+++ m245 +++$+++ MOTIVATIONAL COUNSELLOR +++$+++ You see?  Being an ant is being able to say, "Hey -- <u>I'm</u> meaningless, <u>you're</u> meaningless."
+L45633 +++$+++ u3722 +++$+++ m245 +++$+++ MOTIVATIONAL COUNSELLOR +++$+++ Right!  Ants!  Millions of creatures, each with his assigned task, all pulling together!
+L45632 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ ...Ants...
+L45631 +++$+++ u3722 +++$+++ m245 +++$+++ MOTIVATIONAL COUNSELLOR +++$+++ What do you see out there?
+L45630 +++$+++ u3722 +++$+++ m245 +++$+++ MOTIVATIONAL COUNSELLOR +++$+++ I'm glad you asked me that question!
+L45629 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Why are we so successful?
+L45628 +++$+++ u3722 +++$+++ m245 +++$+++ MOTIVATIONAL COUNSELLOR +++$+++ Ask me why we're so successful.
+L45626 +++$+++ u3722 +++$+++ m245 +++$+++ MOTIVATIONAL COUNSELLOR +++$+++ YES!!!  You know, people ask me, "Doctor, why are you always happy?" And I tell them it's mind over matter.  I don't <u>mind</u> that I don't <u>matter</u>!  Do you get it?  Do you get it?
+L45625 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ ...I should?
+L45624 +++$+++ u3722 +++$+++ m245 +++$+++ MOTIVATIONAL COUNSELLOR +++$+++ Terrific!  You <u>should</u> feel insignificant!
+L45623 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ I feel...isolated.  Different.  I've got abandonment issues.  My father flew away when I was just a larva. My mother didn't have much time for me...when you have five million siblings, it's difficult to get attention.  I feel physically inadequate -- I've never been able to lift more than ten times my own weight.  Sometimes I think I'm just not cut out to be a worker.  But I don't have any other options.  I was assigned to trade school when I was just a <u>grub</u>.  The whole system just...makes me feel...<u>insignificant</u>.
+L46222 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ You heard the ant -- DIG!!!
+L46221 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Yeah, but I hate drowning more!  Now <u>dig</u>!
+L45777 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Don't tell anyone you're a worker. Follow that column over there.  And come right back after the inspection!
+L45776 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ What do I do?
+L45775 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Yeah, I know.
+L45774 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ You're a real buddy.
+L45773 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Wear this.
+L45772 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Maybe I'll get lucky.  You know, Z, I wouldn't do this for anyone but you...
+L45771 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ You bet!  They'll really go for a sensitive guy like you!
+L45770 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Will you introduce me to some worker girls?
+L45769 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Well I'm gonna <u>start</u> doing things for you...
+L45768 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ I can't think of any.
+L45767 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ You have to help me.  Please, Weaver. Think of all the things I've done for you!
+L45766 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ What's gonna go wrong?!  I take your place for the royal inspection.  Bala comes strolling down the line, she sees me -- <u>bingo</u>!  Love is rekindled, and she takes me up to the palace for a little...  tea and crumpets... and you take your place again, and go march around to your heart's content!
+L45765 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ It's a sign that you're crazy!  Do you know what the penalty for impersonating a soldier is?
+L45764 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Are you kidding?  There were sparks between us!  This scarf is a sign!
+L45763 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Get real, Z!  She just dropped the scarf by accident!
+L45726 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Well, you just sit here and be a party-pooper.
+L45725 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ I'm not in the mood.  Even when they're off work, they follow orders.
+L45724 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Time to cut a rug, Z!
+L45715 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Poor guy's had one too many scouting missions.
+L45714 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Hey, did you hear what he said?!
+L45709 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Weaver, I'm an insect, not a liquid.
+L45708 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ And all the time I've known you, you've been grumping and groaning. You should quit making waves.  Go with the flow.
+L45707 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Of course.  You were born two seconds after me.
+L45706 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Z, we've known each other a long time, right?
+L45705 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ I can't help it.  I have a thing about drinking from the anus of another creature.  Call me crazy.
+L45704 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Who said there was a girl for you? I was talking about a girl for me.  Don't you want your aphid beer?
+L45703 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Weaver, they're career girls. They're obsessed with digging.  No, I'll probably never meet the girl for me.
+L45702 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ Yeah, but you get to spend all day with those fabulous worker babes.
+L45701 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Come on -- everybody dumps on us workers.  You soldiers get all the glory.  Plus you get to go out into the world, meet interesting insects, and kill them.
+L45700 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ I don't know what you're talking about, Z.
+L45699 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ Did you see that?  How he gave <u>you</u> the beers, not me?  I'm telling you, he's got something against workers.
+L45696 +++$+++ u3724 +++$+++ m245 +++$+++ WEAVER +++$+++ I'll be back.
+L45695 +++$+++ u3725 +++$+++ m245 +++$+++ Z +++$+++ We declared war again?  Are you scared?

@@ -1,0 +1,541 @@
+L143229 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ What?
+L143228 +++$+++ u4599 +++$+++ m304 +++$+++ A.T.L. +++$+++ There's no plug to pull.
+L143227 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Pull the plug.  Get her out of there.
+L143226 +++$+++ u4599 +++$+++ m304 +++$+++ A.T.L. +++$+++ We've lost contact.
+L143224 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Ellie?
+L143223 +++$+++ u4599 +++$+++ m304 +++$+++ A.T.L. +++$+++ We have benzel activation, repeat, we have benzel activation.  Control to Arroway, you okay in there?  Repeat, Control to Arroway, come back.
+L143218 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Anything happening in there, El?
+L143217 +++$+++ u4599 +++$+++ m304 +++$+++ A.T.L. +++$+++ I'm not sure.  We have no launch protocol; the entry of the passenger is supposed to initiate activation.
+L143216 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ What?
+L143386 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I don't know.  Ultimately their motives may be as incomprehensible as their technology.
+L143385 +++$+++ u4600 +++$+++ m304 +++$+++ CHAIRMAN +++$+++ You don't believe it to be... tell me something, Doctor.  Why do you think they would go to all this trouble... bring you tens of thousands of light years, and then send you home without a shred of proof?  Sort of bad form, wouldn't you say?  What was their intent?
+L143380 +++$+++ u4600 +++$+++ m304 +++$+++ CHAIRMAN +++$+++ All the elements are there.  A woman, orphaned young, under a great deal of stress.  The failure of a project she's staked her self-worth and very sense of identity on -- induces a fantasy of reuniting with her 'father in heaven' as it were. Is it possible?
+L143379 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Is it possible...?
+L143378 +++$+++ u4600 +++$+++ m304 +++$+++ CHAIRMAN +++$+++ Dr. Arroway, do you think it's possible you had some kind of... delusional episode.
+L143377 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Yes, sir.
+L143376 +++$+++ u4600 +++$+++ m304 +++$+++ CHAIRMAN +++$+++ He died...  ... in 1972.
+L143375 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Yes, sir.
+L143374 +++$+++ u4600 +++$+++ m304 +++$+++ CHAIRMAN +++$+++ ... And this is how the extraterrestrial presented himself to you?  As your father?
+L142805 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ -- It's extremely unlikely that they had any idea what they were looking at.
+L142804 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ -- Or 'you're our kind of people --'
+L142797 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ It's a hoax.  I knew it!
+L142796 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ What in the hell...?
+L142788 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ How is that possible?  How could all that information be encoded in --
+L142787 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Hope there's a cartoon.
+L142768 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ Okay, fine, they've got the primes -- but if you're right about there being another more significant transmission still to come --
+L142767 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Mike, because of the Earth's rotation we're only in line with Vega so many hours a day; the only way to get the whole message is to cooperate with other stations.  If Dr. Arroway hadn't moved quickly we could have lost key elements.
+L142760 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ Dr. Arroway, let me first say --
+L142759 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Michael Kitz, National Security Advisor.
+L142758 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ Dr. Arroway --
+L142677 +++$+++ u4606 +++$+++ m304 +++$+++ KENT +++$+++ So... there wasn't any clothes in the machine.  She was just sitting there on the floor with her ear pressed up against the Maytag. Listening.
+L142676 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ So?
+L142675 +++$+++ u4606 +++$+++ m304 +++$+++ KENT +++$+++ Last week, about 3 A.M., Fish -- Dr. Fisher -- was on a late shift, and he found her doing laundry.
+L142674 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Tell me.
+L142673 +++$+++ u4606 +++$+++ m304 +++$+++ KENT +++$+++ Nothing.  Okay.  Some of us have been a little... not concerned, exactly, but...
+L142670 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Still settling in, really.  Where's Dr. Arroway?
+L142669 +++$+++ u4606 +++$+++ m304 +++$+++ KENT +++$+++ Glad to have you, David.  How's the new office?
+L142668 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Now I remember why I went into theoretical work.  Kent.
+L143136 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ For giving me a chance, just for a moment, to feel what it must be like to be you.
+L143135 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Thank you?
+L143134 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Nothing.  I guess I just wanted to thank you.
+L143133 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ What would you have me say, David?
+L143132 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Ellie... we both know that if I was any kind of a man, I never would've entered this race.  That I would have told the President straight out:  Helen, Eleanor Arroway is naive and strident and an enormous pain in the ass... but she's got more courage and intelligence than the rest of us put together.  That more then anyone else on the planet, she's earned this.  And that she should be the one to go because she's the best we have.  But that's not who I am.  I like to think it's who I might've been if things had gone a different way; that I might have been worthy, really worthy of what I've been given...  You do what you have to do.  And in the end, as with everything, it comes down to power.  And it isn't fair...
+L143131 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Good luck, David.
+L143130 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Right.  Well.
+L143129 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ This... seemed best.
+L143128 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ You aren't staying?
+L143018 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Maybe they are.  Maybe this is all part of the package.  The building of the machine has demanded international cooperation on an unprecedented scale.  Maybe requiring us to come together in this way was, in effect, part of the plan.
+L143017 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ They knew our level of development. If, as you say, they've done this many times they'd be well aware of the implications.
+L143014 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ ... I can't believe they wouldn't take something as basic as our biological needs into account...
+L143013 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ ... Two years is still a hell of a long time -- and as far as we can tell there aren't any provisions in the machine design for storing food, water, even air...
+L142991 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Excuse me, I'm late for a meeting.
+L142990 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You...
+L142989 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ As of three o'clock this afternoon. I submitted my resignation.
+L142988 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ What?
+L142987 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Ellie... you should know that I'm no longer the President's Science Advisor.
+L142986 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I'm asking for your help, David.  I want to go.  They'll need someone relatively young, unattached -- and probably a scientist.  As the President's Science Advisor you have enormous weight... I'm asking if you'll support my candidacy.
+L142985 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ I don't understand.
+L142984 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ David... I know we've had our differences... but I've always thought of you as a fair man, even when we've disagreed -- and It's in that light I'm hoping you'll consider my request...
+L142983 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ It'll just take a moment.
+L142982 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Actually I'm running late --
+L142981 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Do you have a minute -- ?
+L142980 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Ellie.
+L142979 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ David --
+L142972 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ You were right, Ellie.  You were right all along.
+L142971 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You mean --
+L142970 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ We've cracked it.  Lunacharsky found it.
+L142969 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ What is it?  What's happened?
+L142900 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Interesting analogy.  And how guilty would we feel if we happened to destroy some microbes on a beach in Africa?
+L142899 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Ms. President, this is communist paranoia right out of War of the Worlds.  There is no reason whatsoever to believe the ETIs intentions are hostile.  We pose no threat to them -- it would be like us going out of our way to destroy microbes on a beach in Africa.
+L142852 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ It's not a threat, Ellie, it's a fact -- if you're not careful, you may find yourself out in the cold very quickly.  Play ball.  Really. It's good advice.
+L142851 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Are you threatening me?
+L142850 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ I want you to listen to me, carefully.  The minute the implications of this message became clear, this stopped being simply a scientific matter and became a political one -- an extremely complex, extremely volatile one. There are forces at work here you don't understand; I can help you up to a point, but only up to a point.
+L142849 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Ellie --
+L142848 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I'm going to convert Mr. Science-is- the-root-of-all-evil?  This is absurd, David.  We have work to do here, I don't have time to play babysitter to the God Squad.
+L142847 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Apparently he's genuinely interested in science.  This could be a chance to win him over.
+L142846 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ With me.
+L142845 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ The theological ramifications of all this are obvious; the President feels we need to include religious interests rather than alienate them. She's also named Palmer Joss as their liaison; he's requested a meeting with you.
+L142844 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ What?  Why?
+L142843 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ ... Arrangements also have to be made for the V.I.P.s coming in, mostly religious leaders...
+L142793 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Rotate 90 degrees counterclock wise.
+L142792 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Throw a gray scale on it; standard interpolation.
+L142780 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ You must have checked the signal for polarization modulation already...
+L142779 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ ... could it be a nested code of some sort?
+L142757 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ It's hardly yesterday; the signal's been traveling for over twenty-six years.  As for why...  I'm hoping your own expertise in decryption algorithms will help us find out -- to see if there's another message buried deeper in the signal.
+L142756 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ If it's attention you want I'd say you've got it.  Just one thing:  Why Vega? Everyone's looked at Vega for years with no results, and now, yesterday, they start broadcasting primes. Why?
+L142755 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Mathematics is the only truly universal language, Senator.  We think this may be a beacon -- an announcement to get our attention.
+L142704 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ It was a worthy experiment -- worthy of you; I was wrong about that part. But it's over now.
+L142703 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ David --
+L142702 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Then why haven't you detected any signals?  If, as you claim, there have been thousands, millions of advanced civilizations out there for millions of years then why hasn't one signal gotten through?  It'll take a month or two for the paperwork to go through; you're welcome to stay until then.
+L142701 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Goddamnit, they are out there, David --
+L142700 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ No... You're not.  But the price has just gotten too high.
+L142699 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ The difference being what -- that I refuse to adopt the standard line, that I don't care about the results of my work?  Well, I do care.  Of course any discovery has to be verifiable, of course it must be subject to all rigors of scientific method, but I refuse to go around pretending I'm some kind of dispassionate automaton when it's obvious to anyone with a brain I'm just not.
+L142698 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ The point is, this isn't just scientific inquiry anymore -- it's turned into some kind of personal obsession.
+L142697 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I'm searching for patterns in the noise, that's all.  Order in the chaos.  I'm practicing listening --
+L142696 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Meaning I have to go defend a budget to the President and to Congress and you're out here listening to washing machines.
+L142695 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Meaning...
+L142694 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ It's not like you've given me much choice.
+L142693 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You can't just pull the plug, David.
+L142692 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Ellie, I should have done this a long time ago, certainly before I left the N.S.F., but I wanted to give you every benefit of the doubt --
+L142691 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ It's not enough having my search time systematically cut down -- you know I'm down to three hours a week now.
+L142690 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ You know why I'm here.
+L142689 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Did I tell you we've expanded the search spectrum?  We're including several other possible magic frequencies -- not just the hydrogen line anymore.  I was trying to get inside their heads, y'know?  And I started thinking, what other constants are there in the Universe besides hydrogen, and then suddenly it was so obvious -- transcendantals, right?  So we've been trying variations of pi...
+L142688 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Ellie...
+L142687 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ No doubt.
+L142686 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Now exactly.  It's... complicated.
+L142685 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ 'President's Science Advisor' -- so what, you just spend all your time jetting around on Air Force One now...?
+L142684 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ I'm surprised you even knew it was an election year.
+L142683 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Really?  Congratulations, by the way.
+L142682 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Very well; since my appointment he's been made interim director.
+L142681 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Oh?  How's he doing?
+L142680 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Peter sends his regards.
+L142679 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ No, thanks.
+L142678 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Pepsi?  Tequila?
+L142609 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Then disagree but don't stand in my way!
+L142608 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ I disagree.
+L142607 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ What if you're wrong?  No -- I'll grant you probabilities but as a scientist without all the evidence -- you can't deny the possibility -- and I believe even the remotest possibility of something this profoundly... profound is worth investigation -- and worth taking a few risks.
+L142606 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ Two:  There's nothing out there but noble gasses and carbon compounds and you'd be wasting your time.
+L142605 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You're --
+L142604 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ And only two probabilities:  One: there is intelligent life in the universe but they're so far away you'll never contact it in your lifetime --
+L142603 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Dr. Drumlin, we are talking about what could potentially be the most important discovery in the history of humanity.  There are over four hundred billion stars out there --
+L142602 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ I'm not.  You're far too promising a scientist to waste your considerable gifts on this nonsense --
+L142601 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I'm willing to take that risk.
+L142600 +++$+++ u4601 +++$+++ m304 +++$+++ DRUMLIN +++$+++ I'm sorry, Miss Arroway, not only is it too Speculative a subject for a doctoral dissertation, at this point in your career it'd be tantamount to suicide.
+L142914 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Well --
+L142913 +++$+++ u4610 +++$+++ m304 +++$+++ PRESIDENT LASKER +++$+++ What's the status of the decryption effort?
+L142908 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Yes -- of course -- all I'm saying is, this message was written in the language of science -- mathematics -- and was clearly intended to be received by scientists.  If it had been religious in nature it should have taken the form of a burning bush, or a booming voice from the sky...
+L142907 +++$+++ u4610 +++$+++ m304 +++$+++ PRESIDENT LASKER +++$+++ Mr. Rank's organization represents the point of view of tens of millions of families, Dr. Arroway. Feel free to disagree, but there won't be any suppressing of opinions here today.
+L142896 +++$+++ u4610 +++$+++ m304 +++$+++ PRESIDENT LASKER +++$+++ A transport.  So are they coming or are we going?
+L142895 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ ... And while its function remains, for the moment, a mystery, my best guess is that it represents a transport of some kind.
+L142831 +++$+++ u4610 +++$+++ m304 +++$+++ PRESIDENT LASKER +++$+++ How soon will you be able to decode it?
+L142830 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Because you cut it from the budget three years running.
+L142820 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ It could be anything.  The first volume of some Encyclopedia Galactica...
+L142819 +++$+++ u4610 +++$+++ m304 +++$+++ PRESIDENT LASKER +++$+++ What does it say?
+L142859 +++$+++ u4608 +++$+++ m304 +++$+++ LUNACHARSKY +++$+++ I don't know.  Maybe there is a fourth layer in there somewhere, but if there is, I sure as hell can't find it.
+L142858 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ How can that be?
+L142857 +++$+++ u4608 +++$+++ m304 +++$+++ LUNACHARSKY +++$+++ No primer.
+L142856 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ And?
+L142855 +++$+++ u4608 +++$+++ m304 +++$+++ LUNACHARSKY +++$+++ We've repeated.  A few minutes ago the message cycled back to page one.
+L142854 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ What?
+L142833 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Maybe it'll be at the end of the data when the message recycles.
+L142832 +++$+++ u4608 +++$+++ m304 +++$+++ LUNACHARSKY +++$+++ There's no way of knowing.  Without a key -- a primer, to help us, maybe never.
+L142814 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ A third layer.
+L142813 +++$+++ u4608 +++$+++ m304 +++$+++ LUNACHARSKY +++$+++ In ancient times when parchment was in short supply people would write over old writing... it was called a palimpsest.
+L142812 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ What...
+L142782 +++$+++ u4608 +++$+++ m304 +++$+++ LUNACHARSKY +++$+++ Analyzing signal polarization shifts.
+L142781 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Dr. Lunacharsky...?
+L142728 +++$+++ u4613 +++$+++ m304 +++$+++ WILLIE +++$+++ NORAD's not tracking any spacecraft in our vector including snoops; shuttle Endeavor's in sleep mode.
+L142727 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ How's the spying tonight, guys?
+L142723 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I scanned it at Arecibo; negative results, always.
+L142722 +++$+++ u4613 +++$+++ m304 +++$+++ WILLIE +++$+++ That can't be right; it's only twenty-six light years away.
+L142718 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Put it on speakers.
+L142717 +++$+++ u4613 +++$+++ m304 +++$+++ WILLIE +++$+++ Hydrogen times pi...  Got it.  Strong sucker.
+L142713 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I'm not sure.  You mind checking right ascension 18 hours, 34 minutes; declination plus 38 degrees 41 minutes?
+L142712 +++$+++ u4613 +++$+++ m304 +++$+++ WILLIE +++$+++ Got a bogey, boss?
+L142665 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ VB10's an M dwarf; Signa Draconis... too old.
+L142664 +++$+++ u4613 +++$+++ m304 +++$+++ WILLIE +++$+++ Been there, done that, got the T-shirt.
+L142663 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ J39 Z186...?
+L142818 +++$+++ u4606 +++$+++ m304 +++$+++ KENT +++$+++ It's incredibly rich.  We've been cataloging it in frames or 'pages'; right now we're on 10,413.
+L142817 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I think we just hit the cosmic jackpot.
+L142774 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ It's a civilian facility.
+L142773 +++$+++ u4606 +++$+++ m304 +++$+++ KENT +++$+++ Can't we get rid of them?
+L142736 +++$+++ u4606 +++$+++ m304 +++$+++ KENT +++$+++ It can't be coming from Vega, the system's too young.
+L142735 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Okay, let's just slow down.  Pull up the starfield signal origin.
+L142667 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Thank you, Mr. Sensitive.  I'm coming at this wrong... missing something... something...
+L142666 +++$+++ u4606 +++$+++ m304 +++$+++ KENT +++$+++ You've only searched -- what is it, sixteen hundred stars without a peep?  Try not to take it too personally.
+L142655 +++$+++ u4606 +++$+++ m304 +++$+++ KENT +++$+++ Never seen the optical sky myself, but I hear it's nice too.
+L142654 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ It's beautiful.
+L142653 +++$+++ u4606 +++$+++ m304 +++$+++ KENT +++$+++ It's how I hear it.  The display's just a little something I programmed for astronomers with the misfortune of sight.
+L142652 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ This is how you see the sky?
+L142651 +++$+++ u4606 +++$+++ m304 +++$+++ KENT +++$+++ Here, right around Centaurus A.
+L142650 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Nice.  Where?
+L142649 +++$+++ u4606 +++$+++ m304 +++$+++ KENT +++$+++ 1919+21.  Found a glitch in the timing; probably a starquake.
+L142648 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Ellie.  Pulsar?
+L142647 +++$+++ u4606 +++$+++ m304 +++$+++ KENT +++$+++ Kent, Kent for Chrissakes.  You must be Eleanor.
+L142646 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Dr. Cullers?
+L143391 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Because I can't.
+L143390 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ So why don't you admit what by your own standards must be the truth: that this experience simply didn't happen.
+L143384 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ -- but I don't believe it to be the truth.
+L143383 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ Thank you, Doctor.  Now --
+L143382 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Is it possible.  Yes.  But --
+L143381 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ Please answer the question, Doctor.
+L143373 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ By our standards... yes.
+L143372 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ In fact, by all the laws of physics we know what you claim to have experienced is simply impossible.
+L143371 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I don't have the figures in front of me, but yes, that sounds about right.
+L143370 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ And current theory holds that to sustain the sort of wormholes you're talking about, even for a fraction of a second, would require more energy than our sun produces in a year, is that correct?
+L143369 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ There is no direct evidence, no.
+L143334 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I don't have an official response, Michael.  All I have are the same questions you have.
+L143333 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ Is that your official response?
+L143332 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ ... I don't understand it.  All I can think is that maybe because the video gear wasn't accounted for in the original plans it somehow violated the integrity of the design.
+L142826 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ That's terrific, but there's one problem:  we don't have the means to receive all the data on our own.
+L142825 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ If at some later date the message proves harmless, we can discuss sharing it with the rest of the world, but until then --
+L142824 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Pardon me, but you can't do -- !
+L142777 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ And a hundred mile airspace.
+L142776 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ And a hundred mile airspace.
+L142775 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ Colonel Jarrod, I'd like a twenty mile radio-silent perimeter put around this installation immediately.
+L142770 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ You don't seem to understand that it's your interests I'm trying to protect -- !
+L142769 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ -- which we'll also need the network's help to receive and decode!
+L142766 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You want to classify prime numbers?
+L142765 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ I'm saying you might have consulted us; the contents of this message could be extremely sensitive...
+L142764 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ This isn't a person to person call, Mr. Kitz.  I don't really think the civilization sending the message intended it just for Americans.
+L142763 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ I'll come right to the point, Doctor.  Your sending this message all over the world may well be a breach of National Security.
+L143310 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Childhood is over, Ellie.  It's time to grow up.
+L143309 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ No.  Please.
+L143308 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ It's time to go home now.
+L143306 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Ellie... this is the way it's been done for billions of years...
+L143305 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Please -- if you... downloaded... everything about us you know the problems we face, the impact it could have -- it could make the difference --
+L143304 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ No more stalling, Captain.
+L143303 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ But you said you wanted to help -- don't you see what it would mean?
+L143302 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ That isn't the way it works.
+L143301 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ But -- other people from our planet should see what I've seen -- they should witness this for themselves.
+L143300 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Eventually you'll get here on your own.  This was just the first step; in time you'll take another.
+L143299 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ None taken... but ... do we get to come back?  Others of my kind, I mean.
+L143298 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ If we don't engineer a consistent causality it'll work itself out on its own, and that's almost always worse.  Ellie, according to your physics none of this is possible.  A lot of it you're simply not capable of understanding, not yet.  No offense.
+L143297 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ No!  I mean... why so soon?
+L143296 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Now... you go home.
+L143295 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ So.  What happens now?
+L143294 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ You always have been.  We're all descendants of the same stars, Ellie.  All made of the same primordial atoms.
+L143293 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ ... all those voices... you gather them all together.  Millions of intelligences in one consciousness... and now we're a part of it.
+L143292 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ The librarian... or the library...?
+L143291 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Am I one... or many?
+L143282 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Can you help us?
+L143281 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ ... life is unspeakably rare.  So whenever we do find another civilization, especially one that's... struggling... We send a message.  Sometimes we can offer help.  Sometimes we can't.  But we always try.  Life is simply too precious not to.
+L143279 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ You have your mother's hands...  There are no tests, Ellie.  We don't sit in judgment.  Think of us more as... librarians.  Curators of the Universe's rarest and most valuable creation...
+L143278 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ So we passed some kind of test?
+L143277 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Not all.  Some choose to stay at home and dream their dreams.  Some never make it this far.
+L143276 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ The scale... it's just...  So all the civilizations you detect; they all end up coming here?
+L143275 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ We don't know.  Whoever they were, they were gone long before we ever got here.
+L143274 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ So who...?
+L143273 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Oh, we didn't build it.  The transit system has been in place for billions of years; we're just its... caretakers.
+L143272 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ And they all travel here through this wormhole subway system you built.
+L143271 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Many others.
+L143270 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ And those other docking ports I saw... I mean... there are others?
+L143269 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ You contacted us.  We were simply listening.  We've been listening for millions of years.
+L143268 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Why did you contact us?
+L143267 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Small moves, Captain, small moves.
+L143266 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Can you show me?
+L143265 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Originally just another species like yourselves.  Well, not like you at all actually, but...
+L143264 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ So who -- what -- are you?
+L143262 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ We thought this might make things a little easier.
+L143261 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ But you're so... I mean how could you possibly...?  When I was unconscious.  You... downloaded... my thoughts, my memories, even...  This beach.  I've never been here but I remember... it's how I always imagined...  Pensacola.
+L143260 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Am I artifact or dream?  You might ask that about anything.
+L143259 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ So.  Are you an hallucination?  Or are little gear trains and circuit boards under your skin?
+L143258 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ That's my scientist.
+L143257 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You're not real.  None of this is.
+L143256 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Dad... But tell me, how did... I mean how can...?
+L143255 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ I'm sorry I couldn't be there for you, sweetheart.
+L143254 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I used... I used to dream you were alive... and then I'd wake up and lose you all over again.
+L142562 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Okay.
+L142561 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Time to sleep now, Captain.  But you can ask more questions in the morning, okay?
+L142558 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ That's a beauty, Captain.  Now get some sleep.
+L142557 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Pensacola.
+L142556 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Okay, okay... there.
+L142555 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Mmm, that's a good one.  Maybe his echo...  Okay, no more stalling.
+L142554 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Could we hear God?
+L142553 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Big enough radio, I don't see why not.
+L142552 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Could we hear to the moon?
+L142551 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ On that old shortwave?  Maybe on a clear night.  Come on now, under the covers.
+L142550 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Could we hear to China?
+L142545 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Just be yourself, Captain.  Find out where he is.
+L142544 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ But what do I say?
+L142543 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Talk to him.
+L142540 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Try again between the static and 'Hey Jude'; that's where they're hiding.
+L142539 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I can't move any smaller.
+L142538 +++$+++ u4612 +++$+++ m304 +++$+++ TED +++$+++ Small moves, Captain, small moves.
+L143162 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ Can't.  Doctor's orders.  The low oxygen/zero gravity environment is the only thing keeping the cancer from eating me alive.  It's all right -- I like it here. Ever try sex in zero-G?
+L143161 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Why don't you come back with me?
+L143159 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ -- of Hadden Industries.
+L143158 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ As each component was tested and shipped off to Texas a duplicate was maintained and assembled in Hokkaido -- for backup purposes, of course. We've been right behind you the entire time.  You see my problem:  I couldn't appear to control too large a percentage; my enemies wouldn't stand for it.  So I simply made sure the Japanese consortium received the systems integration contract.  Of course no one had to know the corporations involved were recently acquired, wholly-owned subsidiaries --
+L143157 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ Mmm.  Look closer.
+L143156 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ The systems integration site.
+L143155 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ Hokkaido Island.
+L143154 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ Wouldn't you if you saw Hitler on TV?  Come; I want to show you something.
+L143153 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ The gods sent us the machine because they took pity on us.
+L143152 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ I think whoever sent the message did it because they're worried about us.
+L143151 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You sound like Joseph.  You think the world ends with the millennium?
+L143150 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ Oh, not quite yet.  At least for their sake...  ... I hope it's not.  Because they're running out of time.
+L143149 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ What are you talking about?  It's over.
+L143148 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ Yes.  A shame.  Still... it'd be worse if they died for nothing.
+L143147 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ It looks like pixie dust...  Kent would've given anything to see this.  David, too.
+L143146 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ Japanese squid fleet.  They use lights to attract them to the surface... then turn them into sushi.
+L143145 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ What's that?
+L143144 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ Poor, tired, spinning girl... How we feasted on her.  And now that we've had our fill and given her a giant dose of the clap... we're pulling out.  That's Paris, where my daughter was born.  Moscow, where gangsters rule the night and I gave up smoking.  So many battles, so many lives... all that sturm, and drang.  As if it never happened.  If it weren't for a few power grids, you wouldn't know we existed.
+L143143 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ It's so... small.
+L143142 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ A sunrise and a sunset every forty- five minutes.
+L142894 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ That's my girl.  Done.
+L142893 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Mr. Hadden, I'm a scientist; I don't make deals... But.  If you wish to give me, in good faith, access to your information, I can assure you that I will exert all reasonable efforts to promote your cause wherever it doesn't conflict with the best interests of science... or my better judgment.
+L142892 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ In return... you get the primer -- and with it the power to stay in the game.  Do we have a deal?
+L142891 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ And in return?
+L142890 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ That would seem to be the question of the hour.  I want to build it, Doctor.  Of course I'm already lobbying through the usual channels of influence and corruption -- but as I said, my colorful past has made many of those channels... difficult to navigate. I need someone on the inside.
+L142889 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ A machine.  But a machine that does what?
+L142888 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ Very good, Doctor.  I've also detected structural elements, back references, a general movement from the simple to the complex -- all of which would seem to indicate instructions -- an enormously complicated set of instructions -- for building something.
+L142887 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Some kind of circuitry...?
+L142884 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ -- even if he doesn't receive the entire transmission.  Heaven is the mustard seed.
+L142883 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You're saying... there is no separate primer in the message -- because it's on every page so the recipient can decipher it wherever he is --
+L142882 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ Not if you think like a Vegan.
+L142881 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ A page-break signal.  A period.
+L142880 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ Page after page of data -- over sixty-three thousand in all, if I'm not mistaken... and at the end of each...
+L142878 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ That's my girl...  Lights.
+L142877 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ If I knew you any better I'd say that doesn't sound like you.
+L142876 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ I've had a long time to make enemies, Dr. Arroway.  There are many governments, business interests, even religious leaders who would like to see me disappear. And I will grant them their wish soon enough... But before I do, I wish to make a small contribution -- a final gesture of goodwill toward the people of this little planet who've given -- from whom I've taken so much.
+L142875 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You've... found it.  What could I possibly have that you would want, Mr. Hadden?
+L142874 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ Oh, maybe not out -- but definitely looking for you coat.  I understand you've had some difficulty locating the -- what are you calling it?  The 'primer' that will make decryption possible...  I've found it.
+L142873 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I didn't realize I was out.
+L142872 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ The powers that be have been quite busy lately, falling over each other to position themselves for the game of the century, if not the millennium.  Perhaps you've noticed.  Perhaps I could help deal you back in.
+L142871 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ What kind of deal?
+L142870 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ The infamous, unfashionable bluntness.  You're here so we can do business. I want to make a deal.
+L142869 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Why am I here, Mr. Hadden?
+L142868 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ I find it convenient to keep my interests... mobile.  Anyway, I've had my fill of life on the ground. After spending much of this century pursuing the evils and pleasures the world has to offer -- after outliving three wives and two children...  I find I've had quite enough of planet Earth.
+L142867 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You live here.
+L142866 +++$+++ u4603 +++$+++ m304 +++$+++ HADDEN +++$+++ Once upon a time I was a hell of an engineer.  Please, sit, Doctor.  I have guests so rarely, it's important to me they feel welcome in my home.  Did you know this was once Yeltsin's flying dascha?  That dent is where he threw a bottle of vodka at the pilot.  At least that's what the people who sold me the plane said...
+L142865 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ S.R. Hadden...  You compromised our security codes.
+L143122 +++$+++ u4604 +++$+++ m304 +++$+++ JEAN-CLAUDE +++$+++ I think it is your naivete I like best about you, Eleanor.  Oh, there'll be a worldwide protest, but we all knew it from the very beginning.  You Americans discovered the signal, you led the decryption effort.  The machine is being built on your home soil... Of course the passenger will be an American, chosen by Americans.  Anyway, it is what the whole world wants, no?  This is the big show. The sort you put on better than anyone.  It's good marketing.  It's good casting.  It's the American way.
+L143121 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You're implying that the whole selection process is a sham?
+L143120 +++$+++ u4604 +++$+++ m304 +++$+++ JEAN-CLAUDE +++$+++ I do.  More than anything.  But I am also a realist.  Soon this... what is your charming term -- ?  Dog and pony show will finally be over, and I will go home.
+L143119 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I thought you were here because you want to go.
+L143118 +++$+++ u4604 +++$+++ m304 +++$+++ JEAN-CLAUDE +++$+++ Perhaps.  But on the off-chance that it is a 'doomsday device' of some kind, I plan to be very far away from your lovely Texas when it is activated.
+L143117 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I'd say this is slightly different.
+L143020 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ We've just lived through a century of incredible violence and self- destruction.  Do you call it 'interventionist' when you stop a toddler from walking in front of a truck?
+L143019 +++$+++ u4604 +++$+++ m304 +++$+++ JEAN-CLAUDE +++$+++ Very well.  Assume this is true. Assume they have only the best of intentions.  Suppose they decide to just step in and solve all our problems for us.  You have no objection to them so flagrantly intervening in human affairs?
+L143331 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ But the machine worked -- that's what I've been trying to tell everyone!  The tape -- it's all there, if they'd just look at...  ... the tape...
+L143330 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ That's one way of putting it.  Kitz, the President, the I.S.C. have shut down all official communications; there've also been reports of riots flaring up across the U.S. and Europe.  Until we figure out what went wrong things may get rough, especially for you --
+L143329 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Peter... What is going on?  Has everyone gone completely insane?
+L143321 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ How long was I gone?
+L143320 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ What day?
+L143319 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Peter, what are you talking about? What malfunction?  What day is this?
+L143318 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ It's all right, the important thing is you're safe --
+L143317 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Wait -- hold on a minute --
+L143316 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Thank God.  When we lost contact, I thought -- we thought... but you're okay.  We're still trying to determine the nature of the malfunction.  Did you notice anything at all that --
+L143315 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I'm -- I'm fine.
+L143314 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Ellie -- are you okay?
+L143211 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Like it.  Almost there.
+L143210 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Like it or not.
+L143209 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ That you, Valerian?
+L143208 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ It's really happening.
+L143207 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Someone tell me this is really happening.
+L142929 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You too.
+L142928 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ It's good to see you, Ellie.
+L142921 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Peter.
+L142920 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Ellie.
+L142644 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ That is true.  But it's also true that if I really thought we wanted the same things, I'd follow you anywhere... but the truth is I don't think you want the company.  Be honest, El.  There's nowhere you'd rather be than sitting out at some remote corner of the world searching for the answers to the mysteries of the universe.  And call me crazy, but I just can't compete with that... I'm sorry.
+L142643 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You sonofabitch.
+L142642 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Ellie -- I'm getting married.  Her name's Laura.  She came up to Owens Valley to do her post-doc about six months after you left.
+L142641 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I'm serious about this, Peter --
+L142640 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Ellie --
+L142639 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Right now -- we'll drive down to Ramey and get the base chaplain to marry us.
+L142638 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Jesus --
+L142637 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ And you think I don't want those things?  You think I don't stay up half the night wondering if I've made the right choice living half a world away from you, wondering if any of this is worth what I'm giving up for it everyday?  Let's get married.
+L142636 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Maybe that's the problem.  I want... a family, Ellie.  I want kids.  A townhouse on L street instead of still living like a college kid.  A real life.  Maybe that makes me a sellout but I don't care anymore. It's what I want.
+L142635 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Please, you're just as ambitious as I am, more --
+L142634 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ 'The work,' Jesus, Ellie, can't there just once be more to life than the work?  Okay, maybe that's the only way to get the recognition, win the prizes --
+L142633 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ But the work --
+L142632 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ This is a chance to be of enormous help to other people's research -- to have the power to be a real advocate where David's got blind spots --
+L142631 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ But what about your research -- ?
+L142630 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ I'm going on staff at the N.S.F.  To work for Drumlin.
+L142629 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Greenbank?
+L142628 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ -- I'm moving to Washington.
+L142627 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ We could be together again --
+L142626 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Actually --
+L142625 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Peter -- if you can get him to do that for me he'd obviously do the same for you -- we could -- !
+L142624 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Thirty-one linked dishes.  You could search more sky there in a day than you could in a year here.
+L142623 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ The V.L.A.?
+L142622 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ What if I said I could get Drumlin to agree to sell you time in New Mexico?
+L142621 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ It's almost there.  The hardest part is getting someone to sell us the telescope time.
+L142620 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ How close are you to getting this funding put together?
+L142619 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ If we lived at any previous time in human history we wouldn't even have the option of failing -- we'd have to wonder our whole lives, unable to do anything about it.  This time, right now, is unique in our history, in any civilization's history -- the moment of the acquisition of technology.  The moment when contact becomes possible.  We've already beaten incredible odds by being lucky enough to be alive now.
+L142618 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Ellie... even if you do manage to raise the money, have you thought about what it would really mean to follow through on this?  I mean a college fetish is one thing, but we're talking about your career. You won't be publishing.  You won't be taken seriously... and you could spend your entire life looking and never find anything at all.
+L142617 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ ... We've been going after some of the big multi-nationals but without much luck; got a donation from a New York dowager... We've even been thinking about selling T-shirts.
+L142616 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I've examined over forty stars of roughly solar spectral type but so far nothing.  Still, we've barely started...
+L142615 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ And?
+L142614 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Please.  Any chance of that died the day David Drumlin was appointed head of the N.S.F.  I have been in contact with a few other SETI people; we've been trying to find backing from private investors. I've even managed to scrounge a couple of hours of telescope time here and there...
+L142613 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Any luck on the grant money?
+L142612 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ ... I keep telling myself okay, that's just the price, you have to do your time doing shitwork before you're allowed to get to the good stuff... but if I have to catalog one more quasar...  God, I've missed you.
+L142596 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ '... is indistinguishable from magic.'
+L142595 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ 'Any sufficiently advanced technology...'
+L142594 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ It's like the pre-Copernicans who swore the sun revolved around the Earth, or the Victorians at the end of the last century who concluded that all major discoveries had now been made.  I mean... try to imagine civilization a thousand years ahead of us -- then imagine trying to explain... I dunno, a microwave oven -- to someone even a hundred years ago -- I mean the basic concepts didn't exist...
+L142593 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ They can't.  I think it's against human nature to admit to that level of... insignificance; to not see yourself as basically the center of the universe.
+L142592 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ ... I'm just so sick of feeling defensive about the things I care about!  Or being lumped in with the lunatic fringe by people like Drumlin, when if they'd just put aside their preconceptions for two seconds and look at the facts...
+L142590 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ What a coincidence.  It happens to be my fetish too.
+L142589 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Keep it down, okay?  Drumlin thinks I'm enough of a flake as it is.  Look -- everyone here has their little fetishes.  Caven goes to topless bars, Vernon's got his carnivorous plants... mine just happens to be extraterrestrial intelligence.
+L142588 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I read your paper on ETI's.  It's brilliant.
+L142586 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Yavol.
+L142585 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Sounds like a Russian general.
+L142584 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ Peter Valerian.
+L142583 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Ellie.  Arroway.
+L142582 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ That's what they all say.
+L142581 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ He's an incredible prick but I never learned so much in my life.
+L142580 +++$+++ u4609 +++$+++ m304 +++$+++ PETER +++$+++ It's beautiful but it does get a little lonely.  Sometimes I think the reason we build these things in such godforsaken places isn't to avoid excess radio traffic but because we're all such pathetic antisocial misfits... Speaking of which:  How're you getting on with the old man?
+L142579 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ ... Drumlin said you're been down at Arecibo for the last year.
+L143408 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Something my dad -- they -- said. 'After all the suffering, after all the desolation of the void -- the one thing that makes the vastness tolerable is each other.'  The one thing that makes it bearable is love.
+L143407 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Meaning...
+L143406 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I'm not sure...  Maybe it simply exists in the search for it.  Maybe its something we have to make for ourselves.
+L143405 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Does that mean you think it doesn't exist?
+L143404 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I don't know.  If it was a god, it was searching for a greater one.  It was still searching for meaning...
+L143403 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ In other words.
+L143402 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ In other words, God works in mysterious ways...
+L143401 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Maybe what you experienced can't be reduced to images on a videotape. Maybe they still plan to grant your request, only in their own way, in their own time... Or maybe it's just like you said:  ultimately their motives may be as incomprehensible as their technology.
+L143400 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ ... but it is a good question, and I suppose I'll always wonder about the answer:  Why would they send me back without proof?
+L143362 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Ellie... if you go out there like this -- if you admit to even the possibility that what you experienced didn't actually happen -- I'm afraid they really will crucify you.  Please.  For your own sake, for the sake of the world... tell them what you know to be the truth.  Tell them it really happened.
+L143361 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I want to, Palmer -- more than anything.  But it has to be real. It has to be true.
+L143360 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Have you seen what's happening out there?  The terror, the despair? The world is on fire, Ellie.  People need something they can believe in, something worthy, and you can give it to them!
+L143359 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ But --
+L143358 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Ellie, the only one holding you to that standard is you!  The people want to hear your story, they need to hear it!
+L143357 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ It's not enough, don't you understand?  I know it happened -- but by every standard of science, by every standard I've lived my life by that fact is utterly beside the point.  It may be true but it doesn't matter because I can't prove it's real.
+L143356 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Ellie, you're the proof.  You tell them your story.  Ultimately they'll have no choice but to believe you.
+L143355 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I don't have any proof, Palmer.
+L143354 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ It also makes God enormous.  I think of the scope of your universe, Ellie... and it takes my breath away.  As it will everyone else's.
+L143353 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You're sure you want to?  In the universe I saw we're not exactly the stars of the show.  What happened to me makes us all seem pretty damn small.
+L143352 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ I do.
+L143351 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ They don't believe me.
+L143350 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ I'm not sure it's come to that.
+L143349 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ So.  I'm assuming they sent you here to administer last rites?
+L143348 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Pretty ironic, huh?  I had to go all the way to the center of the galaxy... Just to find you.
+L143347 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ It was quite a page turner.
+L143346 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I'm assuming you read my deposition.
+L143345 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Hi.
+L143344 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Hi.
+L143196 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ And yet that's always how I seem to end up, isn't it?  If you really do love me, Palmer, you'll leave.  Now.  Please.
+L143195 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Ellie, there is no reason you have to be alone.
+L143194 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I can't hear this now --
+L143193 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Do you really think your life is meaningless, Eleanor?  Is that why you're so quick to risk it -- because if your life means nothing then you have nothing to lose?
+L143192 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ -- I don't know --
+L143191 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ And then what?  Then you'll be safe?
+L143190 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Don't you understand?  I just have to hold it together -- just until tomorrow --
+L143189 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ I'm in love with you, Ellie.
+L143188 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Please --
+L143187 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ What are my other options?  In fifty years?  Never?
+L143186 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Please, Palmer -- if you care for me at all, don't push this now --
+L143185 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ What are you so afraid of?
+L143184 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I can't do this --
+L143183 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ What?
+L143182 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I'm sorry -- I can't --
+L143181 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Ellie, what is it?
+L143180 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ What is it?
+L143179 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I'm sorry.
+L143178 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ What...?
+L143177 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Maybe that's okay.
+L143176 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I do seem to be... Maybe because I'm just a little bit terrified about tomorrow.
+L143175 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ You're trembling.
+L143174 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Thank you.
+L143173 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ During the crusades -- pilgrims who made the journey to the holy land brought back a palm frond to show they'd actually been there.  I thought it sort of made sense that Earth is now your holy land, so...
+L143172 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Oh.  I brought you something.
+L143171 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ The final countdown.
+L143170 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ So.  The final countdown.
+L143169 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I remember.  You were indelicate, indiscreet and entirely less than tactful... Sound like anyone you know?
+L143168 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Ellie... the last time we spoke... I said some things...
+L143103 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ What if their answer is, 'Oh, that's easy.  A thousand years ago our world was in terrible shape, our population out of control, violent crime, no food... so we called a general council and decided to eliminate the anit-social.  The weak.  The sick.  The unwanted.  And ever since we've been doing great.'
+L143102 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ How do you mean?
+L143101 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ An excellent question, Doctor.  But what if we don't like the answer?
+L143100 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ ... Another question I would ask would be a very simple one.  How did you do it?  How did you evolve as far as you have and not destroy yourselves?
+L143098 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ It's late.  We should go back.
+L143097 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Ellie --
+L143095 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ What are you so afraid of, Ellie?
+L143094 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ It's getting late...
+L143093 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ And yet you're willing to die for this cause, the one thing that's given your life a sense of purpose. Don't you see the contradiction here -- ?
+L143092 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I don't know.  But as a scientist I have to consider that possibility.
+L143091 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Do you really believe your life is meaningless?
+L143090 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Maybe the reason people are having trouble finding meaning isn't because science has obscured it... maybe it's just revealed it isn't there.
+L143089 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ I don't follow.
+L143088 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Did you ever stop to think that maybe that isn't science's fault, but meaning's?
+L143087 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ I don't consider you the enemy, Ellie.  I'm not 'out to get' technology.  I only ask the question:  Does it have to have all the answers?  I look out there and I see so much emptiness... People are so starved for meaning, and it's something they just don't seem to be getting from science.
+L143086 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I thought it was well-written. Heart-felt.  And a little bit naive... But that's just the enemy's perspective.
+L143085 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ I won't deny I was ambitious.  When I had my... experience... I wanted to tell my story to as many people as possible.  I'm the first to admit that process included making some compromises.  You didn't answer my question.
+L143084 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I'm more interested in the story behind the story... How a young man goes from living on the streets of South Boston to being the best- selling media figure rubbing elbows with the President.
+L143083 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ What'd you think?
+L143082 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Losing Faith:  The Search For Meaning In the Age of Reason. Catchy.
+L143081 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Really.
+L143080 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I read your book.
+L143079 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ It's what my whole life's been... aimed at; the only thing that's given it a sense of purpose.
+L143078 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ You're willing to die for this.
+L143077 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ If you came back.  If you survived at all.  Which it's pretty certain you wouldn't.
+L143076 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ And everybody you care about would be dead and buried.
+L143075 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Something like that.
+L143074 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ If you came back... you'd only be four years older -- but over 50 years would have passed on Earth.
+L143073 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ If you came back.
+L143072 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Relativity.  Explain this to me one more time... even if you traveled near the speed of light, when you came back --
+L143071 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ In other words.
+L143070 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ In other words, God is one hell of an engineer.
+L143069 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ It's too... elegant.  The degree of economy is extraordinary; it's really the next logical step... Even on Earth technology has always aspired to a condition of nature. D.N.A. outclasses any computer we can come up with; the human body is the most exquisitely designed machine imaginable.
+L143068 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Why?
+L143067 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I don't think so.
+L143066 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Maybe you're creating a monster.
+L143065 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Not exactly.  It has organic qualities, but we don't really understand how they're integrated with the mechanical systems.
+L143064 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Some of my best friends are scientists.  They're saying the machine is alive.
+L143063 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I was referring to the selectees mingling with the selectors.
+L143062 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Some of my best friends are scientists.
+L143061 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ So.  Is this kosher fraternizing with the enemy like this?
+L142968 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Prove it.
+L142967 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Yes.  Very much.
+L142966 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Did you love him?
+L142965 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I never knew my mother.  My father died when I was nine.
+L142964 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Do you love your parents?
+L142963 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You may not believe this... but there's a part of me that wants more than anything to believe in your God.  To believe that we're all here for a purpose, that all this... means something.  But it's because that part of me wants it so badly that I'm so stubborn about making sure it isn't just self-delusion. Of course I want to know God if there is one... but it has to be real.  Unless I have proof how can I be sure?
+L142962 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Look, I'm a reasonable person, and reasonably intelligent.  But this experience went beyond both.  For the first time I had to consider the possibility that intellect, as wonderful as it is, is not the only way of comprehending the universe. That it was too small and inadequate a tool to deal with what it was faced with.
+L142961 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ And there's no chance you had this experience simply because some part of you needed to have it?
+L142960 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ I had... an experience.  Of belonging.  Of unconditional love. And for the first time in my life I wasn't terrified, and I wasn't alone.
+L142959 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Can you try?
+L142958 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ ... It's an old story.  I grew up in South Boston, more or less on the streets.  By the time I was thirteen I'd tried my first hit of heroin, by fifteen I'd stopped using but I was dealing full-time.  By the time I was nineteen I decided I didn't want to live any more, at least not in a world like that.  One day I got on a bus; I got as far as Ohio before my money ran out, and after that I just kept walking.  Didn't eat, didn't sleep... just walked.  I ended up collapsing in a wheat field.  There was a storm... I woke up...  And that's about as far as words'll go.
+L142957 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Now you know.
+L142956 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ That's not doubt.  That's four hundred years of science fighting a billion years of instinct.  I always wondered what you religious types did with your free time.
+L142955 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Only a tiny bit.  Even the most devout believer is allowed a little doubt.
+L142954 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I flinched.
+L142951 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ So if I let the pendulum go, when it swings back you wouldn't flinch.
+L142950 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ And mind, yes.  What are you --
+L142949 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ And you believe this law with all your heart and soul.
+L142948 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ That's not faith, it's physics.  The second law of thermodynamics.
+L142947 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Your 'faith' tells you that the distance a pendulum swings from the vertical can never get bigger, only smaller.
+L142943 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Very smooth.  It's Palmer, right? Where I came from a palmer was a person who cheated at cards.  Really though... the Bible describes a God who watches over one tiny world a few thousand years old.  I look out there and see a universe of hundreds of billions of galaxies, each with hundreds of billions of stars... I mean burn me for a heretic, but your God seems awfully small.
+L142942 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ 'My father's house has many mansions.'
+L142941 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Well it's been a while, but I don't recall the Bible saying too much about alien civilizations.
+L142940 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ How do you mean?
+L142939 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ What about you?  Doesn't all of this shake your faith at all?
+L142938 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Spoken like a true believer.
+L142937 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I guess I would've felt sorry for the universe.
+L142936 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ And what would you have done if the odds had gone against you?
+L142935 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I'd say logic more than faith.  The odds were on my side.
+L142934 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ ... What I'm curious about are the wilderness years.  You're out there all alone, no money, mocked by the skeptics.  It must have taken tremendous faith.
+L142931 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ Make that two.
+L142930 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Champagne please.
+L142912 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ I'd have to say I don't know enough to have one yet.  For the moment I don't believe the two approaches have to be mutually exclusive.
+L142911 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ And where exactly does that put your position...?
+L142910 +++$+++ u4605 +++$+++ m304 +++$+++ JOSS +++$+++ I agree with Mr. Rank that there are unavoidable religious implications here -- but I don't think it justifies taking an alarmist position.  Dr. Arroway is right -- their chosen means of communication was a scientific one, and a scientific approach is probably appropriate, at least until the theological dimensions of the problem become more apparent.
+L143109 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ For managing the truth.  But the truth won't be managed, sir.  It stops being the truth the moment you try.
+L143108 +++$+++ u4611 +++$+++ m304 +++$+++ PROJECT OFFICIAL +++$+++ Nobody is proposing we censor the truth here, Doctor.  We're simply talking about putting a mechanism in place --
+L143107 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I guess I'd say I trust us enough to believe our response would be something to the effect of, thanks for the advice, but no thanks.  But to dilute or censor the truth, for whatever reason --
+L143106 +++$+++ u4611 +++$+++ m304 +++$+++ PROJECT OFFICIAL +++$+++ How would you propose we handle it, Doctor?
+L143105 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ You kill me, you really do.  The first truly global, a-political event in history and you can't wait to spin it.
+L143050 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Y'know what?  Fine.  I guess if we want them to know the truth about who we are there's no quicker way to show them.
+L143049 +++$+++ u4611 +++$+++ m304 +++$+++ PROJECT OFFICIAL +++$+++ Dr. Arroway, you are entitled to your opinion.  But we feel quite strongly that it would by both irresponsible and naive to send a human being into a completely unknown, completely uncontrollable situation absolutely defenseless.
+L143048 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ Call it xenophobic paranoia.  Don't you see the absolute absurdity of this?  This isn't about them, it's about us -- our violence, our fear and mistrust --
+L143047 +++$+++ u4611 +++$+++ m304 +++$+++ PROJECT OFFICIAL +++$+++ It's designed purely as a defensive device.  Call it a reasonable precaution.
+L143046 +++$+++ u4602 +++$+++ m304 +++$+++ ELLIE +++$+++ I question the thinking behind sending the first ambassador to another civilization in armed -- basically announcing our intentions are hostile.
+L143045 +++$+++ u4611 +++$+++ m304 +++$+++ PROJECT OFFICIAL +++$+++ You have a question, Dr. Arroway?
+L143342 +++$+++ u4610 +++$+++ m304 +++$+++ PRESIDENT LASKER +++$+++ Have your department make a full report.
+L143341 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ I don't know.  Maybe we built the damn thing wrong.  Maybe it was all a hoax...  The safest thing would probably be to do a Chernobyl; encase it in concrete.
+L143340 +++$+++ u4610 +++$+++ m304 +++$+++ PRESIDENT LASKER +++$+++ Recommendations?
+L143339 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ ... as have all attempts at internal analysis.  We've tried sonargrams, magnetic resonance, gamma rays; it's completely impenetrable.
+L142836 +++$+++ u4610 +++$+++ m304 +++$+++ PRESIDENT LASKER +++$+++ That's it, Mike.  Last time I checked, I was still running the country.  Although it seems that for the moment, Dr. Arroway is running the planet.
+L142835 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ But --
+L142834 +++$+++ u4610 +++$+++ m304 +++$+++ PRESIDENT LASKER +++$+++ Well.  That would seem to decide it. Like it or not, for the moment, anyway, it looks like we're all in this together.
+L142816 +++$+++ u4607 +++$+++ m304 +++$+++ KITZ +++$+++ What is it?
+L142815 +++$+++ u4610 +++$+++ m304 +++$+++ PRESIDENT LASKER +++$+++ Oh my God...

@@ -1,0 +1,571 @@
+L67680 +++$+++ u3876 +++$+++ m257 +++$+++ AN I.A. MAN +++$+++ I want you in Dr. Gardner's office at nine o'clock.  You're out of control, Curran.
+L67511 +++$+++ u3876 +++$+++ m257 +++$+++ AN I.A. MAN +++$+++ Going after him before gets you off the hook for killing him that's your alibi.
+L67510 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Come on -- I'm going to storm into his office in front of everybody in the afternoon and then that night I'm going to kill him?  I'd have to be really dumb to do that.
+L67507 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What are you gonna do -- charge me with smoking?
+L67506 +++$+++ u3876 +++$+++ m257 +++$+++ AN I.A. MAN +++$+++ There's no smoking in this building.
+L67502 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ A couple days ago.
+L67501 +++$+++ u3876 +++$+++ m257 +++$+++ AN I.A. MAN +++$+++ When did you start drinking again?
+L67500 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Yeah, I was drinking.
+L67499 +++$+++ u3876 +++$+++ m257 +++$+++ AN I.A. MAN +++$+++ Were you drinking?
+L67498 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Yeah.
+L67497 +++$+++ u3876 +++$+++ m257 +++$+++ AN I.A. MAN +++$+++ All night?
+L67496 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Home. Watching TV.
+L67495 +++$+++ u3876 +++$+++ m257 +++$+++ AN I.A. MAN +++$+++ Where were you tonight?
+L67490 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ No.
+L67489 +++$+++ u3876 +++$+++ m257 +++$+++ AN I.A. MAN +++$+++ Do you have any evidence that he showed your psychiatric file to anyone?
+L67488 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Okay.  I went after him.  I lost my temper.
+L67779 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Bring 1976 up.
+L67778 +++$+++ u3877 +++$+++ m257 +++$+++ ANDREWS +++$+++ Hey, that's Dr. Gardner, isn't it?
+L67776 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ It's not gonna take long, Sam.
+L67775 +++$+++ u3877 +++$+++ m257 +++$+++ ANDREWS +++$+++ I can get my butt kicked for this. You're not supposed to be in here.
+L67535 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Thanks.
+L67534 +++$+++ u3877 +++$+++ m257 +++$+++ ANDREWS +++$+++ The boat blew.  There was a leak in the gas line.  There were two previous repairs.  There was a five-mil policy on both of 'em.  A real heavy investigation.  Zilch. Goose-egg.  It was an accident.
+L67533 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You know I'm whacko, Sam, what'd you find?
+L67532 +++$+++ u3877 +++$+++ m257 +++$+++ ANDREWS +++$+++ You're on leave, man.  You're on psycho leave.  I'm talking to a possible whacko here.
+L67531 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Did you find out about her parents?
+L67530 +++$+++ u3877 +++$+++ m257 +++$+++ ANDREWS +++$+++ Take care, you hear?
+L67395 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ She was there, wasn't she?
+L67394 +++$+++ u3877 +++$+++ m257 +++$+++ ANDREWS +++$+++ We got a call from Berkeley P.D. There was a killing.  A professor. Icepick.  In his bed.  Multiple stab wounds.  1977.
+L67905 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ What?
+L67904 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Don't!  I know about your husband.  You still like girls, Beth?
+L67903 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ I got a message on my machine to meet Gus here.  Where is he?
+L67902 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Put your fucking hands up!  Don't move.
+L67901 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Put your hands up!
+L67900 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ What are you doing here?
+L67801 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ She's evil.  She's brilliant.  Be careful, Nick.
+L67800 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You should do something about this lock.
+L67798 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ I got married.  He was on staff at the clinic.  I was down in Salinas.  It didn't... last long.
+L67797 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Why did you change your name?
+L67796 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ She knew you'd find out who Lisa Henderson is.  You're a good cop -- what did she do?  Tell you casually and make it seem irrelevant?  Did she tell you in bed, Nick? That's how I'd do it.
+L67795 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ She didn't hand you to me.  She doesn't even know who you are. She told me about Lisa Henderson.
+L67794 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ She's really sick you know.  Don't you know what she's doing?  She knows I went to Berkeley.  She knows I knew Noah.  She makes up that story about me.  She's handing you somebody who's obsessed with he her.
+L67792 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You saw all the reports, Beth!
+L67791 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ I had him in two classes.
+L67790 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Did you know Noah Goldstein?
+L67789 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ I did dye my hair.  It didn't have anything to do with her.  I was a redhead for a while, too.
+L67786 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ I slept with her once in school.  I was just a kid.  I was experimenting.  It was just that one time.  She developed a... fixation... on me.  She styled her hair like mine. She wore the same kind of clothes I did.  It scared me.
+L67785 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What did she tell me, Beth?
+L67784 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ She told you, didn't she?
+L67783 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Tell me about Catherine.
+L67782 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ What do you want, Nick?
+L67692 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ I know the type.  I'm a psychologist.
+L67691 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I thought you hardly know her.
+L67690 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ My interest is in you, not in her. She seduces people, she manipulates --
+L67689 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What is this interest you've got in her?
+L67688 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ Yes you do.  Something's on with you.  You're sleeping with her, aren't you?
+L67687 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I don't need any help.
+L67686 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ What is your problem?  I'm trying to help you.  Why won't you let me help you?
+L67529 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ Yes you did.  I'm a big girl.  I can handle it.
+L67528 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Beth.  I didn't mean what I said. About --
+L67526 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ I hardly knew her.  She gave me the creeps, though.  I don't know why.
+L67525 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What was she like in school?
+L67524 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ She must really be something.  From a clinical point of view.
+L67523 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ She knows stuff about me that only you know.
+L67522 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ How do you know Catherine Tramell saw my reports?
+L67521 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ No.  I mean it, thank you.
+L67520 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ It's the least I could do... considering I got you into this mess with those reports.
+L67481 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ Yes.  I care about you.  I did it for you.
+L67480 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You did it for me.
+L67476 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Yeah?  Well why don't you find some friendly therapist and work some of that hostility out.  But take my advice.  Put a little more life into it than you usually do.
+L67475 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ Sometimes I really hate you.
+L67474 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I don't owe you anything; you don't owe me anything.  We went to bed -- what was it? -- ten or fifteen times?  It wasn't memorable enough to carry any obligations.
+L67454 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ Nilsen.
+L67453 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Who?
+L67452 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ No, Nick, please --
+L67451 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ It's Internal Affairs, isn't it?
+L67450 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Don't, Beth.  Don't lie to me.
+L67449 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ It's a confidential psychiatric record, it'd be illegal --She backs into a wall.  She looks very scared. He comes very close to her -- puts an arm behind her to the wall.
+L67447 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Who's got access to my goddamn file?
+L67446 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ What are you talking about, Nick -- what's wrong with you?
+L67390 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ I thought you quit.
+L67389 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I need a cigarette.
+L67381 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Why didn't you tell me?
+L67380 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ We were in some of the same classes.
+L67378 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ She said what you said she'd say.
+L67377 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ Catherine Tramell.
+L67376 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Who?
+L67375 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ What was she like?
+L67366 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What else is new?
+L67365 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ Baby-sitting.  Rookie cop.
+L67364 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What are you doing here?
+L67363 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ You don't look so okay.
+L67362 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Yeah.
+L67361 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ You okay?
+L67159 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Thank you.
+L67158 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ Yes.
+L67157 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ It's fucked -- now will you please tell I.A. that I'm just you average healthy totally fucked-up cop and let me get out of here?
+L67156 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ How's not smoking?
+L67155 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ No!  I'm working my tail off.  I'm off the sauce, I'm not even smoking anymore.
+L67154 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ No?
+L67153 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ No.
+L67152 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ How about the coke?
+L67151 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ It's been three months.
+L67150 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ How about the booze?
+L67148 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ My sex life is fine.  My sex life is pretty shitty actually since I stopped seeing you -- maybe I should think about my Electrolux again.
+L67147 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ How is your -- personal life?
+L67146 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Things are fine.  I told you. They're fine.
+L67145 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ So -- how are things?
+L67144 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ I know it is -- but sit down anyway so we can get it over with, okay?
+L67143 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ It's bullshit.  You know it is.
+L67142 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ As long as Internal Affairs wants you to, I suppose.  Sit down, Nick.
+L67141 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I'm fine.  Come on, Beth!  You know I'm fine!  How the hell long do I have to keep doing this?
+L67140 +++$+++ u3878 +++$+++ m257 +++$+++ BETH +++$+++ How are you, Nick?
+L67933 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ We fuck like minks.  We forget the rugrats.  We live happily ever after.
+L67932 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I hate rugrats.
+L67931 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ We fuck like minks.  We raise rugrats.  We live happily ever after.
+L67930 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ What do we do now, Nick?
+L67889 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ The games are over.  You were right. It was the fuck of the century, Shooter.
+L67888 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What is this -- some kind of... Joke?  Are we playing games again?
+L67887 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ What do you want, Nick?  Flowers? I'll send you some flowers.
+L67884 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I told you.  She kills him.
+L67883 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ How did it end?
+L67882 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I finished my book.
+L67852 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Somebody always does.
+L67851 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Why?
+L67850 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Somebody has to die.
+L67849 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Why not?
+L67848 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ It won't sell.
+L67847 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ They fuck like minks, raise rugrats, and live happily ever after.
+L67846 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ What happens to them?
+L67845 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ A detective.  He falls for the wrong girl.
+L67844 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Really.  What are you writing about.
+L67843 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I'm writing a book.
+L67842 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ What are you researching?
+L67841 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ No thanks.
+L67840 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I'm very good at research.  I'll help you.
+L67839 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I have to do some research tomorrow.
+L67834 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Come over here and tell me no.
+L67833 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ No.
+L67832 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Did you miss me?
+L67831 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You didn't not see me long enough to miss me.
+L67830 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I decided to give you one more chance.  I missed you.
+L67829 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ How'd you get in here?
+L67811 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Liar.
+L67810 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ No.
+L67809 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ You still think I kill people, don't you?
+L67807 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I did, too.  She told me it was backwards -- she said you even styled your hair the way she did.
+L67806 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ You're not going to tell me what she's doing.  I thought we weren't playing games anymore.
+L67805 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Did you?  What's she doing?
+L67804 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I found Lisa Henderson.
+L67803 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I just thought I'd surprise you.  What's the matter?
+L67766 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Of course I knew.
+L67765 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You like to hang out with murderers or what?  Did you know Roxy --
+L67763 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Honey, why don't you go in the car?  I'll be right there.
+L67762 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Can I talk to you a minute?
+L67735 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Funny.
+L67734 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ He asked if I had an icepick in me yet.
+L67733 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ What did he say?
+L67728 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I'll convince you.
+L67727 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I don't know.
+L67726 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Do you believe me?
+L67725 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Maybe I'm losing interest in my book.
+L67724 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What about the other night. What about last night?  Was that to get to know your character?
+L67723 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I would've paid more.  I wanted to know everything about you.  Then you came down here after Johnny got killed... it gave me a chance to get to know my character better.
+L67722 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You paid $50,000 for your character?
+L67721 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I'd read about your shootings in the papers.  I decided to write a book about a detective.  I wanted to know my character.
+L67720 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Why?
+L67719 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ About three months before I met you.
+L67718 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ When?
+L67717 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I paid him $50,000 in cash for your psychiatric file.
+L67716 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Try me.
+L67715 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ You won't believe me.
+L67713 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ No more games, Nick.  I'm tired of playing games!
+L67712 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ No?
+L67711 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ No.
+L67708 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I never have before.
+L67707 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I thought you didn't do adolescent secrets.
+L67706 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ No, she didn't... she never got jealous before... she got excited.  I don't have luck with women. There was this girl I met while I was in college.  I slept with her once.  She started following me around, taking my picture.  She dyed her hair, copied my clothes. Lisa something... Oberman.  It was awful.
+L67705 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Maybe she got jealous of Johnny Boz, too.
+L67704 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ For what... to set me up?  She loved me she wouldn't frame me.
+L67703 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Do you think she killed Johnny Boz?
+L67702 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Make love to me.
+L67701 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ It's OK.  It's OK.
+L67700 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Everybody that I care about dies.
+L67699 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ No.
+L67698 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Do you think I told her to kill You?
+L67697 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Did you like her to watch?
+L67696 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I should have known.  I came into the house when you were down on the beach.  She looked at me so strangely.  She left right after you.  I shouldn't have let her watch us. She wanted to watch me all the time.  She tried to kill you, didn't she?
+L67640 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I know.
+L67639 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ You're in over your head.
+L67638 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I don't have a choice.
+L67637 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ You shouldn't play this game.
+L67636 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I told you I had a vivid imagination.
+L67635 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I thought that business with the scarf was pretty nifty.
+L67631 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Do you want personal insights and adolescent secrets?  I don't do those.
+L67630 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Are you kidding?  You think this is my idea of morning-after conversation?
+L67628 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ It hurts.
+L67627 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Fine.  How's your back?
+L67626 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ How's your shoulder?
+L67623 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Do you want her to join us sometime?
+L67622 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ How about Roxy?  Is she a fuck to the century, too?
+L67621 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I thought it was a pretty good beginning.
+L67620 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What did you think?
+L67619 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I told her it was the fuck of the century.
+L67618 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Did you think it was so special?
+L67616 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ She's seen everything before.
+L67615 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Maybe she saw something she didn't see before.
+L67601 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I'll meet you there.
+L67600 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I'm leaving the house around midnight.  In case you're going to follow me.  I'm going down to Johnny's club.
+L67598 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I'm getting deeper and deeper into my character.
+L67597 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ How's your new book?
+L67596 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ To see if I can get away with it.
+L67595 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Why take the risk?
+L67594 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I'll risk it.
+L67593 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Good.  I'd miss you.  You can get into trouble, though. You're not really a cop anymore.
+L67592 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ No.
+L67591 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ You're not going to stop following me around now just because you're on leave -- are you?
+L67590 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ No.  I wrote it years afterwards.
+L67589 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Yes.
+L67588 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ You mean did I write it before my parents died?
+L67587 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ When did you write it?
+L67586 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ To see if he can get away with it.
+L67585 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Why does he do it?
+L67584 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ A boy kills his parents.  They have a plane.  He makes it look like an accident.
+L67583 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What's it about?
+L67582 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Aren't you going to thank me?
+L67580 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What do you want from me, Catherine?
+L67579 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Say -- "What do you want from me, Catherine?"
+L67577 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ It's not the same thing, is it?
+L67576 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ There's Pepsi in the fridge.
+L67575 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Bitch mostly, but he meant it affectionately.  You don't have any coke, do you?  I love coke and Jack Daniel's.
+L67574 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What did Bobby Vasquez used to call you?
+L67573 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Cheers.  My friends call me Catherine.
+L67572 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I know, Nicky, but I like it.
+L67571 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ My wife used to call me that.
+L67570 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ What if I call you Nicky?
+L67569 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What if I asked you not to call me Shooter?
+L67568 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Isn't he the policeman that you shot, Shooter?
+L67567 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What did you pay Nilsen?
+L67562 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Please.
+L67561 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Ice?
+L67560 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Fine.
+L67559 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Jack Daniel's okay?  It's gonna have to be.
+L67557 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Not me.
+L67556 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You can make a mistake.
+L67555 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Why not?
+L67554 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Don't get too cocky.
+L67553 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ You're not easy to figure.  I'm just very good at figuring.
+L67550 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Yeah.  Would you like to come up and have a drink?
+L67549 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Do you?
+L67548 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I like you.
+L67547 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I wasn't talking about real friends. Why doesn't Gus like me.
+L67546 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I don't know about that I don't have any money I don't have any attorneys Gus is my only real friend.
+L67545 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I have attorneys.  They have friends.  I have friends.  Money buys you a lot of attorneys and friends.
+L67544 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ How exactly did you hear?
+L67439 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Yes, you did.  They never tested you, did they?  But Internal Affairs knew.
+L67438 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I didn't.
+L67435 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ No.
+L67434 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ What happened, Nick?  Did you get sucked into it? Did you like it too much?
+L67433 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Only in theory.  You know all about homicidal impulse, don't you, shooter?  Not in theory -- in practice.
+L67432 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Didn't you study it in school?
+L67431 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Yes.  She's helped me understand homicidal impulse.
+L67430 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ She wiped out her whole family.
+L67429 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Noah was my counselor in my freshman year.  That's probably where I got the idea for the icepick.  For my book. Funny how the subconscious works.  Hazel is my friend.
+L67428 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You want a name from the present? How about Hazel Dobkins?
+L67427 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ There's a name from the past.
+L67426 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Tell me about Professor Goldstein.
+L67425 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ They were drug buys.  I was a vice cop.
+L67424 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Four shootings in five years.  All accidents.
+L67423 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ It was an accident.  They got in the line of fire.
+L67422 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I don't know.  But you do.
+L67421 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You tell me.
+L67417 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I'd like to ask you some, too.
+L67416 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I'd like to ask you a few more questions.
+L67414 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ No, thanks.
+L67413 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Would you like a drink?  I was just going to have one.
+L67411 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ No.  Come in.
+L67410 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Am I... disturbing you?
+L67325 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ You know I don't like to wear any underwear, don't you, Nick?
+L67324 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I don't know anything that isn't police business.
+L67323 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ You know all about me.
+L67322 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ How do you know all this stuff about me?
+L67321 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ You see?  We're both innocent, Nick.
+L67320 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I passed.
+L67317 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Because I'm a professional liar. I spend most of my waking hours dwelling on my lies.  For my writing.
+L67316 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Why not?
+L67315 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ If I were guilty, and if I wanted to beat that machine, it wouldn't be tiring.  It wouldn't be tiring at all.
+L67314 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ It's got to be tiring to beat that machine.
+L67313 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I'm tired.
+L67312 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Thanks.
+L67311 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Sure.
+L67290 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ You still get the pleasure.  Didn't you ever fuck anybody else while you were married, Nick?
+L67289 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Even though you were fucking him.
+L67288 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ That's right.
+L67287 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Because you didn't love him --
+L67286 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ No.
+L67285 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ But you didn't hurt --
+L67284 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I felt somebody had read my book and was playing a game.
+L67283 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ How did you feel when I told you Johnny Boz had died -- that day at the beach.
+L67282 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I loved him.  I hurt.
+L67281 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ How did you feel when he died?
+L67277 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I've got a degree in psych.  It goes with the turf.  Games are fun.
+L67276 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You like playing games, don't you?
+L67267 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Yes it does, doesn't it?
+L67266 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Writing a book about it gives you an alibi for not killing him.
+L67261 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ No.  I said I liked Johnny to use his hands.  I don't give any rules, Nick.  I go with the flow.
+L67260 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ But you said you liked men to use their hands.
+L67246 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I have nothing to hide.
+L67245 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I told them you wouldn't want to hide.
+L67242 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I told them you wouldn't want an attorney present.
+L67241 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Did I miss something?
+L67234 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ A detective.  He falls for the wrong woman.
+L67233 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What's your new book about?
+L67225 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ It won't last.
+L67224 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I told you -- I quit.
+L67223 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I found some in my purse; would you like one?
+L67222 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I thought you were out of cigarettes.
+L67221 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I quit.
+L67220 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Yes, you do.
+L67219 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I don't smoke.
+L67218 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Do you have a cigarette?
+L67214 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Only when they make interesting reading.
+L67213 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Do you always keep old newspapers around?
+L67208 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ If that's the way you want to play it.
+L67207 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Are you arresting me?
+L67206 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Ms. Tramell, we'd like you to come downtown and answer some questions for us.
+L67132 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ No.  I wasn't in the mood to have sex with anyone last night.
+L67131 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Was there anyone with you last night?
+L67130 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ No.  We had a drink at the club. We left together.  I came here. He went home.
+L67129 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Did you go home with him?
+L67128 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Yes.
+L67127 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Did you leave the club with him?
+L67126 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Yes.
+L67125 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Were you with him last night?
+L67124 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ About a year and a half.
+L67123 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ How long were you having sex with him?
+L67120 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I wasn't dating him.  I was fucking him.
+L67119 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ How long were you dating him?
+L67114 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I know who you are.
+L67113 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I'm De...
+L67263 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I'd have to be pretty stupid to write a book about a killing and then kill him the way I described in my book. I'd be announcing myself as the killer.  I'm not stupid.
+L67262 +++$+++ u3880 +++$+++ m257 +++$+++ CORRIGAN +++$+++ Did you kill Mr. Boz, Ms. Tramell?
+L67255 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ No.
+L67254 +++$+++ u3880 +++$+++ m257 +++$+++ CORRIGAN +++$+++ Did you ever tie him up?
+L67253 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Exactly what do you have in mind, Mr. Corrigan.
+L67252 +++$+++ u3880 +++$+++ m257 +++$+++ CORRIGAN +++$+++ Did you ever engage in sado- masochistic activity with him?
+L67250 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I had sex with him for about a year and a half.  I liked having sex with him.
+L67249 +++$+++ u3880 +++$+++ m257 +++$+++ CORRIGAN +++$+++ Would you tell us the nature of your relationship with Mr. Boz?
+L67248 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ What are you going to do?  Charge me with smoking?
+L67247 +++$+++ u3880 +++$+++ m257 +++$+++ CORRIGAN +++$+++ There is no smoking in this building, Ms. Tramell.
+L67238 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ No thank you.
+L67237 +++$+++ u3880 +++$+++ m257 +++$+++ CORRIGAN +++$+++ I'm John Corrigan.  I'm an assistant district attorney, Ms.  Tramell. Can we get you anything?  Would you like some coffee?
+L67302 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I'm a writer,  I use people for what I write.  You write what you know.  Let the world beware.
+L67301 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ That's pretty cold, ain't it, lady?
+L67300 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ In the beginning.  Then I got to like what he did for me.
+L67274 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Cocaine.
+L67273 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ What kind of drugs?
+L67270 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Sometimes.
+L67269 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Do you use drugs, Ms. Tramell?
+L67268 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ The answer is no.  I didn't kill him.
+L67232 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ I like that.  "Suspension of Disbelief."
+L67231 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ You make it up, but it has to be believable.  They call it suspension of disbelief.
+L67230 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ How's that?
+L67229 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ It teaches you to lie.
+L67228 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ It must really be somehtin' --makin' stuff up all the time.
+L67227 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Yes I am.
+L67226 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ You workin' on another book?
+L67217 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Why would I need an attorney?
+L67216 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ You have the right to an attorney.
+L67137 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Read me my rights and arrest me and I'll go downtown.
+L67136 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Listen, lady, we can do this downtown if you --
+L67135 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ I don't really feel like talking anymore.
+L67117 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ Really.  Maybe that's why you're from Homicide.  How?
+L67116 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ He was murdered.
+L67115 +++$+++ u3879 +++$+++ m257 +++$+++ CATHERINE +++$+++ How did he die?
+L67880 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You did.
+L67879 +++$+++ u3881 +++$+++ m257 +++$+++ DETECTIVE +++$+++ I hope I helped you out.
+L67878 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Thanks.
+L67877 +++$+++ u3881 +++$+++ m257 +++$+++ DETECTIVE +++$+++ Nope. She did.  Like I say.  It never panned.
+L67876 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ He had a girlfriend?
+L67875 +++$+++ u3881 +++$+++ m257 +++$+++ DETECTIVE +++$+++ The usual -- a girlfriend.
+L67874 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What kind of talk?
+L67873 +++$+++ u3881 +++$+++ m257 +++$+++ DETECTIVE +++$+++ Nope.  There was some talk; it never panned.
+L67872 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Was she ever a suspect?
+L67871 +++$+++ u3881 +++$+++ m257 +++$+++ DETECTIVE +++$+++ That's him.
+L67870 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Nilsen?
+L67869 +++$+++ u3881 +++$+++ m257 +++$+++ DETECTIVE +++$+++ Nope, can't say that I do.
+L67868 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Do you remember his name?
+L67867 +++$+++ u3881 +++$+++ m257 +++$+++ DETECTIVE +++$+++ Yeah, he said it was routine too. Now it's two guys saying it's routine.
+L67866 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Routine.
+L67865 +++$+++ u3881 +++$+++ m257 +++$+++ DETECTIVE +++$+++ I had another one of you guys down here from Frisco -- about a year ago -- he asked me the same question.  What's this about anyway?
+L67864 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Was his wife ever a suspect?
+L67863 +++$+++ u3881 +++$+++ m257 +++$+++ DETECTIVE +++$+++ No suspects, no motive.  Unsolved.
+L67862 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Were there ever any suspects?
+L67861 +++$+++ u3881 +++$+++ m257 +++$+++ DETECTIVE +++$+++ .38 revolver.  Never recovered.
+L67860 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What was the weapon?
+L67859 +++$+++ u3881 +++$+++ m257 +++$+++ DETECTIVE +++$+++ He was walking home from work. They only lived a coupla blocks from the clinic.  Somebody drove by and shot him.
+L67898 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ She said alone -- suite 405.  It ain't gonna take long.
+L67897 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I'm going with you.
+L67896 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Where the hell you goin'?
+L67828 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ You got goddamn tweety-birds flutterin' around your head, that's what you got.  You think you're gonna fuck like minks, raise rugrats, and live happily ever after?  Oh, man.
+L67827 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I know what happened.  Catherine told me what happened.
+L67826 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Goddamn writers -- all they do is use up trees and ruin people's eyes.  There's gotta be somebody at Berkeley who knows what the hell happened.
+L67825 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ She's a writer -- it's part of what she does.
+L67824 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ She'd have to be nuttier than a twenty-pound Christmas fruitcake. She's not the one who hangs out with multiple murderers -- your girlfriend is.
+L67823 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ He was I.A.  He probably asked her about it.
+L67822 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ How did she know Nilsen knew about it -- if it happened?
+L67821 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Don't you get it, Gus?  If Beth killed Johnny Boz to frame Catherine -- she wouldn't want anyone to know what happened at Berkeley.  It gives her the motive to kill Nilsen.
+L67820 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ If she's telling  you the truth.
+L67819 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Catherine told me what was in it.
+L67818 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ So Nilsen had a report on her -- so what.  You don't know what the hell was in it?
+L67751 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Which one you talkin' about now, son?  We know ole Hazel did it; we know young Roxy did it -- and the other one Well, hell, she's got that magna come lawdy pussy on her that done fried up your brain.
+L67750 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I'm not sure anymore she did it.
+L67747 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Ain't that hard, son.  This young farmgirl, she got tired of all that attention goin' to her little brothers -- she fixed 'em.  Just like 'ole Hazel Dobkins fixed her whole family -- except young Roxy here, she didn't use a wedding present.  She used Daddy's razor.
+L67746 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I don't understand what the hell's going on here, pop.
+L67739 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You're my friend, Gus.
+L67738 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Why not?
+L67737 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I don't believe it.
+L67736 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ You know that stuff they say about how you can judge people by their friends?
+L67732 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ She's right.  You got an icepick in you yet?
+L67731 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Catherine says you don't like her.
+L67669 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ You think I'd let you drive my Cadillac car?  I ain't lettin' no hear-up-his-ass person drive my Cadillac car.
+L67668 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Come on, I'll drive you in this thing.
+L67667 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ In that little pissant car of yours? Hell, no.  I ain't gettin' no back pain disability retirement -- I'm gettin' me a full pension and a real gold-plate Seiko watch.
+L67666 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You all right, pop?  You want me to drive you?
+L67665 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Maybe it wasn't her that paid him. Maybe the money was for somethin' else.  How the fuck do I know? I'm just an old city cowboy tryin' not to fall outta his saddle.
+L67664 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ It doesn't make sense.  She didn't know me three months ago.
+L67661 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ That's her pussy talkin' --He gets a real nasty look from a very fat woman eating a cheeseburger.  He winks at her.  The woman looks away from him, shaking her head.
+L67660 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I don't know.  I'm just not.
+L67659 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Why the hell not?
+L67658 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I'm not afraid of her.
+L67655 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ I feel fine!
+L67654 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You feeling better?
+L67653 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Say what?
+L67652 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You don't like punk rockers?
+L67651 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ What in the hell for?  You think I'm gettin' any at my age?  I don't like blue-haired women.  I don't like 'em.
+L67650 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You oughta use a rubber, pop.  You really should.
+L67649 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ I don't give a... flyin'... chili- bean... fart about AIDS!
+L67648 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I'm not gonna get AIDS, pop --don't worry about it.  I always use a rubber.
+L67647 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ You... fucked her!  Goddamn dumb sonofabitch... You fucked her! Goddamn, you are one dumb sonofabitch --
+L67646 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I wasn't there last night, either.
+L67645 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ I went over last night, too.
+L67644 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Easy there, partner -- I wasn't there.
+L67606 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I know what that's like.
+L67605 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Everybody that she plays with dies.
+L67604 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ She want to play?  Fine.  I can play.
+L67603 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Forgive me for askin', son, and I don't mean to belabor the obvious, but why is it that you've got your head so far up your own ass?
+L67516 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Well, hell, son, it's got a certain ring to it, I'll say that.
+L67515 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I don't think it's funny.
+L67487 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ I don't son, but I got the minority opinion.
+L67486 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You think I --
+L67469 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Somethin', though.
+L67468 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I don't know.
+L67467 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ What is it you got between you?
+L67466 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ She knows where I live and breathe. She's coming after me.
+L67465 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ You sure got real conclusive ways of demonstrating that.
+L67464 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I got tired of being played with.
+L67463 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ No, sir.  You won't.  There's smoke off yonder on the horizon.  They're gonna want your badge.
+L67462 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Nothin'  I'll be okay, pop.
+L67461 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ What's goin' down, son?
+L67408 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Hell yes!  Couldn't get it outta my head for years.  Still can't. Nice little kids -- nice husband, wasn't porkin' around -- no financial problems.  One day -- outta the clear blue sky -- she does 'em.  All of 'em.  Used a knife. He got for a wedding present. Didn't even deny it.  Sweet as honey.  Said she didn't know why she done it.
+L67407 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Do you remember a case -- 1956 -- Hazel Dobkins?
+L67406 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ No, sir.  They never even got a statement from her.
+L67405 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Was she ever suspect?
+L67404 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ I came in here to jack off the damn machine.  One dead psychology professor. Noah Goldstein.  Dr. Noah Goldstein. And guess what?  He was her counselor.
+L67403 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What are you doing here, Pop?
+L67402 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Ain't you go nothin' better to do than to come in here and jack off the damn machine?
+L67333 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ It's my first drink in three months. That okay with you, pop?  She doesn't know me.  I never saw her before Gus and I talked to her.
+L67332 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ What you doin', son?
+L67164 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Hallelujah.
+L67163 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ She misses me.
+L67162 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ How'd it go, son?
+L67096 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ I'm a smart sonofabitch.  I just hide it.
+L67095 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I didn't know you knew who Picasso was, Gus.
+L67094 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Ain't that cute?  They got his and her Pig-assos, son.
+L67086 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ They're executives.  They're nervous about everything.
+L67085 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Talcott doesn't usually show up at the office 'till after his 18 holes. What are they nervous about?
+L67060 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Not now he don't.
+L67059 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Before your time, pop.  Mid-sixties.  Five or six hits. He's got a club down in the Fillmore now.
+L67058 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ I never heard of him.
+L67057 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Rock and roll, Gus.  Johnny Boz.
+L67056 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Who was this fuckin' guy?
+L67400 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ Go stick your head in a tub of ice water.  See where she leads.
+L67399 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ You're already gettin' psychological input, son.
+L67393 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ He looks a little shrunk, that's all.
+L67392 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ You look like dogshit.
+L67372 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ Yeah.  I know.
+L67371 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ He ain't that way.  He's got heart.
+L67370 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ Sometimes I think he started banging her just to get himself off the hook with Internal Affairs.
+L67369 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Maybe it's for old-time's sake.
+L67347 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ Maybe she did, Gus.  Maybe she grew herself an Afro and learned a left hook and put shoe polish on her face.  Let's polygraph her again and ask her about it.
+L67346 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Not unless she got up in the ring and turned into one mean sonofabitch.
+L67068 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ She's 54 years old and weighs 240 pounds.
+L67067 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Maybe the maid did it.
+L67744 +++$+++ u3886 +++$+++ m257 +++$+++ THE WOMAN +++$+++ She said she didn't know herself, just sort of did it on impulse.  The razor just happened to be there.
+L67743 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ What was the motive?
+L67106 +++$+++ u3886 +++$+++ m257 +++$+++ THE WOMAN +++$+++ You're looking for Catherine, not me.
+L67105 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Were you with him last night?
+L67102 +++$+++ u3886 +++$+++ m257 +++$+++ THE WOMAN +++$+++ Is he dead?
+L67101 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ When was the last time you saw John Boz?
+L67100 +++$+++ u3886 +++$+++ m257 +++$+++ THE WOMAN +++$+++ What do you want?
+L67099 +++$+++ u3882 +++$+++ m257 +++$+++ GUS +++$+++ Homicide.
+L67679 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Yeah.  But you didn't tell me to stay away from her car.
+L67678 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ I told you to stay away from Tramell.
+L67677 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Gus and I talked to her at Tramell's house.  All we did was write her name down.
+L67676 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ You knew her, didn't you?
+L67674 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ Don't fuck with me, Nick.  I don't need a reason to put your ass in a sling.
+L67673 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I don't think she meant to go off the hill, do you?
+L67672 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ You're driving around North Beach for no particular reason and this car won't get out of the way --
+L67671 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ It was an accident.
+L67670 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ Tell me again.  I want to hear you say it again.
+L67541 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ You don't but it, do you?  She knew nobody would but it.  She knew I'd say she did it.  And she knew nobody would buy it.
+L67540 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ First you've got her buying your file.  Now you've got her killing Nilsen.  Forget her, willya?  Go someplace.  Sit in the sun.  Get away from this goddamn fog.  Get her out of your system.
+L67539 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Catherine Tramell.  It's part of her game.
+L67538 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ Beth?  Now you've got Beth killing people?
+L67537 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ She killed him.
+L67536 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ I.A.'s going to talk to you more about Nilsen.  They're handling the investigation, we're not. Stay in touch with Dr. Gardner, it'll help on the evaluation.
+L67509 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ No.
+L67508 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ I'll ask you once, Nick -- for the record did you kill him?
+L67398 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What about me?
+L67397 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ Gus -- go over to Berkeley. Harrigan -- find out what else she's published.  Andrews -- get the files on her parents' accident. Carbon Beth on everything.  I want some psychological input on this Andrews and Harrigan go; Nick is left there with Gus.
+L67349 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ Fuck you, too Nick.
+L67348 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Fuck you, Phil.
+L67345 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ How you're saying she killed her parents?  Did she kill Bobby Vasquez, too?
+L67344 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ How did they die?  Was there an investigation?
+L67343 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ Her parents died in an accident. I don't care what else she's written.  What are you -- a book critic?
+L67342 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Come on, Phil.  You're not gonna let this slide.  What about her parents?  What about what else she's published?  At least we should get the stuff to see if we find anything else that's an amazing real-life coincidence.
+L67341 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ How the fuck do you know?  What is it with you and this broad anyway?
+L67340 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ She knew she could beat it.  That's why she asked to take it.
+L67339 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ What now what? Now nothing.  She passed the polygraph.  That's it.
+L67338 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Now what?
+L67337 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I'm sure.
+L67336 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ You sure?
+L67329 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ And you volunteered.
+L67328 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ She didn't ask me for the ride. She asked anybody.
+L67327 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ What is all this "Nick" stuff -- Nick would you like a cigarette. Nick can you give me a ride.
+L67196 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ We bring her in for questioning.
+L67195 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ So what do we do -- nothing?
+L67178 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ You forgot her degree in literature. She's a writer.  She published a novel last year under a pen name. Do you want to know what it's about?
+L67177 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ I love it.  She's got a hundred million bucks.  She fucks fighters and rock and roll stars.  And she's got a degree in screwing with peoples' heads.
+L67174 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ Formerly engaged to Roberto Vasquez, deceased --
+L67173 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Are you kidding me?
+L67090 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ I said keep it.
+L67089 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Do you want me to work the case, Phil, or do you want me to --
+L67088 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ Keep your three o'clock.
+L67072 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ What was it?
+L67071 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ He left the club with his girlfriend about midnight.  That's the last time anybody saw him.
+L67265 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ Maybe that's what you're counting on to get you off the hook.
+L67264 +++$+++ u3885 +++$+++ m257 +++$+++ TALCOTT +++$+++ We know you're not stupid, Ms. Tramell.
+L67199 +++$+++ u3885 +++$+++ m257 +++$+++ TALCOTT +++$+++ It's yours.
+L67198 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ She was the last person seen with the guy -- I'll take the responsibility.
+L67197 +++$+++ u3885 +++$+++ m257 +++$+++ TALCOTT +++$+++ She's got enough money to burn this whole department down.
+L67172 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ Catherine Tramell.  Age 30.  No priors, no convictions.  Double major, magnum cum laude, Berkeley, 1980.  Literature and Psychology. Daughter, sole survivor -- Marvin and Elaine Tramell, killed in a boating accident, 1978, Catherine Tramell sole heir.  Estimated assets $110 million.
+L67171 +++$+++ u3885 +++$+++ m257 +++$+++ TALCOTT +++$+++ On what basis?
+L67170 +++$+++ u3883 +++$+++ m257 +++$+++ LT. WALKER +++$+++ She's a suspect.
+L67858 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ He was shot.
+L67857 +++$+++ u3886 +++$+++ m257 +++$+++ THE WOMAN +++$+++ He died -- about five or six years ago.
+L67758 +++$+++ u3886 +++$+++ m257 +++$+++ THE WOMAN +++$+++ Only if you're making it.
+L67757 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Can there be some mistake?
+L67756 +++$+++ u3886 +++$+++ m257 +++$+++ THE WOMAN +++$+++ No Lisa Anderson, detective.
+L67755 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Can you check again?
+L67754 +++$+++ u3886 +++$+++ m257 +++$+++ THE WOMAN +++$+++ Yes I did.
+L67753 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Did you check all four years?
+L67752 +++$+++ u3886 +++$+++ m257 +++$+++ THE WOMAN +++$+++ Anderson.  Jack W. Donald M.  I'm sorry.  No Lisa.
+L67742 +++$+++ u3886 +++$+++ m257 +++$+++ THE WOMAN +++$+++ Fourteen.  We seal juvenile records until they're deceased.  That's why you didn't find it in your computer.
+L67741 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ How old was she when this happened?
+L67108 +++$+++ u3886 +++$+++ m257 +++$+++ THE WOMAN +++$+++ I'm Roxy.  I'm her -- friend.
+L67107 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Who are you?
+L67104 +++$+++ u3886 +++$+++ m257 +++$+++ THE WOMAN +++$+++ You wouldn't be here otherwise, would you?
+L67103 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ Why do you think he's dead?
+L67098 +++$+++ u3886 +++$+++ m257 +++$+++ THE WOMAN +++$+++ Are you vice?
+L67097 +++$+++ u3884 +++$+++ m257 +++$+++ NICK +++$+++ We're sorry to disturb you, we'd like to ask you some --

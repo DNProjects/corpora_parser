@@ -1,0 +1,615 @@
+L534504 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ You're not going in there -- !
+L534503 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ But, as you are so fond of observing, Doctor, I'm not human.
+L534502 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Are you out of your Vulcan mind? No human can tolerate the radiation loose in there!
+L534064 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Would you like to tell me whose are the <u>right</u> hands, my cold-blooded friend? Are you in favor of these experiments?
+L534063 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ I don't dispute that in the wrong hands --
+L534062 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Not anymore! Now you can do both at the same time! According to myth, the earth was created in six days. Watch out: here comes Genesis; we'll do it for you in six minutes --
+L534061 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ I was not attempting to evaluate its moral implications, Doctor. As a matter of cosmic history, it has always been easier to destroy than to create --
+L534060 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ It's new -- have you any idea what you're saying?
+L534059 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ It would destroy such life in favor of its new matrix --
+L534058 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ But dear Lord, are we intelligent enough to -- Suppose, this thing were used where life already exists?
+L534582 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Young. I feel young, Doctor.
+L534581 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ You okay, Jim? How do you feel?
+L534401 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ I'm taking this bunch to sick bay.
+L534400 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Hours instead of days, Saavik; now we have minutes instead of hours --
+L534388 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ We each face death every day we're alive, Saavik.
+L534387 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Until now.
+L534381 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ And almost got tossed out of the Academy...
+L534380 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Lieutenant, you are looking at the only Starfleet cadet who ever beat the no-win scenario --
+L534372 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ It's like the Garden of Eden...
+L534371 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Now that's what I call a meal.
+L534336 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Our first order of business is survival.
+L534335 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ How can you think of food at a time like this?
+L534334 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Do you have anything to eat? I don't know about anyone else, but I'm starved.
+L534272 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Then this will be your big chance to get away from it all.
+L534271 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ But what if they went -- nowhere?
+L534270 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Where <u>they</u> went. Saavik.
+L534269 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Go? <u>Where</u> are we going?
+L534224 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ This one looks like a Steward. They're not warm, but rigor hasn't set in. This didn't happen all that long ago, Jim.
+L534223 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ They even killed the galley chief.
+L534213 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ I can spare me...
+L534212 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ He's BEEN there and hasn't found what he wants. Can you spare someone? There may be people hurt.
+L534211 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Khan could be down there!
+L534194 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I got beat. We're only alive because I knew something about these ships that he didn't.
+L534193 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ There may still be time... you gave as good as you got.
+L534192 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ At the moment that question takes a back seat to preventing him from laying his hands on it. You said it yourself; we're talking about a bang that would re-arrange the universe...
+L534191 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Doctors lose patients sometimes. Damn. I'm <u>still</u> in the dark: How'd he know about Genesis?
+L534040 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Computer. Request security procedure and access to Project Genesis Summary.
+L534039 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ I've got the sick bay ready. Will someone please tell me what is going on?
+L533983 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ As a physician you of all people should appreciate the danger of re-opening old wounds.
+L533982 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ It never rains but when it pours --
+L533886 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ The inspection will continue once we're underway, Doctor.
+L533885 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ What about the rest of the inspection, Admiral?
+L533861 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Ah.
+L533860 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Shore leave, Admiral.
+L533791 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ I'm your doctor and I'm your friend, Jim. Get back your command. Get it back before you really do grow old. Before you turn into part of this collection.
+L533790 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Don't mince words, Bones; tell me what you really think.
+L533789 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ From yourself, Admiral.
+L533788 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ And who am I hiding from?
+L533787 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Bull. You're hiding -- hiding behind the rules and regulations --
+L533786 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Spare me your notions of poetry, please. We all have our assigned duties and...
+L533785 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ What DO you want? Damn it, why isn't there a girl here? You know this has nothing to do with age. This is about you flying a goddamn computer console when you wanna be out hopping Galaxies.
+L533784 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Bones, I don't want to be lectured.
+L533783 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Damn it, Jim, what the hell's the matter? Other people have birthdays. Why're we treating yours like a funeral?
+L533782 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Thank you.
+L533781 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Say thank you.
+L533780 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Amazing! I don't know what to say --
+L533779 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Slide them down your nose. Now look at me over the top. And you read printed matter through the bottom.
+L533778 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Exactly. Happy birthday.
+L533777 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ But I'm allergic to Retlax.
+L533776 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ For your eyes. For most patients of your age, I generally administer Retlax Five to restore flexibility of the lens.
+L533775 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Uh -- what are they?
+L533774 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Four hundred years old. You don't find many with the lens still intact.
+L533773 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Cheers. Bones, these are... charming.
+L533772 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ More antiques for your collection -- Cheers!
+L533771 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I'm almost afraid to. What did you bring me, contraband Klingon --
+L533769 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Takes the stuff a while to ferment. Gimme.
+L533768 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Twenty-two, eighty-three...
+L533767 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ I only use it for medicinal purposes. Don't be a pring...
+L533766 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Romulan Ale! Bones, you know this stuff is illegal --
+L533765 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ 'Beware Romulans bearing gifts.' Happy Birthday...
+L533764 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Bless me, doctor; and what beams you into this neck of the woods?
+L533717 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ They'll learn. Galloping about the cosmos is a game for the young, doctor.
+L533716 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ Wouldn't it be easier to put an experienced crew back on the ship?
+L533704 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I'm not a drama critic.
+L533703 +++$+++ u2932 +++$+++ m193 +++$+++ BONES +++$+++ That's all you have to say?
+L533702 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Physician, heal thyself.
+L533939 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ I'm sorry you feel that way, Doctor. Admiral Kirk's orders are confirmed. Please prepare to deliver Genesis to us upon our arrival. Reliant out.
+L533938 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ This is completely improper, Commander Chekov. I have no intention of allowing Reliant or any other unauthorized personnel access to our work or materials.
+L533934 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ I have my orders.
+L533933 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ But Genesis is a civilian project, under my control --
+L533932 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ The order comes from Starfleet command, Dr. Marcus, direct from the General Staff.
+L533931 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ <u>Will you please be quiet</u>!  Commander Chekov, this is completely irregular. Who gave the order you are quoting? Who gave the order?
+L533930 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ We have received new orders. Upon our arrival at Regula I, all materials of Project Genesis will be transferred to this ship for immediate testing at Ceti Alpha VI.
+L533929 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ I still don't under --
+L533928 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ All went well. Nothing has happened. Ceti Alpha VI has checked out.
+L533927 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ En route? Why? We weren't expecting you for another three months. Has something happened?  <u>Has something happened</u>? Do you read us?
+L533926 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ Dr. Marcus... good. We're en route to you and should be there in three days.
+L533925 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ Commander, we are receiving. This is Regula I. Go ahead.
+L533924 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ ... come in, please. This is Reliant calling Regula I. Repeat. This is USS Reliant --
+L534580 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Something Spock was trying to tell me. On my birthday.
+L534579 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ Is that a poem?
+L534578 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ It is a far far better thing I do than I have ever done before... a far better resting place I go to than I have ever known...
+L534358 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ The matrix formed in a day. The life forms grew later -- at a wildly accelerated rate. Can I cook or can't I?
+L534357 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ You did this -- in a day?!
+L534349 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ How can you ask me that? Were we together? Where we going to be? You had your world and I had mine. I wanted him in mine, not chasing through the universe with his father.
+L534348 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Why? Why didn't you tell me?
+L534347 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ David was right, wasn't he? It's just to keep them busy.
+L534049 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ Stage One of our experiments was conducted in the labora- tory. Stage Two of the series will be attempted in a lifeless underground; Stage Three will involve the process on a plane- tary scale. What follows is a computer projected simulation of Stage Three. Please watch closely.
+L534048 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Wait --
+L533997 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ Jim please --
+L533996 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Carol!
+L533995 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ ... Please help us, Jim... won't let them have... without proper... repeat... on whose authority...
+L533994 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ What order? Who's taking Genesis?
+L533993 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ ... see you but can't hear. Did you... order...?
+L533992 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Taking Genesis? Who? Who is taking Genesis?
+L533991 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ ... taking Genesis away from us...
+L533990 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Repeat... what's wrong? What's wrong?
+L533989 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ ... Can't read you... repeat...
+L533988 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Message breaking up, Carol. What's wrong? What's wrong?
+L533987 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ Jim... read me? Can you read me?
+L534343 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ This is just to give us something to do, isn't it?  Come on.
+L534342 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ David. Please.
+L534340 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ But we can't just sit here -- !
+L534339 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ This? It took the Starfleet corps of engineers ten months in space suits to tunnel out all this. What we did in there -- we did in a day. David, why don't you show Dr. McCoy and the Lieutenant our idea of food.
+L534328 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ I don't understand. Who's responsible for all this? Who is Khan?
+L534327 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ So are we, it looks like.
+L534285 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ You do that and you'll have murdered your father.
+L534284 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ Go back. I'm going to kill him.
+L534283 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ Jim --
+L534282 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ Mother, go back!
+L534281 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ David --
+L533948 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ Starfleet has kept the peace for a hundred years, I cannot and will not subscribe to your interpretation of this event.
+L533947 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ I've tried to warn you. Scientists are always pawns of the military --
+L533944 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ Mistake? We're all alone here. They waited until everyone was on shift-leave to do this. Reliant is supposed to be at our disposal, not vice-versa.
+L533943 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ Will you please be quiet! We must have order here.  This has to be some sort of mistake.
+L533921 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ Who --
+L533920 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ I don't think there's another piece of information we could squeeze into the memory banks. Next time, we'll design a bigger one.
+L533919 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ Does that about do it?
+L533761 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ Every time we have dealings with Starfleet, I get nervous.  We're dealing with something that COULD be perverted into a dreadful weapon. Remember that overgrown boy scout you used to hang out with? That's exactly the --
+L533760 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ Maybe...
+L533759 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ Par for the course... you teaming up with me for bridge after dinner?
+L533758 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ Thanks a lot. No respect from my offspring --
+L533757 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ Well, don't have kittens. Genesis is going to work. They'll remember  you in a wreath with Newton, Einstein, Surak...
+L533756 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ I know, I know...
+L533755 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ Come on, Mother, that's just the military mentality. Never put off tomorrow what you can put off today. If there's one atom of life...
+L533754 +++$+++ u2933 +++$+++ m193 +++$+++ CAROL +++$+++ And bored. I know. But maybe it IS something they can...
+L533753 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ How can you let them pull that stuff on you? They're just lazy.
+L534249 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ Marooned on Ceti Alpha V. He's completely mad, Admiral. He blames you for the death of his wife...
+L534248 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ He left us.  We were no longer of use. SAAVIK Where is  the Reliant crew? Dead?
+L533818 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ What do you want with us? I demand --
+L533817 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ A criminal, Captain -- a product of the late 20th Century genetic engineering --
+L533810 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ Never mind! Hurry!
+L533809 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ But the child --
+L533807 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ What's the matter -- ?
+L533806 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ <u>Botany Bay</u> -- oh no!
+L533805 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ Ssssh!
+L533804 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ I told you! I told you I saw a --
+L533801 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ There's an air-lock.
+L533800 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ I saw it -- !
+L533799 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ You're crazy -- !
+L533794 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ I can hardly see --
+L533793 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ Captain, this is the garden spot of Ceti Alpha VI --
+L533792 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ Are you sure these are the coordinates?
+L533748 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ You know what she'll say...
+L533747 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ All right, let's get on the Comm-pic to Doctor Marcus. Maybe it's something we can transplant.
+L533746 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ I suppose it <u>could</u> be a particle of preanimate matter caught in the matrix...
+L533745 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ Damn! Are you sure? Maybe the scanner's out of adjustment --
+L533744 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ We've picked up a minor energy flux reading on one dyno scanner.
+L533743 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ Don't tell me you've got something.
+L533942 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ You realize, sir, that they will attempt to contact Admiral Kirk and confirm the order.
+L533941 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Well done, Commander.
+L533915 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ I see. Helmsman?
+L533914 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ To Doctor Marcus, the civilian director of the experiments on Space Laboratory Regula I.
+L533913 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Then to whom do you report directly regarding Genesis?
+L533912 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ I would think so, sir. He's on the Fleet General Staff.
+L533911 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Umm. And would Admiral Kirk have access to such information?
+L533910 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ Beyond what I told you, sir, it is classified information.
+L533835 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ There is some pain at first, I am told, and then the effects are quite benign -- until the end. That was what I learned from watching my wife.
+L533834 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ Khan, listen to me! Captain Kirk was only doing his duty! You --
+L533827 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ And I'll wager he never told you about his shipmate, the beautiful and courageous Lieutenant McGiver, who gave up everything to join me in exile. OUT OF LOVE. And see how <u>Admiral Kirk</u> requited her devotion -- She's dead as earth!
+L533826 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ Captain Kirk was your host! You repaid his hospitality by trying to steal his ship and murder him.
+L533825 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ <u>This is Ceti Alpha V</u>! Ceti Alpha VI exploded six months after we were left here. The shock shifted the orbit of <u>this</u> planet and everything was laid waste. <u>Admiral</u> Kirk never bothered to check on our progress. It was only the fact of my genetically engineered intellect that enabled us to survive! On earth, two hundred years ago, I was a prince, with power over millions -- now, like Prometheus I have been left by Admiral Kirk to digest my own entrails.
+L533824 +++$+++ u2934 +++$+++ m193 +++$+++ CHEKOV +++$+++ You lie! On Ceti Alpha V there was life, a fair chance to --
+L534567 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ Mainly.  And also that I'm proud -- very proud -- to be your son.
+L534566 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Is that what you came here to say?
+L534565 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ I was wrong about you. And <u>I'm</u> sorry.
+L534564 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I am truly sorry.
+L534563 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ So am I. My friends were killed, too.
+L534562 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I'm trying, David.
+L534561 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ But good words. That's where ideas begin. Maybe you should listen to them.
+L534560 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ It was just words.
+L534559 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ You knew enough to tell Saavik that how we face death is at least as important as how we face life --
+L534558 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Not like this -- no. I haven't faced death, I cheated death. I tricked my way out of death and patted myself on the back for my ingenuity. I know nothing.
+L534557 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ That makes two of us.  Lieutenant Saavik was right: you never have faced death --
+L534556 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I didn't expect anything.
+L534555 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ No. I -- I guess I'm not what you expected.
+L534554 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I suppose I was.  I poured a drink. Would you like it?
+L534553 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ Are you running away from me?
+L534552 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Uh, no...  I should be on the bridge.
+L534551 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ I don't mean to intrude.
+L534496 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ You can't!
+L534495 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ We'll beam aboard and stop it --
+L534494 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ We encoded four minutes --
+L534493 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ How soon --
+L534492 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ He's on a build up to detonation!
+L534491 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ What?
+L534490 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ It's the Genesis Wave!
+L534330 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ We appear to have plenty of time.
+L534329 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ It's a long story.
+L534290 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ She's making it up! My father was Professor --
+L534289 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Why didn't you tell me?
+L534280 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ I'm Doctor Marcus!
+L534279 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Where's Dr. Marcus --
+L534278 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ <u>We were still there</u>, you dumb bastard! We could hear the screams all the way to the transporter room --
+L534277 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I'm Admiral Kirk...
+L534370 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ I don't know.
+L534369 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ What are <u>you</u> looking at?
+L534368 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Oh, I believe it.
+L534367 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ Don't you believe it.
+L534366 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ The Admiral's son.
+L534365 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ What are you looking at?
+L534313 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Only half of you would get there.
+L534312 +++$+++ u2935 +++$+++ m193 +++$+++ DAVID +++$+++ Let go -- he can't -- !
+L534462 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ I shall avenge you --
+L534461 +++$+++ u2936 +++$+++ m193 +++$+++ JOACHIM +++$+++ Yours... is... the superior...
+L534451 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Raise the shields...
+L534450 +++$+++ u2936 +++$+++ m193 +++$+++ JOACHIM +++$+++ Inoperative.
+L534449 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Tactical!
+L534446 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ <u>Full power damn you</u>!
+L534445 +++$+++ u2936 +++$+++ m193 +++$+++ JOACHIM +++$+++ No sir! We have Genesis -- Whatever you want --
+L534426 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Rake her.
+L534425 +++$+++ u2936 +++$+++ m193 +++$+++ JOACHIM +++$+++ We'll lose them if they go in there.
+L534363 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Visual --
+L534362 +++$+++ u2936 +++$+++ m193 +++$+++ JOACHIM +++$+++ Departing dark side, Regula.
+L534320 +++$+++ u2936 +++$+++ m193 +++$+++ JOACHIM +++$+++ Warp drive still inoperative. All other systems should be restored shortly.
+L534319 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Well?
+L534172 +++$+++ u2936 +++$+++ m193 +++$+++ JOACHIM +++$+++ Sir, we must!  We must repair the damage. Enterprise will wait; she's not going anywhere.
+L534171 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ No!
+L534170 +++$+++ u2936 +++$+++ m193 +++$+++ JOACHIM +++$+++ We can't fire, sir; they've damaged the photon controls and the warp drive. We must withdraw!
+L534169 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ At them! At them! FIRE! FIRE! Why can't you?
+L534167 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ <u>Where's the over-ride</u>??
+L534166 +++$+++ u2936 +++$+++ m193 +++$+++ JOACHIM +++$+++ They won't --
+L534165 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Raise them --
+L534164 +++$+++ u2936 +++$+++ m193 +++$+++ JOACHIM +++$+++ Sir -- our shields are dropping!
+L534099 +++$+++ u2936 +++$+++ m193 +++$+++ JOACHIM +++$+++ Locking phasers on target.
+L534098 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Careful: Not all at once. <u>The</u> <u>engine room</u>. Lock on target and prepare to fire.
+L534086 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Of course. We're one big happy fleet. Ah, Kirk, my old friend, do you know the Klingon proverb that tells us revenge is a dish that is best served cold?  It is very cold in space.
+L534085 +++$+++ u2936 +++$+++ m193 +++$+++ JOACHIM +++$+++ They're still running with shields down.
+L534084 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Let them eat static.
+L534083 +++$+++ u2936 +++$+++ m193 +++$+++ JOACHIM +++$+++ They're requesting visual communications, sir.
+L533909 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ It's not much different from Enterprise.  When I was a guest aboard her some years ago, Captain Kirk kindly allowed me to memorize her technical manuals. And now, Mr. Chekov, let us review: You say you have no details of Project 'Genesis' ?
+L533908 +++$+++ u2936 +++$+++ m193 +++$+++ JOACHIM +++$+++ Steady on course. All systems normal.
+L534318 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ KHAN!
+L534317 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Goodbye, Admiral. Oh, and don't count on Enterprise. She can't move. My next act will be to blow her out of the heavens.
+L534311 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Perhaps I no longer need to try.
+L534310 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Still, 'old friend.' You've managed to kill just about everyone else, but like a poor marksman, you keep missing the target.
+L534309 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Kirk! Kirk, you are still alive -- my old friend...
+L534163 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Here it comes. Now, Spock.
+L534162 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Time's up, Admiral...
+L534159 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I take your point. Stand by to receive our transmission.
+L534158 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ I've given you no word to keep, Admiral. In my judgment, you simply have no alternative.
+L534157 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Khan, how do I know you'll keep your word?
+L534154 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ ... to prevent an enemy from doing just what we're attempting; using <u>our</u> console to tap in a message, an order to lower Reliant's damn shields...
+L534153 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Thirty seconds...
+L534140 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ I give you sixty seconds, Admiral.
+L534139 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Give me some time to recall the data on our computers --
+L534138 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Don't play with me, Kirk, my hand is on the phaser control --
+L534137 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Genesis, what's that?
+L534135 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ That is a most intriguing offer. Typical, I must say of your sterling character. Let me think.
+L534134 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Khan, listen to me -- if its me you want, I'll have myself beamed aboard. All I ask is that you spare my crew.
+L534133 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ -- But I wanted you to know first who it was who had beaten you: I, Khan Noonian Singh, the eagle you attempted to cage forever.
+L534132 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Surely I have made my meaning plain. I mean to avenge myself upon you, Admiral. I've deprived your ship of power and when I swing round I mean to deprive you of your life --
+L534131 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ What is the meaning of this attack? Where is the crew of the Reliant?
+L534130 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ You still remember, Admiral. I cannot help but be touched. Of course, I remember you.
+L534302 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ First things first, Captain. Kill Admiral Kirk.
+L534301 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ All is well, sir. You have the coordinates to beam up Genesis...
+L534300 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Captain... We're waiting. What's the delay?
+L533823 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Admiral? He didn't tell you how <u>Admiral</u> Kirk sent seventy of us into exile on this barren sand heap with only the contents of these cargo bays to sustain us?
+L533822 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ I've never even met Admiral Kirk --
+L533821 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ Save your strength, Captain, these people have sworn to live and die at my command two hundred years before you were born. Do you mean he...  ... never told you the tale? To amuse you, Captain? Never told you how the <u>Enterprise</u> picked up the <u>Botany Bay</u>, lost in space from the year 1996, myself and the ship's company in cryogenic freeze?
+L533820 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ Listen to me -- you men and women --
+L533819 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ You are in a position to demand nothing, sir. I, on the other hand, am in a position to grant nothing. What you see is all that remains of the ship's company and the crew of the <u>Botany Bay</u>, marooned here fifteen years ago by Captain James T. Kirk.
+L533816 +++$+++ u2946 +++$+++ m193 +++$+++ TERRELL +++$+++ Chekov, who is this man?
+L533815 +++$+++ u2937 +++$+++ m193 +++$+++ KHAN +++$+++ I don't know you. But you. I never forget a face. Mister Chekov, isn't it?  I never thought to see your face again.
+L534482 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Uhura, send to Commander, Reliant: prepare to be boarded.
+L534481 +++$+++ u2942 +++$+++ m193 +++$+++ SCOTTY'S VOICE +++$+++ I'll need ten minutes, sir, 'til the radiation dissipates.
+L534210 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I'm going down to the station.
+L534209 +++$+++ u2942 +++$+++ m193 +++$+++ SCOTTY'S VOICE +++$+++ Just barely, sir.
+L534121 +++$+++ u2942 +++$+++ m193 +++$+++ SCOTTY'S VOICE +++$+++ A few shots, sir.
+L534120 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ We don't have minutes. Can you give me phaser power?
+L534119 +++$+++ u2942 +++$+++ m193 +++$+++ SCOTTY'S VOICE +++$+++ Just the batteries, sir. I can have auxiliary power in a few minutes --
+L534118 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Scotty -- what's left?
+L534006 +++$+++ u2942 +++$+++ m193 +++$+++ SCOTTY'S VOICE +++$+++ Aye, sir --
+L534005 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ We'll be going to warp speed --
+L534004 +++$+++ u2942 +++$+++ m193 +++$+++ SCOTTY'S VOICE +++$+++ Aye, sir.
+L534003 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ An emergency situation has arisen. By order of Starfleet Command, as of now, 1800 hours, I am assuming command of this vessel. Duty officer so note in the ship's log. Plot a new course: for Space Laboratory Regula I.  Mr. Scott?
+L534488 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ We'll beam aboard. Alert transporter room --
+L534487 +++$+++ u2947 +++$+++ m193 +++$+++ UHURA +++$+++ Enterprise to Reliant: you are ordered to surrender your vessel. Respond!  Nothing, sir.
+L534231 +++$+++ u2947 +++$+++ m193 +++$+++ UHURA +++$+++ I say again. This is Enterprise. Please acknowledge signal. Please --
+L534230 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Saavik, for God's sake, tell her we're all right.
+L534200 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Sensors, Captain?
+L534199 +++$+++ u2947 +++$+++ m193 +++$+++ UHURA +++$+++ ... No response, sir.
+L534127 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Do it, while we have time.
+L534126 +++$+++ u2947 +++$+++ m193 +++$+++ UHURA +++$+++ Admiral --
+L534125 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ On screen.
+L534110 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Scotty, let's have it.
+L534109 +++$+++ u2947 +++$+++ m193 +++$+++ UHURA +++$+++ Mr. Scott on discrete.
+L534095 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Spock?
+L534094 +++$+++ u2947 +++$+++ m193 +++$+++ UHURA +++$+++ I'm getting a voice message... wait ... short range band. They say their Chambers coil is shorting their COMM system.
+L534076 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Picture, Mr. Saavik.
+L534075 +++$+++ u2947 +++$+++ m193 +++$+++ UHURA +++$+++ Enterprise to Reliant. Come in, Reliant.
+L534074 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Try the emergency channels...
+L534073 +++$+++ u2947 +++$+++ m193 +++$+++ UHURA +++$+++ She's not responding...
+L533986 +++$+++ u2947 +++$+++ m193 +++$+++ UHURA +++$+++ I'm trying, sir. Stand by...
+L533985 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Uhura. Can't you augment?
+L534524 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ He'll die -- !
+L534523 +++$+++ u2941 +++$+++ m193 +++$+++ SCOTTY +++$+++ No, sir! You'll flood the whole compartment...!
+L534465 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ All right, we'll do the job with auxiliary power.
+L534464 +++$+++ u2941 +++$+++ m193 +++$+++ SCOTTY +++$+++ Admiral, I've got to take the mains off the line. The energizer's shaken loose and I can't get in there to fix her -- radiation --
+L534414 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ No promises, Mr. Scott. On your way.
+L534413 +++$+++ u2941 +++$+++ m193 +++$+++ SCOTTY +++$+++ The energizer's bypassed like a Christmas tree -- so don't give me too many bumps.
+L534180 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ He wants to kill me for passing sentence on him 14 years ago -- and he doesn't care who stands between him and his vengeance.
+L534179 +++$+++ u2941 +++$+++ m193 +++$+++ SCOTTY +++$+++ <u>WHY</u>?
+L533884 +++$+++ u2941 +++$+++ m193 +++$+++ SCOTTY +++$+++ Aye, sir.
+L533883 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Mr. Scott, the word is given.
+L533882 +++$+++ u2941 +++$+++ m193 +++$+++ SCOTTY +++$+++ Give the word, Admiral.
+L533881 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Every young boy's fancy. I seem to remember it myself.  Very well. Mr. Scott, are your engines capable of handling a minor training cruise?
+L533880 +++$+++ u2941 +++$+++ m193 +++$+++ SCOTTY +++$+++ My sister's youngest, Admiral. Crazy to get to space.
+L533879 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Midshipman, you're a tiger.
+L533859 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Oh? A wee bout of what, Mr. Scott?
+L533858 +++$+++ u2941 +++$+++ m193 +++$+++ SCOTTY +++$+++ I had me a wee bout -- but Dr. McCoy pulled me through.
+L533857 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Mr. Scott, you old space dog. You're well?
+L534390 +++$+++ u2944 +++$+++ m193 +++$+++ SPOCK'S VOICE +++$+++ Right on schedule, Admiral. Just give us your coordinates and we'll beam you aboard.
+L534389 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Spock, this is Kirk. It's two hours. Are you about ready?
+L534263 +++$+++ u2944 +++$+++ m193 +++$+++ SPOCK'S VOICE +++$+++ Not at present.
+L534262 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Meaning you can't even beam us back?
+L534260 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I read you, Captain. Let's have it.
+L534259 +++$+++ u2944 +++$+++ m193 +++$+++ SPOCK'S VOICE +++$+++ Admiral, if we go by the book, like Lieutenant Saavik, hours could seem like days.
+L534258 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Kirk to Enterprise. Damage report, Spock?
+L534187 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Best speed to Regula I. Kirk out. Scotty, I've got to ask: Any chance of getting the mains back on the line?
+L534186 +++$+++ u2944 +++$+++ m193 +++$+++ SPOCK'S VOICE +++$+++ Engine room reports auxiliary power restored. We can proceed at impulse power.
+L534185 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Yes, Spock.
+L534184 +++$+++ u2944 +++$+++ m193 +++$+++ SPOCK'S VOICE +++$+++ Admiral, this is Spock.
+L534183 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ If he hadn't, we'd be space by now.
+L534178 +++$+++ u2939 +++$+++ m193 +++$+++ PRESTON +++$+++ Aye...
+L534177 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ The word is given: warp speed.
+L534176 +++$+++ u2939 +++$+++ m193 +++$+++ PRESTON +++$+++ Is the word given?
+L533877 +++$+++ u2939 +++$+++ m193 +++$+++ PRESTON +++$+++ Oh, no, sir! This is the finest engine room in the whole Star --
+L533876 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Oh do you? Have you any idea, Midshipman Preston, how many times I've had to listen to Mr. Scott on the Comm, telling me his troubles? Have you any idea the ribbing I've had to endure in the officers' mess to the effect that the Enterprise is a flying death trap?
+L533875 +++$+++ u2939 +++$+++ m193 +++$+++ PRESTON +++$+++ I believe you'll find everything shipshape, Admiral.
+L533866 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I see. Well, shall we start with the engine room?
+L533865 +++$+++ u2939 +++$+++ m193 +++$+++ PRESTON +++$+++ Yes, SIR.
+L533864 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Your first training voyage, Mr. Preston?
+L533863 +++$+++ u2939 +++$+++ m193 +++$+++ PRESTON +++$+++ Midshipman First Class Peter Preston, engineers mate, SIR.
+L533862 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ And who is this?
+L534535 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ I have been -- and always will be -- your friend... Live. Long. And. Prosper.
+L534534 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Spock...!
+L534533 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ I never took the <u>Kobayashi Maru</u> test -- until now. What do you think of my solution?
+L534532 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Or the one.
+L534531 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ ... the good of the few...
+L534529 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Yes --
+L534528 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ The ship -- out of danger?
+L534527 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Spock!
+L534471 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ He's intelligent, but not experienced. His pattern indicates two dimensional thinking...
+L534470 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ He won't break off now. If he followed me this far he'll be back. But from where...?
+L534469 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Sporadic energy readings port side, aft. Could be an impulse turn.
+L534437 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Uhura, patch me in --
+L534436 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Admiral, they're reducing speed.
+L534424 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Steady as you go...
+L534423 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Estimating nebula penetration in two minutes. Reliant is closing.
+L534421 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Best speed, Scotty...
+L534420 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ I think we can guarantee she'll follow us, Mr. Saavik. Remind me to explain to you the concept of human ego.
+L534412 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Scotty, can we make it inside?
+L534411 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ She can out-run us and out-gun us. But there is the Mutara Nebula at 153 mark four.
+L534410 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Uh oh.
+L534406 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Best we could do in two hours.
+L534405 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ That's it?
+L534404 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Not much, Admiral. We have partial main power...
+L534403 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ What IS working around here?
+L534219 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Be careful, Jim...
+L534218 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Establish a parking orbit around the station and send me a complete damage report when you've talked with Mr. Scott.
+L534217 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Aye sir --
+L534216 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ All right, join the party. Mr. Spock, the ship is yours.
+L534208 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Engine room... Scotty, do we have enough power for the transporters?
+L534207 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ A distinct possibility.
+L534206 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Reliant could be hiding behind that rock.
+L534205 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Regula is class "D'. It consists of various remarkable ores. Essentially, a great rock in space.
+L534204 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ ... Blind as a Tiberian Bat. What do you make of the plantoid beyond?
+L534203 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Affirmative, Admiral.
+L534202 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ And no way of knowing if Reliant is still in the area...
+L534201 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Scanners and sensors still inoperative. There's no way to tell what's  inside the station.
+L534156 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Wait for my signal, Spock -- too soon and he'll have time to figure it out and raise them again.
+L534155 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Let's hope he hasn't changed the combination. He's quite intelligent...
+L534152 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ The prefix code is 16309. All commands from each Starship bridge are relayed electronically; each ship has its own prefix combination code...
+L534151 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ You've got to learn WHY things work on a Starship.  It's coming through now, Khan...
+L534146 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ It's all we've got.
+L534145 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ The prefix code?
+L534142 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ At least we know he hasn't got it. Just keep nodding as though I'm giving orders. Saavik, punch up the data charts of Reliant's command console -- hurry...
+L534141 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Admiral, you can't give him Genesis...
+L534123 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Who the <u>hell</u> are they?
+L534122 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Not enough against their shields.
+L534116 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Too late --
+L534115 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Visual!  Mr. Sulu, divert everything to the phasers --
+L534114 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ One thing is certain; we cannot escape on auxiliary power.
+L534113 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ WHO? Who knew just where to hit us? And <u>why</u>?
+L534112 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ They knew just where to hit us.
+L534101 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Raise shields! Energize phasers, stand by to --
+L534100 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Their coil emissions are normal... Wait: their shields are going up. They're locking phasers -- !
+L534080 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ It would explain a great many things --
+L534079 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Is it possible their COMM system has failed -- ?
+L534072 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Chekov's on Reliant, isn't he?
+L534071 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ What's she doing here?
+L534066 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Really, Dr. McCoy; you cannot ban the acquisition of knowledge because you distrust the moral implications of what you learn. Logic suggests --
+L534065 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Gentlemen, this isn't --
+L534057 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ The tape was made a year ago. I can only assume they've reached Phase Two by now --
+L534056 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Have they proceeded with their experiments?
+L534055 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ The power of creation --
+L534054 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ It literally is Genesis...
+L534045 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Yes.
+L534044 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Carol Marcus --
+L534037 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ It might help my analysis if I knew what Genesis was.
+L534036 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Give up Genesis, she said. What in God's name does that mean? Give it up to whom?
+L534035 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Twelve hours and forty-three minutes, present speed.
+L534034 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ How far?
+L534033 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ There are two possibilities, sir they are unwilling to respond, they are unable to respond.
+L534028 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ I'd best talk with Mr. Scott, first so that he may, in his own words, explain the situation to his cadets.
+L534027 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Will you accompany me to the bridge?
+L534025 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Or the one.
+L534024 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ That is wise. In any case, were I to invoke logic, logic clearly dictates that the needs of the many outweigh the needs of the few.
+L534023 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I would not presume to debate you.
+L534022 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ I was going to remind you of nothing, least of all that which you know well.  Your mistake, if I may be so bold, was promotion. Commanding a Starship is your first best destiny. Anything else is a waste of material.
+L534021 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ You are going to remind me that logic alone dictates your actions.
+L534020 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ You proceed from a false assumption. I am a Vulcan. I have no ego to bruise.
+L534019 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ But it may be nothing; garbled communications. Why don't you...
+L534018 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Excuse my presumption, but I do not agree. As a teacher on a training mission, I am content to command a Starship. If we are to go on actual duty, it is clear that the senior officer aboard must assume command.
+L534017 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ That won't be necessary: just take me to Regula I.
+L534016 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Like all living beings, Admiral each according to his gifts. The ship is yours.
+L534015 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I told Starfleet all we had was a boatload of children but we're the only ship in the quadrant. Spock: those cadets of yours -- how good are they? How will they respond under real pressure?
+L534014 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Regula I is a scientific research laboratory, if memory serves...
+L534013 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Something may be wrong at Regula I. We've been ordered to investigate.
+L533898 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ To be sure, Captain.
+L533897 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ There's a first time for everything, Admiral.
+L533856 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Yes, we've been through death and life together.
+L533855 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Welcome aboard, Admiral. I believe you know my trainee crew. Certainly they have come to know you.
+L533854 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Permission to come aboard, Captain?
+L533734 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Home.
+L533733 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ The Enterprise. I must check in before your inspection. And you?
+L533732 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Hrummm... and where are you off to, now?
+L533731 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ None of which I am consciously aware -- except, of course, happy birthday -- surely the best of times.
+L533730 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ 'It was the best of times, it was the worst of times...' Message, Spock?
+L533729 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ I know of your fondness for antiques.
+L533728 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Than you. Yes, I see that. By the way, thank you for this.
+L533727 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ She's half Romulan, Jim. The admixture makes her more volatile than -- me, for example.
+L533726 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ So you said at the time. Speaking of which, your prot‚g‚'s first rare -- a trifle emotional --
+L533725 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Yours was not a solution which would have occurred to a Vulcan mentality.
+L533724 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ It had the virtue of never having been tried.
+L533723 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ The <u>Kobayshi Maru</u> scenario frequently wreaks havoc with students and equipment.  As I recall you took the test three times yourself. Your final solution was, shall we say, unique?
+L533722 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ They destroyed the simulator room and you with it.
+L533721 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ I am understandably curious.
+L533720 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I assume you are loitering here to learn what efficiency rating I plan to give your cadets.
+L534266 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Uhura, if you don't hear from us, there won't be anybody behind. Kirk out.  You gentleman can remain here, or...
+L534265 +++$+++ u2948 +++$+++ m193 +++$+++ UHURA'S VOICE +++$+++ Sir -- we won't leave you behind...!
+L534264 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Captain Spock, if you do not hear from us within <u>one hour</u> your orders are to restore what power you can, take the Enterprise to the nearest Star Base and alert Starfleet command when you are out of jamming range.
+L534000 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Damn. Alert Starfleet Headquarters. I want to talk with Starfleet Command.
+L533999 +++$+++ u2948 +++$+++ m193 +++$+++ UHURA'S VOICE +++$+++ Transmission jammed at the source, sir.
+L533998 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Uhura! What's happening? Damn it...
+L533981 +++$+++ u2948 +++$+++ m193 +++$+++ UHURA'S VOICE +++$+++ Yes, sir.
+L533980 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ In my quarters, Uhura.
+L533979 +++$+++ u2948 +++$+++ m193 +++$+++ UHURA'S VOICE +++$+++ I have an urgent CommPic from Space Lab Regula I for the Admiral. Dr. Carol Marcus.
+L533978 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Kirk here.
+L534573 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Aye, sir --
+L534572 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Yes, well, why don't you show him around and...
+L534571 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Good, I believe you already know my, uh, son --
+L534570 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Aye, sir. On course to Ceti Alpha. All is well.
+L534569 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ As you were, Mr. Saavik.
+L534568 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Admiral on the bridge!
+L534549 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Dismiss the company.
+L534548 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Understood, sir.
+L534547 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I'll be in my quarters if needed, but I would prefer...
+L534546 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Aye, sir.
+L534545 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ After you dismiss the company, you will take the watch. Set course for Ceti Alpha V and we'll pick up survivors.
+L534515 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Distance from Reliant...
+L534514 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Three minutes, thirty seconds.
+L534513 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Time!
+L534509 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Engine room! What's happening?!
+L534508 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Two minutes, ten seconds.
+L534507 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Time from my mark...
+L534500 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Aye, sir.
+L534499 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Saavik, get us out, best speed!
+L534480 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Mr. Scott, can you get the mains back on line?
+L534479 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Power levels quite low, sir.
+L534478 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Cease fire. Look sharp.
+L534474 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Descend ten thousand meters. Stand by photon torpedoes.
+L534473 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ All stop, sir.
+L534472 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Mr. Saavik, all stop.
+L534457 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ At what.
+L534456 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Hold your course. Look sharp...
+L534434 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ They just don't want us going in there.
+L534433 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ That was close --
+L534397 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ '... no uncoded messages on an open channel...'
+L534396 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Regulation 46-A: 'If transmissions are being monitored during battle...'
+L534393 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Come, come, Lieutenant, you of all people go by the book. Hello, Spock. You remember Dr. Marcus...
+L534392 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ But the damage report -- we were immobilized...
+L534386 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Then -- you never faced that situation -- faced death...
+L534385 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I changed the conditions of the test. I received a commendation for original thinking.  I don't like to lose.
+L534384 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ <u>WHAT</u>?
+L534383 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I reprogrammed the simulation so it was possible to rescue the ship.
+L534382 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ How?
+L534379 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ On the test, sir, will you tell me what you did? I'd really like to know.
+L534378 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Are you asking me if we are playing out that scenario now, Lieutenant?
+L534375 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ The <u>Kobayashi Maru</u>, sir.
+L534374 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ What's on your mind, Lieutenant?
+L534345 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ As your teacher Mr. Spock is fond of saying: I like to think there always are possibilities.
+L534344 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Admiral?
+L534257 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Stage Two of what?
+L534256 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ If Stage Two was completed, it was underground -- she said it was going to be underground.
+L534255 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ It doesn't make sense. These coordinates are well within Regula -- a plantoid we know to be lifeless and airless.
+L534245 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Erased...
+L534244 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ That's true, Admiral. All the memory cells have been emptied.
+L534222 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Phasers on stun. Move out.
+L534221 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Indeterminate life signs.
+L534215 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ There is no such regulation.
+L534214 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Begging the Admiral's pardon: General Order 15: 'No  flag officer shall beam into a hazardous area without armed escort.'
+L534148 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ We're finding it.  Please, <u>please</u> -- you've got to give us time -- the bridge is smashed, computers inoperative...
+L534147 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ On screen...
+L534144 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ HURRY.
+L534143 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Reliant's command...
+L534129 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Who?
+L534128 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Khan!
+L534093 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Energize defense fields.
+L534092 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ This is damned peculiar.  Yellow alert.
+L533972 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Take the test again.
+L533971 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Yes.
+L533969 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ We learn by doing, Lieutenant.
+L533968 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Humor... that is a difficult concept ... it is not logical...
+L533967 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ That was a little joke.
+L533966 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ You may ask, Lieutenant.
+L533965 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ May I ask how <u>you</u> dealt with the test?
+L533964 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ There is no correct resolution. It is a test of character.
+L533963 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ I failed to resolve the situation.
+L533962 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ You're bothered by your performance on the <u>Kobayashi Maru</u>.
+L533961 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ I did not think so.
+L533960 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ You earned it.
+L533959 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ I wish to thank you for the high efficiency rating.
+L533958 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Lieutenant, self-expression does not seem to be one of your problems.
+L533957 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ May I speak, sir?
+L533956 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ It is still regulation, Admiral.
+L533955 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Lieutenant, are you wearing your hair differently?
+L533715 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Then you have something new to think about. Carry on.
+L533714 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ As I indicated, Admiral, that thought had not occurred to me.
+L533713 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ How we deal with death is at least as important as how we deal with life, wouldn't you say?
+L533712 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ ... No, sir. It has not.
+L533711 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ A no-win situation is a possibility every commander may face. Has that never occurred to you?
+L533710 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Because... there was no way to win.
+L533709 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ And why not?
+L533708 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ I don't believe this was a fair test of my command capabilities.
+L533707 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Very well.
+L533706 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Permission to speak candidly, sir?
+L533705 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Well, Mr. Saavik, are you going to stay with the sinking ship?
+L533700 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Prayer, Mr. Saavik. The Klingons do not take prisoners.  Captain.
+L533699 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Any suggestions, Admiral?
+L534454 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Best guess, Mr. Sulu. Fire when ready.
+L534453 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Phaser lock inoperative, sir.
+L534408 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Battle stations.
+L534407 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Admiral on the bridge --
+L534196 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Try again.
+L534195 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Approaching Regula and Space Lab Regula I.
+L534174 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ <u>I did nothing</u> -- except get caught with my britches down. I must be senile. Mr. Saavik, you just keep right on quoting regulations. Meantime, let's find out what the hell is going on and see how bad we've been --
+L534173 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Sir, you did it.
+L534161 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Phasers locked...
+L534160 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Mr. Sulu, lock phasers on target and await my command...
+L534107 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Scotty!
+L534106 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ I can't get power, sir!
+L534104 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Trying, sir!
+L534103 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Mr. Sulu... The shields!
+L534088 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Visual.
+L534087 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Reliant in our section this quadrant, sir, and slowing --
+L534008 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Engage warp engines --
+L534007 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Course plotted for Regula I, Admiral...
+L534002 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Stop engines.
+L534001 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ Stop engines.
+L533850 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ You've earned it. But I'm still grateful to have you at the helm for three weeks. I don't believe these kids can steer.
+L533849 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Thank you, sir. I've looked forward to this for a long time.
+L533848 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I cut your new orders personally. By the end of the month, you'll have your first command: USS EXCELSIOR.
+L533847 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ I am delighted; any chance to go aboard Enterprise, however briefly, is always an excuse for nostalgia.
+L533846 +++$+++ u2938 +++$+++ m193 +++$+++ KIRK +++$+++ I really must thank you.
+L534542 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Honors -- hup!
+L534541 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ We commend the soul of our brother departed. We love we commit his body to the depths of space.
+L534010 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Ready, sir.
+L534009 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Prepare for warp speed.
+L533905 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Course heading, Captain?
+L533904 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ We are clear and free to navigate.
+L533900 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Aft thrusters, sir.
+L533899 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Aft thrusters, Mr. Sulu.
+L533685 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ I'll try, Captain.
+L533684 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ We're over our heads. Mr. Sulu, get us out of here.
+L533681 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Inform the Klingons we are on a rescue mission...
+L533680 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Shields activated!
+L533672 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ ... Now entering the Neutral Zone...
+L533671 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ I'm aware of my responsibilities, Mister.
+L533670 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ May I remind the Captain that if a Starship enters the zone --
+L533655 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Aye, Captain.
+L533654 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Project parabolic course to avoid entering Neutral Zone.
+L533653 +++$+++ u2945 +++$+++ m193 +++$+++ SULU +++$+++ Leaving Section Fourteen for Section Fifteen.
+L534399 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ I exaggerated.
+L534398 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ You lied.
+L534395 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ By the book...
+L534394 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Certainly...
+L534091 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Aye, sir.
+L534090 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Lieutenant, the Admiral is aware of the Regulations.
+L534089 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Sir, may I quote General Order 12: 'On the approach of any vessel, when communications have not been est --
+L533896 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Aye, sir.
+L533895 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Take her out, Mr. Saavik.
+L533894 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Never, sir.
+L533893 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Lieutenant, how many times have you piloted a Starship out of Spacedock?
+L533892 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Thank you, Mr. Saavik.
+L533891 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ All moorings are clear, Captain.
+L533890 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Aye, sir.
+L533889 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ Very well, Mr. Saavik, clear all moorings.
+L533873 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ We can't all be perfect, Saavik. You must control your prejudices and remember that as a Vulcan as well as a Romulan you are forever a stranger in an alien land. Around you are humans, and as a member of the Starfleet you are unlikely ever to escape their presence or their influence. You must learn to tolerance in addition to all else I have taught you. Tolerance is logical.
+L533872 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ He's very human.
+L533871 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ What did you expect, Lieutenant?
+L533870 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ He's not what I expected, Sir.
+L533695 +++$+++ u2943 +++$+++ m193 +++$+++ SPOCK +++$+++ No power to the weapons system, sir.
+L533694 +++$+++ u2940 +++$+++ m193 +++$+++ SAAVIK +++$+++ Fire all phasers...!

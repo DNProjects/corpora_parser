@@ -1,0 +1,601 @@
+L254757 +++$+++ u5634 +++$+++ m374 +++$+++ FLOYD +++$+++ Twicet now I've fell for that line. Maybe he needs a thousan' men. So he get's five thousan' there, an' he'll pay fifteen cents a hour. An' you guys'll have to take it 'cause you'll be hungry.  'F he wants to hire men, let him write it out an' say what he's gonna pay. Ast to see his license. He ain't allowed by law to contrack men without a license.
+L254756 +++$+++ u5622 +++$+++ m374 +++$+++ AGENT +++$+++ Listen, Smart Guy. I'll run my business my own way. I got work. If you wanta take it, okay. If not, just sit here, that's all.
+L254755 +++$+++ u5634 +++$+++ m374 +++$+++ FLOYD +++$+++ 'F we're workin' for you, it's our business too. An' how do we know--  --you ain't one a the guys that sent these things out?
+L254754 +++$+++ u5622 +++$+++ m374 +++$+++ AGENT +++$+++ You trying to tell me how to run my own business?
+L254753 +++$+++ u5634 +++$+++ m374 +++$+++ FLOYD +++$+++ All right, mister. I'll go. You just show your license to contrack, an' then you make out a order--where an' when an' how much you gonna pay--an' you sign it an' we'll go.
+L254748 +++$+++ u5622 +++$+++ m374 +++$+++ AGENT +++$+++ Well, I'm contracting the land.
+L254747 +++$+++ u5634 +++$+++ m374 +++$+++ FLOYD +++$+++ You doin' the hirin'?
+L255228 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Be glad to get my han' on some cotton. That's the kin' a pickin' I understan'.
+L255227 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Twenty days work, oh boy!
+L255224 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Let 'er go, Gallagher!
+L255223 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Ready, Pa?
+L254797 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Sure! I was just aimin' to meet up with a couple girls I know.
+L254796 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Leave him alone, Ma--Al's just billy- goatin' around--
+L254692 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ I never knowed they was anything like her!
+L254691 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Will ya look at her!
+L254422 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Reckon we better begin roustin' 'em out if we aim to get outa here by daylight. How about it, John? How you boys comin'? 
+L254421 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ She'll prob'ly ride like a bull calf-- but she'll ride!
+L254781 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Sure. Why not?
+L254780 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Okay. I think you're a darn fool, though.
+L254779 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Lissen. I don't care nothin' about you, but if you mess in this, your whole fambly li'ble to get in trouble, an' Tom get sent back to the penitentiary.
+L254778 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ But ain't no reason--
+L254777 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ *Some*body got to take the blame. They just *got* to hang it on somebody, you know.  An' I ain't doin' nothin' but set around.
+L254776 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ How 'bout you?
+L254775 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Go on. Get in your tent. You don't know nothin'.
+L255235 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Look at that ol' coffeepot steam!
+L255234 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Woman can change better'n a man. Man lives in jerks--baby born, or somebody dies, that's a jerk--gets a farm, or loses one, an' that's a jerk. With a woman it's all one flow, like a stream, little eddies, little waterfalls, but the river it goes right on. Woman looks at it like that.
+L255232 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Watch me pass that Chevvy.
+L255231 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ No. Ain't ever gonna be scared no more.  I was, though. For a while I thought we was beat--*good* an' beat. Looked like we didn't have nothin' in the worl' but enemies--wasn't *no*body frien'ly anymore. It made me feel bad an' scared too--like we was lost... an' nobody cared.
+L255230 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Whatsa matter, Ma? Gettin' scared?
+L255229 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Maybe. Maybe twenny days work, maybe *no* days work. We ain't got it till we get it.
+L255218 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ I'll get Rosasharn.
+L255217 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Ready, Ma?
+L254809 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Well, you ain't a-goin'! Ain't *nobody* else a-goin'! We *got* here an' we gonna *stay* here, together! As long as we got the fambly unbroke I ain't scared, but it's a long bitter road we got ahead of us--  --an' I'm here to tell ya ef anybody else tries to bust us up anymore I'm a-goin' cat wild with this here piece a bar-arn!
+L254808 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ But it ain't runnin' away, Ma. All I wanta do is go away with another fella an' look aroun' for work by ourself--
+L254805 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ But ef you *do* whup me, I swear you better not ever go to sleep again, because the minute you go to sleep, or you're settin' down, or your back's turned, I'm gonna knock you belly-up with a bucket.
+L254804 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ I'd come back--
+L254479 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ I never had my house pushed over before. I never had my fambly stuck out on the road. I never had to lose... ever'thing I had in life.
+L254478 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ That don't sound like you, Ma. You never was like that before.
+L254477 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ We're goin' to California, ain't we? Awright then, let's *go* to California.
+L254476 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Ain't you gonna look back, Ma?--give the ol' place a last look?
+L255177 +++$+++ u5625 +++$+++ m374 +++$+++ BLONDE GIRL +++$+++ Now I can't breathe.
+L255176 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ That comes from not holdin' you tight *enough.*
+L255175 +++$+++ u5625 +++$+++ m374 +++$+++ BLONDE GIRL +++$+++ You're *ticklin' me!*
+L255174 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Why, I ain't hardly touchin' you!
+L255173 +++$+++ u5625 +++$+++ m374 +++$+++ BLONDE GIRL +++$+++ Don't hold me so tight.
+L255172 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Well, you said anybody can waltz... How'm *I* doin'?
+L255034 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ She got to make it.
+L255033 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Looks like about a mile. Reckon she'll make it?
+L255031 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Well, looks like we done it this time awright!
+L255030 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Gallon or two?
+L255029 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Any gas?
+L255027 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Fan-belt's shot.
+L255026 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ She's hotter'n a heifer.
+L254907 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Thing's been workin' on me, what they was yellin' about. Got me all curious.
+L254906 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Think I'll look aroun' an' see if I can't meet me a girl.
+L254868 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I don't know what these cops got to do with it but I don't like it.  An' these here are our own people, all of 'em. I don't like this.
+L254867 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Maybe the road's out.
+L254812 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ We got to get outa here right away. Ever'body here? Where's Uncle John?
+L254811 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Tom? You can come on. They gone.
+L254663 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Well, we ain't out a it yet.
+L254662 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Lots must a died, too.
+L254661 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ People done it. If they could, we could.
+L254660 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ What a place! How'd you like to walk acrost her?
+L254408 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Oh.
+L254407 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Naw. They paroled me.
+L254406 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ You bust outa jail, Tom?
+L255016 +++$+++ u5638 +++$+++ m374 +++$+++ GUARD +++$+++ Okay. Go on.
+L255015 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ I didn't see nothin'.
+L255014 +++$+++ u5638 +++$+++ m374 +++$+++ GUARD +++$+++ Was he bruised up this mornin'? About the face?
+L255013 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ Short fella. Pale face.
+L255012 +++$+++ u5638 +++$+++ m374 +++$+++ GUARD +++$+++ What'd he look like again?
+L255011 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ We just picked him up on the way in. He went away this mornin' when the rate dropped.
+L255010 +++$+++ u5638 +++$+++ m374 +++$+++ GUARD +++$+++ I guess that's what he looked like.
+L255009 +++$+++ u5623 +++$+++ m374 +++$+++ AL +++$+++ You mean that hitch-hiker? Little short fella with a pale face?
+L254597 +++$+++ u5641 +++$+++ m374 +++$+++ MAE +++$+++ Hey, wait a minute. You got change comin'.
+L254596 +++$+++ u5624 +++$+++ m374 +++$+++ BILL +++$+++ So long.
+L254594 +++$+++ u5624 +++$+++ m374 +++$+++ BILL +++$+++ Them was nickel apiece candy.
+L254593 +++$+++ u5641 +++$+++ m374 +++$+++ MAE +++$+++ What's it to you?
+L254592 +++$+++ u5624 +++$+++ m374 +++$+++ BILL +++$+++ Them wasn't two-for-a-cent candy.
+L254562 +++$+++ u5624 +++$+++ m374 +++$+++ BILL +++$+++ Cut me off a hunk a that banana cream, and a cuppa java.
+L254561 +++$+++ u5641 +++$+++ m374 +++$+++ MAE +++$+++ Banana cream, pineapple cream, chocolate cream--and apple.
+L254560 +++$+++ u5624 +++$+++ m374 +++$+++ BILL +++$+++ Kinda pie y'got?
+L254882 +++$+++ u5626 +++$+++ m374 +++$+++ BOOKKEEPER +++$+++ Okay. House 63. Wages 5 cents a box. No bruised fruit. Move along and go to work right away.
+L254881 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Why, I guess so.
+L254880 +++$+++ u5626 +++$+++ m374 +++$+++ BOOKKEEPER +++$+++ Can all of you work?
+L254879 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Two.
+L254878 +++$+++ u5626 +++$+++ m374 +++$+++ BOOKKEEPER +++$+++ Kids?
+L254877 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Two.
+L254876 +++$+++ u5626 +++$+++ m374 +++$+++ BOOKKEEPER +++$+++ Women?
+L254875 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Four.
+L254874 +++$+++ u5626 +++$+++ m374 +++$+++ BOOKKEEPER +++$+++ How many men?
+L254873 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Joad.
+L254872 +++$+++ u5626 +++$+++ m374 +++$+++ BOOKKEEPER +++$+++ That's not your affair. Name.
+L254871 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Sure, but what is this?
+L254870 +++$+++ u5626 +++$+++ m374 +++$+++ BOOKKEEPER +++$+++ Want to work?
+L254999 +++$+++ u5642 +++$+++ m374 +++$+++ MIGRANT +++$+++ Which way is House 25?
+L254998 +++$+++ u5626 +++$+++ m374 +++$+++ BOOKKEEPER +++$+++ Look, I didn't set the price. I'm just working here. If you want it, take it. If you don't, turn right around and beat it.
+L254997 +++$+++ u5642 +++$+++ m374 +++$+++ MIGRANT +++$+++ But--but how we gonna eat?
+L254996 +++$+++ u5626 +++$+++ m374 +++$+++ BOOKKEEPER +++$+++ Take it or leave it. There's 200 men coming from the South that'll be glad to get it.
+L254995 +++$+++ u5642 +++$+++ m374 +++$+++ MIGRANT +++$+++ Two an' a half! Say, mister, a man can't make his dinner on that.
+L254994 +++$+++ u5626 +++$+++ m374 +++$+++ BOOKKEEPER +++$+++ Two and a half cents.
+L254993 +++$+++ u5642 +++$+++ m374 +++$+++ MIGRANT +++$+++ Okay, mister. Whatcha payin'?
+L254992 +++$+++ u5626 +++$+++ m374 +++$+++ BOOKKEEPER +++$+++ House 25. Number's on the door.
+L255186 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ Well, I don't know what you gonna do about it, because I don't hear no riot an' I don't see no riot, an' what's more I don't believe they *is* no riot.  Look for yourself.
+L255185 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ We don't need a warrant if it's a riot.
+L255184 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ Got a warrant?
+L255183 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ Deputy sheriffs.
+L255182 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ Riot? I don't see no riot. Who're you?
+L255181 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ Open up! We hear you got a riot.
+L255079 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Goodnight.
+L255078 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ Better take care of it. Store manager'll give you some stuff for it in the morning. Goodnight.
+L255077 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Crate fell on me.
+L255076 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ That cut you got?
+L255075 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Ma's shore gonna like it here. She ain't been treated decent for a long time.
+L255074 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ Can't promise you that, but there'll be a licensed agent here tomorrow mornin', if you want to talk to him.
+L255073 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Anything like work aroun' here?
+L255072 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ *You* find out, I can't.
+L255071 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Why ain't they more like it?
+L255070 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ Government.
+L255069 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Say, who runs this place?
+L255068 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ We got the best dances in the county every Saturday night.
+L255067 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ You got dances too?
+L255066 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ They don't get in here. Sometimes the boys patrol the fences, especially dance nights.
+L255065 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I can't hardly believe it. Camp I was in once, they burned it out--the deputies an' some of them poolroom fellas.
+L255064 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ No cop can come in here without a warrant.
+L255063 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ An' you say no cops?
+L255062 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ That's the way it is.
+L255061 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Are you aimin' to tell me that the fellas that run this camp is jus' fellas--campin' here?
+L255060 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ We got five sanitary units. Each one elects a central committee man. They make the laws, an' what they say goes.
+L255059 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ We'll work it out. What's this committee you talkin' about?
+L255058 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ Camp site costs a dollar a week, but you can work it out, carrying garbage, keeping the camp clean--stuff like that.
+L255053 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ How many of you?
+L255052 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Joad. Tom Joad.
+L255051 +++$+++ u5627 +++$+++ m374 +++$+++ CARETAKER +++$+++ I don't mean to be nosy, y'understand. I just got to have certain information. What's your name?
+L254959 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I hear it. I think they's some guys comin' this way, lots of 'em. We better get outa here.
+L254958 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Can't tell if you hear it or not. You hear it, Tom?
+L254949 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Got to learn, like I'm a-learnin'. Don't know it right yet myself, but I'm tryin' to fin' out. That's why I can't ever be a preacher again. Preacher got to *know*.  I don't. I got to *ask*.
+L254948 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ We was outa food. Tonight we had meat. Not much, but we had it. Think Pa's gonna give up his meat on account a other fellas? An' Rosasharn needs milk. Think Ma's gonna starve that baby jus' cause a bunch a fellas is yellin' outside a gate?
+L254947 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ I guess that's right. Have to take a beatin' before he'll know.
+L254944 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ But jus' the minute they ain't strike- breakin' they won't get no five!
+L254943 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ They won't. They're a-gettin' five an' they don't care about nothin' else.
+L254942 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Try an' tell 'em, Tom. They'll get two an' a half, jus' the minute we're gone. An' you know what that is? That's one ton a peaches picked an' carried for a dollar. That way you can't even buy food enough to keep you alive! Tell 'em to come out with us, Tom! Them peaches is *ripe*. Two days out an' they'll pay *all* of us five!
+L254941 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I'll tell 'em. But I don't know how. Never seen so many guys with guns. Wouldn't even let us talk today.
+L254939 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Well--tell the folks inside how it is, Tom. Tell 'em they're starvin' us and stabbin' theirself in the back. An' as sure as God made little apples it's goin' back to two an' a half jus' as soon as they clear us out.
+L254938 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I aim to.
+L254937 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ I don't expeck we can las' much longer-- some a the folks ain't et for two days. You goin' back tonight?
+L254936 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I dunno. Payin' five now.
+L254935 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Lookie, Tom. We come to work here. They tell us it's gonna be fi' cents. But they was a whole lot of us, so the man says two an' a half cents. Well, a fella can't even eat on that, an' if he got kids...  So we says we won't take it. So they druv us off. Now they're payin' you five--but when they bust this strike ya think they'll pay five?
+L254927 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ No, I done my time an' got out. Come on in. 
+L254926 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Thought you was in jail.
+L254925 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Well, if it ain't Tom Joad. How ya, boy?
+L254924 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Casy! What you doin' here?
+L254923 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ What's the matter?
+L254774 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Hide in the willows. If it's awright to come back I'll give you four high whistles.
+L254773 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ You're right!
+L254772 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ He seen you, Tom! You wanta be fingerprinted? You wanta get sent back for breakin' parole?
+L254771 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I ain't gonna run.
+L254770 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Gimme that gun. Now git outa here. Go down in them willows an' wait.
+L254551 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ I don't know.
+L254550 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ How about us? Is that the truth for us?
+L254489 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ I'll say 'em--an' make it short.  This here ol' man jus' lived a life an' jus' died out of it. I don't know whether he was good or bad, an' it don't matter much. Heard a fella say a poem once, an' he says, "All that lives is holy." But I wouldn't pray for jus' a ol' man that's dead, because he's awright. If I was to pray I'd pray for the folks that's alive an' don't know which way to turn. Grampa here, he ain't got no more trouble like that. He's got his job all cut out for 'im--so cover 'im up and let 'im get to it.
+L254488 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ We know. But ain't none of our folks ever been buried without a few words.
+L254487 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ I ain't no more a preacher, you know.
+L254435 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ If she does it'll be a miracle outa Scripture.
+L254434 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Think she'll hold?
+L254356 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ It's hard to say. Stay here till mornin' an' then go on over to Uncle John's, I reckon. After that I don't know.
+L254355 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ What you figger to do?
+L254354 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ She's settlin'.
+L254298 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ All right, you remember the *man* then.
+L254297 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ I ain't no preacher anymore.
+L254296 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ This is Muley Graves.  You remember the preacher, don't you?
+L254291 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ I never heard nothin' about it.
+L254290 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ This used to be mine. I give it to Grampa when I went away.  You reckon they could be dead?
+L254288 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ No. They wasn't people to write.
+L254287 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ They never wrote you nothing?
+L254286 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ They're all gone--or dead.
+L254281 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ That's our place.
+L254280 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Your granma was a great one, too. The third time she got religion she go it so powerful she knocked down a full-growed deacon with her fist.
+L254279 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Just around that next bend.
+L254278 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Is it fur?
+L254277 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Shore it is. It always is, this time a year.
+L254276 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Lissen. This wind's fixin't to *do* somepin'!
+L254275 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ I'll be glad to see you pa. Last time I seen him was at a baptizin', an' he had one a the bigges' doses of the Holy Sperit I ever seen. He go to jumpin' over bushes, howlin' like a dog-wolf in moon-time. Fin'ly he picks hisself out a bush big as a piana an' he let out a squawk an' took a run at that bush. Well, sir, he cleared her but he bust his leg snap in two. They was a travellin' dentist there and he set her, an' I give her a prayin' over, but they wasn't no more Holy Sperit in your pa after that.
+L254274 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Maybe Ma'll have pork for supper. I ain't had pork but four times in four years--every Christmas.
+L254273 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ It don't matter. Ever since I lost the sperit it looks like I just as soon go one way as the other.  I'll go your way.
+L254272 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ No, but I aim to before sundown. Gettin' kind of excited about it, too. Which way you going?
+L254271 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Ain't you seen your folks since then?
+L254270 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ He had a knife in me. That's why they only gave me seven years. Got out in four--parole.
+L254269 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ And you ain't ashamed?
+L254268 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I don't mind any more. I'd do what I done again. I killed a guy at a dance. We was drunk. He got a knife in me and I laid him out with a shovel. Knocked his head plumb to squash.
+L254267 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Excuse me for asking.
+L254266 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I been in the penitentiary for four years. 
+L254265 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ No, I never. What?
+L254264 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Didn't you hear? It was in the papers.
+L254263 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Been out travelin' around?
+L254262 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Ought to be. That's fact'ry liquor. Cost me a buck.
+L254261 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Course I'll say grace if somebody sets out the food--  --but my heart ain't in it.  Nice drinkin' liquor.
+L254260 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Have a little snort?
+L254259 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ But you wasn't a preacher. A girl was just a girl to you. But to me they was holy vessels. I was savin' their souls.  I ast myself--what *is* this call, the Holy Sperit? Maybe *that's* love. Why, I love everybody so much I'm fit to bust sometimes!  So maybe there ain't no sin an' there ain't no virtue. There's just what people do. Some things folks do is nice, and some ain't so nice. But that's as far as any man's got a right to say.
+L254258 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I never let one go by me when I could catch her.
+L254257 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ At my meetin's I used to get the girls glory-shoutin' till they about passed out. Then, I'd go to comfort 'em--and always end up by lovin' 'em. I'd feel bad, an' pray, an' pray, but it didn't do no good. Next time, do it again. I figgered there just wasn't no hope for me.
+L254256 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Maybe you should a got yourself a wife.
+L254255 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ I got nothin' to preach about no more--that's all. I ain't so sure o' things.
+L254254 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Pa always said you was never cut out to be a preacher.
+L254253 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ *Used* to be. Not no more. I lost the call.  But boy, I sure *used* to have it! I'd get an irrigation ditch so squirmin' full of repented sinners I pretty near *drowned* half of 'em!  But not no more. I lost the sperit.
+L254252 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Why, you're the preacher!
+L254251 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Well, I do declare!  I baptized you, son.
+L254250 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Yeah. On my way home now.
+L254249 +++$+++ u5628 +++$+++ m374 +++$+++ CASY +++$+++ Say, ain't you young Tom Joad--ol' Tom's boy?
+L254675 +++$+++ u5629 +++$+++ m374 +++$+++ CONNIE +++$+++ I ought to done it then--an' not come on any trip like this.
+L254674 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ But we can still do it, honey.
+L254673 +++$+++ u5629 +++$+++ m374 +++$+++ CONNIE +++$+++ No, but--but you seen that advertisement in the Spicy Western Story magazine. Don't pay nothin'. Jus' send 'em the coupon an' you're a radio expert--nice clean work.
+L254672 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ You ain't--you ain't sorry, are you, honey?
+L254671 +++$+++ u5629 +++$+++ m374 +++$+++ CONNIE +++$+++ Women is always tar'd.
+L254670 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ Seems like we wasn't never gonna do nothin' but move. I'm so tar'd.
+L254866 +++$+++ u5630 +++$+++ m374 +++$+++ COP +++$+++ Little trouble up ahead, but you'll get through. Just follow the line.
+L254865 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ What's the matter? What's happened?
+L254864 +++$+++ u5630 +++$+++ m374 +++$+++ COP +++$+++ Pull up behind that car.  Okay for this one. Take 'em through.
+L254863 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Sure do.
+L254862 +++$+++ u5630 +++$+++ m374 +++$+++ COP +++$+++ Want to work, do you?
+L254861 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Fella named Spencer sent us--said they was work pickin' peaches.
+L254506 +++$+++ u5630 +++$+++ m374 +++$+++ COP +++$+++ Lissen, I heard that before--
+L254505 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ We ain't campin'. We jus' stoppin' a minute--
+L254504 +++$+++ u5630 +++$+++ m374 +++$+++ COP +++$+++ Save your strength, lady.  Get goin', buddy. No campin' here.
+L254503 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ They shore don't waste no time!  Take her out.
+L254343 +++$+++ u5631 +++$+++ m374 +++$+++ DAVIS +++$+++ You ain't gonna blow nobody nowhere. First place, you'd get hung and you know it. For another, it wouldn't be two days before they'd have another guy here to take my place.
+L254342 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ Have it your own way, son, but just as sure as you touch my house with that cat I'm gonna blow you plumb to kingdom come.
+L254339 +++$+++ u5631 +++$+++ m374 +++$+++ DAVIS +++$+++ *Used* to be your land. B'longs to the comp'ny now.
+L254338 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ But this is *my land*, son. Don't you understand?
+L254337 +++$+++ u5631 +++$+++ m374 +++$+++ DAVIS +++$+++ For three dollars a day, that's what I'm doin' it for. I got two little kids. I got a wife and my wife's mother. Them people got to eat. Fust and on'y thing I got to think about is my own folks. What happens to other folks is their lookout.
+L254336 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ Then what are you doin' this kind a thing for--against your own people?
+L254335 +++$+++ u5631 +++$+++ m374 +++$+++ DAVIS +++$+++ I don't like nobody drawin' a bead on me.
+L254246 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Sure, but you'd a throwed a fit if I hadn't tol' you.
+L254245 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ I never asked you!
+L254243 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ That's where I get off.
+L254242 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ Yeah.
+L254241 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Me neither. I'm just tryin' to get along without shovin' anybody around, that's all.  See that road up ahead?
+L254240 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ I didn't mean nothing.
+L254239 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Go ahead. Ask me anything you want.
+L254238 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ You ain't got to get sore.
+L254237 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Listen. That big nose of yours been goin' over me like a sheep in a vegetable patch. But I ain't keepin' it a secret. I been in the penitentiary. Been there four years. Like to know anything else?
+L254236 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ I stay in my own yard.
+L254235 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Naw--not much!
+L254234 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ I don't stick my nose in nobody's business.
+L254233 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ You know what I mean. You been givin' me a goin' over ever since I got in. Whyn't you go on and ask me where I been?
+L254232 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ Get to what?
+L254231 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Why don't you get to it, buddy?
+L254230 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ I seen your hands. You been swinging a pick or a sledge--that shines up your hands. I notice little things like that all the time.  Got a trade?
+L254229 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Yeah.
+L254228 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ Been doin' a job?
+L254227 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ Oh!
+L254226 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ No, my old man got a place, forty acres. He's a sharecropper, but we been there a long time.
+L254225 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ Lookin' for a job?
+L254224 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Just a few miles. I'd a walked her if my dogs wasn't pooped out.
+L254223 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ Goin' far?
+L254220 +++$+++ u5632 +++$+++ m374 +++$+++ DRIVER +++$+++ Can't you see that sticker?
+L254219 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ How about a lift, mister?
+L254651 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ It don't take no nerve to do somep'n when there ain't nothin' else you can do. 
+L254650 +++$+++ u5633 +++$+++ m374 +++$+++ FIRST BOY +++$+++ Well, maybe. But I'd hate to be doin' it. Takes more nerve than I got.
+L254649 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ If we broke down maybe somebody'd give us a han'.
+L254648 +++$+++ u5633 +++$+++ m374 +++$+++ FIRST BOY +++$+++ Sure, plenty, but not in no wreck like this.
+L254647 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ You been acrost?
+L254646 +++$+++ u5633 +++$+++ m374 +++$+++ FIRST BOY +++$+++ Crossin' the desert in a jalopy like this.
+L254645 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ What you mean?
+L254644 +++$+++ u5633 +++$+++ m374 +++$+++ FIRST BOY +++$+++ You people got a lotta nerve.
+L254946 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Five they're a-gettin' now, an' that's all they're int'rested in. I know exackly what Pa'd say. He'd jus' say it wasn't none a his business.
+L254945 +++$+++ u5635 +++$+++ m374 +++$+++ FRANK +++$+++ An' the nex' thing you know you'll be out, because they got it all figgered down to a T--until the harvest is in you're a *migrant* worker--afterwards, just a bum.
+L254934 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Sure. We made a buck since midday.
+L254933 +++$+++ u5635 +++$+++ m374 +++$+++ FRANK +++$+++ Fi' cents! They pain' you fi' cents?
+L254932 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Well, fi' cents a box ain't much, but a fella can eat.
+L254931 +++$+++ u5635 +++$+++ m374 +++$+++ FRANK +++$+++ This here's a strike.
+L254930 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Workin'. Pickin' peaches. But I seen a bunch a fellas yellin' when we come in, so I come out to see what's goin' on. What's it all about?
+L254728 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Didn' none of these have no breakfast?
+L254727 +++$+++ u5636 +++$+++ m374 +++$+++ GIRL +++$+++ No, ma'am. They ain't no work hereabouts. Pa's in tryin' to sell some stuff to get gas so's we can get along.
+L254726 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Didn' you have no breakfast?
+L254725 +++$+++ u5636 +++$+++ m374 +++$+++ GIRL +++$+++ Yes, ma'am.
+L254724 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ You want to get ast to eat, hunh?
+L254723 +++$+++ u5636 +++$+++ m374 +++$+++ GIRL +++$+++ I could break up some bresh if you want me, ma'am.
+L254341 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Hush!
+L254340 +++$+++ u5636 +++$+++ m374 +++$+++ GIRL +++$+++ What's he fixin' to do, ma?
+L254467 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Put somepin' over him, so he won't git sun-struck.  Ever'body set now?  Awright, Al, letta go!
+L254466 +++$+++ u5637 +++$+++ m374 +++$+++ GRAMPA +++$+++ Ain't a-goin', thas all...
+L254465 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Easy, *easy!* You wanta bust his head wide open? Pull his arms, John.
+L254450 +++$+++ u5637 +++$+++ m374 +++$+++ GRAMPA +++$+++ And I ain't gonna listen either. I tol' you what I'm gonna do.  And I don't give a hoot in a hollow if they's oranges and grapes crowdin' a fella outa bed even, I ain't a- goin' to California!  This here's my country. I b'long *here*.  It ain't no good--  --but it's mine.
+L254449 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Now listen, Grampa. Listen to me, just a minute.
+L254444 +++$+++ u5637 +++$+++ m374 +++$+++ GRAMPA +++$+++ All but me! I'm a-stayin'.
+L254443 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ But you can't *do* that, Grampa. This here land is goin' under the tractor. We *all* got to git out.
+L254442 +++$+++ u5637 +++$+++ m374 +++$+++ GRAMPA +++$+++ I ain't talkin' about you, I'm talkin' about me. And I'm a-stayin'. I give her a good goin' over all night long-- and I'm a-stayin'.
+L254441 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ What you mean you ain't goin'? We *got* to go. We got no place to stay.
+L254481 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ 'S all right, Grampa. You just kind a tar'd, that's all. Somebody fix a pallet.
+L254480 +++$+++ u5637 +++$+++ m374 +++$+++ GRAMPA +++$+++ *Ain't* a-goin'... ain't a-goin'...
+L254452 +++$+++ u5637 +++$+++ m374 +++$+++ GRAMPA +++$+++ And can't nobody *make* me go, either! Ain't nobody here *man* enough to make me! I'm a-stayin'.
+L254451 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Ma. Pa.  Grampa, his eyes hurt and hunted and frightened and bewildered, scratches in the dirt.
+L254446 +++$+++ u5637 +++$+++ m374 +++$+++ GRAMPA +++$+++ Take her with you!
+L254445 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ How 'bout Granma?
+L254440 +++$+++ u5637 +++$+++ m374 +++$+++ GRAMPA +++$+++ Ain't nothin' the matter. I just ain't a-goin', that's all.
+L254439 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ What's the matter, Grampa?
+L254395 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I didn't bust out. They lemme out. Howya, Noah. Howya, Uncle John.
+L254394 +++$+++ u5637 +++$+++ m374 +++$+++ GRAMPA +++$+++ You know what I al'ays said: "Tom'll come bustin' outa that jail like a bull through a corral fence." Can't keep no Joad in jail!
+L254917 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I'll walk back.
+L254916 +++$+++ u5638 +++$+++ m374 +++$+++ GUARD +++$+++ Not tonight you can't. Want to walk back?--or you want me to whistle up some help and take you back?
+L254915 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ You mean I can't even get outa here?
+L254914 +++$+++ u5638 +++$+++ m374 +++$+++ GUARD +++$+++ Well, you just turn around and walk the other way.
+L254913 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Thought I'd take a walk. Any law against it?
+L254912 +++$+++ u5638 +++$+++ m374 +++$+++ GUARD +++$+++ Where you think you're going?
+L254611 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Sure. We aim to.
+L254610 +++$+++ u5638 +++$+++ m374 +++$+++ GUARD +++$+++ Okay. Go ahead, but you better keep movin'.
+L254609 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ No plants.
+L254608 +++$+++ u5638 +++$+++ m374 +++$+++ GUARD +++$+++ Got any plants?
+L254607 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ No longer'n we can get acrost her.
+L254606 +++$+++ u5638 +++$+++ m374 +++$+++ GUARD +++$+++ How long you plan to be in Arizona?
+L254605 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ California.
+L254604 +++$+++ u5638 +++$+++ m374 +++$+++ GUARD +++$+++ Where you going?
+L254909 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Okay. I be back a little later.
+L254908 +++$+++ u5639 +++$+++ m374 +++$+++ JOHN +++$+++ I got to get a lot curiouser than I am--with all them cops out there.
+L254741 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ You git. Go on now, git. You ain't doin' no good. They ain't enough for you.
+L254740 +++$+++ u5639 +++$+++ m374 +++$+++ JOHN +++$+++ Wouldn't be no use. I'd still see 'em inside the tent.
+L254739 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ You take that plate inside the tent an' you eat it.
+L254738 +++$+++ u5639 +++$+++ m374 +++$+++ JOHN +++$+++ I know, but I got a stomickache. I ain't hungry.
+L254737 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Whatta ya mean? You ain't et today.
+L254736 +++$+++ u5639 +++$+++ m374 +++$+++ JOHN +++$+++ You take this.  I ain't hungry.
+L255134 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ No--an' look what I got for you.
+L255133 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ An' you won't let nobody touch me?
+L255132 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ You an' me's goin' together--jus' you an' me. We're a-goin' to that dance an' we're a-goin' to jus' set an' watch. If anybody says to come dance--why I'll say you're poorly. But you an' me, we're gonna hear the music an' see the fun.
+L255131 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ I can't he'p it, Ma. It don't make *me* giggly an' happy.
+L255130 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Why, honey, it makes folks happy to see a girl that way--makes folks sort of giggly an' happy.
+L255129 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ Ma...  Ma, I--I can't go to the dance. I jus' can't Ma. I can't hardly stan' it, with Connie not here--an' me this way.
+L255024 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ I know, honey, an' just as soon as we get settled Al's gonna set out an' look for him. How 'bout gas, Tommy?
+L255023 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ Ma... you know, if Connie was here I wouldn't min' any a this.
+L254974 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Stand by the door.
+L254973 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ No'm.
+L254972 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Anybody ask anything?
+L254892 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ This got a floor. Wouldn't leak when it rains.
+L254891 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ I like the tent better.
+L254890 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Why, sure. It won't be so bad once we get her washed out.
+L254889 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ We gonna live here?
+L254829 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Maybe that's jus' what he done.
+L254828 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ Maybe Connie went to get some books to study up with. He's gonna be a radio expert, ya know. Maybe he figgered to suprise us.
+L254521 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ No. No, it don't. I can't do that. I can't let m'self. All I can do is see how soon they gonna wanta eat again. They'd all get upset if I done anymore 'n that. They all depen' on me jus' thinkin' about that.  That's my part--that an' keepin' the fambly together.
+L254520 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ Don't it ever scare you it won't be nice in California like we think?
+L254519 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Sometimes. A little. Only it ain't scairt so much. It's just waitin' an' wonderin'. But when sump'n happens that I got to do sump'n--  --I'll do it.
+L254518 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ You don't ever get scairt, do you, Ma?
+L254517 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ They use' to be a sayin': A chile born outa sorrow'll be a happy chile. An' another: Born outa too much joy'll be a doleful boy. That's the way I always heard it.
+L254516 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ But will it--hurt the baby?
+L254515 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Well, can't nobody get through nine *months* without sorrow.
+L254514 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ Sometimes I'm all jumpy inside.
+L254513 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Now don't you go gettin' nimsy-mimsy.
+L254512 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ Ma... all this, will it hurt the baby?
+L255237 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ I know. Maybe that makes us tough. Rich fellas come up an' they die, an' their kids ain't no good, an' they die out. But we keep a-comin'. We're the people that live. Can't nobody wipe us out. Can't nobody lick us. We'll go on forever, Pa. We're the people. 
+L255236 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Maybe, but we shore takin' a beatin'.
+L255222 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ She'll be awright.
+L255221 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Make her easy, John. Watch her.
+L255022 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Don't matter. Just got to go--an' keep a-goin', till we get plenty a distance away from here.
+L255021 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Know where we're a-goin'?
+L254900 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ They charge extry at the comp'ny store but they ain't no other place.
+L254899 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ That!
+L254845 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ It sure is hell jus' tryin' to get enough to eat.
+L254844 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Sump'n got to happen soon. We got one day's more grease, two day's flour, an' ten potatoes. After that...  An' Rosasharn, we got to remember she's gonna be due soon.
+L254821 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ How come I got to shh? Run out, didn't he?
+L254820 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Pa! Shh!
+L254819 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Glad to get shet of him. Never was no good an' never will be--
+L254818 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Connie's gone.  Lit out this e'enin'--said he didn't know it was gonna be like this.
+L254807 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Sassy my foot! I'm jus' sick and tar'd a my folks tryin' to bust up. All we got lef' in the *worl'* is the fambly--an' right down at bottom that's all we *got* to have! Ef some of us dies, we can't he'p that--but ain't nobody else runnin' away!
+L254806 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Jus' sassy, that's all.
+L254803 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ I never *seen* her so sassy.  An' she ain't so young, neither!
+L254802 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Al ain't a-goin' away, an' you gonna *tell* him he ain't a-goin' away.  An' if you think diff'unt, you gotta whup me first. So some on.
+L254801 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Now don't get sassy, Ma.
+L254800 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ You'll *what*?... Come on, Pa. Come on an' whup me. Jus' try it.
+L254799 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Cut it out, Ma, or I'll--
+L254798 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ You don't know *no* girls around here. You're lyin', *You're runnin' away*!
+L254735 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Go get Tom an' Al.  I dunno what to do. I got to feed the fambly. What'm I gonna do with these here?
+L254734 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ How 'bout it?
+L255213 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Good-by, Tommy.
+L255212 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Sure. Good-by.
+L255211 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Good-by, Tom. Later--when it's blowed over--you'll come back? You'll try to fin' us?
+L255210 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Me neither.  It's jus' stuff I been thinkin' about. Gimme you han', Ma. Good-by. 
+L255209 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ I don't understan' it, Tom.
+L255208 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Then it don't matter. Then I'll be all aroun' in the dark. I'll be ever'where--wherever you look. Wherever there's a fight so hungry people can eat, I'll be there. Wherever there's a cop beatin' up a guy, I'll be there. I'll be in the way guys yell when they're mad--an' I'll be in the way kids laugh when they're hungry an' they know supper's ready. An' when our people eat the stuff they raise, an' live in the houses they build, why, I'll be there too.
+L255207 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Then what, Tom?
+L255206 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Well, maybe it's like Casy says, a fella ain't got a soul of his own, but on'y a piece of a big soul--the one big soul that belongs to ever'body-- an' then...
+L255205 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ How'm I gonna know 'bout you? They might kill you an' I wouldn't know. They might hurt you. How'm I gonna know?
+L255204 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ No, Ma. Not that. That ain't it. But long as I'm a outlaw, anyways, maybe I can do sump'n. Maybe I can jus' fin' out sump'n. Jus' scrounge aroun' an' try to fin' out what it is that's wrong, an then see if they ain't sump'n could be done about it.  But I ain't thought it out clear, Ma. I can't. I don't know enough.
+L255203 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ You don't aim to kill nobody, Tom!
+L255202 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ They gonna drive me anyways. Soon or later they'll get me, for one thing if not another. Until then...
+L255201 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Tommy, they'll drive you, an' cut you down like they done to Casy.
+L255200 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I been thinkin' about us, too--about our people livin' like pigs, an' good rich lan' layin' fallow, or maybe one fella with a million acres, while a hundred thousan' farmers is starvin'. An' I been wonderin' if all our folks got together an' yelled--
+L255199 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ He was a good man.
+L255198 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ You know what I been thinkin' about, Ma? About Casy. About what he said, what he done, an' about how he died. An' I remember all of it.
+L255197 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Awright, Tommy. What you figger you gonna do?
+L255196 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I know you would, Ma. But I ain't gonna let you. You hide somebody that's kilt a man an'... an' you'd be in trouble too.
+L255195 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ I could hide you, Tommy.
+L255194 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I'd like to stay. I'd like to be with ya--  --an' see your face when you an' Pa get settled in a nice little place. I sure wish I could see you then. But--  --I guess I won't never be able to do that. Not now.
+L255193 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ It had to come, I reckon, soon or later.
+L255192 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ They was some cops here, Ma. They was takin' down the license numbers. It looks like somebody knows sump'n.
+L255170 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Girl with a baby *always* gets prettier.
+L255169 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ She's gettin' prettier, Ma.
+L255036 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Don't know--but it's better'n this.
+L255035 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ What is it?
+L255003 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I'd hate to get *trapped* in here.
+L255002 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ It's jus' till we get some distance. Then you can come out.
+L255001 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Comes night we'll get outa here.
+L255000 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ That Casy. He might a been a preacher, but--he seen a lot a things clear. He was like a lantern--he helped mw see things too.
+L254988 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Okay, Ma. I shouldn't, though. I know I shouldn't. But okay.
+L254987 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Tom! They's a whole lot I don't understan', but goin' away ain't gonna ease us.  They was the time when we was on the lan'. They was a bound'ry to us then. Ol' folks died off, an' little fellas come, an' we was always one thing-- we was the fambly--kinda whole an' clear. But now we ain't clear no more. They ain't nothin' keeps us clear. Al--he's a-hankerin' an' a- jibbitin' to go off on his own. An' Uncle John is just a-draggin' along. Pa's lost his place--he ain't the head no more. We're crackin' up, Tom. They ain't no fambly now. Rosasharn--  --she gonna have her baby, but *it* ain't gonna have no fambly. I been tryin' to keep her goin' but--Winfiel'-- what's he gonna be, this-a-way? Growin' up wild, an' Ruthie, too-- like animals. Got nothin' to trus'. Don't go Tom. Stay an' help. Help me.
+L254986 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I'm gonna go away tonight. I can't go puttin' this on you folks.
+L254985 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ It's awright, Tommy. I wisht you didn't do it, but you done what you had to do. I can't read no fault in you.
+L254984 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I'm sorry, Ma. But--I didn't know what I was doin', no more'n when you take a breath. I didn't even know I was gonna do it.
+L254983 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ They know he got hit in the face.
+L254982 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ They know what--this fella looks like?
+L254981 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ That ain't the way they're tellin' it. They're sayin' you done it fust.
+L254980 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ They killed Casy first.
+L254979 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Folks ain't talkin' about much else. They say they got posses out. Talkin' about a lynchin'--when they catch the fella.
+L254978 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I kinda thought so. Felt like it.
+L254977 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Looks like you done it.
+L254976 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Busted my cheek but I can still see. What'd you hear?
+L254975 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ How's it feel, Tommy?
+L254911 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Okay, Ma. Don't you worry.
+L254910 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ You be careful, Tommy. Don't you be stickin' your nose in anything.
+L254902 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Well, tomorra you'll get in a full day--full day's pay--an' we'll have plenty.
+L254901 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I ain't full.
+L254898 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ No. That's all. You made a dollar, an' that's a dollar's worth.
+L254897 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Got any more, Ma?
+L254857 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ You know, I jus' can't remember when I felt so good before!
+L254856 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Get some sugar too, for the coffee.
+L254855 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Fust thing I'll get is coffee, cause ever'body been wantin' that, an' then some flour an' bakin' powder an' meat. Better not get no side- meat right off. Save that for later. Maybe Sat'dy. Got to get some soap too. An' milk. Rosasharn's got to have some milk.
+L254836 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ What's that--detour?
+L254835 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ You gotta keep clear, Tom. The fambly's breakin' up. You *got* to keep clear.
+L254834 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I'm a-tryin', Ma. Honest I am.
+L254833 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ You promised, Tommy.
+L254832 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I know, Ma. I'm a tryin'. If it was the law they was workin' with, we could take it. But it *ain't* the law. They're workin' away at our spirits. They're tryin' to make us cringe an' crawl. They're workin' on our decency.
+L254831 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Tom--you tol' me--you promised you wasn't like that. You promised me.
+L254830 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Ma, they comes a time when a man gets mad.
+L254722 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ On a gallon a gas?  Let's set up the tent. Maybe I can fix us up some stew.
+L254721 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ She shore don't look prosperous. Want to go somewheres else?
+L254705 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ I was afraid they'd stop us an' wouldn't let us cross. But I tol' Granma. I tol' her when she was dyin'. I tol' her the fambly had ta get acrost. I tol' her we couldn't take no chances on bein' stopped.
+L254704 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ An' that's why you didn't want 'em to look?
+L254703 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Since before they stopped us las' night.
+L254702 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ When?
+L254701 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Granma's dead.
+L254700 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Was Granma bad?
+L254699 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ No.
+L254698 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Didn' you get no sleep?
+L254697 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Thank God!  An' we're still together-- most of us. 
+L254696 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Look, Ma!
+L254695 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Ya say we're acrost?
+L254694 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Ma, you sick?
+L254498 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Forget it, Ma. Jus' think about the nice things out there. Think about them grapes and oranges--an' ever'body got work--
+L254497 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Maybe they got crimes in California we don't know about. Crimes we don't even know *is* crimes.
+L254496 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Forget it, Ma. I got her figgered out. Long as I keep outa trouble, ain't nobody gonna say a thing. All I gotta do is keep my nose clean.
+L254495 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Your pa tol' me you didn't ought to cross it if you're paroled. Says they'll send you up again.
+L254494 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Yes'm, that was it.
+L254459 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ That's right. And douse some in it.
+L254458 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ And they's some coffee here. I could fix him a cup...
+L254457 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Don't taste bad.
+L254456 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Wait. There's a half a bottle a soothin' sirup here.  It put the chillun to sleep.
+L254424 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ I'm ready.
+L254423 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ How about it, Ma?
+L254389 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Thank God. I--I don't want no mean son 
+L254388 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ No, Ma. You don't have to worry about that.
+L254387 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Sometimes they do somethin' to you, Tommy. They hurt you--and you get mad--and then you get mean--and they hurt you again--and you get meaner, and meaner--till you ain't no boy or no man any more, but just a walkin' chunk a mean-mad. Did they hurt you like that, Tommy?
+L254386 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ No, Ma I was at first--but not no more.
+L254385 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Sometimes they do.
+L254384 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Mad, Ma?
+L254383 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ We *got* to, Tommy. But that's gonna be awright. I seen the han'bills, about how much work they is, an' high wages, too. But I gotta fin' out somepin' else first, Tommy.  Did they hurt you, son? Did they hurt you an' make you mean-mad?
+L254382 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Muley tol' me what happened, Ma. Are we goin' to California true?
+L254381 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I'd a found you, Ma.
+L254380 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ I was so scared we was goin' away without you--and we'd never see each other again.
+L254379 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ No, Ma. I'm paroled. I got my papers.
+L254378 +++$+++ u5640 +++$+++ m374 +++$+++ MA +++$+++ Thank God. Oh thank God.  Tommy, you didn't *bust* out, didya? You ain't got to hide, have you?
+L254589 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Well, give me two then, ma'am.
+L254588 +++$+++ u5641 +++$+++ m374 +++$+++ MAE +++$+++ Oh, them? Well, no--them's *two* for a penny.
+L254587 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ There, them stripy ones.
+L254586 +++$+++ u5641 +++$+++ m374 +++$+++ MAE +++$+++ Which ones?
+L254583 +++$+++ u5641 +++$+++ m374 +++$+++ MAE +++$+++ Go ahead--Bert says take it.
+L254582 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ I don't wanta rob you, ma'am.
+L254581 +++$+++ u5641 +++$+++ m374 +++$+++ MAE +++$+++ You can have this for ten cents.
+L254578 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Would you--could you see your way to cuttin' off ten cents worth?
+L254577 +++$+++ u5641 +++$+++ m374 +++$+++ MAE +++$+++ This here's a fifteen-cent loaf.
+L254572 +++$+++ u5641 +++$+++ m374 +++$+++ MAE +++$+++ You can't get no loaf a bread for a dime. We only got fifteen-cent loafs.
+L254571 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ I shore would like to do that, ma'am, but the fack is, we ain't got but a dime for it. It's all figgered out, I mean--for the trip.
+L254570 +++$+++ u5641 +++$+++ m374 +++$+++ MAE +++$+++ Whyn't you buy a san'wich? We got nice san'widges.
+L254569 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ I know, ma'am... on'y it's for a ole lady, no teeth, gotta sof'n it with water so she can chew it, an' she's hongry.
+L254568 +++$+++ u5641 +++$+++ m374 +++$+++ MAE +++$+++ This ain't a groc'ry store. We got bread to make san'widges with.
+L254567 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Could you see your way clear to sell us a loaf of bread, ma'am.
+L254566 +++$+++ u5641 +++$+++ m374 +++$+++ MAE +++$+++ Yeah?
+L254363 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ I don't think so. One come out here once an' I clipped him from behin' with a fence stake. They ain't bothered since.
+L254362 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Won't they come out here?
+L254361 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ All you got to do is lay down an' watch.
+L254359 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ You're *trespassin'*! It ain't you lan' no more! An' that's the supr'tendant--with a gun!
+L254358 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Hide out for what? We ain't doin' nothin'.
+L254357 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ Listen!  That's them! Them lights! Come on, we got to hide out!
+L254348 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ The rest of my fambly set out for the west--there wasn't nothin' to eat--but I couldn't leave. Somepin' wouldn't let me. So now I just wander around. Sleep wherever I am. I used to tell myself I was lookin' out for things, so when they come back ever'thing would be all right. But I knowed that wan't true. There ain't nothin' to look out for. And ain't nobody comin' back. They're gone-- and me, I'm just an 'ol graveyard ghost--that's all in the world I am.
+L254347 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ But it don't seem possible--kicked off like that!
+L254346 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ What was the use. He was right. There wasn't a thing in the world I could do about it.
+L254327 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ They come. They come and pushed me off.
+L254326 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Well?
+L254308 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ That's what I asked you, ain't it?
+L254307 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ Some say I am.  You want to hear what happened?
+L254306 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Are you crazy?
+L254305 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ Listen!  That's some of what done it--the dusters. Started it, anyway. Blowin' like this, year after year--blowin' the land away, blowin' the crops away, blowin' us away now.
+L254304 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ But who done it?
+L254303 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ Ever'body got to get off. Ever'body leavin', goin' to California. My folks, your folks, ever'body's folks.  Ever'body but me. I ain't gettin' off.
+L254302 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ But what's happened?  How come they got to get off? We been here fifty years--same place.
+L254301 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ Gone--  --over to your Uncle John's. The whole crowd of 'em, two weeks ago. But they can't stay there either, because John's got *his* notice to get off.
+L254295 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I know that! But *where* they gone?
+L254294 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ They gone.
+L254293 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Muley! Where's my folks, Muley?
+L254292 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ Tommy?
+L254325 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ Well, I'm right here to tell you, mister, ain't *nobody* going to push me off *my* land! Grampa took up this land seventy years ago. My pa was born here. We was *all* born on it, and some of us got killed on it, and some died on it. And that's what makes it ourn--bein' born on it, and workin' it, and dyin' on it--and not no piece of paper with writin' on it! So just come on and try to push me off!
+L254324 +++$+++ u5650 +++$+++ m374 +++$+++ THE MAN +++$+++ Brother, I don't know. If I did I'd tell you. But I just don't know *who's* to blame!
+L254323 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ Then who *do* we shoot?
+L254318 +++$+++ u5650 +++$+++ m374 +++$+++ THE MAN +++$+++ It ain't nobody. It's a company.
+L254317 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ Who's the Shawnee Land and Cattle Comp'ny?
+L254314 +++$+++ u5650 +++$+++ m374 +++$+++ THE MAN +++$+++ Now don't go blaming me. It ain't *my* fault.
+L254313 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ You mean get off my own land?
+L254312 +++$+++ u5650 +++$+++ m374 +++$+++ THE MAN +++$+++ I can't help that. All I know is I got my orders. They told me to tell you you got to get off, and that's what I'm telling you.
+L254311 +++$+++ u5643 +++$+++ m374 +++$+++ MULEY +++$+++ But we couldn't *do* on any less'n what our share is now.  The chillun ain't gettin' enough to eat as it is, and they're so ragged we'd be shamed if ever'body else's chillun wasn't the same way.
+L254310 +++$+++ u5650 +++$+++ m374 +++$+++ THE MAN +++$+++ Fact of the matter, Muley, after what them dusters done to the land, the tenant system don't work no more. It don't even break even, much less show a profit. One man on a tractor can handle twelve or fourteen of these places. You just pay him a wage and take *all* the crop.
+L255050 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ You're tootin' we're gonna stay. 
+L255049 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ We gonna stay, ain't we?
+L255048 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Take 'er on down, Al. I'll sign.
+L254905 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ No. I'm jus' gonna set awhile an' then go to bed.
+L254904 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Think I'll walk out an' try to fin' out what all that fuss outside the gate was. Anybody wanta come with me?
+L254903 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ You wouldn't think jus' reachin' up an' pickin'd get you in the back.
+L254827 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Give 'im a fryin' pan. 
+L254826 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ I ain't got nothin' in *my* han'.
+L254825 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Just in case. Sit up back an' if anybody tries to climb up--let 'im have it.
+L254637 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Me an' you both.
+L254636 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Ya know, you're the second fella talked like that. I'd like to hear some more about that.
+L254622 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ I shore would like to stop here a while an' give her some res' but we on'y got 'bout forty dollars left. I won't feel right till we're there an' all workin' an' a little money comin' in.
+L254621 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ She's jus' wore out, that's all.
+L254618 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ How's Granma since we got her in the tent?
+L254617 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Got that desert yet. Gotta take her tonight. Take her in the daytime fella says she'll cut your gizzard out.
+L254486 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Casy, won't you say a few words?
+L254485 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Not be so lonesome, either, knowin' his name is there with 'im, not just' a old fella lonesome underground.
+L254484 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ I figger best we leave something like this on him, lest somebody dig him up and make out he been kilt.  Lotta times looks like the gov'ment got more interest in a dead man than a live one.
+L254475 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ California, here we come!
+L254474 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Here we go!
+L254455 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Ain't no whisky, is they?
+L254454 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Can't tie him. Either we'll hurt him or he'll git so mad he'll hurt his self.  Reckon we could git him *drunk*?
+L254453 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Either we got to tie him up and *throw* him on the truck, or somepin. He can't stay here.
+L254420 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Easy. After all, they ain't but about *twelve* of us, is they?
+L254419 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Sol' things, chopped cotton--even Grampa. Got us about two hunnerd dollars all tol'. Shucked out seventy- five for this truck, but we still got nearly a hunnerd and fifty to set out on. I figger we oughta be able to make it on that.
+L254418 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ How you get all this money?
+L254405 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Why, she wasn't no more'n a kid when I went up.
+L254404 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ That's Connie Rivers with her. They're married now.  She's due about three-four months.
+L254542 +++$+++ u5648 +++$+++ m374 +++$+++ SECOND MAN +++$+++ Look at 'em! Same yella han'bill-- 800 pickers wanted. Awright, this man wants 800 men. So he prints up 5,000 a them han'bills an' maybe 20,000 people sees 'em. An' maybe two-three thousan' starts movin, wes' account a this han'bill. Two- three thousan' folks that's crazy with worry headin' out for 800 jobs! Does that make sense?
+L254541 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ But what does *that* prove?
+L254538 +++$+++ u5648 +++$+++ m374 +++$+++ SECOND MAN +++$+++ I ain't gonna fret you. Go on!
+L254537 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ But what about this?
+L254536 +++$+++ u5648 +++$+++ m374 +++$+++ SECOND MAN +++$+++ Awright, go on! Ain't nobody stoppin' ya!
+L254535 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ Whatta you think you're talkin' about? I got a han'bill here says good wages, an' I seen it in the papers they need pickers!
+L254532 +++$+++ u5644 +++$+++ m374 +++$+++ PA +++$+++ We gonna take whatever they got.
+L254531 +++$+++ u5648 +++$+++ m374 +++$+++ SECOND MAN +++$+++ Good wages, eh! Pickin' oranges an' peaches?
+L254824 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Maybe he'll be back. We'll leave word for him. Jus' don't cry. 
+L254823 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ Tom, I jus' don't feel like nothin' a tall. Without him I jus' don't wanta live.
+L254822 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Cut it out, Pa. He'p Al with the truck.  Don't fret, honey. You goin' to be awright.
+L254615 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Aw, sure. This here's jus' a part of it. Ain't no sense a gettin' scairt right off.
+L254614 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ Maybe it's nice on the other side. Them pitchers--them little pos'cards-- they was real pretty.
+L254411 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ You do not see either!--not yet!
+L254410 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ If this don't beat all!  Well, I see you been busy already!
+L254409 +++$+++ u5645 +++$+++ m374 +++$+++ ROSASHARN +++$+++ Heh'o Tom.  This is Connie, my husband.
+L255101 +++$+++ u5646 +++$+++ m374 +++$+++ RUTHIE +++$+++ I won't--  --if you won't tell what *I* done!
+L255100 +++$+++ u5653 +++$+++ m374 +++$+++ WINFIELD +++$+++ Please don't.
+L255099 +++$+++ u5646 +++$+++ m374 +++$+++ RUTHIE +++$+++ Lissen. You done busted it. You hear?  But lissen here. I won't tell nobody, y'understan'?
+L255098 +++$+++ u5653 +++$+++ m374 +++$+++ WINFIELD +++$+++ I never knowed it! All I done was pull that string!
+L255097 +++$+++ u5646 +++$+++ m374 +++$+++ RUTHIE +++$+++ Keep qui'te, will ya! Shet your mouth!
+L255096 +++$+++ u5653 +++$+++ m374 +++$+++ WINFIELD +++$+++ Lemme go! I didn't go to do it!
+L255086 +++$+++ u5653 +++$+++ m374 +++$+++ WINFIELD +++$+++ Won't they ketch us?
+L255085 +++$+++ u5646 +++$+++ m374 +++$+++ RUTHIE +++$+++ Come on. Ain't nobody gonna say anything.
+L255084 +++$+++ u5646 +++$+++ m374 +++$+++ RUTHIE +++$+++ It's them white things, made outa dish-stuff, like in the catalogues!
+L255083 +++$+++ u5653 +++$+++ m374 +++$+++ WINFIELD +++$+++ Whatsa matter?
+L255082 +++$+++ u5646 +++$+++ m374 +++$+++ RUTHIE +++$+++ Git up. I got sump'n to show you.
+L254668 +++$+++ u5646 +++$+++ m374 +++$+++ RUTHIE +++$+++ Some, I guess, but mos'ly cow bones.
+L254667 +++$+++ u5653 +++$+++ m374 +++$+++ WINFIELD +++$+++ Man bones?
+L254666 +++$+++ u5646 +++$+++ m374 +++$+++ RUTHIE +++$+++ Tom says if it's day it'll cut you gizzard smack out a you.  I seen a pitcher once. They was bones ever'place.
+L254665 +++$+++ u5653 +++$+++ m374 +++$+++ WINFIELD +++$+++ I wisht it was day.
+L254664 +++$+++ u5646 +++$+++ m374 +++$+++ RUTHIE +++$+++ This here's the desert an' we're right in it!
+L255095 +++$+++ u5654 +++$+++ m374 +++$+++ WINFIELD'S VOICE +++$+++ I never--
+L255094 +++$+++ u5647 +++$+++ m374 +++$+++ RUTHIE'S VOICE +++$+++ Now you done it! You busted it!
+L255093 +++$+++ u5647 +++$+++ m374 +++$+++ RUTHIE'S VOICE +++$+++ Now don't you go monk'ing--
+L255092 +++$+++ u5654 +++$+++ m374 +++$+++ WINFIELD'S VOICE +++$+++ What's this?
+L255091 +++$+++ u5647 +++$+++ m374 +++$+++ RUTHIE'S VOICE +++$+++ I seen 'em b'fore you did.
+L255090 +++$+++ u5654 +++$+++ m374 +++$+++ WINFIELD'S VOICE +++$+++ Jes' like in the catalogues, ain't they!
+L255089 +++$+++ u5647 +++$+++ m374 +++$+++ RUTHIE'S VOICE +++$+++ Well, I reckon you *stan'* in them little rooms--an' water come down outa that there little jigger up there--take a bath!
+L255088 +++$+++ u5654 +++$+++ m374 +++$+++ WINFIELD'S VOICE +++$+++ What's these?
+L254853 +++$+++ u5649 +++$+++ m374 +++$+++ SPENCER +++$+++ Well, there's plenty of work for you about forty miles north, this road just outside Pixley. Turn east on 32 and look for Hooper's ranch. Tell 'em Spencer sent you.
+L254852 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ We can pick anything.
+L254851 +++$+++ u5649 +++$+++ m374 +++$+++ SPENCER +++$+++ Can you pick peaches?
+L254850 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Mister, we're lookin' even under boards for work.
+L254849 +++$+++ u5649 +++$+++ m374 +++$+++ SPENCER +++$+++ You people looking for work?
+L254848 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Morning.
+L254847 +++$+++ u5649 +++$+++ m374 +++$+++ SPENCER +++$+++ Morning.
+L255162 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Ain't gonna get outa han'.
+L255161 +++$+++ u5651 +++$+++ m374 +++$+++ TIM +++$+++ Awright. An' if she gets outa han', I'll be in the right han' corner, this side the dance floor.
+L255160 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Yes, sir.
+L255157 +++$+++ u5651 +++$+++ m374 +++$+++ TIM +++$+++ You ain't to hurt them fellas.
+L255156 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Ain't gonna be no trouble.
+L255155 +++$+++ u5651 +++$+++ m374 +++$+++ TIM +++$+++ You sure you got ever'thing ready?
+L255106 +++$+++ u5652 +++$+++ m374 +++$+++ TOM +++$+++ Shore looks like my lucky day, anyway. Gettin' some work at las'.
+L255105 +++$+++ u5651 +++$+++ m374 +++$+++ TIM +++$+++ Lotta these little farmers mighty nice fellas. Trouble is they're little, they ain't got much say-so.

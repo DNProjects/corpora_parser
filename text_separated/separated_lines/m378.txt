@@ -1,0 +1,344 @@
+L260203 +++$+++ u5705 +++$+++ m378 +++$+++ ATTENDANT +++$+++ I'll take you down there.
+L260202 +++$+++ u5717 +++$+++ m378 +++$+++ MAN +++$+++ Real charmer.
+L260201 +++$+++ u5705 +++$+++ m378 +++$+++ ATTENDANT +++$+++ Yeah, ha, hell of a night huh?
+L260200 +++$+++ u5717 +++$+++ m378 +++$+++ MAN +++$+++ Yeah.  Should be on the road.
+L260199 +++$+++ u5705 +++$+++ m378 +++$+++ ATTENDANT +++$+++ You're late.
+L260198 +++$+++ u5717 +++$+++ m378 +++$+++ MAN +++$+++ A patient pickup and transfer to Smith's Grove.
+L260197 +++$+++ u5705 +++$+++ m378 +++$+++ ATTENDANT +++$+++ Purpose of visit?
+L260727 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Go!
+L260726 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Brady! Come with us! Brady!
+L260725 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Get up there Rachel!
+L260724 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Brady!
+L260722 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Get up there Rachel!
+L260721 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Brady!
+L260720 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Go!
+L260719 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Brady! Come with us.
+L260718 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Shit!
+L260717 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ No. You son of a bitch!
+L260716 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Brady!
+L260715 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Get back!
+L260714 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Brady!
+L260710 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ We're trapped in this house.
+L260709 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ What does that mean?
+L260708 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Its metal, god dammit its metal.
+L260706 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ I don't know!
+L260705 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Is there another key?
+L260704 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ She's not dead!
+L260703 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ You think she stands a chance?
+L260702 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Look.
+L260701 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Not without Jamie.
+L260700 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ No, no, we have to get out of here right now.
+L260625 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ 10 years ago? Halloween? He's Jamie's uncle.
+L260624 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Who's that?
+L260623 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Michael Myers.
+L260622 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ What's going on?
+L260621 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ We've been better.
+L260620 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Are you two okay?
+L260499 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Oh really? Well, I'll just let you get back to little Ms. Hot panties.
+L260498 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ I am different, it's just that I just got pissed off...that's all.
+L260497 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ So you hop on to the next best thing? I thought you were different from other guys.
+L260496 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ I mean, you blew off our date at last minute.
+L260495 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ No, you don't understand.
+L260494 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Just leave me alone and lets forget it.
+L260491 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ You don't owe me anything.
+L260490 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Rachel, I've got an expl-- I've got an explanation.
+L260397 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Okay, I guess. I'll call you later.
+L260396 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ I don't know Brady.
+L260395 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ So?
+L260394 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ My parents are going to come home early tonight.
+L260393 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Can I come over after Jamie's asleep?
+L260392 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ I'm not angry it's just
+L260391 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Don't get angry.
+L260390 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Well you found out this morning? Why didn't you tell me before? I mean it's 5 o'clock now Rachel...shit
+L260389 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ This morning.
+L260388 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ When did you find this out?
+L260387 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ So I have to watch Jamie tonight.
+L260386 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ So?
+L260385 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ My parents baby-sitter canceled.
+L260384 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ What?
+L260382 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Its about tonight.
+L260381 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Okay sure. What about?
+L260380 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ We need to talk.
+L260377 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ You do? Okay. Go down aisle A. We've got the best costumes in the whole town.
+L260376 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Jamie needs a Halloween costume.
+L260375 +++$+++ u5706 +++$+++ m378 +++$+++ BRADY +++$+++ Rachel! What are you doing here? I thought I was supposed to pick you up?
+L260318 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ Look, even if by some miracle Michael is conscience, his muscles would be totally useless.  Give the troopers a chance to search.
+L260317 +++$+++ u5707 +++$+++ m378 +++$+++ COP +++$+++ I've seen bodies thrown 50-60 feet from a crash site.
+L260313 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ Loomis, it's over. Leave it alone.
+L260312 +++$+++ u5707 +++$+++ m378 +++$+++ COP +++$+++ It's hard to tell, there all chewed up.
+L260306 +++$+++ u5707 +++$+++ m378 +++$+++ COP +++$+++ Yes, sir.
+L260305 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ An accident?
+L260304 +++$+++ u5707 +++$+++ m378 +++$+++ COP +++$+++ Sometime in the night. They probably lost the road in the storm. Come down the embankment. It happens.
+L260303 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ When did this happen?
+L260426 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ I know, and next to that is the police, hospital, fire, and probably National Guard.
+L260425 +++$+++ u5708 +++$+++ m378 +++$+++ DARLENE +++$+++ We'll be at the Fallbrooks. The number's next to the phone.
+L260424 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ You guys always look great.
+L260423 +++$+++ u5708 +++$+++ m378 +++$+++ DARLENE +++$+++ How do we look?
+L260277 +++$+++ u5708 +++$+++ m378 +++$+++ DARLENE +++$+++ Its not exactly the end of the world, for goodness sake
+L260276 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ What am I supposed to tell Brady? Sorry, but I've got to baby-sit my foster sister, go and have fun by yourself.
+L260275 +++$+++ u5708 +++$+++ m378 +++$+++ DARLENE +++$+++ Its too late.
+L260274 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Can't you find somebody else?
+L260273 +++$+++ u5708 +++$+++ m378 +++$+++ DARLENE +++$+++ Well tonight is very important for your father and me.
+L260272 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Not tonight. I've got that date with Brady. You know how important that is.
+L260271 +++$+++ u5708 +++$+++ m378 +++$+++ DARLENE +++$+++ You'll have to watch Jamie tonight.
+L260270 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Mom, please
+L260265 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Mom, I'm on a diet. You want an oinker for a daughter?
+L260264 +++$+++ u5708 +++$+++ m378 +++$+++ DARLENE +++$+++ Hang on Mrs. Pierce.  Not that tie, on the other side.  That's not the only thing your eating Rachel.
+L260582 +++$+++ u5720 +++$+++ m378 +++$+++ RICHARD +++$+++ I'm not calling the fire department.
+L260581 +++$+++ u5708 +++$+++ m378 +++$+++ DARLENE +++$+++ We should call the fire department.
+L260580 +++$+++ u5720 +++$+++ m378 +++$+++ RICHARD +++$+++ I told them to be here by nine. Its not 9:30 yet.
+L260579 +++$+++ u5708 +++$+++ m378 +++$+++ DARLENE +++$+++ Because the lights are all out.
+L260578 +++$+++ u5720 +++$+++ m378 +++$+++ RICHARD +++$+++ How do you know their not?
+L260577 +++$+++ u5708 +++$+++ m378 +++$+++ DARLENE +++$+++ Honey, I don't think their home.
+L260269 +++$+++ u5708 +++$+++ m378 +++$+++ DARLENE +++$+++ Susan broke her ankle last night at the ice rink  Rachel?
+L260268 +++$+++ u5720 +++$+++ m378 +++$+++ RICHARD +++$+++ Why not?
+L260267 +++$+++ u5708 +++$+++ m378 +++$+++ DARLENE +++$+++ Sorry. Do you suppose Susan could just bring her crutches? Oh, stupid question. Tell her I hope  she feels better.  Susan's mother, she can't baby-sit tonight.
+L260266 +++$+++ u5720 +++$+++ m378 +++$+++ RICHARD +++$+++ Found it.
+L260263 +++$+++ u5720 +++$+++ m378 +++$+++ RICHARD +++$+++ Honey, this tie has a spot on it, I can't wear this today. I got a 10:30 with Chuck.
+L260262 +++$+++ u5708 +++$+++ m378 +++$+++ DARLENE +++$+++ Clean one in the laundry room next to your blue slacks.  Hello?
+L260258 +++$+++ u5720 +++$+++ m378 +++$+++ RICHARD +++$+++ It's okay..it's okay.
+L260257 +++$+++ u5708 +++$+++ m378 +++$+++ DARLENE +++$+++ Oh dear God. Its all right...a bad dream, just a nasty old dream.
+L260321 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Haddonfield. It's a four hour drive. You can reach me through the local police. If you didn't find him in four hours, I'm sure I will.
+L260320 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ Now where are you going?
+L260311 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ How many bodies did you find?
+L260310 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ Four plus Myers.
+L260309 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ How many people in the bus?
+L260308 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ Why shouldn't I?
+L260297 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ I've said this before. I think your the one who needs medical help.
+L260296 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ I don't want to have anyone live through that night again.
+L260295 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ I can see this is useless.
+L260294 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ We're not talking about any ordinary prisoner Hoffman! We are talking about evil on two legs.
+L260293 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ For Christ sakes. Spare me the speech. I've listened to it for a decade.  The fact is that Michael Myers was a federal patient, and a federal prisoner therefore he is subject to federal law.
+L260292 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ You know damn well about what.  You let them take it out of here.
+L260291 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ About what?
+L260290 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Why wasn't I notified?
+L260229 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ Drive Carefully.
+L260228 +++$+++ u5717 +++$+++ m378 +++$+++ MAN +++$+++ Night Doc.
+L260227 +++$+++ u5717 +++$+++ m378 +++$+++ MAN +++$+++ Yeah.  Well I guess your happy to see him go.
+L260226 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ I can safely say that Michael Myers is now in your hands.
+L260225 +++$+++ u5717 +++$+++ m378 +++$+++ MAN +++$+++ Watch it.
+L260223 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ If Loomis read memos he's be here. Fortunately his position is more ceremonial then medical. My hope is that he's either transfer, retire, or die.
+L260222 +++$+++ u5717 +++$+++ m378 +++$+++ MAN +++$+++ I'd assumed Dr. Loomis would be here.  Michael Myers was his patient.
+L260221 +++$+++ u5717 +++$+++ m378 +++$+++ MAN +++$+++ Check him out.
+L260220 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ Outside.
+L260219 +++$+++ u5717 +++$+++ m378 +++$+++ MAN +++$+++ I do.
+L260218 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ Ready to go.  Who signs for him?
+L260217 +++$+++ u5717 +++$+++ m378 +++$+++ MAN +++$+++ Has he been prepped?
+L260216 +++$+++ u5709 +++$+++ m378 +++$+++ DR. HOFFMAN +++$+++ I'm Dr. Hoffman, Medical Administrator.
+L260215 +++$+++ u5717 +++$+++ m378 +++$+++ MAN +++$+++ Yes.
+L260780 +++$+++ u5710 +++$+++ m378 +++$+++ EARL +++$+++ Okay, out.
+L260779 +++$+++ u5711 +++$+++ m378 +++$+++ GUY +++$+++ Got it Earl.
+L260778 +++$+++ u5710 +++$+++ m378 +++$+++ EARL +++$+++ Okay everybody, listen up. I've got Rachel Corruthers and her sister in the truck, and I'm taking them outta town route 410. State police are on the way. Got that?
+L260585 +++$+++ u5710 +++$+++ m378 +++$+++ EARL +++$+++ You dumb son of a bitch, you said you saw Myers.
+L260584 +++$+++ u5711 +++$+++ m378 +++$+++ GUY +++$+++ Shit, Earl. It's Ted Holster.
+L260567 +++$+++ u5711 +++$+++ m378 +++$+++ GUY +++$+++ Al here lost his boy 10 years back.
+L260566 +++$+++ u5710 +++$+++ m378 +++$+++ EARL +++$+++ Like the last time? How many people killed back then? How many kids?
+L260562 +++$+++ u5710 +++$+++ m378 +++$+++ EARL +++$+++ Looks to me like your out of business. Now I want some answers.
+L260561 +++$+++ u5711 +++$+++ m378 +++$+++ GUY +++$+++ What the hell did this?
+L260519 +++$+++ u5711 +++$+++ m378 +++$+++ GUY +++$+++ No way. No how.
+L260518 +++$+++ u5710 +++$+++ m378 +++$+++ EARL +++$+++ We're going to Ben's. The phone never just rings at a police station.
+L260511 +++$+++ u5710 +++$+++ m378 +++$+++ EARL +++$+++ Police station. I ain't closing down with out a good goddamn reason.
+L260510 +++$+++ u5711 +++$+++ m378 +++$+++ GUY +++$+++ Who you calling?
+L260509 +++$+++ u5710 +++$+++ m378 +++$+++ EARL +++$+++ Sure ain't. Martians could land on Ben's doorstep, all he'd do is spit once and get himself a shot gun.
+L260508 +++$+++ u5711 +++$+++ m378 +++$+++ GUY +++$+++ Not like 'ol Ben Meeker do something like that.
+L260749 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Rachel!
+L260748 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ I've got you come on, go down.
+L260747 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Rachel!
+L260744 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Well try dammit!
+L260743 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ I can't.
+L260742 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ I'm gonna lower you to the chimney, okay Jamie?
+L260732 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Come on.
+L260731 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ No.
+L260730 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Rachel come on.
+L260712 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Oh Rachel!
+L260711 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Jamie!
+L260637 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Real soon, Jamie. Now shh.
+L260636 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Can we go home soon Rachel?
+L260478 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Forget it kido. We're home by eight o'clock.
+L260477 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ No way! Halloween's great. Can we stay out all night?
+L260476 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Had enough?
+L260470 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ This is great Rachel. Come on.
+L260469 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Jamie, wait for me.
+L260442 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ I'm ready. I'm ready. Okay, let's go.
+L260441 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ I thought you said you were ready.
+L260440 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Coming.
+L260439 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Come on Rachel!
+L260435 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Yeah, hurry up.
+L260434 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Rachel, can I go get my costume on?
+L260401 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ He's coming to get me Rachel.
+L260400 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ What?
+L260399 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ It was the nightmare man
+L260398 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Jamie, what happened?
+L260379 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ In a second.
+L260378 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Come on Rachel.
+L260362 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ You bet.
+L260361 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ The Discount Mart. Can we get Ice Cream after?
+L260348 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ But I thought you didn't want to go trick-or-treating.
+L260347 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ I wanna go trick-or-treating like the other kids.
+L260346 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ You ready for some Ice Cream?
+L260345 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Hi.
+L260289 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Double scoops. Now lets get some breakfast.
+L260288 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Double scoops?
+L260287 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ How about this afternoon I pick you up from school and we go get ice cream?
+L260286 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ It's Halloween. I mean don't you want to get dresses up in a really scary costume and get some candy?
+L260285 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ I don't want to.
+L260284 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Well tonight we're going to do something better. We're going to go trick-or-treating.
+L260283 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ But you wanted to go out tonight. It's my fault that you can't.
+L260282 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Jamie, I'm sorry. I didn't mean it like that. I can go out with Brady tomorrow night. Its no big deal.
+L260279 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ I'm sorry I ruined everything. If I wasn't here you could go out.
+L260278 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Sure it is. I think tonight Brady was ready to make a commitment.  But now my future relationship, my engagement, my marriage, my children, your grandchildren, have all been wiped out because I have to baby sit tonight.
+L260251 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Come on Jamie, lets go back to bed.  Come on Sunday.
+L260250 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Your lucky.  I wish she could do the same for me.
+L260249 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Your mother used to baby-sit me when I was your age.  I bet you didn't know that.
+L260248 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ It's been eleven months.
+L260247 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ I know you miss your parents, its hasn't been that long.
+L260246 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Sure it does.
+L260245 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ We're not real sisters Jamie, but that doesn't mean I love you any less.
+L260244 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Like a real sister?
+L260243 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Jamie, sometimes it's...
+L260242 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Like a sister?
+L260241 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Oh, serious questions tonight.  Of course I love you.
+L260240 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Do you love me Rachel?
+L260239 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ What is this? Four nights in a row?  You going for a record here?  The seven year olds insomniacs hall of fame?
+L260238 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ I can't sleep.
+L260237 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Kido. It's four in the morning.
+L260763 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ No.
+L260762 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ You don't believe that do you?
+L260761 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Yeah.
+L260760 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Then we'll be safe?
+L260759 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ We'll hear sirens soon.
+L260756 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Oh no you can't. I've just been there. That's the first place he'll look for you. Where's the school house? Where is the school house?
+L260755 +++$+++ u5712 +++$+++ m378 +++$+++ JAMIE +++$+++ Everybody's dead. I just wanna go home.
+L260754 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ What are you doing out here alone?
+L260633 +++$+++ u5713 +++$+++ m378 +++$+++ KELLY +++$+++ All right.
+L260632 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Why don't you go make some coffee.
+L260629 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ All right. Good Good.  Logan I want you right here by the front door. This is the dead bolt key.
+L260628 +++$+++ u5713 +++$+++ m378 +++$+++ KELLY +++$+++ That's all the windows, Dad.
+L260600 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Just do it.
+L260599 +++$+++ u5713 +++$+++ m378 +++$+++ KELLY +++$+++ Why?
+L260598 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Kelly, I want you to close and lock all the downstairs windows.
+L260597 +++$+++ u5713 +++$+++ m378 +++$+++ KELLY +++$+++ Dad, what's going on?
+L260596 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Rachel, take your sister upstairs. First door on the right.
+L260669 +++$+++ u5713 +++$+++ m378 +++$+++ KELLY +++$+++ Wise up to what men want Rachel, or Brady won't be the last man you lose to another woman.
+L260668 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Don't you mean what you do best?
+L260667 +++$+++ u5713 +++$+++ m378 +++$+++ KELLY +++$+++ He's not married. Besides, I've got a right to do what's best for me.
+L260666 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ You knew. You just didn't care.
+L260665 +++$+++ u5713 +++$+++ m378 +++$+++ KELLY +++$+++ I didn't know you and Brady had anything okay?
+L260486 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Hi.
+L260485 +++$+++ u5713 +++$+++ m378 +++$+++ KELLY +++$+++ Hi Rachel.
+L260374 +++$+++ u5714 +++$+++ m378 +++$+++ LINDSAY +++$+++ Okay, bye.
+L260373 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Call me.
+L260360 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Jamie?
+L260359 +++$+++ u5714 +++$+++ m378 +++$+++ LINDSAY +++$+++ Well do I drop you off at the Discount Mart or the Dairy Queen?
+L260358 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ I don't know.
+L260357 +++$+++ u5714 +++$+++ m378 +++$+++ LINDSAY +++$+++ Fact it Rach, you are desperate.  Your just going to go in and buy a costume for Jamie. Perfectly legit.
+L260356 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Well I don't want to seem desperate or anything.
+L260355 +++$+++ u5714 +++$+++ m378 +++$+++ LINDSAY +++$+++ You won't come on too strong.
+L260354 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Well I don't want to come on too strong. A guy hates a girl to come on strong. Fragile egos and all of that.
+L260353 +++$+++ u5714 +++$+++ m378 +++$+++ LINDSAY +++$+++ You won't look pushy.
+L260352 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ I don't want to look pushy.
+L260351 +++$+++ u5714 +++$+++ m378 +++$+++ LINDSAY +++$+++ I know! Don't you want to talk to him?
+L260350 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ No. Brady's working there till 6:00 today.
+L260349 +++$+++ u5714 +++$+++ m378 +++$+++ LINDSAY +++$+++ You know Rach, Discount Mart is having a sale on Halloween costumes.
+L260344 +++$+++ u5714 +++$+++ m378 +++$+++ LINDSAY +++$+++ Hi Jamie.
+L260343 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ You remember Lindsay don't you?
+L260663 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Maybe nobody knows how to stop him, but I've got to try.
+L260662 +++$+++ u5715 +++$+++ m378 +++$+++ LOGAN +++$+++ Do you?
+L260661 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ The state police won't know how to stop him.
+L260660 +++$+++ u5715 +++$+++ m378 +++$+++ LOGAN +++$+++ Leave Myers for the state boys.
+L260659 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ The Corruther's house. That's where Jamie lives, that's where he'll go.
+L260658 +++$+++ u5715 +++$+++ m378 +++$+++ LOGAN +++$+++ Where are you going?
+L260657 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Its not over yet.
+L260656 +++$+++ u5715 +++$+++ m378 +++$+++ LOGAN +++$+++ Hell of a night.
+L260683 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Hey. I got a town full of beer bellies running around in the dark with shotguns. Who's gonna be next? Somebody's wife? Somebody's kid?
+L260682 +++$+++ u5715 +++$+++ m378 +++$+++ LOGAN +++$+++ Maybe you ought to wait here till they do.
+L260681 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ I'll be out on gateway and I doubt I'll be back before the troopers get here.
+L260631 +++$+++ u5715 +++$+++ m378 +++$+++ LOGAN +++$+++ Got it Ben.
+L260630 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Now I pad locked the back door, this is the only way in and out of this house. You got that?
+L260619 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ If you'd seen that police station you wouldn't even ask.
+L260618 +++$+++ u5715 +++$+++ m378 +++$+++ LOGAN +++$+++ Isn't this all a little paranoid?
+L260617 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Making sure that no one can get in here.
+L260616 +++$+++ u5715 +++$+++ m378 +++$+++ LOGAN +++$+++ What are we doing?
+L260615 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Get the outside shutters.
+L260609 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Go get it.
+L260608 +++$+++ u5715 +++$+++ m378 +++$+++ LOGAN +++$+++ Yeah in the trunk of my squad.
+L260607 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ You got your riot gun?
+L260576 +++$+++ u5715 +++$+++ m378 +++$+++ LOGAN +++$+++ I'll be there in 5 minutes.
+L260575 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Go to my house. We'll call the state force from there.
+L260574 +++$+++ u5715 +++$+++ m378 +++$+++ LOGAN +++$+++ Ben-uh-I just heard about the station.
+L260573 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ This is 132, over.
+L260572 +++$+++ u5715 +++$+++ m378 +++$+++ LOGAN +++$+++ 132 to 133 this is 134.
+L260529 +++$+++ u5715 +++$+++ m378 +++$+++ LOGAN +++$+++ No problem, Sheriff.
+L260528 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ You look sharp. You understand?
+L260527 +++$+++ u5715 +++$+++ m378 +++$+++ LOGAN +++$+++ Right here, Ben.
+L260526 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Logan, I want you to stay here in case the family gets back.
+L260800 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ They've survived this ordeal, they'll survive it's memory.
+L260799 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ These kids aren't likely to forget.
+L260798 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Yes. Michael Myers is in hell, buried, where he belongs.
+L260797 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ It's over.
+L260639 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Batteries. I planned the generator for the house next week. I wished I hadn't waited.  This is squawk 79er zero of Haddonfield broadcasting on the state police emergency frequency. Can anyone hear me?
+L260638 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ How's it powered?
+L260602 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Right through the kitchen you'll see the basement stairs.  Brady, you know how to use a gun?
+L260601 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Where's the radio?
+L260595 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Be here in a minute.
+L260594 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Where's that Deputy?
+L260570 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ You haven't got a police force! These men may be the only defense you've got.
+L260569 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ You son of a bitch, you just created a lynch mob.
+L260565 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Let it be Earl. Let the police handle it.
+L260564 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ It was Michael Myers. He's come home to kill.
+L260558 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Evil.
+L260557 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ What is he? Tell me! What the hell are we dealing with?
+L260556 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ It isn't a man.
+L260555 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ How can a man do this Loomis? Tell me.
+L260554 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ They didn't know what they were fighting.
+L260553 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Oh Christ. They wouldn't have given up without a fight.
+L260548 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Dear God.
+L260547 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Oh Christ. Doc...
+L260546 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Yes.
+L260545 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Is that him? Is that him?
+L260525 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Least I'm not alone.
+L260524 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ This is starting to spook me.
+L260523 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ How do you know?
+L260522 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ He's been here.
+L260521 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Something?
+L260467 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ All right. Pierce, do it. Lets check on this little girl.
+L260466 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ When he makes that call.
+L260463 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Find this little girl, get her somewhere safe. Call the local T.V. station. Tell them to get people off the streets and behind locked doors.
+L260462 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ All right, all right. Its true, what the hell can we do to avoid a repeat of what happened 10 years ago?
+L260461 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Its true, Sheriff.
+L260460 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Hank, call the troopers and check his story out.  And assuming what you say is true..
+L260459 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Six bodies, Sheriff! That's what I have seen between here and Ridgemont. A filling station in flames. I'm telling you Michael Myers is here in this town. He's here to kill that little girl and anybody that gets in his way.
+L260458 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Myers has been locked up since before she was born. He's never laid eyes on her.
+L260457 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Where ever she is, that little girl is in mortal danger.
+L260456 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Are you talking about Jamie Lloyd?
+L260455 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ 10 years ago he tried to kill Laurie Strode, and now he wants her daughter.
+L260454 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Why?
+L260453 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ He's here, Sheriff.
+L260452 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ That's impossible. Michael Myers is an invalid.
+L260451 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Michael Myers has escaped from Ridgemont. He's here in Haddonfield.
+L260450 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Loomis. Folks around here aren't likely to forget your face. At least not cops. So what brings you back here after 10 years?
+L260449 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Oh, Sheriff Meeker, my name is Dr. ...
+L260448 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ I am. Ben Meeker.
+L260418 +++$+++ u5721 +++$+++ m378 +++$+++ SAYER +++$+++ Oh your a pilgrim all right. I saw it on your face back there in the dust. I saw it clear as Breasts and blue suede shoes. Would you like a drink? 
+L260417 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ I know that Mr. Sayer.
+L260416 +++$+++ u5721 +++$+++ m378 +++$+++ SAYER +++$+++ Apocalypse, end of the world, Armageddon. Its always got a face and a name.
+L260415 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ What are you hunting, Mr. Sayer?
+L260414 +++$+++ u5721 +++$+++ m378 +++$+++ SAYER +++$+++ Your hunting it, ain't ya? Yeah, your hunting it all right, just like me.
+L260413 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Sort of.
+L260412 +++$+++ u5721 +++$+++ m378 +++$+++ SAYER +++$+++ Car trouble?
+L260411 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Loomis. Haddonfield.
+L260410 +++$+++ u5721 +++$+++ m378 +++$+++ SAYER +++$+++ Gods Country, Promise Land. Where are you heading Mr..ah
+L260409 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ How far are you going, Mr. Sayer?
+L260408 +++$+++ u5721 +++$+++ m378 +++$+++ SAYER +++$+++ Anything for a fellow pilgrim. Sometimes we need help getting where we want to be.  Reverend Jackson Pete Sayer of Dumon County, please to make your aquanauts.
+L260407 +++$+++ u5716 +++$+++ m378 +++$+++ LOOMIS +++$+++ Thank you.
+L260794 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Don't touch him Jamie!
+L260793 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Jamie! Get away!
+L260791 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Calm down. Calm down. Are you all right? Are you all right?
+L260790 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Sheriff Meeker, we killed him.
+L260680 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Uh huh.
+L260679 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Now you understand?
+L260678 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Okay.
+L260677 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ All right Rachel, you stay by this radio. The state boys will send word once their in route. When that word comes you go tell deputy Logan.
+L260676 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ Sheriff, what is going on out there?
+L260543 +++$+++ u5719 +++$+++ m378 +++$+++ RACHEL +++$+++ What's going on?
+L260542 +++$+++ u5718 +++$+++ m378 +++$+++ MEEKER +++$+++ Rachel, Jamie. Thank God!

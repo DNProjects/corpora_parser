@@ -1,0 +1,778 @@
+L213162 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No!  Look at you!  You're... you're running around in ski masks, exploding things...
+L213161 +++$+++ u5256 +++$+++ m348 +++$+++ ANGEL FACE +++$+++ He was killed in action.
+L213160 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Get your hands off him!  Get off...! What the hell do you think you're doing... ? Evidence?!  This is a man... !  You killed him!
+L213158 +++$+++ u5256 +++$+++ m348 +++$+++ ANGEL FACE +++$+++ The garden.  Take him there.  Move, people.  Let's do this!
+L213157 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What... ?
+L213135 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Right, right.
+L213134 +++$+++ u5256 +++$+++ m348 +++$+++ ANGEL FACE +++$+++ The first rule of Project --
+L213133 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Where's Tyler?
+L213132 +++$+++ u5256 +++$+++ m348 +++$+++ ANGEL FACE +++$+++ That wouldn't interest you.
+L213202 +++$+++ u5257 +++$+++ m348 +++$+++ BANDAGED PROPRIETOR +++$+++ I'm afraid I have to insist you leave.
+L213201 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You are a moron.
+L213200 +++$+++ u5257 +++$+++ m348 +++$+++ BANDAGED PROPRIETOR +++$+++ I'm not disclosed to bespeak any such information to you, nor would I, even if I had said information you want, at this juncture be able.
+L213199 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Look at my face.  I'm a member.  I just need to know if you've seen Tyler Durden.
+L213198 +++$+++ u5257 +++$+++ m348 +++$+++ BANDAGED PROPRIETOR +++$+++ I'm sorry, I haven't the faintest idea what you're talking about.
+L213197 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ There's no one else here.
+L213196 +++$+++ u5257 +++$+++ m348 +++$+++ BANDAGED PROPRIETOR +++$+++ Sir, you're disturbing the other patrons with your laudish behavior.
+L213195 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I need to know where Tyler is.  Can't you help me?
+L212873 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ You know about the guy who invented it? I hear all kinds of things. Supposedly, he was born in a mental institution.  They say he only sleeps one hour a night.  You know about this guy?  Tyler Durden?
+L212872 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yeah, both of us.
+L212871 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ That's a fucking great, man!  Fucking great! Congratulations.
+L212870 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Look at my face.
+L212869 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ You are?!
+L212868 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Bob, Bob... I'm a member.
+L212867 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ And the second rule about it is... you're not supposed to talk about it. And the third rule...
+L212866 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Oh.
+L212865 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ The first rule is... you aren't supposed to talk about it...
+L212864 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Really, what's that?
+L212863 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ No.  I found something new.
+L212862 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Really?  Great.  Still "Remaining Men Together?"
+L212861 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ Better than I've ever been in my life.
+L212860 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Bob.  I'm okay.  How are you?
+L212859 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ Cornelius!  How are you?
+L212266 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Strangers with this kind of honesty make me go a big rubbery one.
+L212265 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ ...using steroids.  I was a juicer. Diabonol, then, Wisterol -- it's for racehorses, for Christsake.  Now I'm bankrupt, divorced, my two grown kids won't return my calls...
+L212264 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Bob was a champion bodybuilder.  You know that chest expansion program you see on TV?  That was his idea.
+L212227 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ They're gonna have to open my pec's again to drain the fluid.
+L212226 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Six months ago, Bob's testicles were removed.  Then hormone therapy.  He developed bitch tits because his testosterone was too high and his body upped the estrogen.  That was where my head fit -- into his huge, sweating tits that hung enormous, the way we think of God's as big.
+L212225 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yes.  We're men.  Men is what we are.
+L212224 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ We're still men.
+L212223 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ This was a support group for men with testicular cancer.  The big moosie slobbering all over me was Bob.
+L212888 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What about this?  Keep me on payroll as an outside consultant.  In exchange for my salary, I'll keep my mouth shut.  I won't need to come to the office.  I can do this job from home.
+L212887 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ Just who the fuck do you think you are?!  Get out!  You're fired!
+L212886 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Let's pretend.  You're the Department of Transportation, and you discover that our company intentionally did nothing about leather seats cured in third world countries with chemicals we know cause birth defects?  Brake linings that fail after a thousand miles.  Fuel injectors that burn people alive.
+L212885 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I Am Jack's Complete Lack of Surprise.
+L212884 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ Okay.  Where to begin?  With your constant absenteeism?  With your unpresentable appearance?  You're up for review...
+L212883 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ We need to talk.
+L212822 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ Pretend you're me.  You find this. What would you do?
+L212821 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ "Abuse" the copy machine.  There's an image.
+L212820 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ You don't get paid to abuse the copy machine.
+L212819 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Hmm?
+L212818 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ "The second rule of fight club... Is this yours?
+L212817 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I must've left the original in the copy machine.
+L212725 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Some of it, yes.
+L212724 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ Is that your blood?
+L212610 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yes.
+L212609 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ Have you finished those reports?
+L212608 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ After fight club, everything else in your life gets the volume turned down.  You can deal with anything.
+L212238 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ Here are your flight coupons.  Call me from the road if there are any snags.  Your itinerary...
+L212237 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ He was full of pep.  Must've had his grande latte enema.
+L212236 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ You need to make these your primary "action items."
+L212235 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You want me to de-prioritize my current reports until you advise of a status upgrade?
+L212234 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ It must've been Tuesday.  he was wearing his "cornflower-blue" tie.
+L212233 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ I'm going to need you out-of-town a little more this week.  We've got some "red-flags" to cover.
+L212757 +++$+++ u5260 +++$+++ m348 +++$+++ DETECTIVE STERN +++$+++ Well, if any ideas come to you, give me a call.  In the meantime, don't leave town.  I may need to bring you in for questioning.
+L212756 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I'd like to thank the academy...
+L212755 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No.  No, sir.  I loved that condo. I loved every stick of furniture. The lamps, the chairs, the rugs, were me.  The dishes were me.  The plants were...
+L212748 +++$+++ u5260 +++$+++ m348 +++$+++ DETECTIVE STERN +++$+++ I'll ask the questions, son.
+L212747 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Who do you think could've done this?
+L212746 +++$+++ u5260 +++$+++ m348 +++$+++ DETECTIVE STERN +++$+++ Whoever set this homemade dynamite could've blown out the pilot light days before the explosion.  The gas, it seems, was just a detonator.
+L212745 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ This is... really a shock...
+L212744 +++$+++ u5260 +++$+++ m348 +++$+++ DETECTIVE STERN +++$+++ It means it was homemade.
+L212743 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What does that mean?
+L212742 +++$+++ u5260 +++$+++ m348 +++$+++ DETECTIVE STERN +++$+++ Yes.  It left a residue of ammonium oxalate and potassium perchloride. Do you know what that means?
+L212741 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Dynamite?
+L212740 +++$+++ u5260 +++$+++ m348 +++$+++ DETECTIVE STERN +++$+++ The dynamite...
+L212739 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yes, sire, strange.  Very strange.
+L212738 +++$+++ u5260 +++$+++ m348 +++$+++ DETECTIVE STERN +++$+++ Does this sound strange to you?
+L212737 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I am Jack's Cold Sweat.
+L212736 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No, I wasn't aware...
+L212735 +++$+++ u5260 +++$+++ m348 +++$+++ DETECTIVE STERN +++$+++ I don't know if you're aware... your front door -- it seems someone sprayed freon into the lock, then tapped it with a chisel to shatter the cylinder.
+L212734 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yes?
+L212733 +++$+++ u5260 +++$+++ m348 +++$+++ DETECTIVE STERN +++$+++ This is Detective Stern with the arson unit.  We have some new information about the "incident" at your condo.
+L212255 +++$+++ u5261 +++$+++ m348 +++$+++ INTERN +++$+++ You want to see pain?  Swing by First Methodist Tuesday nights.  See the guys with testicular cancer.  That's pain.
+L212254 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I'm in pain.
+L212253 +++$+++ u5261 +++$+++ m348 +++$+++ INTERN +++$+++ You need healthy, natural sleep. Chew valerian root and get some more exercise.
+L212252 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Red-and-blue Tuinal, lipstick-red Seconals.
+L212251 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Can't you give me something?
+L212250 +++$+++ u5261 +++$+++ m348 +++$+++ INTERN +++$+++ You need to lighten up.
+L212249 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Maybe I died already.  Look at my face.
+L212248 +++$+++ u5261 +++$+++ m348 +++$+++ INTERN +++$+++ No, you can't die of insomnia.
+L213510 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I did, I think.  But, I'm okay... I'm fine...
+L213509 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Who did this to you?
+L213508 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yes.
+L213507 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ My God, you're shot...
+L213505 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Don't ask.
+L213504 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ What happened... ?
+L213362 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yes, fine.  Just, get on.  Stay away a couple of weeks, at least.
+L213361 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ I'm not paying this back.  I consider it "asshole tax."
+L213360 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I can't let myself see where you're going.  Go wherever it takes you, remember... keep away from major cities...
+L213359 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Why are you doing this?
+L213358 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I'm begging you.  Get on the bus. Get on the bus.
+L213357 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Tyler...
+L213355 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Okay, if that's what it takes, you'll never have to see me again.  Here... here...
+L213354 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Leave me alone!  I don't ever want to see you again!
+L213353 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Do this for me, Marla.  Do this for me, if you never do anything else...
+L213352 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Let go of me!
+L213350 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ What?!  You're sorry?  I don't believe that for a minute.
+L213349 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I'm sorry, but I...
+L213348 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ There's a part of you I really like, but I can't do this anymore.  I just can't.  This is killing me...
+L213347 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ No, no, shut up!  I've had enough. I tried, Tyler... I have tried...
+L213346 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Marla...
+L213345 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ You are an insane person.
+L213344 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You have to get out of here.  Leave as soon as possible.  Go to any rural town, away from any major city...
+L213343 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ What?
+L213342 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I'm trying to tell you -- and this is where you have to trust me -- but, I think your life might be in real danger.
+L213340 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Whatever.  I'll take my food to go...
+L213339 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I mean, the depth and breadth of our relationship has only recently been illuminated for me.  I know this... I know us hasn't been such a great thing for you...
+L213338 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ What?
+L213337 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I deserve that.  Anyway, I've... I've only just realized
+L213336 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Two sides?  You're Dr. Jeckle and Mr. Jackass.
+L213335 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I know that I've been... unwell.  I know it's been like there's two sides to me.
+L213334 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ You got about thirty seconds.
+L213330 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Then, I'll have the clam chowder... fried chicken and a baked potato with everything and a chocolate chiffon pie.
+L213329 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Because... I'm Tyler Durden.
+L213326 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ I've done you enough favors.
+L213325 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Absolutely, you have every right.  I need you to do me a favor.
+L213324 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Sixty seconds, then I'm out of here.
+L213323 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Give me a minute, Marla, alright... just sixty seconds.
+L213322 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ I don't want to hear anything you've got to say.
+L213320 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Here comes an avalanche of bullshit.
+L213319 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Marla... I need to talk to you.  It's going to take a tremendous act of faith on your part for you to hear me out.
+L213318 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ The were burning their fingertips with lye.  The stink was unbelievable.
+L213317 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I'm sorry, I...
+L213316 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Your whacked-out, bald freaks hit me with a fucking broom.  I thought they were going to break my arm.
+L213315 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Marla...
+L213244 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Marla, no, wait...
+L213243 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Tyler Durden!  Tyler Durden, you fucking freak.  What's going on?  I'm coming over there...
+L213242 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Say my name!  What's my name!?
+L213241 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ What... ?
+L213240 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Say my name.
+L213239 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ What is wrong with you?
+L213238 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What did you say... ?
+L213237 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ We've just lost cabin pressure.
+L213236 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ You fuck me, then snub me.  You love me, you hate me.  You show me your sensitive side, then you turn into a total asshole!  Is that a pretty accurate description of our relationship, Tyler?
+L213235 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Answer the question!
+L213234 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Is that what you're calling it?
+L213233 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ We did make love?
+L213232 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ You mean, you want to know if I think we were just having sex or making love?
+L213231 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Will you just answer me, for Christsake?!
+L213230 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Is this a trick?
+L213229 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Because the answer's "yes" or because the answer's "no?"
+L213228 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ What kind of stupid question is that?!
+L213227 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Marla, it's me.  Have we... have we ever had sex?
+L213226 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Yeah?
+L213143 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ He's not here!  Tyler's not here anymore!  He's gone away!
+L213142 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ What?
+L213141 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ He's not here.
+L213140 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Can I come in?
+L213139 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ The Paper Street Soap Company.
+L213099 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ You're afraid to say.
+L213098 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Let go of me...  Leave me alone.
+L213097 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Why would you get bent if I asked?
+L213096 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Why would you ask if it's a guy or a girl?!
+L213095 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Guy or girl?
+L213094 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ ... A person.
+L213093 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ What is this?  Who did this?
+L213085 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ That day you came over to my place to play doctor... what was going on there?
+L213084 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No.
+L213082 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Have we been talking too long?  Must we change the subject?
+L213081 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ That... sawing and hammering.
+L213080 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Hear what?
+L213079 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You hear that?
+L213078 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ What do you get out of it?
+L213077 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I don't understand.  Why does a weak person have to go out and find a strong person... to hang onto?
+L213074 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ It was the smart move on her part.
+L213073 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I don't know.
+L213072 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Do you care?
+L213071 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ When?
+L213070 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Chloe's dead.
+L213069 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Really... I mean it.  Have you been going to your groups?
+L213068 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Whatever.
+L213067 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You... don't have to... leave.
+L212856 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Well... thanks, anyway.
+L212855 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Uh ... nah.
+L212854 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ I could check your prostate.
+L212853 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I think everything's okay here.
+L212852 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ I wish I could return the favor.
+L212851 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No... no problem.
+L212850 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Well, that's a relief.  Thank you.
+L212849 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Nothing.
+L212848 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ You feel nothing?
+L212847 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Okay.  Okay, I'm sure.
+L212846 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Make sure.
+L212845 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No.
+L212844 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Feel anything?
+L212843 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Here.
+L212842 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Here.
+L212841 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ There?
+L212840 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Here.
+L212839 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Where?  Here?
+L212836 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Good.
+L212835 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No, thanks.
+L212834 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Tragically, they're dead.  I'm alive and I'm in poverty.  You want any?
+L212833 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ This is a sweet side of you.  Picking these up for ...  "Mrs. Haniver" and... "Mrs. Raines." Where are they?
+L212832 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ She didn't call Tyler.  I'm neutral in her book.
+L212831 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Please.
+L212830 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I don't know ...
+L212829 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Would you do something for me?  I need you to check and see if there's a lump in my breast.  I can't afford to throw money away on a doctor.
+L212828 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What are you talking about?
+L212775 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Goodbye.
+L212774 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ You're such a nutcase, I can't even begin to keep up.
+L212773 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Don't worry, I'm leaving.
+L212772 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ It's time for you to leave.
+L212765 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ It suits you.
+L212764 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Like sex crime victims, underwear inside-out, bound with electrical tape.
+L212761 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Worth every penny.
+L212760 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ I got this dress at a thrift store for one dollar.
+L212759 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Except for their humping, Tyler and Marla were never in the same room.
+L212668 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What the hell are you doing here?
+L212667 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ What... ?
+L212666 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What are you doing here?
+L212661 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Do you want to wait to hear me describe death?
+L212660 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ So you're staying in tonight?
+L212659 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ This could go on for hours.
+L212658 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ This isn't a for-real suicide thing. This is probably one of those cry-for- help things.
+L212657 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Picture yourself watching Marla Singer throw herself around her crummy apartment.
+L212656 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Me too.  I got a stomach full of Xanax.  I took what was left of a bottle.  Might've been too much.
+L212655 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I'm just on my way out...
+L212654 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ I've been going to debtor's anonymous.  You want to see some truly fucked up people?
+L212653 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Look, this is a bad time...
+L212652 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Like testicular cancer?
+L212651 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ It's for men.
+L212650 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Really?
+L212649 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I found a new one.
+L212648 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ You haven't been going to yours.
+L212647 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ That's the idea -- we split them.
+L212646 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ The forwarding number.  I haven't seen you at any support groups.
+L212645 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ How did you find me?
+L212644 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Marla?
+L212643 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Where have you been the last few weeks?
+L212371 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ I suppose.
+L212370 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ In case we want to switch nights.
+L212369 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Should we?
+L212368 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Um... Marla, should we maybe exchange numbers?
+L212366 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Let's not make a big thing out of it.
+L212365 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Looks like this is goodbye.
+L212364 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Deal.
+L212363 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ We'll split it.  You get it the first and third Sunday of the month.
+L212362 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ That's your favorite, too?  Tried to slip it by me, eh?
+L212360 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ The girl had done her homework.
+L212359 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ So, we each have three -- that's six. What about the seventh day?  I want ascending bowel cancer.
+L212355 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Then, take blood parasites.  It's yours.  Now we each have three.
+L212354 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ So far, you have four and I only have two!
+L212353 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You can't have the whole brain!
+L212352 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ I want that.
+L212351 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Okay.  I'll take blood parasites and organic brain dementia --
+L212350 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ I want brain parasites.
+L212349 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You can't have both parasites.  You can take blood parasites --
+L212348 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ I'll take the parasites.
+L212347 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ I don't know -- am I?
+L212346 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You're kidding.
+L212345 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Well, technically, I have more of a right to be there than you.  You still have your balls.
+L212344 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I think testicular cancer should be no contest.
+L212343 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ You take tuberculosis.  My smoking doesn't go over at all.
+L212342 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ We'll split up the week.  You can have lymphoma, tuberculosis and --
+L212340 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Please.  Can't we do something... ?
+L212339 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Candy-stripe a cancer ward.  It's not my problem.
+L212338 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Look, I can't cry with a faker present.
+L212337 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Really?
+L212336 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ It becomes an addiction.
+L212334 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yeah.
+L212333 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ -- Instead of just waiting for their turn to speak.
+L212332 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I... I don't know.  I guess... when people think you're dying, they really listen, instead...
+L212329 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Anyone who might've noticed either died or recovered and never came back.
+L212328 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ A year?  How'd you manage that?
+L212327 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ These are my groups.  I was here first.  I've been coming for a year.
+L212326 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ It's cheaper than a movie, and there's free coffee.
+L212325 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Why are you doing this?
+L212323 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Go ahead.  I'll expose you.
+L212322 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I'll expose you.
+L212321 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Telling me off.  Is it going as well as you hoped... ?  "... Mr. Taylor."
+L212320 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Practicing what?
+L212319 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ And I saw you practicing this...
+L212316 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Okay, in the Sylvia Plath philosophy way, we're all dying.  But you're not dying the way Chloe is dying.
+L212315 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ What?
+L212314 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I'm on to you.  You're a faker.  You aren't dying.
+L212313 +++$+++ u5265 +++$+++ m348 +++$+++ MARLA +++$+++ Sure.
+L212312 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ We need to talk.
+L212730 +++$+++ u5270 +++$+++ m348 +++$+++ TYLER'S VOICE +++$+++ You fucking slut!!
+L212729 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ ... and you come home to this.
+L212462 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Well... let me see... here's the thing...
+L212461 +++$+++ u5270 +++$+++ m348 +++$+++ TYLER'S VOICE +++$+++ I star-sixty-nined you.  I never pick up my phone.  What's up?
+L212460 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I just called a second ago.  There was no answer.  I'm at a payphone.
+L212459 +++$+++ u5270 +++$+++ m348 +++$+++ TYLER'S VOICE +++$+++ Oh, yeah.
+L212458 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Uh... I'm sorry.  We met on the plane.  We had the same briefcase. I'm... you know, the clever guy.
+L212457 +++$+++ u5270 +++$+++ m348 +++$+++ TYLER'S VOICE +++$+++ Who's this?
+L212456 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Tyler?
+L212455 +++$+++ u5270 +++$+++ m348 +++$+++ TYLER'S VOICE +++$+++ Who's this?
+L212454 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Hello?
+L213225 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Please return your seatbacks to their full upright and locked position.
+L213224 +++$+++ u5272 +++$+++ m348 +++$+++ WOUNDED BARTENDER +++$+++ You're the one who did this to me. You're Mr. Durden, sir.  Tyler Durden.
+L213223 +++$+++ u5272 +++$+++ m348 +++$+++ WOUNDED BARTENDER +++$+++ Is this part of the test?
+L213222 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Who do you think I am?
+L213221 +++$+++ u5272 +++$+++ m348 +++$+++ WOUNDED BARTENDER +++$+++ You were standing right where you are now, asking how good our security is. It's tight as a drum.
+L213220 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What?
+L213219 +++$+++ u5272 +++$+++ m348 +++$+++ WOUNDED BARTENDER +++$+++ You were in here last Thursday night.
+L213218 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yes... it's a test.
+L213217 +++$+++ u5272 +++$+++ m348 +++$+++ WOUNDED BARTENDER +++$+++ Is this a test, sir?
+L213216 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ ... You know me?
+L213215 +++$+++ u5272 +++$+++ m348 +++$+++ WOUNDED BARTENDER +++$+++ How have you been?
+L212438 +++$+++ u5268 +++$+++ m348 +++$+++ SECURITY TFM +++$+++ Yeah, uh huh... yeah?  Oh...
+L212437 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I had everything in that bag.  My C.K. shirts... my D.K.N.Y. shoes...
+L212436 +++$+++ u5268 +++$+++ m348 +++$+++ SECURITY TFM +++$+++ Nine time out of ten, it's an electric razor.  But, every once in a while ...  ...it's a dildo.  It's airline policy not to imply ownership in the event of a dildo.  We use the indefinite aricle: "A dildo."  Never "Your dildo."
+L212435 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ My suitcase was vibrating?
+L212434 +++$+++ u5268 +++$+++ m348 +++$+++ SECURITY TFM +++$+++ Baggage handlers.  But when a suitcase vibrates, the throwers have to call the police.
+L212433 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Excuse me?  "Throwers?"
+L212432 +++$+++ u5268 +++$+++ m348 +++$+++ SECURITY TFM +++$+++ Throwers don't worry about ticking. Modern bombs don't tick.
+L212318 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You're a tourist.  I saw you at melanoma, tuberculosis and testicular cancer.
+L212317 +++$+++ u5263 +++$+++ m348 +++$+++ LEADER +++$+++ Tell the other person how you feel.
+L212303 +++$+++ u5263 +++$+++ m348 +++$+++ LEADER +++$+++ Now, find your power animal.
+L212302 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ If I did have a tumor, I'd name it Marla.  Marla...the little scratch on the roof of your mouth that would heal if only you could stop tonguing it, but you can't.
+L212294 +++$+++ u5263 +++$+++ m348 +++$+++ LEADER +++$+++ Okay, everyone.
+L212293 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ -- But, in here, in everyone, there's the squint of a five-day headache. Yet they forced themselves to be positive.  They never said "parasite;" they said "agent."  They always talked about getting better.
+L212275 +++$+++ u5263 +++$+++ m348 +++$+++ LEADER +++$+++ ...And you open the door and you step inside.  We're inside our hearts.  Now, imaging your pain as a white ball of healing light.  That's right, the pain itself is a ball of healing light.
+L212274 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I wasn't really dying, I wasn't host to cancer or parasites; I was the warm little center that the life of this world crowded around.
+L212273 +++$+++ u5263 +++$+++ m348 +++$+++ LEADER +++$+++ Tonight, we're going to open the green door -- the heart chakra...
+L213496 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ My eyes are open.
+L213495 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What?
+L213494 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Look at me...
+L213493 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What?
+L213492 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Appreciate something.
+L213491 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What?
+L213490 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Do something for me.
+L213488 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ It's the only way to get rid of you...
+L213487 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Why are you going with this, Ikea- boy?
+L213485 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Not my mouth.  Our mouth.
+L213484 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Why do you want to do that? Why do you want to put that gun in your mouth?
+L213483 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What have you left for me?
+L213482 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What are you doing?
+L213480 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You will.  You know you will.
+L213479 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I swear on my life, I won't...
+L213478 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ If I leave, you will be right back where I found you...
+L213477 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Please understand... I've gotten all I can from this, Tyler.
+L213476 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ I'm doing this for us.
+L213475 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Why are you doing this?!
+L213474 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ No more running off without you. From here on out, we do it together.
+L213473 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ ... no, no, no...
+L213472 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ From now on, we'll share Marla. We've been spending too much time apart...
+L213471 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Noooo, please...
+L213470 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Look, I can be selfish, I know that.  I'm not blind to my own failings...
+L213469 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No, no, I don't.  I thank you, I really do.  Thank you, but I don't need you anymore.
+L213468 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You need me.
+L213467 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Why can't I get rid of you?  Why can't I just wish you away?
+L213466 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Why what?
+L213465 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Why... why... why... ?
+L213463 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Fuck that, maybe you're my hallucination.
+L213462 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ How'd you do that?!  You're a fucking figment of my imagination... you're psychogenic fugue state...
+L213460 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Proceed with remote detonation.
+L213459 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ NO...
+L213457 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Do we have to do everything ourselves?!
+L213456 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Not exactly according to plan.
+L213455 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Damn it!  God-damn it...
+L213454 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Paraffin.  Your merry band mixed the nitro with paraffin.  I saw it floating in the bomb. 
+L213453 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What?
+L213452 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Paraffin.
+L213451 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What the fuck -- ?
+L213449 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Fifteen seconds now.  Can you see alright?  10... 9... 8....
+L213448 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Please...
+L213447 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ It's out of our hands.  This is it.
+L213446 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Can't you call it off... ?
+L213442 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ i... ann....iinn.. ff....nnyin...
+L213441 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ This is the beginning.  We're at ground zero.  Maybe you should say a few words, to mark the occasion.
+L213440 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I think this is about where we came in.
+L213439 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ One minute.
+L213433 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yes.
+L213432 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Defuse the bomb?
+L213431 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Defuse the bomb, please.
+L213430 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Ask me nicely.
+L213429 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Defuse the bomb.
+L213428 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What?
+L213427 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Tyler...
+L213426 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Not an option, for the most obvious of reasons.  You need to get with the program.  Seven minutes.  Let's get out of here.
+L213425 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I quit.
+L213424 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You want out?
+L213423 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Fuck your struggle.  I want out.
+L213422 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Bob was a grown man.  In any great struggle, there will be casualties. Wouldn't that be implicit in the name?  Project "Mayhem."
+L213421 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Bob is dead, Tyler.  The police blew a hole in his head.  Was that part of your plan?
+L213420 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ I've got everything.  The bombs.  The army.  I've got Marla.
+L213416 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ I'm serious.  That's the wrong one.
+L213415 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Fuck you.
+L213414 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Don't pull the green wire.  Pull anything but the green wire.
+L213413 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yes...
+L213412 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Green?  Did you say green?
+L213411 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I'm pulling the green wire.
+L213410 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ This is not about martyrdom.
+L213409 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ If I'm wrong, we're both dead..
+L213407 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ If you know, I know.
+L213406 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ I wouldn't be doing that.  Unless you know which wires, in what order...
+L213404 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You don't know that.  There could still be people inside.
+L213403 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ The buildings were evacuated thirty minutes ago.  Everything's proceeding exactly as planned.
+L213402 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Since when is Project Mayhem about murder?
+L213401 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What are you doing running through the streets in your underpants?  We both use that body.
+L213400 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ ...your sentences!  They're our sentences.  Get your mind around that.
+L213399 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Stop finishing...
+L213398 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ ...to let this happen!
+L213397 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I'm not going...
+L213396 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ ...stop me?
+L213395 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I'm going to...
+L213394 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ ...go through with this? What are you going to do?
+L213393 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I can't let you...
+L213392 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What a ridiculous thing to say.
+L213391 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You... you can't be serious about this.
+L213390 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You could be standing under 37 stories of steel and concrete with a 150 gallons of nitroglycerin strapped to the support... oh, maybe it couldn't be...
+L213288 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Um, well... technically, no.
+L213287 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ She's... you... you're fucking her.
+L213286 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What about Marla?
+L213285 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What about Marla?
+L213284 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Night jobs -- while you were sleeping.
+L213283 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You have jobs.
+L213282 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ The house is rented in your name.
+L213281 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You took me to the house.
+L213280 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What about them?  They're lunatics.
+L213279 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Wrong, wrong -- what about the car crash... the two guys in the backseat?
+L213278 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You never talked to me in front of anyone else.
+L213277 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No!  This isn't true.  We... we were around other people, together, both of us...
+L213276 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ It's okay.  We okay... a little codependent, sure, but...
+L213275 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What... what are you saying?
+L213274 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ We're going to have to do something about Marla...
+L213273 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ This isn't possible...
+L213272 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ There!  Happy?  I asked for one thing from you... one simple promise.  Now look what you've done!
+L213267 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ But, when you fall asleep, I do things without you...
+L213266 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Oh, yeah.  I didn't really know my Dad...
+L213264 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You can see me and hear me, but no one else can...
+L213263 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ He's not here!  Tyler's not here anymore!  He's gone away!
+L213262 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ And, sometimes you control it...
+L213261 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ The first rule of fight club is -- you don't talk about fight club.
+L213260 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Sometimes I control it, and you imagine yourself watching me...
+L213259 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What are you talking about... ?
+L213258 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Is this really news to you?
+L213257 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What... ?
+L213256 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ People think that you're me, because you and I happen to share the same body.
+L213255 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I don't know!  Tell me!
+L213254 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Why do people think anything?
+L213253 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Answer me, Tyler.
+L213252 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Why did you do that?
+L213251 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Why do people think I'm Tyler Durden?
+L213250 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You broke your promise.  You talked to her about me.
+L213249 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Why do people think I'm you?
+L213248 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ And, we're definitely filling a void in the rural South.
+L213247 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What's this all about, Tyler?
+L213246 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Four in Milwaukee.
+L213108 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ "Training?"  Tyler...
+L213107 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ If the applicant waits at the door for three days without food, shelter or encouragement, then he can enter and begin training.
+L213106 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ "Applicant?"
+L213105 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ If the applicant is young, we tell him he's too young.  Old, too old. Fat, too fat.
+L213104 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ "Too young?"
+L213103 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Wait a minute...
+L213102 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You're too young.  Sorry.
+L213092 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ ... is over.
+L213091 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ ... is over.
+L213090 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ This conversation...
+L213087 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Nothing.
+L213086 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What are you talking about?
+L213060 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Hitting bottom isn't a weekend retreat!  It's not a seminar!  You have to forget everything you know, everything you think you know -- about life, about friendship, about you and me.
+L213059 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What?
+L213058 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Why do you think I blew up your condo?
+L213057 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Fuck my life.  Fuck fight club.  Fuck you and fuck Marla.  I'm sick of this.  How's that?
+L213056 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ I want to hear the truth.
+L213055 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I would feel nothing about my life? Is that what you want to hear?!
+L213054 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ If you died right now, how would you feel about your life?
+L213053 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I don't know!  Nothing!
+L213047 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I don't think that's true.
+L213046 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You're asking questions that don't have answers.  You know just as much about Project Mayhem as anybody else.
+L213045 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I'm not asking you to.
+L213044 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You choose your level of involvement. I won't make decisions for you.
+L213043 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What the hell ... ?!
+L213042 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Tyler...
+L213041 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ We are the all-singing, all-dancing crap of the world.  We are all part of the same compost heap...
+L213040 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What are you doing?!
+L213039 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ This does not belong to us.  We are not the leaders.  We are not special.
+L213036 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What do you want to know about Project Mayhem?
+L213035 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I want to know --
+L213034 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Should I E-mail you?  Should I put this on your "action item list?"
+L213033 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Look...
+L213032 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What do you want?  A statement of purpose... ?
+L213031 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You know what I mean.
+L213030 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Is this a needlepoint club?  Is it about you and me?
+L213027 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Fight club was the beginning.  Now it's out of the basements and there's a name for it -- Project Mayhem.
+L213026 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Why wasn't I involved from the beginning?  You and I started fight club together.
+L213025 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What should I have told you?
+L213024 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Why wasn't I told about "Project Mayhem?"
+L213023 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No.
+L213022 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Something on your mind?
+L213018 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I felt like destroying something beautiful.
+L213017 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Where did you go, Psycho-Boy?
+L212998 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Hey.
+L212997 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Hey.
+L212990 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Imagine how he feels.
+L212989 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I feel sick.
+L212973 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Tell him!
+L212972 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ I asked you what you studied.
+L212969 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ An expired community college student ID card.  What did you used to study, Raymond K. Hessel?
+L212968 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Tyler...
+L212956 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What is it?
+L212955 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Homework assignment.
+L212954 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What are we doing?
+L212952 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I thought you did.
+L212951 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Newcastle?  Did you start that one?
+L212950 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Local 8 just started in Penns Grove. And, Bob said he was at fight club in Newcastle last week.
+L212949 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ I heard.  Local 15, Monday nights.
+L212948 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ There's fight club in Delaware City.
+L212900 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Okay, and... and...
+L212899 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Fucking sweet.
+L212898 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Six months advance pay.  Six months!
+L212882 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Nothing.  Do what you like.
+L212881 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What... ?
+L212880 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Work.  Going to work.
+L212879 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Yeah.  Where you headed?
+L212878 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You quit?
+L212877 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ No thanks, I quit.
+L212810 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Fuck damnation.  Fuck redemption.  We are God's unwanted children, with no special place and no special attention, and so be it.
+L212809 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ ... Marla ... ?
+L212807 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ We don't... ?
+L212806 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ We don't need him...
+L212805 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ It isn't... ?
+L212804 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Listen to me.  You have to consider the possibility that God doesn't like you, he never wanted you.  In all probability, He hates you.  This is not the worst thing that can happen...
+L212803 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I don't know...
+L212802 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Shut up.  Our fathers were our models for God.  And, if our fathers bailed, what does that tell us about God?
+L212801 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No, I'm not...
+L212800 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ This is the greatest moment of your life and you're off somewhere, missing it.
+L212799 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ No, what you're feeling is premature enlightenment.
+L212798 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I... I think I understand.  I think I get it...
+L212795 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I was going to my cave to find my power animal.
+L212794 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Stop it.  This is your pain -- your burning hand.  It's right here.  Look at it.
+L212791 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Guided meditation worked for cancer, it could work for this.
+L212790 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Look at your hand.
+L212789 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Tyler's kiss was a bonfire on the back of my hand.
+L212784 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ This clear layer in glycerin.  We'll mix it back in when we make the soap.
+L212783 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Hard to imagine you in Boy Scouts.
+L212782 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ As the fat renders, the tallow floats to the surface.  Remember the crap they taught you in Boy Scouts.
+L212780 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ A liposuction clinic.
+L212779 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What is this place?
+L212769 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Don't mention me.
+L212768 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You get rid of her.
+L212752 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Shhhhhh!  I don't know what to make of this, sir, I really don't...
+L212751 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ "The liberator who destroyed my property has re-aligned my paradigm of perception."
+L212750 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Huh?
+L212720 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Uh... nah...
+L212719 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You want to finish her off?
+L212713 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ That was three times you promised.
+L212712 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I said I promise!
+L212711 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Promise?
+L212710 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yes, I promise.
+L212709 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Promise you won't.
+L212708 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Okay.
+L212707 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ If you ever say anything about me or about what happens here in this house, to her or anyone -- I will find out.  And you'll never see me again.  Promise me.
+L212706 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You've gotta understand something about me.  I have a little rule, okay?  Don't ever talk to her about me.  Ever.  I can't stand that kind of shit.
+L212705 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What?
+L212704 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Listen... do me a favor... sit here a minute...
+L212703 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ She'd invaded my support groups, now she's invading my home.
+L212702 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ She needs an exorcist.  This isn't love.  This is sport-fucking.
+L212701 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Marla doesn't need a lover.  She needs a case worker.
+L212700 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Hey... don't knock librarians.
+L212699 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Oh, and my pace is more librarians.
+L212698 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ She is a wild, twisted bitch.  Stay away from that one.
+L212696 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I'm fine.
+L212695 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You're okay with this?
+L212692 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Good.  This chick was up on the table with her legs in the stirrups before the doctor even walked in the room. The things that she said... I've never heard a woman talk like that...
+L212691 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yeah, I'm sure.
+L212690 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You're sure?
+L212688 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No.  Not at all.
+L212687 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ I mean, this girl... uh, you're not into her or anything... ?
+L212686 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ He was obviously able to handle it.
+L212685 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Unbelievable, huh?
+L212640 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Abe Lincoln.  Big reach.  Skinny guys fight till they're burger.
+L212639 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You?
+L212638 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Good answer.
+L212637 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Okay... Ghandi.
+L212636 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Any historical figure.
+L212635 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Fight club became the reason to cut your hair short and trim your fingernails.
+L212618 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Shatner.  William Shatner.
+L212617 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Hemingway.  You?
+L212616 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Doesn't matter.
+L212615 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Alive or dead?
+L212614 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ If you could fight any celebrity?
+L212613 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ A guy came to fight club for the first time, his ass was a wad of cookie dough.  After a few weeks, he was carved out of wood.
+L212578 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Show-off.
+L212577 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Soldier of Fortune.  Business Week. New Republic.
+L212576 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What are you reading?
+L212575 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ "I get cancer, and I kill Joe."
+L212574 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ "I am Joe's Lungs."  It's written in first person.  "Without me, Joe could not take in oxygen to feed his red blood cells."  There's a whole series -- "I am Joe's Prostate."
+L212573 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Oh, a new riot control grenade...  "...the successful combination of concussive, 3000 foot-candle flash- blasts and simultaneous high-velocity disbursement of...blah, blah, blah..."
+L212572 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What?
+L212571 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Hum.
+L212570 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ The previous occupant had been a bit of a shut-in.
+L212562 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I don't know how Tyler found the house, but he'd been there for half a year.
+L212561 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What car?
+L212560 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Where's your car?
+L212558 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ A generation of men raised by women. I'm wondering if another woman is the answer we really need.
+L212557 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Same here.
+L212556 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ After I graduated, I called him long distance and asked, "Now what?"  He said, "Get a job."  When I turned twenty-five, I called him and asked, "Now what?"  He said, "I don't know. Get married."
+L212555 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I know that.
+L212554 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ He was setting up franchises.  My father never went to college, so it was really important that I go.
+L212553 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Oh, yeah.  I didn't know my dad.  Well, I knew him, till I was six.  He went and married another woman, had more kids. Every six years or so he'd do it again -- new city, new family.
+L212552 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ My dad.  No question.
+L212551 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ My boss, probably.  Who would you fight?
+L212550 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Anyone.
+L212549 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Anyone?
+L212548 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ If you could fight anyone... one on one, whoever you wanted, who would you fight?
+L212547 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ This fight, pussy.
+L212546 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What fight?
+L212545 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ The fight.
+L212544 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Call what off?
+L212543 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ We've crossed the threshold.  You want to call it off?
+L212542 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Is it?
+L212541 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ But a good strange.
+L212540 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Strange.
+L212539 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ How do you feel?
+L212538 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Like hell.  That counted.
+L212537 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Shit.  Sorry.  That didn't count.
+L212536 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Surprise me.
+L212535 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Where do you want it?  In the face?
+L212534 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Alright, go crazy.  Let 'er rip.
+L212533 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ This is crazy.
+L212532 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Why not you?  I'm letting you go first.  Do it.
+L212531 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Me?
+L212530 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ I don't want to die without any scars.  How much can you really know about yourself if you've never been in a fight?  Come on... you're the only person I've ever asked.
+L212529 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No.  That's a good thing, isn't it?
+L212528 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ I don't know, either.  I want to find out.  I've never been hit, have you?
+L212527 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I don't know about this.
+L212526 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You get the idea.
+L212525 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Go ahead.  Say it.
+L212524 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ He farted on meringue; he sneezed on braised endive; and, with creme of mushroom soup, well...
+L212523 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ ... Oh, yeah.  Oh, yeah.
+L212522 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Don't watch.  I can't if you watch.
+L212521 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ He was the guerrilla terrorist of the food service industry.
+L212519 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Only a hummingbird could have caught Tyler at work.
+L212518 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ A nice, big cock.
+L212517 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No one really knows that they've seen it. But they did.
+L212516 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ One-forty-eighth of a second.  That's how long it's up there.
+L212515 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ In reel three, right after the courageous dog and the snooty cag -- who have celebrity voices -- eat out of a garbage can, there's the flash of Tyler's contribution...
+L212514 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ -- Like splicing single frames from adult movies into family films.
+L212513 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ It affords him other interesting opportunities.
+L212512 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Why would anyone want this shitty job?
+L212511 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ It's called a "changeover."  The movie goes on, and nobody in the audience has any idea.
+L212510 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ They're called "cigarette burns."
+L212507 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ I want you to hit me as hard as you can.
+L212506 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What?
+L212505 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ I want you to hit me as hard as you can.
+L212504 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What's that?
+L212503 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You're welcome.  But, I want you to do me one favor.
+L212502 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Thank you.
+L212501 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Yes, you can.
+L212500 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Can I stay at your place?
+L212499 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Is it a problem for you to ask?
+L212498 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Would that be a problem?
+L212497 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Why don't you cut the shit and ask if you can stay at my place?
+L212496 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No, I...
+L212495 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You called me so you could have a place to stay.
+L212494 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Huh?
+L212493 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ We're on our third pitcher of beer. Just ask me.
+L212492 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I don't follow...
+L212491 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ So, you called me up, because you just wanted to have a drink before you... go find a hotel?
+L212490 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yeah.
+L212489 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ A hotel?
+L212488 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ God, it's late.  I should find a hotel...
+L212487 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Do what you like.
+L212486 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Don't I?
+L212485 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ The things you own, they end up owning you.
+L212484 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Well, I have to file a claim...
+L212483 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ This time maybe get a widescreen TV. You'll be occupied for weeks.
+L212482 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I don't... think so.
+L212481 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ The "now I get to go out and buy the exact same stuff all over again" list.  That list.
+L212480 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What list?
+L212479 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Oh, yeah, you gotta start making the list.
+L212478 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Insurance'll cover it.
+L212477 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Delivered from bullshit colors like "Cobalt," "Ebony," and "Fuchsia."
+L212476 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Delivered from Martha Stewart.
+L212475 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Delivered from armchairs in obscure green stripe patterns.
+L212474 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Delivered from Swedish furniture.
+L212473 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ But maybe, just maybe, you've been delivered.
+L212472 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ I mean, you did lose a lot of nice, neat little shit.  The trendy paper lamps, the Euro-trash shelving unit, am I right?
+L212471 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ ...no ...no ...
+L212470 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ I don't know, maybe I'm wrong.  Maybe it's a terrible tragedy.
+L212469 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ There's always that.
+L212468 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Could be worse.  A woman could cut off your penis while you're asleep and toss it out the window of a moving car.
+L212467 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ All gone.
+L212466 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ And, now it's gone.
+L212465 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I guess so.
+L212464 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ This is how we fill up our lives.
+L212463 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You buy furniture.  You tell yourself: this is the last sofa I'll ever need.  No matter what else happens, I've got the sofa issue handled.  Then, the right set of dishes.  The right dinette.
+L212428 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Keep it up, then.  Keep it right up.
+L212427 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Well, uh... great.
+L212426 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Being clever.
+L212425 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What?
+L212424 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ How's that working out for you?
+L212423 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Thank you.
+L212422 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ The spork.  I get it.  You're very clever.
+L212421 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You see, when you travel, everything is small, self-contained--
+L212414 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Why?  So you can say, "Oh, that's what you do." -- And be a smug little shit about it?
+L212413 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I mean -- for a living.
+L212412 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What do you want me to do?
+L212411 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What do you do, Tyler?
+L212408 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Oxygen gets you high.  In a catastrophic emergency, we're taking giant, panicked breaths...
+L212407 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No, supply oxygen?
+L212406 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You know why they have oxygen masks on planes?
+L212405 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Tyler Durden.
+L212404 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ This is how I met --
+L212403 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Pardon me?
+L212402 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Two, equal parts gasoline and diet cola.  Three, dissolve kitty-litter in gasoline until the mixture is thick.
+L212221 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Somehow, I realize all of this -- the gun, the bombs, the revolution -- is really about Marla Singer.
+L212220 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Look what we've accomplised.  Thirty seconds.
+L212219 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ We have front row seats for this Theater of Mass Destruction.  The Demolitions Committee of Project Mayhem wrapped the foundation columns of ten buildings with blasting gelatin.  In two minutes, primary charges will blow base charges, and those buildings will be reduced to smoldering rubble.  I know this because Tyler knows this.
+L212218 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ That old saying, how you always hurt the one you love, well, it works both way.
+L212217 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ It's getting exciting now.
+L212213 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ ... i... ann....iinn.. ff....nnyin...
+L212212 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ One minute.  This is the beginning.  We're at ground zero.  Maybe you should say a few words, to mark the occasion.
+L213312 +++$+++ u5271 +++$+++ m348 +++$+++ VOICE +++$+++ Well, sir, you said you might.
+L213311 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Did I tell you I'd call you a fascist dickhead?!
+L213310 +++$+++ u5271 +++$+++ m348 +++$+++ VOICE +++$+++ You told me you'd say that, too.
+L213309 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Abort the plan.
+L213308 +++$+++ u5271 +++$+++ m348 +++$+++ VOICE +++$+++ You told me you'd say that.
+L213307 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Now wait, there's been a mix-up. Everything's changed...
+L213306 +++$+++ u5271 +++$+++ m348 +++$+++ VOICE +++$+++ Don't worry about us, sir.  We're solid.
+L213305 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Excuse me?
+L213304 +++$+++ u5271 +++$+++ m348 +++$+++ VOICE +++$+++ Very good, Sir.
+L213303 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Listen, something is going to happen, something terrible...
+L213302 +++$+++ u5271 +++$+++ m348 +++$+++ VOICE +++$+++ Maintenance.
+L213301 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Who is this?
+L213177 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No!
+L213176 +++$+++ u5267 +++$+++ m348 +++$+++ RICKY +++$+++ His name is Robert Paulson!
+L213171 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Robert Paulson is dead.  He's dead, because of you...
+L213170 +++$+++ u5267 +++$+++ m348 +++$+++ RICKY +++$+++ Robert Paulson?
+L213169 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No!  Wrong!  This man's name is Robert Paulson.
+L213168 +++$+++ u5267 +++$+++ m348 +++$+++ RICKY +++$+++ But, in Project Mayhem, we have no names.
+L213167 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No, no.  This is a man -- this man has a name...
+L213166 +++$+++ u5267 +++$+++ m348 +++$+++ RICKY +++$+++ But, this is Project Mayhem.
+L213165 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What he wanted?  Look... look at him. Look at him!  What does he want?  This is a person.  This is not a cog in your machine...
+L213164 +++$+++ u5267 +++$+++ m348 +++$+++ RICKY +++$+++ It's what he would have wanted, sir.
+L212937 +++$+++ u5264 +++$+++ m348 +++$+++ LOU +++$+++ Let go of me!!
+L212936 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Thank you.  Thank you, sir...
+L212935 +++$+++ u5264 +++$+++ m348 +++$+++ LOU +++$+++ Alright, Christ!  Fucking let me go!
+L212934 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ We need some towels, Lou.  We need replacement light bulbs.
+L212933 +++$+++ u5264 +++$+++ m348 +++$+++ LOU +++$+++ Okay!  Okay, fuck it!  Use the basement!  Get off me!
+L212932 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Pleeeeeease!
+L212931 +++$+++ u5264 +++$+++ m348 +++$+++ LOU +++$+++ What are you doing?!
+L212923 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You and your friend.
+L212922 +++$+++ u5264 +++$+++ m348 +++$+++ LOU +++$+++ Did you hear what I just said?!
+L212921 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ You're welcome to join our club.
+L212920 +++$+++ u5264 +++$+++ m348 +++$+++ LOU +++$+++ Look, stupid fuck, I want everyone outta here now!
+L212919 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Yes, it is.
+L212918 +++$+++ u5264 +++$+++ m348 +++$+++ LOU +++$+++ Ain't that something?
+L212917 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ It's free to all.
+L212916 +++$+++ u5264 +++$+++ m348 +++$+++ LOU +++$+++ Really?
+L212915 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ There is no money.
+L212914 +++$+++ u5264 +++$+++ m348 +++$+++ LOU +++$+++ He don't own this place, I do.  How much money's he getting for this?
+L212913 +++$+++ u5264 +++$+++ m348 +++$+++ LOU +++$+++ Irvine?  Irvine's at home with a broken collarbone.
+L212912 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ We have a deal worked out with Irvine.
+L212911 +++$+++ u5264 +++$+++ m348 +++$+++ LOU +++$+++ Who told you motherfuckers you could use my place?
+L212986 +++$+++ u5266 +++$+++ m348 +++$+++ RAYMOND +++$+++ No, please, no, God, no!
+L212985 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Would you rather be dead?
+L212984 +++$+++ u5266 +++$+++ m348 +++$+++ RAYMOND +++$+++ Too much school.
+L212983 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Stuff.  That means you have to get more schooling.
+L212982 +++$+++ u5266 +++$+++ m348 +++$+++ RAYMOND +++$+++ Yeah ... animals and s-s-s ---
+L212981 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Animals.
+L212977 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ What did you want to be, Raymond K. Hessel?
+L212976 +++$+++ u5266 +++$+++ m348 +++$+++ RAYMOND +++$+++ I... I don't know...
+L212975 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Why?
+L212974 +++$+++ u5266 +++$+++ m348 +++$+++ RAYMOND +++$+++ Biology, mostly.
+L212971 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ "Stuff."  Were the mid-terms hard?
+L212970 +++$+++ u5266 +++$+++ m348 +++$+++ RAYMOND +++$+++ S-S-Stuff.
+L212967 +++$+++ u5266 +++$+++ m348 +++$+++ RAYMOND +++$+++ Please, God, no...
+L212966 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Your mom and dad will have to call kindly doctor so-and-so to dig up your dental records, because there won't be much left of your face.
+L212965 +++$+++ u5266 +++$+++ m348 +++$+++ RAYMOND +++$+++ Yesssss...
+L212964 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Is this a picture of Mom and Dad?
+L212963 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ They give basement apartments letters instead of numbers.  Raymond, you're going to die.
+L212962 +++$+++ u5266 +++$+++ m348 +++$+++ RAYMOND +++$+++ How'd you know?
+L212961 +++$+++ u5269 +++$+++ m348 +++$+++ TYLER +++$+++ Raymond K. Hessel. 1320 SE Benning, apartment A.  A small, cramped basement apartment.

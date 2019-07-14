@@ -1,0 +1,516 @@
+L489944 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ What do you think?
+L489936 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ Ease back, Mills.
+L489935 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ How is it working for a scumbag like this? You proud of yourself?
+L489920 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ You're wound too tight, Mills.  Let it go.
+L489919 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ He's pissing in our faces again and we're just taking it.
+L489916 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ He wouldn't just turn himself in.  It doesn't make any sense.
+L489915 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ You don't.  It goes to court now.
+L489912 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ So far it's all dead ends.  No credit history.  No employment history.  His bank account's only five years old and it started as cash.  We're even trying to trace his furniture, but for now all we know is he's independently wealth, well educated and totally insane.  We may never know how he got that way.
+L489911 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ What about the trace on his bank account and the guns?  There must be something to connect him with a past.
+L489910 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ He cuts off the skin if his fingertips. That's why we can't find a single usable print in the apartment.  He's been doing it for quite a while.  Keeps cutting before the papillary line can grow back.
+L489333 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ Go start picking up the pieces.  We'll shuffle some paper and try to get you a new partner.
+L489332 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Thank you.
+L489331 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ That's not necessary.  You're in.
+L489328 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ There's nothing that says I have to work with him.  If Somerset wants out, "goodbye."  Give it to me.
+L489327 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ How's that?
+L489326 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Give it to me.
+L489325 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ I don't have anyone else to give this to, Somerset, you know that.  And nobody's going to swap with you.
+L490105 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I'll see you.
+L490104 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ I guess... decide for yourself.  I don't know what it says.  I'm going to go.
+L490103 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I read about it in the paper.
+L490102 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ He's being arraigned tomorrow.
+L490099 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ It would be too hard.
+L490098 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ They're hoping you stop and say goodbye before you go, but I told them not to expect it.
+L490097 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Yeah, that's true.
+L490096 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ We figure you need all the tools you can get to fix up that piece of shit you call a house.
+L490095 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Thank you.  Tell them, thank you.
+L490093 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I can breathe withour pain now, so I guess I feel great.
+L490092 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ How you feeling?
+L489918 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ He's not finished.
+L489917 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ Well, there he sits.  It's not supposed to make sense.
+L489357 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Really?
+L489356 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ It's always been like this.
+L489355 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I have no understanding of this place anymore.
+L489354 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ I heard.
+L489353 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Did you read in the paper today, about the man who was walking his dog?  he was attacked, and his wallet and his watch were taken.  And then, while he was still lying unconscious, his attacker stabbed him with a knife in both eyes.  It happened four blocks from here.
+L489352 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ You know.
+L489351 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ What are you talking about?
+L489350 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ Can't you feel it yet?  Can't you feel that feeling... ?  You're not going to be a cop anymore.
+L489349 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I'll get a job, maybe on a farm.  I'll work on the house.
+L489348 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ Come on.  What are you going to do with yourself out there?
+L489347 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Good.
+L489346 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ Yeah.
+L489345 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I'm sure everyone's doing their best.
+L489344 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ I thought you might want to be filled in.
+L489343 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ It's none of my business anymore.
+L489342 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ Greed.  It was written in blood.
+L489341 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Already.
+L489340 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ There was a second.
+L489339 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ No, I haven't heard.
+L489338 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ Have you heard?
+L489323 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Everything else was taken as close to conclusion as humanly possible.  Also... this shouldn't be his first assignment.
+L489322 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ You've left unfinished business before.
+L489321 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ I know what you're thinking, okay?  You don't want to get in bed with this every night, but it's different now.  You're retiring.  In six days you're all the way gone.
+L489320 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ This can't be my last duty here.  It will go on and on.
+L489319 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ What's this: "I'm declining this case?"  It don't work that way.
+L489313 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ One is gluttony.
+L489312 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ Hey, so gluttony is one of the seven deadly sins.  But, this was a fat guy.  The killer may have felt this was the just best way to torture him. And, writing on the walls happens all the time.  It's like the fashionable thing to do.
+L489311 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ ... envy, sloth, pride and lust.  Seven.
+L489310 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ So what?  This victim...
+L489309 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ There are seven deadly sins.  Gluttony, wrath, greed...
+L489308 +++$+++ u7518 +++$+++ m508 +++$+++ CAPTAIN +++$+++ Announcing what?
+L489307 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ "Dear Detectives, Long is the way, and hard, that out of hell leads up to light." It's the murderer's way of announcing himself.
+L489843 +++$+++ u7519 +++$+++ m508 +++$+++ CRAZED MAN +++$+++ He had a gun.  He had a gun... and he made it happen.  He made me do it!  He made me put that... that thing on.  Oh, Christ!  He made me wear it... and... and he told me to fuck her.  He had the gun in my mouth.
+L489842 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Who tied her down?  You or him?
+L489841 +++$+++ u7519 +++$+++ m508 +++$+++ CRAZED MAN +++$+++ She was... she was on the bed.  She was just sitting on the bed.
+L489840 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Where was the prostitute?  Where was she?
+L489839 +++$+++ u7519 +++$+++ m508 +++$+++ CRAZED MAN +++$+++ What?  What?
+L489838 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Where was the girl?
+L489837 +++$+++ u7519 +++$+++ m508 +++$+++ CRAZED MAN +++$+++ And... and... and he said... he asked me if I was married.  And, I could see he had a gun in his hand.
+L490045 +++$+++ u7520 +++$+++ m508 +++$+++ DELIVERYMAN +++$+++ Okay...
+L490044 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Put it down.  Put it on the ground.
+L490043 +++$+++ u7520 +++$+++ m508 +++$+++ DELIVERYMAN +++$+++ This guy paid me five hundred bucks to bring it out here.  He wanted it here at exactly seven o'clock.
+L490037 +++$+++ u7520 +++$+++ m508 +++$+++ DELIVERYMAN +++$+++ I'm... I'm just delivering a package.
+L490036 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Who are you?  What are you doing out here?
+L490035 +++$+++ u7520 +++$+++ m508 +++$+++ DELIVERYMAN +++$+++ What the hell's going on?
+L490034 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Turn around.  Hands on your head!
+L490033 +++$+++ u7520 +++$+++ m508 +++$+++ DELIVERYMAN +++$+++ Jesus Christ, man, don't shoot me!
+L490090 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ NO!
+L490089 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ You didn't know.
+L490074 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ Her pretty head.
+L490073 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Give me the gun.
+L490071 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ I visited your home this morning, after you left.
+L490070 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ David... please...
+L490069 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ It's surprising how easily a member of the press can purchase information from the men in your precinct.
+L490018 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Why?
+L490017 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ What time is it?
+L489988 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ It's not too far away now.
+L489987 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ What's so exciting?
+L489970 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ It doesn't matter who I am.  Who I am means absolutely nothing.  You need to turn left here... at the traffic light.
+L489969 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I mean, at this point, what would it hurt if you told us a little about yourself?
+L489968 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ What do you mean?
+L489907 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ Hello.
+L489906 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I don't believe it.
+L490076 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ Because I envy your normal life.  Envy is my sin.
+L490075 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Somerset...
+L490061 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ I want you to know, I wish I could have lived like you do.
+L490060 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ What the fuck is going on?
+L490059 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ Here he comes.
+L490056 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Shut up!
+L490055 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ You've made a good life for yourself...
+L490050 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ What the fuck is going on here?!
+L490049 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ I wish I could have been a normal man like you.  I wish I could have a simple life.
+L490021 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ It's close.
+L490020 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Just keep leading the way.
+L490007 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Sit back.
+L490006 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ And, I remember breaking your nose.  You're only alive because I didn't kill you.
+L490005 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I seem to remember knocking on your door.
+L490004 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ Tell me what it was that gave me away. What was the piece of evidence you were going to use against me right before I walked up to YOU and put my hands in the air.
+L490003 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ Really?  Just biding your time, then? Toying with me.  Is that it?  Letting five people die until you finally felt like going out and hauling me in?
+L490002 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ We would have gotten you eventually.
+L490001 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ You're going to be remembered, and it's all because of me.  And, the only reason I'm here right now is because I wanted to be.
+L490000 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ And, why is that?
+L489999 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ You should be thanking me.
+L489998 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Delusions of grandeur.
+L489997 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ A woman... so ugly on the inside that she couldn't bare to go on living if she couldn't be beautiful on the outside.  A drug dealer... a drug dealing pederast, actually.  And, don't forget the disease spreading whore.  Only in a world this shitty could you even try to say these were innocent people and keep a straight face.  That's the point.  You see a deadly sin on almost every street corner, and in every home, literally.  And we tolerate it. Because it's common, it seems trivial, and we tolerate, all day long, morning, noon and night.  Not anymore.  I'm setting the example, and it's going to be puzzled over and studied and followed, from now on.
+L489996 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Murderers like you?
+L489995 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ A woman...
+L489994 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Murderers?
+L489993 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ Innocent?  Is that supposed to be funny? Look at the people I killed.  An obese man, a disgusting man who could barely stand up... who if you saw him on the street, you'd point so your friends could mock him along with you.  Who if you saw him while you were eating, you wouldn't be able to finish  your meal.  After him I picked the lawyer.  And, you both must have been secretly thanking me for that one.  This was a man who dedicated his life to making money by lying with every breath he could muster... to keeping rapists and murderers on the streets.
+L489992 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You only killed a bunch of innocent people so you could get your rocks off.  That's all.
+L489991 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ You wouldn't because you know there are consequences.  It's in those eyes of yours, though... nothing wrong with a man taking pleasure in his work.  I won't deny my own personal desire to turn each sin against the sinner.  I only took their sins to logical conclusions.
+L489990 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Now... I wouldn't do something like that, Johnny.  I like you.  I like you a lot.
+L489989 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ I... I doubt I enjoyed it any more than... Detective Mills would enjoy some time alone with me in a room without windows.  Isn't that true?  How happy would it make you to hurt me, with impunity?
+L489985 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ Oh, don't worry. You won't...
+L489984 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Well, I'll be standing beside you the whole time, so you be sure to let me know when this whole, complete reality thing is done.  Wouldn't want to miss it.
+L489983 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ I can't wait for you to see.  I can't wait...  It's really going to be something.
+L489982 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ It's going to be flawless.  People will barely be able to comprehend it.  It will seem almost surreal... but it will have a tangible reality, so they won't be able to deny it.
+L489981 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Spit it out.
+L489980 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ You can't see the whole... the whole complete act yet.  Not yet.  But, when this is done, it's going to be... so... so...
+L489979 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ In two months, no one's going to even remember this happened.
+L489978 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ You know that's not true.
+L489977 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I hate to burst your bubble, but other than the fact that you're especially sadistic, there's nothing unusual about these precious murders of yours.
+L489976 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ Not me.  I'm not special.  I'm not exceptional.  This is, though.  What I'm doing.
+L489975 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ What makes you so special that people should pay attention?
+L489974 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ Wanting people to pay attention, you can't just tap them on the shoulder.  You have to hit them in the head with a sledgehammer. Then, you have their strict attention.
+L489973 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ We're not just going to pick up two more bodies, are we, Johnny?  That wouldn't be... shocking enough.  Wouldn't keep you on the front page of the newspapers.
+L489972 +++$+++ u7521 +++$+++ m508 +++$+++ JOHN DOE +++$+++ You'll see.
+L489971 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Where we headed?
+L490082 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Put the gun down, Somerset!
+L490081 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Don't do this... please...
+L490080 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Put your gun down!!
+L490079 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I can't let you do this...
+L490078 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Tell me it's not true.
+L490068 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ What did you say?
+L490067 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Throw your weapon, detective!  Now!
+L490065 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ What are you talking about?  What happened?
+L490064 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Throw your gun down now!
+L490025 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ There's no time to discuss it!
+L490024 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Wait!
+L490023 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Stay with him.
+L489963 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Give me a break.
+L489962 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Kiss me on the lips.
+L489961 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Slut.
+L489960 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Well, I have to tell you...  I think I've fallen in love with you.
+L489959 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ What is it?
+L489955 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I will.
+L489954 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ If John Doe's head splits open and a U.F.O. flies out, I want you to have expected it.
+L489926 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I can tell you this.  I recognize his lawyer.  His name's Mark Swarr.
+L489925 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ No.
+L489924 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ He's only two murders away from finishing his masterpiece, right?  Can you even conceive of what's going to happen next?  I mean, can you even imagine how he'll try to finish it?
+L489923 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Well... what the fuck, man?
+L489922 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ You and I are, probably for the first time ever, in total agreement.  He wouldn't just stop.
+L489921 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You know he's fucking us.
+L489914 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ When do we get to question him?
+L489913 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Because he is John Doe, by choice.
+L489894 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Big surprise.
+L489893 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ As soon as this is over, I'm gone.
+L489892 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ No, actually, I wasn't sure at all.
+L489891 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You knew I'd say yes.
+L489890 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I'm requesting you keep me on as your partner a few more days.  You'd be doing me the favor.
+L489889 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You think you're doing me a big favor by staying?
+L489888 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ One of two things will happen.  We're either going to get John Doe, or he'll finish his series of seven, and this case will go on for years.
+L489887 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Oh, you want to stay now?
+L489884 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Call for help, and you'll live.  But, you'll be disfigured.  Or, put yourself out of your misery.
+L489883 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ He cut her up and dressed the wounds.
+L489875 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ That part of me is dead.
+L489874 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Listen to yourself.  You say, "the problem with people is they don't care, so I don't care about people."  But, you're already here.  You've been here a long time.  So, there's a part of you that knows, even if everything you say is true, none of it matters.
+L489873 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ No I'm not!  I'm talking about common, everyday life here.  If you let yourself worry about one thing, you'll worry about the next, and the next, and it never ends. In this place, ignorance isn't just bliss, it's a matter of survival.
+L489872 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You're talking about people who are mentally ill.  You're...
+L489871 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Wrong!  I sympathize completely, because if you can't win... then, if you don't ignore everything and everyone around you, you... you become like John Doe.  It's easier to beat a child than it is to raise it, because it takes so much work to love.  You just have to make sure you don't stop to think about the abuse, and the damage, because you'll risk being sad.  Keep ignoring.
+L489870 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Oh, you're so much better than everyone, right?  No one's worthy of you.
+L489869 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ It wasn't one thing, if that's what you mean.  I just... I can't live here anymore. I can't live where stupidity is embraced and nurtured as if it were a virtue.
+L489868 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ What the fuck is wrong with you?  What burnt you out?
+L489867 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ People don't want a champion.  They just want to keep playing the lottery and eating hamburgers.
+L489866 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You think you're preparing me for the hard times ahead?  You think you're toughening me up?  Well, you're not!  You're quitting, fine... but I'm staying.
+L489865 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Why don't you shut the fuck up for a while? You bitch and complain... if I thought like you, I would have slit my wrist already.
+L489864 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Just know that in this case there's not going to be any satisfaction.  If we caught John Doe and he were the devil himself, if it turned out he were actually Satan, then, that might live up to our expectations.  No human being could do these things, right? But, this is not the devil.  It's just a man.
+L489863 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You follow the law and do the best you can. It's all there.
+L489862 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Where's the victory?
+L489861 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You do your job...
+L489860 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ You tell me, then... you walk into an apartment, and a man has beaten his wife to death, or the wife murdered the husband, and you have to wash the blood off their children.  You put the killer in jail.  Who won?
+L489859 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You're the oldest man I know, Somerset.
+L489858 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Don't try to focus on things as black and white, because you'll go blind.  There's no winning and losing here.
+L489857 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ How can you say that?  Especially after today?
+L489856 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ No.  Face it now.  Stop thinking it's good guys against bad guys.
+L489855 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ If we get him, I'll be happy enough.
+L489854 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ You know... there's not going to be a happy ending to this.  It's not possible anymore.
+L489853 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ One birthday he gave me this brand new hardcover book, "The Century of the Detective," by Jurgen Thorwald.  It traced the history of deduction as a science, and it sealed my fate, because it was real, not fiction.  And, that a drop of blood or a piece of hair could solve a crime... it was incredible to me.
+L489852 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Sounds like a father who wanted his son to follow in his footsteps.
+L489851 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ The irony is, after a day of the type of work he did, he'd come home and read me these morbid crime stories.  Murders in the Rue Morgue.  Le Fanu's Green Tea.  My mother would give him hell because he was keeping me up till all hours.
+L489772 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ These murders are his masterwork.  His sermon to all of us.  To all us sinners.
+L489771 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ He's preaching.
+L489766 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Looking around... I've got a bad feeling these murders are his life's work.
+L489765 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ No dates indicated, placed on the shelves in no discernible order.  It's just his mind poured out on paper.  I don't think it's going to give us any specifics.
+L489763 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ "What sick, ridiculous, puppets we are, and what a gross, little stage we dance on. What fun we have, dancing and fucking, not a care in the world.  Not knowing that we are nothing.  We are not what was intended."
+L489762 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Then, he must write about these murders.
+L489761 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Well, there are at least five thousand notebooks in this room, and near as I can tell, each notebook contains two hundred and fifty pages.
+L489760 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I'm trying, alright?  Just tell me what we've got.
+L489759 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ We could use about fifty more men here.
+L489749 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ We had him.
+L489748 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ What are you talking about?
+L489731 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ No point in arguing anymore...
+L489730 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ You stupid son of a...
+L489729 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Okay... okay... get off.
+L489728 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Think it through.  If we leave a hole like this, we'll never prosecute.  He'll walk.  We have to come up with some excuse for knocking on this door.
+L489727 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ By the time we clear a warrant someone else is going to be dead.
+L489725 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Think about how we got here!
+L489724 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ What the fuck is wrong with you?
+L489723 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Think about it...
+L489722 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ We have probable cause now.
+L489721 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ We need a warrant.
+L489720 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ The hell I can't!  We get in there and we can stop him.
+L489719 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ You can't go in there.
+L489718 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ It was him.
+L489717 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Wait... just wait.
+L489715 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ What happened?
+L489714 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I'm fine.
+L489713 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Are you alright?
+L489702 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Who told you about my silver tongue?  You been talking to my wife?
+L489701 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ You do the talking.  Put that old silver tongue of yours to work.
+L489700 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ What are you going to say?
+L489699 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Sure.  Uh, excuse me... are you by any chance a serial killer?  Oh, you are? Well, come with us then, if it's okay.
+L489698 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ We'll take a look at him.  Talk to him.
+L489697 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ This is stupid.  It'd be just too easy.
+L489696 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ That's what it says.  Jonathan Doe.
+L489695 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You're sure you're reading that right? John Doe?
+L489694 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Saint Thomas Aquinas.  He wrote about the seven deadly sins.
+L489693 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ The Writings of Saint Thomas Aqu... Aquin...
+L489692 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ That is.
+L489691 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ The Marquis de Sade and Origins of Sadism.
+L489690 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ It's not what you think it is.
+L489689 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Modern Homicide Investigation.  In Cold Blood.  Of Human Bondage.  Human Bondage?
+L489688 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ The Divine Comedy.  A History of Catholicism.  A book called Murderers and Madmen.
+L489687 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I know, I know... focusing on one little thing.
+L489686 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ We're focusing.
+L489685 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ This is a waste of time.
+L489684 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I don't.  Neither do you.
+L489683 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ How do you know all about this?
+L489682 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Yeah, well... at least we're out of the office.  We've got pizza.
+L489681 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Yeah.  Some college student who's taking English 101 and just happens to be writing a paper on Twentieth Century Crime.
+L489680 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ If you want to know who's been reading Paradise Lost, Purgatory, and say... The Life and Time of Charlie Manson, the Bureau's computer will tell you.  It might give us a name.
+L489679 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ So they ran our list.
+L489677 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Legal... illegal.  These terms don't apply. I don't applaud it.
+L489676 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ How is this legal?
+L489675 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Flagged books cover every topic the Bureau deems questionable... communism to violent crime.
+L489674 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You got to be kidding.
+L489673 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ They monitor reading habits.  Not every book, but certain ones are flagged.  Books about... let's say, how to build a nuclear bomb, or maybe Mein Kampf.  Whoever takes out a flagged book has their library records fed to the F.B.I. from then on.
+L489672 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ What?  Assessing fines?
+L489671 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ For a long time, the F.B.I.'s been hooked into the library system, keeping accurate records.
+L489670 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Him?
+L489669 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ It's probably nothing, but even if it is, it's no skin off our teeth.  The man at Hot Dog World is a friend, in the Bureau.
+L489668 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ It's be best if you got to the point, cause I'm about ready to punch you in the face.
+L489667 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ By telling you this, I'm trusting you more than I trust most people.
+L489666 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Let's go.
+L489665 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Well, that was money well spent.
+L489652 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I don't know... like fifty.
+L489651 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ How much money do you have?
+L489648 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ What does all that matter anyway?  It's not our job to figure him out, is it?  All we have to do is catching him.
+L489647 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Just, realize... this is not some common lunatic.  The type of intestinal fortitude it must take... to keep a man bound for a full year.  To connect tubes to his genitals.  To sever his hand and use it to plant fingerprints.  He's methodical and exacting, and worst of all, he's patient.
+L489646 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Just because the bastard has a library card, it doesn't make him Einstein.
+L489645 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Well, he's been right so far, hasn't he?
+L489644 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ And so what?
+L489643 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ This quote... his first words to us.  I looked it up.  It's from Milton's Paradise Lost.  "Long is the way, and hard, that out of hell leads up to light... "
+L489642 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Yes we do.  Here...
+L489641 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ We don't know for sure...
+L489640 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ No.  He's not depending on luck.  You've seen that.  We walked into that apartment exactly one year after he first tied Victor to the bed, to the day.  To the day! Because he wanted us to.
+L489639 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Sooner or later his luck's goning to run out.
+L489638 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ No.
+L489637 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Hey, Freud, what brand of bullshit are you shoveling, huh?  Right now he's probably dancing around his room in a pair of his mommy's panties, singing show tunes and rubbing himself with peanut butter...
+L489636 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ It's a fine line between insane and inspired.
+L489635 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Oh, blah, blah, blah.  The guy's insane.
+L489634 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ It's too dismissive to call him a lunatic. We can't make that mistake.
+L489633 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ There must be something in this pile of garbage we can follow.  I mean, Christ... do we have to let this lunatic make all the moves.
+L489632 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ This is the job.  It's not an Easter egg hunt.
+L489631 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I'm sick of sitting around, waiting for him to kill again.
+L489630 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Who pays the rent on time.
+L489629 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ A landlord's dream tenant: a paralyzed man with no tongue.
+L489628 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Victor's landlord says an envelope of cash was in the office mailbox each month.  He says, quote, "I never heard a single complaint from the tenant in apartment three-o-one, and nobody ever complained about him.  He's the best tenant I've ever had.
+L489620 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Oh, it's alright.
+L489619 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Sorry about that... I just...
+L489618 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ They pay cops for the inside scoop, and they pay well.
+L489617 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ How do those cockroaches get here so quick?
+L489608 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ He'll string us along all the way if we're not careful.
+L489607 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I don't know about you, but I feed off my emotions.
+L489606 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ We have to divorce ourselves from emotions here.  No matter how hard it is, we have to stay focused on the details.
+L489605 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ No kidding!  No fucking kidding!
+L489604 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Listen to me.  He's all about playing games.
+L489603 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I want him bad.  I don't just want to catch him anymore.  I want to hurt him.
+L489602 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ The way this has gone till now, I wouldn't have thought it was possible, but we may have underestimated this guy.
+L489586 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Call an ambulance.
+L489585 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ It is Victor.
+L489572 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Sounds like he knew what he was talking about.
+L489571 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I think Hemingway wrote somewhere... I can't remember where, but he wrote that in order to live in a place like this, you have to have the ability to kill.  I think he meant you truly must be able to do it, not just faking it, too survive.
+L489570 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I expected it to be bad, you know.  I took a human life... but I slept like a baby that night.  I never gave it a second thought.
+L489569 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ How was it?
+L489568 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I got him.  I got the son-of-a-bitch. See, I was doing really good up till then. Lots of street busts.  I've always had this weird luck... everything always went my way, but this was wild.  I got him with one shot... right between the eyes.  Next thing I know, the mayor's pinning a medal on me.  Picture in the paper, whole nine yards.
+L489567 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ How did the fire fight end?
+L489565 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ It was my first one of these.  We were a secondary unit, and I was pretty shaky going in.  I was still considered a rookie.
+L489564 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ And?
+L489563 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Never took a bullet.  I pulled my gun once. fired it once.
+L489562 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Never in my twenty-four years, knock on wood.  I've only ever taken my gun out five times with the actual intention of using it.  Never fired it though.  Not once.  You?
+L489560 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Satisfy our curiosity?
+L489559 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Why would we?
+L489558 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ We'll tag along.
+L489557 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Yes.  They were there... so, it must be.
+L489556 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ The fingerprints.
+L489555 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ He doesn't have the desire somehow.  Our killer seems to have more purpose.  More purpose than Victor could ever conceive of.
+L489554 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You tell me.  I'm new in town.
+L489553 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Doesn't seem like our man, does it?
+L489552 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Does this make it with you?
+L489539 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ In this city, if all the skeletons came out of all the closets... if ever hidden body were to suddenly rise again, there'd be no more room for the living.
+L489538 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I've seen the same.  I'm not the country hick you seem to think I am.
+L489537 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I'm, sorry, but even the most promising clues usually lead only to other clues. I've seen so many corpses rolled away... unrevenged.
+L489536 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Bullshit.
+L489535 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ We put it in a nice neat pile and file it away, on the slim chance it's ever needed in a courtroom.  It's like collecting diamonds on a desert island.  You keep them just in case you ever get rescued, but it's a pretty big ocean out there.
+L489534 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Oh, that's all.
+L489533 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ All we do is pick up the pieces.  We take all the evidence, and all the pictures and samples.  We write everything down and note what time things happened...
+L489532 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Then, you tell me what you think we're doing.
+L489531 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I wish I still thought like you.
+L489530 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ And you don't?
+L489529 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ You meant what you said to Mrs. Gould, didn't you?  About catching this guy.  You really want to believe that, don't you?
+L489527 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Who the hell knows?  There's plenty of freaks out there doing dirty deeds they don't want to do.  You know... little voices tell them bad things.
+L489526 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ It doesn't fit.  He doesn't want us to help him stop.
+L489525 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ He just may be nuts enough.
+L489523 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ No.
+L489522 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Just, honestly... have you ever seen anything like this... been involved in anything like this?
+L489519 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Just wait!
+L489518 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Oh, yeah, sure.  You got to be kidding?!
+L489517 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Bear with me.
+L489516 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ What?
+L489514 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ We're screwed.  He's fucking with us.
+L489513 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ There must be something.
+L489510 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ A switchblade.
+L489509 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ What the fuck is that?
+L489507 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ It's got to be.
+L489506 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Nothing.
+L489505 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Even if they did, those photos were taken before forensics.
+L489504 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ You're sure your men didn't move this?
+L489487 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Okay.  But, what?
+L489486 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ What if it's not that she's seen something?  What if she's supposed to see something, but she just hasn't been given a chance to see it yet?
+L489485 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I know.
+L489484 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ This is the one thing.
+L489482 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ None.  Which I don't understand.  He had to get back out.
+L489481 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ No witnesses of any kind?
+L489480 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Totally unrelated victims.
+L489479 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Nothing.
+L489478 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ No fingerprints?
+L489477 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Like, because someone's holding a gun on you.
+L489476 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Attrition.  When you regret your sins, but not because you love God.
+L489475 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Forced what?
+L489474 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ For now, let's just consider the books as the murderer's inspiration. The books and sermons are about atonement for sin.  And, these murders have been like forced attrition.
+L489473 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Right.  But there, pride comes first, not gluttony.  The sins are in a different order.
+L489472 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Seven Terraces of Purgation.
+L489471 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Yeah.  Parts of them.  Anyway, in Purgatory, Dante and his buddy are climbing up that big mountain... seeing all these other guys who sinned...
+L489470 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Did you read them?
+L489469 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Like in the Parson's Tale, and Dante.
+L489468 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ The sins were used in medieval sermons. There were seven cardinal virtues, and then seven deadly sins, created as a learning tool, because they distract from true worship.
+L489467 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Punishing.
+L489466 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ He's preaching.
+L489463 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ We put her in a safe house.
+L489462 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ And, if it's a threat.
+L489461 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Gould's wife.  She was away on business. If this means she saw anything, I don't know what.  We've questioned her at least five times.
+L489460 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ This is just to satisfy my curiosity.  I'm still leaving town Saturday.
+L489459 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Look, I appreciate being able to talk this out, but, uh...
+L489458 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ He must have left another puzzle piece.
+L489457 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ He cut along the side of his stomach.  The love handle.
+L489456 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ All day Saturday, and all day Sunday.  The murderer would want Gould to take his time.  To have to sit there and decide. Where do you make the first cut?  There's a gun in your face... but, what part of your body is expendable?
+L489455 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ The leather chair was soaked through with sweat.
+L489451 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Well, his body was found Monday night, okay?  But, get this... the office was closed all day Monday.  Which means, as long as the gluttony killing was done before the weekend, our killer could've gotten in here on Friday.  He could've spent all day Saturday with Gould, and all day Sunday.
+L489450 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I'm certain.  He was the biggest defense lawyer around.  Infamous, actually.
+L489449 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Our guy got into office, probably before the building closed and security tightened up.  Gould must have been working late.
+L489448 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I vaguely recall a large, angry man, and someone called Norton.
+L489447 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You've never seen "The Odd Couple?"  This is sick.  "The Honeymooners?!"
+L489446 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I just have to say, I can't respect any man who's never seen "Green Acres."
+L489445 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I read.  Remember reading?
+L489444 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You go to movies at least?
+L489443 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ What about them?
+L489442 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ What about sports?
+L489441 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ All television does is teach children that it's really cool to be stupid and eat candy bars all day.
+L489403 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Hello.
+L489402 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I'd like you to meet Somerset.
+L489398 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Tonight.
+L489397 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ How's that?
+L489396 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I'm invited to have a late supper at your house.  And, I accept.
+L489395 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Well?
+L489393 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ What?
+L489392 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ It's my wife.
+L489390 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Detective Mills here.  Honey... I asked you not to call me here. I'll call you back...  What?  Why?
+L489389 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ It's a package deal.  You get the phone with the office.
+L489330 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Can we talk about this in private?
+L489329 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ It's too soon for him.
+L489318 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Whoa, whoa... what?!
+L489317 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I'm declining this case.  I want us reassigned.
+L489315 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ This is a premeditated puzzle, and it's only the beginning.
+L489314 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ This is his stuff.  I've been out in the cold all day.
+L489305 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ This was one sadistic motherfucker.
+L489304 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ He ate his fill, and was forced to continue eating... till his body rejected the food. the killer held a bucket under him, and then kept serving.  He took his time.  The coroner says this might have gone on for more than twelve hours.  The victim's throat was swollen from the effort, and there was probably a point where he passed out.  That's when killer kicked him in the stomach.  Popped him.
+L489300 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ But, why would there be so many pieces in his stomach if it were nothing?  It must have been intentional.
+L489299 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ It could be nothing.
+L489298 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ You always have to find one singular thing to focus on.  There's always one thing, and it may be as small as a speck of dust, but you find it and focus... till it's an exhausted possibility.
+L489297 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ This doesn't make any sense.
+L489295 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Have you found any plastic scrapings near the stove or sink?  Near the food?
+L489294 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Same color and texture.
+L489273 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I just don't think we should have that sort of relationship.  We'd start quarreling over insignificant things.
+L489272 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Okay... sure...  It's just that, with my old partner, you know...
+L489271 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Is that clear?
+L489269 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Yeah, well, all I want is...  Just, just don't be jerking me off.  That's all I ask.  Don't jerk me off.
+L489268 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I made a decision, because I have to consider the integrity of the scene.  I can't worry whether you think you're getting enough time on the playing field.
+L489267 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ The badge in my pocket says "detective," same as yours.
+L489266 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Good.
+L489265 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Anyway... I did my time on door-to-doors, and walking a beat.  I did all that shit for a long time.
+L489264 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ No.
+L489263 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You've seen my files, right?  Seen the things I've done?
+L489255 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Guessing at this point is useless.
+L489254 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ You think it was poison?
+L489252 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I don't know.  Feel free to look for yourself, okay?
+L489251 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Is there any blood in it?
+L489250 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ It's a bucket of vomit.
+L489247 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ There's a bucket.  Under the table.
+L489246 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ What?
+L489245 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ There's a bucket here.
+L489243 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Please be quiet for a while, would you?
+L489242 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ When we found him, he was lying there with a knife in his back, so what else could it be but homicide?  Except, I finally figured out... he held the knife behind him... put the tip of it in his own back and got real close to the wall... then he shoved his body backwards...
+L489239 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Then, why are we wasting our time?  This guy's heart's got to be roughly the size of a canned ham.  If this isn't a coronary, I don't know what is.
+L489238 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ No one yet.
+L489237 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Who said this was murder?
+L489234 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ For now.
+L489233 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Drop it.
+L489232 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ And I wonder how many times Officer Davis there has found a dead man who wasn't really dead until Davis was in the car calling it in and eating a donut.
+L489231 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I wonder what exactly was the point of the conversation you were about to get into?
+L489218 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Well, over the next seven days, do me the favor of remembering it.
+L489217 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I realize that.
+L489216 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Not here.
+L489215 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I wasn't standing around guarding the local Taco Bell.  I've worked homicide for five and a half years.
+L489214 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Let me tell you how I want this to go.  I want you to look, and I want you to listen.
+L489213 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Maybe I thought I could do more good here than there.  I don't know.  Look, it'd be great by me if we didn't start right off kicking each other in the balls.  But, you're calling the shots, Lieutenant, so... however you want it to go.
+L489212 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ It's very simple.  You worked a nice, quiet town, but you fought to get here as if your life depended on it.  I've just never seen it done that way before, Detective.
+L489211 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Maybe I'm not understanding the question.
+L489210 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ You just met me.
+L489209 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I'm here for the same reasons as you, I guess.  Or, at least, the same reasons you used to have for being here before... before you decided to... quit.
+L489208 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ All this effort you've made to get transferred, it's the first question that pops into my head.
+L489207 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I... I don't follow.
+L489206 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I meant to ask you something, Mills, when we spoke on the phone.  I can't help wondering... why here?
+L489205 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I need to start getting the feel of it all, right?  Meet the people.
+L489204 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Actually, if it's all the same, I'd like to get to the precinct house a.s.a.p.  Seeing how we don't have much time for this whole transition thing.
+L489203 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Since we're just starting out, I thought we could go to a bar... sit and talk for awhile.  After that, we'll...
+L489202 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I'm a little thrown.  I just got in town like twenty minutes ago and they dumped me here.
+L489503 +++$+++ u7523 +++$+++ m508 +++$+++ MRS GOULD +++$+++ Why is this painting hanging upside-down?
+L489502 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ What?
+L489501 +++$+++ u7523 +++$+++ m508 +++$+++ MRS GOULD +++$+++ This painting...
+L489496 +++$+++ u7523 +++$+++ m508 +++$+++ MRS GOULD +++$+++ I can't do this now... please.
+L489495 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Are you absolutely certain?
+L489494 +++$+++ u7523 +++$+++ m508 +++$+++ MRS GOULD +++$+++ I don't see anything.
+L489493 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Anything... anything missing or different.
+L489492 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ Please, I need you to help me if we're going to get who did this.
+L489491 +++$+++ u7523 +++$+++ m508 +++$+++ MRS GOULD +++$+++ I don't know why... why now?
+L489490 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I need you to look at each one carefully... very carefully.  Look for anything that seems strange or out of place.  Anything at all.
+L489489 +++$+++ u7523 +++$+++ m508 +++$+++ MRS GOULD +++$+++ I... I don't understand.
+L489488 +++$+++ u7522 +++$+++ m508 +++$+++ MILLS +++$+++ I'm sorry about this, Mrs. Gould.  I really am.
+L489803 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I can tell you now, I know... I'm positive I made the right decision.  I'm positive. But, there's never a day that passes that I don't wish I had decided differently.
+L489802 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ I want to have children.  It's just...
+L489801 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Well, I got up one morning and went to work... just like any other day, except it was my first since hearing about the baby. And, I... I felt this fear and anxiety washing over me.  I looked around, and I thought, how can we raise a child surrounded by all this?  How can a child grow up here?  So, that night, I told her I didn't want us to have it, and over the next few weeks, I convinced her it was wrong.  I mean... I wore her down, slowly.
+L489799 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ I hate this city.
+L489798 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Oh, Tracy... I have to tell you, I'm not the one to talk to about this.
+L489795 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ I don't know...
+L489794 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ You should look into private schools.
+L489793 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ I've been going to some of the schools, looking for work, but the conditions here are... horrible.
+L489792 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ He mentioned it.
+L489791 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ I can't be a burden, especially now.  I know I'll get used to things.  I guess I wanted to know what someone who's lived here thinks.  Upstate, it was a completely different environment.  I don't know if David told you, but I teach fifth grade, or did.
+L489790 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Talk to him about it.  He'll understand if you tell him how you feel.
+L489789 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ I don't know why I asked you to come.
+L489788 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ You have to put blinders on sometimes. Most times.
+L489787 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ Perfect example.
+L489786 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ I'm sorry, I only...
+L489785 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I feel strange being here with you... without David knowing.
+L489784 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ I don't sleep very well.
+L489783 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ It's a hard place.
+L489782 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ I mean, you known this city.  You've been here for so long.
+L489781 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ If you can, please call me.  Please.  I have to go now... goodnight.
+L489780 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I don't know, with this case.
+L489430 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Too long.  What do you think so far?
+L489429 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ How long have you lived here?
+L489427 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Any person who spends a significant amount of time with me finds me... disagreeable. Just ask your husband.
+L489426 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ It surprises me.  It really does.
+L489425 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I was close once.  It just didn't happen.
+L489422 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I guess I won't be showing it to him then.
+L489421 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ You have a strange way about you... I mean interesting.  I'm sorry.  It's really none of my business.  It's just nice to meet a man who talks like that.  If David saw that paper, he'd say you're a fag.  That's how he is.
+L489416 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ No matter how often I see guns, I still can't get used to them.
+L489415 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Don't worry.  I don't wear it at the dinner table.
+L489413 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Really?
+L489412 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ High school and college, yes.  Pretty hokey, huh?  I knew on our first date this was the man I was going to marry.  God... he was the funniest man I'd ever met.
+L489411 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ I hear you and Mills were high school sweethearts.
+L489409 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ What?  Oh, yes.  I mean, thank you.  Please, sit down.
+L489408 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ It smells good.
+L489406 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ It's a nice name.  William, I'd like you to meet David.  David... William.
+L489405 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Oh... um, William.
+L489404 +++$+++ u7526 +++$+++ m508 +++$+++ TRACY +++$+++ It's nice to meet you.  My husband has told me a lot about you... except your first name.
+L489197 +++$+++ u7525 +++$+++ m508 +++$+++ TAYLOR +++$+++ I don't know.
+L489196 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Did their son see it happen?
+L489195 +++$+++ u7525 +++$+++ m508 +++$+++ TAYLOR +++$+++ This is a done deal.  All but the paperwork.
+L489194 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Yes.  Look at all the passion splattered up on the wall here.
+L489193 +++$+++ u7525 +++$+++ m508 +++$+++ TAYLOR +++$+++ Crime of passion.
+L489192 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Why always like this?  Only after the fact... this sudden realization, that if you shoot someone, or stick a knife in them, that person will cease to exist.
+L489191 +++$+++ u7525 +++$+++ m508 +++$+++ TAYLOR +++$+++ When the patrolman came she was trying put his head back together.  She was crying too hard to say anything.
+L489190 +++$+++ u7524 +++$+++ m508 +++$+++ SOMERSET +++$+++ Did the wife confess?
+L489189 +++$+++ u7525 +++$+++ m508 +++$+++ TAYLOR +++$+++ Neighbors heard them screaming at each other for like two hours.  It was nothing new.  But, then they heard the gun go off. Both barrels.

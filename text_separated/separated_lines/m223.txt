@@ -1,0 +1,447 @@
+L626694 +++$+++ u3354 +++$+++ m223 +++$+++ BADALATO +++$+++ I don' need a hospital... I feel fine.
+L626693 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ That-a-boy. Hospital.
+L626692 +++$+++ u3354 +++$+++ m223 +++$+++ BADALATO +++$+++ ...Where're we goin'?
+L626683 +++$+++ u3354 +++$+++ m223 +++$+++ BADALATO +++$+++ I'm dead. We're both dead.
+L626682 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Demerol? What the fuck is your problem, man? You wanna die?
+L626681 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ And one good guy.
+L626680 +++$+++ u3354 +++$+++ m223 +++$+++ BADALATO +++$+++ Our own Colombian Connection... For three years... Three years of ball breaking detective work. And we put a lotta bad guys behind bars.
+L626679 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ He was your snitch.
+L626678 +++$+++ u3354 +++$+++ m223 +++$+++ BADALATO +++$+++ ...we had to lick his boots clean.
+L626658 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I know about Esparza.
+L626657 +++$+++ u3354 +++$+++ m223 +++$+++ BADALATO +++$+++ You're fishing. You don't know shit.
+L626656 +++$+++ u3354 +++$+++ m223 +++$+++ BADALATO +++$+++ Please... I need to sleep...
+L626655 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ From Chinatown... Which is right up the street from the morgue! Where did you go with the body? What did you do with it?
+L626653 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ An hour after you picked it up!
+L626652 +++$+++ u3354 +++$+++ m223 +++$+++ BADALATO +++$+++ I brought it... to the coroner.
+L626464 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ In other words, seven times out of a hundred, you're wrong!
+L626463 +++$+++ u3355 +++$+++ m223 +++$+++ BALLISTICS EXPERT +++$+++ Absolutely not. No more than seven percent.
+L626462 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Isn't there a ten to fifteen-percent margin of error?
+L626461 +++$+++ u3355 +++$+++ m223 +++$+++ BALLISTICS EXPERT +++$+++ It most certainly is.
+L626460 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Forensic ballistics isn't an exact science, is it?
+L626457 +++$+++ u3355 +++$+++ m223 +++$+++ BALLISTICS EXPERT +++$+++ No it is not, Mr. Dowd.
+L626456 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Or this -- is this a significant difference?
+L626452 +++$+++ u3355 +++$+++ m223 +++$+++ BALLISTICS EXPERT +++$+++ Absolutely.
+L626451 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ You would have the court believe that these two bullets were fired from the same gun?
+L626450 +++$+++ u3355 +++$+++ m223 +++$+++ BALLISTICS EXPERT +++$+++ Correct.
+L626449 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ And the one on the right is the bullet you test-fired from Shu's gun?
+L626448 +++$+++ u3355 +++$+++ m223 +++$+++ BALLISTICS EXPERT +++$+++ True.
+L626447 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ The photo on the left shows the bullet that killed Jimmy Chin, true?
+L626689 +++$+++ u3356 +++$+++ m223 +++$+++ CONNIE +++$+++ Bellevue. Straight up First --
+L626688 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Where's the nearest hospital?
+L626687 +++$+++ u3356 +++$+++ m223 +++$+++ CONNIE +++$+++ Don't hurt him.
+L626646 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Let go of my hair.
+L626645 +++$+++ u3356 +++$+++ m223 +++$+++ CONNIE +++$+++ Gimme back my bottle.
+L626644 +++$+++ u3356 +++$+++ m223 +++$+++ CONNIE +++$+++ The hell you do. At this hour?
+L626643 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I have to talk to your brother.
+L626642 +++$+++ u3356 +++$+++ m223 +++$+++ CONNIE +++$+++ Ms. Vin's sister.
+L626744 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I would like to put Shu's alleged crime in a context, your Honor. And we do have the foremost expert on prison and street gangs right here in this room... If it please the court, I'd like to call Mr. Reynard.
+L626743 +++$+++ u3361 +++$+++ m223 +++$+++ JUDGE +++$+++ -- Then you don't wish to call any witnesses, Mr. Dowd?
+L626740 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I suppose I could find an inmate who'd say that Shu boasted about Chinatown just to survive in the joint -- though he didn't really do it...
+L626739 +++$+++ u3361 +++$+++ m223 +++$+++ JUDGE +++$+++ Well then, does the defense have any witnesses?
+L626738 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Your Honor: I imagine that, no matter how careful my questioning, Mr. Ortega would, in his well-intentioned way, dig my client's hole even deeper.
+L626737 +++$+++ u3361 +++$+++ m223 +++$+++ JUDGE +++$+++ Good morning, Mr. Dowd. Do you think you might be up to cross-examining Mr. Ortega this morning?
+L626544 +++$+++ u3361 +++$+++ m223 +++$+++ JUDGE +++$+++ The testimony will remain in the record. Do you wish to cross-examine?
+L626543 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I move that the witness's testimony be stricken. He has clearly been terrorized by the prosecution, he's --
+L626541 +++$+++ u3361 +++$+++ m223 +++$+++ JUDGE +++$+++ Sustained.
+L626540 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Objection.
+L626511 +++$+++ u3361 +++$+++ m223 +++$+++ JUDGE +++$+++ Complain to the Bar Commission.
+L626510 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Your Honor, that's not fair -- !
+L626497 +++$+++ u3361 +++$+++ m223 +++$+++ JUDGE +++$+++ So noted.
+L626496 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ -- With objection!
+L626495 +++$+++ u3361 +++$+++ m223 +++$+++ JUDGE +++$+++ I will allow the witness to testify. With the understanding that your questions are confined to the area of Mr. Kim's modus operandi.
+L626079 +++$+++ u3361 +++$+++ m223 +++$+++ JUDGE +++$+++ Sustained.
+L626078 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Objection, your Honor! The fact that the witness is currently a patient is immaterial!
+L626710 +++$+++ u3358 +++$+++ m223 +++$+++ ESPARZA +++$+++ Shut your sewer mouth!
+L626709 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Hey -- the fact you popped Jimmy Chin in broad daylight proves it wasn't premeditated. Jury'll sympathize -- dude was banging your wife, right?
+L626708 +++$+++ u3358 +++$+++ m223 +++$+++ ESPARZA +++$+++ Let's snuff this lowlife!
+L626707 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ What, "everything"? You shot a corpse. I don't give a shit about that -- !
+L626361 +++$+++ u3358 +++$+++ m223 +++$+++ ESPARZA +++$+++ If you'd had the sense to ask for my help, I might've helped you. But you've probably scared Chuckie Roeder off for good, I have a whole bunch of jumpy employees to handle and you're both going to be on your way. Now.
+L626360 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Dowd. Eddie Dowd.
+L626359 +++$+++ u3358 +++$+++ m223 +++$+++ ESPARZA +++$+++ "Art's Supplies" is founded on trust, Mister --
+L626356 +++$+++ u3358 +++$+++ m223 +++$+++ ESPARZA +++$+++ I did five years in Attica. Lot of cons helped me in the joint. But I never got help from any lawyer... I built this business for guys like me who couldn't get a break anywhere else. "Art's Supplies" is for ex- cons. Not lawyers.
+L626355 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ "We"?
+L626354 +++$+++ u3358 +++$+++ m223 +++$+++ ESPARZA +++$+++ -- I don't care who you are. You could've been killed. Every man and woman in here has done hard prison time. And we look out for each other.
+L626353 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Look, I'm a lawyer and --
+L626346 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Do you see a toilet here you think is really me?
+L626345 +++$+++ u3358 +++$+++ m223 +++$+++ ESPARZA +++$+++ I noticed.
+L626344 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I'm a lawyer. The firm is thinking about renovating. Everything dates back to the Sixties.
+L626343 +++$+++ u3358 +++$+++ m223 +++$+++ ESPARZA +++$+++ You can't come back here... Anything happens to you I'm liable.
+L625915 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Not necessarily...
+L625914 +++$+++ u3359 +++$+++ m223 +++$+++ FULTON +++$+++ Haven't heard that one before, Ed.  But I guess I'll be hearing it again.
+L625912 +++$+++ u3359 +++$+++ m223 +++$+++ FULTON +++$+++ Can't I take a simple piss without --
+L625911 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ We don't prosecute people because in the abstract they might be weak. Judge Brandeis said it best: Entrapment is a "dirty business!"
+L625909 +++$+++ u3359 +++$+++ m223 +++$+++ FULTON +++$+++ What about entrapment?
+L625908 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ No it's not the only issue. There's another issue, for the jury. What about entrapment?
+L625906 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Yeah, well I had reasonable cause to believe the judge might've heard of the Fourth Amendment.
+L625905 +++$+++ u3359 +++$+++ m223 +++$+++ FULTON +++$+++ I had a minute before the Mapp hearing -- but I couldn't get you on the phone, Eddie...
+L625904 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Clyde, you wait here.  Glenn, got a minute?
+L626484 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ No further questions.
+L626483 +++$+++ u3364 +++$+++ m223 +++$+++ MS. GORDON +++$+++ Not the whole time, of course. I --
+L626481 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Ah.
+L626480 +++$+++ u3364 +++$+++ m223 +++$+++ MS. GORDON +++$+++ I didn't take my eyes off it!
+L626479 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ How can you remember that?
+L626478 +++$+++ u3364 +++$+++ m223 +++$+++ MS. GORDON +++$+++ I can see the hammer still, it was cocked...
+L626477 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ You can't remember that -- !
+L626476 +++$+++ u3364 +++$+++ m223 +++$+++ MS. GORDON +++$+++ It was silver, with a stubby barrel... snub-nosed, I think they call it... It wasn't automatic, it had one of those... cylinders...
+L626475 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Oh really?
+L626474 +++$+++ u3364 +++$+++ m223 +++$+++ MS. GORDON +++$+++ I can describe it.
+L626473 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Come now. Did you see the gun?
+L626724 +++$+++ u3369 +++$+++ m223 +++$+++ SKLAROFF +++$+++ You fucking swear to shut up!
+L626723 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ No. No...
+L626722 +++$+++ u3369 +++$+++ m223 +++$+++ SKLAROFF +++$+++ You see that? You wanna be like that?
+L626310 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Your Honor, the witness' response was non-responsive... I ask you to strike it from the record...!
+L626309 +++$+++ u3369 +++$+++ m223 +++$+++ SKLAROFF +++$+++ Kim's prints were all over it -- He admitted it was his gun, f'r godsake!
+L626308 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Not at all --
+L626307 +++$+++ u3369 +++$+++ m223 +++$+++ SKLAROFF +++$+++ You're implying that I planted a gun?
+L626301 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Didn't this "information" come from the Joe Boys themselves -- did they not all but hand you Shu Kai Kim, a Korean, an outsider?
+L626300 +++$+++ u3369 +++$+++ m223 +++$+++ SKLAROFF +++$+++ We had information bearing on Mr. Kim's desire to gain admission into the Joe Boys by assassinating a member of a rival gang.
+L626296 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ A "description"? What, Asian male 18 to 30, black hair, brown eyes?
+L626295 +++$+++ u3369 +++$+++ m223 +++$+++ SKLAROFF +++$+++ We had a description of the suspect.
+L626294 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Exactly what information led you to arrest my client just two-and-a-half hours after the shooting took place?
+L626637 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ ... An hour.  That's why I thought the morgue was on the other side of town.
+L626636 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ How long did it take Badalato to drive Jimmy Chin's body from Chinatown to the morgue?
+L626631 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Least we'd already be at the Morgue.
+L626630 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ ...Jesus!
+L626627 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Everyone else was wrong and the one fucking lunatic was right!
+L626626 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ "The killer wasn't Chinese"... Cecil Stipe was right. .!
+L626625 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Christ... Shu is innocent.
+L626624 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ They could've been brothers. It's why the eyewitnesses picked Shu.
+L626623 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I've seen this picture before.
+L626622 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ -- What?
+L626605 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ I followed her from the courthouse.
+L626604 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ You phoned up Art Esparza's wife?
+L626603 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ I think he hired Shu to kill Jimmy Chin... It wasn't a Chinatown gang hit -- Jimmy Chin and Art's wife were lovers! She just about told me...!
+L626602 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ What's Art Esparza?
+L626601 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Eddie -- it's Art Esparza!
+L626416 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ -- Roger -- ?
+L626415 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Let's get a cab.
+L626414 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I've got a meeting in Chinatown.
+L626413 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ I am. Eddie -- we've got nothing.
+L626412 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I'm not that desperate.
+L626411 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ But Roeder's dead. Ballistics says it's Shu! We don't have one witness -- unless we put Cecil Stipe on the stand...
+L626410 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ That's not gonna happen. I'm gonna create reasonable doubt. Buckle your seatbelt and watch me work.
+L626409 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ You're carrying that around like it was a picture of your girlfriend!  I don't want to see your heart broken when this case crashes and burns!
+L626407 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ You know how I know? 'Cause Reynard says he's guilty, and Reynard's full of shit! Look --
+L626406 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ -- Eddie...
+L626405 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Hey -- you believe what you want. Shu Kai Kim is innocent.
+L626404 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Eddie... it's one thing to compare Clyde Gruner to Jesus Christ. It's even okay to claim that Shu Kai Kim is just slightly holier than the Pope... as long as you don't really believe it!
+L626403 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ That's why I hate experts.
+L626402 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ I've heard from the last ballistics expert on the list. It's an even ten who say Shu's gun killed Jimmy Chin!
+L626401 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ But what?
+L626400 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Well, I mean, Roeder's gone, now... A dead end. Believe me, I'm sorry too, but...
+L626399 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ ...What do you mean?
+L626398 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ So what're we gonna do?
+L626366 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ You sneaked a peek at the Rolodex.  Nice.
+L626365 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Chuckie's address. I sneaked a peek at the Rolodex.
+L626364 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ -- What?
+L626363 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ 1530 Rivington Street.
+L626362 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Goddam it... the little punk bests me again, I get thrown down and lectured at and where the hell were you?
+L626342 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Roger Baron.
+L626341 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Eddie Dowd.
+L626317 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ A spinal injury, in the line of duty. It was in Kitty's report...
+L626316 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ A fucking wheelchair?
+L626263 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ George is a fucking burnout case. I didn't want him on the stand anyway. Get more names from Billy.
+L626262 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Uh, Eddie? The, um, ballistics guy, George...? He called, and...  His tests show that Shu's gun fired the bullet that killed Jimmy Chin.
+L626184 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Hey, Clyde Gruner sold these guys a pound of crystal meth at cost. We're Clyde's buddies, it's cool.  Next exit.
+L626183 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ I feel much better now.
+L626182 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ So an upstanding member of the Aryan Warriors wouldn't paint them on. They take those teardrops seriously -- they're badges of courage, of honor. Only their most vicious killer elite get to wear them...!
+L626181 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ -- Yeah?
+L626180 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ There's no one else to talk to. The tattoos were phony!
+L626179 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ I didn't ask for a closing argument.
+L626178 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ They're just frightened, fucked-up losers that prison fucked up worse.
+L626174 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ -- You found his mugshot?
+L626173 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ His name is Chuckie Roeder. But something's very weird.
+L626157 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Saving it for the Sunday Times.
+L626156 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Shoulda told the one about Shu being the bastard child of Mother Theresa.
+L626105 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ "Have to"? No...
+L626104 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Do you have to do that?
+L626024 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ "Cecil Stipe." Find it.
+L626023 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ What, the lunatic who --
+L626022 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ That DD-5.
+L626016 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ "Cecil Stipe"? Have we seen any affadavit with that name?
+L626015 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ -- Listen: "November 5, 1980. Cecil Stipe walked into 5th Precinct. Says he witnessed Chin shooting, saw suspect's picture in Post. Says Shu Kai Kim wrong man."
+L626014 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ A Complaint Follow-Up form.
+L626013 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Eddie... What's a DD-5?
+L626012 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Eddie... I don't know about this...
+L626011 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ When did you start working for the goddam D.A.?
+L626004 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ ...Are you sure we want that?
+L626003 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Easy? No... We have to find some piece of evidence that got buried, to reopen the sucker.
+L626002 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ -- Easy as that, huh?
+L626000 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I don't know but it makes one hell of an opening statement.
+L625999 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ You really think that's what happened?
+L625998 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Some gang punk gets wasted in front of the tourists. The mayor pressures the cops. The cops pressure the rival gang -- the Joe Boys. The Joes give up Shu Kai Kim -- the schmuck kid from Korea who's been pestering 'em to get in.
+L625997 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Eight years ago. The Chinatown hit.
+L625996 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ What other case?
+L625995 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ We're taking the other case.
+L625994 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ I feel like I've been mugged... Guy scared the shit out of me. You made your point, Eddie... I'm relieved we're not taking the case.
+L625993 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ With two knives taped to his hands? Forget it, Rog.
+L625992 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ ...So what would we claim? He stabbed Duane Lindeman in self-defense?
+L625989 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ -- Remember?
+L625988 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ At the trial, you said you were at your apartment that night. Alone.
+L625977 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ -- The Nazi he knifed?
+L625976 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Kim denied it. But he admitted the gun was his, and he got life. Seems to have been an okay prisoner for eight years, til the... incident with Duane Lindeman.
+L625975 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Chinatown street gang.
+L625974 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Kim got busted at 19 for burglary. At 20 he was convicted in the shooting death of a young Chinese gang lord... The prosecution claimed Kim did it to get into "the Joe Boys"?
+L625972 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Ossining Correctional Facility. Sing Sing. Everybody's innocent there, man... Just ask 'em...
+L625971 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Where?
+L625967 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Look -- I'm tired, I'll see you in the morning, Eddie.
+L625966 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Ten years is a long time.
+L625964 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Hey. You plan to be a criminal defense attorney, know this going in: Everybody's guilty.
+L625963 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Don't tell me where to work. I moved to New York to work for Edward Dowd. But I can't believe that Edward Dowd has nothing better to do these days than invoke exalted legal issues to get off guilty little --
+L625962 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ So go take your job on Wall Street.
+L625961 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ -- a speed manufacturer --
+L625960 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I'm not a kid anymore, I can't be all over the map --
+L625959 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ -- an angel dust dealer --
+L625958 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I specialize, Roger...
+L625957 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ It's just... I leave behind friends, family, a coupla good job offers in Chicago and in three dizzying weeks I've helped acquit a coke dealer, a speed dealer --
+L625956 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Damn right I'm right.
+L625955 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Right. You're right.
+L625954 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ ...through use of informants, eavesdropping, unreasonable search and seizure...!
+L625953 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Of course.
+L625952 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I don't venerate drug dealers, Roger. To the contrary.
+L625951 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Right, I forgot... We're pledged to protect every mid-level drug dealer in the Tri-state area.  It's an awesome responsibility.
+L625950 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ We have a full caseload, Rog.
+L626442 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ And I call your testimony hearsay. I have no more questions for you.
+L626441 +++$+++ u3360 +++$+++ m223 +++$+++ GANG EXPERT +++$+++ They're Chinamen who speak English. We call them informants.
+L626437 +++$+++ u3360 +++$+++ m223 +++$+++ GANG EXPERT +++$+++ Neither.
+L626436 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Pardon... Which dialect do you speak?
+L626435 +++$+++ u3360 +++$+++ m223 +++$+++ GANG EXPERT +++$+++ -- Me? Neither.
+L626434 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Do you speak Cantonese, Mandarin, or both?
+L626433 +++$+++ u3360 +++$+++ m223 +++$+++ GANG EXPERT +++$+++ ...For ten years, now.
+L626432 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ You're the police expert in Chinatown gangs?
+L626596 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Screw you too, Kitty.
+L626595 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ I need sleep. Some of us are mere mortals.
+L626594 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I don't need sleep!
+L626593 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ Eddie... go home. Get some sleep.
+L626590 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ EXACTLY!
+L626589 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ Eddie... A guilty client's not the end of the world...
+L626387 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Nothing has. But that's all changing.
+L626386 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ Eddie this is silly... are we supposed to pretend nothing's happened in the last ten years and --
+L626385 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ Eddie, if I wanted to make love with you again, I'd do it sober.
+L626384 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ You do.
+L626383 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ You don't drink "booze".
+L626382 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Got any booze in the house?
+L626381 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ Right.
+L626380 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I haven't paid you.
+L626379 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ I'm a professional, Eddie. Getting paid is all the thanks I require.
+L626378 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I haven't thanked you for your work, Kitty. You're doing good work.
+L626373 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ A number of them are dead, three are in prison, one's a waiter... Two -- you'll enjoy this -- two are actually members of the Chamber of Commerce.
+L626372 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ The Joe Boys in 1980...!
+L626370 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ Eddie, these things take time. Particularly at this hour...
+L626369 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ -- Find him?
+L626328 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I don't have time to read every word in every report, I'm too busy getting killed in court... Meantime my crackerjack investigator can't find the goddam art supplies store where Chuckie-fucking-Roeder works!
+L626327 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ I didn't put him in a wheelchair. Reynard did. He can get around without one -- it's all in my report.
+L626326 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ A fucking wheelchair?
+L626270 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Have you considered that Chuckie Roeder's not calling himself Chuckie Roeder these days? Get his mugshot from one of the many law officers who've got hotpants for you... then canvass those art supplies places. We're gonna win this one, Kitty, but ya gotta believe...
+L626269 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ I've phoned every art supply retailer and wholesaler in the Tri-state area. No one's heard of Chuckie Roeder.
+L626267 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ But I like that theory. And since I'm not putting Twerp Professor on the stand, and since I don't have a better theory, I'm sticking with that theory. Meantime I want pictures of the Joes. What'll you bet there was a guy in the gang looked enough like Shu to fool the eyewitnesses!
+L626266 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ So there goes your theory about the Joes giving up Shu to protect their trigger man.
+L626155 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I lied.
+L626154 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ "...are close to naming the man they believe actually killed Jimmy Chin"?
+L626153 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I embroidered.
+L626152 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ "Dowd also reports that his team of private investigators..."?
+L626151 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I embellished.
+L626107 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ I was never politically correct enough for Comrade Dowd.
+L626106 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Start looking into the Joe Boys -- who assigned the hits in 1980, what rank generally did the hits...  Your extensive law enforcement contacts should be of some use.
+L626043 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ I'm kicking myself, Eddie... Right out of here.
+L626042 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Forget it. You've blown your chance to participate in this case, Kitty.
+L626041 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ Just which Constitutional amendment protects our right to peddle PCP?
+L626040 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Kitty, where exactly do you place the microphone to catch the most incriminating moans?
+L626039 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ Beats getting paid in twenties by slimedogs selling angel dust to high school seniors.
+L626038 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Lemme guess. Some corporate V.P.'s banging his secretary over lunch and you have to focus your camera and plug in your little tape recorder.
+L626036 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ Eddie, I'm not working on this case. You boys have fun.
+L626035 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Stipe was just one of four eyewitnesses who came forward, Kitty. Y'oughta start looking for the others...
+L626034 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ It hasn't been that long.
+L626033 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ You're doing a murder case?
+L626032 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Murder witness.
+L626565 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ For awhile we had this dream we were innocent. That was our bond... but then we woke up. And now I'd like to hear everything.
+L626564 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ When you leave this place you're going out to dinner or a movie or get laid. Where's our bond? I'm going back to my cell and wait to die. So tell me: Where's our bond?
+L626560 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ By trusting me. Shit, man...
+L626559 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ -- How could I help you?
+L626557 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Jimmy Chin? Was that self-defense too?
+L626556 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ It was self-defense.
+L626555 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I didn't need to know that a man I'm defending on a gang-murder rap is a prison soldier who kills over drugs?
+L626554 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ When I joined up I took an oath of secrecy. I told you what you needed to know.
+L626553 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Quite a bit you didn't tell me.
+L626314 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ It's okay, Eddie.
+L626313 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ ...I'm dying out there.
+L626225 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ "No," what?
+L626224 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ No.
+L626221 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Well I know that you're innocent, Shu -- even if you forgot.
+L626220 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ I don't know shit, man! Goddammit --
+L626219 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ You can't. So tell me what you do know -- say it!
+L626218 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ How can I tell you what I don't know!
+L626217 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ No. You tell me, Shu.
+L626216 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ You tell me, man.
+L626215 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ What went down?
+L626214 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ About Chinatown. What went down.
+L626213 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ -- About what?
+L626212 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ I don't know. The truth, maybe.
+L626211 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Afraid of what?
+L626210 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ Maybe... because someone's afraid.
+L626209 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ But why?
+L626208 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ I guess he... wanted you to think he was... somebody he wasn't.
+L626207 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ But why would a guy would do that? Paint black teardrops on his face?
+L626205 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ "Painted"?
+L626204 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ An Aryan Warrior with black teardrops painted on his face.
+L625986 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ ...Okay...
+L625985 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ I killed the motherfucker.
+L625984 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Exactly what happened then?
+L625983 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ Racist asshole came at me.
+L625982 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Want to tell me what went down here?
+L625981 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ Figures.
+L625980 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ That's right.
+L625979 +++$+++ u3368 +++$+++ m223 +++$+++ SHU +++$+++ My mother find you?
+L626086 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Mr. Rabin has no right to --
+L626085 +++$+++ u3370 +++$+++ m223 +++$+++ STIPE +++$+++ I'd l-like to answer the question.
+L626075 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Thank you, Mr. Stipe.
+L626074 +++$+++ u3370 +++$+++ m223 +++$+++ STIPE +++$+++ No, s-sir.
+L626073 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Did the police make any attempt to phone you, to follow up?
+L626072 +++$+++ u3370 +++$+++ m223 +++$+++ STIPE +++$+++ Y-yes, sir.
+L626071 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ ...You told the Desk Sergeant you were certain Mr. Kim wasn't the killer?  You left your telephone number?
+L626070 +++$+++ u3370 +++$+++ m223 +++$+++ STIPE +++$+++ I always t-tell the truth.  That's why I'm here.
+L626069 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ When the D.A. hears I filed the writ, he'll send someone here, maybe claiming to be a journalist. That person will ask you lots of questions. Just be truthful, Cecil, okay? To all of us?
+L626068 +++$+++ u3370 +++$+++ m223 +++$+++ STIPE +++$+++ They g-got the wrong g-guy.
+L626067 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Are you willing to testify that the man you saw shoot Jimmy Chin was not the man the cops arrested?
+L626066 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Good. Now we're going to take an affadavit from you, but only concerning the facts of the Chinatown shooting. We honestly don't give a shit about the Kennedy assassination.
+L626065 +++$+++ u3370 +++$+++ m223 +++$+++ STIPE +++$+++ I did two tours in 'Nam...
+L626057 +++$+++ u3370 +++$+++ m223 +++$+++ STIPE +++$+++ Hey, Chinese people have this energy field that vibrates at a particular frequency.
+L626056 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Oh come on, Cecil.
+L626049 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ See-cil. I'm Eddie Dowd, this is Roger Baron. We're lawyers.
+L626048 +++$+++ u3370 +++$+++ m223 +++$+++ STIPE +++$+++ See-cil.
+L626047 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ 'lo, Cecil.
+L626775 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ No? Then what did he say?
+L626774 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ No.
+L626772 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I hope so, Mr. Reynard.
+L626771 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ I think you're a dangerous man, Mr. Dowd.
+L626770 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Isn't it true that without Esparza, you had no investigation?
+L626769 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ You're trespassing into the area of witness protection, Mr. Dowd. Such showboating puts lives at risk.
+L626768 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I didn't say he was an informant. But since you mentioned it, wasn't Esparza your primary informant?
+L626767 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ I can't be expected to remember the name of every informant eight years after the fact.
+L626766 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ -- But you just said you were personally involved with all the principals of the investigation.
+L626765 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ I don't think I know that name.
+L626764 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ And who was Arturo Esparza?
+L626763 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ In those days, they often worked as a team.
+L626762 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ The same three detectives on the Jimmy Chin case.
+L626761 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Lou Sklaroff, Vin Badalato, Dave Montell.
+L626760 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ And who were the detectives who assisted you, Mr. Reynard?
+L626759 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Mr. Dowd, I was personally involved with all phases -- and principals -- of the investigation.
+L626758 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Did you do any hands-on work or did you just supervise, from on high?
+L626757 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ If I were sitting where I normally sit, I would say "Calls for speculation."
+L626756 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Didn't this investigation, with its attendant publicity, catapult you into the office you now hold?
+L626755 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Yes, Mr. Dowd.
+L626748 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I'd need a continuance. Three weeks at least.
+L626747 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ -- Can't Mr. Dowd find his own expert witness, your Honor?
+L626494 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ -- in a context.
+L626493 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ -- alleged crime --
+L626492 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Your Honor, I know as much about these gangs as anyone; I'm well aware of the secrecy in which their machinations are cloaked... I assure you this witness offers the court a rare opportunity to place the defendant's crime --
+L626491 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ The great personal sacrifices endured by Mr. Reynard have no bearing on the legal issues, your Honor -- !
+L626490 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ The witness is recalcitrant, your Honor -- I had to personally make a body attachment this morning -- it took two Marshalls to drag him here!
+L626489 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ The witness will substantiate Mr. Kim's modus operandi. It's circumstantial evidence in the case at hand!
+L626488 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ -- Objection, your Honor! This case has no connection with any subsequent act my client may be charged with!
+L626487 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ We just discovered him, your Honor! His appearance is critical to a fair presentation of our case! He is an inmate at Ossining Correctional and --
+L626486 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Your Honor, that's trial by ambush!
+L626459 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Objection.
+L626458 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ To the best of your recollection, were you sober when you performed the tests?
+L626440 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Badgering.
+L626439 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ You don't speak any Chinese dialects? Then you get your intelligence from snitches?
+L626305 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Calls for speculation.
+L626304 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Isn't it unusual for a man who's just committed a murder in plain sight to bring the weapon back to his apartment?
+L626288 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Argumentative.
+L626287 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Isn't it a standard trick to pack a line-up with men who resemble each other but look different than the suspect, so the suspect will stand out for the eyewitnesses?
+L626286 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Objection. The witness is not an expert in racial classification.
+L626285 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Isn't it a fact that the "six other Asian men" in the line-up were all of the classic Mongoloid type, whereas Shu has the distinct facial bone structure of a Korean?
+L626256 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ That's big of you, Bob.
+L626255 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ I'll prosecute anyone who fucks up. If that makes me look racist, it's a trade-off I'll live with, Ed.
+L626252 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ No, Mr. Dowd, you'll see me in court. I'm prosecuting this case.
+L626251 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ But I'm a quick study. Tell your Deputy D.A. -- Rabin? -- that I'll see him in court.
+L626250 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ But now you've strayed from your area of expertise -- dope -- into street assassins. A subject on which you're dangerously ignorant.
+L626142 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ You know you're very tense, Mr. Reynard. Y'oughta take a week off, fly the wife and kids to Oahu.
+L626141 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ You're pissing me off again, Ed.
+L626140 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I never joke about waiving a client's Sixth Amendment right to trial.
+L626139 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ We reconvict, your man's looking at 25 years on two counts, served consecutively. So what I'd like to ask, Ed, is: Are you joking?
+L626138 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ That's right.
+L626137 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ I see: He'd walk out next month.
+L626135 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ You're my only problem, Ed. What does it take to make you go away?
+L626134 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Please don't bullshit me, Mr. Reynard. You've got witness problems, you've got proof problems...
+L626133 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Friday's the drop-dead date on the offer.
+L626132 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ What am I looking for? You're the one talking deal.
+L626131 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Yes, but that's not the issue. What's on your wish list, Ed? Pleading Kim out to first degree man on both homicides, with an agreed sentence of 15 to life running concurrent? Come on... What're you looking for here?
+L626130 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Are you implying that my motives are less than sincere?
+L626129 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Now maybe you got this case reopened because you see yourself as a thorn in society's side, or you want to walk into any restaurant in Chinatown and get free dumplings...
+L626128 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I'd have that checked, Mr. Reynard.
+L626127 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Back in the Seventies I spent years putting away gangsters in a Colombian syndicate called "the Ochoa". These guys are very dangerous, Ed. When I hear that a small-time dope lawyer is conniving to spring one of these guys, I see red.
+L626126 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Your client is guilty. Don't dick around with me.
+L626125 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ I'm sorry if I've ruined your day, Mr. Reynard. But my client's had a rough eight years behind bars and --
+L626122 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Let's not drag the Constitution into this.
+L626121 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ It's in the area of narcotics, Mr. Reynard, that the government tramples on the Fourth Amendment.
+L626120 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ My staff tells me it's been mostly drug pushers... I said that can't be the same Edward Dowd.
+L626119 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ This and that.
+L626118 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ You won't remember this, but in '72 I was one of several prosecutors assigned to the Black Panther-Police Shootout.  We had a whole team, and you walked into court by yourself and kicked our collective butt.  So what've you been up to since then?
+L626117 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Shu Kai Kim.
+L626116 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Of course you know Dean Rabin, one of my Assistant D.A.s. Dean generally handles nuisance cases like the... what's the man's name?
+L626115 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Don Reynard.
+L626114 +++$+++ u3357 +++$+++ m223 +++$+++ EDDIE +++$+++ Edward T. Dowd.
+L626551 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ No -- leave him be. It's better for everyone.
+L626550 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Shouldn't one of us...?
+L626549 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ It's okay. It was always like that.
+L626102 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ But they've still got Laura Gordon -- and she was the closest, about 20 feet from the killer.
+L626101 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ -- Every word.
+L626100 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ You getting this?
+L626031 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ So what'd this guy do? Snitch off a dealer?
+L626030 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ I'll take odds on Cecil Number Two.
+L626029 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ My skip-trace turned up two Cecil Stipes. One's in Butte, Montana. Other's at Riverhead Veterans Psychiatric.
+L626028 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ -- Eddie told you?
+L626027 +++$+++ u3362 +++$+++ m223 +++$+++ KITTY +++$+++ You read Eddie's Chase Manhattan Bombing summation in the Leftist Law anthology?
+L626583 +++$+++ u3363 +++$+++ m223 +++$+++ MRS. ESPARZA +++$+++ You mustn't talk to Art. You mustn't tell Art that I was at the trial. Do you hear me?
+L626582 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ -- Roger --
+L626581 +++$+++ u3363 +++$+++ m223 +++$+++ MRS. ESPARZA +++$+++ Look. Mister --
+L626579 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Chuckie OD'd, Mrs. Esparza. He's dead.
+L626578 +++$+++ u3363 +++$+++ m223 +++$+++ MRS. ESPARZA +++$+++ -- Why don't you ask Chuckie?
+L626577 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Then it was your idea to have Chuckie Roeder scare Eddie off the case?
+L626576 +++$+++ u3363 +++$+++ m223 +++$+++ MRS. ESPARZA +++$+++ That's right.
+L626575 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ ...And you were at the trial to... to see that justice was done?
+L626574 +++$+++ u3363 +++$+++ m223 +++$+++ MRS. ESPARZA +++$+++ I knew Jimmy Chin. The boy who was shot. Okay?
+L626573 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ I followed you here from court.
+L626572 +++$+++ u3363 +++$+++ m223 +++$+++ MRS. ESPARZA +++$+++ -- What trial?
+L626571 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ What were you... Why were you at Shu's trial this afternoon?
+L626570 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ I'm Roger Baron. I work with Edward Dowd.
+L626569 +++$+++ u3363 +++$+++ m223 +++$+++ MRS. ESPARZA +++$+++ What do you want?
+L626532 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ You mean to say Mr. Kim told you that he murdered Jimmy Chin?
+L626531 +++$+++ u3365 +++$+++ m223 +++$+++ ORTEGA +++$+++ Chinatown. Sounded pretty cold...
+L626530 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ And why was an exception made?
+L626529 +++$+++ u3365 +++$+++ m223 +++$+++ ORTEGA +++$+++ Shu's the only one I know of...
+L626528 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Isn't it unusual for an Asian to be accepted into a Cuban prison gang?
+L626527 +++$+++ u3365 +++$+++ m223 +++$+++ ORTEGA +++$+++ Soldado.
+L626526 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Mr. Ortega, what is Shu Kai Kim's rank within La Compania?
+L626525 +++$+++ u3365 +++$+++ m223 +++$+++ ORTEGA +++$+++ That's right.
+L626524 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ By "takes care of," you mean "kills".
+L626523 +++$+++ u3365 +++$+++ m223 +++$+++ ORTEGA +++$+++ ...A soldado, he takes care of it.
+L626522 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ If a member of the Aryan Brothers tries to cut in on your distribution?
+L626521 +++$+++ u3365 +++$+++ m223 +++$+++ ORTEGA +++$+++ Cigarettes, candy bars...  PCP, crack...
+L626520 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ "Materiel"? What do you mean by that?
+L626519 +++$+++ u3365 +++$+++ m223 +++$+++ ORTEGA +++$+++ A soldado, he runs messages and materiel between the regiments...
+L626518 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ And what does a soldado -- a soldier -- do?
+L626517 +++$+++ u3365 +++$+++ m223 +++$+++ ORTEGA +++$+++ I'm a soldado in the G-Wing Regiment.
+L626516 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ "Name, rank and serial," Mr. Ortega. Let's not hide behind the Fifth.
+L626515 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ What is your rank within La Compania?
+L626514 +++$+++ u3365 +++$+++ m223 +++$+++ ORTEGA +++$+++ Yeah, we do some of that.
+L626513 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Do the rival gangs compete for control of the prison drug trade?
+L626508 +++$+++ u3365 +++$+++ m223 +++$+++ ORTEGA +++$+++ I would tend to plead the Fifth.
+L626507 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ For control of the prison drug trade?
+L626506 +++$+++ u3365 +++$+++ m223 +++$+++ ORTEGA +++$+++ Fighting the Aryan Warriors and the Black Guerrillas, basically.
+L626505 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ And its purpose?
+L626504 +++$+++ u3365 +++$+++ m223 +++$+++ ORTEGA +++$+++ A Cubano army, basically... inside and outside prisons.
+L626503 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Mr. Ortega... What is "La Compania"?
+L626502 +++$+++ u3365 +++$+++ m223 +++$+++ ORTEGA +++$+++ Five years.
+L626500 +++$+++ u3365 +++$+++ m223 +++$+++ ORTEGA +++$+++ I would tend to plead the Fifth.
+L626499 +++$+++ u3366 +++$+++ m223 +++$+++ REYNARD +++$+++ Mr. Ortega, you've known the defendant at Ossining Correctional for how long?
+L626063 +++$+++ u3370 +++$+++ m223 +++$+++ STIPE +++$+++ And you b-believe that.
+L626062 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ The phone company was broken up.
+L626061 +++$+++ u3370 +++$+++ m223 +++$+++ STIPE +++$+++ Telephone.  I suppose you don't know the phone company killed Kennedy because he was trying to b-break it up -- and they'll never let that happen. They control everything: what you say in the mouthpiece is never exactly what comes out the other end, and --
+L626060 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ CIA?
+L626055 +++$+++ u3370 +++$+++ m223 +++$+++ STIPE +++$+++ No! They g-got the wrong guy! I saw it! The killer wasn't Chinese.
+L626054 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ I think what Eddie wants to say is --
+L626052 +++$+++ u3370 +++$+++ m223 +++$+++ STIPE +++$+++ That guy they arrested -- he was the wrong g-guy.
+L626051 +++$+++ u3367 +++$+++ m223 +++$+++ ROGER +++$+++ Mr. Stipe. A young man named Jimmy Chin was shot to death eight years ago, in Chinatown. Do you remember talking to the police?
+L626050 +++$+++ u3370 +++$+++ m223 +++$+++ STIPE +++$+++ You're a l-lawyer?  I... I haven't had my meds, or m-my vital signs t-taken yet. I...

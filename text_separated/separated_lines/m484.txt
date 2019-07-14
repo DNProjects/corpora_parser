@@ -1,0 +1,31 @@
+L457449 +++$+++ u7197 +++$+++ m484 +++$+++ NIKOLAS +++$+++ Yes!
+L457448 +++$+++ u7194 +++$+++ m484 +++$+++ DOCTOR +++$+++ You're losing your blood?
+L457447 +++$+++ u7197 +++$+++ m484 +++$+++ NIKOLAS +++$+++ I'm losing my blood!
+L457446 +++$+++ u7194 +++$+++ m484 +++$+++ DOCTOR +++$+++ What is it now?
+L457443 +++$+++ u7194 +++$+++ m484 +++$+++ DOCTOR +++$+++ Go to sleep!
+L457442 +++$+++ u7197 +++$+++ m484 +++$+++ NIKOLAS +++$+++ The wound is bleeding!
+L457441 +++$+++ u7194 +++$+++ m484 +++$+++ DOCTOR +++$+++ What is it?
+L457396 +++$+++ u7198 +++$+++ m484 +++$+++ NURSE +++$+++ The master ... is asleep!
+L457395 +++$+++ u7195 +++$+++ m484 +++$+++ LÉONE +++$+++ Yes!
+L457394 +++$+++ u7198 +++$+++ m484 +++$+++ NURSE +++$+++ Your father?
+L457376 +++$+++ u7198 +++$+++ m484 +++$+++ NURSE +++$+++ What did it say?
+L457375 +++$+++ u7195 +++$+++ m484 +++$+++ LÉONE +++$+++ That called ... commanded ...
+L457374 +++$+++ u7198 +++$+++ m484 +++$+++ NURSE +++$+++ That spoke to you?
+L457373 +++$+++ u7195 +++$+++ m484 +++$+++ LÉONE +++$+++ A voice ...
+L457372 +++$+++ u7198 +++$+++ m484 +++$+++ NURSE +++$+++ What were you dreaming about?
+L457332 +++$+++ u7196 +++$+++ m484 +++$+++ MARC +++$+++ No!  Good night!
+L457331 +++$+++ u7197 +++$+++ m484 +++$+++ NIKOLAS +++$+++ No?
+L457330 +++$+++ u7196 +++$+++ m484 +++$+++ MARC +++$+++ There's no child here, and no dogs either.
+L457329 +++$+++ u7197 +++$+++ m484 +++$+++ NIKOLAS +++$+++ But ... the dogs...
+L457328 +++$+++ u7196 +++$+++ m484 +++$+++ MARC +++$+++ There's no child here.
+L457327 +++$+++ u7197 +++$+++ m484 +++$+++ NIKOLAS +++$+++ Yes.
+L457326 +++$+++ u7196 +++$+++ m484 +++$+++ MARC +++$+++ The child!
+L457325 +++$+++ u7197 +++$+++ m484 +++$+++ NIKOLAS +++$+++ Yes, the child ...
+L457324 +++$+++ u7196 +++$+++ m484 +++$+++ MARC +++$+++ Did you hear?
+L457434 +++$+++ u7200 +++$+++ m484 +++$+++ THE SICK-ROOM +++$+++ The blood transfusion is completed. While Marc himself is looking after the patient, the nurse leads Nikolas into an adjoining room, where she makes him sit down and prepares his bandage. The doctor stands bending over Léone.
+L457433 +++$+++ u7199 +++$+++ m484 +++$+++ THE DRAWING-ROOM +++$+++ Another fragment of the diary is shown [having to do with vampires].
+L457432 +++$+++ u7200 +++$+++ m484 +++$+++ THE SICK-ROOM +++$+++ The blood transfusion continues. Marc has positioned himself outside the circle of light from the lamp, so that he can see Nikolas in bright light, while he himself sits in the dark. Nikolas watches Léone's face anxiously and closely during her struggle with death. Life slowly seems to return to her, and her breathing becomes more peaceful. She opens her eyes and looks at the people round her, but she is much too enfeebled to speak, and closes her eyes again. Marc keeps a close watch on Nikolas, who grows paler and paler. His eyes swivel slowly from Nikolas to the patient and back to Nikolas again.
+L457431 +++$+++ u7199 +++$+++ m484 +++$+++ THE DRAWING-ROOM +++$+++ Joseph is reading the diary, which arouses his interest more and more. It is as if he finds a connection between what he reads and the fearful events that have taken place around him. An extract from the diary is shown.
+L457430 +++$+++ u7200 +++$+++ m484 +++$+++ THE SICK-ROOM +++$+++ The blood transfusion is now in progress. The only words are curt orders like: 'Now! - Quickly! - That's enough! - Give it to me! - Sit still!' etc.
+L457429 +++$+++ u7199 +++$+++ m484 +++$+++ THE DRAWING-ROOM +++$+++ Joseph returns from the room where Gisèle is. He has evidently succeeded in calming her. He goes and sits in the chair where Nikolas sat. He rests his head in his hand. He sees the open diary and begins reading it.
+L457428 +++$+++ u7200 +++$+++ m484 +++$+++ THE SICK-ROOM +++$+++ By the time we return there, all the preparations for the blood transfusion are completed.

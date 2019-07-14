@@ -1,0 +1,797 @@
+L395400 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I got a trunk in that room. Will you get it out for me?
+L395399 +++$+++ u2153 +++$+++ m140 +++$+++ 2ND BODYGUARD +++$+++ Put that away, slug!  At your service!
+L395396 +++$+++ u2153 +++$+++ m140 +++$+++ 2ND BODYGUARD +++$+++ Some people like it.
+L395395 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ That's going to be fun.
+L395390 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ That's very nice of Mr. Cobb - but I don't want anybody sticking to my tail no matter what.
+L395389 +++$+++ u2153 +++$+++ m140 +++$+++ 2ND BODYGUARD +++$+++ Yeah, Mr. Cobb said stick to your tail no matter what.
+L395386 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Who are you?
+L395385 +++$+++ u2153 +++$+++ m140 +++$+++ 2ND BODYGUARD +++$+++ No. Don't ever want to go out without telling us.
+L395040 +++$+++ u2154 +++$+++ m140 +++$+++ AGENT +++$+++ Oh, yes - Deeds. Fine fellow. Very democratic. You won't have no trouble at all. Talk to anybody.
+L395039 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Deeds! Who do you think I'm talking about?
+L395038 +++$+++ u2154 +++$+++ m140 +++$+++ AGENT +++$+++ Who's that?
+L395037 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ We'd like to get in touch with him. It's very important.
+L395035 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Yes, I—
+L395034 +++$+++ u2154 +++$+++ m140 +++$+++ AGENT +++$+++ Yes, sir. Yes, indeedy. Everyone knows Deeds.
+L395033 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Yes.
+L395032 +++$+++ u2154 +++$+++ m140 +++$+++ AGENT +++$+++ Deeds?
+L395031 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ I say, my friend, do you know a fellow by the name of Longfellow Deeds?
+L395029 +++$+++ u2154 +++$+++ m140 +++$+++ AGENT +++$+++ Morning, neighbors. Morning.
+L395028 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Good morning.
+L396357 +++$+++ u2155 +++$+++ m140 +++$+++ AMY +++$+++ He sure is.
+L396356 +++$+++ u2171 +++$+++ m140 +++$+++ JANE +++$+++ He's still pixilated.
+L396323 +++$+++ u2155 +++$+++ m140 +++$+++ AMY +++$+++ Yes, indeedy.
+L396322 +++$+++ u2171 +++$+++ m140 +++$+++ JANE +++$+++ Oh, yes.
+L396318 +++$+++ u2155 +++$+++ m140 +++$+++ AMY +++$+++ Uh-huh.
+L396317 +++$+++ u2171 +++$+++ m140 +++$+++ JANE +++$+++ Why, everybody in Mandrake Falls in pixilated - except us.
+L396315 +++$+++ u2155 +++$+++ m140 +++$+++ AMY +++$+++ Always.
+L396314 +++$+++ u2171 +++$+++ m140 +++$+++ JANE +++$+++ Why, you've always been pixilated, Longfellow.
+L396306 +++$+++ u2155 +++$+++ m140 +++$+++ AMY +++$+++ Yes, you own it.
+L396305 +++$+++ u2171 +++$+++ m140 +++$+++ JANE +++$+++ Why, you own it, Longfellow.
+L396200 +++$+++ u2155 +++$+++ m140 +++$+++ AMY +++$+++ Oh, yes - he's pixilated all right.
+L396199 +++$+++ u2171 +++$+++ m140 +++$+++ JANE +++$+++ He sure is pixilated.
+L396198 +++$+++ u2155 +++$+++ m140 +++$+++ AMY +++$+++ Never can tell what he's going to do.
+L396197 +++$+++ u2171 +++$+++ m140 +++$+++ JANE +++$+++ For no reason, I guess. He always does it. We always run into the house when we see him coming.
+L396192 +++$+++ u2171 +++$+++ m140 +++$+++ JANE +++$+++ And sings.
+L396191 +++$+++ u2155 +++$+++ m140 +++$+++ AMY +++$+++ Sometimes he whistles.
+L396190 +++$+++ u2171 +++$+++ m140 +++$+++ JANE +++$+++ He walks in the rain, without his hat, and talks to himself.
+L396183 +++$+++ u2155 +++$+++ m140 +++$+++ AMY +++$+++ Uh-huh.
+L396182 +++$+++ u2171 +++$+++ m140 +++$+++ JANE +++$+++ Pixilated.
+L396179 +++$+++ u2155 +++$+++ m140 +++$+++ AMY +++$+++ Oh yes, pixilated.
+L396178 +++$+++ u2171 +++$+++ m140 +++$+++ JANE +++$+++ They think he's pixilated.
+L396175 +++$+++ u2155 +++$+++ m140 +++$+++ AMY +++$+++ Sometimes twice.
+L396174 +++$+++ u2171 +++$+++ m140 +++$+++ JANE +++$+++ Most every day.
+L396172 +++$+++ u2171 +++$+++ m140 +++$+++ JANE +++$+++ He was a seven-months baby.
+L396171 +++$+++ u2155 +++$+++ m140 +++$+++ AMY +++$+++ Yes. Elsie Taggart was the midwife.
+L396170 +++$+++ u2171 +++$+++ m140 +++$+++ JANE +++$+++ Since he was born.
+L395998 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Next, please.
+L395997 +++$+++ u2156 +++$+++ m140 +++$+++ APPLICANT +++$+++ Thank you very much.
+L395996 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ All right, Mr. Dodsworth. I think you'll qualify.  Take this to that desk over there for further instructions.
+L395995 +++$+++ u2156 +++$+++ m140 +++$+++ APPLICANT +++$+++ No, no children.
+L395994 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Any children?
+L395993 +++$+++ u2156 +++$+++ m140 +++$+++ APPLICANT +++$+++ Yes, sir.
+L395992 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Are you married?
+L395834 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Would you like to go for a walk?
+L395833 +++$+++ u2174 +++$+++ m140 +++$+++ LONGFELLOW'S VOICE +++$+++ I don't mind though. I had a lot of fun doing it.
+L395695 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Why not?
+L395694 +++$+++ u2174 +++$+++ m140 +++$+++ LONGFELLOW'S VOICE +++$+++ I haven't.
+L395693 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ You don't go out with girls very much, do you?
+L395692 +++$+++ u2174 +++$+++ m140 +++$+++ LONGFELLOW'S VOICE +++$+++ No.
+L395691 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ No. Are you?
+L396263 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Yes!!!
+L396262 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ You are , aren't you?
+L396261 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ What's that got to do with it?
+L396260 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Well, you are in love with him, aren't you?
+L396259 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ What's that got to do with it?
+L396258 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Your Honor, this is absurd. The woman's obviously in love with him.
+L396250 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Your Honor, what she is saying has no bearing on the case. I object.
+L396249 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Oh, thank you!
+L396149 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ That's all, Miss Bennett. That's all.
+L396148 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ It isn't all! I'd like to explain—
+L396147 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ That's all, Miss Bennett.
+L396146 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Yes, but I—
+L396145 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ And you saw them happen?
+L396144 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ They're colored! Just to make him look silly!
+L396143 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ But they did take place?
+L396142 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ NO!!
+L396141 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Are they true!
+L396140 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Yes!
+L396139 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Were you present when all these things took place?
+L396138 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Yes!
+L396137 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Are these the articles?
+L396136 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Yes!
+L396135 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Did you subsequently write a series of articles about him?
+L396134 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Yes.
+L396133 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Were you given an assignment to follow the activities of Longfellow Deeds?
+L396130 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ No! I resigned last week!
+L396129 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ You are under oath, Miss Bennett. I ask you again - are you employed by the Morning Mail?
+L396128 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ No!
+L396127 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Thank you, Your Honor. Are you employed by the Morning Mail?
+L396125 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Your Honor!
+L396124 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ It's obviously a frameup! They're trying to railroad this man for the money they can get out of him!
+L395948 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Oh, hello darling.
+L395947 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Hello, Mary?
+L395870 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Yes, of course.
+L395869 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Would you like to read it? It's to you.
+L395865 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Mary - I - excuse me—
+L395864 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Yes, here we are again.  Good night.
+L395863 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Well, here we are again.
+L395861 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh, an imaginary one. I used to hike a lot through the woods and I'd always take this girl with me so I could talk to her. I'd show her my pet trees and things. Sounds kind of silly but we had a lot of fun doing it.
+L395860 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ A girl?
+L395859 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ All my life, I've wanted somebody to talk to. Back in Mandrake Falls, I always used to talk to a girl.
+L395858 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ No, I don't mind.
+L395857 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Do you mind if I talk to you, Mary? You don't have to pay any attention to me.
+L395855 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I don't blame you.
+L395854 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ In a day or so, I think.
+L395853 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Are you? When?
+L395852 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Mary, I'm going home.
+L395851 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ All right.
+L395850 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Let's just walk, okay?
+L395849 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ The reason why I wanted to take a walk, Mary, is 'cause I wanted to talk to you.
+L395843 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Thank you.
+L395842 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Gosh, she looks better every time I see her.
+L395841 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Ready?
+L395836 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I'll get my hat.
+L395835 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Yes, if it isn't too late.
+L395829 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ You threw them out!
+L395828 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh, I wouldn't let them stop me from seeing you. So I threw them out!
+L395827 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I didn't think you could come with the party and everything.
+L395745 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I'd like to read it some time.
+L395744 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ You know what I've been doing since I got home? Been working on a poem.  It's about you.  Sometimes it's kinda hard for me to say things - so I write 'em.
+L395743 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Well, that's very nice. Thank you.
+L395742 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I wanted to thank you again for going out with me.  Huh? Well, I don't know what I'd do without you. You've made up for all the fakes that I've met.
+L395741 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ No - not at all. I couldn't sleep either.
+L395740 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Couldn't sleep. Kinda wanted to talk to you. Do you mind?
+L395721 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ It had better be good.
+L395720 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Sure. Look! You sing it over again, and I'll do "Humoresque" with you.
+L395719 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ "Humoresque"? I'll bet you don't even know how it goes.
+L395718 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Sure. I can sing "Humoresque."
+L395717 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Oh, I suppose you could do better.
+L395716 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Sure!
+L395715 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Yes. I can do "Swanee River." Would you like to hear me?
+L395714 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ He did?
+L395713 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ The drums. He taught me to play some.
+L395712 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ What did he play?
+L395711 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Yeah, I know.
+L395710 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ He did? I play the tuba—
+L395709 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ He played in the town band, too.
+L395708 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ He sounds like a person worth while knowing.
+L395707 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Oh, yes. I used to have a lot of fun there when I was a little girl. I used to love to go fishing with my father. That's funny. He was a lot like you, my father was. Talked like you, too. Sometimes he'd let me hold the line while he smoked - and we'd just sit there for hours. And after awhile, for no reason, I'd go over and kiss him and sit in his lap. He never said very much but once I remember him saying: "No matter what happens, honey, don't complain."
+L395706 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ You have?
+L395705 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I've often thought about going back.
+L395703 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Gosh! What do you know about that!
+L395702 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Probably as small as Mandrake Falls.
+L395701 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Really?
+L395700 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I'm from a small town too, you know.
+L395699 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I'd rather have Mandrake Falls.
+L395698 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I haven't met anybody here that I like, particularly. They all seem to have the St. Vitus Dance.[12]  Except you, of course.  People here are funny. They work so hard at living - they forget how to live  Last night, after I left you, I was walking along and looking at the tall buildings and I got to thinking about what Thoreau said. They created a lot of grand palaces here - but they forgot to create the noblemen to put in them.
+L395697 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ You must have met a lot of swell society girls since you've been here. Don't you like them?
+L395696 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh, I don't know.
+L395689 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Nothing—
+L395688 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ What did you mean by that?
+L395687 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh, that—
+L395686 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ You said I was a lady in distress.
+L395685 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ What's that?
+L395684 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ You know, you said something to me when you first met me that I've thought about a great deal.
+L395683 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Yeah. Anyway, there aren't any photographers around.
+L395682 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Here's a nice place.
+L395680 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Yeah, I guess so. What puzzles me is why people seem to get so much pleasure out of hurting each other. Why don't they try liking each other once in a while?
+L395679 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Oh, they just do it to sell the newspapers, you know.
+L395678 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I'm not worrying any more. I suppose they'll go on writing them till they get tired. You don't believe all that stuff, do you?
+L395677 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ You're worried about those articles they're writing about you, aren't you?
+L395675 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Why don't you try?
+L395674 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ You can almost spit on it, can't you?
+L395673 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ There's Times Square.
+L395648 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Me?  Oh, I see a small Ohio farm boy becoming a great soldier. I see thousands of marching men. I see General Lee with a broken heart, surrendering, and I can see the beginning of a new nation, like Abraham Lincoln said. And I can see that Ohio boy being inaugurated as President—  Things like that can only happen in a country like America.
+L395647 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Now, what do you see?
+L395646 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ That depends on what they see.
+L395645 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I say, to most people it's a washout.
+L395644 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Huh?
+L395643 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ To most people, it's an awful letdown.
+L395642 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ It's wonderful.
+L395641 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ There you are. Grant's Tomb. I hope you're not disappointed.
+L395635 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Yeah, let's.
+L395634 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Yes.
+L395633 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Would you like to walk the rest of the way? It's so nice out.
+L395631 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ That's what I like about you. You think about a man's feelings. I'd like to go down to that newspaper and punch the fellow in the nose that's writing that stuff—
+L395630 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Uh-huh.
+L395629 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Have you seen the papers?
+L395624 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Do you always wear your hair like that?
+L395623 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ What are they going to do?
+L395622 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Huh?  Oh. They said I was crazy. Said I wanted to run it like a grocery store.
+L395621 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ What did they say?
+L395620 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Gosh, you look pretty tonight.
+L395619 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ What did they say?
+L395618 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I told 'em I'd play along with them if they lowered their prices - and cut down expenses - and broadcast.
+L395615 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh, that - well, we had another meeting. I told them I'd go on being Chairman if—
+L395614 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Oh. What's happening about the opera?
+L395613 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Sure. I met you.
+L395606 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Well, I'd like to - but I have a job to think of.
+L395605 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ The Aquarium was swell. If I lived in New York, I'd go there every day. I'll bet you do.
+L395604 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I enjoy it.
+L395603 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ It's awfully nice of you to show me around like this.
+L395497 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Oh, I don't mind.
+L395496 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ There's just one thing more. If it weren't for Miss Dawson being here with me, I'd probably bump your heads together.
+L395448 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Really?
+L395447 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Look - there's Brookfield, the poet.
+L395443 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ No. That is, I didn't—  Until I met you. I like talking to you, though—  Imagine my finding you right on my doorstep.
+L395442 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ You've been having quite an exciting time here, haven't you?  All those meetings and business deals and society people - haven't you been having fun?
+L395432 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh - uh - nothing.
+L395431 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ What?
+L395430 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ You were a lady in distress, weren't you?
+L395429 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Oh, that was so lovely. Thank you.
+L395428 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Well, I guess I've told you almost everything there is to tell. My folks live in a small town near Hartford. I'm down here alone trying to make a living.  Oh, I'm really just a nobody.
+L395427 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Tell me more about yourself.
+L395426 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Mmm, it tastes so good. Mr. Deeds, I don't know how I can ever thank you.
+L395425 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Feel better now?
+L395420 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Well, I guess I walked too much. I've been looking for a job all day. I found one, too. I start tomorrow.  You've been awfully kind. Thank you very much.
+L395419 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ What happened?
+L395418 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Oh, no, really - I'll be all right.
+L395417 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Look, this is my house. I'd like to—
+L395416 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ No, thank you. I'll be all right.
+L395413 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Oh, did I? I'm sorry . . .
+L395412 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ You fainted.
+L395825 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Hello.
+L395824 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ Why there she is!  Of course she's home.  Stupid of me . . .
+L395810 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ We're not going out tonight.
+L395809 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ Just a minute. No, you don't.
+L395802 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ What else can I do? Keeping this up is no good. He's bound to find out sometime.  At least I can save him that .
+L395801 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ You're acting like a school girl.
+L395800 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Tell him I had to leave suddenly. I got a job in China - some place.
+L395799 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ What'll I tell him if he calls up?
+L395798 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ Running away is no solution.
+L395797 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I just couldn't stand seeing him again.
+L395796 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ You're a fool, Babe.
+L395762 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ No - of course you don't. We've forgotten. We're too busy being smart-alecks.  Too busy in a crazy competition for nothing.
+L395761 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ Huh?
+L395760 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ He's got goodness, Mabel. Do you know what that is?
+L395759 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ Aw, cut it out, will you? You'll get me thinking about Charlie again.
+L395758 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Is he? Yeah, I thought so, too. I tried to laugh, but I couldn't. It stuck in my throat.
+L395757 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ The guy's balmy.
+L395756 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Here's a guy that's wholesome and fresh. To us he looks like a freak. You know what he told me tonight? He said when he gets married he wants to carry his bride over the threshold in his arms.
+L395755 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ Search me. Ask the Gypsies.
+L395754 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Yeah, then what?
+L395753 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ You started out to be a successful newspaper woman, didn't you?
+L395752 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Why? Why do we have to do it?
+L395751 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ People have been crucified before.
+L395750 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I'm crucifying him.
+L395749 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ Uh-huh.
+L395748 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Mabel, that guy's either the dumbest, the stupidest, the most imbecilic idiot in the world - or he's the grandest thing alive. I can't make him out.
+L395747 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Good night.
+L395736 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I can't write it, Mabel! I don't know what's the matter with me.
+L395735 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ You haven't gotten very far, have you? That's where you were an hour ago. Come on, let's knock off and go down to Joe's. The gang's waiting for us.
+L395734 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Don't be ridiculous.
+L395733 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ My unfailing instinct tells me something's gone wrong with the stew.
+L395732 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ No. It's nothing.
+L395731 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ What's up, Babe? Something's eating you.
+L395730 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Nothing.
+L395729 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ What's the matter, hon?
+L395944 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Hello . . .
+L395943 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ It's for you. In a couple weeks you'll get the itch so bad, you'll be working for nothing.
+L395941 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Aw, listen Babe, I can't let you quit now. You're not going through with this thing, are you?
+L395940 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ This is for you , Mac. The names of all the headwaiters in town. You can always buy a bit of choice scandal from them at reasonable prices.
+L395898 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Telling him is the long shot - I'm going to take it.
+L395897 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Oh, as bad as that, huh?
+L395896 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ That's the rub.
+L395895 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ I'll put you on another job. You need never see him again, eh?
+L395894 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ He'll probably kick me right down the stairs. I only hope he does.
+L395893 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ You're crazy! You can't do that!
+L395892 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I'm having lunch with him today. He expects an answer. It's going to be pretty.
+L395891 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Tell him you're Babe Bennett? Tell him you've been making a stooge out of him?
+L395890 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I'm going to tell him the truth.
+L395889 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ What're you going to do?
+L395886 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Say, you haven't gone and fallen for that mug, have you?
+L395885 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Yeah. Funny twist, isn't it?
+L395884 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Sorry, Babe. Sorry. It would have made a swell story. I just got carried away. That's too bad. So he proposed to you, huh?  What a twist! You set out to nail him - and he—
+L395883 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Print one line of that, and I'll blow your place up!
+L395882 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Why, Babe - that's terrific!  "Cinderella Man Woos Mystery Girl! Who is the Mysterious Girl That—"
+L395881 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Yes.
+L395880 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Proposed to you! You mean he asked you to marry him?
+L395879 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Last night he proposed to me.
+L395878 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ What's bothering you, huh?
+L395540 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ You'll get it, Babe. You'll get it.
+L395539 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ With pay!  She is out the door.
+L395538 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Sure.
+L395537 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Oh, no. No. Our deal was for a month's vacation - with pay.
+L395536 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Good! Good!  Stay there. Don't show your face down here. I'll tell everybody you're on your vacation. They'll never know where the stories are coming from. Stick close to him, Babe - you can get an exclusive story out of him every day for a month. We'll have the other papers crazy.  Babe, I could kiss you!
+L395535 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I even moved into Mabel Dawson's apartment - in case old snoopy Cobb might start looking around.
+L395534 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ You're a genius, Babe - a genius!
+L395533 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Tonight, maybe.  I'll phone him at noon.  Oh, my lunch hour. I'm a stenographer, you know. Mary Dawson.
+L395532 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ When're you going to see him again?
+L395531 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I don't know. I had to duck to get the story out. He was so far along he never even missed me.
+L395530 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Marvelous!  "At two o'clock this morning, Mr. Deeds tied up traffic while he fed a bagful of doughnuts to a horse. When asked why he was doing it, he replied: 'I just wanted to see how many doughnuts this horse would eat before he'd ask for a cup of coffee.'"  Beautiful! What happened after that?
+L395529 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Had the boys follow us.
+L395528 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ How'd you get the picture?
+L395527 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ If we could sell tickets, we'd make a fortune.
+L395526 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Cinderella Man! Babe, you stuck a tag on that hick that'll stick to him the rest of his life. Can you imagine Cobb's face when he reads this?
+L395525 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ He's the original. There are no carbon copies of that one.
+L395524 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Is he really that big a sap?
+L395523 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ I was the world's sweetest ingenue.
+L395522 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Did it?
+L395521 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ It took some high-powered acting, believe me.
+L395520 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Cinderella Man! That's sensational, Babe! Sensational!
+L395206 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Have lunch.
+L395205 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Now you're talking, Babe. I'll keep the whole front page open. What are you going to do?
+L395204 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Leave four columns open on the front page tomorrow.
+L395203 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Uh-huh.
+L395202 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ With pay!
+L395201 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ With pay!
+L395200 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Can I have a month's vacation?
+L395199 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ Listen, Babe - get me some stuff on this guy, and you can have—
+L395198 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Oh, he's not getting away with anything.
+L395197 +++$+++ u2176 +++$+++ m140 +++$+++ MAC +++$+++ What's gotten into you, Babe? I remember the time when you'd blast this town wide open before you'd let Cobb get away with a thing like this.
+L395196 +++$+++ u2157 +++$+++ m140 +++$+++ BABE +++$+++ Look, I can do it!
+L395847 +++$+++ u2158 +++$+++ m140 +++$+++ BOB +++$+++ Come on - let's go!
+L395846 +++$+++ u2168 +++$+++ m140 +++$+++ FRANK +++$+++ Ow! My foot's asleep!
+L395808 +++$+++ u2168 +++$+++ m140 +++$+++ FRANK +++$+++ Just one little drink - and then we're ready to shoot.
+L395807 +++$+++ u2158 +++$+++ m140 +++$+++ BOB +++$+++ Boy, was he burning.
+L395806 +++$+++ u2168 +++$+++ m140 +++$+++ FRANK +++$+++ Yeah. Mac threw Cobb out again.
+L395723 +++$+++ u2168 +++$+++ m140 +++$+++ FRANK +++$+++ Shhh!
+L395722 +++$+++ u2158 +++$+++ m140 +++$+++ BOB +++$+++ I wonder if they'd want to make it a quartet.
+L395610 +++$+++ u2168 +++$+++ m140 +++$+++ FRANK +++$+++ Babe ought to get him drunk again.
+L395609 +++$+++ u2158 +++$+++ m140 +++$+++ BOB +++$+++ It don't look as though we're gonna get any pictures tonight.
+L395424 +++$+++ u2158 +++$+++ m140 +++$+++ BOB +++$+++ Hurry up!
+L395423 +++$+++ u2168 +++$+++ m140 +++$+++ FRANK +++$+++ Come on, come on!
+L395411 +++$+++ u2158 +++$+++ m140 +++$+++ BOB +++$+++ Right.
+L395410 +++$+++ u2168 +++$+++ m140 +++$+++ FRANK +++$+++ I tell you that dame's nuts.
+L395409 +++$+++ u2158 +++$+++ m140 +++$+++ BOB +++$+++ I suppose it's going to be the same old thing.
+L395656 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ I don't care what I said. I can't strangle him, can I!
+L395655 +++$+++ u2159 +++$+++ m140 +++$+++ BUDINGTON +++$+++ Yes, but you said—
+L395654 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Yes, I know. A week's gone by and we haven't got the Power of Attorney yet!
+L395653 +++$+++ u2159 +++$+++ m140 +++$+++ BUDINGTON +++$+++ don't want to be critical, John, but here it is—
+L395179 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Will you stop worrying! It was I who got old man Semple to turn everything over to us, wasn't it? And who got the Power of Attorney from him ! All right, and I'll get it again!  I'll take it easy. Those books'll never leave this office.
+L395178 +++$+++ u2159 +++$+++ m140 +++$+++ BUDINGTON +++$+++ But a half million dollars! My goodness, where are we going to get—
+L395177 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Well, it hasn't happened yet - has it?
+L395176 +++$+++ u2159 +++$+++ m140 +++$+++ BUDINGTON +++$+++ But what if they fall into somebody else's hands, why - uh—
+L395175 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ I know, Budington. We can't afford to have the books investigated right now. You must have said that a thousand times already.
+L395165 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Close that door.  Will you get Mrs. Cedar on the phone, please?
+L395164 +++$+++ u2159 +++$+++ m140 +++$+++ BUDINGTON +++$+++ John—
+L395163 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ We've got nothing to worry about. He's as naive as a child.
+L395926 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Thank you. Now don't touch a thing. Leave everything as it is.
+L395925 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ I wish you luck, sir.
+L395924 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Perfect! Perfect!
+L395923 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ How is this, sir?
+L395920 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Yes.
+L395919 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ Me sir?
+L395918 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Sit over there, will you?
+L395916 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ Yes, sir.
+L395915 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Yeah, that's fine. Have a lot of it because she likes it.
+L395914 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ Oh, yes, sir. Here it is, sir. The pate de fois gras, sir.
+L395913 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ That goo. That stuff that tastes like soap.
+L395912 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ Stuff, sir?
+L395909 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ A smaller bowl of flowers.
+L395908 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Those flowers are too high. Won't be able to see her.  Get a smaller bowl, will you?
+L395907 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ Oh, yes sir.
+L395906 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Is that the best you've got?
+L395905 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ Yes, sir.
+L395904 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Fourteen carat?
+L395903 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ Yes, sir.
+L395902 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Gold, eh?
+L395901 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ Yes, quite all right. Thank you, sir.
+L395900 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ How's it going? Okay?
+L395779 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ Me, sir?
+L395778 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ You try it.
+L395602 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Fine. I'll talk to her. Give me the phone, quick. She's the only one I'm going to talk to from now on.
+L395601 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ Yes, sir.
+L395600 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Who? Miss Dawson?
+L395599 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ Miss Dawson on the phone, sir.
+L395598 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Cobb's right. I mustn't talk to anybody.
+L395360 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ Yes, sir.
+L395359 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Will you show Mr. Hallor to the front door?
+L395219 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ They are? I forgot all about them.  What do you think they want?
+L395218 +++$+++ u2160 +++$+++ m140 +++$+++ BUTLER +++$+++ The gentlemen from the opera are still waiting in the board room, sir. They're getting a trifle impatient, sir.
+L395965 +++$+++ u2166 +++$+++ m140 +++$+++ FARMER +++$+++ Let me go!
+L395964 +++$+++ u2161 +++$+++ m140 +++$+++ BUTLERS +++$+++ We'll send for the police!
+L395963 +++$+++ u2166 +++$+++ m140 +++$+++ FARMER +++$+++ I wanna see that guy!
+L395962 +++$+++ u2161 +++$+++ m140 +++$+++ BUTLERS +++$+++ He's not home, I tell you!
+L395961 +++$+++ u2166 +++$+++ m140 +++$+++ FARMER +++$+++ Let me go! I wanna see him!
+L395960 +++$+++ u2161 +++$+++ m140 +++$+++ BUTLERS +++$+++ You can't come up here!
+L395669 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Nuisance value.  Maybe they have! Maybe they have! Maybe they have!  Mr. and Mrs. Semple, please. How do you do?
+L395668 +++$+++ u2167 +++$+++ m140 +++$+++ FIRST BROTHER +++$+++ They say if it hadn't been for Deeds, they'd have gotten all the money.
+L395667 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Nuisance value?
+L395666 +++$+++ u2167 +++$+++ m140 +++$+++ FIRST BROTHER +++$+++ They keep insisting they should have some nuisance value.
+L395665 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Relatives of old man Semple.
+L395167 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ The smartest thing I ever did was to make that trip.
+L395166 +++$+++ u2167 +++$+++ m140 +++$+++ FIRST BROTHER +++$+++ Come on, John. What happened?
+L395016 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ I'll do no such thing. I'm going there myself. You're going with me too, Anderson - and you too, Cobb.
+L395015 +++$+++ u2167 +++$+++ m140 +++$+++ FIRST BROTHER +++$+++ Better wire him right away, John.
+L395014 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Thank heaven.
+L396343 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ Mr. Cedar!
+L396342 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ But your honor—
+L396341 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ You will please permit Mr. Deeds to finish.
+L396338 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Mr. Deeds is drawing on his warped imagination!
+L396337 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ Mr. Cedar!
+L396336 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ It's a lie!
+L396301 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ Proceed.
+L396300 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Your Honor, I object.
+L396181 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ What was that you said he was?
+L396180 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ He's what?
+L396177 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Suppose you just answer, Miss Jane. Now, will you tell the Court what everybody at home thinks of Longfellow Deeds?
+L396176 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ Must we have the echo?
+L396163 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ Yes! Yes! Let's get on with it.
+L396162 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ The Falkner sisters are rather timid, Your Honor, and wish to be together. If the court pleases, I will only have one of them testify.
+L396123 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ This is outrageous!
+L396122 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ Miss Bennett please!
+L395221 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ I'll tell those mugs to keep their shirts on, that you'll be right down.
+L395220 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Well, your uncle was Chairman of the Board of Directors. They probably expect you to carry on.
+L395144 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ That tuba player!
+L395143 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ What?
+L395142 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Look!
+L395138 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ I looked everywhere. I even went to his house. It's locked up.
+L395137 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ You can't?
+L395136 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ I can't find him.
+L395132 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ See you later, kid.
+L395131 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ I can understand that.  We'll take a walk around town, meet you at the train at four o'clock.  Congratulations, Mr. Deeds. You're one of the richest men in the country. We'll see you later.  Goodbye and thank you.
+L395105 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Yes. You see, rich people need someone to keep the crowds away. The world's full of pests. Then there's the newspapers to handle. One must know when to seek publicity - and when to avoid it.
+L395104 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Yeah. A glorified doormat.
+L395042 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ No, we won't! The next time that jumping jack comes out, I'll straddle him while you ask him your questions.
+L395041 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ I guess we'd better try somebody else.
+L395023 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Are you sure this is the town he lives in?
+L395022 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ That's pretty.
+L395009 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ It's okay with me as long as my weekly stipend keeps coming in.
+L395008 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Yes, I know. My first concern is to locate the lucky man. When I do, it's your job to keep the newspapers away from him.
+L395007 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ But it's a great story. Somewhere in this country a guy is walking into twenty million bucks.
+L395006 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ I'm not interested in the newspapers.
+L395005 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Mr. Cedar is, and I haven't seen him in two days.  Listen, Cedar, we've got to do something about the newspapers.
+L395004 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Hang up.
+L395003 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Sorry, Mac, I can't. Yeah, Mac. Sure, but I ain't the attorney—
+L395002 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Hang up.
+L395001 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Wants to know who the heir is.
+L395000 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Newspaperman?
+L396026 +++$+++ u2180 +++$+++ m140 +++$+++ VOICE +++$+++ Okay.
+L396025 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Find out who wrote those newspaper articles and subpoena them right away.
+L396024 +++$+++ u2180 +++$+++ m140 +++$+++ VOICE +++$+++ Yeah?
+L396023 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Okay, then. Go to it.  And, Charlie—
+L396022 +++$+++ u2180 +++$+++ m140 +++$+++ VOICE +++$+++ All set.
+L396021 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Charlie, we're off! Papers all set?
+L395020 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Mandrake Falls.  M-A-N—
+L395019 +++$+++ u2180 +++$+++ m140 +++$+++ VOICE +++$+++ Where?
+L395018 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Make three reservations on the first train out to Mandrake Falls, Vermont.
+L395017 +++$+++ u2180 +++$+++ m140 +++$+++ VOICE +++$+++ Yes?
+L395366 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Yes, of course, if you wish. But you must be prepared. This sort of thing will be daily routine.  If it becomes annoying, you let me know. Goodbye, Mr. Deeds. Goodbye, sir.
+L395365 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ You're not my attorney yet, Mr. Cedar. Not till I find out what's on your mind. Suppose you get the books straightened out quick so I can have a look at them.
+L395364 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ I can't hold out any longer either, Mr. Deeds.  Being an attorney for you will be a very simple affair.
+L395243 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ How can he make any trouble for me? I haven't done anything.
+L395242 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ He's capable of causing you a lot of trouble, Mr. Deeds.
+L395241 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Well, if he has a claim, we'd better see him.  Send him in.
+L395240 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ A lawyer representing some woman with a claim against the estate.  Tell him to see me at my office.
+L395239 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Why not? Who is he?
+L395230 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh, yes. Yes, I will.
+L395229 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ I mean, about the Power of Attorney.
+L395228 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Huh?
+L395227 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ I think you ought to give this matter some thought, Mr. Deeds.
+L395217 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Budington. Funny, I can't think of a rhyme for Budington yet.
+L395216 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Yes, but that's an added service a firm like Cedar, Cedar, Cedar and Budington usually donates.
+L395215 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ That involves a lot of extra work, doesn't it?
+L395214 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Oh - nothing. No extra charge.
+L395213 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Well, outside of your regular fee, how much extra will it cost?
+L395212 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Yes. That is to say—
+L395211 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Besides wanting to be my lawyer, you also want to handle my investments too?
+L395210 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Well, you see, your uncle didn't bother with that sort of thing. He left everything to us. He traveled most of the time, and enjoyed himself. You should do the same thing, Mr. Deeds.
+L395209 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh, yes, there've been a lot of them around here already. Strangest kind of people. Salesmen - politicians - moochers - all want something. I haven't had a minute to myself. Haven't seen Grant's Tomb yet.
+L395208 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ It's merely a suggestion. I don't wish to press the point, Mr. Deeds, but if you'll give me your Power of Attorney we'll take care of everything. It'll save you a lot of petty annoyances. Every shark in town will be trying to sell you something.
+L395154 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I was wondering where they're going to get another tuba player for the band.
+L395153 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ No?
+L395152 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh, I wasn't worried about that.
+L395151 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ I wouldn't worry if I were you. Of course, a large fortune like this entails a great responsibility - but you'll have a good deal of help. So don't worry. Leave everything to me.
+L395150 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ No, thank you.
+L395149 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Will you have a cigar?
+L395126 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ When?
+L395125 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ You're going to New York with us.
+L395124 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ What for?
+L395123 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Saving a lady in distress, eh? Well, I suppose we all have dreams like that when we are young.  Incidentally, we'd better get started. You'll have to pack.
+L395118 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Who - me? No.
+L395117 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Are you a married man, Mr. Deeds?
+L395103 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Buffer?
+L395102 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Mr. Cobb here is an ex-newspaperman associated with your uncle for many years - as a sort of buffer.
+L395099 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh, yes, I heard you all right. $20,000,000. That's quite a lot, isn't it?
+L395098 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Perhaps you didn't hear what I said, Mr. Deeds! The whole Semple fortune goes to you! $20,000,000!
+L395094 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ He was? Gee, that's too bad. If there's anything I can do to—
+L395093 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Well, he passed on. He was killed in a motor accident in Italy.
+L395092 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Not much. He's an uncle of mine, I think. I never saw him, but my mother's name was Semple, you know.
+L395091 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Mr. Deeds, does the name of Martin W. Semple mean anything to you?
+L395090 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Why, no.
+L395089 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Are your parents living?
+L395088 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Yes.
+L395087 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Mr. Deeds, are you the son of Dr. Joseph and Mary Deeds?
+L395086 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ All right.
+L395085 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ I'd like to ask you a few questions.
+L395078 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ I'm John Cedar - of the New York firm of Cedar, Cedar, Cedar and Budington.
+L395077 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ How do you do.
+L395076 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ How do you do.
+L395075 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Yes.
+L395074 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Mr. Longfellow Deeds?
+L395062 +++$+++ u2178 +++$+++ m140 +++$+++ MRS. MEREDITH +++$+++ He and Jim Mason own the Tallow Works. But that's not where he makes his money. He makes most of it from his poetry.
+L395061 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Well, we'd like to find out something about him. What does he do for a living?
+L395060 +++$+++ u2178 +++$+++ m140 +++$+++ MRS. MEREDITH +++$+++ No, I'm his housekeeper.
+L395059 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ That's very kind of you. Are you related to him?
+L395058 +++$+++ u2178 +++$+++ m140 +++$+++ MRS. MEREDITH +++$+++ Sit down. Sure I couldn't get you a glass of lemonade or something?
+L395057 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ No, thanks.
+L395056 +++$+++ u2178 +++$+++ m140 +++$+++ MRS. MEREDITH +++$+++ Come in, please. Come in. Can I get you a cup of tea?
+L395054 +++$+++ u2178 +++$+++ m140 +++$+++ MRS. MEREDITH +++$+++ No - he's over to the park arranging for the bazaar, so's to raise money for the fire engine.  Mal, you shoulda knowed he was in the park.
+L395053 +++$+++ u2162 +++$+++ m140 +++$+++ CEDAR +++$+++ Is Mr. Deeds in?
+L395052 +++$+++ u2178 +++$+++ m140 +++$+++ MRS. MEREDITH +++$+++ Oh, will you come in please, gentlemen?
+L396046 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Okay, Santa Claus. 2000 lunches.
+L396045 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Well, that doesn't make 'em any less hungry.
+L396044 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ What? There must be 2000 of them out there.
+L396043 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Cobb! Get lunch for the rest of them.
+L396039 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Well, maybe I will have a sandwich.  Do you mind waiting a few minutes?
+L396038 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Come on, come on. What are you trying to do, kid? Keel over? You haven't been out of this house in two weeks.
+L396037 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Not hungry. I want to get through this work in a hurry, and then I want to go home. What price did you get on those trucks?
+L396036 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ What about your knocking off for lunch?
+L395959 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ They can have the Estate.
+L395958 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ You shouldn't be running away like this. What's going to happen to the Estate?
+L395939 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Shut up!
+L395938 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ She's the star reporter on The Mail. Every time you opened your kisser, you gave her another story. She's the dame who slapped that monicker on you - "Cinderella Man." You've been making love to a double dose of cyanide!
+L395935 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Mary Dawson, huh? Mary Dawson, my eye. That dame took you for a sleigh ride that New York will laugh about for years. She's the slickest, two- timing, double-crossing—
+L395934 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Will you tell the gentleman I'm not in?
+L395933 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Just as I suspected, wise guy! I don't mind you making a sap out of yourself - but you made one out of me, too.
+L395597 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Thank you.  If you feel the building rock, it'll be me blasting into this editor.
+L395596 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Yes, I guess I'll have to.
+L395595 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ That's my job. I'll take care of that. I'll keep that stuff out of the papers - if you'll help me. But I can't do anything if you go around talking to people. Will you promise me to be careful from now on?
+L395594 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ But what about this "Cinderella Man"?
+L395593 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Listen. Listen, Longfellow. You've got brains, kid. You'll get along swell if you'll only curb your homicidal instincts - and keep your trap shut. Don't talk to anybody! These newshounds are out gunning for you.
+L395592 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ If they're going to poke fun at me, I'm going to—
+L395591 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Not editors. Take my word for it. Not editors!
+L395590 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Sometimes it's the only solution.
+L395589 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ No, you don't! Get this clear: Socking people is no solution for anything.
+L395588 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I think I'll go down and punch this editor on the nose.
+L395587 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ They'd call you anything if you gave them half a chance. They've got you down as a sap.
+L395586 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I don't remember. "Cinderella Man!" What do they mean by that?
+L395585 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Are those stories true?
+L395584 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ What do they mean by this - "Cinderella Man!"
+L395583 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ What do you think bodyguards are for?
+L395582 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh, they insisted on following me.
+L395581 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ And what'd you do to those bodyguards? They quit this morning. Said you locked them up.
+L395580 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ What do I care about Arthur! Did you see this stuff in the paper? How'd it get in there? What'd you do last night? Who were you talking to?
+L395579 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ He's the shipping clerk at the Tallow Works. Wants a $2 raise - or he'll quit.
+L395578 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Arthur! Who's Arthur?
+L395577 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Arthur wants to quit!
+L395576 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Did you see all this stuff in the papers?
+L395376 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Okay, you're the boss.  When your blood begins to boil, yell out. I'll be seeing you!
+L395375 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Some other time, Cobb. Some other time.
+L395374 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Name your poison and I'll supply it.
+L395373 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh.
+L395372 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Women! Ever heard of 'em?
+L395371 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ What're you talking about?
+L395370 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Your uncle had a weakness for dark ones, tall and stately. How would you like yours? Dark or fair, tall or short, fat or thin, tough or tender?
+L395369 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Entertainment?
+L395368 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Well, how about tonight? What would you like in the way of entertainment?
+L395363 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Only common sense.
+L395362 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ I can't hold out on you any longer. Lamb bites wolf.  Beautiful.
+L395266 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Why do mice go where there's cheese?[3]
+L395265 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ That's funny. Why is that?
+L395264 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Uh-huh.
+L395263 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Gee, I'm busy. Did the opera people always come here for their meetings?
+L395260 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh, I don't want to keep them waiting any longer. They're important people.  I wish you'd go along with me, Cobb. They're all strangers to me.
+L395259 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ You'd better get right down there. That opera mob is about to break into the Mad Song from "Lucia."[2]
+L395226 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ He was the last baby my father delivered, Arthur was.
+L395225 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Oh, sure. Sure. We don't want to fire Arthur.
+L395224 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Fine. Send it right away. I don't want him to fire Arthur.
+L395223 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Jim Mason?  Oh, yeah. Yeah. No, I didn't send it. I've got it written out, though. Here it is.  "Arthur's been with the Tallow Works too long. STOP. Don't think we should fire him. Longfellow."
+L395222 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Thanks  Oh, did you send that telegram to Jim Mason?
+L395148 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ No, thanks.
+L395147 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Have a drink?
+L395128 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I don't think we've got any suitcases.
+L395127 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ This afternoon - at four o'clock.
+L395116 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Oh, that's different if it's just poetry.
+L395115 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh, I don't mean that. I'm sure I'm going to need your help.
+L395114 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ I've gotten the 'sackaroo' in many ways - but never in rhyme.
+L395113 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Huh?
+L395112 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Sounds like a two weeks' notice to me.
+L395111 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ "There once was a man named Cobb, Who kept Semple away from the mob. Came the turn of the tide And Semple - he died - And now poor Cobb's out of a job!"
+L395110 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I've got one for Cobb—
+L395109 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Nah.
+L395108 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Well, whenever I run across a funny name, I always like to poke around for a rhyme. Don't you?
+L395107 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Why should you?
+L395106 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Cedar, Cedar, Cedar and Budington. Funny, I can't think of a rhyme for Budington.
+L395101 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Yes, indeed. I wonder why he left me all that money? I don't need it.
+L395100 +++$+++ u2163 +++$+++ m140 +++$+++ COBB +++$+++ Oh, it'll do in a pinch.
+L395323 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Well, maybe it isn't to you, but it certainly is a business to me, if I have to make up a loss of $180,000. If it's losing that much money, there must be something wrong. Maybe you charge too much. Maybe you're selling bad merchandise. Maybe lots of things. I don't know. You see, I expect to do a lot of good with that money. And I can't afford to put it into anything that I don't look into. That's my decision for the time being, gentlemen. Goodbye, and thank you for making me Chairman.
+L395322 +++$+++ u2164 +++$+++ m140 +++$+++ DOUGLAS +++$+++ Because it just isn't a business, that's all!
+L395321 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Why not?
+L395320 +++$+++ u2164 +++$+++ m140 +++$+++ DOUGLAS +++$+++ You see, Mr. Deeds, the opera is not conducted like any ordinary business.
+L395319 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Now, where were we?
+L395316 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Excuse me, gentlemen, there's nothing natural about that .
+L395315 +++$+++ u2164 +++$+++ m140 +++$+++ DOUGLAS +++$+++ Naturally.
+L395314 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Me?!
+L395313 +++$+++ u2164 +++$+++ m140 +++$+++ DOUGLAS +++$+++ Well, we were rather expecting it to come from you.
+L395312 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I guess it is. But I personally wouldn't care to be head of a business that kept losing money. That wouldn't be common sense. Incidentally, where is the $180,000 coming from?
+L395311 +++$+++ u2164 +++$+++ m140 +++$+++ DOUGLAS +++$+++ The wrong kind! There isn't any wrong or right kind. Opera is opera!
+L395310 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Well, then, we must give the wrong kind of shows.
+L395309 +++$+++ u2164 +++$+++ m140 +++$+++ DOUGLAS +++$+++ That's impossible. The opera has never paid.
+L395306 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ But you charge. I mean, you sell tickets?
+L395305 +++$+++ u2164 +++$+++ m140 +++$+++ DOUGLAS +++$+++ We provide opera.
+L395302 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ We own an opera house, don't we?
+L395301 +++$+++ u2164 +++$+++ m140 +++$+++ DOUGLAS +++$+++ Why, it's an artistic institution—
+L395300 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ It isn't? What is it conducted for?
+L395299 +++$+++ u2164 +++$+++ m140 +++$+++ DOUGLAS +++$+++ You see, Mr. Deeds, the opera is not conducted for profit.
+L395296 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ That's what I thought. If you don't mind, I'm rather interested in the Treasurer's report. I'd like to hear it.
+L395295 +++$+++ u2164 +++$+++ m140 +++$+++ DOUGLAS +++$+++ Why, the Chairman presides at the meetings.
+L395294 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Wait a minute. What does the Chairman do?
+L395280 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I'm Chairman.
+L395279 +++$+++ u2164 +++$+++ m140 +++$+++ DOUGLAS +++$+++ Oh Yes, of course - you've just been elected.
+L395278 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I'm Chairman?
+L396225 +++$+++ u2181 +++$+++ m140 +++$+++ VON HOLLER +++$+++ It takes so long to detect them—  —because their mood changes so often and so quickly. Now, Your Honor, may I show you? May I use the chart?
+L396224 +++$+++ u2165 +++$+++ m140 +++$+++ DR. FOSDICK +++$+++ Ja.
+L396223 +++$+++ u2181 +++$+++ m140 +++$+++ VON HOLLER +++$+++ It reminds me very much of this one. Nicht wahr?
+L396222 +++$+++ u2165 +++$+++ m140 +++$+++ DR. FOSDICK +++$+++ Oh, yes. Yes, of course Dr. Von Holler. Very interesting.
+L396221 +++$+++ u2181 +++$+++ m140 +++$+++ VON HOLLER +++$+++ Especially, the one of the young nobleman, you remember?
+L396220 +++$+++ u2165 +++$+++ m140 +++$+++ DR. FOSDICK +++$+++ Uh-huh.
+L396219 +++$+++ u2181 +++$+++ m140 +++$+++ VON HOLLER +++$+++ You remember, Dr. Fosdick, in my last book there are some very fine examples.
+L396008 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Well, thanks, I - uh—  How do you do? What is your name?
+L396007 +++$+++ u2166 +++$+++ m140 +++$+++ FARMER +++$+++ —my wife wanted me to tell you she—  —she prays for you every night.
+L396006 +++$+++ u2166 +++$+++ m140 +++$+++ FARMER +++$+++ Oh, Mr. Deeds—
+L396005 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ That's fine. Thanks. I'll look 'em over later.
+L396004 +++$+++ u2166 +++$+++ m140 +++$+++ FARMER +++$+++ Here's the order for the plows. We got a good price on them.
+L395978 +++$+++ u2166 +++$+++ m140 +++$+++ FARMER +++$+++ Sure - everybody's a moocher to you. A mongrel dog eating out of a garbage pail is a moocher to you!
+L395977 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ A farmer, eh! You're a moocher, that's what you are! I wouldn't believe you or anybody else on a stack of bibles! You're a moocher like all the rest of them around here, so get out of here!
+L395976 +++$+++ u2166 +++$+++ m140 +++$+++ FARMER +++$+++ Yeah - that's all that's worrying you. What do I want?  A chance to feed a wife and kids! I'm a farmer. A job! That's what I want!
+L395973 +++$+++ u2166 +++$+++ m140 +++$+++ FARMER +++$+++ Let me alone!  If you know what's good for you - you'll let me get this off my chest!  How did you feel feeding doughnuts to a horse?  Get a kick out of it, huh? Got a big laugh?  Did you ever think of feeding doughnuts to human beings! No!
+L395972 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Let him alone.
+L395358 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ No use in getting tough. That'll get you nowhere, Mr. Deeds.  You know, we've got letters.
+L395357 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ There's one nice thing about being rich - you ring a bell and things happen. When the servant comes in, Mr. Hallor, I'm going to ask him to show you to the door. Many people don't know where it is.
+L395356 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ Now wait a minute, buddy—
+L395355 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh no, I'm not. I don't like your face. Besides, there's something fishy about a person who would settle for a million dollars when they can get seven million. I'm surprised that Mr. Cedar, who's supposed to be a smart man, couldn't see through that.
+L395354 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ You're making a mistake, Mr. Deeds.
+L395350 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ Well, we didn't expect that much. I'm sure I can get her to settle quietly for one million.
+L395349 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ One-third? That's about $7,000,000 isn't it?
+L395348 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ Mrs. Semple is entitled to one- third of the estate.
+L395345 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ And don't ever get down on your knees again, understand?
+L395344 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ Mrs. Semple is entitled by law to one-third of the estate.
+L395338 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh. That.
+L395337 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ I say we don't want to appear greedy.
+L395336 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Huh?
+L395335 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ Of course, we don't want to appear greedy, Mr. Deeds.
+L395329 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh - we'll have to do something about the common wife.
+L395328 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ No, I mean - about my client.
+L395327 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Why, I turned them down, naturally.
+L395326 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ What about it, Mr. Deeds?
+L395325 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Sorry to keep you waiting so long. Those opera people are funny. They wanted me to put up $180,000.
+L395262 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ You'll excuse me, won't you? I'll be right back.
+L395261 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ Well, what about it, Mr. Deeds?
+L395257 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ If she was his wife, she should have all the money. That's only fair. I don't want a penny of it.
+L395256 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ I'm glad to see you're willing to be reasonable, Mr. Deeds.
+L395255 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ That's awful. The poor woman should be taken care of immediately.
+L395254 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ Yes, sir.
+L395253 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ A child? My uncle's?
+L395252 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ Common-law wife. On top of that, there's a child.
+L395251 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ What kind of wife did you say she was?
+L395250 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ I leave it to you, Mr. Deeds. Can you conceive of any court not being in sympathy with any woman who gave up the best years of her life for an old man like your uncle?
+L395247 +++$+++ u2169 +++$+++ m140 +++$+++ HALLOR +++$+++ Yes. Your uncle's common-law wife. She has a legal claim on the estate.
+L395246 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Mrs. Semple?
+L395493 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Yeah, what if I am? What about it?
+L395492 +++$+++ u2170 +++$+++ m140 +++$+++ HENABERRY +++$+++ Look, he's temperamental.
+L395480 +++$+++ u2170 +++$+++ m140 +++$+++ HENABERRY +++$+++ You mean to tell me you don't carry a pocketful around with you?
+L395479 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ No.
+L395474 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Well, I play the tuba.
+L395473 +++$+++ u2170 +++$+++ m140 +++$+++ HENABERRY +++$+++ Yes. Have you any peculiar characteristics when you are creating?
+L395466 +++$+++ u2170 +++$+++ m140 +++$+++ HENABERRY +++$+++ Mr. Morrow, over there, for instance, just dashes them off.
+L395465 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Well, I don't know. I—
+L395462 +++$+++ u2170 +++$+++ m140 +++$+++ HENABERRY +++$+++ Why, you must drink! All poets drink!
+L395461 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ No - I don't want it, thank you.
+L396347 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Thank you, Your Honor.
+L396346 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ Proceed.
+L396345 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ No.  Yes. There's just one more thing I'd like to get off my chest before I finish.
+L396344 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ Anything else, Mr. Deeds?
+L396329 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Personally, I don't know what Mr. Cedar's raving about. From what I can see, no matter what system of government we have, there will always be leaders and always be followers.
+L396328 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ Please, Mr. Cedar!  Proceed.
+L396325 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh yes, I was getting to that, Your Honor.
+L396324 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ Mr. Deeds, you haven't yet touched upon a most important thing. This rather fantastic idea of yours to want to give away your entire fortune. It is, to say the least, most uncommon.
+L396303 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ Not at all.
+L396302 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Now about the Falkner sisters. That's kind of funny. I mean about Mr. Cedar going all the way to Mandrake Falls to bring them here. Do you mind if I talk to them?
+L396295 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh, yes. Yes. About my throwing those people out of my house. Mrs. Pomponi told the truth. I did throw them out because I didn't want the party in the first place. I didn't invite anybody. Mrs. Pomponi did all that. They just came to see what kind of a freak the "Cinderella Man" was. I don't know how people like that are supposed to act, Your Honor, but if that Pomponi woman is an example, I'll stick to simple folks. She just came in, talked my ear off, and took charge of everything. If I were a friend of hers, I'd have her examined.
+L396294 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ Mr. Deeds, do you recall forcibly ejecting people from your home?
+L396285 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ An O-filler. You fill in all the spaces in the O's, with your pencil.  I was watching you.
+L396284 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ A what?
+L396282 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Well, I don't know where to begin. There's been so many things said about me that I—
+L396281 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ Proceed.
+L396280 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ Take the stand!
+L396279 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I'd like to get in my two cents' worth.
+L396278 +++$+++ u2172 +++$+++ m140 +++$+++ JUDGE +++$+++ Yes?
+L396277 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Your Honor—
+L395446 +++$+++ u2182 +++$+++ m140 +++$+++ WAITER +++$+++ Over at that big round table. The one that looks like a poodle.
+L395445 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh, the poet? Where?
+L395444 +++$+++ u2182 +++$+++ m140 +++$+++ WAITER +++$+++ Brookfield just came in.
+L395441 +++$+++ u2182 +++$+++ m140 +++$+++ WAITER +++$+++ Uh-huh.
+L395440 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I write poetry.
+L395439 +++$+++ u2182 +++$+++ m140 +++$+++ WAITER +++$+++ Uh-huh.
+L395438 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I'm a writer myself, you know.
+L395437 +++$+++ u2182 +++$+++ m140 +++$+++ WAITER +++$+++ Uh-huh.
+L395436 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Be sure and point 'em out to me, won't you?
+L395435 +++$+++ u2182 +++$+++ m140 +++$+++ WAITER +++$+++ Huh? On, no. Nobody important.
+L395513 +++$+++ u2177 +++$+++ m140 +++$+++ MORROW +++$+++ Fun?  Say, listen, I'll take you on a bender that will live in your memory as a thing of beauty and joy forever.  Boy! Boy! My headpiece!
+L395512 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ That ought to be fun.
+L395511 +++$+++ u2177 +++$+++ m140 +++$+++ MORROW +++$+++ Yes. I mean the real McCoy. Listen, you play saloon with me, and I'll introduce you to every wit, every nit-wit, and every half-wit in New York. We'll go on a twister that'll make Omar the soused philosopher of Persia[7] look like an anemic on a goat's milk diet.
+L395510 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Binge?
+L395509 +++$+++ u2177 +++$+++ m140 +++$+++ MORROW +++$+++ Well, you'll not only see those, but before the evening's half through, you'll be leaning against the Leaning Tower of Pisa - you'll mount Mt. Everest. I'll show you the Pyramids and all the little Pyramiddes, leaping from sphinx to sphinx. Pal, how would you like to go on a real, old-fashioned binge?
+L395508 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I'd kind of like to see Grant's Tomb - and the Statue of Liberty.
+L395507 +++$+++ u2177 +++$+++ m140 +++$+++ MORROW +++$+++ Fine, fine. Swell, You just showed me a sight lovely to behold, and I'd like to reciprocate. Listen, you hop aboard my magic carpet—  —thanks - and I'll show you sights that you've never seen before.
+L395506 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Thanks, but Miss Dawson and I are going out to see the sights.
+L395505 +++$+++ u2177 +++$+++ m140 +++$+++ MORROW +++$+++ Oh, what a magnificent deflation of smugness. Pal, you've added ten years to my life!  A poet with a straight left and a right hook - delicious! Delicious!  You're my guest from now on - forever and a day - even unto eternity!
+L395504 +++$+++ u2177 +++$+++ m140 +++$+++ MORROW +++$+++ The difference between them and me is I know when I've been a skunk. You take me to the nearest news- stand and I'll eat a pack of your postcards raw. Raw!
+L395503 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ That's all right. I got it off my chest.
+L395502 +++$+++ u2177 +++$+++ m140 +++$+++ MORROW +++$+++ Say fellow, you neglected me - and I feel very put out.  Look, sock it right there, will you? Lay one right on the button,[6] but sock it hard.
+L395135 +++$+++ u2178 +++$+++ m140 +++$+++ MRS. MEREDITH +++$+++ I don't care how much it is. You sit right there and eat your lunch. You haven't touched a thing.
+L395134 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Hear what he said? You know how much twenty million is?
+L395130 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I'm kind of nervous. I've never been away from Mandrake Falls in my life. Kind of like to see Grant's Tomb, though.
+L395129 +++$+++ u2178 +++$+++ m140 +++$+++ MRS. MEREDITH +++$+++ Well, we could borrow a couple from Mrs. Simpson. You know, she went to Niagara Falls last year.
+L395122 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Now you keep out of this!
+L395121 +++$+++ u2178 +++$+++ m140 +++$+++ MRS. MEREDITH +++$+++ He's got a lot of foolish notions - about saving a lady in distress.
+L395120 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Don't pay any attention to her.
+L395119 +++$+++ u2178 +++$+++ m140 +++$+++ MRS. MEREDITH +++$+++ No, he's too fussy for that. That's what's the matter with him. There are lots of nice girls right here in Mandrake Falls who're dying to be married—
+L395097 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Of course they're going to stay.  She's got some fresh orange layer cake. You know, with the thick stuff on the top?  Sure, they don't want to go to the hotel.
+L395096 +++$+++ u2178 +++$+++ m140 +++$+++ MRS. MEREDITH +++$+++ How about lunch? Are the gentlemen going to stay - or not?
+L395084 +++$+++ u2178 +++$+++ m140 +++$+++ MRS. MEREDITH +++$+++ You gentlemen going to stay for lunch?
+L395083 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ New mouthpiece. Been waiting two weeks for this. Kids keep swiping them all the time. They use 'em for bean shooters.  What can I do for you gentlemen?
+L395073 +++$+++ u2178 +++$+++ m140 +++$+++ MRS. MEREDITH +++$+++ I don't know.
+L395072 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Who are they?
+L396035 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh. Oh!
+L396034 +++$+++ u2179 +++$+++ m140 +++$+++ SVENSON +++$+++ South Dakota - but on the top.
+L396033 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ South Dakota - north?
+L396032 +++$+++ u2179 +++$+++ m140 +++$+++ SVENSON +++$+++ South Dakota north.
+L396031 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Where is your farm?
+L396030 +++$+++ u2179 +++$+++ m140 +++$+++ SVENSON +++$+++ Yes, ma'am.
+L396029 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Farmer?
+L396028 +++$+++ u2179 +++$+++ m140 +++$+++ SVENSON +++$+++ Christian Svenson.
+L396027 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ What is your name?
+L395845 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ Thank you so much. Good night.
+L395844 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Goodnight. Don't worry. I won't keep her out late.
+L395840 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ Oh yes, I think it'd be a swell night to go for a walk. A nice long one.
+L395839 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ It would be a nice night to go for a walk, don't you think?
+L395838 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ Yes, lovely. We've had a lot of nice weather lately.
+L395837 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Nice day out - er, nice night - wasn't it? - isn't it?
+L395831 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Sure. They got on my nerves, so I threw 'em out.
+L395830 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ You mean—  —by the neck or something?
+L395822 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Is Mary home?
+L395821 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ Yeah. What?
+L395820 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Is she home?
+L395819 +++$+++ u2175 +++$+++ m140 +++$+++ MABEL +++$+++ Huh? Oh, yes - yes, of course. Her sister. Yes, I've been her sister for a long time.
+L395818 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ You're Mabel - her sister - aren't you?
+L395975 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ No!  What do you want!!
+L395974 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Shall I call the police, sir?
+L395957 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Yes, sir.
+L395956 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Pack my things, Walter. I'm going home.
+L395932 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Yes, sir. Very good, sir. Here it is right here, sir. There, sir.
+L395931 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ An hour? What's an hour! You know how time flies, Walter. My tie? Get it.
+L395930 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ But she isn't due for an hour, sir.
+L395929 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Anything happened? I've got to get dressed! I can't meet her like this!
+L395928 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Yes, sir. What is it, sir? Anything happened3
+L395776 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Yeah.
+L395775 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Me, sir?
+L395774 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ You try it.
+L395773 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Why, that's an echo, sir!
+L395772 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ What, sir?
+L395771 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Hey, did you hear that?
+L395769 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Get out.  The evil finger's on you. Get out!
+L395768 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ But she's on the telephone—
+L395767 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ What do you mean by coming in here when I'm playing?
+L395766 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Madame Pomponi. She says everything is all set for the reception.
+L395765 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Who?
+L395764 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Madame Pomponi is on the telephone, sir.
+L395575 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Very good, sir.  Oh, I beg pardon. A telegram came for you, sir.  I'll get you some black coffee, sir.
+L395574 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Better bring me some coffee, Walter.
+L395573 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ You kept searching me last night, sir. Going through my pockets. You said you were looking for a rhyme for Budington.
+L395572 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Looking for?
+L395571 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Yes, sir. I beg pardon, sir, but did you ever find what you were looking for, sir?
+L395570 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ But how'll I put on the slipper, sir?
+L395569 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Please!
+L395566 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ The ones who brought you home, sir. They said you and another gentleman kept walking up and down the streets, shouting: "Back to nature! Clothes are a blight on civilization! Back to nature!"
+L395565 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ What two policemen?
+L395564 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ That's what the two policemen said, sir.
+L395563 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh, don't be silly, Walter. I couldn't walk around in the streets without any clothes. I'd be arrested.
+L395562 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ As a matter of fact, you came home without any clothes. You were in your - uh - shorts. Yes, sir.
+L395561 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I did what!
+L395560 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ You came home last night - without them.
+L395559 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ You have no pants, sir.
+L395558 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ What do you mean? I remember everything!  Hand me my pants - I wrote her phone number on a piece of paper.
+L395557 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ I'd venture to say, sir, you don't remember much of anything that happened last night, sir.
+L395556 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I'd better call her up and apologize. I don't remember taking her home last night.
+L395555 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Oh, I do too, sir.
+L395554 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ She was a lady in distress. She wouldn't let me help her. Got a lot of pride. I like that.
+L395553 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Miss Dawson, sir? No, sir. No Miss Dawson has called, sir.
+L395552 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Oh. Oh!  Has Miss Dawson called yet?
+L395551 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Yes, sir. It makes the head feel smaller.
+L395550 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Prairie? Oysters?
+L395549 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ A Prairie Oyster, sir.[10]
+L395548 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ What's that?
+L395547 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Yes, sir.
+L395544 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ I just wanted to make sure.
+L395543 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Yes, sir.
+L395542 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ You're Walter, aren't you?
+L395541 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Mr. Deeds - Mr. Deeds, sir - you really must get up. It's late!
+L395382 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ That was something I was never able to find out, sir.
+L395381 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Twenty! What did he do with them?
+L395380 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Well, sir, he sometimes had as many as twenty in the house at the same time.
+L395379 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Tell me, Walter, are all those stories I hear about my uncle true?
+L395378 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Every man to his taste, sir.
+L395377 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ He talks about women as if they were cattle.
+L395347 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Excuse me. What did you say?
+L395346 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ No, sir.
+L395343 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Imagine that - holding the ends of my pants!
+L395342 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Yes, sir.
+L395341 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ Get up from there. I don't want anybody holding the ends of my pants. Get up from there!
+L395340 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Why, I'm assisting you, sir.
+L395339 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ What do you think you're doing?
+L395332 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Yes, sir.
+L395331 +++$+++ u2173 +++$+++ m140 +++$+++ LONGFELLOW +++$+++ What - tails?  Why, that's a monkey suit![5] Do you want people to laugh at me?  I never wore one of those things in my life.
+L395330 +++$+++ u2183 +++$+++ m140 +++$+++ WALTER +++$+++ Tails tonight, sir?

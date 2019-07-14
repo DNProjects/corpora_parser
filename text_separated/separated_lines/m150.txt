@@ -1,0 +1,950 @@
+L421468 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ For Christ's sake, it soils my mother's memory.  Do you think I want the whole goddamn world to see my mother like this?  Raising a dirty mouth!
+L421459 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You don't need to check the tape.  I know what I said.
+L421458 +++$+++ u2322 +++$+++ m150 +++$+++ BUZHARDT +++$+++ We could check the tape again, sir.
+L421457 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Never.  I never said that about Jews!
+L421456 +++$+++ u2322 +++$+++ m150 +++$+++ BUZHARDT +++$+++ You did say it, sir.
+L421455 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You're lawyers.  How can you let this shit go by!  Look!  This?  Nixon can't say this.
+L421421 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Then tell Richardson to fire him.
+L421420 +++$+++ u2322 +++$+++ m150 +++$+++ BUZHARDT +++$+++ Sir, if I may ... echo my concern ...
+L421395 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ They can't impeach me for bombing Cambodia.  The President can bomb anybody he wants.
+L421394 +++$+++ u2322 +++$+++ m150 +++$+++ BUZHARDT +++$+++ Sir, the charges are serious -- first, abuse of power; second, obstruction of justice; third, failure to cooperate with Congress; and last, bombing Cambodia ...
+L420892 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yeah?  Well, I own the fucking casino.
+L420891 +++$+++ u2323 +++$+++ m150 +++$+++ CUSHMAN +++$+++ That's Helms.  He's "sang froid," a world-class poker player.
+L420890 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Well, he certainly isn't acting like it.
+L420889 +++$+++ u2323 +++$+++ m150 +++$+++ CUSHMAN +++$+++ He's nervous, sir.  He's heard you're looking for a new director.
+L420888 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We'll see about that ...
+L420887 +++$+++ u2323 +++$+++ m150 +++$+++ CUSHMAN +++$+++ Frankly, sir, it stinks.  I have no access.  I'm lucky Helms lets me have a staff.
+L420886 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ How's the job coming, Bob?
+L420885 +++$+++ u2323 +++$+++ m150 +++$+++ CUSHMAN +++$+++ Then his office will be fine.
+L420884 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No.  His office.  I want a very private conversation.  I don't want to be bugged.
+L420883 +++$+++ u2323 +++$+++ m150 +++$+++ CUSHMAN +++$+++ He told me to take you to his conference room.
+L420882 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ So ... let's go ...
+L420881 +++$+++ u2323 +++$+++ m150 +++$+++ CUSHMAN +++$+++ Uh, he's rushing back from his tennis game, sir ...
+L420880 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Where the hell is he?
+L420879 +++$+++ u2323 +++$+++ m150 +++$+++ CUSHMAN +++$+++ Mr. President, I don't know what to say.  As soon as we learned from the Secret Service you were en route, the Director was notified.  He should be here any minute.
+L421320 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Good.  You know how I feel about loyalty.  I'm not going to let any of my people go to jail.  That I promise you.  The important thing is to keep this away from Haldeman and Ehrlichman. I'm trusting you to do that, John.  I have complete confidence in you.
+L421319 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ I understand that, sir.
+L421318 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ John, you don't want to start down that road.  I remember what Whittaker Chambers told me back in '48 -- and he was a man who suffered greatly -- he said, "On the road of the informer, it's always night."  This is beyond you or even me.  It's the country, John.  It's the presidency.
+L421317 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ I'm not going to be the scapegoat for this.  Haldeman and Ehrlichman are in just as deep as me.
+L421316 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Nobody knows more about this thing than you do, John.
+L421315 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ You want me to put it all in writing? Over my signature?
+L421312 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We have nothing to hide.  But the only flaw in the plan is that they're not going to believe the truth.  That is the incredible thing!
+L421311 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ No, we have nothing to hide.
+L421310 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ He's right.  Maybe it's time to go to the hang-out route, John.  A full and thorough investigation ... We've cooperated with the FBI, we'll cooperate with the Senate.  What do we have to hide?
+L421307 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I mean, who the hell cares about this penny-ante shit.  Goldwater put it right.  He said: "Well for Christ's sake, everybody bugs everybody else; we know that." ... It's the cover-up, not the deed that's really bad here.  If only Mitchell could step up and take the brunt of it; give them the hors d'oeuvre and maybe they won't come back for the main course.  That's the tragedy of all this.  Mitchell's going to get it in the neck anyway. It's time he assumed some responsibility.
+L421306 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ I agree it's ridiculous but --
+L421305 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Jesus, everything is a crisis among the upper intellectual types, the softheads.  The average people don't think it's much of a crisis.  For Christ's sake, it's not Vietnam ... no one's dying here.  Isn't it ridiculous?
+L421304 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Sir, I still don't think, uh, we can contain it anymore.  There's a cancer on the presidency.  And it's growing. With every day that ...
+L421303 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You say, John, cut our losses and all the rest.  But suppose the thing blows and they indict Bob and the others. Jesus, you'd never recover from that, John.  It's better to fight it out instead, and not let people testify ...
+L421302 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ I'm still not confident we can ride through this.  Some people are going to have to go to jail.  Hunt's not the only problem.  Haldeman let me use the $350,000 cash fund in his safe to make the payments.  Ehrlichman had a role, a big role, in the Ellsberg break-in. And I'm ... uh, I think it's time we begin to think in terms of cutting our losses.
+L421301 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We could get a million dollars.  We could get it in cash.  I know where it could be gotten.
+L421300 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Uh huh ...
+L421299 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We could get that.
+L421298 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Uh, I would say these people are going to cost a million dollars over the next two years ...
+L421297 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ How much do you need?
+L421256 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Either it goes to Mitchell or it comes here.
+L421255 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Mitchell?  Mitchell's ... family.
+L421244 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I like that.  That's a solution.
+L421243 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Hunt has nothing to lose now.  Pardon all of them.  Nobody's going to investigate a crime for which the criminals have already been pardoned.
+L421242 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ What?
+L421241 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Executive clemency ...
+L421221 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Pay him.  Pay him what he wants.
+L421220 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ He says if he doesn't get it right away, he's going to blow us out of the water.  And he means it.  Ever since his wife died in the plane crash, he's been over the edge.
+L421219 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Son of a bitch.
+L421218 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Mr. President, Hunt wants more money. Another hundred-and-thirty thousand.
+L421180 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Then what about this Washington Post crap?  Woodwind and Fernstein?
+L421179 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Sirica's just trying to force one of them to testify.  But they're solid.
+L421178 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ So, what about those Watergate clowns, John?  This fuck Sirica's crazy. Thirty-five-year sentences!  There were no weapons.  Right?  No injuries. There was no success!  It's just ridiculous.
+L420174 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ "Ex-CIA"?  There's no such thing as "ex-CIA," John -- they're all Ivy League Establishment.  Is he one of these guys with a beef against us?
+L420173 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ The bigger problem I see is this guy who was arrested, McCord -- James McCord -- he headed up security for the Committee to Re-Elect.  He turns out to be ex-CIA.
+L421293 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ John, sooner or later -- sooner, I think -- you are going to learn the lesson that has been learned by everyone who has ever gotten close to Richard Nixon.  That he's the darkness reaching out for the darkness.  And eventually, it's either you or him. Look at the landscape of his life and you'll see a boneyard.
+L421292 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Howard, you'll serve no more than two years, then he'll pardon you.
+L421291 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ I'm one of his people.  The Cubans are his people.  And we're going to jail for him.
+L421290 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ To protect his people.
+L421289 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ That's not the question, John.  The question is: Why is he paying?
+L421288 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ How the hell do you have the temerity to blackmail the President of the United States?
+L421286 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ In Richard Nixon's long history of underhanded dealings, he has never gotten better value for his money.  If I were to open my mouth, all the dominoes would fall.
+L421285 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Is it?
+L421284 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ I'll bet he would.
+L421283 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ The President would like to know if that was the last payment.
+L421282 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ Yes ... I got the money.
+L421281 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ I was sorry to hear about your wife.
+L421278 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ So you tell Mitchell ...
+L421277 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Dick Nixon saying "I'm sorry"? That'll be the day.  The whole suit of armor'd fall off.
+L421276 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Eight words back in '72 -- "I covered up.  I was wrong.  I'm sorry" -- and the American public would've forgiven him.  But we never opened our mouths, John.  We failed him.
+L421275 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Christ, we created Frankenstein with those fucking Cubans.
+L421274 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ They went after Castro.  In some crazy way it got turned on Kennedy.  I don't think the "P" knows what happened, but he's afraid to find out.  It's got him shitting peach pits.
+L421273 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Yeah?
+L421272 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ I think he means the Kennedy assassination.
+L421271 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ I figured that out.
+L421270 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ It's a code or something.
+L421267 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ You think this is just about politics?
+L421266 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ The "Old Man" plays politics harder than anybody else.
+L421265 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Sure, they did stuff, but nothing like this, Bob.  Forget Watergate, the break-ins, the Enemies list.  You got an attempted firebombing at the Brookings Institution, planting McGovern stuff on the guy that shot Wallace, trying to slip LSD to Jack Anderson.
+L421264 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ How so?
+L421263 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ He's wrong, you know -- about Kennedy, LBJ, Truman.
+L421262 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ 'Cause he hates you.  It's worse when you get it from someone you trust.
+L421261 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Why me?
+L421260 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ You do it.
+L421259 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Who's gonna tell Mitchell?
+L421169 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Yeah, I knew it.  I knew it from '69 on, and I said it all along, didn't I ...
+L421168 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Yeah ... Sullivan thinks Henry's leaking.  He's the one ...
+L420869 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ It's the fall of the Roman Empire, are you blind?  And we're putting fig leaves on the statues ...
+L420868 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Let's not forget they're just kids, they don't vote.
+L420169 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Anyway, they had to take her to Bellevue.  Maybe she'll stay this time.
+L420168 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ It was her wrist.  And it was through a plate-glass door.
+L421253 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We are covering up!  For some petty, stupid shit.  There are things I can say -- when other people say them, they'd be lies. But when I say them nobody believes me anyway ...
+L421252 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Executive privilege will make it look like we're covering up.
+L421251 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No, you're not!  You're going to claim executive privilege and you're going to stonewall it all the way -- plead the Fifth Amendment.  I don't give a shit.  They can't force the President's people to testify.
+L421250 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Sir, Bob and I are gonna have to testify before Earvin's committee.
+L421249 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I don't know, I don't know ... I just know we've made too many enemies.
+L421246 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ And what am I supposed to do?  Just sit here and watch them coming closer? Eating their way to the center?  Lyndon bugged!  So did Kennedy!  FDR cut a deal with Lucky Luciano. Christ, even Ike had a mistress! What's so special about me?  What about Lyndon?  He could make a couple of calls to the Hill and shut this whole thing down.  Did anyone talk to him?
+L421245 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ It'll never wash.  Pardoning them means we're guilty.  The people, the press will go nuts.
+L421238 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Forget it.  Ehrenberg's paid three times that much ...
+L421237 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ What about England?
+L421196 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ My point exactly!  Somebody had to die before his shit got in the paper! Fucking Kennedys get away with everything.  Do you see me screwing everything that moves?  For Christ's sake!  I did what the New York Times editorial page said we should do!  I ended the war, I got SALT I with the Russians, I opened China!  So why are these cocksuckers turning on me?  Because they don't like the way I look.  Where I went to school.
+L421195 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ He got pretty burned at Chappaquiddick.
+L421194 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I end the longest war in American history and they keep harping on this chickenshit!  You know who's behind this, don't you -- it's Teddy Kennedy! He drowns a broad in his car and he can't run for president.
+L421176 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No, no.  He's our only "star" right now.  He'd go crying straight to the press.  He'd crucify us -- the sonofabitch!  Get someone from our staff on his ass. Tap his phones.  I want to know everyone he talks to.
+L421175 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ I would personally enjoy doing that, sir.
+L421171 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Looks like he talked to Joe Kraft ... and to the Times.  Told them he was dead set against the bombing, that you were ... "unstable."  Claims he has to handle you "with kid gloves" ...
+L421170 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No, you didn't, Bob.
+L421114 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The hard-core four million "Nixon nuts" aren't gonna go for it ... They'll say I sold out to the Communists.
+L421113 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ The country's loving it.
+L420878 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Well, no place where they speak English.  That way he can always say he was misquoted.
+L420877 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ He's begging for a meeting, chief.  He wants to go overseas for awhile.
+L420875 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yeah, good old Spiro.  Well, better him than me.  What the hell is he but an insurance policy?
+L420874 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ He's in the dumps, sir.  Agnew.  Every time you have him attack the press, they give it back to him in spades. He's become the most hated man in America.
+L420843 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Sir, there's dead American kids here. Let's say we don't apologize for Kent State, but maybe we could have a national prayer day ...
+L420842 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The soldiers were provoked.  The students started it, for Christ's sake!
+L420839 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ -- as long as he's got secret files on everybody.  I don't want 'em used against us.  What about the CIA?  Helms's done nothing for us.  I want to see him.
+L420838 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ I thought the gloves were off.
+L420837 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We can't touch Hoover --
+L420822 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No ... I can do this because I've spent my whole career building anti Communist credentials.
+L420821 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Excuse me ... Are you talking about recognizing China, Mr. President? That would cost us our strongest support.
+L420809 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I will not go down as the first American president to lose a war! Going into Cambodia, bombing Hanoi, bombing Laos -- it buys us time so we can get out and give the South Vietnamese a fighting chance.
+L420808 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Is the war worth it?  Is it worth a one-term presidency?  Because I think right now that's what we're looking at.
+L420807 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Why not?
+L420806 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ I don't know if I'd go that far, sir.
+L420805 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Oh, I suppose you would've just let them take over.  These aren't fraternity pranks, John.  It's anarchy.  A revolution!
+L420275 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We should set up a Cuban defense fund on this; take care of all of them.
+L420274 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ No, sir.
+L420273 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ This is not a joke, John!
+L420272 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Uh, we've never done this before, sir ... How do we pay?  In ... hundreds?  Do you fill a black bag full of unmarked bills?
+L420271 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's more than that.  It could be more than that.  I want Hunt paid.
+L420260 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ What the hell are you doing, Ehrlichman?  Screwing with the CIA?  I don't care how much he wants -- pay him.
+L420259 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Pay him?  I told him to get out of the country.  It's crazy to start ...
+L420258 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Pay him.
+L420257 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ He wants money.
+L420256 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ And?
+L420255 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ In hiding.  He sent Liddy to talk to me.
+L420254 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Where's Hunt now?
+L420233 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Sure.  Lyndon, JFK, FDR -- I mean, Truman cut the shit out of my investigation of Hiss back in '48.
+L420232 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Is it legal?  I mean has anyone ever done it before?
+L420231 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I like it.  I like the idea.
+L420208 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Well, he's photogenic.  Let's try dog bones?
+L420207 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Goddamn! How long have we had this fucking dog?!  Two years, he still doesn't come!  We need a dog that looks happy when the press is around.
+L420189 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ He left his White House phone number in his hotel room.
+L420188 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Hunt?  Howard Hunt?
+L420186 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Who?  Not another goddamn Cuban?
+L420185 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Well, sir ... it turns out -- one of the people implicated is still, you see, on our White House payroll.
+L420184 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I don't have time for all this shit!  Just handle it, Bob!  Keep it out of the White House.  What else? Kissinger's waiting -- he's gonna throw a tantrum again if I don't see him, threatening to quit ... again. 
+L420176 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Find out what the hell he was doing at "CREEP."  This could be trouble. These CIA guys don't miss a trick. This could be a set-up.
+L420175 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ McCord? ...
+L420172 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No!  Magruder!  That sonofabitch tests my Quaker patience to the breaking point.
+L420171 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Mitchell?
+L420170 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Martha's an idiot, she'll do anything to get John's attention.  If Mitchell'd been minding the store instead of that nut Martha we wouldn't have that kid Magruder runnin' some third-rate burglary!  Was he smoking pot?
+L420167 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Jesus!  Through a window?
+L420166 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Mitchell's out of his mind now. Martha just put her head through a plate-glass window.
+L420165 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Jesus!  Did Mitchell know?
+L420164 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Colson doesn't know about it; he's pure as a virgin on this one.  It's just not clear the burglars knew what they were looking for.  They were heading to McGovern's office later that night.
+L421530 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ That smell.  I mean, everybody suffered so much, their sons killed. They need to sacrifice something, y'know, appease the gods of war -- Mars, Jupiter.  I am that blood, General.  I am that sacrifice, in the highest place of all ... All leaders must finally be sacrificed.
+L421529 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Sir?
+L421528 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It came over from Vietnam, you know.
+L421527 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ I know it well, sir.
+L421526 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... they smelled the blood on me this time, Al.  I got soft.  You know ... that rusty, metallic smell ...
+L421505 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's gone.  No one will ever find out what's on it.
+L421504 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ ... you mentioned the "Bay of Pigs" several times.  Sooner or later they're going to want to know what that means.  They're going to want to know what was on that gap ...
+L421503 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I don't know anything about that.
+L421502 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Three days before, on the June twentieth tape -- the one with the eighteen-minute gap --
+L421501 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ That's right ...
+L421500 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Sir, you talked about opening up the whole "Bay of Pigs" thing again.
+L421499 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ There is nothing in that statement the President can't explain.
+L421498 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ We can't survive this, sir.  They also have you instructing Dean to make the payoff to Hunt.
+L421497 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ How do you see this?
+L421496 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ That was civil war.
+L421495 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Lincoln used it.
+L421494 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The army?
+L421492 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ And if I stay?
+L421491 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ If you resign, you can keep your tapes as a private citizen ... You can fight them for years.
+L421490 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ It's the Supreme Court, sir; you don't get around it.
+L421489 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Can we get around this, Al?
+L421488 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Sir, the deadline is today.
+L421487 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's totally out of context.  I was protecting the national security.  I never intended --
+L421486 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Your lawyers feel it's the ... "smoking gun."
+L421485 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ So?
+L421484 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ June twenty-third, '72, sir.  The part that's underlined.  Your instructions to Haldeman regarding the CIA and the FBI.
+L421483 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ I'm afraid we have another problem, Mr. President.
+L421482 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ "Victory at Sea," Al ... Henry.  The Pacific Theatre.  Christ, you can almost feel the waves breaking over the decks.
+L421474 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I had no knowledge of the cover-up until John Dean told me about it on March twenty-first.  And I did not intend that payment to Hunt or anyone else be made ...
+L421473 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ He's completely lost touch with reality.
+L421472 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... an action that will at last, once and for all, show that what I knew and what I did with regard to the Watergate break-in and cover-up were just as I have described them to you from the very beginning ...
+L421423 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The hell he will!  Fire him, too.  If you have to go all the way down to the janitor at the Justice Department, fire the sonofabitch!  And ...
+L421422 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Richardson won't do that.  He'll resign.
+L421419 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ But he works for the Attorney General. Only Richardson can fire him.
+L421418 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Cox!  Fire him.
+L421417 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Who?
+L421402 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ A dozen?  I got half of 'em elected. I still got the South and Goldwater and his boys.  I'll take my chances with the Senate.
+L421401 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ About a dozen.
+L421393 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ For what?!
+L421392 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Congress is considering four articles of impeachment, sir.
+L421391 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Who the fuck does Cox think he is?  I never made a dime from public office!  I'm honest.  My dad died broke.  You know the sonofabitch went to law school with Jack Kennedy? ... The last gasp of the Establishment! They got the hell kicked out of 'em in the election, so now they gotta squeal about Watergate 'cause we were the first real threat to them in years. And by God, Al, we would have changed it, changed it so they couldn't have changed it back in a hundred years, if only ...
+L421390 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Can the president afford to ignore a subpoena?
+L421389 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Let 'em try!  I appointed three of those bastards!  I'm not giving 'em my tapes!
+L421388 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ This could trigger the impeachment. They'll go to the Supreme Court next.
+L421387 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's the President's personal property!  I will never give up my tapes to a bunch of Kennedy-loving Harvard Democrat cocksuckers!
+L420785 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ These State Department jerks, Bill, don't understand; you got to electrify people with bold moves.  Bold moves make history, like Teddy Roosevelt -- "T.R." -- rushing up San Juan Hill.  Small event but dramatic.  People took notice.
+L420784 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ That's what they're doing.
+L420783 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Exactly!  We've got to take the war to them.  Hit 'em where it hurts -- right in the nuts.  More assassinations, more killings.  Right, Al?
+L420155 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ 'Night, Al.
+L420154 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ I don't have a pistol.
+L420153 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You know, Al, men in your profession ... you give 'em a pistol and you leave the room.
+L420152 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ You're all set, sir.  Just push this button.  Good night, Mr. President.
+L420151 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Damn right.  And there's still a helluva lotta people out there who wanna believe ... That's the point, isn't it?  They wanna believe in the President.
+L420150 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ No, sir, you did not.
+L420148 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ You've never been a greater example to the country than you are now, sir, but ... but you need to get out more, sir, and talk to the people.  No one I know feels ... close to you.
+L420147 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ There's no secrets here, Al.
+L420146 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ May I say something, Mr. President?
+L420145 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Not like the others -- Dean, McCord, the rest ... We never got our side of the story out, Al.  People've forgotten.  I mean: "Fuck you, Mr. President, fuck you Tricia, fuck you Julie!" and all that shit, just words, but what violence!  The tear gassing, the riots, burning the draft cards, Black Panthers -- we fixed it, Al, and they hate me for it -- the double dealing bastards.  They lionize that traitor, Ellsberg, for stealing secrets, but they jump all over me 'cause it's Nixon.  ... They've always hated Nixon.
+L420144 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ At least Mitchell stood up to it.
+L420143 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I trusted Mitchell.  It was that damn big mouth wife of his.
+L420142 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Mr. Hoover was a realist.
+L420141 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... Y'know Al, if Hoover was alive none of this would've happened.  He would've protected the President.
+L420140 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... go on.
+L420139 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Sorry ...
+L420134 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ It's marked.  Also there's June twenty third.  And this year -- March twenty first.  Those are the ones ...
+L420133 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ This is June twentieth?
+L421326 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Sir ... six bodies.
+L421325 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... There can be no whitewash at the White House ... two wrongs do not make a right.  I love America.  God bless America and God bless each and every one of you.
+L421324 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No ...
+L421323 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ More light, chief?
+L421240 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ For God's sake, when does this end?!
+L421239 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Helms wants Iran or there might be problems.  All of his old CIA buddies are over there making a fortune off the Shah.
+L421236 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Townsend gave us 300 grand.  Belgium's not worth more than 100, 150 ...
+L421235 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Put Townsend in Belgium; it's available.
+L421234 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I promised Iran to Townsend.
+L421233 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ He'll give us the documents.  But I think he should be offered the ambassadorship to Iran.  Then he'll go without a whimper.
+L421232 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ What about the documents he promised?
+L421231 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ ... I was wondering what's such dynamite in this Bay of Pigs story?  ... although it was clearly effective, because all of a sudden it was no problem for Helms to go to the FBI and try to put a lid on Watergate.
+L421226 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ When I met with him, he said ...
+L421225 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ How?
+L421224 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ We could leverage Helms.
+L421223 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's Helms -- it's got to be.
+L421222 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ We've got to turn the faucet off on this thing.  It's out of control ...  You might burden just me with this in the future.
+L421217 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ He'll be looking in his toilet bowl every time he pulls the chain.
+L421216 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ You played it perfectly, sir -- cocksucker!  He's going to think twice before he leaks again.
+L421202 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... worrying whether someone said something "nice" about them.  All short-term, frivolous bullshit; Ben Bradlee worrying about Teddy Kennedy liking him ...
+L421201 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ ... beating out the other papers, chasing girls ...
+L421200 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You know why they're turning on me? They're not serious about power, that's why.  They're playing with power.  They're forgetting the national interest.  In the old days, people knew how to hold power, how to set limits.  They wouldn't have torn this country apart over a third-rate burglary. All they care about now are their egos, looking good at cocktail parties ...
+L421199 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Why would they?!  Who the hell's Sulzberger anyway?  Their parents are gold traders from Eastern Europe. They buy things.  They come to Jew York City and they buy up things.  One of the things they buy is the New York Times.  And you know what?  Be proud because they'll never trust you, sir, because we speak for the average American.
+L421198 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Right.  They don't trust!  They don't trust America!
+L421197 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Because they're not Americans.
+L421174 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ We ought to fire his whining ass. Right now when he's on top.  You know what -- it'll set the right example for the rest of this administration.
+L421173 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ My God, my God!  He talked to the New York Times?
+L421172 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ So that explains his press notices. Working both sides of the fence: Jewboy Henry, always trying to get his Nobel Prize, get laid ...
+L421166 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ This could be it ... this could be it. Four long years ...
+L421165 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Congratulations, boss.  A great victory!  The madman theory wasn't so crazy after all.
+L421163 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The presidency won't protect us, Bob. We're beyond politics now ...
+L421162 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Sir?
+L421161 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... but even the presidency isn't enough anymore ...
+L421160 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ I believe you're right, boss.
+L421159 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You know, they all miss the point. Probably our biggest achievement as an administration, when it's all said and done, isn't China or Russia.  It's pulling out of Vietnam without a right wing revolt.
+L421149 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Let him finish, Bob.
+L421148 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Gentlemen, I think it's about time for us to be getting to the airport.
+L421120 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Don't let it lose us the right-wing vote ...
+L421119 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ The blacks are lost, the "schwartzes" are gone ...
+L421118 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You're talking too much about black Africa, Henry.  It's killing us with the rednecks.
+L421117 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ The Jews aren't the middle, Henry. They're the far left.
+L421112 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Wait till the Mai-tais wear off.
+L421111 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ And his staff.  Come on, the copy they were filing from China was great.
+L421031 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... "The Beast."  A nineteen-year-old kid.  She understands the nature of "the Beast."  She called it a wild animal.
+L421030 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Sir?
+L421029 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ She understood something it's taken me twenty-five fucking years in politics to understand.  The CIA, the Mafia, the Wall Street bastards ...
+L421028 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ What?
+L421027 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ She got it, Bob.  A nineteen-year-old college kid ...
+L421026 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Don't forget, the most important thing in your life is your relationship with your Maker ...  Don't forget to be on God's side.
+L421025 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ We really must go, Mr. President.
+L421013 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's okay, Bob, we're just rapping, my friends and I.  We actually agree on a lot of things ...
+L421012 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Mr. President!
+L420873 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Yeah, we've got to get our vice president off the golf course and back there on the college circuit.  That's top priority.
+L420872 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ But, hell, this is nothing compared to Venezuela.  When I was Vice President, Ike sent me down there like a blocking back.  They threw rocks, broke out our windows, almost overturned the car. Read Six Crises, Bob.  Boy, Pat was brave!
+L420867 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's the parents' fault really.
+L420866 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Don't forget the South, sir, the West. Filled with the good football colleges, straight kids.  There's more of 'em with you than against you.  Not like these mudmutts.
+L420865 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ There's a poison in the upper classes, Bob.  They've had it too soft.  Too many cars, too many color TVs ...
+L420864 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Probably flunking, nothing to do except come down here and meet girls. Henry's out there with them.
+L420863 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Get that little fucker!  Great tackle! Reminds me of my days at Whittier. Most of these kids are useless.
+L420862 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Run 'em over.
+L420861 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No ... a little deficit won't hurt. Jesus, they're serious.  Why're we stopping?
+L420860 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ ... and we've got the economic guys at five.  The Dow lost another 16 points. They're going to want a decision on the budget.  Sir?  ... Are we holding the line on a balanced budget?
+L420845 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I tell you, the soldiers were provoked.  Now stop this pussyfooting around.  Dead kids!  How the hell did we ever give the Democrats a weapon like this?  I mean, if Cambodia doesn't work, we'll bomb Hanoi if we have to.
+L420844 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ ... never complain, never explain, John ...
+L420831 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ These kids are being manipulated by the Communists.  Like Chambers and Hiss.
+L420830 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Sir?
+L420829 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Money.  Follow the money.
+L420828 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Well, one way or the other, Kent State is not good.  We have to get out in front of this thing.  The PR is going to murder us.
+L420745 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ They had us bugged.  Christ, he had everybody bugged.  Yeah, he was gonna support me in '68, but he was also threatening me.  That was Hoover: he'd give you the carrot, but he'd make damn sure the stick went right up your ass.
+L420744 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ If they didn't tell Kennedy about Track 2, how did Hoover find out?
+L420742 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I didn't want him to get the credit. He said I'd stabbed him in the back. Called me a two-bit grocery clerk from Whittier.
+L420741 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ You never told him?
+L420740 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... he'd just found out about Track 2.
+L420739 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Because he didn't even know about it. The CIA never told him, they just kept it going.  It was like ... it had a life of its own.  Like ... a kind of "beast" that doesn't even know it exists.  It just eats people when it doesn't need 'em anymore.  Two days after the Bay of Pigs, Kennedy called me in.  He reamed my ass ...
+L420738 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Alright.  But why, if Kennedy is so clean in all this, didn't he cancel Track 2?
+L420737 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Because ... because Dick Helms knows too much ... If anyone in this country knows more than I do, it's Hoover and Helms!  You don't fuck with Dick Helms!  Period.
+L420736 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ So?  You wanted Castro dead. Everybody wanted Castro dead.  If Hunt and the others are CIA, why don't we just throw this back in the CIA's lap? Let Richard Helms take the fall?
+L420735 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ And not just Hunt.  Frank Sturgis, all those Cubans.  All of them in the Watergate.  They were involved in Track 2 in Cuba.  Hunt reported to my military aide. But I met with him several times as Vice President.  That's what worries the shit out of me.  I don't know how much Hunt knows.  Or the Cubans.
+L420734 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Jesus!
+L420733 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ He didn't veto it.  I ran the White House side.  The mob contact was Johnny Roselli.  One of the CIA guys was that jackass, Howard Hunt.
+L420732 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Before?!  Eisenhower approved that?
+L420731 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The first assassination attempt was in '60, just before the election.
+L420730 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Chile, Congo, Guatemala, Cuba. Wherever's there's a need for an Executive Action capability, there's a Track 2.  In Cuba, Track 1 was the Bay of Pigs invasion.  Track 2 ... it was our idea.  We felt the invasion wouldn't work unless we got rid of Castro.  So we asked ourselves -- who else wants Castro dead?  The Mafia, the money people.   So we put together Track 2 ...
+L420729 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ I don't understand.  Track 2's Chile?
+L420728 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yeah, but Roselli wasn't just any gangster.  He was the gangster who set up Track 2 in Cuba.
+L420727 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ What?  That he knew Johnny Roselli? Hoover knew a lot of gangsters.
+L420726 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ He wasn't protecting me.  He was putting me on notice.
+L420644 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I, unlike Senator Kennedy, have a plan to end the war.  But not for peace at any price, but peace with honor!
+L420643 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Cue the crowd.  Go to the woman's group.  Get the bald guy, he's great ...
+L420440 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No!
+L420439 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Dick, you don't have to make a statement.  Herb covered it for you.
+L420438 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Where are they?
+L420343 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The bastard!  If I'd called his shot on Cuba I would've won.  He made me look soft.
+L420342 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Meanwhile, what happens to the country?
+L420330 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... an open invitation for Mr. Khrushchev to become involved in Latin America.  We would lose all our friends in Latin America.
+L420329 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ He's treading water.  Don't mention Khrushchev.
+L420328 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I think ... I think ... that's the sort of very dangerous and irresponsible suggestion that ... helping the Cuban exiles who oppose Castro would, uh ... not only be a violation of international law, it would be ...
+L420314 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ He wouldn't do the makeup.  Said it was for queers.
+L420313 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... When we consider the lineup of the world, we find there are 590 million people on our side, 800 million on the Communist side, and 600 million who are neutral.  The odds are 5 to 3 against us ...
+L420301 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Yes, sir.  I'll talk to Helms, and, uh ... what's our press position on this Watergate thing?  What do I tell Ziegler to tell them?
+L420300 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No, no, not tonight.  Don't let her in here.  I have too much to do.
+L420299 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ I'll talk to Helms.  Oh, Pat asked if you're coming to the Residence for dinner tonight.
+L420298 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ This isn't a "moral" issue, Bob.  We have to keep our enemies at bay or our whole program is gonna go down the tubes.  The FBI is filled with people who are pissed that I put Gray in and not one of their own.  Vietnam, China, the Soviet Union: when you look at the big picture, Bob, you'll see we're doing a hell of a lotta good in this world.  Let's not screw it up with some shit-ass, third-rate burglary.
+L420297 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Sir?
+L420296 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I suppose you thought the Presidency was above this sort of thing.
+L420295 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Because the President says it is.  My job is to protect this country from its enemies, and its enemies are inside the walls.
+L420294 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ How is this national security?
+L420293 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's got nothing to do with justice. It's national security.
+L420292 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ The only problem with that, sir -- it gets us into obstruction of justice.
+L420291 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Christ, you're right -- Gray makes Jerry Ford look like Mozart.  Just have Helms call him.  Helms can scare anybody.
+L420290 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ He'll need a pretext.  He'll never figure one out for himself.
+L420289 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Pat Gray'll do anything we ask him. That's why I appointed him.
+L420288 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Yes, sir, but ... do you think Gray'll go for it?
+L420287 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Just do what I say, Bob.
+L420286 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ The Bay of Pigs? ... That was Kennedy's screw-up.  How does that threaten us?
+L420285 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Play it tough.  That's the way they play it and that's the way we're going to play it.  Don't lie to Helms and say there's no involvement, but just say this is sort of a comedy of errors, bizarre, without getting into it.  Say the President believes it's going to open up the whole Bay of Pigs thing again.  Tell Helms he should call the FBI, call Pat Gray, and say that we wish for the sake of the country -- don't go any further into this hanky-panky, period!
+L420284 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ All right.
+L420283 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We've got to turn off the FBI.  You just go to the CIA, Bob, and tell Helms that Howard Hunt is blackmailing the President.  Tell him that Hunt and his Cuban friends know too damn much, and if he goes public, it would be a fiasco for the CIA.  He'll know what I'm talking about.
+L420282 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ That's right, and it's more a problem for Ehrlichman.  He fixed Hunt up with the phony CIA ID's, but ... what else does Hunt have on us?
+L420281 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Uh, no one, of course, is going to see these tapes, but ...
+L420280 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ You approved that before the fact, because I went over it with you.  But ...
+L420279 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Bob, did I approve the Ellsberg thing? You know, I'm glad we tape all these conversations because ... I never approved that break-in at Ellsberg's psychiatrist.  Or maybe I approved it after the fact?  Someday we've got to start transcribing the tapes.
+L420277 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No, keep Trini out of this. Chotiner's too old.  And for God's sake, keep Colson out.  It's time to baptize our young counsel.  That means Dean can never talk about it.  Attorney-client privilege.  Get to it.  And Dean -- you stay close on this.
+L420276 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Should we talk to Trini about paying these guys?  Or maybe Chotiner?
+L420270 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ We'll work on it.  I say we cut ourselves loose from these clowns and that's all there is to it.
+L420269 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ "National security priority restricted and controlled secret."
+L420266 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ "National Priority."
+L420265 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ How about a COMINT classification?  We put it on the Huston plan.  Even the designation is classified.
+L420264 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ "Security" is not strong enough.
+L420263 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ But, sir, you're covered -- no one here gave orders to break into the damned Watergate.  We're clean.  It's only the Ellsberg thing, and if that comes out, it's "national security."
+L420262 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Silence!
+L420261 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ But what are we paying him for?
+L420253 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ What do you mean, sir?
+L420252 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Howard Hunt? ... Jesus Christ, you open up that scab ... and you uncover a lot of pus.
+L420229 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Our own intelligence capability -- to fix the leaks?
+L420228 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Well, why not?
+L420201 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ We were working on China.
+L420200 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Fucking hell.
+L420199 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ It was right after the Pentagon Papers broke.  They went in to get his psychiatric records.
+L420198 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I did?
+L420197 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Yes, you approved it, sir.
+L420196 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I had nothing to do with that.  Was he ... in the Ellsberg thing?
+L420195 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Definitely.  Colson had him trying to break into Bremer's apartment after Bremer shot Wallace, to plant McGovern campaign literature.
+L420194 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ On the list of horribles, I know what he is.  And I know what he tracks back to.  You say he was involved in the Plumbers?
+L420191 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Howard Hunt is working for the White House?  No shit!  This is goddamn Disneyland!  Since when?
+L420190 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ He works for Colson.  He used him on the Pentagon Papers.  We're trying to figure out when he officially stopped being a White House consultant.  After the arrest he dumped his wiretapping stuff into his White House safe.
+L420181 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Apparently he was using some campaign cash that was laundered for us through Mexico.  The FBI's onto it.  We could have a problem with that.
+L420180 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ What's Liddy got?
+L420179 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Well, you know, sir, he's a nut.  He used to work here with the "Plumbers" and now he's running this Watergate caper.  You remember his plan to firebomb the Brookings using Cubans as firemen?  He wanted to buy a damned fire truck!  Magruder thinks he's just nutty enough to go off the reservation.
+L420178 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ That fruitcake!  What about him?
+L420177 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ We feel the bigger concern is Gordon Liddy ...
+L420163 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Contributions!  It was a legal contribution.  Who the hell authorized this?  Colson?
+L420162 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ It's possible they were looking for evidence of an illegal Howard Hughes donation to the Democrats, so the Democrats couldn't make an issue of your Hughes money.
+L420161 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Their fourth!
+L420160 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ It was just a fishing expedition. Apparently it was their fourth attempt at the DNC.
+L420159 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ But O'Brien doesn't even use that office.  The Democrats've moved to Miami.  There's nothing there!
+L420158 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Evidently to install bugs and photograph documents.
+L420157 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ They did what?!  I don't understand. Why'd they go into O'Brien's office in the first place?
+L420767 +++$+++ u2328 +++$+++ m150 +++$+++ HANNAH +++$+++ Thou must find thy peace at the center, Richard.  Strength in this life.  Happiness in the next.
+L420766 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ What about happiness, Mother?
+L420765 +++$+++ u2328 +++$+++ m150 +++$+++ HANNAH +++$+++ It's meant to make us stronger.  Thou art stronger than Harold ... stronger than Arthur.  God has chosen thee to survive ...
+L420764 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ Did he have to die for me to get it?!
+L420763 +++$+++ u2328 +++$+++ m150 +++$+++ HANNAH +++$+++ It's a gift, Richard.  This law school is a gift from your brother.
+L420762 +++$+++ u2328 +++$+++ m150 +++$+++ HANNAH +++$+++ Thou must.
+L420761 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ I can't ...
+L420390 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ Is it my turn?
+L420389 +++$+++ u2328 +++$+++ m150 +++$+++ HANNAH +++$+++ We haven't said grace yet.  Richard.
+L420386 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ Mother, think of me always as your faithful dog ...
+L420385 +++$+++ u2328 +++$+++ m150 +++$+++ HANNAH +++$+++ Then this shall be our little secret.  Remember that I see into thy soul as God sees.  Thou may fool the world. Even thy father.  But not me, Richard. Never me.
+L420384 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ Please!  I'll never let you down again, Mother.  Never.  I promise.
+L420383 +++$+++ u2328 +++$+++ m150 +++$+++ HANNAH +++$+++ I expect more from thee, Richard.
+L420382 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ No, no!  Please, don't.  Don't tell him.  I'll never do it again.  I promise.  I promise ...  Please, mama ...
+L420381 +++$+++ u2328 +++$+++ m150 +++$+++ HANNAH +++$+++ So am I.  Thy father will have to know of thy lying.
+L420380 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ Please, Mother, it ... it was just one time, Mother, I'm ... I'm sorry.
+L420379 +++$+++ u2328 +++$+++ m150 +++$+++ HANNAH +++$+++ I see ... Well then, Richard, we have nothing more to talk about, do we?
+L420378 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ I don't ... have them.  Mother ... I swear, I ... didn't smoke.
+L420377 +++$+++ u2328 +++$+++ m150 +++$+++ HANNAH +++$+++ Do not tell a lie, Richard ... The cornsilk cigarette Harold gave thee behind the store this morning.
+L420375 +++$+++ u2328 +++$+++ m150 +++$+++ HANNAH +++$+++ Harold may have lost touch with his Bible, but thou must never lapse.
+L420374 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ Yes, Mother ...
+L420373 +++$+++ u2328 +++$+++ m150 +++$+++ HANNAH +++$+++ Because Harold tests thy father's will is no reason to admire him.  Let Harold's worldliness be a warning to thee, not an example.
+L420372 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ Why me?
+L420371 +++$+++ u2328 +++$+++ m150 +++$+++ HANNAH +++$+++ Richard ... come with me, would you ...
+L420759 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ You're not gonna quit on me, are you, Harold?
+L420758 +++$+++ u2329 +++$+++ m150 +++$+++ HAROLD +++$+++ Relax, Dick, it's just me ... The desert's so beautiful, isn't it?  I want to go home, Dick.  Time to go home.
+L420757 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ Harold ... can I get you anything?
+L420756 +++$+++ u2329 +++$+++ m150 +++$+++ HAROLD +++$+++ Mom expects great things from you ...
+L420755 +++$+++ u2329 +++$+++ m150 +++$+++ HAROLD +++$+++ Go to law school.  Mom and Dad'll be able to afford it now ...
+L420754 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ What ... ?
+L420753 +++$+++ u2329 +++$+++ m150 +++$+++ HAROLD +++$+++ Hey ... you'll be able to do it now.
+L420369 +++$+++ u2329 +++$+++ m150 +++$+++ HAROLD +++$+++ I'd rather get a whipping than have another talk with her.  Anything but a talk with her.
+L420368 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ Oh, no, Harold.  He doesn't respond well to humor.  Maybe if you talk to Mother she can ...
+L420367 +++$+++ u2329 +++$+++ m150 +++$+++ HAROLD +++$+++ I said I didn't need a free ride.  I need a suit.
+L420366 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ What'd you say?
+L420365 +++$+++ u2329 +++$+++ m150 +++$+++ HAROLD +++$+++ What do you think?  He said in life there's no free ride.
+L420364 +++$+++ u2342 +++$+++ m150 +++$+++ RICHARD +++$+++ What'd he say?
+L420948 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ Black Irishman.  Very moving. "Turning and turning in the widening gyre / The falcon cannot hear the falconer / Things fall apart, the center cannot hold / Mere anarchy is loosed upon the world / And everywhere the ceremony of innocence is drowned / The best lack all conviction, while the worst are full of passionate intensity" ... But it ends so beautifully ominous -- "What rough beast, its hours come round at last / Slouches toward Bethlehem to be born?" ... Yes, this country stands at such a juncture.
+L420947 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No.
+L420946 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ You must be familiar with my favorite poem by Yeats?  "The Second Coming"?
+L420945 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No.  They make me sick.  They smell like death ... I had two brothers die young.  But let me tell you, there are worse things than death.  There is such a thing as evil.
+L420944 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ Flowers are continual reminders of our mortality.  Do you appreciate flowers?
+L420943 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I never thought Jack was ready for the presidency.  But I would never, never consider ...  His death was awful, an awful thing for this country.  Do you ever think of death, Mr. Helms?
+L420942 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ So President Kennedy thought.
+L420941 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Cuba would be a small price to pay.
+L420940 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ By offering Cuba to the Russians as a consolation prize?
+L420939 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ But ... if we were able to separate China from Russia once and for all, we can -- we could create a balance of power that would secure the peace into the next century.
+L420938 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ This is an extremely dangerous direction, Mr. President.  Terrible consequences can result from such enormous errors in judgement.
+L420937 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ Is that why you and Kissinger are negotiating with the Chinese?
+L420936 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ CIA policy?  The CIA has no policy, Mr. Helms.  Except what I dictate to you ...  I try to adjust to the world as it is today, not as you or I wanted it to be ten years ago.
+L420935 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ ... But it has never been the policy of this government to accept that. And it is certainly not CIA policy.
+L420934 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Mr. Helms, we've lived with Communism in Cuba for ten years ...
+L420933 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ It is not my practice to spy on the president.  Doctor Kissinger manages to convey his innermost secrets to the world at large on his own.
+L420932 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Not if you have spies in the White House, it isn't your job.
+L420931 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ My job, unpleasant sometimes, is to know what others don't want me to know.
+L420930 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Are you tapping Kissinger?
+L420929 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ I don't think we can treat this as a formality.  Mr. Kennedy made a verbal promise to the Russians not to invade Cuba.  But you authorized Dr. Kissinger to put this in writing.
+L420928 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Well, we'll lodge a formal protest.
+L420927 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ We have recent intelligence that a Soviet nuclear submarine has docked at Cienfuegos.
+L420926 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yes.
+L420925 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ Mr. Castro.
+L420924 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ What?
+L420923 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ It will take a little time, but I'll order a search for your papers. Though it does raise a disturbing issue.
+L420922 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yes.  And you will give General Cushman full access.
+L420921 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ And of course I accept.  I'm flattered.  And I want you to know, I work for only one president at a time.
+L420920 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Firing you, Mr. Helms, wouldn't do any good.  Of course you'll continue as DCI.  You're doing a magnificent job.
+L420919 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ And me? ...
+L420918 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The President would support a reasonable request for an increase.
+L420917 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ Current levels may not be sufficient.
+L420916 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I promised the American people peace with honor in Southeast Asia.  That could take time -- two, maybe three years ... In the meantime, your agency will continue at current levels of funding.
+L420915 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ Not if I give you all the cards ...
+L420914 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I'm not Jack Kennedy.  Your agency is secure.
+L420913 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ President Kennedy threatened to smash the CIA into a thousand pieces.  You could do the same ...
+L420912 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I'm interested in the documents that put your people together with ... the others.  All of them ...
+L420911 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ Diem?  Trujillo?  Lumumba?  Guatemala? Cuba? ... It's a shame you didn't take similar precautions, Dick.
+L420908 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yes ...
+L420907 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ You're referring, of course, to chairing the Special Operations Group as Vice President.
+L420906 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yes ... It involves some old and forgotten papers.  Things I signed as Vice President.  I want the originals in my office and I don't want copies anywhere else.
+L420905 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ Is there something else that's bothering you, Mr. President?
+L420904 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Screw congressional oversight.  I know damn well, going back to the '50's, this agency reports what it wants, and buries what it doesn't want Congress to know.  Pay close attention to this.
+L420903 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ I'm sure you realize this is a very tricky area, Mr. President, given our charter and the congressional oversight committees ...
+L420902 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Then find something.  And I want these leaks stopped.  Jack fucking Anderson, the New York Times, the State Department -- I want to know who's talking to them.
+L420901 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ Of course we've tried, but so far we've come up with nothing that ...
+L420900 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You're correct.  I'm concerned these students are being funded by foreign interests, whether they know it or not.  The FBI is worthless in this area.  I want your full concentration on this matter ...
+L420899 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ I suppose, "Mister President," you're unhappy that we have not implemented your Domestic Intelligence plan, but ...
+L420897 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ I didn't choose him as my deputy, Mr. President.  You did.
+L420896 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Robert Cushman is a lieutenant general in the Marine Corps, the Deputy Director of the CIA ... and this is what you use him for?
+L420895 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ And so shall I.  Arrange some coffee, would you General Cushman?
+L420894 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ My friends call me "Mister President."
+L420893 +++$+++ u2330 +++$+++ m150 +++$+++ HELMS +++$+++ I'm honored, Dick, that you've come all this way out here to Virginia to visit us at last.
+L420714 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ If things remain as they are ... He's got the anti-war vote.
+L420713 +++$+++ u2347 +++$+++ m150 +++$+++ TOLSON +++$+++ Ummm...
+L420704 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ Would you walk with me down to the paddock?  I'd like to look at the horses for the eighth.
+L420703 +++$+++ u2347 +++$+++ m150 +++$+++ TOLSON +++$+++ ... little Bobby.
+L420684 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ Kennedy -- never.  He'll fry in hell for what he did to me.  But Nixon doesn't know that, which is why I'm gonna have to remind him he needs us a helluva lot more'n we need him.
+L420683 +++$+++ u2347 +++$+++ m150 +++$+++ TOLSON +++$+++ It's between Nixon and a Kennedy again, Edgar ... Who do you want?
+L420682 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ Not Joaquin, you idiot.  Nixon.  Did you hear what he said in Oregon? About me having too much power.
+L420681 +++$+++ u2347 +++$+++ m150 +++$+++ TOLSON +++$+++ Edgar, think twice.  He works in the kitchen.
+L420680 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ I want to see him tomorrow, Clyde.
+L420646 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ He's lying, Clyde.  Always has. That's why Nixon's always been useful. Hold still.  And take your hand off your hip.
+L420645 +++$+++ u2347 +++$+++ m150 +++$+++ TOLSON +++$+++ What do you think this plan is, Edgar? A nuclear attack?
+L421049 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ It won't.  As long as I'm here.
+L421048 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ This damned tie ... Will you help me, Edgar?  Churchill used to say to me, "If you want your own history written properly, you must write it yourself."  All right, Edgar, but just don't let it come back to haunt me.
+L421047 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ No one.  Your property.  It would prove your case.  Why do you think Kissinger's taping your calls?  For history.  His word against yours -- and right now he's got the records.
+L421046 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yeah, you do.  I'd be bugging myself, Edgar ... Who'd get the tapes?
+L421045 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ I always get my man.
+L421044 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Jesus, I'd like to book him into a psychiatrist's office.  He comes in here ranting and raving, dumping his crap all over the place ... Could you prove it, Edgar?
+L421043 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ He's obsessed with his own image.  He wants his Nobel Peace Prize a little too much.  As the late "Doctor" King proved -- even an ape can win a prize with good press.
+L421042 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Kissinger?
+L421041 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ Well, you have CIA people all over the place.  Helms has seen to that.  Then there's Kissinger's staff. Kissinger himself, I believe, maybe the leaker.
+L421040 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Who do you think is behind it?
+L421039 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ That was a mistake.  The White House was full of Kennedy people then.  It still is.
+L421038 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We took his system out.
+L421037 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ Johnson had the same damned problem till he bugged his own office.
+L421036 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We can't keep a goddamn secret in this government, Edgar.  They're stealing papers right out of his office.
+L421035 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ Don't listen to 'em, don't quit. Remember - Kennedy, Bobby, and King were against the war.  Where are they now?  Don't give 'em a goddamn inch on the war.  President Johnson bombed Laos for years and nobody knew or said a thing.  How the hell the Times ever got ahold of this Ellsberg stuff is a disgrace!
+L421034 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The little bastards think they can ruin Tricia's wedding day by dancing naked in the Reflecting Pond.
+L421033 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ Remember what Lenin said in 1917, Mr. President: "The power was lying in the streets just waiting for someone to pick it up."  The Communists have never been closer.  Now is the time to go back to the old themes, the ones that made you president.  Let the Communists know you're onto them.
+L421032 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ There must be a quarter-million out there, Edgar.  They've been at it now for a year.  Young kids just like Tricia.  I don't know.  Do you think they have a point, Edgar?  Maybe this whole damned system of government is ...
+L420725 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The old queen did it on purpose.
+L420724 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ You asked if you could count on my support ... As long as I can count on yours.
+L420723 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yeah, well, as I said, Edgar ...
+L420716 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ I know ...
+L420715 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Or he'll steal it like his brother. He's a mean little sonofabitch, Edgar ... He had the IRS audit my mother when she was dying in a nursing home.
+L420712 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It could be '60 all over again, Edgar. Bobby's got the magic, like a goddamn rock star.  They climb all over each other just to touch his clothes! He'll ride his brother's corpse right into the White House.
+L420711 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ You'll win the nomination.
+L420710 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ I know you've been very careful not to.  That's why I'm concerned.
+L420709 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I never met the man.
+L420708 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ Yes.  Your old friend from Cuba.
+L420707 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Roselli?  Johnny Roselli?
+L420706 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ I'm trying to spare you an embarrassment.  Johnny Roselli is on his way back here.
+L420705 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Can't we just talk here?  I've got the police chiefs in San Diego.
+L420702 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You should ask Bobby.
+L420701 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ How about you?  Are you going to win?
+L420700 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Oh, my goodness ...
+L420698 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ Actually, I've just had a bit of luck.
+L420697 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Winning?
+L420696 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ Thank you for coming, Dick.
+L420679 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ Turn this crap off, Clyde.  It's giving me a headache ... You may go, Joaquin.
+L420678 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ My father built the house where I was born with his own hands.  Oh, it wasn't a big house ...
+L420673 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It was the poorest lemon ranch in California, I can assure you.  My father sold it before they found oil on it.
+L420672 +++$+++ u2331 +++$+++ m150 +++$+++ HOOVER +++$+++ It was the poorest lemon ranch in California, I can tell you that.  My father sold it before they found oil on it.
+L421073 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ I won't tell him if you won't.
+L421072 +++$+++ u2346 +++$+++ m150 +++$+++ STURGIS +++$+++ So, does Tricky Dick know about this?
+L421071 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ Just don't tell him to do anything you don't really want him to do.
+L421070 +++$+++ u2346 +++$+++ m150 +++$+++ STURGIS +++$+++ Where'd you find him?
+L421066 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ A guy named Gordon Liddy.  Thinks he's Martin Borman.  You wanna meet him?
+L421065 +++$+++ u2346 +++$+++ m150 +++$+++ STURGIS +++$+++ Who we working for?
+L421064 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ We're gonna be plumbers, Frank.  We're gonna plug a leak.
+L421063 +++$+++ u2346 +++$+++ m150 +++$+++ STURGIS +++$+++ You're fucking me.
+L421062 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ The White House.
+L421061 +++$+++ u2346 +++$+++ m150 +++$+++ STURGIS +++$+++ Why, you got a customer?
+L421060 +++$+++ u2346 +++$+++ m150 +++$+++ STURGIS +++$+++ They're around.
+L421059 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ Injections.  Even this noble sport's been fixed.  Seen the guys?
+L421058 +++$+++ u2346 +++$+++ m150 +++$+++ STURGIS +++$+++ How the fuck did you know?
+L420123 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ Personally, I'll be calling the President of the United States.
+L420122 +++$+++ u2335 +++$+++ m150 +++$+++ LIDDY +++$+++ Anything goes wrong, head for your homes, just sit tight -- you'll hear from me or Howard.
+L420121 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ Let's get the fuck out of here, shall we, ladies?
+L420118 +++$+++ u2335 +++$+++ m150 +++$+++ LIDDY +++$+++ Remember -- listen up!  Fire team discipline is there at all times. Keep your radios on at all times during the entire penetration.  Check yourselves.  Phony ID's, no wallets, no keys.  We rendezvous where?  The Watergate, Room 214.  When?  At zero three-hundred.
+L420117 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ Personally I'd prefer a greyhound with a shot of speed.
+L420116 +++$+++ u2335 +++$+++ m150 +++$+++ LIDDY +++$+++ "A warrior with nerves of steel is yet broken by a thread of silk." Nietzsche.
+L420115 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ Mein Kampf?
+L420114 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ Dogs ... Season starts tomorrow.  It keeps me calm.  I don't like going back into the same building four times.
+L420113 +++$+++ u2335 +++$+++ m150 +++$+++ LIDDY +++$+++ Howard ... What the hell?  What're you doing?
+L421156 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Presidents don't threaten.  They don't have to.  Good day, gentlemen.
+L421155 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ Well, goddamn.  Are you threatening me, Dick?
+L421154 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Because if you're uncomfortable with the EPA up your ass, try the IRS ...
+L421151 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The American people put me where I am.
+L421150 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ ... And now I have a federal judge ordering me to bus my kids halfway 'cross town to go to school with some nigger kids. I think, Mr. President, you're forgetting who put you where you are.
+L421147 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ I mean I got federal price controls on my oil.  The ragheads are beating the shit out of me.  And I got your EPA environment agency with its thumb so far up my ass it's scratching my ear.
+L421146 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ What do you mean, Jack?
+L421145 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ Desi's got a point.  What the hell are we gonna do about the Communists right here in our backyard?!
+L421136 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's nobody's fault, Jack.  It's change -- which is a fact of history. Even that old cocksucker Hoover's dead.  Things change.
+L421135 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ And whose fault is that?  If we'd won in Vietnam ...
+L421134 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Jack, we're not living in the same country you and I knew in '46.  Our people are just not gonna sacrifice in major numbers for war.  We can't even get 'em to accept cuts in their gas tanks.  Hell, the Arabs and the Japanese are bleeding the shit out of our gold ..
+L421133 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ It looks like to me we're gonna lose the war for the first goddamned time and, Dick, goddamn it, you're going along with it, buying into this Kissinger bullshit -- "detente" with the Communists.  "Detente" -- it sounds like two fags dancing.
+L421132 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ Well, you sure been chock full of surprises so far, "Mister President."
+L421131 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's me or Wallace, Jack.  Wallace's third party is only going to help McGovern.  I need your support.
+L421130 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ So, what's this about, Dick?
+L420575 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Nobody's gonna beat Kennedy in '64 with all the money in the world.
+L420574 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ That sonofabitch Kennedy is coming back down here tomorrow.  Dick, we're willing to put up a shitpot fulla money to get rid of him -- more money'n you ever dreamed of.
+L420573 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Only if Kennedy dumps Johnson.
+L420572 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ Dick, these boys want you to run.  They're serious.  They can deliver the South and they can put Texas in your column.  That would've done it in '60.
+L420571 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Gentlemen, I tried.  I told Kennedy to go into Cuba.  He heard me and he made his decision.  I appreciate your sentiments.  I've heard them from many fine Cuban patriots, but it's nothing I can do anything about.  Now, it's a long drive back to Dallas tonight, and Trini and I have got an early flight tomorrow to New York ...
+L420569 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Agreed.
+L420568 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ Hell, Kennedy's pissed Cuba away to the Russians.  And he don't know what the hell he's doing in Vietnam.  These are dangerous times, Dick, especially for business ...
+L420544 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ He's all business, ain't he, Trini?  Dick, we could've had our own goddamn lawyers handle this deal.  We brought you down here 'cause we wanted to talk to you ...
+L420543 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ By the way, Jack, this looks like a pretty straight-forward transaction to me, but we should get into it soon -- just take a few minutes, maybe up at the house ...
+L420542 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ Her name's Sandy ...
+L420541 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ She's quite pretty.
+L420540 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ I know for a fact that the one with the big tits is a Republican, and she'd do anything for the Party.
+L420538 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ We'll see about that.
+L420537 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Like you said Jack, I'm just a New York lawyer now.
+L420534 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Well, uh, Trini and I have an early plane.  We were hoping to get back to New York in time for ...
+L420533 +++$+++ u2333 +++$+++ m150 +++$+++ JONES +++$+++ Party ain't started yet, Dick.  Got these gals coming over to the ranch later for a little private "thing," y'know ... There's some fellows I want you to meet.
+L420532 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Thanks, Jack.  You sure throw a helluva party.
+L421522 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Don't be too proud; never be too proud to go on your knees before God.
+L421521 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ Not at all.  This is not going to leak, is it?
+L421520 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... Uh, I hope this doesn't embarrass you.
+L421519 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yes.  My mother used to pray ... a lot.  It's been a long time since I really prayed.  Let's pray, Henry; let's pray a little.
+L421518 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ Uh ... not really.  You mean on my knees?
+L421517 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Do you ever pray?  You know ... believe in a Supreme Being?
+L421516 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ You have many friends ... and admirers ...
+L421515 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Don't be stupid.  The world needs you, Henry; you always saw the big picture. You were my equal in many ways.  You're the only friend I've got, Henry.
+L421514 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ If they harass you, I, too, will resign.  And I will tell the world why.
+L421513 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ That depends who writes the history books.  I'm not a quitter ... but I'm not stupid either ... A trial would kill me -- that's what they want.  But they won't get it.
+L421512 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ They will understand, sir.  To be undone by a third-rate burglary is a fate of biblical proportions.  History will treat you far more kindly than your contemporaries.
+L421511 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yes, you always had a good sense of timing, Henry.  When to give and when to take. How do you think Mao, Brezhnev will react?  Do you think this is how they'll remember me, Henry, after all the great things you and I did together? As some kind of ... of ... crooks?
+L421477 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ Oh God, I'm going to throw up.
+L421476 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... because people have got to know whether or not their President is a crook.  Well, I am not a crook.  I have never made a dime from public service ...
+L421475 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ Can you imagine what this man would have been had he ever been loved?
+L421215 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yeah ...
+L421214 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ Mr. Nixon, it is possible for even a president to go too far.
+L421213 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Resent it all you want, Henry, but you're in it with the rest of us. Cambodia, Ellsberg, the wiretaps you put in.  The President wants you to know you can't just click your heels and head back to Harvard Yard.  It's your ass too, Henry, and it's in the wind twisting with everyone else's.
+L421212 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ I had nothing to do with that, sir, and I resent any implication ...
+L421211 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ That doesn't matter now, Henry.  The point is, you might lose some of your media-darling halo if the press starts sniffing around our dirty laundry.
+L421208 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Idiotic?  Yes, I suppose it was.
+L421207 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ I ... I heard something ... It sounded idiotic.
+L421206 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ All kinds of shit would come out. Like the Ellsberg thing.  You knew about that, Henry, didn't you?
+L421205 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ But it must be done; your government is paralyzed.
+L421204 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Housecleaning?  It would be ugly, Henry, really ugly ...
+L421116 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Jews and Negros don't win elections, Henry.  Better to hang them around the Democrats' necks.
+L421115 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ You'll pick up the middle on this one - the Jews and Negros.
+L420847 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ We have to entertain the possibility ...
+L420846 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ That's right!  And if necessary, I'll drop the big one.
+L420827 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ This is a major coup, gentlemen -- our own State Department doesn't even know.  And if it leaks out of here tonight ...
+L420826 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ Mr. President, this cannot be breathed!  Especially to our secretary of state -- that cretin Rogers ... The Chinese would never trust us again. The only way, I emphasize only way, to pull this off is in secret.
+L420825 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ This will get me a second term.  Damn it, without risk, there's no heroism. There's no history.  I, Nixon, was born to do this.
+L420818 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ That's what geopolitics is about -- the whole world linked by self interest ... You tell me, Ron, how the hell I can explain that on television to a bunch of simple-minded reporters and weeping fucking mothers!
+L420817 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ Exactly, yes, Mr. President.  That is my contention.
+L420816 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ That's triangular diplomacy, gentlemen.
+L420811 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No one understands! -- even my own men.  What do you think the Communists respond to?  Honesty, liberal guilt, soul-wringing crap, fathers on TV crying?  Hell no!  I understand the Communist mind, I've studied it for thirty years.  They grasp "realpolitik" better than any of us, right, Henry?
+L420810 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ Exactly, sir.  That is your historical contribution: to lead boldly in an era of limits.
+L420782 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ What I think is ... they're cowards. Their opposition represents the cowardice of the Eastern Establishment.  They don't realize as you do, Mr. President, that the Communists only respect strength, and they will only negotiate in good faith if they fear the "madman," Richard Nixon.
+L420781 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I didn't ask what your staff thinks, Henry.  What do you think?
+L420780 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ Well, as you know, most of my staff have weighed in against this "incursion."  They believe it will fail to achieve anything fundamental militarily, and will result in crushing criticism domestically ...
+L420521 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ But they all got it back again, didn't they?  We should have lunch sometime.
+L420520 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Churchill, DeGaulle, Disraeli.  They all went through the pain of losing power.
+L420519 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ Finally someone who's noticed!  I'm a great admirer of yours, too, Mr. Nixon.  You are an unusual politician. We share a mutual idol -- "Six Crises" sounds like a page from Churchill.
+L420518 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... as the old alliances crumble.
+L420249 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We're gonna hit him so hard he looks like everything that's sick and evil about the Eastern Establishment.  You and your "plumbers" are gonna find dirt on this guy -- let's see him going to the bathroom in front of the American public!  And when we finish with him, they'll crucify him!
+L420248 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ There's no other choice.
+L420247 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Alright, Henry -- we're gonna go your way.  Crush this Ellsberg character the same way we did Hiss!
+L420226 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... and what do we get for it?  Gobs and gobs of bullshit, gossip, nothing! Someone is leaking. We've got to stop the leaks, Henry, at any cost, do you hear me?  Then we can go for the big play -- China, Russia.
+L420225 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ Who are you talking to like this, you insignificant shit ...
+L420215 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ He's turned into a drug fiend, he shot people from helicopters in Vietnam, he has sexual relations with his wife in front of their children.  He sees a shrink in L.A.  He's all fucked up. Now he's trying to be a hero to the liberals ... If he gets away with it, everybody will follow his lead.  He must be stopped at all costs.
+L420214 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No, Henry.  I don't.
+L420213 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ He was, he was.  We taught a class together at Harvard.  But you know these back-stabbing Ivy League intellectuals, they can't ...
+L420212 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's your people who are leaking to the Times.  Wasn't this Ellsberg a student of yours at Harvard?  He was your idea; why are you suddenly running for cover?
+L420211 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ I beg your pardon --
+L420210 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Fuck it!  He doesn't like me, John!  It's your fault, Henry.
+L420204 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Here, Tim ... Tim.  I'm as frustrated as you, Henry, but don't you think this one's a Democrat problem.  They started the war; it makes them look bad.
+L420203 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ Mr. President, we are in a revolutionary situation.  We are under siege -- Black Panthers, Weathermen; The State Department under Rogers is leaking like a sieve.  And now this insignificant little shit Ellsberg publishing all the diplomatic secrets of this country will destroy our ability to conduct foreign policy.
+L421089 +++$+++ u2337 +++$+++ m150 +++$+++ MAO +++$+++ How a fat man gets so many girls.
+L421088 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ Secret, Mr. Chairman?
+L421087 +++$+++ u2337 +++$+++ m150 +++$+++ MAO +++$+++ Fung pi!   I've only managed to change a few things around the city of Beijing.  I want to know your secret.
+L421086 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ But your writings have changed the world, Mr. Chairman.
+L421085 +++$+++ u2337 +++$+++ m150 +++$+++ MAO +++$+++ What a waste of time.  My writings mean absolutely nothing.
+L421084 +++$+++ u2334 +++$+++ m150 +++$+++ KISSINGER +++$+++ You know, Mr. Chairman, at Harvard I used your writings in my class.
+L420993 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ How did he do that?  All those kids ... Why do they hate me so much?
+L420992 +++$+++ u2336 +++$+++ m150 +++$+++ MANOLO +++$+++ I don't know.  He made me see the stars ...
+L420991 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Why?
+L420990 +++$+++ u2336 +++$+++ m150 +++$+++ MANOLO +++$+++ Yes.
+L420989 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Did you cry when he died?
+L420988 +++$+++ u2336 +++$+++ m150 +++$+++ MANOLO +++$+++ He was a politician.
+L420987 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You don't think he was a hero?
+L420986 +++$+++ u2336 +++$+++ m150 +++$+++ MANOLO +++$+++ That was Mr. Kennedy.
+L420985 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We let you down, didn't we.  Your people.
+L420984 +++$+++ u2336 +++$+++ m150 +++$+++ MANOLO +++$+++ Yes, Mr. President.
+L420983 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Do you miss Cuba, Manolo?
+L420982 +++$+++ u2336 +++$+++ m150 +++$+++ MANOLO +++$+++ Of course.
+L420981 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Just ... uh ... you know.
+L420980 +++$+++ u2336 +++$+++ m150 +++$+++ MANOLO +++$+++ I was asleep, Mr. President.  What can I get you?
+L421095 +++$+++ u2337 +++$+++ m150 +++$+++ MAO +++$+++ The real war is in us.  History is a symptom of our disease.
+L421094 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Civil war is always the cruelest kind of war.
+L421093 +++$+++ u2337 +++$+++ m150 +++$+++ MAO +++$+++ You're too modest, Nixon.  You're as evil as I am.  We're both from poor families.  But others pay to feed the hunger in us.  In my case, millions of reactionaries.  In your case, millions of Vietnamese.
+L421092 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I was the lesser of two evils.
+L421091 +++$+++ u2337 +++$+++ m150 +++$+++ MAO +++$+++ You know, I voted for you in your last election.
+L421083 +++$+++ u2337 +++$+++ m150 +++$+++ MAO +++$+++ That has the added virtue of being true.
+L421082 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Mr. Chairman, there is an old saying: The enemy of my enemy is my friend.
+L421081 +++$+++ u2337 +++$+++ m150 +++$+++ MAO +++$+++ Don't ever trust them.  They never tell the truth or honor their commitments.  Vietnamese are like Russians.  Both are dogs.
+L421079 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We know you've taken a great risk in inviting us here.
+L421078 +++$+++ u2337 +++$+++ m150 +++$+++ MAO +++$+++ Looks can be deceiving ...
+L421077 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I must say you look very good, Mr. Chairman.
+L421142 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Kissinger's misunderstood.  He pretends to be a liberal for his Establishment friends, but he's even tougher than I am ...
+L421141 +++$+++ u2338 +++$+++ m150 +++$+++ MITCH +++$+++ How about Kissinger along with him?
+L421140 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We're gonna get rid of him -- Allende, I mean -- just as fast as we can. He's on the top of the list.
+L421139 +++$+++ u2338 +++$+++ m150 +++$+++ MITCH +++$+++ What are you going to do about this Allende fellow nationalizing our businesses in Chile?  You gonna send Kissinger down there?
+L421138 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Free, if you're the president.
+L421137 +++$+++ u2338 +++$+++ m150 +++$+++ MITCH +++$+++ So ... how's the food over there in China, Mr. Nixon?
+L420581 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I came down here to close a deal for Studebaker.
+L420580 +++$+++ u2338 +++$+++ m150 +++$+++ MITCH +++$+++ You just came down here for the weather, right, Mr. Nixon?
+L420579 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yes, well ... Gentlemen, I promised my wife.  I'm out of politics.
+L420858 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Sure, I'd like to offer condolences.
+L420857 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ Get off that.  That leads nowhere. You should offer condolences to the families of those kids.
+L420855 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ That was a long time ago.
+L420854 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It broke my heart when Harold died.
+L420853 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ You're doing the right thing, Dick ... don't let 'em shake you.
+L420852 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ They were throwing rocks, John, just rocks.  They don't think I feel ... but I feel too much sometimes.  I just can't let a whole policy get dominated by our sentimentality.
+L420851 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ It wasn't your fault.  The soldiers were just kids, too.  They panicked.
+L420850 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ My brother Harold was about the same age as those kids, John.  Tuberculosis got him.
+L420849 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ You all right?
+L420833 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ How do you know that, John?  Did we try?  Are we just giving up like the rest of 'em?  What's Hoover found, for God's sake?
+L420832 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ This isn't '48, Dick.  They'll never buy it.
+L420802 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Shit, the press doesn't care about the facts.  Cronkite's sticking it to me. It's their first big hit on Richard Nixon.
+L420801 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ One of the fathers was on the TV saying, "My child was not a bum."  And it's playing like gangbusters.  Hell, Hoover told me one of the girls was a nymph.
+L420800 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Jesus Christ!
+L420799 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ Four.  Two boys.  Two girls.  And eight wounded.
+L420798 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ How many?
+L420624 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Don't worry -- I'll use the old Nixon charm on her.
+L420623 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ You need her, Dick -- in '60 she was worth five, six million votes.
+L420622 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Uh, wait ...
+L420529 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ Make some money, Dick, prove yourself to the Wall Street crowd and let Goldwater and Rockefeller take the fall against Kennedy.
+L420528 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Let's get out of here; it's too painful.  I hate it.  We went bowling last weekend.  Next weekend we're going to the zoo. Whoever said there was life after politics was full of shit.
+L420527 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ That'll be the day.
+L420526 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You're the one who should be in politics, John.  You're tougher than I am.  You never crack.
+L420525 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ The Jewboy's a Harvard whore with the morals of an eel -- sells himself to the highest bidder.
+L420524 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Well, he seems to have bought Kissinger.
+L420523 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ Goes to show you all the moolah in the world can't buy you a brain.
+L420522 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Rocky's full of shit!  No way he's going to get nominated west of the Hudson with a new wife.  He's gonna be drinking Scotches in retirement at some goddamn country club with the rest of the Republicans.
+L420485 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ What the hell -- I love her.  And she's great in bed.
+L420484 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Talks all day, too!  How the hell can you put up with her, John?
+L420483 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ It's a thing she does.  She talks at night.
+L420482 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You mean smashed!  She called up at midnight last week.  Talking a bunch of crap.  Pat can't stand her.
+L420481 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ Sorry, Dick.  She's a little tipsy.
+L420244 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ When they know you've got something to protect, that's when they fuck you!
+L420243 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ Hiss was protecting his wife.  I've always believed that.
+L420242 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ But I wouldn't have if Hiss hadn't lied about knowing Chambers.  The documents were old and out of date, like these Pentagon Papers.  The key thing we proved was that Hiss was a liar.  Then people bought it that he was a spy.  It's the lie that gets you.
+L420241 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ And Dick beat the shit out of them.
+L420240 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You remember, John, in '48 -- no one believed Alger Hiss was a communist. Except me.  They loved Hiss just like they loved this Ellsberg character. East Coast, Ivy League.  He was their kind.  I was dirt to them.  Nothing.
+L420239 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ The lie?
+L420235 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You know, this kinda thing, you gotta be brutal.  A leak happens, the whole damn place should be fired.  Really. You do it like the Germans in World War II.  If they went through these towns and a sniper hit one of them, they'd line the whole goddamned town up and say: "Until you talk you're all getting shot."  I really think that's what has to be done.  I don't think you can be Mr. Nice-guy anymore ...
+L420234 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ It was illegal, what he did.
+L420220 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... but it's not, bottom-line, gonna change a goddamn thing, John.  The question is: How do we screw Ellsberg so bad it puts the fear of God into all leakers?
+L420219 +++$+++ u2339 +++$+++ m150 +++$+++ MITCHELL +++$+++ We can prosecute the New York Times, go for an injunction ...
+L420720 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... Any information you have, Edgar. The sonofabitch is not gonna steal from me again!  Can you back me up on this?  Can I count on your support?
+L420719 +++$+++ u2347 +++$+++ m150 +++$+++ TOLSON +++$+++ ... Use his women.
+L420718 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I wanna fight just as dirty as he does.
+L420717 +++$+++ u2347 +++$+++ m150 +++$+++ TOLSON +++$+++ ... Somebody should shoot the little bastard.
+L420695 +++$+++ u2347 +++$+++ m150 +++$+++ TOLSON +++$+++ Mr. Nixon.
+L420694 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Edgar, wonderful to see you.  Clyde ... hi.
+L420675 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... but it was all we had.
+L420674 +++$+++ u2347 +++$+++ m150 +++$+++ TOLSON +++$+++ But it was all we had.
+L420671 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You all know me.  I'm one of you, I grew up a stone's throw from here on a little lemon ranch in Yorba Linda ...
+L420670 +++$+++ u2347 +++$+++ m150 +++$+++ TOLSON +++$+++ ... give me a break, Mary.
+L421017 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ But change always comes slowly.  I've withdrawn more than half the troops. I'm trying to cut the military budget for the first time in thirty years.  I want an all-volunteer army.  But it's also a question of American credibility, our position in the world ...
+L421016 +++$+++ u2345 +++$+++ m150 +++$+++ STUDENT 2 +++$+++ Come on, man -- Vietnam ain't Germany. It doesn't threaten us.  It's a civil war between the Vietnamese.
+L421011 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ That man up there lived in similar times.  He had chaos and civil war and hatred between the races ... Sometimes I go to the Lincoln Room at the White House and just pray.  You know, the liberals act like idealism belongs to them, but it's not true.  My family went Republican because Lincoln freed the slaves.  My grandmother was an abolitionist.  It was Quakers who founded Whittier, my hometown, to abolish slavery.  They were conservative Bible folk, but they had a powerful sense of right and wrong ... Forty years ago I was looking, as you are now, for answers.  But you know, ending the war and cleaning up the air and the cities, feeding the poor -- my mother used to feed hobos stopping over at our house - none of it is going to satisfy the spiritual hunger we all have, finding a meaning to this life ...
+L421010 +++$+++ u2345 +++$+++ m150 +++$+++ STUDENT 2 +++$+++ What you have to understand, Mr. Nixon, is that we are willing to die for what we believe in.
+L421003 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Right, right.  I used to play a little ball myself at Whittier.  Of course, they used me as a tackling dummy.
+L421002 +++$+++ u2345 +++$+++ m150 +++$+++ STUDENT 2 +++$+++ Ernie Davis.
+L421001 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The Orangemen!  Now there's a football program.  Jim Brown.  And that other tailback ... The one with the blood disease ...
+L421000 +++$+++ u2345 +++$+++ m150 +++$+++ STUDENT 2 +++$+++ Syracuse.
+L420999 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Where you from?
+L420998 +++$+++ u2345 +++$+++ m150 +++$+++ STUDENT 2 +++$+++ You're shittin' me.
+L420997 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Hi, I'm Dick Nixon.
+L420567 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ She must be very attractive.  Would she like an autograph?  She might remember me ... Where's Trini?
+L420566 +++$+++ u2344 +++$+++ m150 +++$+++ SANDY +++$+++ Yeah, she lives in Dallas ...
+L420565 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Uh, is your mother ... still alive?
+L420564 +++$+++ u2344 +++$+++ m150 +++$+++ SANDY +++$+++ ... but it depends on what I'm doing to the music, Dick ...
+L420563 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Oh yeah, he's good.
+L420562 +++$+++ u2344 +++$+++ m150 +++$+++ SANDY +++$+++ Elvis I like, too.
+L420561 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yeah ... Guy Lombardo ...
+L420560 +++$+++ u2344 +++$+++ m150 +++$+++ SANDY +++$+++ I like jazz ...
+L420559 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ What kind of, uh ... music do you like?
+L420558 +++$+++ u2344 +++$+++ m150 +++$+++ SANDY +++$+++ Oh, I like satin, I like pink ...
+L420557 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... I don't really know you yet, Sandy ... What do you like?  I mean, what kind of clothes do you like?  Do you like blue ... red?
+L420550 +++$+++ u2344 +++$+++ m150 +++$+++ SANDY +++$+++ Oh yeah ... she really is ... wholesome.
+L420549 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ That's Julie ... and that's Tricia. She, uh, reminds me a little bit of you ...
+L420548 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Hello ...
+L420547 +++$+++ u2344 +++$+++ m150 +++$+++ SANDY +++$+++ Hi.
+L421024 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Maybe I am.
+L421023 +++$+++ u2348 +++$+++ m150 +++$+++ YOUNG WOMAN +++$+++ It sounds like you're talking about a wild animal.
+L421022 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No, no.  I'm not powerless.  Because ... because I understand the system. I believe I can control it.  Maybe not control it totally.  But ... tame it enough to make it do some good.
+L421021 +++$+++ u2348 +++$+++ m150 +++$+++ YOUNG WOMAN +++$+++ Then what's the point?  What's the point of being president?  You're powerless.
+L421020 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ There's a lot more at stake here than what you want.  Or even what I want ...
+L421019 +++$+++ u2348 +++$+++ m150 +++$+++ YOUNG WOMAN +++$+++ Someone wants it ...  You can't stop it, can you?  Even if you wanted to.  Because it's not you. It's the system.  And the system won't let you stop it ...
+L421015 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I know.  I know.  I've seen a lot of kids die, too, in World War II.
+L421014 +++$+++ u2348 +++$+++ m150 +++$+++ YOUNG WOMAN +++$+++ No, we don't!  You're full of shit! You say you want to end the war, so why don't you?  My brother died over there last November.  Why?  What good was his death?
+L421005 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yes, I understand that.
+L421004 +++$+++ u2348 +++$+++ m150 +++$+++ YOUNG WOMAN +++$+++ We didn't come here to talk about football.  We came here to end the war.
+L421466 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... and get rid of all these "goddamns" and "Jesus Christs"!
+L421465 +++$+++ u2349 +++$+++ m150 +++$+++ ZIEGLER +++$+++ Or we could write "expletive deleted."
+L421461 +++$+++ u2349 +++$+++ m150 +++$+++ ZIEGLER +++$+++ Well, we could delete it.
+L421460 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ And this?!  Good Lord, have you lost your mind?  Nixon can't say this. "Niggers"!
+L421429 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Now some people, we both know them, Al, think you can go stand in the middle of the bullring and cry, "Mea culpa, mea culpa," while the crowd is hissing and booing and spitting on you.  But a man doesn't cry.  I don't cry.  You don't cry ... You fight!
+L421428 +++$+++ u2349 +++$+++ m150 +++$+++ ZIEGLER +++$+++ No, sir ...
+L421427 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ There's more ... there's more than just me.  You can't break, my boy, even when there's nothing left.  You can't admit, even to yourself, that it's gone, Al.  Do you think those POWs in there did?
+L421416 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Fire him.
+L421415 +++$+++ u2349 +++$+++ m150 +++$+++ ZIEGLER +++$+++ Yes, yes.
+L421414 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Of them.
+L421413 +++$+++ u2349 +++$+++ m150 +++$+++ ZIEGLER +++$+++ Sir?
+L421412 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Proud?
+L421411 +++$+++ u2349 +++$+++ m150 +++$+++ ZIEGLER +++$+++ Compassionate.  Grateful.
+L421410 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ So I'm supposed to be ...
+L421409 +++$+++ u2349 +++$+++ m150 +++$+++ ZIEGLER +++$+++ POWs.  And their families.
+L421408 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ What's in there?
+L421407 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ What I know about this country, I ... I could rip it apart.  If they want a public humiliation, that's what they'll get.  But I will never resign this office.  Where the fuck am I?
+L421406 +++$+++ u2349 +++$+++ m150 +++$+++ ZIEGLER +++$+++ That's right.
+L421405 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Shit, plenty of people did their best writing in prison.  Gandhi, Lenin ...
+L421400 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ They sell tickets to an impeachment. Like a fucking circus ... Okay, so they impeach me.  Then it's a question of mathematics.  How many votes do we have in the Senate?
+L421399 +++$+++ u2349 +++$+++ m150 +++$+++ ZIEGLER +++$+++ Sir?
+L421398 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You know, Fred, they sell tickets.
+L421182 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Who the fuck are they?  Bob, are you working on revoking the Posts's television license?  Good.
+L421181 +++$+++ u2349 +++$+++ m150 +++$+++ ZIEGLER +++$+++ Bernstein.
+L421126 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Gentlemen, I go now to discover the exact length, width and depth of the shaft.
+L421125 +++$+++ u2349 +++$+++ m150 +++$+++ ZIEGLER +++$+++ No, they want you, Mr. President.  I really think it would be a good move.
+L421123 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The hell with 'em.
+L421122 +++$+++ u2349 +++$+++ m150 +++$+++ ZIEGLER +++$+++ Mr. President, the press guys asked if you could come back for a minute.
+L420820 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Tell 'em what you like; they'll never understand it anyway.
+L420819 +++$+++ u2349 +++$+++ m150 +++$+++ ZIEGLER +++$+++ But what am I telling the press about Kent State?
+L420813 +++$+++ u2349 +++$+++ m150 +++$+++ ZIEGLER +++$+++ What?  Win Vietnam, sir?
+L420812 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We gotta make 'em think we're just as tough as they are -- that Nixon's a mad bomber, he might do anything!  I played a lot of poker in World War II , and I won big, and let me tell you this -- unpredictability is our best asset.  That redneck Johnson left me with a shitty hand and I'm bluffing.  I've got to play the hawk in Vietnam and the dove in China. And if we keep our heads, we can win this thing.
+L420618 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ And we got the "big mo"!  We're back!
+L420617 +++$+++ u2349 +++$+++ m150 +++$+++ ZIEGLER +++$+++ We got the press this time!
+L421538 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ There'll be time for that.
+L421537 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No ... it's just going to start now ...  If I could just ... If I could just ... sleep.
+L421536 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ It'll be over soon.
+L421446 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ No.  They're not yours.  They are you. You should burn them.
+L421445 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ They were for me.  They're mine.
+L421444 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ And what would I find out that I haven't known for years.  What makes it so damn sad is that you couldn't confide in any of us. You had to make a record ... for the whole world.
+L421442 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You're drunk!
+L421441 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ I remember Alger Hiss.  I know how ugly you can be -- you're capable of anything.  But you see, it doesn't really matter, at the end of the day, what's on them.  Because you have absolutely no remorse.  No concept of remorse.  You want the tapes to get out, you want them to see you at your worst ...
+L421440 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Don't be ridiculous!
+L421439 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ You don't expect me to believe that for one minute, do you?  Does it matter what's on them? Really? ... Murder, Dick?  Sex?  Your secrets, your fantasies?  Or just me and you and ...
+L421437 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ What matters to me is whether you understand it.
+L421436 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You can't expect me to explain that to you.
+L421435 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Why didn't you?
+L421350 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Thank you?  Dick, sometimes I understand why they hate you.
+L421349 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Thank you.
+L421348 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ No, it isn't.  I won't interfere with you anymore.  I'm finished trying.
+L421345 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Brezhnev's coming in three days.  I don't want to deal with them.  And him.  And you.
+L421344 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ I'm the only left, Dick.  If you don't talk to me, you ...
+L421342 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Whatever it is you've always been hiding.  You're letting it destroy you, Dick.  You won't even ask for help.  You're destroying yourself, Dick.
+L421341 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Hiding what?
+L421340 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ I wish I knew.  You're hiding.
+L421339 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ And what am I doing?
+L421338 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ You.  What' you're doing --
+L421337 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ What exactly did you want to discuss, Pat?
+L421335 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No.
+L421334 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Ron told me that Bob Haldeman's been calling.  But you won't talk to him ... if he's convicted, will you pardon him?
+L421333 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Tomorrow.
+L421332 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ When?
+L421331 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yes.
+L421110 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ It's not the press that matters. Nixon's wife is proud of him.
+L421109 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Not for the Pentagon it isn't.  I'm kissing Mao's ass.  And the press is gonna find some way to shaft Nixon on this one.
+L421104 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ How am I going to break this to Bob Hope?
+L421103 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Congratulations, Dick.
+L421101 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ You're a long way from Whittier.
+L421100 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Is that adjusted for inflation?  Think of the life Mao's led.  In '52 I called him a monster.  Now he could be our most important ally.  Only Nixon could've done that.
+L421099 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Penny for your thoughts.
+L420978 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ But they never will, Dick.  No matter how many elections you win, they never will.
+L420977 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No, I don't.  I'm not Jack ...
+L420975 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You've been drinking.  What the hell are you saying?  Jesus, you sound like them now! ...  I've gotta keep fighting, Buddy, for the country.  These people running things, the elite ... they're soft, chickenshit faggots!  They don't have the long-term vision anymore.  They just want to cover their asses or meet girls or tear each other down.  Oh, God, this country's in deep trouble, Buddy ... and I have to see this through.  Mother would've wanted no less of me ... I'm sorry, Buddy.
+L420974 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Sometimes I think that's what you want.
+L420973 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yes!  This is about me.  Why can't you understand that, you of all people? It's not the war -- it's Nixon!  They want to destroy Nixon!  And if I expose myself even the slightest bit they'll tear my insides out.  Do you want that?  Do you want to see that, Buddy?  It's not pretty.
+L420972 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ You personally?
+L420971 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yes!
+L420970 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ They're all your enemies?
+L420969 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I'm not scared, Buddy.  You don't understand.  They're playing for keeps, Buddy.  The press, the kids, the liberals -- they're out there, trying to figure out how to tear me down.
+L420968 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Then what are you scared of, honey?
+L420967 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I do.  I do.  In my own way.
+L420966 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ No, you're not.  So stop comparing yourself to him.  You have no reason to ... You have everything you ever wanted. You've earned it.  Why can't you just enjoy it?
+L420965 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I don't need that, Buddy.  I'm not Jack Kennedy.
+L420964 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Yes, it's been a long time ...
+L420963 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yeah, sure, a long time ago.
+L420962 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ I was thinking tonight -- do you remember, Dick?  Do you remember when you used to drive me on dates with the other boys?  You didn't want to let me out of your sight.
+L420961 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Because ... I have to relax.
+L420960 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Why don't we go down to Key Biscayne together?  Just the two of us.
+L420959 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Are you okay?
+L420958 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ I've missed you.
+L420957 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Hi, Buddy.  What are you doing in here?
+L420952 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I asked him, "Lyndon, what would you do, on a scale of one to ten?"  And he said, "Bomb the shit out of Hanoi, boy!  Bomb them where they live." ... John, do you think I was too soft on TV?
+L420951 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ He looked old, didn't he?
+L420641 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Will you ... would you kiss me?
+L420640 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Anything.
+L420639 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Can I just ask for one thing?
+L420638 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You're the strongest woman I ever met. I love you, Buddy.
+L420637 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Then I'll be there for you.
+L420636 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yes ... you know it!  Yes ... I will. Yeah!
+L420635 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ And then you'll be happy?
+L420634 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ This.  Above all.
+L420633 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Do you really want this, Dick?
+L420632 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It was our dream, too, Buddy, together ... always.
+L420630 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I need you out there.  It won't be like last time.  The war's crippled the Democrats.  I can win ... We deserve it.  Yeah, it's ours, Buddy -- at last.  Nobody knows better than you.  Frank Nixon's boy.
+L420629 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ I don't want them to love me.
+L420628 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ They love you, Buddy.  They need you, too.
+L420627 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ You should be going ... the primaries are soon, aren't they?  New Hampshire ...
+L420626 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Buddy? ...
+L420621 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We ... haven't announced anything ... uh ...
+L420620 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Were you planning to tell me?
+L420596 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ They've lost a brother.  You know what that means, Dick.
+L420595 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No.  It's his way.  He hates me.  Him and Teddy.  They always hated me.
+L420594 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Then call him.  I'm sure it was an oversight.
+L420593 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ De Gaulle's gonna be there.  And Macmillan.  And Adenauer. Nixon can't not be there.
+L420592 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ You don't have to go.
+L420591 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ He doesn't want me at the funeral.
+L420590 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Dick, you should call Bobby.
+L420437 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I'll never run again.  I promise.
+L420436 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Is that the truth?
+L420435 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yeah ... I'm out.
+L420434 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Are you serious?
+L420433 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I'll do it.  No more.
+L420432 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ If I stop ... there'll be no more talk of divorce?
+L420431 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ We can be happy.  We really can.  We love you, Dick.  The girls and I...
+L420430 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Buddy, look at me ... just look at me. Do you really want me to quit?
+L420429 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Dick, don't...
+L420427 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ That's what you said the first time we met.  You didn't even know me.
+L420426 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ This is just what they want, Buddy. Don't you see it?  They want to drive us apart.  To beat us.  We can't let them do it.  We've been through too much together, Buddy ... We belong together.
+L420425 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ No, I'm not!  I'm finished.
+L420424 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Everything's political, for Christ's sake!  I'm political.  And you're political, too!
+L420423 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ You're ruining us.  If we stay with you, you'll take us down with you.  This isn't political, Dick.  This is our life.
+L420422 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It would ruin us, Buddy, our family.
+L420421 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ The girls will grow up.  They only know you from television anyway.
+L420420 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ My God -- divorce?  What about the girls?
+L420419 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ I want a divorce.
+L420418 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ What are you saying?  What are you talking about?
+L420416 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ Not that.  Us.
+L420415 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I'll concede in the morning.
+L420414 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ It's over, Dick.
+L420413 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Amen to that.
+L420412 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ No.  I'm not going to listen to any more speeches ever again.
+L420411 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Don't you want to listen to Brown's victory speech?
+L420407 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Buddy, before you join the jubilation at my being beaten again, you should remember: People vote not out of love, but fear.  They don't teach that at Sunday School or at the Whittier Community Playhouse!
+L420406 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ I suppose Castro staged the whole thing just to beat you.
+L420405 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I sure am.  The goddamned missile crisis united the whole country behind Kennedy.  And he was supporting Brown. People were scared, that's why.
+L420404 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ You're not going to blame this on Castro, are you?
+L420403 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Thank you, Fidel Castro.
+L420363 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You know how much money he had in the bank when he died?  Nothing.  He was so damned honest ...  But I miss him.  I miss him a hell of a lot.
+L420362 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ You're not a failure, Dick.
+L420361 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Maybe I should get out of the game. What do you think, Buddy?  Go back to being a lawyer and end up with something solid, some money at the end of the line ... You know, I keep thinking of my old man tonight.  He was a failure, too.
+L420360 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ It is.  We know that.  And it's enough that we know.  Just think of the girls.  They're still young.  We never see them.  I lost my parents.  I don't want them to lose theirs; I don't want them to grow up without a mother and father ...
+L420359 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ What do you mean?  We worked for it. We earned it.  It's ours.
+L420358 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ We don't have to put ourselves through this again, Dick.
+L420357 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's not fair, Buddy.  I can take the insults; I can take the name-calling. But I can't take the losing.  I hate it.
+L420356 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ It makes us human ...
+L420355 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's hard to lose ...
+L420354 +++$+++ u2341 +++$+++ m150 +++$+++ PAT +++$+++ I know ...
+L420353 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We lost ...
+L420517 +++$+++ u2343 +++$+++ m150 +++$+++ ROCKEFELLER +++$+++ Well, that's wonderful.  So get me this "crisis" thing, Dick; I'll be glad to take a look at it.
+L420516 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No, but I liked your book on nuclear weapons.  We have similar views on the balance of power ...
+L420515 +++$+++ u2343 +++$+++ m150 +++$+++ ROCKEFELLER +++$+++ Hey, you know Henry Kissinger -- he's down from Harvard.  On my staff, foreign policy whiz ...
+L420514 +++$+++ u2343 +++$+++ m150 +++$+++ ROCKEFELLER +++$+++ The Republican Party was never home to extremists.  You should know better. This guy's as stupid as McCarthy, and McCarthy never did you any good in the long run, now did he?
+L420513 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Some say you are, Rocky.
+L420512 +++$+++ u2343 +++$+++ m150 +++$+++ ROCKEFELLER +++$+++ Whatcha predicting -- your boy Goldwater going to split the party?
+L420511 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Well, in any case, Rocky, I'll send you my book.  "Six Crises."
+L420509 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You know: how the voters are gonna play your divorce.
+L420508 +++$+++ u2343 +++$+++ m150 +++$+++ ROCKEFELLER +++$+++ Whatcha mean by that?
+L420507 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Let's wait and see how you survive your first crisis, Rocky ...
+L420506 +++$+++ u2343 +++$+++ m150 +++$+++ ROCKEFELLER +++$+++ Sounds like you got a crisis syndrome. Aren't you exaggerating a bit, Dick? Call it three-and-a-half, maybe four ...
+L420505 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ "Checkers" of course, Hiss, Ike's heart attack, Venezuela, the Kitchen Debate, and Kennedy.
+L420504 +++$+++ u2343 +++$+++ m150 +++$+++ ROCKEFELLER +++$+++ The "crises"?
+L420503 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ What?
+L420502 +++$+++ u2343 +++$+++ m150 +++$+++ ROCKEFELLER +++$+++ Hiya, fellow ... What were they?
+L420501 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Write.  You know, a book.  I'm calling it "Six Crises."  It's a good thing, Rocky -- take some time off to write.
+L420500 +++$+++ u2343 +++$+++ m150 +++$+++ ROCKEFELLER +++$+++ To what?
+L420499 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ But being out of the game gives me time to write.
+L420498 +++$+++ u2343 +++$+++ m150 +++$+++ ROCKEFELLER +++$+++ Someday, Dick.
+L420497 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Lost.
+L420496 +++$+++ u2343 +++$+++ m150 +++$+++ ROCKEFELLER +++$+++ Won or lost?
+L420495 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Never made so much money in my life. But my upbringing doesn't allow me to enjoy it.  I did get to argue a case before the Supreme Court.
+L420494 +++$+++ u2343 +++$+++ m150 +++$+++ ROCKEFELLER +++$+++ Repartee, Dick -- very good.  Hey, I feel ten years younger!  It makes a helluva difference, let me tell ya! How's the lawyer life?
+L420493 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Hi, Happy.  Well, you're obviously making him happy.
+L420492 +++$+++ u2343 +++$+++ m150 +++$+++ ROCKEFELLER +++$+++ Oh, Happy!  Dick Nixon ... You remember him.
+L420491 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Well enough.  You're looking "happy," Nelson.
+L420490 +++$+++ u2343 +++$+++ m150 +++$+++ ROCKEFELLER +++$+++ Howya doin'!  New York treating you okay?  I'm sorry I haven't been able to see you at all--

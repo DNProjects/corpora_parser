@@ -1,0 +1,809 @@
+L84644 +++$+++ u4048 +++$+++ m269 +++$+++ ALLAN +++$+++ Just, uh, just slip the rent under my door.
+L84643 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah, yeah I know. Okay.
+L84642 +++$+++ u4048 +++$+++ m269 +++$+++ ALLAN +++$+++ Dude, uh, tomorrow is already the tenth.
+L84641 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Sure Allan, I'll be there.
+L84640 +++$+++ u4048 +++$+++ m269 +++$+++ ALLAN +++$+++ Dude, I finally got the venue I wanted.  I'm Performing my dance quintet--you know, my cycle--at Crane Jackson's Fountain Street Theatre on Tuesday night, and I'd love it if you came and gave me notes.
+L84639 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Hiya Allan.
+L85182 +++$+++ u4049 +++$+++ m269 +++$+++ BLOND MAN +++$+++ You're not dealing with morons here.
+L85181 +++$+++ u4066 +++$+++ m269 +++$+++ WOO +++$+++ Yeah.  Jackie Treehorn wants to talk to the deadbeat Lebowski.
+L85180 +++$+++ u4049 +++$+++ m269 +++$+++ BLOND MAN +++$+++ And we know which Lebowski you are, Lebowski.
+L85179 +++$+++ u4066 +++$+++ m269 +++$+++ WOO +++$+++ Pin your diapers on, Lebowski.  Jackie Treehorn wants to see you.
+L84448 +++$+++ u4066 +++$+++ m269 +++$+++ WOO +++$+++ He looks like a fuckin' loser.
+L84447 +++$+++ u4049 +++$+++ m269 +++$+++ BLOND MAN +++$+++ What do you think?
+L84446 +++$+++ u4066 +++$+++ m269 +++$+++ WOO +++$+++ Fuck.
+L84445 +++$+++ u4066 +++$+++ m269 +++$+++ WOO +++$+++ Uh?
+L84444 +++$+++ u4049 +++$+++ m269 +++$+++ BLOND MAN +++$+++ Wasn't this guy supposed to be a millionaire?
+L84443 +++$+++ u4066 +++$+++ m269 +++$+++ WOO +++$+++ Yeah?
+L85345 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ But I guess she told Dieter.
+L85344 +++$+++ u4050 +++$+++ m269 +++$+++ BRANDT +++$+++ Visiting friends of hers in Palm Springs.  Just picked up and left, never bothered to tell us.
+L85343 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Where'd she been?
+L84946 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well, okay, you're not privy to all the new shit, so uh, you know, but that's what you pay me for.  Speaking of which, would it be possible for me to get my twenty grand in cash? I gotta check this with my accountant of course, but my concern is that, you know, it could bump me into a higher tax--
+L84945 +++$+++ u4050 +++$+++ m269 +++$+++ BRANDT +++$+++ That had not occurred to us, Dude.
+L84936 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ No, man, nothing is fucked here--
+L84935 +++$+++ u4050 +++$+++ m269 +++$+++ BRANDT +++$+++ This is our concern, Dude.
+L84731 +++$+++ u4050 +++$+++ m269 +++$+++ BRANDT +++$+++ Her life is in your hands, Dude. And report back to us as soon as it's done.
+L84730 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Shit.
+L84729 +++$+++ u4050 +++$+++ m269 +++$+++ BRANDT +++$+++ Mr. Lebowski asked me to repeat that: Her life is in your hands.
+L84728 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Oh, man, don't say that..
+L84727 +++$+++ u4050 +++$+++ m269 +++$+++ BRANDT +++$+++ Her life is in your hands.
+L84726 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Uh-huh.
+L84725 +++$+++ u4050 +++$+++ m269 +++$+++ BRANDT +++$+++ Here's the money, and the phone. Please, Dude, follow whatever instructions they give.
+L84724 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Oh, nothin', you know.
+L84723 +++$+++ u4050 +++$+++ m269 +++$+++ BRANDT +++$+++ They called about eighty minutes ago.  They want you to take the money and drive north on the 4 5.  They'll call you on the portable phone with instructions in about forty minutes. One person only or I'd go with you. They were very clear on that: one person only.  What happened to your jaw?
+L84673 +++$+++ u4050 +++$+++ m269 +++$+++ BRANDT +++$+++ Well Dude, we just don't know.
+L84672 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ So he thinks it's the carpet-pissers, huh?
+L84671 +++$+++ u4050 +++$+++ m269 +++$+++ BRANDT +++$+++ He suspects that the culprits might be the very people who, uh, soiled your rug, and you're in a unique position to confirm or, uh, disconfirm that suspicion.
+L84670 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Why me, man?
+L84669 +++$+++ u4050 +++$+++ m269 +++$+++ BRANDT +++$+++ Mr. Lebowski is prepared to make a generous offer to you to act as courier once we get instructions for the money.
+L84649 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Huh.
+L84648 +++$+++ u4050 +++$+++ m269 +++$+++ BRANDT +++$+++ We've had some terrible news.  Mr. Lebowski is in seclusion in the West Wing.
+L84557 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah sure, if I'm ever in the neighborhood, need to use the john.
+L84556 +++$+++ u4050 +++$+++ m269 +++$+++ BRANDT +++$+++ Well, enjoy, and perhaps we'll see you again some time, Dude.
+L84555 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ It's the LeBaron.
+L84554 +++$+++ u4050 +++$+++ m269 +++$+++ BRANDT +++$+++ Manolo will load it into your car for you, uh, Dude.
+L85217 +++$+++ u4051 +++$+++ m269 +++$+++ CHIEF +++$+++ Mr. Treehorn draws a lot of water in this town, Lebowski.  You don't draw shit.  We got a nice quiet beach community here, and I aim to keep it nice and quiet.  So let me make something plain.  I don't like you sucking around bothering our citizens, Lebowski.  I don't like your jerk- off name, I don't like your jerk-off face, I don't like your jerk- off behavior, and I don't like you, jerk- off --do I make myself clear?
+L85216 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ That guy treats women like objects, man.
+L85215 +++$+++ u4051 +++$+++ m269 +++$+++ CHIEF +++$+++ Mr. Treehorn tells us that he had to eject you from his garden party, that you were drunk and abusive.
+L85214 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Uh-huh.
+L85213 +++$+++ u4051 +++$+++ m269 +++$+++ CHIEF +++$+++ What are you, some kind of sad-assed refugee from the fucking sixties?
+L85212 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I want a fucking lawyer, man.  I want Bill Kunstler.
+L85211 +++$+++ u4051 +++$+++ m269 +++$+++ CHIEF +++$+++ You don't know shit, Lebowski.
+L85210 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I know my rights.
+L85312 +++$+++ u4052 +++$+++ m269 +++$+++ DA FINO +++$+++ Well maybe you and me could pool our resources--trade information-- professional courtesy--compeers, you know--
+L85311 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah, it sucks.
+L85310 +++$+++ u4052 +++$+++ m269 +++$+++ DA FINO +++$+++ Fuck, man!  That's terrible!
+L85308 +++$+++ u4052 +++$+++ m269 +++$+++ DA FINO +++$+++ Crazy, huh?  Ran away a year ago.
+L85307 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Jesus fucking Christ.
+L85305 +++$+++ u4052 +++$+++ m269 +++$+++ DA FINO +++$+++ The Gundersons.  It's a wandering daughter job.  Bunny Lebowski, man. Her real name is Fawn Gunderson. Her parents want her back.
+L85304 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ The?  Who the fff--
+L85303 +++$+++ u4052 +++$+++ m269 +++$+++ DA FINO +++$+++ The Gundersons.
+L85302 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Who're you working for?  Lebowski? Jackie Treehorn?
+L85301 +++$+++ u4052 +++$+++ m269 +++$+++ DA FINO +++$+++ Hey, man, I'm not--
+L85300 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ She's not my special lady, she's my fucking lady friend.  I'm just helping her conceive, man!
+L85299 +++$+++ u4052 +++$+++ m269 +++$+++ DA FINO +++$+++ Hey hey, I'm not messing with your special lady--
+L85298 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I'm not a--ah, fuck it, just stay away from my fucking lady friend, man.
+L85297 +++$+++ u4052 +++$+++ m269 +++$+++ DA FINO +++$+++ A dick, man!  And let me tell you something: I dig your work. Playing one side against the other--in bed with everybody--fabulous stuff, man.
+L85439 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ ANTI-SEMITE!
+L85438 +++$+++ u4053 +++$+++ m269 +++$+++ DIETER +++$+++ NUSSING!
+L85434 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Show me what you got.  Nihilist. Dipshit with a nine-toed woman.
+L85433 +++$+++ u4053 +++$+++ m269 +++$+++ DIETER +++$+++ I FUCK YOU!  I FUCK YOU!
+L85432 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Come and get it.  Fucking nihilist.
+L85431 +++$+++ u4053 +++$+++ m269 +++$+++ DIETER +++$+++ VEE FUCK YOU UP, MAN!
+L85430 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Come and get it.
+L85429 +++$+++ u4053 +++$+++ m269 +++$+++ DIETER +++$+++ VEE FUCK YOU UP, MAN!  VEE TAKE YOUR MONEY!
+L85421 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Fuck you.
+L85420 +++$+++ u4053 +++$+++ m269 +++$+++ DIETER +++$+++ Okay.  Vee take ze money you haf on you und vee call it eefen.
+L85413 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ NO RULES!  YOU CABBAGE-EATING SONS- OF- BITCHES--
+L85412 +++$+++ u4053 +++$+++ m269 +++$+++ DIETER +++$+++ Zere ARE no ROOLZ!
+L85411 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ There's no ransom if you don't have a fucking hostage.  That's what ransom is.  Those are the fucking rules.
+L85482 +++$+++ u4054 +++$+++ m269 +++$+++ DONNELLY +++$+++ That is our most modestly priced receptacle.
+L85481 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Hey man, don't you have something else you could put it in?
+L85480 +++$+++ u4054 +++$+++ m269 +++$+++ DONNELLY +++$+++ Sir, please lower your voice--
+L85476 +++$+++ u4054 +++$+++ m269 +++$+++ DONNELLY +++$+++ Sir, this is a mortuary, not a rental house.
+L85475 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Can we just rent it from you?
+L85460 +++$+++ u4054 +++$+++ m269 +++$+++ DONNELLY +++$+++ Yes.  I understand you're taking away the remains.
+L85459 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Nothing.
+L85458 +++$+++ u4054 +++$+++ m269 +++$+++ DONNELLY +++$+++ Excuse me?
+L85474 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Yeah, but we're--
+L85473 +++$+++ u4054 +++$+++ m269 +++$+++ DONNELLY +++$+++ They range up to three thousand.
+L85470 +++$+++ u4054 +++$+++ m269 +++$+++ DONNELLY +++$+++ Yes sir.  It is our most modestly priced receptacle.
+L85469 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ This is a hundred and eighty dollars.
+L85468 +++$+++ u4054 +++$+++ m269 +++$+++ DONNELLY +++$+++ Yes, so we were informed.  However, we must of course transmit the remains to you in a receptacle.
+L85467 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Don't need it.  We're scattering the ashes.
+L85466 +++$+++ u4054 +++$+++ m269 +++$+++ DONNELLY +++$+++ That is for the urn.
+L85465 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ What's this?
+L85462 +++$+++ u4054 +++$+++ m269 +++$+++ DONNELLY +++$+++ We have the urn.
+L85461 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Yeah.
+L85427 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ I got eighteen dollars, Dude.
+L85426 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Almost five!
+L84855 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Thank you, Donny.
+L84854 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ Your phone's ringing, Dude.
+L84853 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I'm going home, Donny.
+L84852 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ Where you going, Dude?
+L84830 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter, how--
+L84829 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ Sheesh.
+L84706 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ Yeah Dude, why is Walter so pissed off?
+L84705 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah, well, what do you care, Walter?
+L84701 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ I am the Walrus.
+L84700 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah.
+L84695 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Rug-peers did not do this.  I mean look at it.  Young trophy wife. Marries a guy for money but figures he isn't giving her enough.  She owes money all over town--
+L84694 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ What do you mean, Dude?
+L84490 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah, this is the guy, this guy should compensate me for the fucking rug. I mean his wife goes out and owes money and they pee on my rug.
+L84489 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ His name is Lebowski?  That's your name, Dude!
+L84486 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ And this guy peed on it.
+L84485 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Fuckin' A.
+L84470 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ My rug.
+L84469 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ What the fuck is he talking about?
+L85419 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ They won't hurt us, Donny.  These men are cowards.
+L85418 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ Are they gonna hurt us, Walter?
+L85393 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Shut the fuck up, Donny.  Not a bunch of fig-eaters with towels on their heads tryin' to find reverse on a Soviet tank.  This is not a worthy--
+L85392 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ Who's in pyjamas, Walter?
+L85123 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Shut the fuck up, Donny.  We'll, uh, brace the kid--he'll be a pushover. We'll get that fucking money, if he hasn't spent it already.  Million fucking clams. And yes, we'll be near the, uh--some burgers, some beers, a few laughs.  Our fucking troubles are over, Dude.
+L85122 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ We'll be near the In-and-Out Burger.
+L85121 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ What have you.  We'll, uh--
+L85104 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Shut the fuck up, Donny.  This kid is in the ninth grade, Dude, and his father is--are you ready for this?-- Arthur Digby Sellers.
+L85103 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ Those are good burgers, Walter.
+L85035 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ You gotta buck up, man, you can't go into the tournament with this negative attitude--
+L85034 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ What do you need that for, Dude?
+L85022 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ Well--
+L85021 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Am I wrong?
+L85020 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ No--
+L85019 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Are you gonna split hairs?
+L85018 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ Uh-huh.
+L85017 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Come on, Donny, they were threatening castration!
+L85016 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ They were Nazis, Dude?
+L85015 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Fucking Germans.  Nothing changes. Fucking Nazis.
+L85005 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Oh for Christ--will you shut the fuck up, Donny.
+L85004 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ And then they're gonna stamp on it?!
+L84846 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Where's your car, Dude?
+L84845 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ Who has your undies, Walter?
+L84840 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Really, Dude, you surprise me. They're not gonna kill shit.  They're not gonna do shit.  What can they do?  Fuckin' amateurs.  And meanwhile, look at the bottom line.  Who's sitting on a million fucking dollars? Am I wrong?
+L84839 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ Walter, if you can't ride in a car, how d'you get around on Shammas--
+L84838 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Kill that poor woman.
+L84835 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Went alright.  Dude's car got a little dinged up--
+L84834 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ Oh yeah, how'd it go?
+L84826 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ What's that, Walter?
+L84825 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ I'm shomer shabbas.
+L84824 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ How come you don't roll on Saturday, Walter?
+L84821 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ WELL THEY CAN FUCKING UN-POST IT!
+L84820 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ It's already posted.
+L84819 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ I told that kraut a fucking thousand times I don't roll on shabbas.
+L84818 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ Burkhalter.
+L84814 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Saturday!  Well they'll have to reschedule.
+L84813 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ This Saturday.  Quintana and--
+L84812 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Donny, shut the f--when do we play?
+L84811 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ They posted the next round of the tournament--
+L84704 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ That's fucking exactly what happened, Dude!  That makes me fucking SICK!
+L84703 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ What the fuck is he talking about?
+L84702 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Shut the fuck up, Donny!  V.I. Lenin! Vladimir Ilyich Ulyanov!
+L84699 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ That fucking bitch!
+L84698 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ I am the Walrus.
+L84691 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ What's wrong with Walter, Dude?
+L84690 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Life does not stop and start at your convenience, you miserable piece of shit.
+L84689 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ If what's during league play?
+L84681 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Shut the fuck up, Donny.
+L84680 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ What's a pederast, Walter?
+L84478 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ YOU'RE OUT OF YOUR ELEMENT!  This Chinaman is not the issue, Dude.
+L84477 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ He peed on the Dude's rug--
+L84466 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Huh?
+L84465 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ Yeah Walter, what's your point?
+L84462 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ So you have no frame of reference, Donny.  You're like a child who wanders in in the middle of a movie and wants to know--
+L84461 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ I was bowling--
+L84460 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Were you listening to the Dude's story?
+L84459 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ What--
+L84458 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Were you listening to the story, Donny?
+L84457 +++$+++ u4055 +++$+++ m269 +++$+++ DONNY +++$+++ What tied the room together, Dude?
+L85227 +++$+++ u4056 +++$+++ m269 +++$+++ DRIVER +++$+++ That's it!  Outta this fucking cab!
+L85226 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ --had a rough night, and I hate the fucking Eagles, man--
+L85225 +++$+++ u4056 +++$+++ m269 +++$+++ DRIVER +++$+++ I pull over and kick your ass out, man!
+L85224 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I've had a--
+L85223 +++$+++ u4056 +++$+++ m269 +++$+++ DRIVER +++$+++ Fuck you man!  You don't like my fucking music, get your own fucking cab!
+L85222 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Jesus, man, can you change the station?
+L84922 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Fuckin' A, man.  I got a rash. Fuckin' A, man.  I gotta tell ya Tony.
+L84921 +++$+++ u4056 +++$+++ m269 +++$+++ DRIVER +++$+++ --So he says, "My son can't hold a job, my daughter's married to a fuckin' loser, and I got a rash on my ass so bad I can't hardly siddown. But you know me.  I can't complain."
+L84525 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ --and bowling.  I'll tell you the truth, Brandt, I don't remember most of it.--Jeez!  Fuck me!
+L84524 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ Yes, heh--
+L84523 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ --smoking thai-stick, breaking into the ROTC--
+L84522 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ Heh-heh--
+L84521 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well, yeah I did, but I spent most of my time occupying various, um, administration buildings--
+L84520 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ One--oh!  Heh-heh.  You never went to college?
+L84519 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Jeez.  Think he's got room for one more?
+L84518 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ --without  the means  for higher education, so Mr. Lebowski  has committed  to sending  all of them to college.
+L84517 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I see.
+L84516 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ They're not his, heh-heh, they're not literally his children; they're the Little Lebowski Urban Achievers, inner-city children of promise but without the--
+L84515 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I guess he's pretty, uh, racially pretty cool--
+L84514 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ No, they--
+L84513 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Different mothers, huh?
+L84512 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ These are Mr. Lebowski's children, so to speak--
+L84511 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Are these.
+L84510 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ Wonderful woman.  We were very--
+L84509 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Nancy's pretty good.
+L84508 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ And in fact he met privately with the President, though unfortunately there wasn't time for a photo opportunity.
+L84507 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Far out.
+L84506 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ Mr. Lebowski is disabled, yes.  And this picture was taken when Mrs. Reagan was first lady of the nation, yes, yes? Not of California.
+L84505 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ He's handicapped, huh?
+L84504 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ Of course, Mr. Lebowski on the right, Mrs.  Reagan on the left, taken when--
+L84503 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Lebowski on the right?
+L84502 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ That is indeed Mr. Lebowski with the first lady, yes, taken when--
+L84501 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Hey, is this him with Nancy?
+L84500 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ That's a Los Angeles Chamber of Commerce Business Achiever award, which is given--not necessarily given every year!  Given only when there's a worthy, somebody especially--
+L84499 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Uh-huh.
+L84498 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ That's the key to the city of Pasadena, which Mr. Lebowski was given two years ago in recognition of his various civic, uh.
+L84497 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Uh-huh.
+L84496 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ Please!  Please!
+L84495 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I'm not really, uh.
+L84494 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ Please, feel free to inspect them.
+L84493 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yes, uh, very impressive.
+L84492 +++$+++ u4067 +++$+++ m269 +++$+++ YOUNG MAN +++$+++ And this is the study.  You can see the various commendations, honorary degrees, et cetera.
+L84874 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ And the, uh, the briefcase?
+L84873 +++$+++ u4068 +++$+++ m269 +++$+++ YOUNGER COP +++$+++ Sometimes.  I wouldn't hold out much hope for the tape deck though.  Or the Creedence tapes.
+L84870 +++$+++ u4068 +++$+++ m269 +++$+++ YOUNGER COP +++$+++ Separate incidents?
+L84869 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ No.  Here.
+L84868 +++$+++ u4068 +++$+++ m269 +++$+++ YOUNGER COP +++$+++ Your rug was in the car.
+L84867 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ ...Also, my rug was stolen.
+L84866 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ ...Me, I don't drink coffee.  But it's nice when they offer.
+L84864 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I'm unemployed.
+L84863 +++$+++ u4068 +++$+++ m269 +++$+++ YOUNGER COP +++$+++ And what do you do, sir?
+L84862 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Papers.  Just papers.  You know, my papers.  Business papers.
+L84861 +++$+++ u4068 +++$+++ m269 +++$+++ YOUNGER COP +++$+++ In the briefcase?
+L84860 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Huh?  Oh.  Yeah.  Tape deck.  Couple of Creedence tapes.  And there was a, uh. . . my briefcase.
+L84859 +++$+++ u4068 +++$+++ m269 +++$+++ YOUNGER COP +++$+++ And was there anything of value in the car?
+L84858 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Green.  Some brown, or, uh, rust, coloration.
+L84857 +++$+++ u4068 +++$+++ m269 +++$+++ YOUNGER COP +++$+++ Color?
+L84856 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ 1972 Pontiac LeBaron.
+L85513 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah man.  Well, you know, the Dude abides.
+L85512 +++$+++ u4062 +++$+++ m269 +++$+++ THE STRANGER +++$+++ Sure.  Take it easy, Dude--I know that you will.
+L85511 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Thanks, Gary...Take care, man, I gotta get back.
+L85509 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Ahh, you know.  Strikes and gutters, ups and downs.
+L85508 +++$+++ u4062 +++$+++ m269 +++$+++ THE STRANGER +++$+++ Wouldn't miss the semis.  How things been goin'?
+L85507 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Oh, hey man, how are ya?  I wondered if I'd see you again.
+L85506 +++$+++ u4062 +++$+++ m269 +++$+++ THE STRANGER +++$+++ Howdy do, Dude.
+L85059 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah.  Thanks man.
+L85058 +++$+++ u4062 +++$+++ m269 +++$+++ THE STRANGER +++$+++ Take it easy, Dude.
+L85055 +++$+++ u4062 +++$+++ m269 +++$+++ THE STRANGER +++$+++ Thankie. . . Just one thing, Dude. D'ya have to use s'many cuss words?
+L85054 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well I like your style too, man. Got a whole cowboy thing goin'.
+L85053 +++$+++ u4062 +++$+++ m269 +++$+++ THE STRANGER +++$+++ I like your style, Dude.
+L85051 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Mm.
+L85050 +++$+++ u4062 +++$+++ m269 +++$+++ THE STRANGER +++$+++ Far from it.
+L85049 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Uh-huh.  That some kind of Eastern thing?
+L85048 +++$+++ u4062 +++$+++ m269 +++$+++ THE STRANGER +++$+++ One a those days, huh.  Wal, a wiser fella than m'self once said, sometimes you eat the bar and sometimes the bar, wal, he eats you.
+L85047 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Ahh, not so good, man.
+L85203 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Okay, Jackie, done.  I like the way you do business.  Your money is being held by a kid named Larry Sellers. He lives in North Hollywood, on Radford, near the In-and-Out Burger. A real fuckin' brat, but I'm sure your goons'll be able to get it off him, mean he's only fifteen and he's flunking social studies.  So if you'll just write me a check for my ten per cent. . . of half a million. . . fifty grand.
+L85202 +++$+++ u4063 +++$+++ m269 +++$+++ TREEHORN +++$+++ Let's say a 10% finder's fee?
+L85201 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Does the Pope shit in the woods?
+L85200 +++$+++ u4063 +++$+++ m269 +++$+++ TREEHORN +++$+++ Of course, there's that to discuss. Refill?
+L85199 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah, well, right man, there are many facets to this, uh, you know, many interested parties.  If I can find your money, man-- what's in it for the Dude?
+L85198 +++$+++ u4063 +++$+++ m269 +++$+++ TREEHORN +++$+++ I've heard the kidnapping story, so save it.  I know you're mixed up in all this, Dude, and I don't care what you're trying to take off her husband.  That's your business.  All I'm saying is, I want mine.
+L85197 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ But she hasn't run off, she's been--
+L85196 +++$+++ u4063 +++$+++ m269 +++$+++ TREEHORN +++$+++ Me?  How would I know?  The only reason she ran off was to get away from her rather sizable debt to me.
+L85195 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I thought you might know, man.
+L85194 +++$+++ u4063 +++$+++ m269 +++$+++ TREEHORN +++$+++ Of course you do.  I can see you're anxious for me to get to the point. Well Dude, here it is.  Where's Bunny?
+L85193 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Uh-huh.  Well, I still jerk off manually.
+L85192 +++$+++ u4063 +++$+++ m269 +++$+++ TREEHORN +++$+++ Of course, you do get the good with the bad.  The new technology permits us to do exciting things with interactive erotic software.  Wave of the future, Dude.  100% electronic.
+L85191 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ On you, maybe.
+L85190 +++$+++ u4063 +++$+++ m269 +++$+++ TREEHORN +++$+++ People forget that the brain is the biggest erogenous zone--
+L85189 +++$+++ u4063 +++$+++ m269 +++$+++ TREEHORN +++$+++ Regrettably, it's true, standards have fallen in adult entertainment. It's video, Dude.  Now that we're competing with the amateurs, we can't afford to invest that little extra in story, production value, feeling.
+L85188 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Which one was Logjammin'?
+L85187 +++$+++ u4063 +++$+++ m269 +++$+++ TREEHORN +++$+++ I wouldn't know, Dude.  I deal in publishing, entertainment, political advocacy, and--
+L85186 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ White Russian, thanks.  How's the smut business, Jackie?
+L85185 +++$+++ u4063 +++$+++ m269 +++$+++ TREEHORN +++$+++ What's your drink, Dude?
+L85184 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ This is quite a pad you got here, man.  Completely unspoiled.
+L85455 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Jeffrey Lebowski.
+L85454 +++$+++ u4059 +++$+++ m269 +++$+++ MAN +++$+++ Francis Donnelly.  Pleased to meet you.
+L85453 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah man.
+L85452 +++$+++ u4059 +++$+++ m269 +++$+++ MAN +++$+++ Hello, gentlemen.  You are the bereaved?
+L85296 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Huh?
+L85295 +++$+++ u4059 +++$+++ m269 +++$+++ MAN +++$+++ Irish m--What the fuck are you talking about?  My name's Da Fino!  I'm a private snoop!  Like you, man!
+L85294 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Brother Shamus?  Like an Irish monk?
+L85293 +++$+++ u4059 +++$+++ m269 +++$+++ MAN +++$+++ Hey, relax man, I'm a brother shamus.
+L85292 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Who the fuck are you?  Why've you been following me?  Come on, fuckhead!
+L85291 +++$+++ u4059 +++$+++ m269 +++$+++ MAN +++$+++ Relax, man!  No physical harm intended!
+L85290 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Who the fuck are you, man!  Come on, man!
+L85173 +++$+++ u4059 +++$+++ m269 +++$+++ MAN +++$+++ I FUCKEEN KILL JOR FUCKEEN CAR!
+L85172 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ No!  No!  NO!  THAT'S NOT--
+L85273 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ What?
+L85272 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ No, the, uh, police chief of Malibu. A real reactionary. . . So your father. . . Oh man, I get it!
+L85271 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Exactly.  What happened to your face? Did Jackie Treehorn do that as well?
+L85270 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ So...that doctor.
+L85269 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Huh...
+L85268 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Look, Jeffrey, I don't want a partner. In fact I don't want the father to be someone I have to see socially, or who'll have any interest in rearing the child himself.
+L85267 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah, okay, but see, the Dude--
+L85266 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ I want a child.
+L85265 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well...no, of course not--
+L85264 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Well yes, what did you think this was all about?  Fun and games?
+L85263 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Increases?
+L85261 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Huh.  Jeez.  Well, so, did he--is that yoga?
+L85260 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ He helps administer the charities now, and I give him a reasonable allowance.  He has no money of his own.  I know how he likes to present himself; Father's weakness is vanity. Hence the slut.
+L85259 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ But he's--
+L85258 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ We did let Father run one of the companies, briefly, but he didn't do very well at it.
+L85257 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ But your father--he runs stuff, he--
+L85256 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ No no, the wealth was all Mother's.
+L85255 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Huh?  He's fucking loaded.
+L85254 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ I keep telling you, it's the Foundation's money.  Father doesn't have any.
+L85253 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ It's a complicated case, Maude. Lotta ins, lotta outs.  Fortunately I've been adhering to a pretty strict, uh, drug regimen to keep my mind, you know, limber.  I'm real fucking close to your father's money, real fucking close.  It's just--
+L85252 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Jeffrey--
+L85251 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Larry Sellers, a high-school kid. Real fucking brat.
+L85250 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ It's not my father's money, it's the Foundation's.  Why did he think you had it?  And who does?
+L85249 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ He thought I had your father's money, so he got me out of the way while he looked for it.
+L85248 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Finder's fee?
+L85247 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Jackie Treehorn trashed the place. Wanted to save the finder's fee.
+L85246 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ What happened to your house?
+L85245 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Oh, you know, the usual.  Bowl. Drive around.  The occasional acid flashback.
+L85244 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ What do you do for fun?
+L85243 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Bunch of assholes.  And then, you know, little of this, little of that. My career's, uh, slowed down a bit lately.
+L85242 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Uh-huh.
+L85241 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah.  Roadie for Metallica.  Speed of Sound Tour.
+L85240 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Oh?
+L85239 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ And then. . . let's see, I uh--music business briefly.
+L85238 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Mmnun.
+L85237 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Not the compromised second draft. And then I, uh. . . Ever hear of the Seattle Seven?
+L85236 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Uh-huh.
+L85235 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I was, uh, one of the authors of the Port Huron Statement.--The original Port Huron Statement.
+L85234 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well, uh. . . Not much to tell.
+L85233 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Tell me a little about yourself, Jeffrey.
+L85230 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Maude?
+L85229 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Jeffrey.
+L85093 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ I want you to see him immediately.
+L85092 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Delayed after-eff--
+L85091 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Please Jeffrey.  I don't want to be responsible for any delayed after- effects.
+L85090 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Huh?  No, really, I don't even have the bruise any more, I--
+L85089 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Do you still have that doctor's number?
+L85088 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well, no, not exactly.  It's a complicated case, Maude.  Lotta ins. Lotta outs.  And a lotta strands to keep in my head, man.  Lotta strands in old Duder's--
+L85087 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ So Dieter has the money?
+L85086 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well yeah...I know that.
+L85085 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Look, Jeffrey, you don't really kidnap someone that you're acquainted with.  You can't get away with it if the hostage knows who you are.
+L85084 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well...yeah--
+L85083 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Is he pretending to be the abductor?
+L85082 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Jeez.  I miss vinyl.
+L85080 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Huh?  Autobahn.  A-u-t-o.  Their music is a sort of--ugh--techno-pop.
+L85079 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Roy Orbison. . . Pink Floyd.
+L85077 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Dieter has been on the fringes of-- well, of everything in L.A., for about twenty years.  Look at my LP's. Under 'Autobahn.'
+L85076 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Beaver?  You mean vagina?--I mean, you know him?
+L85075 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Her "co-star" in the beaver picture?
+L85074 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well--yeah, I guess--
+L85073 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Dieter Hauff?
+L85072 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ The main guy, Dieter--
+L85071 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ From who?
+L85070 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I'm telling you, I got definitive evidence--
+L85069 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ She is most definitely the perpetrator and not the victim.
+L85068 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Now I got--
+L85067 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ And please don't call her my mother.
+L85066 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Hey man, why don't you fucking listen occasionally?  You might learn something.  Now I got--
+L85065 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ She most certainly was not!
+L85064 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I, uh... money, yeah, I gotta respecfully, 69 you know, tender my resignation on that matter, 'cause it looks like your mother really was kidnapped after all.
+L85063 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Do you have any news regarding my father's money?
+L85062 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ No it's fine, really, uh--
+L85061 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Jeffrey, you haven't gone to the doctor.
+L84920 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Please see him, Jeffrey.  He's a good man, and thorough.
+L84919 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ That's really thoughtful but I--
+L84918 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Here's the name and number of a doctor who will look at it for you.  You will receive no bill.  He's a good man, and thorough.
+L84917 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Oh that's okay, I hardly even--
+L84916 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ --your rug, yes, well with that money you can buy any number of rugs that don't have sentimental value for me. And I am sorry about that crack on the jaw.
+L84915 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah, but what about--
+L84914 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Thousand, yes, bones or clams or whatever you call them.
+L84913 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ A hundred.
+L84912 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ If you successfully do so, I will compensate you to the tune of 1% of the recovered sum.
+L84911 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well--sure, I could do that--
+L84910 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ I'm getting to your rug. My  father and I don't get along; he doesn't approve of my lifestyle and, needless to say, I don't approve of his. Still, I hardly wish to make my father's embezzlement a police matter, so I'm proposing that you try to recover the money from the people you delivered it to.
+L84909 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah, but my-
+L84908 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Little Lebowski Urban Achievers, yes, and proud we are of all of them. I asked my father about his withdrawal of a million dollars from the Foundation account and he told me about this "abduction", but I tell you it is preposterous.  This compulsive
+L84907 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Shit yeah, the achievers.
+L84906 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Don't be fatuous, Jeffrey.  Little matter to me that this woman chose to pursue a career
+L84905 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ He fixes the cable?
+L84904 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Lord.  You can imagine where it goes from here.
+L84897 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Take a look at this, sir.
+L84896 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Listen, Maude, I'm sorry if your stepmother is a nympho, but I don't see what it has to do with--do you have any kalhua?
+L84895 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Yes Mr. Lebowski, these unfortunate souls cannot love in the true sense of the word.  Our mutual acquaintance Bunny is one of these.
+L84894 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Oh, no.
+L84893 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ I like it too.  It's a male myth about feminists that we hate sex. It can be a natural, zesty enterprise. But unfortunately there are some people--it is called satyriasis in men, nymphomania in women--who engage in it compulsively and without joy.
+L84892 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ You mean coitus?
+L84891 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ You're not interested in sex?
+L84890 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I was talking about my rug.
+L84889 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Sex.  The physical act of love. Coitus.  Do you like it?
+L84888 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Excuse me?
+L84887 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Do you like sex, Mr. Lebowski?
+L84886 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Right, but let me explain something about that rug--
+L84885 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Yes, I know about it.  And I know that you acted as courier.  And let me tell you something:  the whole thing stinks to high heaven.
+L84884 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Huh?
+L84883 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Thank you.
+L84882 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ "Johnson"?
+L84881 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ Yes, they don't like hearing it and find it difficult to say.  Whereas without batting an eye a man will refer to his "dick" or his "rod" or his "Johnson".
+L84880 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Oh yeah?
+L84879 +++$+++ u4060 +++$+++ m269 +++$+++ MAUDE +++$+++ In a sense, yes.  Elfranco, my robe. My art has been commended as being strongly vaginal.  Which bothers some men.  The word itself makes some men uncomfortable.  Vagina.
+L84878 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Is that what that's a picture of?
+L85499 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ You're a fuck, Walter!
+L85498 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Shit Dude, I'm sorry--
+L85497 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ What the fuck does Vietnam have to do with anything!  What the fuck were you talking about?!
+L85496 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Dude, I'm sorry--
+L85495 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ What about that shit about Vietnam!
+L85494 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Dude, I'm--it was an accident!
+L85493 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ You make everything a fucking travesty!
+L85492 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Dude!  Dude, I'm sorry!
+L85491 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Goddamnit Walter!  You fucking asshole!
+L85479 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ JUST BECAUSE WE'RE BEREAVED DOESN'T MEAN WE'RE SAPS!
+L85478 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter--
+L85477 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ We're scattering the fucking ashes!
+L85472 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ A hundred and eighty dollars?!
+L85471 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well can we--
+L85457 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ The Dude, actually.  Is what, uh.
+L85456 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Walter Sobchak.
+L85450 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Hurry Dude.  I'd go but I'm pumping blood.  Might pass out.
+L85449 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Wha. . . Donny--
+L85448 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Call the medics, Dude.
+L85447 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Wha.
+L85446 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ It's a heart attack.
+L85445 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Then what's...
+L85444 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ There weren't any shots.
+L85443 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ They shot Donny!
+L85442 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ No Dude.
+L85441 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Hy God!  They shot him, Walter!
+L85424 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Come on, Walter!.
+L85423 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ What's mine is mine.
+L85417 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ AND I'D LIKE MY UNDIES BACK!
+L85416 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Hey, cool it Walter.  Listen, pal, there never was any money.  The big Lebowski gave me an empty briefcase, man, so take it up with him.
+L85410 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Hey, cool it Walter.
+L85409 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Fuck you.  Fuck the three of you.
+L85391 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ That's fuckin' combat.  The man in the black pyjamas, Dude.  Worthy fuckin' adversary.
+L85390 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah.
+L85389 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ I mean 'Nam was a foot soldier's war whereas, uh, this thing should be a fucking cakewalk.  I mean I had an M16, Jacko, not an Abrams fucking tank.  Just me and Charlie, man, eyeball to eyeball.
+L85388 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Uh-huh.
+L85387 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Sure you'll see some tank battles. But fighting in desert is very different from fighting in canopy jungle.
+L85384 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ We're sorry, man.  We're really sorry.
+L85383 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Shit, Dude, I didn't know.  I wouldn't've done it if I knew he was a fucking crybaby.
+L85382 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter, you fuck!
+L85377 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Yeah, I can see that, Dude.
+L85376 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ He can't walk, Walter!
+L85375 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Oh, shit.
+L85372 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Sure, I'll put him down, Dude.  RAUSS! ACHTUNG, BABY!!
+L85371 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ WALTER, FOR CHRIST'S SAKE!  HE'S CRIPPLED!  PUT HIM DOWN!
+L85370 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ It's all over, man!  We call your fucking bluff!
+L85358 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ You thought Bunny'd been kidnapped and you could use it as a pretext to make some money disappear.  All you needed was a sap to pin it on, and you'd just met me.  You thought, hey, a deadbeat, a loser, someone the square community won't give a shit about.
+L85357 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ AS IF WE WOULD EVER DREAM OF TAKING YOUR BULLSHIT MONEY!
+L85340 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Three thousand years of beautiful tradition, from Moses to Sandy Koufax-- YOU'RE GODDAMN RIGHT I LIVE IN THE PAST!   I--Jesus.  What the hell happened?
+L85339 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ It's just part of your whole sick Cynthia thing.  Taking care of her fucking dog.  Going to her fucking synagogue.  You're living in the fucking past.
+L85338 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ I'm as Jewish as fucking Tevye
+L85337 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ This driveway.
+L85336 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Yeah?  What do you think happens when you get divorced?  You turn in your library card?  Get a new driver's license?  Stop being Jewish?
+L85335 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ And you were divorced five fucking years ago.
+L85334 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ You know this!
+L85333 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah, and you were--
+L85332 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ What the fuck are you talking about? I converted when I married Cynthia! Come on, Dude!
+L85331 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ You're fucking Polish Catholic--
+L85330 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ What the fuck are you talking about?
+L85329 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter, come off it.  You're not even fucking Jewish, you're--
+L85328 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ I'm saying, I see what you're getting at, Dude, he kept the money, but my point is, here we are, it's shabbas, the sabbath, which I'm allowed to break only if it's a matter of life and death--
+L85327 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Huh?
+L85326 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Okay, but how does all this add up to an emergency?
+L85325 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Shit yeah!
+L85324 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Yeah?
+L85323 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ His million bucks was never in it, man!  There was no money in that briefcase!  He was hoping they'd kill her!  You throw out a ringer for a ringer!
+L85322 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ What's your point, Dude?
+L85321 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I'm saying if he knows I'm a fuck- up, then why does he still leave me in charge of getting back his wife? Because he fucking doesn't want her back, man!  He's had enough!  He no longer digs her!  It's all a show! But then, why didn't he give a shit about his million bucks?  I mean, he knew we didn't hand off his briefcase, but he never asked for it back.
+L85320 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Well it's, sometimes the cathartic, uh.
+L85319 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I mean we totally fucked it up, man. We fucked up his pay-off.  And got the kidnappers all pissed off, and the big Lebowski yelled at me a lot, but he didn't do anything.  Huh?
+L85287 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ WALTER, YOU FUCKING ASSHOLE, WE GOTTA GO TO PASADENA!  COME  PICK ME UP OR I'M OFF THE FUCKING BOWLING TEAM!
+L85286 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Dude, I'm not supposed to make calls--
+L85285 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ THEN WHY CAN'T YOU--fuck, never mind, just call Donny then, and ask him to--
+L85284 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ I understand.  That's why I picked up the phone.
+L85283 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ It is a fucking emergency.
+L85282 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Erev shabbas.  I can't drive.  I'm not even supposed to pick up the phone, unless it's an emergency.
+L85281 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Huh?
+L85280 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ I can't drive, Dude, it's erev shabbas.
+L85279 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter, listen, I'm at my place, I need you to come pick me up--
+L85278 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Dude?
+L85277 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter, if you're there, pick up the fucking phone.  Pick it up, Walter, this is an emergency.  I'm not--
+L85156 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ And the fucking money.  And we know that this is your homework, Larry.
+L85155 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ And the fucking money!
+L85154 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ You're going to enter a world of pain, son.  We know that this is your homework.  We know you stole a car--
+L85153 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Oh, for Christ's sake, Walter!
+L85152 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Look, Larry. . . Have you ever heard of Vietnam?
+L85151 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ We know it's his fucking homework, Walter!  Where's the fucking money, you little brat?
+L85150 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Is this your homework, Larry?
+L85149 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Is the car out front yours?
+L85148 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Is this yours, Larry?  Is this your homework, Larry?
+L85147 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Just ask him if he--ask him about the car, man!
+L85146 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Dude, please!. . .  Is this your homework, Larry?
+L85145 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Look, man, did you--
+L85144 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Is this your homework, Larry?
+L85125 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Hardly Dude, a new 'vette?  The kid's still got, oh, 96 to 97 thousand, depending on the options.  Wait in the car, Donny.
+L85124 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Fuck me, man!  That kid's already spent all the money!
+L85120 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Yeah, go figure.  Well we'll go out there after the, uh, the.
+L85119 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Uh.
+L85118 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ And yet his son is a fucking dunce.
+L85117 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ No.
+L85116 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Not exactly a lightweight.
+L85115 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Uh-huh.
+L85114 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ The bulk of the series.
+L85113 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Uh-huh.
+L85112 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Fucking Arthur Digby Sellers wrote 156 episodes, Dude.
+L85111 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah yeah, I know the fucking show Walter, so what?
+L85110 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ All but one man died?  There at Bitter Creek?
+L85109 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah.
+L85108 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Who the f--have you ever heard of a little show called Branded, Dude?
+L85107 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Who the fuck is Arthur Digby Sellers?
+L85106 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Huh?
+L85105 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Who the fuck is that?
+L85102 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Near the In-and-Out Burger--
+L85101 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ The In-and-Out Burger is on Camrose.
+L85100 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ He lives in North Hollywood on Radford, near the In-and-Out Burger--
+L85033 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Fuck your sympathy!  I don't need your sympathy, man, I need my fucking Johnson!
+L85032 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ --We're sympathizing here, Dude--
+L85031 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Who gives a shit about the fucking marmot!
+L85030 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ No, I'm--
+L85029 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ What're you, a fucking park ranger now?
+L85028 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ And let's also not forget--let's not forget, Dude--that keeping wildlife, an amphibious rodent, for uh, domestic, you know, within the city-- that isn't legal either.
+L85027 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah.
+L85026 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Nihilists!  Jesus.
+L85025 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ They kept saying they believe in nothing.
+L85024 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Huh?
+L85023 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ They're nihilists.
+L85014 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ This whole fucking thing--I  could be sitting here with just pee-stains on my rug.
+L85013 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Now Dude--
+L85012 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ That makes me feel all warm inside.
+L85011 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Dude--
+L85010 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah, thanks Walter.  That gives me a very secure feeling.
+L85009 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Not if I have anything to say about it.
+L85008 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Thanks Walter.
+L85007 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Now that is ridiculous, Dude.  No one is going to cut your dick off.
+L85006 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I figure my only hope is that the big Lebowski kills me before the Germans can cut my dick off.
+L84972 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Don't run away from this, Dude! Goddamnit, this affects all of us!
+L84971 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ All right, I'm leaving.  I'm sorry ma'am.
+L84970 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Lady, I got buddies who died face- down in the muck so you and I could enjoy this family restaurant!
+L84965 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ FORGET ABOUT THE FUCKING TOE!
+L84964 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ What about the toe?
+L84963 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Well that's just, that's the stress talking, Dude.  So far we have what looks to me like a series of victimless crimes--
+L84962 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ They're gonna kill her, Walter, and then they're gonna kill me--
+L84961 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ I'll  get  you  a  toe by  this afternoon--with nail  polish. These fucking amateurs.   They send us a toe, we're  supposed to  shit our- selves with fear.  Jesus Christ. My point is--
+L84960 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ But Walter--
+L84959 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ You want a toe?  I can get you a toe, believe me.  There are ways, Dude.  You don't wanna know about it, believe me.
+L84958 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Someone else's--where the fuck are they gonna--
+L84957 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Fine, Dude.  As if it's impossible to get some nail polish, apply it to someone else's toe--
+L84956 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ The nail polish, Walter.
+L84955 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ How the fuck should I know?  I do know that nothing about it indicates--
+L84954 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Whose toe was it, Walter?
+L84953 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ That wasn't her toe.
+L84851 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Aw, fuck it.
+L84850 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Well, certainly that's a possibility, Dude--
+L84849 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ It's been stolen, Walter!  You fucking know it's been stolen!
+L84848 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Hmm.  Well, we were in a handicapped spot.  It, uh, it was probably towed.
+L84847 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ You don't know, Walter?  You seem to know the answer to everything else!
+L84844 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ And what do they got, Dude?  My dirty undies.  My fucking whites--Say, where is  the car?
+L84843 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ "Our" car, Walter?
+L84842 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Who's got a fucking million fucking dollars parked in the trunk of our car out here?
+L84841 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter--
+L84837 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Yeah yeah, "kill that poor woman."
+L84836 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ But Walter, we didn't make the fucking hand- off!  They didn't get, the fucking money and they're gonna-- they're gonna--
+L84833 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ For Christ's sake, Dude.
+L84832 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ That's it.  I'm out of here.
+L84828 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Saturday is shabbas.  Jewish day of rest.  Means I don't work, I don't drive a car, I don't fucking ride in a car, I don't handle money, I don't turn on the oven, and I sure as shit don't fucking roll!
+L84827 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah, and in the meantime what do I tell Lebowski?
+L84823 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ C'mon Dude, eventually she'll get sick of her little game and, you know, wander back--
+L84822 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Who gives a shit, Walter?  What about that poor woman?  What do we tell--
+L84817 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter--
+L84816 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ I told that fuck down at the league office-- who's in charge of scheduling?
+L84815 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter, what'm I gonna tell Lebowski?
+L84810 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ That's right, Dude, 1  % certain--
+L84809 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ No, Walter!  I said I thought she kidnapped herself!  You're the one who's so fucking certain--
+L84808 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ What the fuck're you talking about? That poor woman--that poor slut-- kidnapped herself, Dude.  You said so yourself--
+L84807 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Huh?  The problem is--what do you mean what's the--there's no--we didn't-- they're gonna kill that poor woman--
+L84806 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Huh?  Oh, him, yeah.  Well I don't see, um-- what exactly is the problem?
+L84805 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ What the fuck is that supposed to mean?  What the fuck're we gonna tell Lebowski?
+L84804 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Aitz chaim he, Dude.  As the ex used to say.
+L84799 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter, please--
+L84798 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ You didn't think I was rolling out of here naked!
+L84797 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Uzi?
+L84796 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Your wheel!  At fifteen em-pee-aitch I roll out!  I double back, grab one of 'em and beat it out of him!  The uzi!
+L84795 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ What the fuck?
+L84794 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Your wheel, Dude!  I'm rolling out!
+L84793 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter!
+L84792 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Okay, Dude.  No time to argue.  Here's the bridge--
+L84791 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Fuck that!  I love you, Walter, but sooner or later you're gonna have to face the fact that you're a goddamn moron.
+L84790 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ The bridge is coming up!  Gimme the ringer, Dude!  Chop-chop!
+L84789 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I'm throwing the money, Walter! We're not fucking around!
+L84788 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Wooden bridge, huh?
+L84787 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well call them up and explain it to 'em, Walter!  Your plan is so fucking simple, I'm sure they'd fucking understand it!  That's the beauty of it Walter!
+L84786 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ We can't do that, Dude.  That fucks up our plan.
+L84785 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ We throw the money out of the moving car!
+L84784 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Huh?
+L84783 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ There is no fucking hand-off, Walter! At a wooden bridge we throw the money out  of the car!
+L84782 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ What'd he say?  Where's the hand- off?
+L84781 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ FUCK.
+L84778 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Thaaat's right, Dude.  The beauty of this is its simplicity. If the plan gets too complex something always goes wrong.  If there's one thing I learned in Nam--
+L84777 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah.  That's a great plan, Walter. That's fucking ingenious, if I understand it correctly.  That's a Swiss fucking watch.
+L84776 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ ...Huh?
+L84775 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ That's the simple part, Dude.  When we make the handoff, I grab the guy and beat  it out of him.
+L84774 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Terrific, Walter.  But you haven't told me how we get her back.  Where is she?
+L84773 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Yeah.  So as long as we get her back, nobody's in a position to complain. And we keep the baksheesh.
+L84765 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Okay Dude.  Have it your way.
+L84764 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Shutup, Walter!  Don't fucking say peep when I'm doing business here.
+L84763 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Ya see?  Nothing is fucked up here, Dude.  Nothing is fucked.  These guys are fucking amateurs--
+L84762 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Dude, nothing is fucked.  Come on. You're being very unDude.  They'll call back.  Look, she kidnapped her--
+L84761 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ We're screwed now!  We don't get shit and they're gonna kill her! We're fucked, Walter!
+L84760 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Easy, Dude.
+L84759 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ They hung up, Walter!  You fucked it up!  You fucked it up!  Her life was in our hands!
+L84758 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ What the fuck is going on there?
+L84757 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Oh shit.  Walter.
+L84745 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ It is a fucking game.  You said so yourself, Dude--she kidnapped herself--
+L84744 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yes you're wrong.  This isn't a fucking game, Walter--
+L84743 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ My point, Dude, is why should we settle for twenty grand when we can keep the entire million.  Am I wrong?
+L84742 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ We?  What the fuck we?  You said you just wanted to come along--
+L84741 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Well you're right, Dude, I got to thinking.  I got to thinking why should we settle for a measly fucking twenty grand--
+L84740 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter--what the fuck are you thinking?
+L84739 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Thaaaat's right, Dude.  The weight. The ringer can't look empty.
+L84738 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter, I'm sure there's a reason you brought your dirty undies--
+L84737 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Agh--
+L84736 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ My dirty undies.  Laundry, Dude. The whites.
+L84735 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ What the hell is this?
+L84734 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ The ringer!  The ringer, Dude!  Have they called yet?
+L84733 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ The what?
+L84714 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ It's your roll.
+L84713 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ The fucking point is--
+L84712 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ It's your roll--
+L84711 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Have it your way.  The point is--
+L84710 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter, face it, there isn't any connection.  It's your roll.
+L84709 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Well, there isn't a literal connection, Dude.
+L84708 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I don't see any connection to Vietnam, Walter.
+L84707 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Those rich fucks!  This whole fucking thing-- I did not watch my buddies die face down in the muck so that this fucking strumpet--
+L84697 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ It's all a goddamn fake.  Like Lenin said, look for the person who will benefit.  And you will, uh, you know, you'll, uh, you know what I'm trying to say--
+L84696 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ That...fucking...bitch!
+L84693 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Huh?
+L84692 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I figure it's easy money, it's all pretty harmless.  I mean she probably kidnapped herself.
+L84688 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I told him if it was during league play--
+L84687 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ What if it's during a game?
+L84686 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ ...They  gave  Dude  a  beeper,  so whenever these guys call--
+L84685 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah.
+L84684 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Just for making the hand-off?
+L84683 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Twenty grand.  And of course I still keep the rug.
+L84682 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Anyway.  How much they offer you?
+L84679 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ When he moved down to Venice he had to go door-to-door to tell everyone he's a pederast.
+L84678 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Huh.
+L84677 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ The man is a sex offender.  With a record.  Spent six months in Chino for exposing himself to an eight- year-old.
+L84676 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Huh?
+L84675 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Yeah, but he's a fucking pervert, Dude.
+L84631 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Calmer than you are.
+L84630 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah?  Wavin' a gun around?!
+L84629 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ I'm perfectly calm, Dude.
+L84628 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well, just take 't easy, man.
+L84627 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ That's your answer to everything, Dude.  And let me point out--pacifism is not--look at our current situation with that camelfucker in Iraq-- pacifism is not something to hide behind.
+L84626 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Just, just take it easy, Walter.
+L84625 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Okay then.  We play Quintana and O'Brien next week.  They'll be pushovers.
+L84624 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ You're not wrong, Walter, you're just an asshole.
+L84623 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Am I wrong!
+L84622 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ No, you're not wrong--
+L84621 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Huh.  I did not know that.  Well, it's water under the bridge.  And we do enter the next round-robin, am I wrong?
+L84620 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ He's fragile, man!  He's very fragile!
+L84619 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ You mean--beyond pacifism?
+L84618 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ And you know Smokey has emotional problems!
+L84617 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ You know Dude, I myself dabbled with pacifism at one point.  Not in Nam, of course--
+L84616 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter, you can't do that.  These guys're like me, they're pacificists. Smokey was a conscientious objector.
+L84610 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ MARK IT ZERO!
+L84609 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter, they're calling the cops, put the piece away.
+L84604 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Mark that frame an eight, you're entering a world of pain.
+L84603 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Hey Walter--
+L84602 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Smokey my friend, you're entering a world of pain.
+L84598 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ This is a league game.  This determines who enters the next round- robin, am I wrong?
+L84597 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Come on Walter, it's just--it's Smokey.  So his toe slipped over a little, it's just a game.
+L84590 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Fucking dog has papers, Dude.--Over the line!
+L84589 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Hey man--
+L84588 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ First of all, Dude, you don't have an ex, secondly, it's a fucking show dog with fucking papers.  You can't board it.  It gets upset, its hair falls out.
+L84587 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Hey, man, if my fucking ex-wife asked me to take care of her fucking dog while she and her boyfriend went to Honolulu, I'd tell her to go fuck herself.  Why can't she board it?
+L84586 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ What do you mean "brought it bowling"? I didn't rent it shoes.  I'm not buying it a fucking beer.  He's not gonna take your fucking turn, Dude.
+L84585 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ You brought a fucking Pomeranian bowling?
+L84584 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ I'm saying, Cynthia's Pomeranian. I'm looking after it while Cynthia and Marty Ackerman are in Hawaii.
+L84583 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ What the fuck are you--
+L84582 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Huh?  Oh--Cynthia's Pomeranian. Can't leave him home alone or he eats the furniture.
+L84581 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ What the fuck're you talking about? The carrier.  What's in the fucking carrier?
+L84580 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ State of Israel.  If you will it, Dude, it is no--
+L84579 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Huh?
+L84578 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Theodore Herzel.
+L84577 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ You're fucking twenty minutes late. What the fuck is that?
+L84576 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Way to go, Dude.  If you will it, it is no dream.
+L84488 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah, I could find this Lebowski guy--
+L84487 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Donny!  Please!
+L84484 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Okay. That, uh.
+L84483 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah, but--
+L84482 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Am I wrong!
+L84481 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ No, but--
+L84480 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Jeff Lebowski.  Come on.  This other Jeffrey Lebowski.  The millionaire. He's gonna be easier to find anyway than these two, uh. these two  . . . And he has the wealth, uh, the resources obviously, and there is no reason, no FUCKING reason, why his wife should go out and owe money and they pee on your rug.  Am I wrong?
+L84479 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ So who--
+L84476 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter, he peed on my rug--
+L84475 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ What the fuck are you--
+L84474 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter, this is not a guy who built the rail- roads, here, this is a guy who peed on my--
+L84473 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ What the fuck are you talking about?! This Chinaman is not the issue!  I'm talking about drawing a line in the sand, Dude.  Across this line you do not, uh--and also, Dude, Chinaman is not the preferred, uh. . . Asian- American.  Please.
+L84472 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ This Chinaman who peed on my rug, I can't go give him a bill so what the fuck are you talking about?
+L84471 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Forget it, Donny.  You're out of your element.
+L84468 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Huh?  No!  What the fuck are you talking--I'm not--we're talking about unchecked aggression here--
+L84467 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ What's the point of--we all know who was at fault, so what the fuck are you talking about?
+L84464 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ There's no fucking reason--here's my point, Dude--there's no fucking reason--
+L84463 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ What's your point, Walter?
+L84456 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ This was a valued, uh.
+L84455 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah man, it really tied the room together--
+L84454 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ This was, uh--
+L85097 +++$+++ u4064 +++$+++ m269 +++$+++ VOICE +++$+++ I understand sir.  Could you slide your shorts down please?
+L85096 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Huh?  No, she, she hit me right here.
+L85041 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Friends like these, huh Gary.
+L85040 +++$+++ u4064 +++$+++ m269 +++$+++ VOICE +++$+++ Right, Dude.
+L85039 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Another Caucasian, Gary.
+L84780 +++$+++ u4064 +++$+++ m269 +++$+++ VOICE +++$+++ You are approaching a vooden britch. When you cross it you srow ze bag from ze left vindow of ze moving kar.  Do not slow down.  Vee vatch you.
+L84779 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Dude.
+L84771 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Hey, just tell me where the fuck you want us to go.
+L84770 +++$+++ u4064 +++$+++ m269 +++$+++ VOICE +++$+++ So no funny stuff.  Okay?
+L84769 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah.
+L84768 +++$+++ u4064 +++$+++ m269 +++$+++ VOICE +++$+++ Okay, vee proceed.  But only if there is no funny stuff.
+L84767 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Dude here.
+L84753 +++$+++ u4064 +++$+++ m269 +++$+++ VOICE +++$+++ Okay, listen--
+L84752 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Yeah?
+L84751 +++$+++ u4064 +++$+++ m269 +++$+++ VOICE +++$+++ Shut the fuck up.  Hello?
+L84750 +++$+++ u4064 +++$+++ m269 +++$+++ VOICE +++$+++ ...Us? DUDE
+L84749 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Dude the Bagman.  Where do you want us to go?
+L84748 +++$+++ u4064 +++$+++ m269 +++$+++ VOICE +++$+++ Who is this?
+L84747 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Dude here.
+L84636 +++$+++ u4064 +++$+++ m269 +++$+++ VOICE +++$+++ --so, like I say, just thought, you know, fair warning.  Tell Walter.
+L84635 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Shit!
+L84634 +++$+++ u4064 +++$+++ m269 +++$+++ VOICE +++$+++ Dude, this is Smokey.  Look, I don't wanna be a hard-on about this, and I know it wasn't your fault, but I just thought it was fair to tell you that Gene and I will be submitting this to the League and asking them to set aside the round.  Or maybe forfeit it to us--
+L84431 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ It's uh, it's down there somewhere. Lemme take another look.
+L84430 +++$+++ u4064 +++$+++ m269 +++$+++ VOICE +++$+++ WHERE'S THE FUCKING MONEY, SHITHEAD!
+L85379 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Help me put him back in his chair.
+L85378 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ You monsters!
+L85369 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Walter!
+L85368 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Put me down, you son of a bitch!
+L85361 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ All right, get out.  Both of you.
+L85360 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well. . . yeah.
+L85359 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Well?  Aren't you?
+L85356 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Well, you have your story, I have mine.  I say I entrusted the money to you, and you stole it.
+L85355 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ We know the briefcase was empty, man.  We know you kept the million bucks yourself.
+L85351 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Where's the money, Lebowski?
+L85350 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Well, she's back.  No thanks to you.
+L84948 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well, okay, if you've already made out the check.  Brandt is handing him a letter-sized envelope which is distended by something inside.
+L84947 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Brandt, give him the envelope.
+L84944 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ No.  No Mr. Lebowski, that had not occurred to me.
+L84943 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well sure, look at it!  Young trophy wife, I mean, in the parlance of our times, owes money all over town, including to known pornographers-- and that's cool, that's cool-- but I'm saying, she needs money, and of course they're gonna say they didn't get it 'cause she wants more, man, she's gotta feed the monkey, I mean-- hasn't that ever occurred to you...? Sir?
+L84942 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I'll tell you what I'm blathering about!  I got information--new shit has come to light and--shit, man! She kidnapped herself!
+L84941 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ What in God's holy name are you blathering about?
+L84940 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I--the royal we, you know, the editorial--I dropped off the money, exactly as per--Look, I've got certain information, certain things have come to light, and uh, has it ever occurred to you, man, that given the nature of all this new shit, that, uh, instead of running around blaming me, that this whole thing might just be, not, you know, not just such a simple, but uh--you know?
+L84939 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ WHAT?!
+L84938 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ C'mon man, who're you gonna believe? Those guys are--we dropped off the damn money--
+L84934 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ They did not receive the money, you nitwit!  They  did not receive the goddamn money.  HER LIFE WAS IN YOUR HANDS!
+L84933 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well we--I don't--
+L84932 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Where's my goddamn money, you bum?!
+L84663 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Strong men also cry. . . Strong men also cry.
+L84662 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Fuckin' A.
+L84661 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Bunny Lebowski. . . She is the light of my life.  Are you surprised at my tears, sir?
+L84660 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ 'Scuse me?
+L84659 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Bunny.
+L84658 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Mind if I smoke a jay?
+L84656 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Sure.  That and a pair of testicles.
+L84655 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Is it. . . is it, being prepared to do the right thing?  Whatever the price?  Isn't that what makes a man?
+L84654 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ I don't know, sir.
+L84653 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Huh?
+L84652 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Dude.
+L84651 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ It's funny.  I can look back on a life of achievement, on challenges met, competitors bested, obstacles overcome.  I've accomplished more than most men, and without the use of my legs.  What. . . What makes a man, Mr. Lebowski?
+L84548 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Sure!  Fuck it!  That's your answer! Tattoo it on your forehead!  Your answer to everything!
+L84547 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Ah fuck it.
+L84546 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ My wife is not the issue here. I hope that my wife will someday learn to live on her allowance, which is ample, but if she doesn't, sir, that will be her problem, not mine, just as your rug is your problem, just as every bum's lot in life is his own responsibility regardless of whom he chooses to blame.  I didn't blame anyone for the loss of my legs, some chinaman in Korea took them from me but I went out and achieved anyway. I can't solve your problems, sir, only you can.
+L84545 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ No, look.  I do mind.  The Dude minds. This will not stand, ya know, this will not stand, man.  I mean, if your wife owes--
+L84544 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ But I do work, so if you don't mind--
+L84543 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Is this a--what day is this?
+L84542 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ You don't go out and make a living dressed like that in the middle of a weekday.
+L84541 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Employed?
+L84540 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Are you employed, sir?
+L84539 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Look, let me explain something. I'm not Mr. Lebowski;  you're Mr. Lebowski.  I'm the Dude.  So that's what  you  call me.  That, or Duder. His  Dudeness.  Or El Duderino, if, you know, you're not into the whole brevity thing--
+L84538 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ You're just looking for a handout like every other--are you employed, Mr. Lebowski?
+L84537 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Come on, man, I'm not trying to scam anybody here, I'm just--
+L84536 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Hello!  Hello!  So every time--I just want to understand this, sir-- every time a rug is micturated upon in this fair city, I have to compensate the--
+L84535 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well no, like I said, Woo peed on the rug--
+L84534 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Hello!  Do you speak English?  Parla usted Inglese?  I'll say it again. Did I urinate on your rug?
+L84533 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ You mean, did you personally come and pee on my--
+L84532 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Did I urinate on your rug?
+L84531 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ So you know they were trying to piss on your rug--
+L84530 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ I'll say it again, all right?  You told Brandt.  He told me.  I know what happened. Yes?  Yes?
+L84529 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well they were looking for you, these two guys, they were trying to--
+L84528 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ You told Brandt on the phone, he told me.  So where do I fit in?
+L84527 +++$+++ u4057 +++$+++ m269 +++$+++ DUDE +++$+++ Well sir, it's this rug I have, really tied the room together-
+L85381 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Stay away from me!  You bullies! You and these women!  You won't leave a man his fucking balls!
+L85380 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Shit, sorry man.
+L85374 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ You're bullies!  Cowards, both of you!
+L85373 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Oh, shit.
+L85366 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Stay away from me, mister!
+L85365 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ This guy fucking walks.  I've never been more certain of anything in my life!
+L85364 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Let me tell you something else. I've seen a lot of spinals, Dude, and this guy is a fake.  A fucking goldbricker.
+L85363 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ I said out.  Now.
+L85362 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Look at that fucking phony, Dude! Pretending to be a fucking millionaire!
+L85354 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ I'll tell you who I am!  I'm the guy who's gonna KICK YOUR PHONY GOLDBRICKING ASS!
+L85353 +++$+++ u4058 +++$+++ m269 +++$+++ LEBOWSKI +++$+++ Who the hell is he?
+L84615 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ This is a league game, Smokey!
+L84614 +++$+++ u4061 +++$+++ m269 +++$+++ SMOKEY +++$+++ You happy, you crazy fuck?
+L84613 +++$+++ u4061 +++$+++ m269 +++$+++ SMOKEY +++$+++ All right!  There it is!  It's fucking zero!
+L84612 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ YOU THINK I'M FUCKING AROUND HERE? MARK IT ZERO!!
+L84611 +++$+++ u4061 +++$+++ m269 +++$+++ SMOKEY +++$+++ Walter--
+L84606 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ A world of pain.
+L84605 +++$+++ u4061 +++$+++ m269 +++$+++ SMOKEY +++$+++ I'm not--
+L84601 +++$+++ u4061 +++$+++ m269 +++$+++ SMOKEY +++$+++ Yeah, but I wasn't over.  Gimme the marker, Dude,  I'm marking it an eight.
+L84600 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Am I wrong!?
+L84599 +++$+++ u4061 +++$+++ m269 +++$+++ SMOKEY +++$+++ Yeah, but--
+L84596 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ This is not Nam.  This is bowling. There are rules.
+L84595 +++$+++ u4061 +++$+++ m269 +++$+++ SMOKEY +++$+++ Bullshit. Walter!
+L84594 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Excuse me!  Mark it zero.  Next frame.
+L84593 +++$+++ u4061 +++$+++ m269 +++$+++ SMOKEY +++$+++ Bullshit.  Eight, Dude.
+L84592 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Over the line, Smokey!  I'm sorry. That's a foul.
+L84591 +++$+++ u4065 +++$+++ m269 +++$+++ WALTER +++$+++ Smokey Huh?

@@ -1,0 +1,483 @@
+L401918 +++$+++ u6736 +++$+++ m449 +++$+++ ANNOUNCER +++$+++ You must come in first place to move on !
+L401796 +++$+++ u6736 +++$+++ m449 +++$+++ ANNOUNCER +++$+++ Pick with expediency !
+L401795 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Great.. great. Is there any kind of hint or anything ?
+L401794 +++$+++ u6736 +++$+++ m449 +++$+++ ANNOUNCER +++$+++ So many tubes to get in, only one is the way out.
+L401690 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Great ! You couldn't be a fan of Dolphins or some other less threatening animal.
+L401689 +++$+++ u6736 +++$+++ m449 +++$+++ ANNOUNCER +++$+++ And now ladies and gentlemen it's time for the fabulous CROCODILE SHOW !
+L401682 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Where's the dock ?
+L401681 +++$+++ u6736 +++$+++ m449 +++$+++ ANNOUNCER +++$+++ That's it folks for the Demon Boat Ride.... Everybody off. Watch your hands and feet.
+L401543 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Good. Nice to see you, Bruce. Johnny.
+L401542 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I'll do the standard research and have them in by midnight, pending any unforseen problems.
+L401540 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I have an embezzler and his accomplice.
+L401539 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Good morning. What do you have today ?
+L401401 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ No one has a gun to your head.
+L401400 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I'm an investment banker. I see blood bathes everyday. Besides, mine is not to question why, min is but to do or die.
+L401399 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Doesn't it bother you to see this kind of brutal death ? I mean , I can understand the old man's infatuation with the stuff, but not you.
+L401396 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Yeah, I'd say that's it.
+L401395 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Is that it ?
+L402053 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Bye....
+L402052 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Well, I'll see you at the next staff party.
+L402051 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Yeah a real shame.
+L402050 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ That's a shame.
+L402049 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Apparently pretty high, we just got a new CEO last week.
+L402048 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Well, surprise, surprise, I've been on the payroll for several years now. I still have an office and secretary. No one even batted an eyelash. Do you realize what the high turnover is in a multi corporation bank in New York ?
+L402047 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ That was eleven years ago.
+L402046 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I work here, remember ?
+L402045 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ What are you DOING here ?
+L401983 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ It'll end. It'll end with him and McCay. Then the park shuts down. Permanently.
+L401982 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Just stop it. End it here.
+L401977 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ There's one more person here for me to visit.
+L401976 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ What about you ?
+L401952 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Girder, watch your head.
+L401951 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ What was that ?
+L401950 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Yes.
+L401949 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Do you know where you're going ?
+L401930 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ It's poison gas, this is the antidote. Drink it.
+L401929 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ I don't get it.
+L401908 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ The Brooklyn Bridge.
+L401907 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Where are we going ?
+L401904 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Great...
+L401903 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ You don't. It's random, there no trick.
+L401902 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Okay Mr Inventor, how do we avoid it ?
+L401901 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Yeah, real cute. The storm is fake, but the lightening is real.
+L401900 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ This is cute.
+L401899 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Let's go.
+L401898 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ If we can get to through the next room, we'll be at a junction for a power grid.
+L401889 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Fine...
+L401888 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ You okay ?
+L401887 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Okay.
+L401886 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Just remember, hold your breath as long as you can. Then go right over to that corner. The door will open and go in and up.
+L401881 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ So was I. So don't give me any shit. Your business is just as bad. At least I'm up front about it. You kill people slowly. Your corporate take overs can decimate a families livelihood over a year sometimes two. Now you know how it feels.
+L401880 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ It wasn't my fault. I was just part of a team. I was doing my job...
+L401879 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Know what ? That it was your fault ?
+L401878 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ I wanted to let his family know....
+L401877 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ You didn't think about it did you ? I read your file. It said you had a nervous breakdown.
+L401876 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ I... I .....
+L401874 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ I'm in charge of the conversions.  When First Bank buys another smaller bank, I'm in charge of converting them to our systems and way of doing things.
+L401873 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ What do you do with the company, if I might ask ?
+L401872 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ How can you just take a life ? I mean it's a life, life is so precious.  How does it feel ?
+L401871 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ This is New York. No one notices anyone. Not even when someone disappears. At first it was the guy who was caught trying to steal McCay's Jag. Then it was dirty accountants that tried to walk away with millions. The Old Man got such a rush from it, I thought that he would start trying to send me people who used the copier after hours.
+L401870 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Doesn't anyone notice all the people missing ?
+L401869 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I've since changed my mind. I designed this place, based on my belief that I was doing what the legal system couldn't or wouldn't do. McCay had the company buy the property and they pay the bills. It's a tax write off. On the books everything looks kosher. I have an office on 5th that I haven't seen in ten years.
+L401868 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ And you believe that ?
+L401867 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ McCay had a lot money done into researching psychological reactions to questions that are seemingly unrelated, but reveal everything. Like criminal impulses, homicidal impulses.....
+L401866 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ What do you mean ?
+L401865 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ There's more to it than trying to see if you'd steal from the company or if you'd lie or cheat.
+L401864 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Yeah, everyone has to when they get hired.
+L401863 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ There are other things too. They had everyone start taking those psych tests. Did they make you take one ?
+L401862 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ So you may have been duped this whole time. Killing innocent people, that must make you feel ..., how does it feel ?
+L401861 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ It was there, clear as day. I saw the computer records. Matthew has been fed wiring money to his personal account.  I just knew something was wrong.
+L401860 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Then how come Matt and I showed up as guilty ?
+L401859 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I do a very thorough background check. I go through police files, personel files, anything.
+L401858 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ But how do you know if the people are guilty ?
+L401857 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I was lured by all the money and I truly did convince myself that what I did was for justice. Since then, McCay has wanted to put anyone he can down here.
+L401849 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I was hired in and started to do the boring old work routine. I was originally brought in as a technical advisor. First Bank had sponsored my scholarships.
+L401848 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ He hired you to build this place ?
+L401847 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I just graduated from M.I.T. in engineering. That's when John McCay hired me.
+L401846 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Do you have something better to talk about ?
+L401845 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Is this really the time ?
+L401844 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Why did you build this whole place ?
+L401843 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Excuse me ?
+L401842 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ So why this ?
+L401840 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I'd say about thirty to forty minutes. Give or take a few.
+L401839 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ How long till the room fills ?
+L401838 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Once the room depletes it's oxygen, we have about 30 seconds, then a door opens on the bottom over there. Then we swim out.
+L401837 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Obviously, but what's the way out ?
+L401836 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ We drown.
+L401835 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ What's the trick here ?
+L401829 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ At the subway station, we can get into a power duct that my little shit head of an assistant doesn't know about.
+L401828 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ I'm listening.
+L401827 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Look, there's another train. They'll send it through here. You're fucked if you don't STOP and listen to me.
+L401826 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Not listening !
+L401825 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ It won't take them that long to figure out we weren't on the train when it wrecked.
+L401807 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ You've been doing a bang up job so far. Right now Matt is probably dead and it's your fault.
+L401806 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Hey ! I'm still your best chance to get out of here alive.
+L401805 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ I'm not listening.
+L401804 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ So you're telling me you were set up ? I knew something was wrong.
+L401793 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Why would he ? His parents are rich.
+L401792 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Then he isn't embezzling either is he ?
+L401791 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ NO ! I wouldn't do that.
+L401790 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Then you didn't give him any passwords of any kind ?
+L401789 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ I'M NOT BOFFING MATTHEW !
+L401788 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ If you hadn't started boffing that weasel with an attitude, you wouldn't be here.
+L401787 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Look I don't even wanna know how I got in this mess. I just want out. It has nothing to do with me.
+L401786 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ You took an awful big risk back there.
+L401785 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ What ?
+L401784 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Hey ! Hey ! I'm talking to you !
+L401779 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ I'm leaving.
+L401778 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ What are you doing ?
+L401769 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Knows ? He watches every "Guest" on tape. This whole place is here for his sick amusement. And no so are we.
+L401768 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ McCay knows ?
+L401767 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ It's a tax write off for John C. McCay.
+L401766 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ First Bank ? But how ?
+L401765 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ It's called Murderland. It's paid for by First Bank.
+L401764 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Who the hell are you anyway ? What is this place ?
+L401763 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I'm working on it.
+L401762 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ So what do we do ?
+L401761 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ No where. We've got about seven minutes before this thing slams into a concrete wall.
+L401760 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ So where does this lead ?
+L401739 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Give me a fucking.....
+L401738 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Come on, it works.
+L401730 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ You have issues. I mean you have some serious issues that need to be ironed out.
+L401729 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ There's enough force to push you twenty feet in the air. It won't kill you, but it will hurt.
+L401726 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ We have to climb up that.
+L401725 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Now what the hell are we supposed to do ?
+L401717 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ We wait. This is an elevator.
+L401716 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ How do we get out of this room ?
+L401697 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I don't know.
+L401696 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Now where do we go ?
+L401667 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ I'm not fucking him..
+L401666 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Maybe not, but he is and fucking him makes you an accessory. He stole your passwords.
+L401665 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Embezzling ? I'm not embezzling !
+L401664 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ You're both embezzling. I saw the records.
+L401663 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ You said we were criminals, what did you mean ?
+L401662 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Why should I ?
+L401661 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Why don't you tell us what the fuck is going on ?
+L401648 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ No !
+L401647 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Leave him, he's dead.
+L401646 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ What about Matt ?
+L401636 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I made this place..... now listen to me. I'll get out of this room, we have bigger troubles than this....
+L401635 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Why should we trust you ?
+L401600 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ No time. Get him up.
+L401599 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Where are we ?
+L401582 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Please don't be alarmed, Ma'am.
+L401581 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ What's going on ?
+L401580 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ You have 43 unpaid parking tickets, sir. You have the right to remain silent, anything you say can & will be held.....
+L401981 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Don't have to tell me twice.
+L401980 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ He's the liaison for McCay. Listen go. Go now.
+L401975 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ In the jail cell is a spiral staircase. It leads to the surface. Take it all the way up.
+L401974 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Where ?
+L401973 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Almost. Look, you two get out of here.
+L401972 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Is it over ?
+L401750 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Thanks...
+L401749 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Knock yourself out.
+L401748 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ This probably isn't the bet time, but I really have to pee. Can I pee ?
+L401741 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Ow...
+L401740 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ You okay ?
+L401737 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Swimming, you know, like in water, moron.
+L401736 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ What the fuck are you talking about.
+L401735 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Hey, try swimming. It works.
+L401732 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ That's cute asshole.
+L401731 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Issues ??? This guy has the damn subscription to every psychotic issue I've ever heard of.
+L401728 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Look...
+L401727 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ That's not to tough.
+L401724 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Look pipsqueak, I'm having a real bad day here and we're just starting.
+L401723 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Why don't you tell us a little about yourself ?
+L401722 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ It's fine thanks.
+L401719 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Yeah, we're about a hundred an fifty feet below the subway stations. We're heading a little higher up now.
+L401718 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ An elevator ?
+L401713 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ You were one of those guys that played Dungeons & Dragons with real swords, weren't you.
+L401712 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ The room has sound sensors. If you wake it up, it breathes fire.
+L401711 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Are you hunting wabbits ?
+L401710 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Be very, very quiet...
+L401709 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ So what happened ? Did you have a real bad theme park experience as a kid and this is your revenge ?
+L401708 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ A dragon.
+L401707 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ What's next Walt ?
+L401699 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I did, but this room has four exits and only one opens, it's up to them in the control room. There's one right over there. The exit light is on, but he can change it.
+L401698 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ I thought you made this place ?
+L401688 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Why ?
+L401687 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I'd get out of the water if I were you.
+L401686 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ That's nice.  I think I lost my wallet.
+L401680 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Not quite....
+L401679 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Is it over ?
+L401660 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Because of my charming personality ?
+L401659 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Give me one good reason why I don't plug you right here, right now ? 
+L401651 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I don't help criminals.
+L401650 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Hey buddy, thanks for the help back there !
+L401641 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ And that's different than this because...... ?
+L401640 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Either you'll be shot with bullets, impaled with a large spike, or nailed like a super model. Basically you're fucked any way you go.
+L401639 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Okay, NOW I'm worried. What exactly is on the other side of the door ?
+L401634 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Trust me, if you open any door, you'll be dead a whole lot sooner.
+L401633 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Wait for what ? i don't wanna alarm you but we'll be the special at the International House of Pancakes in about five minutes !
+L401632 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ NO ! Don't open ANY of them ! They're all wrong. Just wait.
+L401626 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I told him not to sit down in there.....
+L401625 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ OUCH !!! GODDAMMIT that hurts !!!!
+L401622 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Just shut the fuck up.
+L401621 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Who are you anyway ? What the hell is this ?
+L401620 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ NO. Don't. You'll get a shock from hell if you touch that seat.
+L401584 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ 43 unpaid parking tickets, sir.
+L401583 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Kojak here is arresting me for unpaid parking tickets.
+L401579 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Hey , Hey !
+L401578 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ That's very funny, sir. You are under arrest.
+L401577 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Yes, can I help you ? Maybe a donut or something ?
+L401576 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Are you Matthew Parker ?
+L401997 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ For once in your life, shut the fuck up.
+L401996 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ You think I'm that easy, Bitch ?
+L401894 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I'm sick of playing. I've got a better idea.
+L401893 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Why don't you just stop fucking around and just die !
+L401557 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Checking........
+L401556 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ A real criminal.... I still think that's our in... What about her ?
+L401555 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Yeah, but we're talking 43.
+L401554 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Parking tickets ? That's it ?
+L401553 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Checking..... Hah ! He has a shit load of unpaid parking tickets...
+L401552 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Any priors ? Any police record ?
+L401551 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Matthew lives on the Upper West Side, kinda posh for a temp don't you think ?
+L401550 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Yeah, maybe.... Let's start the background checks. Let's see where they live and what kind of security systems....
+L401549 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ He probably has a history of this shit.
+L401548 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ He already had a balance of $600,000.
+L401547 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ So ?
+L401546 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I see here that this guy has made deposits into his own account for the last four months. Each one in the amount of $100,000. He then puts in deposits into his girlfriends account.
+L401545 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I just want to double check the facts.
+L401544 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ What's wrong ?
+L401515 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ That's right. Now who needs to trust who ? Trust me, when you're ready to work the controls, I'll put you in the hot seat.
+L401514 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ You did.
+L401513 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ And who bailed you out when a hit was put on you, you sorry sack of shit. Who put you up ? Who gave you a job ?
+L401512 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ I made my bones on the street, you know. I did Riglioni in his own house. I was made in the Family, okay.
+L401511 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ No.
+L401510 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ I've been working with you for four years, don't you think that's worthy of at least one turn at the controls ?
+L401509 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Not down here. I'll start trusting you when I feel there the time is right. It's not personal, it's just survival.
+L401508 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ RESPECT is earned not given away, trust is given away to anybody.
+L401507 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Trust is earned not given away.
+L401506 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Look, you're going to have to start trusting me sometime. I am a trustworthy person.
+L401505 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ When you are ready.
+L401504 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ When will that be ?
+L401503 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ When I think you're ready.
+L401502 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Here. Am I ever going to get to run the controls for one these capers ?
+L401501 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Hand me the 3/8ths.
+L401404 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ You've got it boss. One more mangled body to the East River, coming up !
+L401403 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Johnny, let's get the cleanup started.
+L401394 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Got it.
+L401393 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Stop the hydraulics.
+L401392 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I said NO.
+L401391 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ But, he's...
+L401390 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Not yet.
+L401389 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ He'll never get it right. Try the Log Ride !
+L401386 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ You've got to be kidding me ! His lazy ass couldn't win the special Olympics.
+L401385 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Never underestimate a man who cheats on his taxes. His file says he is an avid jogger.
+L401382 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Yes, sir Mom. 
+L401381 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ It's my control board and I don't want it acting squirrelly because you dropped a few crumbs into the keyboard, no put the shit away.
+L401380 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ What ? Are you my mother ?
+L401379 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Don't eat at the console.
+L401378 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ What ?
+L401377 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Don't.
+L401376 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Let's just see if he can make it into round two....
+L401375 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ I didn't think he'd make it past Scraps.
+L401433 +++$+++ u6738 +++$+++ m449 +++$+++ FRED THOMISON +++$+++ We will start work on it now sir.
+L401432 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ If you want, I can fire you and have someone else who has the balls terminate these worthless people. Which will it be ?
+L401431 +++$+++ u6738 +++$+++ m449 +++$+++ FRED THOMISON +++$+++ Sir, I came from the Chicago offices myself, and if I may say, sir, there are still some very good....
+L401430 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Fire the whole division. We're moving more of the operations division into Manhattan anyway. Whoever is left over from the conversion is no longer needed. We already have all the key people here. Anyone else is expendable.
+L401429 +++$+++ u6738 +++$+++ m449 +++$+++ FRED THOMISON +++$+++ Excuse me, sir ?
+L401428 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Fire the whole division.
+L401427 +++$+++ u6738 +++$+++ m449 +++$+++ FRED THOMISON +++$+++ Well ?
+L401820 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Have that tape on my desk tomorrow morning.  First.... thing...
+L401819 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Sir ? We're moving them right along as fast as we can.
+L401818 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Fantastic ! A little faster sweetheart.
+L401817 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Yes sir. It will be the best of your collection, I assure you.
+L401816 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Not you Zach.  Remember, my wife is asleep upstairs, dear.  Zach, am I gonna like what I see on this tape ? Is it the grandest of all the Park's tapes ?
+L401815 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Sir ?
+L401814 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ One moment dear... 
+L401813 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Better, sir.
+L401812 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Is it as good as I hope it is ?
+L401811 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Good, sir.
+L401810 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Zach, my boy ! How is tonights adventure going ?
+L401809 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Zachary.
+L401484 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ That my boy, is the best part. Life on top of the world is boring... predictable. If I wanted life without chances, I never would have paid for Murderland. Now go. Make a formal proposal and see about the assistant. Find out if it's viable.
+L401483 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Sir, this is not like firing any employee. We can't predict what will happen.
+L401482 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Yes, do you think he would like a raise and a new position ?
+L401481 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ John, sir.
+L401480 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Do you think the assistant, what's his name...
+L401479 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ What then sir ? What would we do with the park with out Bruce ?
+L401478 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ I'm willing to bet that even the creator can't out wit his creation.
+L401477 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Sir, he created the Park. He would know how to circumvent any of the traps.
+L401476 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ I'll bet that would be the Park run of the century !
+L401475 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Sir ?
+L401474 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ What if we were to put Bruce into the Park as a Guest ?
+L401473 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ What do you mean sir ?
+L401472 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ I propose we consider a hostile take over. Perhaps Ol' Bruce is in need of a new job opportunity.
+L401471 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Bruce may still refuse. It is my belief that he is becoming more belligerent.
+L401470 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ That mail room kid was the longest lasting "guest" yet ! Maybe we can alter the computer records and make another "guest" from the more athletic of our staff.
+L401469 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Yes sir. It turns out we put an innocent man into the "park" and he was not the one who stole from the stamp machine. That is also about the time when Bruce began refusing.
+L401468 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ What about that time when the mail room kid was accused of stealing and we put him in the "Park" ? Wasn't that a computer glitch ?
+L401467 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ That's right, sir. He does a thorough background check and if he finds them to be criminal or guilty of embezzlement, then he will put them in the park. He has refused the last three suggested "guests".
+L401466 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ I don't believe Ol' Bruce is having as much fun with this as he once did. He still insists on the "guests" being of the more nefarious type.
+L401465 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ But sir, most of the people we are putting into the "Park" are accountants that embezzle or investment bankers. They are not known for their physical or intellectual prowess.
+L401464 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ I want more action. I want to see more ingenuity than that. I want to see the injured man out wit the machines !
+L401463 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I had suggested that they tone down the program so that the "guests" might take longer to expire.
+L401462 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ That was rather.... disappointing.
+L401461 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Son, let's watch the tape.
+L401460 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Thank you, sir. I was really hoping for shares, or possibly cash... but this, this is really personal.
+L401459 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Thank you, sir.
+L401458 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ I have entrusted you with a great many things. In your tenure with this company you have seen and heard things that could upset the very economic world in which we live. I think this kind of loyalty should be rewarded.
+L401457 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Yes sir.
+L401456 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Zach my boy, I can spend your yearly salary in a blink. I have had that kind of money all of my life. If I wanted to, I could fly to Paris for the afternoon.  My father formed this company over seventy years ago. When my brother became mentally challenged, it was put in my charge. Now running a bank of this size is very stressful. I need to relax on what little down time I have. A yacht club will not quite make my blood pressure decline. Understand ?
+L401455 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I make roughly four hundred thousand a year.
+L401454 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ And how much do we pay you annually ?
+L401453 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I am thirty two.
+L401452 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Zach, how old are you, son ?
+L401451 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ While I am not morally against these little, shall we say "hobbies", as long as I am on the payroll, but why not something like a yacht club ?
+L401450 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Of course.
+L401449 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Thank you , sir. Sir, may I ask you a question ?
+L401448 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ I have to say, that I am glad you are such an amazing kiss ass.
+L401447 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Yes sir, I do. Last night's, fresh from the Park.
+L401446 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Perhaps it was. I was in boarding school for so many years, it's hard to remember. Do you have the tape of the latest exploits from my favorite hobby ?
+L401445 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I thought that was Darwin, sir. Or perhaps Nietzsche ?
+L401444 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Relax, son. They'll learn in time that you don't fuck with First Bank. This is the real deal and we aim to keep it strong. My Daddy always told me that Only The Strong Survive.
+L401443 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Not that well sir. I believe we have a few too many soft hearts in the building. Did we aquire a bank from Chicago or a charity ?
+L401442 +++$+++ u6739 +++$+++ m449 +++$+++ JOHN C. MCCAY +++$+++ Zachory ! My boy, how goes the carnage down on 44 ?
+L401944 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Yeah, right. He's stuck all the way over here
+L401943 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Go in there ? What if Bruce finds you ?
+L401942 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ I don't know. I think that a power grid just needs reset. Don't get your panties in a bunch. I'll go down and reset it.
+L401941 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ How can this happen ?
+L401940 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ The power went out in half the park.
+L401939 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ What happened ?
+L401938 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ What the ... ?
+L401916 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ He's got two chices.either it's the Bowling Alley from Hell or Alice in Murderland. See this ? Even Bruce knows that no one can make it out of here in one piece.
+L401915 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ So what's next ? No one's ever made it this far before.
+L401906 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ I think I'll see hat action.
+L401905 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Okay, I have five that says THIS is it for them.
+L401892 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Goddamn it Bruce, you've cost me about thirty dollars so far.
+L401891 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Thank you very much.
+L401885 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ The room will fill to the top, then if they wind up in the next room, they lived, if not, they're dead.
+L401884 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Ach ! How will you know if they've made it ?
+L401883 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ <<belch>>
+L401882 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ That is repugnant. You have the habits of a goat.
+L401824 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ I can see that but where ?
+L401823 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ There ! There ! Did you see ! They're still alive !
+L401822 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Yes. I think he's feeling sick or something.
+L401821 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Was that the Old Man ?
+L401783 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ You're paying the bills.
+L401782 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I don't know. Maybe we should watch the tape to be sure.
+L401781 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Shit, I forgot about them. Well, I guess the boss man wasn't as tough as I thought.
+L401780 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Look ! Look !
+L401773 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I can see your small business ! Look at it it's so small.
+L401772 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Look he figured it out !
+L401757 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Well, Mr. Parker it seems that your is not the wardrobe of choice tonight. I'm quite confident that my tie is looking better than yours.
+L401756 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Maybe you should get over fears.
+L401706 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Why ? The crocks are all going for the dead crock. There's no fun in it. Besides we've got plenty more for them. The night is young....
+L401705 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Aren't you going to switch exits on him again ?
+L401695 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I'll see that bet.
+L401694 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ I've got five bucks that says someone dies here and now.
+L401655 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I do believe Mr. McCray will be most pleased with the tape of this one.
+L401654 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ I have a turn for the worse for the team !
+L401653 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ What's next ?
+L401638 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Of course, this one's a gimme. Just be patient, even Ol' Bruce can't outwit some of these traps.
+L401637 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Will he make it out ?
+L401618 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ He'll never make it out of the park alive. I promise you that....
+L401617 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ We can't afford too many surprises.
+L401616 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ He must have had a gun stashed. God damn it !
+L401615 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ What was that ?
+L401614 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ I don't know.....
+L401613 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ What is Bruce doing ?
+L401596 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ What ?????
+L401595 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Bruce has just awaken.
+L401594 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ We should have another fifteen minutes at least.
+L401593 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ How long till the drug wears off ?
+L401592 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Aren't you the bitter one.
+L401591 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Just a temp who pissed me off and a girl who turned me down for the night of her life.
+L401590 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ So who are these people with the Boss ?
+L401538 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ I'm listening.
+L401537 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I had hoped you would say that. I have a proposal for you.....
+L401536 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ No I am not.
+L401535 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Are you happy with your salary and position ?
+L401534 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ We can't.
+L401533 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ I didn't think even this company could afford to write off enough to build a new "Park".
+L401532 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Have you ever considered running your own "Park" ? I mean, since you will not be returning to your former profession.
+L401531 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Then what do you want ?
+L401530 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ No. I am not a homosexual.
+L401529 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ What are you looking for ? A blow job ?
+L401528 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I thought, and correct me if I'm wrong, but weren't you trying to play both sides ?
+L401527 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ There was a bit of confusion on one of my last jobs.
+L401526 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Might I ask why you no longer work for the mob ?
+L401525 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ I was.
+L401524 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Only that you were one of the finest hit men in the mob. That if you wanted a good clean kill, that Johnny Tortelli was the man for the job.
+L401523 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ What did you hear ?
+L401522 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ No. I was just curious if what I heard about you is true ?
+L401521 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ He's been expecting you.
+L401520 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ We have new "guests" for the park. I have a file on them. May I see Bruce ?
+L401519 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ Hey, Mr. Executive. Buy you a drink sailor ?
+L401398 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I'm just looking for our best interests. May I have the tapes, Bruce ?
+L401397 +++$+++ u6740 +++$+++ m449 +++$+++ JOHNNY +++$+++ He has a phone pole sticking in his chest, I think we don't need an autopsy.
+L402044 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ I'm going to go ahead and go now.
+L402043 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Why don't you shut up now.
+L402042 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ No sir. I was just getting , well you know. Water. We weren't talking about sex or anything else except Star Wars. Just saying hello. I think I'm gonna go now.
+L402040 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Well, I think if you take several lines out of context, Star Wars becomes a very sexual movie. I mean listen to this.  "Luke, at that speed will you be able to pull out in time ?" or "You came in that thing ? You're braver than I thought".
+L402039 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ No.
+L402038 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Ow. Son of a .....  Did I ever tell you my theory on Star Wars as Porn ?
+L402037 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Of course I am. I feel the testosterone coursing through my veins.  Now that I've gotten the stitches removed from my arm and the chiropractor fixed my back.
+L402036 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Hey buddy. You okay ?
+L402035 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Hey good lookin' ! What'cha got cookin' ?
+L402027 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Who was that guy anyway ?
+L402026 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ He was right behind me !
+L402023 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Come to the rescue again I see.
+L402022 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Thanks a lot. I always wanted to know what it was like to see my life flash before my eyes for the one hundredth time tonight.
+L402006 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Where are we ?
+L402005 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ No, idiot. Where do we go now ?
+L402004 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ I want to go to sleep for about a month.
+L402003 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ What now ?
+L402002 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ We made it !
+L402001 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Sweet Jesus I never dreamed I'd be glad to see Central Park at night.
+L402000 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ I was thinking maybe we should try this dinner thing again, but maybe the Epcot version will be open by then....
+L401999 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Hey Matty, don't wait for me or anything.
+L401994 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ I'm fine.
+L401993 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Are you okay ? Any holes ? I mean aside from the one's that nature gave you ?
+L401979 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Zach from work ?
+L401978 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ It's that asshole Zach isn't it ?
+L401967 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Nothing.
+L401966 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ What ?
+L401965 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ I think I'm very quickly getting over my phobia of public urination.
+L401964 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Shut up ! It's me.
+L401963 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Jesus Christ ! I'm just a temp for Christ sakes !
+L401721 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ "How's your foot" ? This guy tried to kill us and he put us in this place, and you want to know how his foot is ?
+L401720 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ How's your foot ?
+L401669 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ We just having our first date when you showed up.
+L401668 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ You don't have to sound so emphatic.
+L401658 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Maybe all that testosterone plugs his ears.
+L401657 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ I'm talking to you asshole !
+L401631 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Which one, this door is locked !
+L401630 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ The roof is coming down.... hey, you.... Which door gets us out of here ??
+L401628 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Fine, fine, I feel like a chicken McNugget.
+L401627 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Are you okay ?
+L401624 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ I just need to sit and think for a second.
+L401623 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ I think we should follow him...
+L401611 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ What the hell kind of cop are you ?
+L401610 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Hey, you ! What the hell is going on ?
+L401605 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ No ! Just get up. This is serious.
+L401604 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Hey... did we uhm, you know....
+L401603 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Wake up, we're in trouble.
+L401602 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Not now, Mom.
+L401575 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Yahoo !!!!!
+L401574 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Okay, now go under go under it ! Shoot Vader's Tie Fighter ! Get Him Get Him !
+L401573 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ My own sit down Star Wars arcade game. Wanna play it ?
+L401572 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Actually, I'm more interested in the man behind the wheel more than the manufacturer. So what is it that you have that makes you a materialistic fool ?
+L401571 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Would that impress you ? I mean you're the kinda woman that probably has Ferrari written all over your personal ad.
+L401570 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Like what, a Porsche ? A Ferrari ?
+L401569 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ I just want to have something that's mine, you know ? It's like living off of their money is fun and all. There are certain materialistic needs that I have that can only be satisfied with that extra little scratch.
+L401568 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ If they're so rich, why are you working at all ?
+L401567 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Well, I make good investments, I lead a double life as a secret agent.. I....I ... I have very rich parents. I have always had a lot of money.
+L401566 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ You have a real nice place... how can you afford this working as a temp ?
+L401565 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Yes, Excuse me for a second.
+L401564 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Are you okay ?
+L401563 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Thank you.
+L401562 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ What an incredible view !
+L401561 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Thanks.
+L401560 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Thank you, won't you come in ?
+L401559 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Hi. I brought some wine.
+L401558 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Hello.
+L401496 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Sure.
+L401495 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Dinner at my place then ? Say, seven o'clock ?
+L401494 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ As appealing as that sounds...
+L401493 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ This is too easy, I mean I had a speech prepared, then I even wore these pants because I could get on my knees to grovel.
+L401492 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Yes.
+L401491 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Really ? On a date ?
+L401490 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Yes.
+L401489 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ It's sounds so much better when you say it. I'm semi traditional here, and it's important that I ask. Will you go out with me ?
+L401488 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Do you want to go out with me ?
+L401487 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Listen, I was thinking, you know. Would you go, it's I think you're...
+L401486 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ I've never heard the Flintstones reduced to a sexual exploitation quite like that. You're funny.
+L401485 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Come on, I'm serious. Look at Wilma. She's this frail little thing, and Fred, I mean Fred Flintstone is this BIG guy. He has to be hung like a horse, and THAT's why Wilma puts up with his B.S.
+L401423 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Excuse me, gentlemen
+L401422 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Just look at this tie. You could fry an egg off that orange, yow. Have you ever considered the Jerry Garcia line of ties ?
+L401421 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ I meant him.
+L401420 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Thank you.
+L401419 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Good golly miss molly you are looking good today !
+L401439 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Maybe we should make the time. Especially considering the sixteen million dollars we have set aside expressly to settle law suits from these very events.
+L401438 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Look, Miss. I know you're still upset about that incident in Chicago, but understand, this is a cut throat business. We don't have time to play nursemaid to every single Tom Dick and Harry.
+L401437 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ I disagree. I think we should start looking into the severance pay schedules and make sure the people with families can.....
+L401436 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ We start with the top and work our way down. We start with the high salaries and then just let the little people go. No need to make the blue collars go crazy.
+L401417 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Were you involved in the incident where that guy killed himself in his office ?  I am sorry. Perhaps we should have dinner tonight to.... discuss your future.
+L401416 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Four years. I came over from the Capitol merger in Chicago six months ago.
+L401415 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I am equally impressed with your knowledge of the market. How long have you been with the company now ?
+L401414 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Actually it's down .2 from the last quarters highest, but I think it will pick up.
+L401413 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Did you see what the First Bank stock opened at ? Very impressive.
+L401412 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Good morning.
+L401411 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Good morning.

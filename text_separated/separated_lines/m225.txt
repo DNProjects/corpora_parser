@@ -1,0 +1,710 @@
+L636925 +++$+++ u3401 +++$+++ m225 +++$+++ ABRAMS +++$+++ Yes.
+L636924 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Good.  You ever been inside a hospital?
+L636923 +++$+++ u3401 +++$+++ m225 +++$+++ ABRAMS +++$+++ I'm fine.
+L636922 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Abrams. Yes. How are you today?
+L636921 +++$+++ u3401 +++$+++ m225 +++$+++ ABRAMS +++$+++ Abrams...
+L636920 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Mr. Abraham...
+L637199 +++$+++ u3422 +++$+++ m225 +++$+++ YOUNG LAWYER +++$+++ As far as we know, nothing.
+L637198 +++$+++ u3402 +++$+++ m225 +++$+++ ALITO +++$+++ And so what is the rest of his case aside from Dr. Thompson?
+L637197 +++$+++ u3422 +++$+++ m225 +++$+++ YOUNG LAWYER +++$+++ Very good.
+L637196 +++$+++ u3402 +++$+++ m225 +++$+++ ALITO +++$+++ How good's your intelligence?
+L637195 +++$+++ u3422 +++$+++ m225 +++$+++ YOUNG LAWYER +++$+++ Nothing.
+L637194 +++$+++ u3402 +++$+++ m225 +++$+++ ALITO +++$+++ What did he find?
+L637193 +++$+++ u3422 +++$+++ m225 +++$+++ YOUNG LAWYER +++$+++ She's the only nurse who isn't testifying for the Doctors.
+L637192 +++$+++ u3402 +++$+++ m225 +++$+++ ALITO +++$+++ Why did he go to see Mary Rooney?
+L636719 +++$+++ u3402 +++$+++ m225 +++$+++ ALITO +++$+++ Yes.
+L636718 +++$+++ u3403 +++$+++ m225 +++$+++ BISHOP +++$+++ I know that answer. If we went to trial would we win?
+L636717 +++$+++ u3402 +++$+++ m225 +++$+++ ALITO +++$+++ Well, of course, it's always dangerous...
+L636716 +++$+++ u3403 +++$+++ m225 +++$+++ BISHOP +++$+++ If we were to go to trial, would we win the case?
+L636715 +++$+++ u3402 +++$+++ m225 +++$+++ ALITO +++$+++ All right. But let's keep the price down. I've called Ed Concannon. He recommends that we continue to respond as if we're going to trial.
+L636714 +++$+++ u3403 +++$+++ m225 +++$+++ BISHOP +++$+++ So what I want to do is stop it here. I'm going to make him an offer. I want to do it myself. I want it to come from me.
+L636713 +++$+++ u3402 +++$+++ m225 +++$+++ ALITO +++$+++ No. Absolutely, and we're going to see that it is not.
+L636712 +++$+++ u3403 +++$+++ m225 +++$+++ BISHOP +++$+++ I want to settle this thing and be done with it. I don't want the Archdiocese exposed.
+L636711 +++$+++ u3402 +++$+++ m225 +++$+++ ALITO +++$+++ Neither does he. That's where he loses. This man's scared to death to go to court. We only have to call his bluff.
+L636710 +++$+++ u3403 +++$+++ m225 +++$+++ BISHOP +++$+++ No -- we don't want this case in court.
+L636709 +++$+++ u3402 +++$+++ m225 +++$+++ ALITO +++$+++ This is a nuisance suit. He's looking for small change. He's asking for six hundred thousand and betting we don't want to go to court.
+L636708 +++$+++ u3403 +++$+++ m225 +++$+++ BISHOP +++$+++ ...tell me about this case.
+L636707 +++$+++ u3402 +++$+++ m225 +++$+++ ALITO +++$+++ The man's an ambulance chaser...
+L636706 +++$+++ u3403 +++$+++ m225 +++$+++ BISHOP +++$+++ Four cases in three years...
+L636705 +++$+++ u3402 +++$+++ m225 +++$+++ ALITO +++$+++ Accused. Not indicted. He resigned the firm. Divorced nineteen seventy. Galvin worked with Michael Morrissey until Morrissey retired in 'seventy- eight. Since then he's been on his own. Four cases before the Circuit Court. He lost them all. He drinks.
+L636704 +++$+++ u3403 +++$+++ m225 +++$+++ BISHOP +++$+++ He was accused of jury tampering.
+L636814 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ That that poor girl put her trust in the hands of two men who took her life, she's in a coma, her life is gone. She has no family, she has no home, she's tied to a machine, she has no friends -- and the people who should care for her: her Doctors, and you, and me, have been bought off to look the other way. We have been paid to look the other way. I came in here to take your money.  I brought snapshots to show you. So I could get your money.  I can't take it. If I take it. If I take that money I'm lost. I'm just going to be a rich ambulance chaser.  I can't do it. I can't take it.
+L636813 +++$+++ u3403 +++$+++ m225 +++$+++ BISHOP +++$+++ What is the truth?
+L636812 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ And no one will know the truth.
+L636811 +++$+++ u3403 +++$+++ m225 +++$+++ BISHOP +++$+++ Nothing that we can do can make that woman well.
+L636810 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Yes. It would be.
+L636809 +++$+++ u3403 +++$+++ m225 +++$+++ BISHOP +++$+++ That was our insurance company's recommendation.
+L636808 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Because it struck me how neatly 'three' went into the amount. Two Hundred Ten Thousand. That would mean I keep seventy.
+L636807 +++$+++ u3403 +++$+++ m225 +++$+++ BISHOP +++$+++ Yes.
+L636806 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ You thought it was just.
+L636805 +++$+++ u3403 +++$+++ m225 +++$+++ BISHOP +++$+++ We thought it was just.
+L636804 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ How did you settle on the amount?
+L636803 +++$+++ u3403 +++$+++ m225 +++$+++ BISHOP +++$+++ It's a generous offer, Mr. Galvin...  ...nothing can make the woman well... but we try to compensate... to make a gesture...
+L636740 +++$+++ u3404 +++$+++ m225 +++$+++ CLAIRE +++$+++ Does that mean I'm back for awhile?
+L636739 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ They want to settle.  It means a lot of money.
+L636738 +++$+++ u3404 +++$+++ m225 +++$+++ CLAIRE +++$+++ What does it mean?
+L636737 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ That's the call that I'm waiting for.
+L636734 +++$+++ u3404 +++$+++ m225 +++$+++ CLAIRE +++$+++ Frank Galvin's... who's calling please? Bishop Brophy's office...
+L636733 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ This is going to drive the ante up.
+L636732 +++$+++ u3404 +++$+++ m225 +++$+++ CLAIRE +++$+++ ...a Mrs. Doneghy called... I told you that.
+L636731 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ To get somebody from a Boston hospital to say he'll testify?
+L636730 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ You know what that would mean?
+L636729 +++$+++ u3404 +++$+++ m225 +++$+++ CLAIRE +++$+++ It looks that way.
+L636728 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...he wants to testify...?
+L636727 +++$+++ u3404 +++$+++ m225 +++$+++ CLAIRE +++$+++ Mickey told him to call.  'He's some very hotshot surgeon at Mass. Commonwealth. He wants to meet with you at seven tonight re testimony in the case of Deborah Ann Kaye. You meet him at the hospital.'
+L636726 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Gruber...
+L636725 +++$+++ u3404 +++$+++ m225 +++$+++ CLAIRE +++$+++ ...that was a Dr. David Gruber's office...
+L636724 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...yes. Get her on the phone...
+L636723 +++$+++ u3404 +++$+++ m225 +++$+++ CLAIRE +++$+++ ...here's your mail, call Mrs. Doneghy...
+L636722 +++$+++ u3404 +++$+++ m225 +++$+++ CLAIRE +++$+++ Mickey told me to come back to work.
+L636721 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ What are you doing here?
+L637501 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ After, after the operation, when that poor girl, she went in a coma. Dr. Towler called me in. He told me he had five difficult deliveries in a row and he was tired, and he never looked at the admittance form.  And he told me to change the form. He told me to change the one to a nine.  Or else, or else, he said...  He said he'd fire me. He said I'd never work again... Who were these men...? Who were these men...? I wanted to be a nurse...
+L637500 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ And why, please tell us, would you think that?
+L637499 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ I thought I would need it.
+L637498 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ ...what in the world would induce you to make a photocopy of some obscure record and hold it four years? This is a... why? Why would you do that?
+L637494 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Because I kept a copy. I have it right here.
+L637493 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ You didn't write that figure. And how is it that you remember that so clearly after four years?
+L637492 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Yes, I, yes, I signed it, yes. But I, I didn't write that figure.
+L637491 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ You've just said you signed it.
+L637490 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ That's not my handwriting.
+L637489 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ You swore on this form that the patient ate nine hours ago.
+L637488 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ I do. Yes.
+L637487 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ 'They lied.' Indeed! When did they lie? And do you know what a lie is?
+L637486 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ They lied.
+L637483 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ You know these doctors could have settled out of court. They wanted a trial. They wanted to clear their names.
+L637482 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ I...
+L637481 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Then, please, which is correct? You've sworn today the patient ate one hour ago. Four years ago you swore she ate nine hours ago? Which is the lie. When were you lying?
+L637480 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ I... yes.
+L637479 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ And wasn't that an oath...? These are your initials here: K.C. When you signed this chart you took an oath. No less important than that which you took today.  Isn't that right?  Isn't that right...?
+L637478 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ I...
+L637477 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Now. I'd like to ask you something: four years ago, when you were working as a nurse, are you aware that Drs. Towler and Marx based their treatment of Deborah Ann Kaye on this chart that you signed...?
+L637476 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Yes.
+L637475 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ ...sworn before God you would tell the truth?
+L637474 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Yes.
+L637473 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Just now...
+L637472 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Yes.
+L637471 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ In fact, you've just taken an oath that you would not commit perjury. You've just sworn to that. Isn't that right?
+L637470 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ No.
+L637469 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ You would not...?
+L637468 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ I wouldn't do it.
+L637467 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Yes.  It is a crime. A serious crime.
+L637466 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ It's a crime.
+L637465 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ You are aware of the penalties for perjury...?
+L637232 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Objection.
+L637231 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ I did.
+L637228 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Do you, indeed. I'll bet you do. Fine. Fine. We'll save the court the time. We will admit the Doctor as an 'expert witness,' fine.
+L637227 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ I have been practicing medicine for forty-six years and I know when an injustice has been done.
+L637226 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ Sir. Yes. When a thing is wrong... as in this case, I am available. I am seventy-four years old, I am not board-certified.
+L637225 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Yes, we've heard that. Doctor: you testify quite a bit against other physicians? Isn't that right? You, you're available for that? When you're paid to be there?
+L637224 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ I'm on the staff of...
+L637223 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Uh-huh. Still practice a lot of medicine?
+L637222 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ I am seventy-four years old.
+L637221 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ How old are you?
+L637220 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ 'Methodology and Techniques of Anesthesiology.' Yes.
+L637219 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ ...of Anesthesiology?
+L637218 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ Meth... Methodology and Technique...
+L637217 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ What book is that?
+L637216 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ Through, through his book.
+L637215 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ How is that?
+L637214 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ I know of him.
+L637213 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Do you know Dr. Robert Towler...?
+L637212 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ I'm just an M.D.
+L637211 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Orthopedics?
+L637210 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ No.
+L637209 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Neurology?
+L637208 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ No.
+L637207 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ ...I'm sure it is, but this is Massachusetts, Doctor. Certified in Internal Medicine?
+L637206 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ No, I am not. It's quite common in New York State...
+L637205 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Are you board-certified in anesthesiology, Doctor?
+L637204 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ Just as you are, Sir...
+L637203 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Engaged to render an opinion. For a price. Is that correct? You're being paid to be here today?
+L637202 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ That is correct. I was engaged to render an opinion.
+L637201 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Dr. Thompson, just so the Jury knows, you never treated Deborah Ann Kaye. Is that correct?
+L637485 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ And you would come here, and on a slip of memory four years ago, you'd ruin their lives.
+L637484 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Objection!
+L637292 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Your Honor...! Your Honor...
+L637291 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...almost nine minutes... causing brain damage.
+L637290 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ We've touched on this, his own witness has said...
+L637289 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...to get her heartbeat back...?
+L637288 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Objection, we've...
+L636901 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Frank Galvin. We've met before.
+L636900 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Ed Concannon.
+L637512 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ I'm going to uphold that.
+L637511 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Thank you, your Honor. Further: Ms. Costello is a rebuttal witness. As a 'Surprise Witness' she may only serve to rebut direct testimony. As her only evidentiary rebuttal was the admitting form, which has been disallowed I request that her entire testimony be disallowed and the jury advised that they must totally disregard her appearance here.
+L637510 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ The document is disallowed, the jury will be advised not to consider the testimony of Kathy Costello regarding the Xerox form.  It's unsubstantiated and we can't accept a copy in preference to the original...
+L637509 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ ...one moment, Mr. Concannon...
+L637508 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Thank you, your Honor. We object to the copy of the admissions form as incompetent and essentially hearsay evidence and cite McGee versus State of Indiana, U.S. 131 point 2 and 216 through 25 of the Uniform Code: 'The admission of a duplicate document in preference to an existing original must presuppose the possibility of alteration and so must be disallowed.' And, your Honor, having given the Plaintiff the leeway we would like your ruling on this issue now: we object to the admission of the Xerox form.
+L637503 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ You may step down.
+L637502 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ No further questions.
+L637496 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ I'll rule on that presently.  Proceed.
+L637495 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Objection! This is ri... expect us to accept a photocopy, we have the original right...
+L637437 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Mr. Galvin, rebuttal?
+L637436 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Nothing further, your Honor.
+L637435 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Mr. Concannon...?
+L636911 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ My doctors didn't want a settlement at any price. They wanted this cleared up in court. They want their vindication. I agree with them. But for today the offer stands. Before we begin the publicity of a trial. For today only.  When I walk out that door the offer is withdrawn.  As long as you understand that.  It's got to be that way.
+L636910 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Huh!
+L636909 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Your Honor, Bishop Brophy and the Archdiocese have offered plaintiff two hundred and ten thousand dollars.
+L637077 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Tell us.
+L637076 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ My God, we tried to save her... You can't know... You can't know...
+L637075 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ You reached down into death. Now, isn't that right?
+L637074 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ Yes!
+L637073 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ ...to save her and to save the baby. Is that...
+L637072 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ ...We did everything we could...
+L637071 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ ...A patient riddled with complications, questionable information on her, on her admitting form...
+L637070 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ Yes.
+L637069 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ ...You brought thirty years of medical experience to bear. Isn't that what you did?
+L637068 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ Well, we...
+L637067 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ And what did your team do...
+L637066 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ That's right.
+L637065 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ ...and her heart stopped and she wasn't getting oxygen.
+L637063 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ She THREW UP IN HER MASK. Let's cut the bullshit. Say it: She THREW UP IN HER MASK.
+L637062 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ She'd aspirated vomitus into her mask...
+L637061 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Tell me one?
+L637060 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ Well, many reasons, actually...
+L637059 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Why wasn't she getting oxygen...?
+L637058 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ It's a common medical expression, it's a crash program to restore the heartbeat. Dr. Marx cut an airway in her trachea, to get her oxygen, her and the baby... Ms. Nevins...
+L637057 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ 'Code Blue,' what does that mean...?
+L637056 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ We went to Code Blue...
+L637055 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ What did these people do when her heart stopped?
+L637054 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ Mary Rooney, the obstetrical nurse...
+L637053 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ Ms. Nevins, nurse-anesthetist; Dr. Marx, of course...
+L637052 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Dr. Towler, who was in the operating room with you?
+L637051 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ Thank you. When Debby...
+L637049 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ When she...
+L637048 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Anything special about the case?
+L637047 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ Yes.
+L637046 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ You were there to help Dr. Marx deliver her baby. Were you not?
+L637045 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ Yes.
+L637044 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Answer affirmatively. Simply. Keep those answers to three words. You weren't 'part of a group,' you were her anesthesiologist. Isn't that right?
+L637043 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ ...I was one of a group of...
+L637042 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ You were the anesthesiologist at her delivery May twelfth, nineteen seventy...
+L637041 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ I was her doctor.
+L637040 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Say it.
+L637039 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ Yes.
+L637038 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Whatever the 'truth' is, let's hear that. You were her doctor.
+L637037 +++$+++ u3405 +++$+++ m225 +++$+++ CONCANNON +++$+++ Don't equivocate. Be positive. Just tell the truth.
+L637036 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ No, actually, she was referred to me. She was Dr. Hagman's patient...
+L636960 +++$+++ u3406 +++$+++ m225 +++$+++ DONEGHY +++$+++ I understand.  I went to the Bar Association. They tell me you're going to be disbarred.
+L636959 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ If I could accept the offer right now, I would.  They took it back.
+L636958 +++$+++ u3406 +++$+++ m225 +++$+++ DONEGHY +++$+++ You guys, you guys, you're all the same. The Doctors at the hospital, you... it's 'What I'm going to do for you'; but you screw up it's 'We did the best that we could. I'm dreadfully sorry...' And people like me live with your mistakes the rest of our lives.
+L636957 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I'm going to win this case... Mist... Mr. Doneghy... I'm going to the Jury with a solid case, a famous doctor as an expert witness, and I'm going to win eight hundred thousand dollars.
+L636956 +++$+++ u3406 +++$+++ m225 +++$+++ DONEGHY +++$+++ What you thought!? What you thought... I'm a workingman, I'm trying to get my wife out of town, we hired you, we're paying you, I got to find out from the other side they offered two hundred...
+L636955 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I swear to you I wouldn't have turned the offer down unless I thought that I could win the case...
+L636954 +++$+++ u3406 +++$+++ m225 +++$+++ DONEGHY +++$+++ You ruined my life, Mister... Me and my wife... and I am going to ruin yours...  You don't have to go out there to see that girl. We been going four years.  Four years... my wife's been crying herself to sleep what they, what, what they did to her sister.
+L636953 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ It's all right, Mickey.
+L636952 +++$+++ u3406 +++$+++ m225 +++$+++ DONEGHY +++$+++ I'm going to have you disbarred. I'm going to have your ticket. You know what you did? Do you know what you did?
+L636951 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Hold on a second.
+L636950 +++$+++ u3406 +++$+++ m225 +++$+++ DONEGHY +++$+++ You said you're gonna call me up. You didn't call me up. Who do you think you are?  Who do you think you are...?
+L636700 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ It's completely done on a contingency basis. That means whatever the settlement is I retain one-third... that is, of course, the usual arrangement...
+L636699 +++$+++ u3406 +++$+++ m225 +++$+++ DONEGHY +++$+++ What is this going to cost?
+L636696 +++$+++ u3406 +++$+++ m225 +++$+++ DONEGHY +++$+++ We just...
+L636695 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I completely understand...
+L636694 +++$+++ u3406 +++$+++ m225 +++$+++ DONEGHY +++$+++ ...we told them we didn't want it to come out this way.
+L636693 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I doubt we'll have to go to trial...
+L636692 +++$+++ u3406 +++$+++ m225 +++$+++ DONEGHY +++$+++ ...the Archdiocese called up, they said who was our attorney, 'cause the case is coming to trial...
+L636689 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I was telling your wife, we have a very good case here.
+L636688 +++$+++ u3406 +++$+++ m225 +++$+++ DONEGHY +++$+++ ...that's all right.
+L636687 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Please sit down. I told your wife. I'm sorry that we have to meet out here. I've got a case coming in two days in the Superior Court and my office is a mess of papers.
+L637305 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ No. No. Thank you. You go home.
+L637304 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ You sure you don't want me to stay on.
+L637303 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Yes... I... yes.
+L637302 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ You know... sometimes people can surprise you. Sometimes they have a great capacity to hear the truth.
+L637301 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ No. No thank you, Doctor. You go home.
+L637300 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ I'm afraid that's not true.  Will you want me to stay on till Monday?
+L637299 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ No, you did fine.
+L637298 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ I didn't do too well for you.
+L637240 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ It's my opinion it took him much longer. Nine... ten minutes. There's too much brain damage.
+L637239 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Now, Dr. Towler's testified that they restored the heartbeat within three or four minutes. In your opinion is his estimate correct?
+L637238 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ Cardiac arrest. During delivery her heart stopped. When the heart stops the brain's deprived of oxygen. You get brain damage. That is why she's in the state she's in today.
+L637237 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ In your opinion, what happened to Deborah Ann Kaye?
+L637236 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Dr. Thompson. From your review of the hospital records of May twelfth nineteen seventy-six.
+L637091 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ There's nothing they can do to me.
+L637090 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ These people play very rough. They don't want to lose this case. There's a lot of pressure they can bring to bear, I...
+L637089 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ ...What difference would...
+L637088 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...apartment.  No, no. Please. You don't know who we're dealing with, I, please believe me, they...
+L637087 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ ...I made a reservation at...
+L637086 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Yes. Yes. I think so. I hope you'll be comfortable. I'm putting you up at my...
+L637085 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ From what I've seen, Mr. Galvin, you have a very good case...
+L637084 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I'm going to take you to the home to see the girl...
+L637083 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ That's what I'd planned to...
+L637082 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I have some errands to run, and then I thought we'd spend the evening...
+L637080 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ It was good of you to meet...
+L637079 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Dr. Thompson...?
+L637251 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ I... um...
+L637250 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ The Doctors were not negligent.
+L637249 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ I... given the limits of your question, that's correct.
+L637248 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Then you're saying there's no negligence, based on my question?
+L637247 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ I... in that small context I would have... I would have to say 'no.'
+L637242 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ Well...
+L637241 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Are you saying that a failure to restore the heartbeat within nine minutes in itself constitutes bad medical practice?
+L637144 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ It's a common medical term.
+L637143 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ 'Code Blue'...
+L637142 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Then what good would it do to ruin the reputation of two men, to help a girl whose life's not going to be changed in the least? You know what CODE BLUE means?
+L637141 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ Actually, yes. It's by no means bad, I...
+L637140 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ She getting good care over there?
+L637139 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ ...I made a detailed physical examination of the patient, Sir, yesterday evening, I...
+L637138 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Easthampton Hospital for Women. Excuse me, what is that, a joke? Let me tell you something, Doctor, those men at Catherine Laboure. Men who are known not only in this city, but the world, were trying to save a woman's life. They were there, and here you are, four years later, read some hospital report, and say...
+L637137 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ I am on the staff of...
+L637136 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ What qualifies you as an expert in anesthetics?
+L637135 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ I am seventy-four years old.
+L637134 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Is that what a good doctor would do? How old are you, please?
+L637133 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ ...she went in complaining of stomach cramps. Good doctor would have doubted the information on the chart.
+L637132 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ ...that's what the sister said. The chart said she ate nine hours prior to...
+L637131 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ Her sister said she ate one hour prior to admittance... she...
+L637130 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Why is that?
+L637129 +++$+++ u3407 +++$+++ m225 +++$+++ DR. THOMPSON +++$+++ They gave her the wrong anesthetic.
+L637434 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Thank you.
+L637433 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ Negligent. Yes... it would have been criminal. But that was not the case.
+L637432 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ If she had eaten, say one hour prior to admission, the inducement of a general anesthetic... the type you gave her... would have been negligent...?
+L637431 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ She threw up in her mask, yes. But she hadn't eaten one hour prior to admission.
+L637430 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...Page 414, 'If a patient has taken nourishment within one hour prior to inducement, general anesthetic should be avoided at all costs because of the grave risk the patient will aspirate food particles into his mask.' Is that what happened to Deborah Ann Kaye? She aspirated into her mask?
+L637429 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ Yes.
+L637428 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ And you wrote that...
+L637427 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ I. Yes. It is.
+L637426 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ 'Practice and Methodology in Anaesthesia.' General textbook on the subject. Is that correct?
+L637425 +++$+++ u3408 +++$+++ m225 +++$+++ DR. TOWLER +++$+++ Yes. I wrote it.
+L637424 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Dr. Towler; page 406, 'Contraindications to general anesthetic. Ideally a patient should refrain from taking nourishment up to nine hours prior to induction of general anesthetic.' Does that sound familiar?
+L636777 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ To do right. Isn't that why you're doing it?
+L636776 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Uh, why, why are you doing this?
+L636775 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ ...that's perfectly all right.
+L636774 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Thank you...
+L636772 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...the case with anyone. And I'll meet you Tuesday, and we'll go over your testimony...
+L636771 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ I understand.
+L636770 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ We have to... we... we have to keep you under wraps. Please don't, don't discuss...
+L636767 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ What are they going to do? Not invite me to their Birthday party...?  Look, I gotta go. I have to be in Cambridge...
+L636766 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ The hospital is owned by the Archdioceses of...
+L636764 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ Whose side are you arguing...? I thought that you wanted to do something. I don't have any interest in the woman's 'estate' -- No offense, but we all know where the money's going to... I have an interest in the Hospital; and I don't want those bozos working in the same shop as me. They gave her the wrong anesthetic. They turned the girl into a vegetable. They killed her and they killed her kid. You caught 'em. Now: how many others did they kill?
+L636763 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ The most respected...
+L636762 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ I read the file. Yeah. Marx and Towler. I know who they were.
+L636761 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Do you know who her doctors were?
+L636760 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ Her doctors murdered her. They gave her the wrong anesthetic and they put her in the hospital for life.  Her doctors murdered her.
+L636759 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I'm sorry...?
+L636758 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ Her doctors killed her.
+L636757 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Uh... in the, well, in the interests of her family... you, Dr. Gruber, you know, you can never tell what a jury is going to do. St. Catherine's a very well thought of institution. Her doctors...
+L636756 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ Why?
+L636755 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Yes.
+L636754 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ You're going to settle out of court?
+L636753 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Yes.
+L636752 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ ...and you're going to do that?
+L636751 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ The Archdiocese called, they want to settle... her estate...
+L636750 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ Right. Who called?
+L636749 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ They called, they're going to settle, what I want to do is build up as much...
+L636748 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ ...Deborah Ann Kaye...
+L636747 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...Deborah Ann Kaye...
+L636746 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ I read the hospital report on your client.
+L636745 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ That's perfectly all right. I'm kind of rushed. Do you mind if we walk while we talk?
+L636744 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I appreciate -- a man as busy as --
+L636743 +++$+++ u3410 +++$+++ m225 +++$+++ GRUBER +++$+++ Yes? Galvin, right?
+L636742 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Dr. Gruber...
+L637463 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Yes.
+L637462 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ A single hour.
+L637461 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ I did.
+L637460 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ And did you write the numeral 'one' down on the record, standing for one hour?
+L637459 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Yes.
+L637458 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ One hour.
+L637457 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ She said she had a full meal one hour before coming to the hospital.
+L637456 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ What did she say?
+L637455 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Yes.
+L637454 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ D'you ask the patient when did she last eat?
+L637453 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Kathy Costello. That's my maiden name.
+L637452 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ These are your initials, 'K.C.'?
+L637451 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Yes.
+L637449 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Yes.
+L637448 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ You were the Admitting Nurse at St. Catherine Laboure Hospital on May twelfth, nineteen seventy-six, the night Deborah Ann Kaye was admitted...
+L637447 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Yes...
+L637446 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Kathy Price...
+L637409 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ That's a wonderful profession. My daughter-in-law's a nurse. What did you do, stop?
+L637408 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ I used to be a nurse.
+L637407 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Yes.
+L637406 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Mrs. Simmonds.
+L637405 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Mrs...
+L637404 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Who told you that?
+L637403 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ You're really...  You, are you the one they told me was the nurse?
+L637402 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Thank you.
+L637401 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Four. You're great with these kids.
+L637400 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ How old is he?
+L637399 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Uh-huh. My nephew's going to be staying with us in a few months, so I stopped by.
+L637398 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ You live in the neighborhood?
+L637397 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I've been meaning to come in a long time.
+L637396 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Hi. How are you doing?
+L637395 +++$+++ u3413 +++$+++ m225 +++$+++ KATHY +++$+++ Hi.
+L637516 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Noted. Thank you.  Miss Costello was a rebuttal witness. Her sole rebuttal was the document, which has been disallowed...
+L637515 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Exception!
+L637514 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Overruled...
+L637513 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I object, your Honor...
+L637506 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Mr. Concannon...?
+L637505 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Nothing further, your Honor...
+L637263 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ You aren't going to get a mistrial, boy. We're going back this afternoon, we're going to try this case to an end. Now you get out of here before I call the Bailiff and have you thrown in jail.
+L637262 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Damn right I'm done. I'm going to ask for a mistrial and I'm going to request that you disqualify yourself from sitting on this case. I'm going to take a transcript to the State and ask that they impeach your ass.
+L637261 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Are you done?
+L637260 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ And don't give me this shit, 'I was a lawyer, too.' 'Cause I know who you were. You couldn't hack it as a lawyer. You were Bag Man for the Boys and you still are. I know who you are.
+L637259 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Galvin, look, many years ago...
+L637258 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ No, no, you listen to me. All I wanted in this case is an even shake. You rushed me into court in five days... my star witness disappears, I can't get a continuance, and I don't give a damn. I'm going up there and I'm going to try it. Let the Jury decide. They told me Sweeney he's a hard- ass, he's a defendant's judge. I don't care. I said, the hell with it. The hell with it. I'll take my chances he'll be fair.
+L637257 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Listen to me, fella...
+L637256 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I'm an attorney on trial before the bar. Representing my client. My client, do you understand? You open your mouth and you're losing my case for me.
+L637255 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ I got a letter from the Judge Advocate's office on you today, fella, you're on your way out... They should have kicked you out on that Lillibridge case. Now this is it today.
+L637246 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ I'd just like to get to the point, Mr. Galvin. Let's not waste these people's time. Answer the question, Mr. Witness. Please. Would a nine minute lapse in restoring the heartbeat in and of itself be negligence?
+L637245 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ If I may be permitted to question my own witness in my own way...
+L637244 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Yes, Mr. Galvin?
+L637235 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ I believe that's the law... is it not, Mr. Galvin...?
+L637234 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ What?
+L637233 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Sustained. Yes. The witness will confine his testimony to review of the hospital records.
+L637230 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Thank you, your Honor, I'll continue. Dr. Thompson. Did you examine Deborah Ann Kaye last night at The Northern Chronic Care Facility?
+L637229 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Do we have time this morning to...  All right. Mr. Galvin, you want to continue now, or we can resume with Dr. Thompson this afternoon.
+L637188 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Defense...?
+L637187 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Ready, your Honor.
+L637186 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Is the Plaintiff ready?
+L636999 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ I don't have a week. This case never should have come to trial. You know better. You're Mr. Independent. You want to be independent? Be independent now. I've got no sympathy for you.
+L636998 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I could subpoena him if I had a week.
+L636997 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ That happens.
+L636996 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I had a witness disappear on me.
+L636995 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ You should have taken their offer. Especially if you were unprepared.
+L636994 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I need an extension for my case.
+L636993 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ That's perfectly all right.
+L636992 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Thank you for seeing me.
+L636991 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ What is it?
+L636918 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I'm sure you would.
+L636917 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ And it seems to me, a fella's trying to come back, he'd take this settlement, and get a record for himself.  I myself would take it and run like a thief.
+L636916 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I wasn't disbarred, they dropped the pro...
+L636915 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ ...that's true. Sometimes they change, sometimes they don't. Now, I remember back to when you were disbarred...
+L636914 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...things change.
+L636913 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ That's it...?  Come on, guys... life is too short...  You tell me if you're playing 'chicken,' or you mean it.  Frank: I don't think I'm talking out of school, but I just heard someone offer you two hundred grand... and that's a lot of money... and if I may say, you haven't got the best of records.
+L636908 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ I know full well she can't, Frank. You see the Padre on your way out and he'll punch your ticket. You follow me? I'm trying to help you.
+L636907 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ My client can't walk, your Honor.
+L636906 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ I'm sure it is, Frank: and let me tell you something. If we find it so complex, how in the hell you think you're going to make a jury understand it?  See my point? Let's talk a minute. Frank: what will you and your client take right now this very minute to walk out of here and let this damn thing drop?
+L636905 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ This is a complicated case, your Honor...
+L636904 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Now, have you boys tried to resolve your little difficulty because that certainly would save the Commonwealth a lot of time and bother.
+L636899 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I was held up.
+L636898 +++$+++ u3412 +++$+++ m225 +++$+++ JUDGE +++$+++ Why is that?
+L636897 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Yessir. I'm sorry.
+L637355 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Call the A.M.A.  ...I can't talk now.  ...tell them you're Dr. Somebody... you have to find this nurse...
+L637354 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ I have to talk to you.
+L637353 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Thank you.
+L637310 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I don't have a goddamned idea.
+L637309 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ What are you going to do?
+L637308 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ No.
+L637307 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Is it over?
+L637177 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Yes.  We've all got to let go.
+L637176 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ No... no...
+L637175 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ You're pressuring yourself...
+L637174 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Stop pressuring me...
+L637173 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Joe...  Joe...
+L637171 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ What would you like it to be to me...? I, I, I can't invest in failure.
+L637170 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ What is that to you...?
+L637169 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ What is your wife's picture doing by the side of your...
+L637168 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ It's over!
+L637167 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Oh, yes, I do, Joe. Believe me. You say you're going to lose. Is it my fault? Listen! The damned case doesn't start until tomorrow and already it's over for you!
+L637166 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ You, you don't under...
+L637165 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ You're like a kid, you're coming in here like it's Saturday night, you want me to say that you've got a fever -- you don't have to go to school...
+L637164 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ If I don't 'grow up...'
+L637163 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Not if you don't grow up...
+L637162 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Is there going to be a later...?
+L637161 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Maybe I'll tell you later.
+L637160 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ And what makes you so tough?
+L637159 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ You told me so. Maybe you'd get some sympathy. You came to the wrong place.
+L637158 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Who told you that?
+L637157 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ You want me to tell you it's your fault? It probably is. What are you going to do about it?  I thought it's not over till the jury comes in.
+L637156 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I...
+L637155 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ You do what you want. You want to leave... You want to go kill yourself?
+L637154 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I... do you want me to leave?
+L637153 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Well, then what are you doing here?
+L637152 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Yes.
+L637151 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ And it's over...?
+L637150 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ That's what I am.
+L637149 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ You're talking like a drunk.
+L637148 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ That's not the question. It's over.  Do you think that it's my fault? If I'd... if I'd... I never should have taken it. There was no way that I was going to win.
+L637147 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Isn't there something you...
+L637146 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Do you think it's my fault?
+L637031 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Yes.
+L637030 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ You're going to stay here...?
+L637029 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ You can't work if you can't think. You get in bed. It's all right. I'll stay here with you. It's all right. Come on...
+L637028 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I've got to work.
+L637027 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Why don't you get some rest?
+L637026 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ No, no, I'm just...
+L637025 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Do you want me to go...?
+L637024 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I've got to work...
+L637023 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ ...and is that serious?
+L637022 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ They, uh, they got to my witness.
+L637021 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ What happened...?
+L637020 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ We, we... No... we just had a small reversal in the case...  I have some, uh... I have some work to do...
+L637019 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Is this a bad time.
+L637018 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ What...?
+L637017 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Would you like me to leave...?  Is this a bad time -- ?
+L636894 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ That's what I'm going to try to do.
+L636893 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ And is that what you're going to do?  Is that what you're going to do...?
+L636892 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Maybe I can do something right.
+L636891 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Maybe what?
+L636890 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ They might. Yes. That's the point... is that they might... you see, the jury wants to believe. They're all cynics, sure, because they want to believe. I have to go in there tomorrow to find twelve people to hear this case. I'm going to see a hundred people and pick twelve. And every one of them it's written on their face, 'This is a sham. There is no justice...' but in their heart they're saying, 'Maybe... maybe...'
+L636889 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ And are they going to get it?
+L636888 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Jimmy!  That's why the court exists. The court doesn't exist to give them justice, eh? But to give them a chance at justice.
+L636887 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ I think I will.
+L636886 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ The weak, the weak have got to have somebody to fight for them. Isn't that the truth? You want another drink?
+L636884 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ You just got lucky.  D'you eat yet? Come on.
+L636883 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ What if it wasn't you that I came back to see?
+L636882 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ My name's Frank. And furthermore, you came back to see me tonight.
+L636881 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Laura.
+L636880 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ A brick house says you divorced him. I'll put you on your honor. Bet you a hundred dollars against you join me for dinner. And I'll take your word for it. Now you tell me the truth. Because you cannot lie to me. What's your name?
+L636879 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Who says I'm the one that called it off?
+L636878 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Oh, actually it was. Then why'd you call it off?
+L636877 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Yes. It was, actually.
+L636876 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Really. How wonderful for you.
+L636875 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ My ex-husband was a lawyer.
+L636874 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I'm a lawyer.
+L636873 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ And what are you? A cop?
+L636872 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ What Hotel are you staying at?
+L636871 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ The TV didn't work.
+L636870 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Why?
+L636869 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ I changed my room at the Hotel.
+L636868 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I changed my life today. What did you do?
+L636867 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Still looking.
+L636866 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ D'you find an apartment?
+L637386 +++$+++ u3421 +++$+++ m225 +++$+++ VOICE +++$+++ No. At Chelsea Childcare. Okay. Look, call me Monday, hey? I'm late for work.
+L637385 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Yes, we know that you do. I have it in my files. That's at the Manhattan Health Center...
+L637384 +++$+++ u3421 +++$+++ m225 +++$+++ VOICE +++$+++ We get it at work. We get the magazine at work.
+L637383 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ We have a renew-your-subscription offer...
+L637382 +++$+++ u3421 +++$+++ m225 +++$+++ VOICE +++$+++ Missus...
+L637381 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ That's why I'm calling, Miss Price...
+L637380 +++$+++ u3421 +++$+++ m225 +++$+++ VOICE +++$+++ My subscription lapsed three years ago...
+L637379 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ We find that your subscription lapsed...
+L637378 +++$+++ u3421 +++$+++ m225 +++$+++ VOICE +++$+++ Kathy Price.
+L637377 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Pardon?
+L637376 +++$+++ u3421 +++$+++ m225 +++$+++ VOICE +++$+++ Yes. Price...
+L637375 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ This is Miss Costello...?
+L637374 +++$+++ u3421 +++$+++ m225 +++$+++ VOICE +++$+++ How come you're calling me from...?
+L637373 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ This is Mr. Wallace in Subscriptions?
+L637372 +++$+++ u3421 +++$+++ m225 +++$+++ VOICE +++$+++ From the magazine?
+L637371 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I'm calling from Professional Nurse Quarterly...
+L637370 +++$+++ u3421 +++$+++ m225 +++$+++ VOICE +++$+++ If you're selling something, I'm late for work...
+L637369 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Hello, I'm calling from...
+L637095 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Let me talk to Mickey.
+L637094 +++$+++ u3421 +++$+++ m225 +++$+++ VOICE +++$+++ Mr. Galvin's...
+L637007 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I understand. Thank you, my name is Galvin. I'll be at the following number in a half an hour. It's urgent.
+L637006 +++$+++ u3421 +++$+++ m225 +++$+++ VOICE +++$+++ I can't guarantee that...
+L637005 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...Would you, would you call him up. I'll give you my number, and ask him...
+L637004 +++$+++ u3421 +++$+++ m225 +++$+++ VOICE +++$+++ I'm sorry, Sir, we're not allowed...
+L637003 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I have to reach him. This is an emergency. Could you give me his home number?
+L637002 +++$+++ u3421 +++$+++ m225 +++$+++ VOICE +++$+++ Business hours are over, Sir. This is the switch...
+L637001 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Mr. Alito, please.
+L637000 +++$+++ u3421 +++$+++ m225 +++$+++ VOICE +++$+++ Continental Casualty...
+L637122 +++$+++ u3416 +++$+++ m225 +++$+++ MARY ROONEY +++$+++ Well, maybe you better do that, then.  You know you guys are all the same. You don't care who gets hurt. You're a bunch of whores. You'd do anything for a dollar. You got no loyalty... no nothing... you're a bunch of whores.
+L637121 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ You think I'm pushy now, wait 'til I get you on the stand...
+L637120 +++$+++ u3416 +++$+++ m225 +++$+++ MARY ROONEY +++$+++ You know, you're pushy, fella...
+L637119 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Then why don't you testify?
+L637118 +++$+++ u3416 +++$+++ m225 +++$+++ MARY ROONEY +++$+++ I don't owe them a goddamn thing.
+L637117 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I do. Who is it? The Doctors. What do you owe them?
+L637116 +++$+++ u3416 +++$+++ m225 +++$+++ MARY ROONEY +++$+++ Who says that I'm protecting anyone?
+L637115 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Who are you protecting, then?
+L637114 +++$+++ u3416 +++$+++ m225 +++$+++ MARY ROONEY +++$+++ I didn't do it, Mister.
+L637113 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Who put my client in the hospital for life.
+L637112 +++$+++ u3416 +++$+++ m225 +++$+++ MARY ROONEY +++$+++ And ask me what?
+L637111 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I can subpoena you, you know. I can get you up there on the stand.
+L637110 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Then why aren't you testifying for their side?
+L637109 +++$+++ u3416 +++$+++ m225 +++$+++ MARY ROONEY +++$+++ Nothing happened.
+L637108 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ You know what happened.
+L637107 +++$+++ u3416 +++$+++ m225 +++$+++ MARY ROONEY +++$+++ I've got nothing to say to you.
+L637106 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I want someone who was in the O.R. We're going to win the case, there's no question of that. It's just a matter of how big...
+L637105 +++$+++ u3416 +++$+++ m225 +++$+++ MARY ROONEY +++$+++ ...you got your doctor's testimony. Why do you need me?
+L637104 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ He's the Assistant Chief of Anesthesiology, Massachusetts Commonwealth. He says your doctors, Towler and Marx, put my girl in the hospital for life. And we can prove that. What we don't know is why. What went on in there? In the O.R. That's what we'd like to know. Something went wrong. And you know what it was. They gave her the wrong anesthetic. What happened? The phone rang... someone got distracted... what?
+L637103 +++$+++ u3416 +++$+++ m225 +++$+++ MARY ROONEY +++$+++ No.
+L637102 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I'll just take a minute. Deborah Ann Kaye. You know what I'm talking about. The case is going to trial. Our chief witness is a Dr. David Gruber, you know who he is?
+L637101 +++$+++ u3416 +++$+++ m225 +++$+++ MARY ROONEY +++$+++ I told the guy I didn't want to talk to...
+L637100 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I'm Joe Galvin, I'm representing Deborah Ann Kaye, case against St. Catherine Laboure.
+L637267 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Yes.
+L637266 +++$+++ u3419 +++$+++ m225 +++$+++ SALLY +++$+++ Are we going to win?  We have, you know, other tactics, though...
+L637265 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ We, yes. Yes. They, they present their side, and I get the same chance. To cross-examine... to... to...
+L637264 +++$+++ u3419 +++$+++ m225 +++$+++ SALLY +++$+++ What does it mean?  I... I mean we, you have other tactics...
+L636698 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I'm going to see you get that chance.
+L636697 +++$+++ u3419 +++$+++ m225 +++$+++ SALLY +++$+++ We just can't do it anymore.  This is our chance to get away.
+L636691 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...and I have inquiries out to doctors, experts in the field... there is, of course, a problem getting a doctor to testify that another doctor's negligent...
+L636690 +++$+++ u3419 +++$+++ m225 +++$+++ SALLY +++$+++ He saw her at the Northern Care...
+L636685 +++$+++ u3419 +++$+++ m225 +++$+++ SALLY +++$+++ ...But Dick, he's looking for two years in Tucson... and they called him up and said to come out. He's a good man. He's only trying to do what's right.
+L636684 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...I understand...
+L636683 +++$+++ u3419 +++$+++ m225 +++$+++ SALLY +++$+++ My doctor told me that I got to move out West... that's when we filed in court. We didn't want to sue...
+L636682 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...I understand...
+L636681 +++$+++ u3419 +++$+++ m225 +++$+++ SALLY +++$+++ I don't want to leave her. Dick... the, the... and Father Laughlin, he said that it was God's will...
+L636680 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...fifty thousand dollars?
+L636679 +++$+++ u3419 +++$+++ m225 +++$+++ SALLY +++$+++ You know how beautiful she was?  Her husband left her, and he took her kids... They, they, they'd let you die in there. They don't care. Nobody cares. The Patriot Home, the Chronic Care... in Arlington...? They'd take her in. Perpetual care. They'd take her. Fifty thousand dollars they want. An endowment.
+L636678 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Yes. Yes, I have.
+L636677 +++$+++ u3419 +++$+++ m225 +++$+++ SALLY +++$+++ ...You saw her?
+L636676 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...I know. I went...
+L636675 +++$+++ u3419 +++$+++ m225 +++$+++ SALLY +++$+++ But what can we do? She don't know who's visiting her...
+L636674 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...I'm sure you do...
+L636673 +++$+++ u3419 +++$+++ m225 +++$+++ SALLY +++$+++ ...we, we love her, Dick and me...
+L636672 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ A healthy young woman goes into the hospital to deliver her third child, she's given the wrong anesthetic...
+L636671 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ It's not a good case. It's a very good case.
+L636669 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ It's locked?
+L636668 +++$+++ u3419 +++$+++ m225 +++$+++ SALLY +++$+++ It's locked.
+L636667 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I'm... Mrs. Doneghy? I'm Frank Galvin... why didn't you go in?
+L636978 +++$+++ u3415 +++$+++ m225 +++$+++ MAID +++$+++ He's... you can't reach him, Sir. He's in the, on some island in the Caribbean, they don't have a phone.  He'll be back in a week...  If you'd like Dr. Halpern's number...
+L636977 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ No, no, no. I have to talk to him. If I can only call him...
+L636976 +++$+++ u3415 +++$+++ m225 +++$+++ MAID +++$+++ Dr. Halpern's taking all his...
+L636975 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I... please. My wife... my wife's prescription has run out. If I can call him...
+L636974 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Where is he?
+L636973 +++$+++ u3415 +++$+++ m225 +++$+++ MAID +++$+++ He's not in, Sir.
+L636972 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I had an appointment at his office, I think I must have got it wrong. We had a meeting...
+L636971 +++$+++ u3415 +++$+++ m225 +++$+++ MAID +++$+++ Dr. Gruber's not in.
+L636970 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Dr. Gruber.
+L636790 +++$+++ u3411 +++$+++ m225 +++$+++ JIMMY +++$+++ That's for sure, Frank.
+L636789 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ It's a long road that has no turning.
+L636788 +++$+++ u3411 +++$+++ m225 +++$+++ JIMMY +++$+++ Yeah.
+L636787 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Well, well, well. Huh?
+L636779 +++$+++ u3411 +++$+++ m225 +++$+++ JIMMY +++$+++ Thanks, Franky.
+L636778 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I want to buy you a drink.
+L636653 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...everybody. Mike says, 'Pat, you mean to tell me for a buck you get a free lunch and a beer, and then you go in the back and get laid?' 'That's correct.' Mike says, 'Pat. Have you been in this bar ?' Pat says, 'No, but my sister has...'  Everyone. Buy yourself one too.
+L636652 +++$+++ u3411 +++$+++ m225 +++$+++ JIMMY +++$+++ Another, Frank...?
+L637421 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I don't want a mistrial.
+L637420 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ We got a mistrial, you know. Joe -- did you hear what I said...?
+L637419 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I don't know.
+L637418 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ I talked to Johnnie White at the Bar Association.  The broad used to work for one of Concannon's partners in New York awhile ago.  She wanted to move to Boston.  How badly did she hurt us, Joe?
+L637416 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Come on, we'll get a cup of coffee...
+L637415 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ What are you doing in New York...?
+L637414 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ We got to talk.
+L637413 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ What the hell are you doing here?
+L637365 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ I need a cigarette!  She left my office four years ago, we're looking for a chart...  I need a cigarette...
+L637364 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Hello. This is Mr. Dorchester in Records. We're looking for Kathy Costello...
+L637363 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ ...four years ago...
+L637357 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...you need some old forms that she had... somebody's dying...
+L637356 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ ...yeah... good...
+L637351 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ The Hospital...?
+L637350 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ The broad has disappeared...
+L637349 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ We don't have anything from the Nurse Association?
+L637336 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ How old are you, how many children... when did you last eat...
+L637335 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ The 'History'...?
+L637334 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ She didn't do anything. She took the patient's history and signed the charts. 'K.C.'  'Kathy Costello...'
+L637333 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ What did she do?
+L637332 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Uh... the admitting nurse...
+L637331 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ What difference can that make...? All right...
+L637330 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ All right. Who wasn't in the O.R.?
+L637329 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Who? They're all testifying. Everybody who was in the O.R.'s going to take the stand.
+L637328 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ ...one of the other nurses?
+L637327 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ 'You guys are a bunch of whores... uh... loyalty... you don't care who gets hurt... you don't have any loyalty...'
+L637326 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Read me what she said.
+L637325 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ She's protecting the Doctors she'd be up there on the stand...
+L637324 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ The Doctors.
+L637323 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Rooney's protecting someone. Who is she protecting?
+L637322 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Yeah. I'm awake.
+L637321 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Are you with me... are you awake...?
+L637314 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ I think we tried that. The case is over.
+L637313 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ That's right.
+L637312 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ You use their witness.
+L637311 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Okay. What do you do when you don't have a witness?
+L637182 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Yeah.
+L637181 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ And all we've got is a witch doctor!
+L637180 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I'm swell.
+L637179 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ How are you holding up?
+L637099 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Gimme the address. I'm gonna go. We're going to need her.
+L637098 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ She's workin' the late shift at the Hospital. She's at home now, I'm going over there to talk to...
+L637097 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ D'you find the obstetric nurse?
+L637096 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Yeah? How's our new witness?
+L637014 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ D'you meet with Dr. Gruber...?
+L637013 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I can't talk now.
+L637012 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ What happened, Joey...?
+L636941 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Mickey: I'm supposed to meet somebody at O'Rourke's, I can't make it.
+L636940 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Give 'em a box of Macanudos.
+L636939 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I've got to go see Gruber.  What's the best cigars you have?
+L636938 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Today is Tuesday. What?
+L636937 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Oh shit, what's today?
+L636936 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ John: gimme a cuesta-ray.
+L636935 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ So what do you want me to do? Concannon's going to try the case his way, I'm going to try it mine. You want me to go wee wee wee all the time because he's got some flack, got stories in the newspaper. I'm going to win this case.
+L636934 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ What I'm saying, they're getting some help.
+L636933 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ They still have to take it to a jury.
+L636932 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ So what...? The best is yet to come. Check the TV Guide. They got our Dr. Towler on a panel on GBH on Friday: 'The Healing Hand. The Experts Speak.'
+L636931 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ So what?
+L636930 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Mary Rooney. She won't talk to me. I tried her at the hospital. I'm going to try her back at home. Read this.
+L636929 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I'm getting it back. Don't worry about me, Mick. I'm fine. D'you find the obstetric nurse?
+L636928 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Been a long time, huh...?
+L636864 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I'm going to get laid.
+L636863 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Yeah? And what are you going to do tonight?
+L636862 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Jimmy? Bushmills.  Lookit, do me a favor. I'll buy you a drink tomorrow.
+L636861 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I had a good teacher. McLean versus Urban Transport...
+L636860 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ You got a good memory, Franky.
+L636859 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Brindisi versus Electric Boat.
+L636858 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Right.
+L636857 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Okay now. Cases: Smith versus State of Michigan.
+L636856 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Right.
+L636855 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ 'Mary Rooney, forty-nine. Lives in Arlington, still working at the hospital.' Can you get out tomorrow? How come she isn't speaking up.
+L636854 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ No.
+L636853 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Not bad...? This guy's Dr. Kildare, the jury's going to love him, Mick... And you calm down, all right? Their guy, Towler's, the author of the book,  'Methodology and Practice, Anesthesiology.'  ...and they got depositions from the nurses, everybody in the operating room, the scrub-nurse... 'All these guys are God. I saw them walk on water...'  They had an obstetrical nurse in there. We got a deposition from the obstetrical nurse?
+L636852 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ ...Gruber's not bad.
+L636851 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I've got my Dr. Gruber, says her heart condition means they gave her the wrong anesthetic anyway, plus she came in complaining of stomach pains...
+L636850 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Forget it. You can't prove it. Sister's testimony is no good. Jury knows we win she gets the cash.
+L636849 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Admittance form is wrong.
+L636848 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ You got the admittance form says patient ate nine hours prior to admittance.
+L636847 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ We've got her sister. Testifies she had a meal one hour before she was admitted to the hospital. This is the point.
+L636846 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Who have we got?
+L636836 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I have to try this case. I have to do it, Mick. I've got to stand up for that girl. I need your help.  Mick, will you help me...?  Will you help me...?
+L636835 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Frank, but not now. Frank. You're trying to wipe out some old business. But not now. I understand. But you go call 'em back. You call the Bishop back.
+L636834 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...I have to stand up for her...
+L636833 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ ...he's a good man...? He's the Prince of Fuckin' Darkness... he'll have people in there testifying that the broad is well -- they saw her Tuesday on a surfboard at Hyannis... don't fuck with this case.
+L636832 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...he's a good man...
+L636831 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ I know what I said but not now. You won it. Franky. You won it. When they give you the money, that means that you won. We don't want to go to court -- is this getting to you...?
+L636830 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ You -- Listen: you said to me, 'if not now, when...'
+L636829 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ What?
+L636828 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Mick. Mick. Mick...
+L636827 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ That's the point, you stupid fuck. Let them buy it. We let them buy the case. That's what I took it for. You let this drop -- we'll go up to New Hampshire, kill some fuckin' deer...
+L636826 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ They killed her. And they're trying to buy it...
+L636825 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ To do what...? To do what, for chrissake...? To help her to do what? She's dead...
+L636824 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I'm going to help her.
+L636823 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ You need my help...? You need a goddamn keeper... are you telling me that you turned down two-hundred-ten grand?  Huh...? Are you nuts? Eh? Are you nuts. What are you going to do, bring her back to life?
+L636822 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...I'm going to need your help...
+L636821 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Are you out of your mind...?
+L636820 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Don't touch anything.
+L636819 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Come on. Let's get a drink.
+L636818 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ What do you want?
+L636817 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I have to talk to you.
+L636664 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ ...I get these people to trust you -- they're coming here tomorrow by the way -- I get this expert doctor to talk to you. I'm doing all your fuckin' legwork -- and it's eighteen months. You're 'sposed to be in court. I bet you haven't even seen the file.
+L636663 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...hey, I don't need your charity...
+L636662 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ One lousy letter eighteen months ago... I try to throw a fuckin' case your way...
+L636661 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Sally Doneghy, now who is that?
+L636660 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ ...You're 'sposed to be in court in ten days and she's telling me you haven't even met with them...
+L636659 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...now who is that...?
+L636658 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Fuck you. I got a call today from Sally Doneghy...
+L636657 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Uh...
+L636656 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ What the hell do you think you're doing...?  What's going on here...?
+L636655 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Hi, Mickey...
+L637347 +++$+++ u3418 +++$+++ m225 +++$+++ ROONEY +++$+++ You saw Kat in New York...  ...or is she in town? Is she in town...?
+L637346 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ What?
+L637345 +++$+++ u3418 +++$+++ m225 +++$+++ ROONEY +++$+++ In New York?
+L637344 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I just saw her.
+L637343 +++$+++ u3418 +++$+++ m225 +++$+++ ROONEY +++$+++ She did?
+L637342 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ She told me.
+L637341 +++$+++ u3418 +++$+++ m225 +++$+++ ROONEY +++$+++ I, what are you talking about? I talked to her this morning, and she said...
+L637340 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ I spoke to her, and everything is all right.
+L637297 +++$+++ u3420 +++$+++ m225 +++$+++ TOWLER +++$+++ Because she was anemic.  It's right there on her chart. Her brain was getting less oxygen anyway...
+L637296 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Huh. And why is that?
+L637295 +++$+++ u3420 +++$+++ m225 +++$+++ TOWLER +++$+++ Yes.
+L637294 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Wait, wait, wait, you're saying that her brain damage could have been caused by her being deprived of oxygen for two minutes...?
+L637293 +++$+++ u3420 +++$+++ m225 +++$+++ TOWLER +++$+++ Brain damage could have been... it didn't necessarily take nine minutes, it could have been caused in two...
+L637287 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Why did it take that long to get her heartbeat...
+L637286 +++$+++ u3420 +++$+++ m225 +++$+++ TOWLER +++$+++ We'd gone to 'Code Blue,' we were administering electro...
+L637285 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ What happened in those three minutes...?
+L637284 +++$+++ u3420 +++$+++ m225 +++$+++ TOWLER +++$+++ ...we were trying to restore her heartbeat.
+L637283 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ What happened in those three...
+L637282 +++$+++ u3420 +++$+++ m225 +++$+++ TOWLER +++$+++ We had rather more important things on our mind than taking notes.  We were trying to restore her...
+L637281 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...they start again three minutes earlier...
+L637280 +++$+++ u3420 +++$+++ m225 +++$+++ TOWLER +++$+++ As I've said we had some more...
+L637279 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Four-and-one-half minutes after her heart stopped.  And they resume seven minutes...
+L637278 +++$+++ u3420 +++$+++ m225 +++$+++ TOWLER +++$+++ We, we were rather busy...
+L637277 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ But those notations stop...  ...Four-and-one-half minutes after Deborah Ann Kaye's...
+L637276 +++$+++ u3420 +++$+++ m225 +++$+++ TOWLER +++$+++ Yes, the roving nurse...
+L637275 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...of the procedures...
+L637274 +++$+++ u3420 +++$+++ m225 +++$+++ TOWLER +++$+++ Yes.
+L637273 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ ...there are notations every thirty seconds...
+L637272 +++$+++ u3420 +++$+++ m225 +++$+++ TOWLER +++$+++ Yes, that's correct.
+L637271 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ You have a record of what happened in the operating room...
+L637270 +++$+++ u3420 +++$+++ m225 +++$+++ TOWLER +++$+++ Yes.
+L637269 +++$+++ u3409 +++$+++ m225 +++$+++ GALVIN +++$+++ Dr. Towler...
+L636989 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Okay. Now, so he's in jail. He, finally, he gets to see the light, he calls up Harrington, he says he thinks he made a mistake. As if by magic, charges against him are dropped, he's released from jail.  P.S. He's fired from the firm, his wife divorces him, he turns to drink and mopes around three and a half years.  You like that story?
+L636988 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Me, too.
+L636987 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Before he can get there here comes this Federal Marshal, and Franky's indicted for Jury tampering, they throw him in jail, he's gonna be disbarred, his life is over.  Jimmy, gimme another drink.  How are you?
+L636986 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Huh.
+L636985 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ That Frank was working on. Yeah. He thought Franky needed some help, so they bribed a juror. So Franky finds out. He comes to me in tears. He thinks that anybody who knows what a 'spinnaker' is got to be a saint. I told him 'Franky, wake up. These people are sharks. What do you think they got so rich from? Doing good?' He can't be comforted. He tells the boys at Stearns and Harrington they've disappointed him, he's going to the Judge to rat them out.
+L636984 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ The Big Boy did...?
+L636983 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ ...and he's making a billion dollars every minute working for Stearns, Harrington, and he bought a dog, and everything is rosy.  Then Mr. Stearns, he tried to fix a case.
+L636982 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Yes.
+L636981 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ A huge law firm. Okay? They put him in the firm, he's married, everything's superb. Franky, he's starting to talk like he comes from Dorsetshire, some fuckin' place, 'You must drop by with Pat and me...' Okay...?
+L636980 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ Should I?
+L636979 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Stearns, Harrington, you know who that is?
+L636963 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ So far you're great. You got a cigarette?
+L636962 +++$+++ u3414 +++$+++ m225 +++$+++ LAURA +++$+++ How'm I doing so far?
+L636961 +++$+++ u3417 +++$+++ m225 +++$+++ MICKEY +++$+++ Franky can't make it. He had an appointment he forgot, he's going to see you later. I'm Mickey Morrissey, we're supposed to get to know each other.

@@ -1,0 +1,438 @@
+L575848 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Ann, will you come in, sit down, maybe have a drink?
+L575847 +++$+++ u8143 +++$+++ m553 +++$+++ ANN +++$+++ The government knows. I cannot repeat it to you. But this thing goes deep, Ed. This was not your wife. I goes deep, and involves the government. There is a great deal of fear. You know how certain circles would find it--the knowledge--a threat. They try to limit it, and--
+L575846 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Ann--
+L575845 +++$+++ u8143 +++$+++ m553 +++$+++ ANN +++$+++ A spacecraft. I saw the creatures. They led Big Dave onto the craft. He never told anyone what they did, outside of his report. Of course he told *me*. No one else.
+L575844 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Ann--
+L575843 +++$+++ u8143 +++$+++ m553 +++$+++ ANN +++$+++ At night, there were lights--we both saw them. We never told anyone, outside of our official report.
+L575842 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...Yes?
+L575841 +++$+++ u8143 +++$+++ m553 +++$+++ ANN +++$+++ We went camping last summer. In Eugene, Oregon. *Outside* of Eugene, Ed.
+L575840 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yes?
+L575838 +++$+++ u8143 +++$+++ m553 +++$+++ ANN +++$+++ And you should tell Doris...
+L575837 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yes, Ann?
+L575836 +++$+++ u8143 +++$+++ m553 +++$+++ ANN +++$+++ Oh, I know. Don't worry, Ed. I came to tell you...
+L575835 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Of course, you know, Doris had nothing to do with it. Nothing at all.
+L575834 +++$+++ u8143 +++$+++ m553 +++$+++ ANN +++$+++ Yes. Thank you.
+L575833 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...I'm so sorry about your loss.
+L575831 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Ann. Will you come in?
+L575830 +++$+++ u8143 +++$+++ m553 +++$+++ ANN +++$+++ Hello, Ed.
+L576087 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ Please, Mr Crane, it's OK, please--
+L576086 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...No, please.
+L576083 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ It's OK...
+L576082 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Birdy--
+L576081 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ ...I wanted to make you happy.
+L576080 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ But I do appreciate it, Mr Crane...
+L576079 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...I guess I've been all wet.
+L576078 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Huh. Yeah. Maybe...
+L576077 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ You're an enthusiast.
+L576076 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Huh.
+L576075 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ I'm only sorry that I didn't play better for you. I know it would've made you happy. You know what you are?
+L576074 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Ah... it's nothing.
+L576073 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ I do appreciate the interest you've taken, though.
+L576072 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...Uh-huh.
+L576071 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ ...I'm not certain I'll have a career at all, and if I do, I'll probably be a veterinarian.
+L576070 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ But it doesn't matter. Really, I'm not interested in playing music professionally.
+L576069 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I'm sure there's a dozen teachers better than this clown. More qualified. Goddamn phony.
+L576068 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ It doesn't matter, Mr Crane.
+L576067 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Look, I'm no expert, but--
+L576066 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ But more or less.
+L576065 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ He didn't say that.
+L576064 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ ...I stank, didn't I?
+L576038 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Just see him, as a favor to me.
+L576037 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ Geez, Mr Crane.
+L576036 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I know you haven't. Look, just go meet him as a favor to me. I talked to this guy. Hope I pronounced his name right. He sounded very busy, but he's not a bad egg; he loosened up a little when I told him how talented you are. He agreed to see you this Saturday. He said maybe you were a diamond in the rough. His words.
+L576035 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ Geez, Mr Crane, I don't know. I hadn't really thought about a career or stuff.
+L576034 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I have to do it. I can't stand by and watch more things go down the drain. You're young, you don't understand.
+L576033 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ Oh, Mr Crane--
+L576032 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ You've got talent, anyone could see that. And he's the best. If he thinks a student has talent, he'll take 'em on for next to nothing. You're a cinch to be accepted, I could cover the cost of the lessons, like I said, it's pretty modest--
+L576031 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ Boy.
+L576030 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ That's swell. However, the music, if you want to pursue it, well, the lessons from Mrs Swan, they'll only take you so far. There's this guy in San Francisco, I've made inquiries, everybody says he's the best. Trained lots of people who've gone on to have big concert careers, symphony orchestras, the works. His name is Jacques Carcanogues. I'm not sure I'm pronouncing it right. Anyway, he's a Frenchman.
+L576029 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ Well, sure, I guess. Pop says so too. I work pretty hard at school.
+L576028 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Anyway, uh... my point is you're young. A kid really, your whole life ahead of you. But it's not too soon to start thinking... to start making opportunities for yourself. Before it all washes away.
+L576027 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ That's what he keeps telling me.
+L576026 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Sure... Sure, it's his house.
+L576023 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ Pop doesn't like people smoking in here.
+L576022 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...or maybe I just haven't played 'em right, I don't know. But you're--
+L576021 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Birdy, I've been doing a lot of thinking. There are a lot of things that haven't worked out for me. Life has dealt me some bum cards...
+L576020 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ We've certainly missed you.
+L576019 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yeah.
+L576018 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ We haven't seen you since... I'm terribly sorry.
+L576017 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Hello, Birdy.
+L576016 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ Hello, Mr Crane.
+L575934 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Hello, Tony.
+L575933 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ Oh, in there? I messed up a little bit in the scherzo. I guess, if nobody noticed, it's OK. Mr Crane, this is Tony, a friend of mine. Tony, Mr Crane.
+L575932 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Hello, Birdy. I thought that was very good.
+L575931 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ Hi, Mr Crane.
+L575923 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ Beethoven. He created it, and yet he never actually heard it. I suppose he heard it all in his head, somehow.
+L575922 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Who?
+L575921 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ He was deaf when he wrote this.
+L575751 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yeah. Thanks.
+L575750 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ I'm so sorry... I was sorry to hear.
+L575749 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Hello, Rachel.
+L575592 +++$+++ u8144 +++$+++ m553 +++$+++ BIRDY +++$+++ It's OK, I guess. No, I don't really. I'm not big on music, ordinarily.
+L575591 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...You don't like the music out there?
+L576063 +++$+++ u8145 +++$+++ m553 +++$+++ CARCANOGUES +++$+++ Then you listen to me, for I am expert. That girl, she give me a headache. She cannot play. Nice girl. Very clever hands. Nice girl. Someday, I think, maybe, she make a very good typist.
+L576062 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Well, look, I don't claim to be an expert--
+L576061 +++$+++ u8145 +++$+++ m553 +++$+++ CARCANOGUES +++$+++ ...she can go up there.
+L576058 +++$+++ u8145 +++$+++ m553 +++$+++ CARCANOGUES +++$+++ Ah, but that is just what I cannot teach. I cannot teach her to have a soul. Look, monsieur, play the piano, is not about the fingers. *Done* with the fingers, yes. But the music, she is inside. Inside, monsieur...
+L576057 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I don't understand, no mistakes, she's just a kid--I thought you taught the, uh, the--
+L576056 +++$+++ u8145 +++$+++ m553 +++$+++ CARCANOGUES +++$+++ Mistake, no, it says E-flat, she plays E-flat. Ping-ping. Hit the right note, always. Very proper.
+L576055 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Did she make mistakes?
+L576054 +++$+++ u8145 +++$+++ m553 +++$+++ CARCANOGUES +++$+++ Is not so hard to understand. Her playing, very polite.
+L576053 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I don't understand.
+L576052 +++$+++ u8145 +++$+++ m553 +++$+++ CARCANOGUES +++$+++ Ze girl?... She seems like a very nice girl. She *plays*, monsieur, like a very nice girl. Ztinks. Very nice girl. However, ztinks.
+L576051 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Well? How'd she do?
+L576050 +++$+++ u8145 +++$+++ m553 +++$+++ CARCANOGUES +++$+++ ...Mm.
+L576048 +++$+++ u8145 +++$+++ m553 +++$+++ CARCANOGUES +++$+++ Ah.
+L576047 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Well, I don't pretend to be an expert.
+L576046 +++$+++ u8145 +++$+++ m553 +++$+++ CARCANOGUES +++$+++ Ah yes, a music lover.
+L576045 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Uh-huh.
+L576044 +++$+++ u8145 +++$+++ m553 +++$+++ CARCANOGUES +++$+++ I speak to you on ze phone, non? You have a special interest in music?
+L576040 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ No. Uh... family friend.
+L576039 +++$+++ u8145 +++$+++ m553 +++$+++ CARCANOGUES +++$+++ ...You are ze fahzer?
+L575629 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ OK.
+L575628 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ And I've never been asked--Look, you want the dough back? You know who I am! You--
+L575627 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ All right.
+L575626 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ *Screw* you--Jesus! Take it to a lawyer! No, I insist! This is *dry* cleaning, this is not some fly-by- night thing here! I must say, I've been an entrepreneur for thirteen years and I've never--
+L575625 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...You're not gonna screw me on this?
+L575624 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Look, uh... Creighton...
+L575623 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ Well, there it is. Writ large in legal escriture, next step is--
+L575622 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Uh-huh.
+L575621 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ ...Yeah, that's it. As per our discussion.
+L575620 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ Yeah, good. Lemme just, uh...
+L575619 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ That'll be fine.
+L575618 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ ...Just a second here, I'll give you a receipt on the, uh... Whoa, Nellie... Oh, by the way, we didn't talk about this, I, uh, I think I'm gonna call the place Tolliver's, after me, you know, I didn't think you were much interested in, uh--
+L575617 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ Yeah, screw 'em, huh? Pay 'em to tangle it up and then you pay 'em to untangle it, what's the point?
+L575616 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ It's OK.
+L575615 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ Pretty straightforward, but I don't know if you wanna show this stuff to a lawyer--
+L575614 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yeah.
+L575613 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ I got the paperwork here. Partnership papers here, they reflect our agreement: fifty-fifty on the net, I supply professional services, you supply the capital. I'll give you a receipt on the dough there, huh?
+L575612 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Sure.
+L575611 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ ...Usually we do this kind of thing with a bank draft. But cash--that's fine--it's all the same in the end-- dough's dough, huh?
+L575610 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ Cash?!
+L575609 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Cash.
+L575608 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ ...You bring a check?
+L575508 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yeah.
+L575507 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ Right! Strictly business.
+L575506 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Way out of line.
+L575505 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ No problem!
+L575504 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ You're out of line, mister.
+L575503 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ Maybe.
+L575502 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...Was that a pass?
+L575501 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Ed.
+L575500 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ ...it just goes to show, when one door slams shut, another one opens. Here's to ya, uh...
+L575499 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ Well, I'll be damned. The barber! And I thought this trip was a bust. Well...
+L575498 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I'll have it in a week.
+L575497 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ Fifty-fifty, straight down the line. You and me. Finance and expertise. So--you've got the dough then, do ya?
+L575496 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ And how do we share--
+L575495 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ Do? Hell, nothing. Well, you'll want to keep tabs on your investment, of course, but I'm looking for a silent partner. I've done the research, I've contacted the vendors, the deal is set. I'm just looking for venture capital, friend. Disappear if you want, check in whenever you like--I want the dough; I don't take attendance.
+L575494 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ What's involved, aside from putting up the money? What're you looking for the partner to do?
+L575493 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ Sure.
+L575492 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ No. I--tell me--
+L575491 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ Come in, come in, siddown over there. Coffee?
+L575490 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I can get it, yeah.
+L575489 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ You got the dough?!
+L575488 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ No. I might be interested in that, uh, business proposition--
+L575487 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ ...I didn't recognize you without the smock. Did I--damn--did I leave something at the shop?
+L575486 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ Jesus! The barber! I'll be a sonofagun. Why didn't you say so? 'Course--the barber.
+L575485 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I'm, uh, I'm--the barber.
+L575484 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ Sorry, friend, I, uh, you got me at a disadvantage.
+L575483 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...Ed Crane. Remember? Today?
+L575469 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ That's right! Dry cleaning--remember the name. It's going to revolutionize the laundry industry, and those that get in early are gonna bear the fruit away. All I need is $10,000 to open my first store, then I use its cash flow to finance another, and so on-- leap frog, bootstrap myself a whole chain. Well, me and a partner. Cleanliness, friend. There's money in it. There's a future. There's room to grow... Say, that's looking pretty good. Let's see it with the hairpiece on...
+L575468 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Huh.
+L575467 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ It's called dry cleaning. You heard me right, brother, 'dry cleaning'-- wash without water, no suds, no tumble, no stress on the clothes. It's all done with chemicals, friend, and your garments end up crisp and fresh. And here's the capper: no shrinkage.
+L575466 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ That right.
+L575465 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ Well, it's the wildest goose there is. Risk money. Very speculative. Except, Ed, in certain situations, it's not, see? I thought I had a prospect here. Well, I make the haul up and this lousy so-and-so tells me his situation has changed--all his capital's gonna be tied up in expansion plans of his own. Thank you, mother! Pop goes another bubble! It's only the biggest business opportunity since Henry Ford and I can't seem to interest a soul!
+L575464 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Uh--
+L575463 +++$+++ u8146 +++$+++ m553 +++$+++ CREIGHTON +++$+++ A goose, friend. I was chasing a wild goose. Ed, have you ever heard of venture capital?
+L575686 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ I'm not proud of what I did. But *you*.
+L575685 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I, uh...
+L575684 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ I'd understand if you'd walked in here. Socked me in the nose. Whatever. I deserved it.
+L575683 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Big Dave--
+L575682 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ What kind of man *are* you?
+L575681 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...Huh?
+L575680 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ ...What kind of man *are* you?
+L575679 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ So you paid the guy?
+L575678 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ ...It ruined me. This money. No annex. I'm all shot to hell.
+L575675 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ Come on in.
+L575674 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...Dave?
+L575671 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ OK.
+L575670 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ I'm at Nirdlinger's. Let yourself in.
+L575669 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Your place?
+L575668 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ Please, Ed.
+L575667 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ But it's...
+L575666 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ Please, Ed.
+L575575 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ Embezzling, Ed. From my own goddamn wife!
+L575574 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Mm.
+L575573 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ That's my capitalization on the Annex! *My* operation, Ed! Christ almighty. That's what I was just talking to Doris about, a way of getting the money from the store that we could hide from Ann.
+L575572 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...Why don't you just pay him, Dave?
+L575571 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ ...Oh, Jesus.
+L575569 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ He's staying at the hotel I've gone to with, uh, with the lady in question. Must've seen us.
+L575568 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Mm. How, uh... how did he know that--
+L575567 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ Well, I guess he don't care that it's obvious.
+L575566 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Would he... it sounds pretty obvious.
+L575565 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ The sonofabitch. The blackmailer. It's, uh, it's no one you know. It's a businessman from Sacramento. A goddamn pansy, Ed. He tried to rope me into some crackpot scheme; I heard him out and then told him to go to hell. And the very next day, the very next day, Ed, I get blackmailed for the same amount.
+L575564 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...You know... who *who* is?
+L575563 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ $10,000! I don't know what to do, Ed. I don't know what I *can* do. Even though I know who the sonofabitch is.
+L575562 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ How much to they want, Dave?
+L575561 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ I only work here! And the lady's husband would know... Oh, Jesus.
+L575560 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Uh-huh.
+L575559 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ Awkward?! Ann'd throw me out on my keister! Hell, it's her family's store--*her* store. I serve at the indulgence of the goddamn ownership, Ed.
+L575558 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I guess it would be pretty awkward.
+L575557 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ Well, you know what that would do to me.
+L575556 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Uh-huh.
+L575555 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ Hell, I, I'm not proud of it. But, uh, that's not the worst of it. I got a note. A blackmail note. You know, come across or everybody knows.
+L575554 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Uh-huh.
+L575550 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ What is it, Dave?
+L575549 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ ...Ed, I...
+L575428 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ Uh-huh.
+L575427 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Specialty store down in Sacramento.
+L575426 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ ...Say, where do you get those things anyway?
+L575425 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ ...Fine. Fine. Well, you might want to drop by the Annex when we open, update your suit--'course, you're in the smock all day.
+L575424 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ All right, I guess.
+L575423 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ Couldn't be better. These're boom times in retailing. We're opening another store, Big Dave's Annex, there on Garson. This is strictly haberdashery--casual wear, pyjamas, ladies' foundations and undergarments. Matter of fact, I'm thinking of making Doris the comptroller. How're things at the, uh, the barbershop?
+L575422 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ How's business, Dave?
+L575421 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ She's a rare one.
+L575420 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Mm.
+L575419 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ ...That's quite a wife you got there.
+L575413 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ No, Dave, I wasn't.
+L575412 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ ...Were you in the service, Ed?
+L575408 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ OK. Take your coat, Ann?
+L575407 +++$+++ u8147 +++$+++ m553 +++$+++ DAVE +++$+++ How ya doin', Ed?
+L575997 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ My wife and I had not... performed the sex act in many years.
+L575996 +++$+++ u8148 +++$+++ m553 +++$+++ DIEDRICKSON +++$+++ ...Hell, I hope I've done the right thing.
+L575992 +++$+++ u8148 +++$+++ m553 +++$+++ DIEDRICKSON +++$+++ I, uh... thanks.
+L575991 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Told what?
+L575990 +++$+++ u8148 +++$+++ m553 +++$+++ DIEDRICKSON +++$+++ ...Doesn't become a matter of public record unless there's foul play. However. I don't believe I'm *prohibited* from telling you this. I guess I'm not obliged to tell you, either. I don't exactly know.  But if *I* were the man, I'd want to be told.
+L575987 +++$+++ u8148 +++$+++ m553 +++$+++ DIEDRICKSON +++$+++ You sure you don't want something stiffer?
+L575986 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Just coffee.
+L575985 +++$+++ u8148 +++$+++ m553 +++$+++ DIEDRICKSON +++$+++ Rye.
+L576104 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ Nah, don't say anything. I'm alright.
+L576103 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...Doris--
+L575783 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ I knew we'd pay for it.
+L575782 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Honey...
+L575781 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ ...My books used to be perfect. Anyone could open them up, make sense of the whole goddamn store.
+L575779 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ You don't have to tell me anything.
+L575778 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ Should I... should I tell you why?
+L575777 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Don't tell 'em anything. We're getting you Freddy Riedenschneider.
+L575776 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ I know all about that. But I don't know how much to tell them.
+L575775 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ You don't have to tell them anything. We're getting you a lawyer.
+L575774 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ I helped him cook the books, Ed. I did do that.
+L575773 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ You don't have to--
+L575772 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ ...I don't know what happened to Big Dave. I know some of it. Irregularities in my books, they said. Can I explain it.
+L575771 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ What happened to you?
+L575770 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ I don't know what's going on. I--
+L575769 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ How are you?
+L575768 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ Honey.
+L575655 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ It's just a goddamn bowl of cherries, I'm sure.
+L575654 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Honey...
+L575653 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ Life is so goddamn wonderful, you almost won't believe it.
+L575652 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Congratulations, Gina.
+L575651 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ 'Gratulations, Gina. It's so goddamn wonderful.
+L575634 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I didn't say a word.
+L575633 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ ...What's so damn strange about that?
+L575602 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Mm.
+L575601 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ *That means I don't run Nirdlinger's!*
+L575600 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ So?
+L575599 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ ...Money problems. He's thinking about canceling the Annex.
+L575598 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ Ahh...
+L575597 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ How's that?
+L575596 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ Dave.
+L575595 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Who?
+L575594 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ ...What a knucklehead.
+L575534 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ Oh, don't be a grump.
+L575533 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Nah, go ahead. I'm not big on parties.
+L575532 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ Come on, get ready. It's important.
+L575531 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yeah, right.
+L575530 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ Me? Us! The party at Nirdlinger's--I told you last week, for the Christmas Push.
+L575529 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Where you going?
+L575474 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Mm.
+L575473 +++$+++ u8149 +++$+++ m553 +++$+++ DORIS +++$+++ Honey?
+L575472 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...My first instinct was, no, no, the whole idea was nuts. But maybe that was the instinct that kept me locked up in the barbershop, nose against the exit, afraid to try turning the knob. What if I could get the money?
+L576154 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...Well, he got his mistrial, but the well had run dry. There was nothing left to mortgage; Riedenschneider went home and the court appointed Lloyd Garroway...
+L576153 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ ...and inflame the passions of these twelve fine men and women...
+L576147 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...He told them to look at me--look at me close. That the closer they looked the less sense it would all make, that I wasn't the kind of guy to kill a guy, that I was the barber, for Christ's sake...
+L576146 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ ...who among us is in a position to say...
+L576145 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...how I was too ordinary to be the criminal mastermind the D.A. made me out to be, how there was some greater scheme at work that the state had yet to unravel, and he threw in some of the old truth stuff he hadn't had a chance to trot out for Doris...
+L576144 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ ...a puny player on the great world's stage...
+L576143 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...I gotta hand it to him, he tossed a lot of sand in their eyes. He talked about how I'd lost my place in the universe...
+L576135 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I tried to tell him the whole story, but Riedenschneider stopped me. He said the story made his head hurt, and anyway he didn't see any way of using it without putting me on the hot seat for the murder of Big Dave...
+L576134 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ Not guilty, your honor...
+L575916 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ Who? *Who?!* I don't know who! But the point is that if Mr Prosecutor over there had devoted half the time he's spent persecuting *this* woman to even the most cursory investigation of this schmoe's past, then we might *know* who! But we can't *know* what really happened! Because of Fritz, or Werner, or whatever the hell his name is! And because Me Prosecutor is *also* a lazy fat-assed sonofabitch who decided it's easier to victimize your wife! Because it's easier *not* to look! Because the more you look, the less you know! But the beauty of it is, we don't *gotta* know! We just gotta show that, goddamnit, *they* don't know. Reasonable doubt. Science. The atom. *You* explain it to me. Go ahead. Try.
+L575915 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ So... who... who actually--
+L575914 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ ...Did Big Dave mention that it was something about his war service? I don't know, I wasn't there, *you'll* have to tell *us*. Maybe he specified, maybe he didn't; I'm not putting words in your mouth; the point is that this liar, this cynical manipulator, this man who through his lies sneered and belittled the sacrifice and heroism of all our boys who *did* serve and bleed and puke and die on foreign shores, and who made a fool out of this entire town, turns to *you* to help him out of his jam. Fat-assed sonofabitch!
+L575913 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ And now it turns out this dope spent the war sitting on his ass in some boatyard in San Diego. You asked for blackmail, let me give you blackmail: Mr Hale-Fellow-Well-Met, about to open his own business here, has been lying to everybody in this town for the last four years, probably including half the people sitting on that jury. Well, it finally caught up with him--these dopes, it always does; someone threatened to spill it. Somebody knew his dirty little secret, just like your wife says. They called, they demanded money...
+L575912 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yeah.
+L575911 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ Look, chum, this is a guy, from what I understand, told everybody he was a war hero, right? Island hopping, practically liberated the Pacific all by himself with a knife in one hand and a gun in the other and twenty yards of Jap guts between his teeth.
+L575910 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...I don't get it.
+L575872 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ Will anyone corroborate and goddamn part of your story at all?
+L575871 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...I don't think so.
+L575870 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ Will anyone say they saw you there? On your way there? In there? On your was back?
+L575869 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I took Doris's keys.
+L575868 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ How did you get into the store?
+L575867 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I don't know. I don't think so.
+L575866 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ Will anyone else say they knew?
+L575865 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I... just knew. A husband knows.
+L575864 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ OK, how did you know?
+L575863 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ He and Doris... were having an affair.
+L575862 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ OK, we forget the blackmail. *You* killed him. How come?
+L575859 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ *I* was with her.
+L575858 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ --don't interrupt me--that's Means. They got a fine upstanding pillar of the business community as a victim, and then they got *you*, a disgruntled number-juggling underling who on the day in question was drunk as a skunk and whose alibi for the time in question is being passed out at home, alone.
+L575857 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ It was Big Dave's.
+L575856 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ ...You've gotta give me something to work with. Freddy Riedenschneider is good, but he's not a magician. He can't just wave his little wand in the air and make a plausible defense materialize. Look. Look at what the other side is gonna run at us. They got the company books, prepared by you--*cooked* by you--that's Motive. They got a murder scene *you* had access to. That's Opportunity. They got that little trimmer thing he was stabbed in the throat with--a *dame's* weapon--
+L575855 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ Terrific. Your husband backs you up. That's terrific.
+L575854 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I knew about it. Big Dave told me about it, and the spot he was putting himself in by getting the money.
+L575824 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ Good! Any questions give me a ring-- Turandot suite; if I'm out leave a message. You sure you don't want anything? No?
+L575823 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...OK.
+L575822 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ Good! That helps. Not that she didn't do it, that she didn't confess. Of course, there's ways to deal with a confession, but that's good!--one less thing to think about. Now. Interview. I'm seeing her tomorrow. You should be there. Three o'clock. One more thing: you keep your mouth shut. I get the lay of the land, I tell *you* what to say. No talking out of school. What's out of school? Everything's out of school. I do the talking; you keep your trap shut. I'm an attorney, you're a barber; you don't know anything. Understood?
+L575821 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ No. Of course not. She didn't do it.
+L575820 +++$+++ u8155 +++$+++ m553 +++$+++ RIEDENSCHNEIDER +++$+++ Look, I don't wanna waste your time so I'll eat while we talk. Ya mind? *You* don't mind. So while I'm in town I'll be staying at the Hotel Metropole, the Turandot Suite. Yeah, it's goofy, the suites're named after operas; room's OK though, I poked around. I'm having 'em hold it for me on account of I'll be back and forth. In addition to my retainer, you're paying hotel, living expenses, secretarial, private eye if we need to make inquiries, headshrinker should we go that way. We'll talk about appeals if, as and when. For right now, has she confessed?
+L576015 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Sure, Walter. Thanks.
+L576014 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ Birdy's in the parlor--I'm on long distance here.
+L576013 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yeah.
+L576012 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ I'm so damn sorry about your loss. Terrible thing. Just damn terrible.
+L576011 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I'm OK, Walter, thanks.
+L576010 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ Ed, how're you holding up?
+L575763 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ Yeah, the best.
+L575762 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Uh-huh. He's the, uh...
+L575761 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ Well, the best, the money-is-no-object best, for a criminal case, any lawyer would tell you Freddy Riedenschneider. Out of Sacramento. 'Course, I don't know how you're fixed for money.
+L575760 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Uh-huh. Is he the best then, for, uh...
+L575759 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ ...Probity.
+L575758 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ Well, there's Lloyd Garroway in San Francisco. Probity--you know, no one ever said anything iffy about Lloyd Garroway. Conservative. Jury might like that. Might like that here.
+L575757 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...So, uh, who should I--
+L575754 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ No thanks, honey.
+L575753 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I'm fine. Thanks.
+L575752 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ Coffee, Ed?
+L575746 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ So, who should I--
+L575745 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ Taking it seriously.
+L575744 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ So--
+L575743 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ Bert's OK, sure, he's a good man. I won't kid you though, Ed, nobody around here has any experience with this kind of, er... And I hear they're bringing a prosecutor up from Sacramento. Capital offense. Taking it seriously... Hmm...
+L575742 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ He a good man?
+L575741 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ 'Scuse me, just finished dinner. Um. Frankly, Doris'd be better off with the county defender.
+L575740 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ Well, of course, I, uh, it's out of my league, criminal stuff. I do, uh, probate, real estate, title search, uh... I'd be absolutely worthless, something like this. Absolutely worthless.
+L575739 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yeah. What do I, uh...
+L575738 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ OK. Boy. Jesus!
+L575737 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I'm fine.
+L575736 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ Sure you don't need one?
+L575735 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ No thanks.
+L575734 +++$+++ u8156 +++$+++ m553 +++$+++ WALTER +++$+++ Oh, hell. Drink?
+L575733 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Thanks. Thanks for seeing me, at home.
+L575543 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Uh-huh.
+L575542 +++$+++ u8157 +++$+++ m553 +++$+++ YOUNG MAN +++$+++ Check out the rack on that broad in the angora.
+L575541 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yeah.
+L575540 +++$+++ u8157 +++$+++ m553 +++$+++ YOUNG MAN +++$+++ Uh-huh. Some beat, huh?
+L575539 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I don't work here. My wife does.
+L575538 +++$+++ u8157 +++$+++ m553 +++$+++ YOUNG MAN +++$+++ Haven't I seen you up in ladies' wear?
+L575537 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...Huh?
+L575589 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Sorry, I just didn't remember.
+L575588 +++$+++ u8158 +++$+++ m553 +++$+++ YOUNG WOMAN +++$+++ ...I'm Rachel Abundas. Everyone calls me Birdy.
+L575586 +++$+++ u8158 +++$+++ m553 +++$+++ YOUNG WOMAN +++$+++ I know who you are, Mr Crane.
+L575585 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ That was something. I'm Ed Crane.
+L575584 +++$+++ u8158 +++$+++ m553 +++$+++ YOUNG WOMAN +++$+++ He wrote some beautiful piano sonatas.
+L575583 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ That was quite something.
+L575582 +++$+++ u8158 +++$+++ m553 +++$+++ YOUNG WOMAN +++$+++ Oh, no. That was written by Mr Ludwig van Beethoven.
+L575581 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...Did you make that up?
+L575795 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ They too use the toilet, Ed. In spite of appearances. And their money will be secured by the barbershop. A rock. A *rock*, the barbershop. I mean, how long has *this* place been here?
+L575794 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Uh-huh.
+L575793 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Just people. They gotta put up the big front so that people will trust them with their money. This is why the big lobby, Ed. But they put their pants on one leg at a time. Just like you and me.
+L575792 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Uh-huh.
+L575791 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ They're just people like you and me, Ed. Remember that.
+L575790 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ The hell with it, Eddie!
+L575789 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ That's very generous.
+L575788 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ I don't care what it costs! This is when ya come together!
+L575787 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Frank, uh, you know I'll try to contribute, but, uh--Freddy Riedenschneider--
+L575786 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Close ranks! Goddamnit! Those sons of bitches!
+L575785 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yeah.
+L575784 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ This is what family is for, Ed! This is when ya come together!
+L575700 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Damn, I got a headache to beat the band.
+L575699 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...Nah.
+L575698 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ You don't got a headache?
+L575697 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ OK.
+L575696 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ ...How you today, Ed?
+L575525 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ What the hell are you talking about?
+L575524 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I'm gonna mingle it with common house dirt.
+L575523 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ What the--
+L575522 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...I'm gonna take his hair and throw it out in the dirt.
+L575520 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Come on, Eddie, you're gonna scare the kid.
+L575519 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ No, I mean it's growing, it's part of us. And we cut it off. And throw it away.
+L575518 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Yeah--lucky for us, huh, pal?
+L575517 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I don't know... How it keeps on coming. It just keeps growing.
+L575516 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Whuddya mean?
+L575515 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...You ever wonder about it?
+L575514 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Yeah.
+L575513 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ This hair.
+L575512 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Huh?
+L575511 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Frank.
+L575454 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yeah, yeah--go home.
+L575453 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ ...You sure, Eddie?
+L575446 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Sure, go to the store. Go there, describe to the man where you will be fishing, and for what, and the weather conditions, sun, no sun, whatnot, and so forth, and then you might as well have the man go ahead and sell you the goddamn FISH, Ed...
+L575445 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yeah.
+L575444 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Sportsmanship! That's my point. June fly, Ed? Mosquito? Which of these? Well, what fish do you seek?
+L575443 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Uh-huh.
+L575442 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ The point is there's a certain art to the process. The point is not merely to provide, and let me point out, these fish are not as dumb as you might think.
+L575441 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Uh-huh.
+L575440 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ ...so you tie your own flies, Ed. I mean, if you're really serious. You tie your own flies, you do a--I know it's matickless, I know, people say, hey, you can buy flies at the store-- but you can buy your fish at the store, Ed, you see what I'm saying?
+L575397 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Now, being a barber is a lot like being a barman or a soda-jerk; there's not much to it once you've learned the basic moves. For the kids there's the Butch, or the Heinie...
+L575396 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Jesus...
+L575395 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yeah.
+L575394 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Russians exploded an A-bomb.
+L575393 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Huh?
+L575392 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ ...Ed?
+L575391 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ How d'ya like them apples?
+L575390 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Uh-huh.
+L575389 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Says here that the Russians exploded n A-bomb and there's not a damn thing we can do about it.
+L576117 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Birdy...
+L576116 +++$+++ u8152 +++$+++ m553 +++$+++ KREBS +++$+++ What'd he say?
+L576115 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Birdy... I didn't mean to--
+L575725 +++$+++ u8152 +++$+++ m553 +++$+++ KREBS +++$+++ He's the dead guy.
+L575724 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ I don't understand.
+L575720 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ My *wife*?
+L575719 +++$+++ u8152 +++$+++ m553 +++$+++ KREBS +++$+++ They sent us to tell ya. We pulled the detail.
+L575718 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Huh?
+L575713 +++$+++ u8152 +++$+++ m553 +++$+++ KREBS +++$+++ Huh? No.
+L575712 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...We goin'?
+L576096 +++$+++ u8153 +++$+++ m553 +++$+++ MAN +++$+++ Well, have you ever considered tar Macadam? People think it's just for public works and commercial purposes, roads, parking lots, so forth...
+L576095 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Doesn't bother me.
+L576091 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Hello.
+L576090 +++$+++ u8153 +++$+++ m553 +++$+++ MAN +++$+++ Hello!
+L575980 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yeah?
+L575979 +++$+++ u8153 +++$+++ m553 +++$+++ MAN +++$+++ My name is Diedrickson. County medical examiner.
+L575978 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ ...I'm Crane.
+L575819 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ No thanks, I--
+L575818 +++$+++ u8153 +++$+++ m553 +++$+++ MAN +++$+++ Barber, right? I'm Freddy Riedenschneider. Hungry? They tell me the chow's OK here. I made some inquiries.
+L575817 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Yeah--
+L575816 +++$+++ u8153 +++$+++ m553 +++$+++ MAN +++$+++ ...You're Ed Crane?
+L575802 +++$+++ u8153 +++$+++ m553 +++$+++ MAN +++$+++ You also have an interest in the securing property?
+L575801 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Crane. Ed Crane.
+L575800 +++$+++ u8153 +++$+++ m553 +++$+++ MAN +++$+++ Mr...?
+L575731 +++$+++ u8150 +++$+++ m553 +++$+++ ED +++$+++ Hello, Walter.
+L575730 +++$+++ u8153 +++$+++ m553 +++$+++ MAN +++$+++ 'Lo, Ed.
+L575808 +++$+++ u8153 +++$+++ m553 +++$+++ MAN +++$+++ Ah-hah. It would be best if he waited here.
+L575807 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ No, he's family, he's my brother-in- law.
+L575806 +++$+++ u8153 +++$+++ m553 +++$+++ MAN +++$+++ Not an owner.
+L575805 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Second chair.
+L575804 +++$+++ u8153 +++$+++ m553 +++$+++ MAN +++$+++ Ah.
+L575803 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ He's a barber.
+L575799 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Sure. Can Ed come too?
+L575798 +++$+++ u8153 +++$+++ m553 +++$+++ MAN +++$+++ Could you come with me please?
+L575797 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Yes, sir.
+L575451 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ Hey, what's your problem, friend? This is a business establishment with posted hours--
+L575450 +++$+++ u8153 +++$+++ m553 +++$+++ MAN +++$+++ Oh, happy days! I wish I was doing well enough to turn away business! More power to ya, brother! The public be damned!
+L575449 +++$+++ u8151 +++$+++ m553 +++$+++ FRANK +++$+++ We're just closing, friend.
+L575448 +++$+++ u8153 +++$+++ m553 +++$+++ MAN +++$+++ OK, boys, which of you gets the privilege?
+L576124 +++$+++ u8154 +++$+++ m553 +++$+++ PERSKY +++$+++ He said OK. Is that what he said?
+L576123 +++$+++ u8152 +++$+++ m553 +++$+++ KREBS +++$+++ What'd he say? Does he understand?
+L576114 +++$+++ u8154 +++$+++ m553 +++$+++ PERSKY +++$+++ Under arrest for murder.
+L576113 +++$+++ u8152 +++$+++ m553 +++$+++ KREBS +++$+++ You'll go to the prison hospital.
+L576112 +++$+++ u8154 +++$+++ m553 +++$+++ PERSKY +++$+++ As soon as the doctor lets us, we gotta move you. Does he understand that? We're supposed to tell him. Are you conscious?
+L576111 +++$+++ u8152 +++$+++ m553 +++$+++ KREBS +++$+++ Uh... you're under arrest.
+L576110 +++$+++ u8154 +++$+++ m553 +++$+++ PERSKY +++$+++ His eyes are open.
+L576109 +++$+++ u8152 +++$+++ m553 +++$+++ KREBS +++$+++ Crane? We have to tell you, as soon as you're conscious--is he conscious?
+L576108 +++$+++ u8154 +++$+++ m553 +++$+++ PERSKY +++$+++ Are you awake?... Is he awake?
+L575728 +++$+++ u8154 +++$+++ m553 +++$+++ PERSKY +++$+++ Sorry, pal. They sent us to tell ya.
+L575727 +++$+++ u8152 +++$+++ m553 +++$+++ KREBS +++$+++ Visiting ends at five. Too late today. You can see her tomorrow.
+L575726 +++$+++ u8154 +++$+++ m553 +++$+++ PERSKY +++$+++ ...Yeah, it's a tough break.
+L575723 +++$+++ u8154 +++$+++ m553 +++$+++ PERSKY +++$+++ Well, embezzlement. And homicide. A guy named David Brewster. He's, uh... He's the decedent.
+L575722 +++$+++ u8152 +++$+++ m553 +++$+++ KREBS +++$+++ Homicide.
+L575721 +++$+++ u8154 +++$+++ m553 +++$+++ PERSKY +++$+++ Yeah, uh, they brung her to the county jail, uh...
+L575717 +++$+++ u8154 +++$+++ m553 +++$+++ PERSKY +++$+++ They sent us to tell ya.
+L575716 +++$+++ u8152 +++$+++ m553 +++$+++ KREBS +++$+++ ...Look, pal, it's a tough break, but, uh... well damnit, your wife's been pinched.

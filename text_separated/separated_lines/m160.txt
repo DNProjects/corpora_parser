@@ -1,0 +1,472 @@
+L444536 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Have you found Dr. Bright?
+L444535 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ Dr. Argon, everything's starting to come apart here.  You hired me to take care of these matters of security and I am trying, but elements are making my job impossible.
+L444523 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ Dr. Bright has escaped.
+L444522 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Speak.
+L444521 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ Look, I don't mean to rain on everyone's ascension here, but we got a little problem.
+L444076 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ You got it, Dr. Argon.
+L444075 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Mr. Sim, when you do locate him.  Do not scare him off again.  Just watch him.  I think you can handle that. Right, Mr. Sim?
+L443995 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Until he's done.
+L443994 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ How long do you leave him in there?
+L444463 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ A light mixture of oxygen, dioxide, and sodium pentothal.  He'll sleep, that's all.
+L444462 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ What did you use?
+L444460 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Do?  Well, I suppose that depends on you.
+L444459 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ What are you going to do to him?
+L444369 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Susan, I sense you are having difficulty understanding the situation you are presently in.  I ask that you keep in mind that I am ready to reduce an entire city to gelatin to get what I want.
+L444368 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I swear to you, Argon, if you don't stop the meltdown that nanobot will be the last one I ever build.
+L444361 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ I look behind us, I look to the past, to a world steeped in rot and decay.  I think of the Acropolis in another century reduced to little more than dust.  I see the faces of Rushmore eventually losing all distinction, and then I look at this...
+L444360 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ How do you know we're not heading in the wrong direction?
+L444359 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ This is our world, Susan, and once you realize that, you will understand that the only place our path can end is on the throne of heaven.  Science is the quest for divine perfection.
+L444358 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Do you know what I see?  I see man making his own clouds.  I see man coloring his own sky, and like this garden it is a site that makes my heart sing.
+L444357 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Pollution?
+L444355 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ I ask you what is the purpose of science?  What is the point of all our relentless exploration, investigation and experimentation? It is to understand a single physical phenomenon, or to understand them all?  To cure one disease, or to cure every disease? If science is simply a means, what then is the end?
+L444354 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I suppose you are going to tell me where it is going.
+L444353 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ I brought you up here, Dr. Bright, because I want you to understand that we are on the path.  The only difference is that you are walking with your head down, afraid to look up, to see where the path is going.
+L444351 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Does that mean Oppenheimer loved the atomic bomb?
+L444350 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ We will always love most that which we create.  Don't you agree, Susan?
+L444342 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ You'll forgive me but all the excitement has left me extremely parched.  Poppy?
+L444341 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ No, thank you.
+L444340 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Something to drink, Dr. Bright?
+L444339 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Come with me, Susan.  I want to show you something.
+L444338 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ You can't mean that.
+L444337 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ To be brutally honest with you, Susan, as long as the nanobot does to me what it did to that idiot O'Brien, I don't give a rat's ass about what happens after that.
+L444336 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ But in another twenty-four hours the core meltdown will be beyond the stabilization period.  There will be no way to stop it.
+L444335 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Dr. Bright, I don't have to do anything.
+L444306 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ No.
+L444305 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Mr. Sim I want you to return to Dr. Bright's.  I believe she is hiding something of ours there.
+L444300 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ You don't have to give it to us because Dr. Nebbleman can just cut it out of him.
+L444299 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ If you think I would ever give you the nanobot after this, you are deluding yourself.
+L444298 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Not anymore, Mr. O'Brien.  The nanobot has changed that.
+L444285 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Dr. Argon, I demand an explanation.
+L444284 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Wheelchair accessible.
+L444625 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ That's right.  And making me was the biggest mistake you ever made!
+L444624 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ You can't do this!  You owe me, O'Brien.  I made you plastic!  I made you!
+L444623 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Yeah, I'm going to finish what you started --
+L444622 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Please, O'Brien, don't do this to me!  I'll give you anything you want!
+L444614 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ You think you can use me to stop the meltdown.
+L444613 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ You mean besides kicking your ass?!
+L444612 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ I know what you're doing.
+L444600 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ The only history I'm gonna write is your obituary!
+L444599 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ It remains to be seen who is the good guy and who is the bad guy. History is written by the victor.
+L444598 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Oh no.  You're not like me.  In fact, I'm betting you're the same greedy, remorseless, egomaniacal bad guy you always were.
+L444597 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ As you can see I am a new man, just like you.
+L444596 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Ain't it.
+L444595 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ How apropos.
+L444453 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Maybe you should, but you can't.
+L444452 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I should kill you right now for what you did to me!
+L444297 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ You egomaniacs make me laugh. Nature's going to bury you like she buries everyone else.
+L444296 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ The body is just another part of nature and ever since we gave up trees for central air, there has been nothing sacred about nature. Nature is the enemy, Mr. O'Brien, and science is our greatest weapon against her.
+L444293 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ You're lacking a few things too: ethics, morals, common decency and, oh yeah, deodorant.
+L444292 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Poison?  I'm surprised at you.  You lack vision, Mr. O'Brien.
+L444291 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Wow, that is one moving story.  Take it easy on my heart strings.  Now I really feel guilty complaining about you shooting me up with your poison.
+L444290 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ ... plastic.
+L444287 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ If you'd like, we can go straight to the authorities.  I understand they are very interested in talking to you.
+L444286 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I can explain it.  Attempted murder wasn't enough for him.  He wants to add kidnapping to the charges.
+L444584 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Not that.
+L444583 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Did I?  I've been waiting for that for years.
+L444582 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Did you feel that?
+L444483 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Poppy, this is not the time!
+L444482 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ If you loved me like I loved you?
+L444481 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Poppy, please --
+L444480 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ What I asked you earlier?
+L444479 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Considering what?
+L444478 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ I was wondering if you'd finished considering?
+L444477 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ I'm so excited, Icarus.
+L444476 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ It will be an ascension.
+L444473 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Okay, arms up, lean forward.
+L444472 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ This is what my entire life has been directed at, this moment, this threshold.
+L444471 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Oh yes, Icky.  I can feel it.
+L444470 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Can you feel it, Poppy?  The presence of the moment?  Can you feel the weight of its significance?
+L444425 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ If you honestly trust me, then you'll have to trust me.
+L444424 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Consideration?
+L444423 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ I promise, my dear, I will give the matter some consideration.
+L444422 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Icarus?
+L444417 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Poppy, please, just tell me what you want.
+L444416 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Then you still love me?
+L444415 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Yes.  Yes, of course it is.
+L444414 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Look at me, Icarus!  Look at my body.  I've done everything, changed anything you asked me to.  'We will always love most that which we create.'  Is that still true?
+L444413 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Icarus, please!  This is important!
+L444412 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Why are there two ottomans?
+L444411 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ You know how I feel about you.  You know how much I need you.  How much I trust you.  I would do anything for you.
+L444409 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ No, Icky, this is real.
+L444408 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Poppy, are you in one of your moods again?
+L444406 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ She must feel something for him. After all, she and I did create him.
+L444405 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Do you think she loves him?
+L444404 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Based on what we know of him, that would seem inevitable.
+L444403 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ And you still believe he's going to come here?
+L444402 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ That remains to be seen.
+L444401 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ And you think O'Brien is that leverage?
+L444400 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Eventually.  These things are always a matter of leverage.
+L444399 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Do you think she will give us the designs?
+L444332 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Dr. Nebbleman, I want to know the moment the nanobot arrives.  The instant, understand?
+L444331 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Gently, Ott.  Gently.
+L444032 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ You're right.  Place a call to our friends at the network and to Mr. Joplin at the E.P.A.
+L444031 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ A containment crew is going to attract a lot of attention.
+L444013 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Nebbleman.
+L444012 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Oh no.  No.  We'll get her assistant.  What's-his-name? Nebbishman?
+L444011 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ In the meantime, we're going to need someone to deal with that mess in the lab.  I don't think we should call Dr. Bright.
+L444010 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Yes, that's true.  We have to find him, run tests, determine if the polymerization is stable.
+L444009 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ You don't either.  We won't know anything until we find that guy and find out if he's alive or what.
+L444008 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ But, Poppy, you don't know what this means --
+L444007 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Now, Icky, I don't need you winding yourself up.  I need you focused and in control.
+L444006 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ It works, Poppy.  It works, it works!
+L444003 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Who cares!  We've got to find him! Hurry!
+L444002 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Icky!  What's happening?
+L443868 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Don't be a child, Icarus.  She is just another scientist and like all scientists, she doesn't care about anything outside the world of the laboratory.
+L443867 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ She let it escape because she wants me to die.
+L443866 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ She did not.  The mouse ran down the drain.
+L443865 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ She's lying.  She lost the first one on purpose.
+L443864 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ She says it's not.
+L443863 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ It's ready now, I know it is.
+L443862 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ She's working as fast as she can, Icarus.  It will be ready soon.
+L443859 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ No.  I'm getting used to it.
+L443858 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Icarus, please, if you want me to give you a bath just say so.
+L443857 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Oh no?  Smell this.
+L443856 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ You're not rotting meat.
+L443855 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Like rotting meat.
+L444542 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Donated to science.  Perfect.
+L444541 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Wait, wait, can I at least have his body?
+L444540 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ It'll be better for us if he simply disappears.  The gardener will know what to do.
+L444532 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Thank you, sir.
+L444531 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Excellent work, Dr. Nebbleman.  You have outdone yourself.
+L444498 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Shut up and do it!
+L444497 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Of course you understand, Dr. Argon, that once the nanobot is inside of you, there is no going back --
+L444367 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ In the meantime, why don't you find something useful for Dr. Bright to do.
+L444366 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Dr. Makeo is working on it now, sir. I estimate at least another six hours.
+L444365 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Excellent.  How long until the assembler tank is complete?
+L444364 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ They're here!  They're here!  We have the nanobot.
+L444311 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ The trunk.
+L444310 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Where did he go?
+L444304 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Dr. Nebbleman, take care of them.
+L444303 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ She could have given him something to stimulate his kidneys.
+L444200 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Look, John, nobody wants to find out what happens.  That's why you're here.  We need your help on this one and that's why that suitcase is here.
+L444199 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Well, at this time, I mean that is to say, it is difficult to project --
+L444030 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Poppy, order the trucks from the Gary plant.  And we're going to need a containment crew.
+L444029 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ That might work.
+L444028 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Then perhaps we can use liquid nitrogen to keep the meltdown under control.
+L444027 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Well, yes.  The replicators are not as active at low temperatures.
+L444026 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ Facts, Dr. Nebbleman.  Facts. You've been using cryogenics to control the waste from the mouse experiment, haven't you?
+L444025 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Cleaned up?  It can't be cleaned up! Without the nanobot the waste can't be stabilized!  That's what we've been trying to tell you!  The only thing we can do is run!  Run!  Run!
+L444024 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ The fact is, that the milk has been spilled and now we need you to tell us how to clean it up.
+L444021 +++$+++ u2477 +++$+++ m160 +++$+++ ARGON +++$+++ The nanobot is gone.
+L444020 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Okay.  Alright.  Okey-dokey.  Now, we need the nanobot.  The nanobot that initiated the reaction.  Once we have that we can stabilize the meltdown.  Simple really.  No problem.
+L443991 +++$+++ u2478 +++$+++ m160 +++$+++ KID +++$+++ I want Trix!  Mommy!
+L443990 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Here, kid, this is great stuff.  Why don't you give it a try?
+L443986 +++$+++ u2478 +++$+++ m160 +++$+++ KID +++$+++ I like Trix!
+L443985 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ You have no idea what this is doing to your body.
+L443984 +++$+++ u2478 +++$+++ m160 +++$+++ KID +++$+++ Yeah, I do!
+L443983 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ You don't want this.
+L443982 +++$+++ u2478 +++$+++ m160 +++$+++ KID +++$+++ Hey!
+L443899 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I'll do whatever I have to do.
+L443898 +++$+++ u2479 +++$+++ m160 +++$+++ LITTERBUG +++$+++ What are you going to do?  Make me throw it out?
+L443897 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Oh no, no, no.  No can do.  You enjoyed a tasty beverage and thus this receptacle becomes your responsibility and I don't care if it's a Styrofoam cup or the Exxon Valdez!  You've got to learn to take responsibility!
+L443896 +++$+++ u2479 +++$+++ m160 +++$+++ LITTERBUG +++$+++ Look, asshole, I don't got time for this.  If you got a problem, you better take care of it yourself.
+L443895 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I just want to know what goes on in the mind of a litterbug.  What chemical is secreted by your smooth brain that tells you, 'It's okay, just chuck it'?
+L443894 +++$+++ u2479 +++$+++ m160 +++$+++ LITTERBUG +++$+++ You better quit pushing me, pal.
+L443893 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ What is it with you litterbugs?  Is it a territorial thing, marking your turf with your garbage?
+L443892 +++$+++ u2479 +++$+++ m160 +++$+++ LITTERBUG +++$+++ Why don't you just shove it up your ass!  Haw-haw!
+L443891 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Why don't you just put this in your pocket so when you see a garbage can you can put it where it belongs.
+L443890 +++$+++ u2479 +++$+++ m160 +++$+++ LITTERBUG +++$+++ Haw-haw!  Why don't you run off and find a cop and I'll wait right here.
+L443889 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ So what?  So what?  For starters, how about littering is a crime.
+L443888 +++$+++ u2479 +++$+++ m160 +++$+++ LITTERBUG +++$+++ Yeah?  So what?
+L444396 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Make me?  How?  You think he's going to torture me?
+L444395 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ I think that either you're going to give them to him or he's going to make you give them to him.
+L444394 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ You mean the designs for the nanobot?  You think after this I'm going to give them to him?
+L444393 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ I'm a scientist.  I have lived my whole life by the diagnostic application of fact and the fact is, Argon is going to get whatever he wants, so if I were you, I'd give it to him.
+L444388 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Who isn't?
+L444387 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ You're afraid of him.
+L444386 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Of course he is, but at least there isn't a security guard outside my door.
+L444385 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Nigel, can't you see he's using you?
+L444384 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ No!  Well, not those exact words.
+L444383 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Is that what Argon told you?
+L444382 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Because I am a new man, Susan.  I am a man of vision.  Your problem, Susan, is that you're always looking down.  If you'd just look up you'd see the big picture and in the big picture men of vision do not dwell on what might be lost.  They focus on what can be gained.
+L444381 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Argon is a lunatic!  I can't believe I was stupid enough to believe I could control him.  You heard what he said, Nigel.  He doesn't care if all of Calumet City is turned to Jell-O.  How can that not affect you?
+L444380 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Dr. Argon would say we are all prisoners.
+L444379 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ There's a guard outside my door! I'm a prisoner, Nigel!  Do you understand that?
+L444378 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Opportunity?
+L444377 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Susan, Dr. Argon is giving you an opportunity here.
+L444376 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I don't believe this is happening...
+L444334 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Dr. Argon, I know you want to use the nanobot on yourself, but you mustn't.  The situation is critical right now.  The replicators are growing exponentially.  If we wait much longer it will be too late. You have to use the nanobot to stop the meltdown.
+L444333 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Of course, sir.
+L444323 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ You're looking for a urine sample.
+L444322 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ You were never invited to my house.
+L443948 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ What I've always done.  As long as I'm the only one who can build the nanobot, I'm the only one who can say when it should be tested.
+L443947 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ What are you going to do?
+L443946 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I hope you're right.  I'd feel a lot worse if he had read them and just didn't care.
+L443945 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ I bet he hasn't read a single report we've written on the waste problem.
+L443929 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ This day just keeps going from bad to worse.
+L443928 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Worse.  Mrs. Argon wants to talk to you.  She's waiting in the lab.
+L443927 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ The replicators?
+L443926 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Well, you got another problem.
+L443925 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ They'll in validate the key. Probably nothing.
+L443924 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ What did security say?
+L443911 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ That's the guy?
+L443910 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Yeah.  But it wasn't a group.  It was one man.
+L443909 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Yeah, somebody broke in and stole the samples, one of those animal rights groups, right?  I remember now, they freed all the monkeys which caused that huge pileup on the Massachusetts Turnpike, right?
+L443908 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ That's right.  C.D.C. found out and closed them down...
+L443907 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ They also tried using viral R.N.A. as the bonding element.
+L443906 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Oh yeah.  They were working on molecular assemblers, too, weren't they?
+L443905 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Do you remember about five years ago, that uh... incident at Purnell Labs?
+L443883 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I'm not sure.  That's the funny thing about him.  He's the kind of guy that you never know what he wants or what he might do to get it.
+L443882 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ What did he want?
+L443881 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Yeah.  I knew him when I was still in school.
+L443880 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ A man?
+L443879 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ This morning.  I saw someone I haven't seen in a long time.
+L443878 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Aaabout...?
+L443877 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ What?  Oh, I'm sorry, Nigel.  I was just thinking...
+L444551 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ Wellie well, Dr. Bright.  You're just in time.
+L444550 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Susan!
+L444539 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ And if we evacuate, what do you want to do with O'Brien?
+L444538 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ He's probably right, sir, the building is probably going to collapse under its own weight.
+L444516 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ So, I guess it worked.
+L444515 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Sir, please try to hold still.
+L444330 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Yes.  That's it.  He's got it.  Oh God, he's got it!
+L444329 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ Like Crazy Glue?
+L444328 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Smell?  Uh, something like methylcyanoacrylate.
+L444327 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ What's it smell like?
+L444321 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ Okay.
+L444320 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ I've only been invited to her house once, but I know there is a basement lab that she uses for private research.
+L444319 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ You want to tell me what I'm looking for?
+L444318 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Mr. Sim, watch out!  O'Brien escaped and could be on his way!
+L444317 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ It's Sim.  We're almost there.
+L444316 +++$+++ u2480 +++$+++ m160 +++$+++ NEBBLEMAN +++$+++ Yes?
+L444647 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I guess they do.
+L444646 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Things do change.
+L444637 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Do you suppose that was our problem? We met before our time?  I think that happens a lot.  People, events, planets all just circling each other waiting for that moment when everything clicks into place.
+L444636 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ We were different people then.
+L444635 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ God, what a fight that was.
+L444634 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I remember I was trying to help...
+L444633 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ God, when we were in that store all I could think about was that one time, when we were in school, and you attacked that little kid who wanted some cereal.  Do you remember that?
+L444593 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Do the words 'hero fantasies' mean anything to you?  How about 'infantile dementia'?
+L444592 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I have to!
+L444591 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ You're not going after Argon!
+L444589 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ We don't have time to argue, Susan.
+L444588 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Daniel, just forget Argon.  Let's get out of here.  We'll find another way to stop the waste.
+L444581 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ The same thing I suppose.
+L444580 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ What would happen if I threw him into the core?
+L444579 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Yes.
+L444578 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ That means the nanobot is still inside him.
+L444577 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ You mean he's polymerized, like me?
+L444576 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ It's too late.  Argon injected it.
+L444575 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ We've got to get the nanobot.
+L444574 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Oh shit, the meltdown.  It's spread to the tower.
+L444573 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ What in the...?
+L444571 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ You don't have to say anything, Daniel.  I'm a scientist.  I know what's happening.  I recognize the classic symptoms.  Dizziness, shortness of breath, sweating palms... I can feel my adrenals secreting, my parasympathetic nervous system quivering, the estradiol coursing through my entire body...
+L444570 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Susie... I...
+L444569 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Did you think I could just leave you...?
+L444568 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ You saved my life.
+L444455 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I'm not leaving without you, Susan!
+L444454 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Run, Daniel!  Get out of here!
+L444438 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Let's go.
+L444437 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Argon's private lab.
+L444436 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Where is it?
+L444435 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Oh no!  Argon!  We have to stop him before he uses the nanobot!  We have to get the nanobot!
+L444434 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ What could happen?  I'm the plastic man, remember?
+L444433 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I didn't know what was going to happen.  I was just so worried something was going to happen to you.
+L444432 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ You didn't think I could just leave you?
+L444431 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I don't believe it.  You're here! Oh thank God.
+L444274 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ You're not going back to jail.  All we need to do is find the nanobot. Once the meltdown is under control, then we deal with Argon --
+L444273 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I can't go back to jail.  I gotta get out of here.
+L444272 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Oh no.  They're trying to blame you for the accident.  That means they must not have been able to control the replicators.
+L444267 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ The head shrinker at the prison.
+L444266 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Who is he?
+L444260 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ On the counter.
+L444259 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Did you go?
+L444254 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Sort of.  We used a process similar to the vulcanization of rubber and added bulk with a chain of chloroprene elastomers.
+L444253 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ You made this out of my hair?
+L444252 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Like a glove.
+L444251 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ That's going to fit me?
+L444250 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ It's a crime fighting costume, what do you think?  It's underwear, so if you lose your clothes you'll still be decent.
+L444249 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ What's that?
+L444244 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Getting used to it.
+L444243 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ That's pretty good.
+L444226 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I was hoping you were over that. Remember to keep drinking fluids.
+L444225 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ No cheese.
+L444224 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I think it would be better for me to go alone.  I'm sure Sim is looking for you.  Just sit tight.  I'll bring you back a pizza.
+L444223 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I could go with you.
+L444222 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Something else I want to try.
+L444221 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ What did you want my hair for?
+L444220 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I'm going to go out for a while.  I want to take the blood samples to a lab that has the equipment I need.
+L444213 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I don't know.
+L444212 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ How far can you stretch?
+L444210 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ It's still inside me?
+L444209 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ The nanobot... it's not here...
+L444208 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ What's wrong?
+L444207 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Daniel, I didn't hear you come down...
+L444206 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Uh oh.  I remember that temper.
+L444193 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ No problem.
+L444192 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Do you have something to bring me down?
+L444191 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Probably the caffeine.
+L444190 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I feel very emotional right now.  A bit out of control.
+L444189 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I'm glad you came to me for help.
+L444188 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I want you to know that I really appreciate you helping me.
+L444187 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Yeah.  Old times.
+L444186 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Just like old times.
+L444185 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ And I don't see you sunbathing at Chernobyl!
+L444184 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Come on, I don't see you living in a cave!
+L444183 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ But lo and behold he found another world that progress could annihilate!
+L444182 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ And I'm sure you thought Columbus was going to sail off the edge of the world!
+L444181 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I don't consider uncontrollable toxic waste progress!
+L444180 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ You're not protecting the world, you're obstructing progress!
+L444179 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ This is what I deserve for trying to protect the world from a madman and his mercenary physicists?
+L444178 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Victim my ass!  You stole my security key and used it to break into my lab to do who knows what kind of damage!  Maybe this is the end of the story and you finally got what you deserved!
+L444177 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Blame the victim.
+L444176 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ You have no one to blame but yourself.
+L444175 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Just giving credit where credit is due.
+L444174 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ What's that supposed to mean?
+L444173 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Means?  Oh no.  We won't know what it means until the end of the story and maybe then it won't seem quite as funny to you, Doctor Frankenstein!
+L444172 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I'm sorry, Daniel, but you have to admit it's pretty ironic that you of all people would be the first man ever polymerized.  It's got to mean something.
+L444171 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Oh yeah, real funny.  Yuk-yuk. Let's laugh at everything a man believes in.
+L444169 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ The polymerization probably synthesized into a kind of methyl- cyanoacrylate.  So what's wrong?
+L444168 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Just look at it!
+L444167 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ What about it!
+L444166 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Look at this!
+L444165 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ What?  What's wrong?
+L444164 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Susan!
+L444159 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ No, no, I just feel wired!
+L444158 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Is something wrong?
+L444151 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ No, why?
+L444150 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Lungs sound fine.  You didn't have any pre-existing physical conditions, did you?  Allergies? Infections?
+L444146 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ You're the doctor.
+L444145 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I think while we're waiting, we had better run some basic diagnostics on you.
+L444141 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Isn't it already too late then?
+L444140 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ That's right.
+L444139 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ So right now there's little replicators spreading throughout Argon's lab?
+L444137 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ With enough exposure, the same thing they do to everything else.
+L444136 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ What do these replicators do to people?
+L444135 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Three days ago it was.
+L444134 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ That was an egg?
+L444133 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ What happens?
+L444132 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ The replicators start off like assemblers, but the replicators never stabilize.
+L444126 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ The waste.
+L444125 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ The problem is the by-product created by the process.
+L444124 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Got it.
+L444123 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ The nanobot combined your molecules with the plastic molecules in the white assembler fluid, so that on a molecular level you now have more in common with a Good Year tire than a human being.
+L444122 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ That was 'simple'?
+L444121 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ To put is simply, the nanobot inside you is a microscopic machine encoded with information like a strand of messenger R.N.A. that is programmed to synthesize your molecules with the polyisoprenes of the assembler fluid, rebuilding your entire organic system on a molecular level.
+L444118 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ What waste?
+L444117 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ The nanobot is the only thing that can stabilize the waste.
+L444116 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Why do we need it?
+L444115 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ If you don't want to do it this way, I can remove it surgically.
+L444114 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Pills... you know how I feel about pills.
+L444113 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ The nanobot is still inside you. It's programmed to exit through the urinary tract.  We need it as soon as possible, so swallow those.
+L444112 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Why?
+L444111 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Mostly caffeine diuretics.  Help you go to the bathroom.
+L444110 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ What are these?
+L444109 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ What has happened to you is nothing compared to what is going to happen to Calumet City if we don't hurry.
+L444108 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ We don't?
+L444107 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ We don't have time for hysterics.
+L444106 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I'm a plastic man!  A plastic man!
+L444105 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Daniel!
+L444104 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Oh God, please!  This can't be happening!  I can't be plastic!  A plastic man?!
+L444103 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Once the subject was polymerized we were unable to reassemble the original organic structure.
+L444102 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Oh no, no, no!  You've got to be able to fix me!  Please, Susan, tell me you can make me normal again!
+L444101 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Then you must have at some point tried to reverse the procedure.
+L444100 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Yes.
+L444099 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ But you've polymerized single-celled bacteria and the fruit flies, I know you have.
+L444098 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ It escaped from the lab before we could finish the experiment.
+L444097 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ You don't know?
+L444096 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I don't know.
+L444095 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ What happened to it?
+L444094 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ My first organic-polymerization was a lab mouse.
+L444093 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Mouse?  What mouse?
+L444092 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ ... just like the mouse.
+L444090 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ The nanobot.
+L444089 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ They did it to me!
+L444087 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ No, something is really wrong... look!
+L444086 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Sorry, Daniel, I'm a physicist, not a psychiatrist.
+L444085 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Please, Susan!  I need help! Something is wrong with me!
+L444084 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Daniel, what are you doing here?
+L444083 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Susie!  You gotta help me!
+L443988 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Susan, this is the future of America here.
+L443987 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Daniel, give him the Trix.
+L443978 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Am I?  Look!  Right there!  That's exactly what I am talking about.
+L443977 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ You're insane.
+L443976 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ You think it's a coincidence that they have all these aisles lined up like this, like a little maze! We're all lab rats running through their maze, pulling lever A or lever B, each designed to create some kind of bio-chemical dependency.  All the while they're everywhere, watching us, two-way mirrors, surveillance cameras, nodding to each other, making little notes.
+L443974 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I can't help it, Suze.  It's this place.  You know how I get in these stores.  They freak me out.  All these tiny boxes, little cans filled with eight syllable God knows what.
+L443973 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I'm sorry I brought the whole thing up!  If you're gonna flip your wig --
+L443972 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ All I'm saying is that the companies that have money for the kind of research you're interested in, have money because that's what they're interested in!  Money!
+L443971 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ We've had this conversation already, Daniel.
+L443970 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ You think the chemists that invented Agent Orange twenty years ago were in school saying, 'Boy, I really got some good ideas for a highly toxic incendiary defoliant.'  You think Oppenheimer was dreaming about mushroom clouds before the war?
+L443969 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ God, Daniel, I'm not going to make Agent Orange.
+L443968 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ We'll see how wonderful it is after you spend the next twenty years making Agent Orange.
+L443967 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ We'll see?  What does that mean?
+L443966 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Yeah, we'll see.
+L443965 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ And what I love about molecular science is the way it revolutionizes how we have to think.  It unifies the entire world on a single level. Everything is completely connected. Sometimes I can really feel it, everything around us, just a small part of a whole.  It's really wonderful.
+L443847 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ That's what I thought.
+L443846 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Nothing really worthwhile.
+L443845 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Sure.  Can I ask you one more thing? You haven't published anything in a while.  How come?
+L443844 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Well, it was good to see you, Daniel, but I have to be going.
+L443843 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Yeah.
+L443842 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ It was a long time ago, Daniel.  We were young, different people, heading in different directions. That's all.
+L443841 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Do you ever wonder what happened to us, Susie?
+L443840 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Right.  You predicted it.
+L443839 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ And for cleaning up oil spills.
+L443838 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I've read they're using it to repair cancer cells.
+L443837 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ It already is.
+L443836 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I remember you said, nanotechnology was going to change the world.
+L443835 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I guess I should be flattered.
+L443834 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I've been thinking about you a lot all these years, locked up in my cell.  I'd tear through every issue of the Midwest Science Journal looking for your latest findings, watching as you slowly worked your polymerization experiments up through single celled organisms to that holiest of holies, the fruit fly.  Exciting stuff.  I got to tell you, it really kept me going.
+L443832 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ A cage by any other name would still smell like sweaty ugly men.
+L443831 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Jesus, Daniel.  It wasn't Ryker's Island.  It was work camp for white collar criminals.
+L443830 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ The big house.
+L443829 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ The big house?
+L443828 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Oh yeah.  See, Susie, a man doesn't do the hard time and just pick up where he left off.  Oh no.  The big house does things to a man.
+L443827 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Is that so?
+L443826 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Oh no.  Not by a long shot.  I may look like the old Daniel O'Brien, but on the inside, nothing is the same.
+L443825 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Same old Daniel.
+L443824 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Somebody has to.
+L443822 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ You know, this and that.
+L443821 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Really?  What have you been doing?
+L443820 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Been out for six months now.
+L443819 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ When did you...?
+L443818 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ What?  No kiss?  Not even for old times sake?
+L443817 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Daniel...
+L444559 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ The question is, are you?
+L444558 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ Maybe you're ready to find out if that hide of yours is bulletproof?
+L444557 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ Oh yeah?
+L444556 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ All the different ways that I could kill you.
+L444449 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ An ass-beating.  Would you like yours first, Mr. Sim?
+L444448 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ Yeah, and what might that be?
+L444447 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Yeah, I have something I've been meaning to give you.
+L444446 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ You were looking for us?
+L444445 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ This is wonderfully accommodating of you all.  Now I won't have to come looking for you.
+L444048 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ Forget it, pissboy!  You tell Argon he can call my lawyer.
+L444047 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ Only this ain't no tranquilizer gun. Now let's go!
+L444046 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ That's right.
+L444045 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ I get it.  You're the goon fetch boy.  The zookeeper Argon calls in when one of his guinea pigs gets loose.
+L444044 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ Oh yes you are!
+L444043 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ What?  I'm not going anywhere!
+L444042 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ I'm real touched.  Now get your Sunday's on.  We're going for a ride.
+L444041 +++$+++ u2481 +++$+++ m160 +++$+++ O'BRIEN +++$+++ You!  I remember you!
+L444071 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ We lost him.
+L444070 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ And you have him?
+L444069 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ Oh yeah, he's alive.  Technically.
+L444068 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Mr. Sim?  Do you have him?  He's alive?
+L444067 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ Mrs. Argon?  It's Sim.
+L444000 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ It's a miracle.
+L443999 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ That's impossible.
+L444606 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Don't worry, four eyes.
+L444605 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Okay, Barbie, let's get this over with.
+L444602 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Get him, Daniel!  Knock his block off!
+L444601 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Icky!
+L443943 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ You won't.  That's why you're whispering.
+L443942 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ I could have you fired right now.
+L443941 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Just one question.  Since Dr. Argon no longer has feeling below his waist, how is it that you're still able to do your job?
+L443940 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ If you don't have any questions, I'll let you get back to doing your job.
+L443939 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ While you remain on the staff at Argon Laboratories, your priorities will always be the same as Dr. Argon's priorities.  I imagine that is a simple enough equation for a bright girl like you to figure out.
+L443938 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Look, as I have said and will continue to say, the instability of the assembler waste remains my priority --
+L443937 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Is that a threat, Dr. Bright?
+L443936 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Under the circumstances, I can't fathom what makes Dr. Argon think we are ready for anything bigger.  If C.N.N., or hell, if the E.P.A. knew what was in my basement --
+L443934 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ He believes that the second nanobot should be ready for testing by now.
+L443933 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ I am aware of Dr. Argon's frustrations.
+L443932 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ I spoke to Dr. Argon this morning and he remains frustrated over the loss of the original nanobot.
+L443931 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Can I help you, Mrs. Argon?
+L443930 +++$+++ u2482 +++$+++ m160 +++$+++ POPPY +++$+++ Vermin...
+L444276 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ Pipe down, brain lady!  And you...
+L444275 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ What in the hell?
+L443922 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Yes, he might be.
+L443921 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ In fact, would it be safe to say, based on your general knowledge of this character, that he is already in the building?
+L443920 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ Yes, that is what I was thinking.
+L443919 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ If this nutcase did take it and has half a brain, he'd use it right away, before we could invalidate it.
+L443916 +++$+++ u2483 +++$+++ m160 +++$+++ SIM +++$+++ 'Paranoia is what separates the secured from the unsecured.'
+L443915 +++$+++ u2484 +++$+++ m160 +++$+++ SUSAN +++$+++ It might be paranoia, but I've never lost my keycard before.

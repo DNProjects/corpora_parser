@@ -1,0 +1,1285 @@
+L134330 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Pack of cigarettes.  What's that?
+L134323 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ I'll just take the gum.
+L134322 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ It's a picture of a cancer-ridden lung. Keep it.
+L134321 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Jesus!
+L134320 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ It's cheaper than cigarettes. And it certainly beats this.
+L134319 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ It's not the same.
+L134318 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ It's never too late. Give those cigarettes back now, and buy some gum instead.  Here. Chewlies Gum. Try this.
+L134317 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Well, if it's already too late...
+L134314 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ He smoked until the day he died. Used to put the cigarette in this thing and smoke it that way.
+L134313 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Unnhh!
+L134312 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ It's a trach ring. It's what they install in your throat when throat cancer takes your voice box. This one came out of a sixty-year-old man.
+L134311 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ What's this?
+L134310 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ You think I'm shitting you...
+L134309 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ You're shittin' me.
+L134308 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ That's your lung. By this time, your lung looks like this.
+L134307 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ What the hell is that?
+L134306 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ I'd say you're about nineteen, twenty, am I right?
+L134302 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ What is this, a poll?
+L134301 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ How long have you been smoking?
+L134300 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Are you serious?
+L134299 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ Do you really want to buy those cigarettes?
+L134298 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Am I sure about what?
+L134297 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ Are you sure?
+L134296 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Am I sure?
+L134295 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ Are you sure?
+L134363 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ The ones in this town, yes! You encourage their growth, their habit. You're the source in this area, and we're going to shut you down for good! For good, cancer-merchant!
+L134362 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Like I'm responsible for all the smokers!
+L134361 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ What better place than this? To stamp it out, you gotta start at the source!
+L134360 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yeah, but not in here.
+L134359 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ We're not moving! We have a right, a constitutional right, to assemble and be heard!
+L134358 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ That's it, everybody out.
+L134353 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ You're the disturbance, pal! And here...  I'm buying some... what's this?... Chewlie's Gum. There. I'm no longer loitering. I'm a customer, a customer engaged in a discussion with other customers.
+L134352 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You're loitering in here, and causing a disturbance.
+L134351 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ You want me to leave? Why? Because somebody is telling it like it is? Somebody's giving these fine people a wake-up call?!
+L134350 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I think you'd better leave now.
+L134349 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ Now he's going to launch into his rap about how he's just doing his job; following orders.  Friends, let me tell you about another bunch of hate mongers that were just following orders: they were called Nazis, and they practically wiped a nation of people from the Earth... just like cigarettes are doing now! Cigarette smoking is the new Holocaust, and those that partake in the practice of smoking or sell the wares that promote it are the Nazis of the nineties! He doesn't care how many people die from it! He smiles as you pay for your cancer sticks and says, "Have a nice day."
+L134348 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Hey, now wait a sec...
+L134329 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ Okay. I'm sorry about that.
+L134328 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ If you're going to drink it in here, I'd appreciate it if you'd not bother the customers.
+L134327 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ No, I think I'll drink it in here, thanks.
+L134326 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Maybe you should take that coffee outside.
+L134325 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ You've made a wise choice. Keep up the good work.
+L134324 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Fifty-five.
+L134316 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ This is where you're heading. A cruddy lung, smoking through a hole in your throat. Do you really want that?
+L134315 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Excuse me, but...
+L134304 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ How long have you been a smoker?
+L134303 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Beats me.
+L134291 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Sure. Go ahead.
+L134290 +++$+++ u4521 +++$+++ m299 +++$+++ ACTIVIST +++$+++ Do you mind if I drink this here?
+L134289 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Thanks. Have a good one.
+L135578 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ No, don't!
+L135577 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Why?
+L135570 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I feel nauseous.
+L135569 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Nobody! I swear!
+L135561 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ You two better quit it.
+L135560 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I was here the whole time.
+L135555 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You dog! I didn't see you go back there.
+L135554 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ It was so cool. He didn't say a word. He was just... ready, you know?  And we didn't kiss or talk or anything. He just sat there and let me do all the work.
+L135553 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ He was?
+L135552 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I went back there, and Dante was already waiting for me.
+L135551 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Am I missing something here?
+L135533 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Awww. That was so cute.
+L135532 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Territoriality. He was mine first.
+L135531 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ You're very protective of him, Randal. You always have been.
+L135530 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Hey Caitlin...  Break his heart again this time, and I'll kill you. Nothing personal.
+L135529 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I'll try to manage.
+L135528 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ And I'm caught in the middle-torn between my loyalty for the boss, and my desire to piss with the light on.
+L135527 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Such a sordid state of affair.
+L135526 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Nobody can figure it out. And the boss doesn't want to pay the electrician to fix it, because the electrician owes money to the video store.
+L135525 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ You're kidding.
+L135524 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Well, there are, but for some reason they stop working at five-fourteen every night.
+L135523 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Why aren't there any lights?
+L135522 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ There's no light back there.
+L135521 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Can I use the bathroom?
+L135520 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ No, this is great.
+L135519 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ God, isn't he great?
+L135518 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ He went home to change for the big date.
+L135517 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ So where is he?
+L135516 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Exactly.
+L135515 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Dick.
+L135514 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Wow. Hey, I was just about to order some dinner. You eat Chinese, right?
+L135513 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ A woman's intuition. Something in me says it's time to give the old boy a serious try.
+L135512 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Few are. So what makes you think you can maintain a relationship with Dante this time around?
+L135511 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ You might be let down. I'm not a hermaphrodite.
+L135510 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Can I join in?
+L135509 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ You can hold me down.
+L135508 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Can I watch?
+L135507 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ What can I say? He does weird things to me.
+L135506 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Wow, you got thrown out? For Dante?
+L135505 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ She said not to come home until graduation.
+L135504 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Children's programming. What did your mom say when you told her you weren't engaged anymore?
+L135503 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ You'd think she was marrying him. What are you watching?
+L135502 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I take it she likes the guy.
+L135501 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ You saw that article? God, isn't it awful? My mother sent that in.
+L135500 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Ladies and gentleman, Mrs. Asian Design Major herself: Caitlin Bree!
+L135499 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Randal Graves-scourge of the video renter.
+L135580 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Oh God...
+L135579 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ There's a strange man in our bathroom, and he just raped Caitlin!
+L135576 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Call the police.
+L135575 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I can't believe this! I feel faint...
+L135572 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I didn't just fuck myself! Jesus, I'm going to be sick!
+L135571 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Are you sure somebody was back there?
+L135568 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm not fooling around!  Who went back there?
+L135567 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ This isn't fucking funny, Dante!
+L135566 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm not kidding. I just got back from outside.
+L135565 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Stop this. This isn't funny.
+L135564 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ No.
+L135563 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ We didn't just have sex in the bathroom?
+L135562 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm serious.
+L135559 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Was it you?
+L135558 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Yeah, right. Who was it: Randal?
+L135557 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ It wasn't me.
+L135556 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ And the fact that there weren't any lights made it so...  God! That was so great!
+L135550 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Um... okay.
+L135549 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ When you just lie perfectly still and let me do everything.
+L135548 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Like what?
+L135547 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Promise me it'll always be like that.
+L135544 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Do you always talk weird after you violate women?
+L135543 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I left like an hour ago.
+L135542 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ How'd you get here so fast?
+L135448 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I'm easy, but I'm not that easy.  See you later, handsome.
+L135447 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What happened to the walk and the nakedness?
+L135446 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Well, me I guess.  So, I shall take my leave of you, but I will return in a little while, at which time-yes-I would love to go for dinner and a movie with you.
+L135445 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Who doesn't?
+L135444 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ You're too responsible. But no. I have to go home first. They don't even know I left school. And I should break the disengagement news to my mother, which is going to cause quite a row, considering she loves Sang.
+L135443 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ He went to rent a movie, but he hasn't gotten back yet. Ah, screw it; I'll just lock the store up and leave him a note.
+L135442 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Where'd he go?  I'd have thought he'd be at your side, like an obedient lapdog.
+L135441 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'll ask Randal to close up for me when he gets back.
+L135440 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I can already tell this isn't going to work.
+L135439 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm just kidding.
+L135438 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ You're such an asshole.
+L135437 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ So what are you saying?
+L135436 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I offer you my body and you offer me semantics? He's just a boyfriend, Dante, and in case you haven't gotten the drift of why I came all the way here from Ohio, I'm about to become single again.  And yes-let me placate your ego-you are the inspiration for this bold and momentous decision, for which I'll probably be ostracized at both school and home. You ask me who I choose, I choose you.
+L135435 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ He's your fiancé.
+L135434 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ He's not invited.
+L135433 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Sang.
+L135432 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Sang.
+L135431 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What about Sing?
+L135430 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Jerk. Here I am, throwing myself at you, succumbing to your wily charms, and you call me a slut, in so many words.
+L135429 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I hear that's a rather popular date.
+L135428 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ How about the Caitlin Bree Walk on the Boardwalk, Then Get Naked Somewhere Kind of Private Date?
+L135427 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You have a better suggestion?
+L135426 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ The Dante Hicks Dinner and a Movie Date. I think I've been on that one before.
+L135425 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yes. A real date. Dinner and a movie.
+L135424 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ You mean, on a date?
+L135423 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Let me take you out tonight.
+L135422 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I don't know. Maybe we should just see what happens.
+L135421 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ So... what? So we should just make pretend over the phone that we're dating?
+L135420 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ The key word here is talk, Dante. I think the idea, the conception of us dating is more idyllic than what actually happens when we date.
+L135419 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Cute. Tell me you wouldn't want to go out again. After all the talking we've been doing.
+L135418 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ You work in a market, all right.
+L135417 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Give me a bit more credit. I think it's time we got back together, you know. I'm more mature, you're more mature, you're finishing college, I'm already in the job market...
+L135416 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ It's just the shock of seeing me after three years. Believe me, you'll get over it.
+L135415 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I would like to be your boyfriend, yes.
+L135414 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ You're serious. You want to date again.
+L135413 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ We could introduce them. They might hit it off.
+L135412 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I'm sure Sang and-Veronica?-would like that.
+L135411 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ But can we date?
+L135410 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Good. Stay in that frame of mind.
+L135409 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ So who's asking? I don't want to marry you.
+L135408 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I had to bring you down from that cloud you were floating on. When I say I don't want to get married, I mean just that. I don't want to marry anybody. Not for years.
+L135407 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Jesus, you're caustic.
+L135406 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ If I'm so nuts about you, then why am I having sex with an Asian design major?
+L135405 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I just believe in giving credit where credit is due. And I believe that I'm the impetus behind your failure to wed.
+L135404 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Look how full of yourself you are.
+L135403 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You lie.
+L135402 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ You don't have anything to do with it.
+L135401 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Tell me I don't have something to do with it.
+L135400 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Why, Mr. Hicks-whatever do you mean?
+L135399 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ There's more, isn't there?
+L135398 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I just told you.
+L135397 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ If he's so nice, why aren't you going to marry him?
+L135396 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Stop it. He's a nice guy.
+L135395 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Sang? His name is a past tense?
+L135394 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I don't want to marry him. I don't want to get married now. I'm on the verge of graduation. I want to go to grad school after this. And then I want to start a career. I don't want to be a wife first, and then have to worry about when I'm going to fit in all of the other stuff.  I've come way too far and studied too hard to let my education go to waste as a housewife. And I know that's what I'd become. Sang's already signed with a major firm, and he's going to be pulling a huge salary, which would give me no reason to work, and he's so traditional anyway...
+L135393 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What?
+L135392 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I'm giving him his ring back.
+L135391 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yeah, but not seriously. Christ, you're ready to walk down the aisle- I'd say that constitutes something more than just seeing somebody.
+L135390 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ No, I wasn't. Not really. I told you'd I'd been seeing other people.
+L135389 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ But you were.
+L135388 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ The last thing I needed was for you to think I was hiding something from you.
+L135387 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ And you came here to what? To comfort me?
+L135386 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I love a macho façade. It's such a turn-on.  What smells like shoe polish?
+L135385 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Wreck is a harsh term. Disturbed is more like it. Mildly disturbed even.
+L135384 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Was I right?
+L135383 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Thanks for the vote of confidence.
+L135382 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Then my mother called me this morning and told me the announcement was in the paper. That's when I hopped the train to come back here, because I knew you'd be a wreck.
+L135381 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ How like her.
+L135380 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ The story goes like this: He proposed, and I told him I had to think about it, and he insisted I wear the ring anyway. Then my mother told the paper we were engaged.
+L135379 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ No, you're not really getting married?
+L135378 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ No.
+L135377 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ So you're really getting married?
+L135376 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Because I know you. You prefer drastic measures to rational ones.
+L135375 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ How do you know that?
+L135374 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I would've told you, and you would have stopped calling, like a baby.
+L135373 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Is that what they teach you at that school of yours? Kind of, sort of? Everyone knows about this except me! Do you know how humiliating that is?
+L135372 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Well... kind of, sort of?
+L135371 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ And you said yes?
+L135370 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I know, I'm sorry. But when we started talking... it's like I forgot I had a boyfriend. And then he proposed last month...
+L135369 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You could've broke it to me gently, you know; at least started by telling me you had a boyfriend. I told you I have a girlfriend.
+L135368 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I was going to tell you. But then we were getting along so well, I didn't want to mess it up.
+L135367 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Were you going to tell me or just send me an invitation?
+L135366 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I'm not pregnant.
+L135365 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What, it's worse? You're pregnant with an Asian design major's child?
+L135364 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ It's not what you think.
+L135363 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Very dramatic, I thought.
+L135362 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ You saw it?
+L135361 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I want to talk to you about something, and I don't want to be disturbed.
+L135360 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ You're just going to lock the store like that?
+L135353 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I can't believe you're here.
+L135352 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Train. It took eight hours.
+L135351 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Let's not talk about that. How'd you get home?
+L135350 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ I just saw Alyssa's little sister outside. She was with Rick Derris.
+L135349 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Dante. You've got a customer.
+L135348 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ My God. I haven't seen you since... 
+L135347 +++$+++ u4522 +++$+++ m299 +++$+++ CAITLIN +++$+++ Just now.
+L135346 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ When did you get back?
+L135611 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ She thought it was me.
+L135610 +++$+++ u4523 +++$+++ m299 +++$+++ CORONER +++$+++ Shock trauma. She's going to need years of therapy after this. My question is, How did she come to have sex with the dead man?
+L135609 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What about Caitlin?
+L135606 +++$+++ u4523 +++$+++ m299 +++$+++ CORONER +++$+++ I can't say for certain until we get him back to the lab, but my guess is he was masturbating, his heart seized and he died. That's when the girl found him.  Something smells like shoe polish.
+L135605 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Well he asked me for it!
+L135601 +++$+++ u4523 +++$+++ m299 +++$+++ CORONER +++$+++ No. I place the time of death at about three-twenty.
+L135600 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Was he alive when... Caitlin...
+L135597 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Everything happened at once. I guess I forgot he was back there.
+L135596 +++$+++ u4523 +++$+++ m299 +++$+++ CORONER +++$+++ With this guy locked in?
+L135595 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Nobody. It was closed.
+L135594 +++$+++ u4523 +++$+++ m299 +++$+++ CORONER +++$+++ Then who operated the store?
+L135593 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ We did.
+L135592 +++$+++ u4523 +++$+++ m299 +++$+++ CORONER +++$+++ I thought you just said you played hockey and went to a funeral.
+L135591 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Just me.
+L135590 +++$+++ u4523 +++$+++ m299 +++$+++ CORONER +++$+++ Wait a second? Who was working here today?
+L135586 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Um... I don't know.  What time did hockey end?
+L135585 +++$+++ u4523 +++$+++ m299 +++$+++ CORONER +++$+++ What time was this?
+L135584 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I don't know. He just came in and asked to use the bathroom.
+L135358 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ So I'm told.
+L135357 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Pack of cigarettes.  Congratulations. I saw that announcement in today's paper.  She's marrying an Asian design major.
+L135355 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ To the back, above the oil.  How long are you staying?
+L135354 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Excuse me, do you have...
+L135215 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ This is the last time I ever come here.  And if I ever see you again, I'm gonna break your fucking head open!
+L135214 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I know. I'm sorry. Let me refund your cigarette money, and we'll call it even.
+L135213 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Well, he missed!
+L135212 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Sir! Sir, I'm sorry! He didn't mean it! He was trying to get me.
+L135211 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ I'M GONNA BREAK YOUR FUCKING HEAD! YOU FUCKING JERKOFF!
+L135201 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ They certainly do. Two fifty-five.
+L135200 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ "Space Alien Revealed as Head of Time Warner; Reports Stock Increase."  They print any kind of shit in these papers.
+L135199 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ My point is that you're a clerk, paid to do a job. You can't just do anything you want while you're working.
+L135194 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yes.
+L135193 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Are you open?
+L135017 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Give me a stick, pretty boy! I'll knock your fucking teeth out and pass all over your ass.
+L135016 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ That's easy to say from over here.
+L135015 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ I can whip your ass.
+L135014 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Like you're better!
+L135011 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ I'll assess all I want!
+L135010 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Who are you to make assessments?
+L135009 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ How 'bout covering point!? You suck!
+L135008 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I can pass!
+L135007 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Fuck in a second! This is... Look at you! You can't even pass!
+L135006 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ In a second!
+L135005 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ What the fuck is this?! I want some service!
+L135001 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Fuck that! I'm gonna break my crazy neck on this ladder!
+L135000 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ If you can just wait a few more minutes.
+L134867 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Well, I don't know if sorry can make up for it. I found your remarks highly offensive.
+L134866 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ We're sorry, ma'am. We got a little carried away.
+L134865 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Using filthy language in front of the customers... you should both get fired.
+L134864 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Excuse me?
+L134863 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ This is the last time I come to this place.
+L134294 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Pack of cigarettes.
+L134293 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yeah.
+L134292 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Are you open?
+L135730 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Oooh! Navy Seals!
+L135729 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What am I worried about?  He'll probably be glad I started the ball rolling. All he ever did was complain about her anyway. I'm just looking out for his best interests.  I mean, that's what a friend does, am I right? I did him a favor.
+L135628 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Yeah.
+L135627 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ You open?
+L135498 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Peptic ulcer.
+L135497 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Cute cat. What's his name.
+L135207 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ So I'm no more responsible for my own decisions while I'm here at work than, say, the Death Squad soldiers in Bosnia?
+L135206 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ I saw one, one time, that said the world was ending the next week. Then in the next week's paper, they said we were miraculously saved at the zero hour by a Koala-fish mutant bird. Crazy shit.
+L135198 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What's your point?
+L135197 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Pack of cigarettes.
+L135185 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Annoying Customer.
+L135184 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Pack of cigarettes.  Cute cat. What's its name?
+L135182 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Are you open?
+L135181 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I work in a shitty video store. I want to go to a good video store so I can rent a good movie.
+L134939 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Lenin's Tomb.
+L134938 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ Awww, he's so cute. What's his name?
+L134934 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Hey, neither did ET; but that was a great movie, right?
+L134933 +++$+++ u4524 +++$+++ m299 +++$+++ CUSTOMER +++$+++ This doesn't even have Burt Reynolds in it.
+L134932 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ All right, now if you're really feeling dangerous tonight, then Smokey and the Bandit Three is the movie you must rent.
+L135032 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ We get... what... twelve minutes of game, and it's over? Fuck! Fuck! Fuck! Fuck!!  I'm not even supposed to be here today!
+L135031 +++$+++ u4536 +++$+++ m299 +++$+++ SANFORD +++$+++ Shit!
+L135028 +++$+++ u4536 +++$+++ m299 +++$+++ SANFORD +++$+++ I thought Redding had like three balls!
+L135027 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You only brought one ball?!
+L134986 +++$+++ u4536 +++$+++ m299 +++$+++ SANFORD +++$+++ Hey man, I hear Caitlin's marrying an Asian drum major.
+L134985 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ All right. Jesus, you fuckers are pushy.
+L134979 +++$+++ u4536 +++$+++ m299 +++$+++ SANFORD +++$+++ What responsibility? You're closing the fucking store to play hockey.
+L134978 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I've got a responsibility here. I can't let everybody grab free drinks.
+L134977 +++$+++ u4536 +++$+++ m299 +++$+++ SANFORD +++$+++ What do you care? Hey, what smells like shoe polish?
+L134976 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ So? So nobody's going to want to pay for these Gatorades.
+L134975 +++$+++ u4536 +++$+++ m299 +++$+++ SANFORD +++$+++ So?
+L134974 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ If you grab a Gatorade, then everybody's going to grab one.
+L134973 +++$+++ u4536 +++$+++ m299 +++$+++ SANFORD +++$+++ Dante, let me grab a Gatorade.
+L135792 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I'm gone. I'll talk to you tomorrow.
+L135791 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Get the fuck outta here already.
+L135790 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Do you need a hug or something? 'Cause I would have no hang-ups about hugging you... you know, you being a guy and all. Just don't knead my ass when you do it.
+L135789 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ To say the least.
+L135788 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Helluva day.
+L135787 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ No thanks. I'll take care of it. We've got a lot of shit to talk about.
+L135786 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ All right. Good luck with Veronica. If you want, I can talk to her, you know, and explain...
+L135785 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'll call you. Let you know.
+L135784 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You wanna grab something to eat tomorrow night... after I get out of here?
+L135783 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm calling out. Going to hit the hospital-see how Caitlin is. Then try to see Veronica.
+L135782 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Same time. What about you?
+L135781 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Do you work tomorrow?
+L135780 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Got one. Just pulled up.
+L135779 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You need a ride?
+L135778 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I threw out the stuff that got broken. The floor looks clean.
+L135777 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Fuck you. Fuck you, pal. Listen to you trying to pass the buck again. I'm the source of all your misery. Who closed the store to play hockey? Who closed the store to attend a wake? Who tried to win back an ex- girlfriend without even discussing how he felt with his present one? You wanna blame somebody, blame yourself.  "I'm not even supposed to be here today."  You sound like an asshole. Whose choice was it to be here today? Nobody twisted your arm. You're here today of your own violation, my friend. But you'd like to believe that the weight of the world rests on your shoulders-that the store would crumble if Dante wasn't here. Well, I got news for you, jerk: This store would survive without you. Without me either. All you do is overcompensate for having what's basically a monkey's job: You push fucking buttons. Any moron can waltz in here and do our jobs, but you're obsessed with making it seem so much more fucking important, so much more epic than it really is. You work in a convenience store, Dante. And badly, I might add. And I work in a shitty video store.  Badly, as well.  You know, that guy Jay's got it right- he has no delusions about what he does. Us?  We like to make ourselves seem so much better than the people that come in here, just looking to pick up a paper or-God forbid- cigarettes. We look down on them, as it we're so advanced.  Well, if we're so fucking advanced, then what are we doing working here?
+L135776 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You get my slapped with a fine, you fight with the customers and I have to patch everything up. You get us chased out of a funeral by violating a corpse. To top it all off, you ruin my relationship. What's your encore? Do you anally rape my mother while pouring sugar in my gas tank?  You know what the real tragedy is? I'm not even supposed to be here today!
+L135775 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Hermaphrodites! I rented it so we could watch it together!
+L135774 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Unless you're out renting videos at other video stores.
+L135773 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ It's not like I'm miles away.
+L135772 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Which means the video store is ostensibly closed.
+L135771 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ To talk to you.
+L135770 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You were over half an hour late. Then all you do is come over here.
+L135769 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Like ten after.
+L135768 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What time did you get to work today?
+L135767 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ How do you figure?
+L135766 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What don't you do?  Randal, sometimes it seems like the only reason you come to work is to make my life miserable.
+L135765 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ No, really. What did I do that was so wrong?
+L135764 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Why do I say that?  Randal... forget it.
+L135763 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Why do you say that?
+L135762 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Oh please! I'm surprised I didn't kill you.
+L135761 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You still didn't have to choke me.
+L135760 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Jesus.
+L135759 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You were saying how you couldn't initiate change yourself, so I figured I'd help you out.
+L135758 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Thanks.
+L135757 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I thought I was doing you a favor.
+L135756 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Why the fuck did you tell Veronica that I was going to dump her for Caitlin?
+L135755 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You didn't have to choke me.
+L135754 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ It's hard to swallow.
+L135753 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ The swelling's not so bad. But the FDS stings.  How's your neck?
+L135752 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ How's your eye?
+L135666 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Point is-I'm not the kind of person that disrupts things in order to shit comfortably.
+L135665 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Lovely story.
+L135664 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ My mother told me once that when I as three, my potty lid was closed, and instead of lifting it, I chose to shit my pants.
+L135663 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ So you'll continue being miserable all the time, just because you don't have the guts to face change?
+L135662 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Jesus H. Christ, I can't!
+L135661 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Who're you kidding? You can so.
+L135660 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I can't, all right! Jesus, would you leave me alone? I can't make changes like that in my life. If I could, I would-but I don't have the ability to risk comfortable situations on the big money and the fabulous prizes.
+L135659 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Make them change.
+L135658 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What do you want me to say? Yes, I suppose some of the things you're saying may be true. But that's the way things are; it's not going to change.
+L135657 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Melodrama coming from you seems about as natural as an oral bowel movement.
+L135656 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Caitlin and I can't be together. It's impossible.
+L135655 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What? The dead guy?  She'll get over fucking the dead guy. Shit, my mom's been fucking a dead guy for thirty years; I call him Dad.
+L135654 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You're wrong. Things happened today, okay? Things that probably ruined my chances with Caitlin.
+L135653 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Am I right or what?
+L135652 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ ...If I wasn't such a fucking coward.  It must be so great to be able to simplify everything the way you do.
+L135651 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ If you want Caitlin, then face Veronica, tell her, and be with Caitlin. If you want Veronica, be with Veronica. But don't pine for one and fuck the other. Man, if you weren't such a fucking coward...
+L135650 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Leave me alone.
+L135649 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You date Veronica because she's low maintenance and because it's convenient. Meanwhile, all you ever do is talk about Caitlin. You carry a torch for a girl you dated in high school-in high school for God's sake! You're twenty-two!
+L135648 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Leave her out of this.
+L135647 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ It's the same thing with Veronica.
+L135646 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Thank you. Why don't you go back to the video store?
+L135645 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I'm satisfied with my situation for now. You don't hear me bitching. You, on the other hand, have been bitching all day.
+L135644 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Oh, like your life's any better?
+L135643 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You're comfortable. This is a life of convenience for you, and any attempt to change it would shatter the pathetic microcosm you've fashioned for yourself.
+L135642 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Leave me alone.
+L135641 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ It is. You just up and quit. There are other jobs, and they pay better money. You're bound to be qualified for at least one of them. So what's stopping you?
+L135640 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ As if it's that easy.
+L135639 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ All right, if you hate this job and the people, and the fact that you have to come in on your day off, then quit.
+L135638 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What responsibility?
+L135637 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ It's true. You'll sit there and blame life for dealing a cruddy hand, never once accepting the responsibility for the way your situation is.
+L135636 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Fuck you.
+L135635 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I'm talking about this thing you have... this inability to improve your situation in life.
+L135634 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What are you talking about?
+L135633 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Yeah, you should shit or get off the pot.
+L135632 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I should shit or get off the pot.
+L135631 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You should shit or get off the pot.
+L135630 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I was born.
+L135629 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ That's all bullshit. You know what the real problem here is?
+L135626 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ My life is in the shitter right about now, so if you don't mind, I'd like to stew a bit.
+L135625 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Thirty-seven.
+L135624 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm stuck in this pit, earning less than slave wages, working on my day off, dealing with every backward fuck on the planet, the goddamn steel shutters are locked all day, I smell like shoe polish, I've got an ex- girlfriend who's catatonic after fucking a dead guy, and my present girlfriend has sucked thirty-six dicks.
+L135623 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Have some chips; you'll feel better.
+L135622 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Why do I have this life?
+L135621 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ This life?
+L135620 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ This life.
+L135619 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What? What's with you? You haven't said anything for like twenty minutes. What the hell is your problem?
+L135589 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I think four.
+L135588 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What time did we go to the funeral?
+L135587 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Around three or something.
+L135582 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ WOULD YOU SHUT THE FUCK UP?  WHO THE FUCK IS IN THE BATHROOM?
+L135581 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ She said she did all the work.
+L135574 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Shut the fuck up!
+L135573 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You just fucked a total stranger?
+L135546 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Could be.
+L135545 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Maybe the Asian design major slipped her some opium?
+L135541 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Fuck you.
+L135540 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I love your sexy talk. It's so... kindergarten: Poo-poo; wee-wee.
+L135539 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I told her that. She said she didn't need any. Why don't you join her, man. Make a little bathroom bam-bam.
+L135538 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ There's no lights back there.
+L135537 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Bunch of savages in this town.  Hey, Caitlin's in the back. You might want to see if she's okay; she's been back there a long time.
+L135536 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Who eats cock?
+L135496 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'll read the book.
+L135495 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ All right, but you're missing out. Chicks with dicks.
+L135494 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I might be leaving early to go out with Caitlin, in which case you'll have to close the store tonight.
+L135493 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You want me to bring the VCR over here so we can watch this?
+L135492 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ In my absence, try not to sell cigarettes to any newborns.
+L135491 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You're a snake.
+L135490 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ No! Don't bring it up. I don't want to think about that now. Let me enjoy this hour of bliss. I'll think about all of that later. In the meantime, nobody mentions the V word.
+L135489 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Hey, what about Veronica?
+L135488 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ This is my way of spitting water at life.
+L135487 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What happened to title dictates behavior?
+L135486 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Watch the store while I go home and change.
+L135485 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I feel so ineffectual. Is there anything I can do for you?
+L135484 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ She went home, she's getting ready, and we're going out.
+L135483 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Wow. You've had quite an evening.
+L135482 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm not.
+L135481 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You're kidding.
+L135480 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ She's not going to marry that guy. She went home to tell her mother.
+L135479 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What did she say?
+L135478 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm not. She just left.
+L135477 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Now I know you're lying.
+L135476 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ No. I'm happy because Caitlin came to see me.
+L135475 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You're happy to get a fine?
+L135474 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm happy.
+L135473 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You're happy?
+L135472 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Because I'm happy.
+L135471 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Then why aren't you like screaming at me right now?
+L135470 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I swear. I couldn't make this kind of hell up.
+L135469 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You're lying.
+L135468 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Because I'm here.
+L135467 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Then how come you got the fine?
+L135466 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ As opposed to the hundreds of other children you let buy cigarettes whenever you work here.
+L135465 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Holy shit. That girl?
+L135464 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Little girl. Maybe five years old?
+L135463 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Really?
+L135462 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I don't; you did.
+L135461 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I thought you never sold cigarettes to kids.
+L135460 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Living proof.
+L135459 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I didn't think they even enforced this.
+L135458 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You're bullshitting.
+L135457 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Five hundred dollars.
+L135456 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ No way!
+L135455 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I got fined for selling cigarettes to a minor.
+L135454 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I like to expand my horizons.
+L135453 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ And this is what you rented?
+L135452 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Hermaphroditic porn. Starlets with both organs. You should see the box: Beautiful women with dicks that put mine to shame.
+L135451 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What'd you rent?  Best of Both Worlds?
+L135450 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Get to work.
+L135225 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I know I'm your hero.
+L135224 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Please, get the hell out of here.
+L135223 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I like to think I'm a master of my own destiny.
+L135222 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You're a danger to both the dead and the living.
+L135221 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ If title dictated my behavior, as a clerk serving the public, I wouldn't be allowed to spit a mouthful of water at that guy. But I did, so my point is that people dictate their own behavior. Hence, even though I'm a clerk in this video store, I choose to go rent videos at Big Choice.  Agreed?
+L135220 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What?
+L135219 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ And two, to make a point: title does not dictate behavior.
+L135218 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Jesus!
+L135217 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Two reasons: one, I hate when the people can't shut up about the stupid tabloid headlines.
+L135216 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What the fuck did you do that for?
+L135209 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Not yet. 
+L135208 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ That's stretching it. You're not being asked to slay children or anything.
+L135205 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Exactly.
+L135204 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ The reasons you won't let me borrow your car is because I have a title and a job description, and I'm supposed to follow it, right?
+L135203 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What?
+L135202 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ So your argument is that title dictates behavior?
+L135196 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ It's going to have to do for now, considering that it's my car that's up for request.  Can I help you?
+L135195 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You know what? I don't think I care for your rationale.
+L135192 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ There's a difference. Those were obligations. Obligations that could not have been met at any later date. Now renting videos-that's just gratuitous, not to mention illogical, considering you work in a video store.
+L135191 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I see. So playing hockey and attending wakes-these practices are standard operating procedure.
+L135190 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ We are employees of Quick Stop Convenience and RST video, respectively. As such, we have certain responsibilities which-though it may seem cruel and unusual-does include manning our posts until closing.
+L135189 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ If you must.
+L135188 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ May I be blunt with you?
+L135187 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Let me borrow your car.
+L135186 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Can you imagine being halfway decent to the customers at least some of the time?
+L135180 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You work in a video store!
+L135179 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What's that for?
+L135178 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You want to rent a movie.
+L135177 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I want to rent a movie.
+L135176 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Why should I loan you my car?
+L135175 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Fine. Just lend me your car.
+L135174 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I don't want to talk to you.
+L135173 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Let me borrow your car.
+L135163 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Just... go! Go open the video store.
+L135162 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ So they'll put her back in! It's not like it's gonna matter if she breaks something!
+L135161 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Her fucking body fell out!
+L135160 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ So the casket fell over! Big deal!
+L135159 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Does anyone ever knock over a casket on purpose?
+L135158 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I was just leaning on it! It was an accident!
+L135157 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You knocked the fucking casket over, for Chrissakes!
+L135156 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I'm telling you, it wasn't my fault!
+L135155 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I can't fucking believe you!!
+L135154 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Nobody's there. It's four o'clock on a Saturday. How many people ever come to the store at four on a Saturday?
+L135153 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I can't help it. At least when we were playing hockey outside, I could see if anyone wanted to go in.
+L135152 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Listen to you.
+L135151 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I know it was a bad idea to close the store.
+L135149 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I never tried it.
+L135148 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yeah. Like you said, you know. I guess everyone tries it, sooner of later.
+L135147 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What, your dick?
+L135146 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You know.
+L135145 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Reach what?
+L135144 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I could never reach.
+L135143 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Yeah, but at what a price.
+L135142 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ He made it, hunhh?
+L135141 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Balls resting on his lips.
+L135140 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ His dick was in his mouth?
+L135139 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ My cousin? My aunt found him. On his bed, doubled over himself with his legs on top. Dick in his mouth. My aunt freaked out. It was a mess.
+L135138 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Who found him?
+L135137 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ No, because you won't admit to it. As if a guy's a fucking pervert because he tries to go down on himself. You're as curious as the rest of us, pal. You've tried it.
+L135136 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Because I never tried to suck my own dick?
+L135135 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Yeah sure. You're so repressed.
+L135134 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ No!
+L135133 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Come on. Haven't you ever tried to suck your own dick?
+L135132 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Oh, my god.
+L135131 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I swear.
+L135130 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Stop it.
+L135129 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Bible truth.
+L135128 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Shut the hell up.
+L135127 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ He broke his neck trying to suck his own dick.
+L135126 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ That's embarrassing?
+L135125 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Broke his neck.
+L135124 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ How'd he die?
+L135123 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ That's nothing compared to how my cousin Walter died.
+L135122 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ An embarrassing way to die.
+L135121 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ An embolism in a pool.
+L135120 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Twenty-two; same as us.
+L135119 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ She was pretty young, hunhh?
+L135118 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Thanks for putting me in a tough spot. You're a good friend.
+L135117 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You were saying?
+L135116 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Exactly, which means I can't close it for another hour so we can both go to a wake.
+L135115 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You just closed the store to play hockey on the roof!
+L135114 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I can't close the store.
+L135113 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I'm going with you.
+L135112 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm not taking you to this funeral.
+L135111 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ She meant nothing to you either until I told you she died.
+L135110 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ She meant nothing to you!
+L135109 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ If you go, I go.
+L135108 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Don't be an asshole. Somebody has to stay with the store.
+L135107 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ But I love gatherings. Isn't it ironic?
+L135106 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You hate people.
+L135105 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I'm not missing what's probably going to be the social event of the season.
+L135104 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Stop it. This is beneath even you.
+L135103 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ True, but do you know how many people are going to be there? All of our old classmates, to say the least.
+L135102 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You hardly knew her!
+L135101 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Wait, wait, wait. Has it occurred to you that I might bereaved as well?
+L135100 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You've gotta watch the store. I have to go to this.
+L135099 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ One night only. She's buried in the morning.
+L135098 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Shit. What about tomorrow?
+L135097 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Paulsen's Funeral Parlor. The next show is at four.
+L135096 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What!?
+L135095 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ It's today.
+L135094 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Why not?
+L135093 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ No, you're not.
+L135092 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm gonna go to her wake.
+L135091 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You've had sex with a dead person.
+L135090 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Number six.
+L135089 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Correct me if I'm wrong, but wasn't she one of the illustrious twelve?
+L135088 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I haven't seen her in almost two years.
+L135087 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ She was swimming at the YMCA pool when it happened. Died mid-backstroke.
+L135086 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Jesus.
+L135085 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Embolism in her brain. Yesterday.
+L135084 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ How? When?
+L135083 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Sanford's brother dates her cousin. He found out this morning.
+L135082 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Oh, my god.
+L135081 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ No, I'm serious.
+L135080 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yeah, right.
+L135079 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Julie Dwyer died.
+L135078 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I still can't believe Caitlin's getting married.
+L135077 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You know what Sanford told me? 
+L135076 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ "It's not like we're gonna sell out."
+L135075 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ After an exhausting game like that I can believe it.
+L135074 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Exactly. They drank it all.
+L135073 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What happened to all the Gatorade?
+L135072 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Gatorade.
+L135071 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Bitch, bitch, bitch. You want something to drink? 
+L135070 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Randal, twelve minutes is not a game! Jesus, it's barely a warm-up!
+L135069 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Hockey's hockey. At least we got to play.
+L135068 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ One ball!! They come all the way here... I close the damn store... for one ball!
+L135067 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Helluva game!
+L134994 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Then where're we gonna play?
+L134993 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ We're not playing in the street.
+L134992 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Look who you're asking here. How're we gonna block off the street?
+L134991 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I don't know. You going to lock the video store?
+L134990 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Are you gonna lock the store?
+L134988 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Can we not talk about this?
+L134987 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Design major.
+L134981 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ At least let me maintain some semblance of managerial control here.
+L134980 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ He's blunt, but he's got a point.
+L134972 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I just want to play hockey like I was scheduled to.
+L134971 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ No argument here. Insubordination rules.
+L134970 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I told him I had a game today. It's his own fault.
+L134969 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I've gotta tell you, my friend: this is one of the ballsiest moves I've ever been privy to. I never would have thought you capable of such blatant disregard of store policy.
+L134968 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Pull my laces tighter.
+L134964 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You've got a customer.
+L134963 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ At least we're stuck here together.
+L134962 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I can't believe I'm going to miss the game!
+L134961 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ See? There you go again.
+L134960 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Sorry.
+L134959 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Don't yell at me, pal.
+L134958 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Would you shut the hell up with that shit? It's not helping.
+L134957 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Because you buckled.
+L134956 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm going to miss the game.
+L134955 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ The fact that I'm right about your buckling?
+L134954 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You know what pisses me off the most?
+L134953 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Yes, you do. You always back down. You assume blame that isn't yours, you come in when called as opposed to enjoying your day off, you buckle like a belt.
+L134952 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I don't back down.
+L134951 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ That seems to be the leitmotif in your life; ever backing down.
+L134950 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I know.
+L134949 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I heard you apologize. Why? You have every right in the world to be mad.
+L134948 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What?
+L134947 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Why'd you apologize?
+L134946 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ FUCK!
+L134945 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ So, what-you're stuck here all day?
+L134944 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Not a fucking word! Slippery shit!
+L134943 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ He didn't mention it when he called you this morning?
+L134942 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Can you believe this?!
+L134941 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Vermont?
+L134937 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ The best Burtless movie ever made.
+L134936 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Smokey Three: thumbs up, am I right?
+L134935 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Can you come next door? I gotta make a phone call.
+L134913 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Shut up!  Yes, I've calmed down, I'm still not happy about it, but I've been able to deal.
+L134912 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Thirty-seven!
+L134904 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Veronica!
+L134903 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Jesus, you got a one-track mind. It's always Caitlin, Caitlin, Caitlin...
+L134902 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Because my ex-girlfriend is getting married.
+L134901 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Why not?
+L134900 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ No.
+L134886 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ All of them.
+L134885 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Which ones?
+L134884 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You know who I can do without? I could do without the people in the video store.
+L134883 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ The women that go through every gallon of milk looking for a later date. As if somewhere-beyond all the other gallons-is a container of milk that won't go bad for like a decade.
+L134882 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ The milkmaids?
+L134881 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ The milkmaids.
+L134880 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Let's hear it.
+L134879 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ It's not really anyone per se, it's more of separate groupings.
+L134878 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ How can you lie like that? Why don't you vent? Vent your frustration. Come on, who pisses you off?
+L134877 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ There aren't.
+L134876 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Liar! Tell me there aren't customers that annoy the piss out of you on a daily basis.
+L134875 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What for? They don't bother me if I don't bother them.
+L134874 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You gotta loosen up, my friend. You'd feel a hell of a lot better if you'd rip into the occasional customer.
+L134873 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm gonna hear it tomorrow.
+L134872 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Who cares? That lady's an asshole. Everybody that comes in here is way too uptight. This job would be great if it wasn't for the fucking customers.
+L134871 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Why do you do things like that? You know she's going to come back and tell the boss.
+L134862 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ The jizz-mopper's job is to clean up the booths afterward, because practically everybody shoots a load against the window, and I don't know if you know or not, but cum leaves streaks if you don't clean it right away.
+L134861 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Can we talk about this later?
+L134860 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Think of the weirdest, craziest shit you'd like to see chicks do.  These chicks do it all. They insert things into any opening in their body... any opening.  He's led a very sheltered life.
+L134859 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What kind of show?
+L134858 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Oh, it's great. You step into this little booth and there's this window between you and this naked woman, and she puts on this little show for like ten bucks.
+L134857 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I guess not.
+L134856 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Nudie booth. You've never been in a nudie booth?
+L134855 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Nudie booth?
+L134854 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ He's the guy in those nudie-booth joints who cleans up after each guy that jerks off.
+L134853 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What's a jizz-mopper?
+L134852 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You know how much money the average jizz-mopper make per hour?
+L134851 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Did you ever notice all the prices end in nine? Damn, that's eerie.
+L134833 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'll give him five more minutes then I'm calling the cops. I don't need this, man. I'm not even supposed to be here today.
+L134832 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ It's not like you laid the eggs yourself.
+L134831 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ He said it was important to have standards. He said nobody has pride anymore.
+L134830 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What did he say?
+L134829 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I told him that and he yelled at me.
+L134828 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Why doesn't he just mix and match?
+L134827 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Obviously not. Look at all the cartons that didn't make the grade.
+L134826 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ The quest isn't going well?
+L134825 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Each egg has to be perfect.
+L134824 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Perfect dozen.
+L134823 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ He said he has to find a perfect dozen.
+L134822 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What's he looking for?
+L134820 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ This guy is going through all of the eggs. Look.
+L134819 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ She's in here?
+L134818 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Wait.
+L134817 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You'll never believe what this unruly customer just said...
+L134774 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ All those innocent contractors hired to do a job were killed- casualties of a war they had nothing to do with.  All right, look-you're a roofer, and some juicy government contract comes your way; you got the wife and kids and the two-story in suburbia-this is a government contract, which means all sorts of benefits. All of a sudden these left-wing militants blast you with lasers and wipe out everyone within a three-mile radius.  You didn't ask for that. You have no personal politics. You're just trying to scrape out a living.
+L134773 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ All right, so even if independent contractors are working on the Death Star, why are you uneasy with its destruction?
+L134772 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Exactly. In order to get it built quickly and quietly they'd hire anybody who could do the job. Do you think the average storm trooper knows how to install a toilet main?  All they know is killing and white uniforms.
+L134771 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Not just Imperials, is what you're getting at.
+L134770 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ A construction job of that magnitude would require a helluva lot more manpower than the Imperial army had to offer. I'll bet there were independent contractors working on that thing: plumbers, aluminum siders, roofers.
+L134769 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ So?
+L134768 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ The second time around, it wasn't even finished yet. They were still under construction.
+L134767 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ And the second time around...?
+L134766 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ So when they blew it up, no prob. Evil is punished.
+L134765 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Basically.
+L134764 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Well, the thing is, the first Death Star was manned by the Imperial army- storm troopers, dignitaries-the only people onboard were Imperials.
+L134763 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ And you figured it out?
+L134762 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Something just never sat right with me the second time they destroyed it. I could never put my finger on it-something just wasn't right.
+L134761 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Compliments of Lando Calrissian.
+L134760 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ And the second one was still being built when they blew it up.
+L134759 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Luke blew it up. Give credit where it's due.
+L134758 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Now the first one they built was completed and fully operational before the Rebels destroyed it.
+L134757 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yeah.
+L134756 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ So they build another Death Star, right?
+L134755 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ There's more?
+L134754 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You know what else I noticed in Jedi?
+L134751 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I think they were Catholics.
+L134750 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ The only problem is that at no point in the series did I ever hear Leia or any of the rebels declare a particular religious belief.
+L134749 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ More or less.
+L134748 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Hence, the Empire was a fascist theocracy, and the rebel forces were therefore battling religious persecution.
+L134747 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ It would stand to reason, yes.
+L134746 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Then wouldn't that logically mean that it's a theocracy? If the head of the Empire is a priest of some sort, then it stands to reason that the government is therefore one based on religion.
+L134745 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yeah.
+L134744 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Now, he's in charge of the Empire. The Imperial government is under his control. And the entire galaxy is under Imperial rule.
+L134743 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I guess.
+L134742 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Well, he's like the pope for the dark side of the Force. He's a holy man; a shaman, kind of, albeit an evil one.
+L134741 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ How do you mean?
+L134740 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Right, the Emperor. Now the Emperor is kind of a spiritual figure, yes?
+L134739 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ The Emperor.
+L134738 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ All right, Vader's boss...
+L134737 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What's that?
+L134736 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ There was something else going on in Jedi. I never noticed it until today.
+L134735 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Empire had the better ending: Luke gets his hand cut off, and finds out Vader's his father; Han gets frozen and taken away by Boba Fett.  It ends on such a down note. And that's life-a series of down endings. All Jedi had was a bunch of Muppets.
+L134734 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Blasphemy.
+L134733 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Empire.
+L134732 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Which did you like better: Jedi or The Empire Strikes Back.
+L134731 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Didn't you hear me? Caitlin really is getting married.
+L134730 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Return of the Jedi.
+L134729 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Me pulling a can off some moron's fist.
+L134728 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You know what I just watched?
+L134727 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Do you know that article is accurate? Caitlin's really getting married!
+L134659 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You, Veronica, Caitlin...  ...and Caitlin's fiancé.
+L134658 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ All four?
+L134657 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Then I think all four of you had better sit down and talk it over.
+L134656 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I think it's safe to say yes.
+L134655 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Caitlin's on the same wave-length?
+L134654 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I think the arguments Veronica and I are having are some kind of manifestation of a subconscious desire to break away from her so that I can pursue the possibility of a more meaningful relationship with Caitlin.
+L134653 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What about Veronica?
+L134652 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ ...and she's looking to me for support. And I think that this is leading our relationship to a new level.
+L134651 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ No, no, I'm listening. She's leaving college, and...?
+L134650 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm talking to myself here.
+L134649 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Oh shit, I've got to place an order.
+L134648 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ They are. When she calls me now, she's a different person-she's frightened and vulnerable. She's about to finish college and enter the real world. That's got to be scary for anyone.
+L134647 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You think things would be any different now?
+L134646 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm serious. Aside from the cheating, we were a great couple.  That's what high school's all about-algebra, bad lunch, and infidelity.
+L134645 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Oh yeah.
+L134644 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Because there was a lot of good in our relationship.
+L134643 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ In light of this lurid tale, I don't see how you could even romanticize your relationship with Caitlin-she broke your heart and inadvertently drove men to deviant lifestyles.
+L134642 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ It takes different strokes to move the world.
+L134641 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ That's frightening.
+L134640 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ The two moved to Idaho together after graduation. They raise sheep.
+L134639 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Chess team Allan Harris?!
+L134638 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Allan Harris.
+L134637 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Your mother.
+L134636 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Interesting postscript to that story: Do you know who wound up going with Brad Michaelson in the other dark bedroom?
+L134635 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ That girl was vile to you.
+L134634 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Great story, isn't it?
+L134633 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Oh, my God.
+L134632 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ She was supposed to meet Brad Michaelson in a bedroom. She picked the wrong one. She had no idea I was even at the party.
+L134631 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What do you mean?
+L134630 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I hit the lights and she freaks. Turns out she thought I was Brad Michaelson.
+L134629 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ That's not cheating. People say crazy shit during sex. One time, I called this girl "Mom."
+L134628 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ She called me Brad.
+L134627 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ She called you Brad?
+L134626 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ In the middle of it, she calls me Brad.
+L134625 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ That's cheating?
+L134624 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Party at John K's-senior year. I get blitzed and pass out in his bedroom. Caitlin comes in and dives all over me.
+L134623 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Eight and a half?
+L134622 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Eight and a half.
+L134621 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Chick only made you nuts. She cheated on you how many times?
+L134620 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Five years.
+L134619 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Chick's nuts about you. How long did you date Caitlin?
+L134618 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Seven months.
+L134617 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I'm going to offer you some advice, my friend: let the past be the past. Forget Caitlin Bree. You've been with Veronica for how long now?
+L134616 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You win.
+L134615 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I'll bet the most frequent topic of arguments is Caitlin Bree.
+L134614 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I guess it's not really fighting. She just wants me to leave here, go back to school, get some direction.
+L134613 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What do you two fight about?
+L134612 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ One fight a day with Veronica is about all I can stomach, thanks.
+L134611 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Did you tell Veronica?
+L134610 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ She called me.
+L134609 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You called Caitlin again?
+L134608 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You don't want to know.
+L134606 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I wanted to use your car.
+L134605 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Why?
+L134604 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Who was on your phone this morning at about two-thirty? I was trying to call for a half an hour.
+L134603 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ No, thanks.
+L134602 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Want something to drink? I'm buying.
+L134601 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I can't stand a voyeur. I'll be back.
+L134600 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Don't screw with it. It makes us look suspicious.
+L134599 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I'm a firm believer in the philosophy of a ruling class, especially since I rule.  Is the Pelican flying?
+L134598 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Shocking abuse of authority.
+L134597 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Some guy just came in refusing to pay late fees. He said the store was closed for two hours yesterday.  I tore up his membership.
+L134593 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Go open the sore.
+L134592 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What smells like shoe polish?
+L134591 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ He assured me that he'd be here by twelve.
+L134590 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What time do you have to stay till?
+L134589 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Shit, if I'd known you were working, I would've come even later.
+L134588 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ That's what I said.
+L134587 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Bunch of savages in this town.
+L134586 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Someone jammed gum in the locks.
+L134585 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Why are the shutters closed?
+L134584 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ The boss called. Arthur fell ill.
+L134583 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ What the hell are you doing here? I thought you were playing hockey at one.
+L134582 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You're late.
+L135308 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Jesus Christ, what next?
+L135307 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ I'm surprised you never found out about it, Dante. Everybody in school knew-even in my class.
+L135302 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ THE GLADES MOTEL?
+L135301 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ I still remember Caitlin telling us about that time you two went to that motel-the one with the mirrors and the hot tub in the room.
+L135295 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ Caitlin used to talk about him all the time.
+L135294 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You know him?
+L135278 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ Yep. I remember you got caught in my parents' room with Caitlin once.
+L135277 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You're Alyssa's sister? Heather?
+L135276 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ I'm her sister.
+L135275 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Caitlin Bree. Yeah?
+L135274 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ You remember Alyssa Jones? She hung out with...
+L135273 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Do I know you?
+L135263 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I don't have love handles.
+L135262 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ He's got those love handles.
+L135248 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I know I can bench more than that!
+L135247 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ I'd say about sixty, seventy-tops.
+L135240 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Thirty-fire.
+L135239 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ Just the paper.
+L135238 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yes.
+L135237 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ Are you open?
+L135327 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Forget it. I don't want to deal with a guy that sells cigarettes to a five-year-old.  Can I offer you a ride somewhere?
+L135326 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ But I didn't sell cigarettes to any kids! Hey!
+L135306 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Hey man, that was a long time ago. Don't let it get to you.
+L135305 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What? When? When did all this shit happen?
+L135300 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I... I don't believe this...
+L135299 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ All the time. That girl was like a rabbit.
+L135298 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Wait a second!  You used to sleep with Caitlin Bree? While I was dating her?
+L135291 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ While you two were dating in high school. We're talking four, five years ago, back when I drove a Trans- Am.
+L135290 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What?
+L135287 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ To you?
+L135286 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ No, she's getting married.
+L135285 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Oh man! Hey, you still going out with her?
+L135284 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ How do you know that?
+L135283 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ And your name is Dante Hicks? You went to high school with her? You played hockey?
+L135282 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yeah?
+L135281 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Pretty girl, about this girl's height- dark hair-gorgeous body?
+L135280 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yeah.
+L135279 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Did you say Caitlin Bree?
+L135257 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ See? You're ashamed. You know you're out of shape. Take my card.  I can help you tone that body up in no time. Get you on an aerobics and free-weights program.
+L135256 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Oh for God's sake!
+L135246 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I don't know.
+L135245 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ How much can you bench?
+L135244 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I am not.
+L135236 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ No fat, but no tone either. You don't get enough exercise.
+L135235 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What are you talking about? There's no fat on this body.
+L135234 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Yes, they are. You're out of shape.
+L135233 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ They are not.
+L135232 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Oh, I do. You made the same noise when you reached across the counter for my cash. Your muscles are thin and sadly underutilized.
+L135231 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I don't think so.
+L135230 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ I don't think so. That was a grunt; a deep inhalation of oxygen to aid in the stretching of muscles. I'm a trainer. I know what that sound signifies: you're out of shape.
+L135229 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I didn't strain. I sighed.
+L135228 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ I heard you strain when you put the milk in the bag. That milk only weighs about seven pounds.
+L135227 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Excuse me?
+L135226 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Sounds to me like somebody needs to hit the gym.
+L135713 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ I don't know. She was senile and shit. Used to piss herself all the time. C'mon Silent Bob.
+L135712 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Meaning?
+L135711 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ I've had girlfriends, but all they wanted from me was weed and shit.  Shit, my grandma used to say, "Which is better: a good plate with nothing on it..." No, wait. I fucked up. She said "What's a good-looking plate with nothing on it?"
+L135710 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ She's my girlfriend.
+L135709 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Damn. She sure goes out of her way.
+L135708 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I jacked the car up. All she did was loosen the nuts and put the tire on.
+L135707 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ I don't know dude. That Caitlin chick's nice. But I see that Veronica girl doing shit for you all the time. She brings you food, she rubs your back... Didn't I see her change your tire one day?
+L135706 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Maybe.
+L135705 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ And what-you were gonna dump her to date that Caitlin chick?
+L135704 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Lasagne.
+L135703 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Is she that girl who's down here all the time? She came here today carrying a plate of food.
+L135702 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Veronica.
+L135701 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Don't you already have a girlfriend?
+L135700 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ We were going to start again, I think.
+L135699 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ You used to go out with her?
+L135698 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Knock it off. That used to be my girlfriend.
+L135697 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Probably saw that Caitlin chick. I know I felt like beatin' it when I saw her.  Come here, bitch! You like this? Is this what you want? Hunhh?
+L135696 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I don't know. I wasn't watching.
+L135695 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ That's fucked up. Yo, I heard he was jerkin' off.
+L135694 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ He died in the bathroom.
+L135693 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Hey, man, what happened with that old guy?
+L135692 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I can't believe you just rolled a joint in here.
+L135691 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ So why do you sell it for so much more? I'll tell you why-because people come here and they're like "A dollar eighty for soda? I should get it at Food City. But I don't feel like driving there. I'll just buy it here so I don't have to drive up there." That's exploiting a weakness, too, isn't it?
+L135690 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ So.
+L135689 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ At Food City it's ninety-nine cents, plus tax.
+L135688 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ A dollar sixty-nine, plus tax.
+L135687 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ All right. How much is Pepsi here?
+L135686 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You sell to people that can't stay away from an addiction.
+L135685 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ What's that mean?
+L135684 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ The difference is you exploit a weakness.
+L135683 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ And these aren't my drugs-I just sell them.
+L135682 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ It's not my store.
+L135681 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Relax brother. What I mean is that you sell the stuff in this store at the highest prices around. A dollar seventy-nine for wraps-what's that shit?
+L135680 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ How do you figure... HEY! You can't roll a joint in here!
+L135679 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ I work, just like you. You're more of a crook than I am, dude.
+L135678 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Nothing personal.
+L135677 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Listen to you. Oh shit. "Oh, I don't hang out with drug dealers."
+L135676 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ With you? I don't think so.
+L135675 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Wanna come to this party tonight? There's gonna be some pussy there, man!
+L135674 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I should start.
+L135673 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ We get off about the same time every night. We should hang out.  You get high?
+L135672 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ A half hour.
+L135671 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Pay the good man.  Don't you close soon?
+L135670 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ One seventy-nine.
+L135669 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Hell yes, whatever that means. Now I'm gonna head over to Atlantic, drink some beers, get ripped, and- please God-get laid.  E-Z Wider, one-and-a-halfs.
+L135668 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Done poisoning the youth for the day?
+L135667 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Noinch, noinch, noinch-smoking weed, smoking weed! Doing coke!  Drinking beers!  A pack of wraps, my good man. It's time to kick back, drink some beers, and smoke some weed!
+L135169 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ I'm not dealing.
+L135168 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ How many times I gotta tell you not to deal outside the store.
+L135167 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Yeah, you cock-smoking clerk.
+L135166 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Go open the video store.
+L135026 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ 'Bout the biggest pair you ever seen! NYNNE!!
+L135025 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Are there any balls down there?!
+L134562 +++$+++ u4529 +++$+++ m299 +++$+++ IMPATIENT CUSTOMER +++$+++ Don't hurt yourself. I'm going to Big Choice Video instead.
+L134561 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ If you'll just tell me the title of your rental choice, I'll have him hold it for you.
+L134560 +++$+++ u4529 +++$+++ m299 +++$+++ IMPATIENT CUSTOMER +++$+++ Such a wiseass. But go ahead. Crack wise. That's why you're jockeying a register in some fucking local convenience store instead of doing an honest day's work.  I got no more time to bullshit around waiting for that sonofabitch.  You make sure this gets back. The number's eight-twelve-Wynarski. And I wanted to get a damn movie, too.
+L134559 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Actually, that's his night job.
+L134558 +++$+++ u4529 +++$+++ m299 +++$+++ IMPATIENT CUSTOMER +++$+++ What the hell is that? Resting his eyes! It's not like he's some goddamned air traffic controller!
+L134557 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ No; he was probably just resting his eyes.
+L134556 +++$+++ u4529 +++$+++ m299 +++$+++ IMPATIENT CUSTOMER +++$+++ You calling me a liar?
+L134555 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm sure he wasn't sleeping.
+L134554 +++$+++ u4529 +++$+++ m299 +++$+++ IMPATIENT CUSTOMER +++$+++ It's not like it's a demanding job. I'd like to get paid to sit on my ass and watch TV. The other day I walked in there and that sonofabitch was sleeping.
+L135065 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ Uh, can I have the other one. The one below this one. They show more in that one.
+L135064 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Here. Now leave me alone.
+L135063 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ Yeah. I like the cartoons. They make me laugh. They draw the biggest titties.
+L135062 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ The porno mags?
+L135061 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ No, I mean the ones there. Behind the counter.
+L135060 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I said go ahead.
+L135059 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ Can I trouble you for one of those magazines?
+L135058 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You know, you probably could've been home, already, in the time it's taken you to get in there.
+L135057 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ Thanks, young man. You've got a heart of gold.
+L135056 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Jesus... go ahead.
+L135055 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ Say, young fella, you know I hate to bother you again, but can I take a paper or something back there... to read?  It usually takes me a while, and I like to read while it's going on.
+L135054 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ Thanks son, you're a lifesaver.
+L135053 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yeah, okay. Go ahead.
+L135052 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ Aw, c'mon boy. What's the difference? You said yourself the stuff that's there now is rough.
+L135051 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yeah, but...
+L135050 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ Rough, eh? Oh, that stuff rips hell out of my hemorrhoids. Say, would you mind if I took a roll of the soft stuff back there. I see you sell the soft stuff.
+L135049 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Actually, it is kind of rough.
+L135048 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ I'm not asking about the color. I mean is it rough or cottony?
+L135047 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ The white kind.
+L135046 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ Thanks son. Say-what kind of toilet paper you got back there?
+L135045 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Uh... sure. Go ahead. It's back through the cooler.
+L135044 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ I understand, but can I use it. I'm not that young anymore, so I'm kind of... you know... incontinent.
+L135043 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Um... yeah, but it's for employees only.
+L135042 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ Well, that depends. Do you have a bathroom?
+L135041 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Oh... Can I help you?
+L135040 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ No, he got hit by a bus.
+L135039 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ And he got cancer by chewing fluorescent bulb glass...?
+L135038 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ I had a friend that used to chew glass for a living. In the circus.
+L135037 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ So I'm told.
+L135036 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ You know the insides of those are filled with stuff that gives you cancer.
+L135035 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm trying.
+L135034 +++$+++ u4534 +++$+++ m299 +++$+++ OLD MAN +++$+++ Be careful.
+L135750 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Fuck you.
+L135749 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Veronica, I love you...
+L135748 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ And having him tell me... that was just the weakest move ever. You're spineless.
+L135747 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Randal...?
+L135746 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Of course not; not now! You're caught, and now you're trying to snake out of doing what you wanted to do. Well, I won't let you. I want you to follow through on this, just so you can find out what a fucking idiot you are. And when she dumps you again- and she will, Dante, I promise you that-when she dumps you again, I want to laugh at you, right in your face, just so you realize that that was what you gave up our relationship for!  I'm just glad Randal had the balls to tell me, since you couldn't.
+L135745 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I don't want to go back with her...
+L135744 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ You don't know what you want, but I'm not going to sit here anymore holding your hand until you figure it out! I've encouraged you to get out of this fucking dump and go back to school, to take charge of your life and find direction. I even transferred so maybe you would be more inclined to go back to college if I was with you. Everyone said it was a stupid move, but I didn't care because I loved you and wanted to see you pull yourself out of this senseless funk you've been in since that whore dumped you, oh so many years ago. And now you want to go back to her so she can fuck you over some more?
+L135743 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I don't want Caitlin...
+L135742 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ You're damn right it's not like that! Because I won't let it be like that! You want your slut? Fine!  The slut is yours!
+L135741 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Veronica... I... it's not like that anymore... I mean, it was never really like that...
+L135740 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Explain what? How you were waiting until the time was right, and then you were going to dump me for her?
+L135739 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Would you let me explain...
+L135738 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I'm not the one trying to patch things up with my ex, sneaking around behind your back! And if you think that thirty-seven dicks are a lot, then just wait, mister: I'm going to put the hookers in Times Square to shame with all the guys I go down on now!
+L135737 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ A couple...?
+L135736 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ And then you pull that shit this morning, freaking out because I've gone down on a couple guys!
+L135735 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ It was only a few times...
+L135734 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ You've been talking to her on the phone for weeks!
+L135733 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What're you talking about?
+L135732 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ If you didn't want to go out with me anymore, why didn't you just say it? Instead, you pussyfoot around and see that slut behind my back!
+L135731 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What the fuck did you do that for?
+L134931 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Good.  I'll see you when you close, then. Enjoy the lasagne.
+L134930 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Sure.
+L134929 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Eight. But I have a sorority meeting till nine, so I'll be back before you close. Can we go out and get some coffee?
+L134928 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What time do you get finished?
+L134927 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Bummer, Well, I've gotta head back for the one-thirty class.
+L134926 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I called a locksmith and he said the earliest he could get here it tomorrow.
+L134925 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ You couldn't get these shutters open?
+L134924 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Thank you for the lasagne.
+L134923 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Thank you for being rational.
+L134922 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ ...it isn't there. Yes.
+L134921 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ The ostrich syndrome: if you don't see it...
+L134920 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ And he said most of them are college guys, I've never met or seen.
+L134919 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ And that made you feel better?
+L134918 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ At least he wasn't thirty-six.
+L134917 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ What did he say?
+L134916 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I had to tell someone. He put it into perspective.
+L134915 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ You had to tell him.
+L134911 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I'm glad you've calmed down a bit.  Hi, Randal.
+L134910 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Really?  You're the best.
+L134909 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Peanut butter and jelly with the crusts cut off. What do you think it is? It's lasagne.
+L134908 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What is it?
+L134907 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Lit 101 got canceled, so I stopped home and brought you some lunch.
+L134906 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ He still hasn't shown up. Why aren't you in class?
+L134549 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Goodbye, Dante.
+L134548 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Thirty-seven. I just can't...
+L134547 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I'm going to school. Maybe later you'll be a bit more rational.
+L134546 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Every time I kiss you now I'm going to taste thirty-six other guys.
+L134545 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I love you. Don't feel sick.
+L134544 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I feel sick.
+L134543 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Because going down it's a big deal! I used to like a guy, we'd make out, and sooner or later I'd go down on him. But I only had sex with the guys I loved.
+L134542 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Well... why did you have to suck their dicks? Why didn't you just sleep with them, like any decent person?!
+L134541 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ ...And one of those guys was you! The last one, I might add, which-if you're too stupid to comprehend- means that I've been faithful to you since we met! All the other guys I went with before I met you, so, if you want to have a complex about it, go ahead!  But don't look at me like I'm the town whore, because you were plenty busy yourself, before you met me!
+L134540 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ A few?
+L134539 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Yeah, I went down on a few guys...
+L134538 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ No, but you sucked enough dick!
+L134537 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Hey listen, jerk! Until today you never even knew how many guys I'd slept with, because you never even asked. And then you act all nonchalant about fucking twelve different girls. Well, I never had sex with twelve different guys!
+L134536 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Hey! Where are you going?!
+L134534 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Thirty-seven?!  My girlfriend sucked thirty-seven dicks!
+L134533 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I'm going to class.
+L134532 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'M THIRTY-SEVEN?
+L134531 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Um. Thirty-seven.
+L134530 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What the hell is that anyway, "something like thirty-six?" Does that include me?
+L134529 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Lower your voice!
+L134528 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ WHAT? SOMETHING LIKE THIRTY-SIX?
+L134527 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Something like thirty-six.
+L134526 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Well...?
+L134525 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ This is different. This is important. How many?!
+L134524 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ All right! Shut up a second and I'll tell you! Jesus! I didn't freak like this when you told me how many girls you fucked.
+L134523 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ HOW MANY?
+L134522 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Let it go...
+L134521 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ How many dicks have you sucked?!
+L134520 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Dante...
+L134519 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ How many?
+L134518 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Please calm down.
+L134517 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I did understand! I understand that you slept with three different guys, and that's all you said.
+L134516 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I'm sorry, Dante. I thought you understood.
+L134515 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Oh my God-I feel so nauseous...
+L134514 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Because I did only sleep with three guys! That doesn't mean I didn't just go with people.
+L134513 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Oh my God! Why did you tell me you only slept with three guys?
+L134512 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ We went out a few times. We didn't have sex, but we fooled around.
+L134511 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You sucked his dick!
+L134510 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ That's because I never had sex with him!
+L134509 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ But... but you said you only had sex with three guys! You never mentioned him!
+L134508 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Yeah. How do you think I know he liked...
+L134507 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You sucked that guy's dick?
+L134506 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I'm serious...
+L134505 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yeah, right.
+L134504 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Sylvan? No; I snowballed him.
+L134503 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Like you said-she snowballed him.
+L134502 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Why do you say that?
+L134501 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Sylvan can be talked into anything.
+L134500 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ He gets off on it.
+L134499 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ He requested this?
+L134498 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ After he gets a blow job, he likes to have the cum spit back into his mouth while kissing. It's called snowballing.
+L134497 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What do you mean?
+L134496 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Sylvan made it up. It's a blow job thing.
+L134495 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Why do you call him that?
+L134482 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Unlike you, I have a class in forty- five minutes.
+L134481 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Shit! Why are we getting up?
+L134480 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Jesus, would you stop? You make my head hurt when you talk about this.
+L134479 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ It's important to me, Dante. You have so much potential that just goes to waste in this pit. I wish you'd go back to school.
+L134478 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Can't we ever have a discussion without that coming up?
+L134477 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ To school. There's a seminar about getting back into a scholastic program after a lapse in enrollment.
+L134476 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Where?
+L134475 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I want you to come with me on Monday.
+L134474 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ All right. Name it.
+L134473 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ After dropping a bombshell like that, you owe me. Big.
+L134472 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ They put up the least amount of struggle.
+L134471 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Vegetable meaning paraplegic.
+L134470 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Animal, vegetable, or mineral.
+L134469 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I am. And that's why you should feel like a pig. You men make me sick. You'll sleep with anything that says yes.
+L134468 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Wow. That's great. That's something to be proud of.
+L134467 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ John Franson and Rob Stanslyk.
+L134466 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ No; who were the three, besides me?
+L134465 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ You!
+L134464 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Who?
+L134463 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I'm not the pig you are.
+L134462 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You've only had sex with three different people?
+L134461 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Three including you.
+L134460 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Three?
+L134459 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Three.
+L134458 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Do I get to hit you after you tell me?
+L134457 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Do you know how many different men I've had sex with?
+L134456 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Why'd you hit me?
+L134455 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ You're a pig.
+L134454 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What the hell was that for?
+L134453 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Including you; yes.
+L134452 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ You've slept with twelve different girls?
+L134451 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Twelve.
+L134450 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ It better be up to and including me.
+L134449 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Including you?
+L134448 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ We might have; I don't remember. How many?
+L134447 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ How many different girls? Didn't we already have this discussion once?
+L134446 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ How many girls have you slept with?
+L134445 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ How many what?
+L134444 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ How many?
+L134443 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ These are my opinions based on my experiences with the few women who were good enough to sleep with me.
+L134442 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ You were making a generalization about "broads!"
+L134441 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ It wasn't directed at you. I was making a broad generalization.
+L134440 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I'm astonished to hear you trivialize my role in our sex life.
+L134439 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I touched a nerve.
+L134438 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I'm insulted. Believe me, Don Juan, it takes more than that to get a guy off. Just "being there"-as you put it-is not enough.
+L134437 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Something wrong?
+L134436 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ And I actually date you?
+L134435 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ A girl makes a guy cum, it's standard. A guy makes a girl cum, it's talent.
+L134434 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Oh, you think so?
+L134433 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Now, making a woman cum... therein lies a challenge.
+L134432 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ How flattering.
+L134431 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Making a male climax is not all that challenging: insert somewhere close and preferably moist; thrust; repeat.
+L134430 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ "Be there?"
+L134429 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Women? Women, as lovers, are all basically the same: they just have to be there.
+L134428 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ You show some bedroom proficiency, and you think you're gods. What about what we do for you?
+L134427 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ How do you figure?
+L134426 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Typically male point of view.
+L134425 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yeah, right. You can't get enough of me.
+L134424 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I was kidding.
+L134423 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Really?
+L134422 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Ooh! Can we?!
+L134421 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Why? You wanna have sex or something?
+L134420 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Do you think anyone can see us down here?
+L134419 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I had to use shoe polish to make that sign. The smell won't come off.
+L134418 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Honesty through paranoia. Why do you smell like shoe polish?
+L134417 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Theoretically, people see money on the counter and nobody around, they think they're being watched.
+L134416 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ How do you know they're taking the right amount of change? Or even paying for what they take?
+L134415 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Why do you say that?
+L134414 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ You're trusting.
+L134413 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Like three dollars in mixed change and a couple of singles. People only get the paper of coffee this time of morning.
+L134412 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ How much money did you leave up there?
+L134406 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Oh, be real! Would you... Would you please hug me?  I just went through a very traumatic experience and I haven't been having the best day so far. Now come on.
+L134405 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ She called you, didn't she?
+L134404 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What? What is that?
+L134403 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Who's defensive?  Just... Would you just hug me?! All right? Your boyfriend was accosted by an angry mob, and he needs to be hugged.
+L134402 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Who's fighting? Why are you so defensive?
+L134401 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Nothing! Jesus! I gotta fight with you now?
+L134400 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ What were you doing?
+L134399 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Hunhh? Nothing.
+L134398 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ What were you doing up so late?
+L134397 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I don't know-like two-thirty, three.
+L134396 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ You look bushed. What time did you get to bed?
+L134395 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Bunch of savages in this town.
+L134394 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ You're kidding.
+L134393 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Somebody jammed the locks with gum.
+L134392 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Why don't you open the shutters and get some sunlight in here?
+L134391 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm only here until twelve, then I'm gone. The boss is coming in.
+L134390 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Why did you agree to come in then?
+L134389 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yes! And I'm going to play like shit because I didn't get a good night's sleep!
+L134388 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Don't you have a hockey game at two?
+L134387 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ The guy got sick and couldn't come in.
+L134386 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I know. I stopped by your house and your mom said you left at like six or something.
+L134385 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm not even supposed to be here today!
+L134384 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ All I'm saying is that if you're unhappy you should leave.
+L134383 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Please, Veronica. Last thing I need is a lecture at this point.
+L134382 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Then quit. You should be going to school anyway...
+L134381 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I hate this fucking place.
+L134380 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ At least they weren't lit.
+L134379 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Too hard?! I don't have enough indignities in my life-people start throwing cigarettes at me!
+L134378 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ All right, stupid question. But don't you think you're taking this a bit too hard?
+L134725 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ A word of advice: Sometimes it's best to let those hard to reach chips go.
+L134724 +++$+++ u4533 +++$+++ m299 +++$+++ MAN +++$+++ It stings a little.
+L134723 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'll throw this out. Precautionary measure.
+L134722 +++$+++ u4533 +++$+++ m299 +++$+++ MAN +++$+++ Thanks. I thought I was gonna have to go to the hospital.
+L134721 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I think it's coming now...
+L134720 +++$+++ u4533 +++$+++ m299 +++$+++ MAN +++$+++ They oughta put some kind of warning on these cans, like they do with cigarettes.
+L134719 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Maybe we should soap your hand or something.
+L134718 +++$+++ u4533 +++$+++ m299 +++$+++ MAN +++$+++ Usually I just turn the can upside down.
+L134717 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ You hold the counter and I'll pull.
+L135325 +++$+++ u4537 +++$+++ m299 +++$+++ SUITED MAN +++$+++ The due date is on the bottom. This summons cannot be contested in any court of law. Failure to remit before the due date will result in a charge of criminal negligence, and a warrant will be issued for your arrest. Have a nice day.
+L135324 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I didn't sell cigarettes to any kids! I swear!
+L135321 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ But I didn't sell cigarettes to any kid!
+L135320 +++$+++ u4537 +++$+++ m299 +++$+++ SUITED MAN +++$+++ An angry mother called the state division of taxation and complained that the man working at Quick Stop Convenience sold her five-year-old daughter cigarettes today at around four o'clock. Division of taxation calls the State Board of Health, and they send me down here to issue a fine. You say you were working all day, hence the fine is yours.  It's doubled due to the incredibly young age of the child.
+L135319 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yeah, but I didn't sell cigarettes to any kids!
+L135318 +++$+++ u4537 +++$+++ m299 +++$+++ SUITED MAN +++$+++ You said you were here all day?
+L135317 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I didn't do that!
+L135316 +++$+++ u4537 +++$+++ m299 +++$+++ SUITED MAN +++$+++ According to the NJAC-the New Jersey Administrative Code, section eighteen, five, slash twelve point five-a fine of no less than two hundred and fifty dollars is to be leveled against any person reported selling cigarettes to a minor.
+L135315 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What are you talking about?
+L135312 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ WHAT?
+L135311 +++$+++ u4537 +++$+++ m299 +++$+++ SUITED MAN +++$+++ A fine, for five hundred dollars.
+L135310 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What's this?
+L135309 +++$+++ u4537 +++$+++ m299 +++$+++ SUITED MAN +++$+++ Here you go.
+L135270 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Dante Hicks. Why? What is this about?
+L135269 +++$+++ u4537 +++$+++ m299 +++$+++ SUITED MAN +++$+++ Can I have your name please?
+L135268 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I'm not out of shape!
+L135265 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ I've been here since six o'clock this morning. Why?
+L135264 +++$+++ u4537 +++$+++ m299 +++$+++ SUITED MAN +++$+++ Were you working here at about four o'clock?
+L135261 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ What?
+L135260 +++$+++ u4537 +++$+++ m299 +++$+++ SUITED MAN +++$+++ Excuse me, but have you been here all day?
+L135259 +++$+++ u4525 +++$+++ m299 +++$+++ DANTE +++$+++ Yes.  I'm not out of shape.
+L135258 +++$+++ u4537 +++$+++ m299 +++$+++ SUITED MAN +++$+++ You open?
+L134714 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Wait, there's more.  Olaf: sing... 
+L134713 +++$+++ u4526 +++$+++ m299 +++$+++ GIRL 1 +++$+++ Did he say "making fuck?"
+L134705 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ You gotta hear him sing.  Olaf, "Berserker!"
+L134704 +++$+++ u4526 +++$+++ m299 +++$+++ GIRL 1 +++$+++ That doesn't sound metal.
+L134701 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ I don't know, man. He's a fucking character.
+L134700 +++$+++ u4526 +++$+++ m299 +++$+++ GIRL 1 +++$+++ What did he say?
+L134696 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Swear.  Olaf, metal!
+L134695 +++$+++ u4526 +++$+++ m299 +++$+++ GIRL 1 +++$+++ No way!
+L134692 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ He knows some English, but he can't not speak it good like we do.
+L134691 +++$+++ u4526 +++$+++ m299 +++$+++ GIRL 1 +++$+++ He only speaks Russian?
+L134685 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ I swear to God. Silent Bob, am I lying?
+L134684 +++$+++ u4526 +++$+++ m299 +++$+++ GIRL 1 +++$+++ No way.
+L134683 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Check this out, he's from Russia.
+L134682 +++$+++ u4526 +++$+++ m299 +++$+++ GIRL 1 +++$+++ He's your cousin?
+L134681 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Nothing. Just hanging out with Silent Bob and his cousin.
+L134680 +++$+++ u4526 +++$+++ m299 +++$+++ GIRL 1 +++$+++ Scumbag. What are you doing?
+L134679 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Oh shit, look who it is. The human vacuum.
+L134708 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ English.  Come on, "Berserker!" Girls think sexy.
+L134707 +++$+++ u4527 +++$+++ m299 +++$+++ GIRL 2 +++$+++ Does he sing in English or Russian?
+L134706 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Come on, man, "Berserker!"
+L134703 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ He's got his own band in Moscow. It's called "Fuck Your Yankee Blue Jeans" or something like that.
+L134702 +++$+++ u4527 +++$+++ m299 +++$+++ GIRL 2 +++$+++ He really wants to play metal?
+L134694 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ He's moving to the big city next week. He wants to be a metal singer.
+L134693 +++$+++ u4527 +++$+++ m299 +++$+++ GIRL 2 +++$+++ Is he staying here?
+L134688 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ I don't fucking know. What am I, his biographer?  Olaf, what part of Russia are you from?
+L134687 +++$+++ u4527 +++$+++ m299 +++$+++ GIRL 2 +++$+++ What part of Russia?
+L135329 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ I like the way you think.
+L135328 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ Sure. How about the beach?
+L135323 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ That's sick, Dante.
+L135322 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ To a five-year-old kid? What a scumbag!
+L135304 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ She said one time you set up a tent on the beach and you guys did it in the middle of this big rainstorm.
+L135303 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Holy shit! She told you about that!  Buddy of mine worked there. Said he watched the whole thing. They used to film people at that hotel; nobody knew about it.
+L135297 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ Oh yeah. You were the built older guy with the black Trans and the big...
+L135296 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Really?
+L135293 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Yeah!
+L135292 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ Oh my God! You're Rick Derris?
+L135289 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Shit!  Don't take this the wrong way, but I used to fuck her.
+L135288 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ To an Asian design major.
+L135272 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Because he's out of shape.
+L135271 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ You're Dante Hicks? Oh my God! I didn't even recognize you!
+L135267 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ Oh, I know. If I had to work here all day, I'd be bloated and out of shape, too.
+L135266 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ It's probably from being around all this food every day.
+L135255 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Now feel his.  Roll up your sleeve, chief.
+L135254 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ That's tight. Solid.
+L135253 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Feel that.
+L135252 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ No way!
+L135251 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ I do about three-fifty, four.
+L135250 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ My ex-boyfriend was about his height, but he was much bulkier. He could bench two-fifty, three hundred easy.
+L135249 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ I think the lady called it.
+L135243 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ He is.
+L135242 +++$+++ u4528 +++$+++ m299 +++$+++ HEATHER +++$+++ I don't know. I can't really tell from here.
+L135241 +++$+++ u4538 +++$+++ m299 +++$+++ TRAINER +++$+++ Let me ask you a question: Do you think this guy's out of shape?
+L134814 +++$+++ u4530 +++$+++ m299 +++$+++ INDECISIVE CUSTOMER +++$+++ Screw you!
+L134813 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You'll be missed.
+L134812 +++$+++ u4530 +++$+++ m299 +++$+++ INDECISIVE CUSTOMER +++$+++ Well this is the last time I ever rent here...
+L134811 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I hope it feels so good to be right. There is nothing more exhilarating than pointing out the shortcomings of others, is there?
+L134810 +++$+++ u4530 +++$+++ m299 +++$+++ INDECISIVE CUSTOMER +++$+++ You hope what feels good?
+L134809 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I hope it feels good.
+L134808 +++$+++ u4530 +++$+++ m299 +++$+++ INDECISIVE CUSTOMER +++$+++ I only pointed out that you weren't paying any attention to what I was saying.
+L134807 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Your ruse. Your cunning attempt to trick me.
+L134806 +++$+++ u4530 +++$+++ m299 +++$+++ INDECISIVE CUSTOMER +++$+++ I beg your pardon!
+L134805 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I don't appreciate your ruse, ma'am.
+L134804 +++$+++ u4530 +++$+++ m299 +++$+++ INDECISIVE CUSTOMER +++$+++ I don't think your manager would appreciate...
+L134803 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ No, I wasn't.
+L134802 +++$+++ u4530 +++$+++ m299 +++$+++ INDECISIVE CUSTOMER +++$+++ I just held up the same two movies. You're not even paying attention.
+L134800 +++$+++ u4530 +++$+++ m299 +++$+++ INDECISIVE CUSTOMER +++$+++ Well, how about these two movies? 
+L134799 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I find it's best to stay out of other people's affairs.
+L134798 +++$+++ u4530 +++$+++ m299 +++$+++ INDECISIVE CUSTOMER +++$+++ You've never heard anybody say anything about either movie?
+L135344 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ I'll see you there.
+L135343 +++$+++ u4532 +++$+++ m299 +++$+++ JOHN +++$+++ Yo. I'll see you at that party.  I'll see you there?
+L135342 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ The only place I don't bring my drugs is church. And that ain't till Sunday morning.
+L135341 +++$+++ u4532 +++$+++ m299 +++$+++ JOHN +++$+++ Yo, don't sell all that. 'Cause I'm gonna get the cash and buy it from you at John K's. You're gonna bring it, right?
+L135340 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ My man is deaf.  I'M GOING TO JOHN K'S PARTY!  Neh.
+L135339 +++$+++ u4532 +++$+++ m299 +++$+++ JOHN +++$+++ You're gonna be at John K's party?
+L135338 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ Till ten. Then I'm going to John K's party.
+L135337 +++$+++ u4532 +++$+++ m299 +++$+++ JOHN +++$+++ How long you gonna be here?
+L135336 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ For this kind of hash, you need that kind of cash.
+L135335 +++$+++ u4532 +++$+++ m299 +++$+++ JOHN +++$+++ Yo, I don't have that kind of cash.
+L135334 +++$+++ u4531 +++$+++ m299 +++$+++ JAY +++$+++ That's the price, my brother.
+L135727 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I'm going to have a word with that asshole.
+L135726 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Um, do you think you can give me a lift home tonight?
+L135725 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ After all that I've done for that fuck! And he wants to be with that slut? Fine! He can have his slut!
+L135724 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ He didn't ask me to...
+L135723 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ No, I'm more furious. I'm pissed off. I feel like he's been killing time while he tries to grow the balls to tell me how he really feels, and then he can't even do it!  He has his friend do it for him!
+L135722 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You're not?
+L135721 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I'm not sad.
+L135720 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Don't hold it against him. He just never got Caitlin out of his system. It's not your fault. It's Dante.  I don't know thing one about chicks. Do you want to cry or something? I can leave.
+L135719 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I... I don't know what to say.
+L135718 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Pretty much. All except the latent homosexuality part-that's just my theory.
+L135717 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ And... he told you all of this?
+L134580 +++$+++ u4539 +++$+++ m299 +++$+++ V.A. CUSTOMER +++$+++ All right, asshole, you're on.
+L134579 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Twenty bucks.
+L134578 +++$+++ u4539 +++$+++ m299 +++$+++ V.A. CUSTOMER +++$+++ Twenty bucks?
+L134577 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ I'll bet you twenty bucks you don't get to rent that tape.
+L134576 +++$+++ u4539 +++$+++ m299 +++$+++ V.A. CUSTOMER +++$+++ Like hell you are!
+L134575 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Ain't gonna happen, my friend. I'm getting that tape.
+L134574 +++$+++ u4539 +++$+++ m299 +++$+++ V.A. CUSTOMER +++$+++ Says me. I've been here for half an hour. I'd call that first dibs.
+L134573 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Says who?
+L134572 +++$+++ u4539 +++$+++ m299 +++$+++ V.A. CUSTOMER +++$+++ I have first dibs.
+L134571 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You came for that too? That's the movie I came for.
+L134570 +++$+++ u4539 +++$+++ m299 +++$+++ V.A. CUSTOMER +++$+++ Dental School.
+L134569 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Which one?
+L134568 +++$+++ u4539 +++$+++ m299 +++$+++ V.A. CUSTOMER +++$+++ I would've went to Big Choice, but the tape I want is right there on the wall.
+L134567 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ Man! I hate it when I can't rent videos!
+L134566 +++$+++ u4539 +++$+++ m299 +++$+++ V.A. CUSTOMER +++$+++ I know. I've been here since eleven.
+L134565 +++$+++ u4535 +++$+++ m299 +++$+++ RANDAL +++$+++ You're kidding. It's almost eleven- thirty!
+L134564 +++$+++ u4539 +++$+++ m299 +++$+++ V.A. CUSTOMER +++$+++ The guy ain't here yet.
+L134494 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Bye  That was Snowball.
+L134493 +++$+++ u4541 +++$+++ m299 +++$+++ WILLAM +++$+++ Bye. 
+L134492 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I will. Take it easy.
+L134491 +++$+++ u4541 +++$+++ m299 +++$+++ WILLAM +++$+++ That's cool. Well-you two lovebirds take it easy, all right?
+L134490 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ I just talked to her on Monday. We still hang out on weekends.
+L134489 +++$+++ u4541 +++$+++ m299 +++$+++ WILLAM +++$+++ Do you still talk to Sylvan?
+L134488 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ No, I transferred into Monmouth this year. I was tired of missing him. 
+L134485 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ No, I'm just visiting my man.  Dante, this is Willam Black.  This is Dante Hicks, my boyfriend.
+L134484 +++$+++ u4541 +++$+++ m299 +++$+++ WILLAM +++$+++ Ronnie! How are you? You work here now?
+L134483 +++$+++ u4540 +++$+++ m299 +++$+++ VERONICA +++$+++ Willam!
